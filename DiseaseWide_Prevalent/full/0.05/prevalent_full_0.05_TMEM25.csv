@@ -1,0 +1,61 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+TMEM25,Transmembrane protein 25,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,38153,369,1.34 [1.12-1.60],0.0011967300772452
+TMEM25,Transmembrane protein 25,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,29234,1319,1.13 [1.01-1.27],0.036674523988866
+TMEM25,Transmembrane protein 25,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,39548,148,1.47 [1.16-1.88],0.001664552592474
+TMEM25,Transmembrane protein 25,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,42938,206,1.33 [1.05-1.68],0.0161217062927356
+TMEM25,Transmembrane protein 25,Chapter I Certain infectious and parasitic diseases,Other septicaemia,42864,132,1.52 [1.19-1.94],0.0009269597707791
+TMEM25,Transmembrane protein 25,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,41919,245,1.30 [1.04-1.62],0.018615971343532
+TMEM25,Transmembrane protein 25,Chapter II Neoplasms,"Malignant neoplasm of breast, excluding all cancers (controls excluding all cancers)",20190,584,1.19 [1.01-1.40],0.0423562478798056
+TMEM25,Transmembrane protein 25,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",35622,93,1.46 [1.07-2.01],0.0178368813928421
+TMEM25,Transmembrane protein 25,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),38702,768,1.25 [1.10-1.43],0.0007701416192663
+TMEM25,Transmembrane protein 25,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,43725,121,1.36 [1.01-1.84],0.0423406686958092
+TMEM25,Transmembrane protein 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,40650,205,1.46 [1.19-1.79],0.0002453703528299
+TMEM25,Transmembrane protein 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,40629,184,1.44 [1.15-1.78],0.0011570320120493
+TMEM25,Transmembrane protein 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,41372,927,1.29 [1.14-1.46],4.43171435633144e-05
+TMEM25,Transmembrane protein 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,41346,901,1.27 [1.12-1.44],0.0001576804014938
+TMEM25,Transmembrane protein 25,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",43985,299,1.33 [1.09-1.62],0.0054791368451706
+TMEM25,Transmembrane protein 25,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",44090,217,1.42 [1.14-1.77],0.0015011482271411
+TMEM25,Transmembrane protein 25,Chapter V Mental and behavioural disorders,Alcohol dependence,41620,126,1.37 [1.04-1.82],0.0268849381007321
+TMEM25,Transmembrane protein 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,42936,350,1.29 [1.07-1.55],0.0072725519553987
+TMEM25,Transmembrane protein 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,44101,70,1.72 [1.30-2.28],0.0001722532087865
+TMEM25,Transmembrane protein 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,3783,70,1.92 [1.32-2.79],0.0006096655047322
+TMEM25,Transmembrane protein 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",40388,70,1.70 [1.29-2.23],0.0001744913092897
+TMEM25,Transmembrane protein 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of ear,43203,187,0.70 [0.50-0.99],0.0436899116096372
+TMEM25,Transmembrane protein 25,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,43609,123,1.36 [1.01-1.84],0.0417492966235501
+TMEM25,Transmembrane protein 25,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,29563,97,1.55 [1.21-2.00],0.0006507276219322
+TMEM25,Transmembrane protein 25,Chapter IX Diseases of the circulatory system,Secondary right heart disease,43207,171,1.34 [1.04-1.73],0.0258141956157322
+TMEM25,Transmembrane protein 25,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,43209,173,1.34 [1.04-1.73],0.0242702752577831
+TMEM25,Transmembrane protein 25,Chapter IX Diseases of the circulatory system,Cardiomyopathy,37159,104,1.42 [1.06-1.90],0.0173778492403006
+TMEM25,Transmembrane protein 25,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,25261,759,1.44 [1.27-1.64],1.2852163141241428e-08
+TMEM25,Transmembrane protein 25,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,37219,164,1.34 [1.04-1.72],0.0239709356560005
+TMEM25,Transmembrane protein 25,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,43258,1060,0.82 [0.72-0.95],0.0067594817517165
+TMEM25,Transmembrane protein 25,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",42870,672,0.80 [0.67-0.96],0.0159201609860497
+TMEM25,Transmembrane protein 25,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,39868,1762,0.86 [0.77-0.96],0.0077797475665967
+TMEM25,Transmembrane protein 25,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",41623,1449,0.83 [0.73-0.93],0.002319954506883
+TMEM25,Transmembrane protein 25,Chapter X Diseases of the respiratory system,Asthma,31910,1449,0.83 [0.73-0.94],0.0028199345013466
+TMEM25,Transmembrane protein 25,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",31453,1449,0.83 [0.73-0.94],0.0027572829204573
+TMEM25,Transmembrane protein 25,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",31888,1427,0.82 [0.73-0.93],0.0018505100177189
+TMEM25,Transmembrane protein 25,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,43208,179,1.32 [1.03-1.71],0.0298311800889092
+TMEM25,Transmembrane protein 25,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,44379,280,1.26 [1.02-1.56],0.0313427535089565
+TMEM25,Transmembrane protein 25,Chapter XI Diseases of the digestive system,Inguinal hernia,37382,1041,0.86 [0.74-0.99],0.0333007266905077
+TMEM25,Transmembrane protein 25,Chapter XI Diseases of the digestive system,Diseases of liver,43259,209,1.49 [1.22-1.83],0.0001215594380546
+TMEM25,Transmembrane protein 25,Chapter XI Diseases of the digestive system,Other diseases of liver,43164,114,1.45 [1.09-1.92],0.0094896723687617
+TMEM25,Transmembrane protein 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,31459,491,1.20 [1.02-1.42],0.0295933508169632
+TMEM25,Transmembrane protein 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",44382,247,1.27 [1.02-1.58],0.0360601133975554
+TMEM25,Transmembrane protein 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,33220,2252,1.12 [1.02-1.22],0.0126973934202187
+TMEM25,Transmembrane protein 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,34587,487,1.22 [1.03-1.44],0.0185969097896684
+TMEM25,Transmembrane protein 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,38700,150,1.39 [1.08-1.80],0.0114782590668878
+TMEM25,Transmembrane protein 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,38664,114,1.45 [1.08-1.93],0.01267350277921
+TMEM25,Transmembrane protein 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],38334,183,0.67 [0.47-0.96],0.0290386594779505
+TMEM25,Transmembrane protein 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",38936,785,0.85 [0.72-1.00],0.049165636330313
+TMEM25,Transmembrane protein 25,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,35604,7364,0.94 [0.89-0.99],0.0271565179071846
+TMEM25,Transmembrane protein 25,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,40362,379,1.34 [1.13-1.59],0.0007124041229256
+TMEM25,Transmembrane protein 25,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,40600,86,1.74 [1.36-2.23],1.267164082784763e-05
+TMEM25,Transmembrane protein 25,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,40614,100,1.57 [1.20-2.04],0.0008421580777811
+TMEM25,Transmembrane protein 25,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,39206,138,0.64 [0.43-0.97],0.0339020467517626
+TMEM25,Transmembrane protein 25,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,23836,493,0.80 [0.65-0.99],0.0395853526397455
+TMEM25,Transmembrane protein 25,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,23562,219,0.71 [0.51-0.98],0.0384463713358655
+TMEM25,Transmembrane protein 25,Chapter XIV Diseases of the genitourinary system,Dysplasia of cervi uteri,18175,169,0.64 [0.44-0.94],0.020903021138124
+TMEM25,Transmembrane protein 25,"Chapter XV Pregnancy, childbirth and the puerperium",Other abnormal products of conception,23875,112,1.64 [1.20-2.24],0.0021088281279284
+TMEM25,Transmembrane protein 25,"Chapter XV Pregnancy, childbirth and the puerperium","Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",24175,144,1.38 [1.00-1.91],0.046632039159983
+TMEM25,Transmembrane protein 25,"Chapter XV Pregnancy, childbirth and the puerperium",Pregnancy hypertension,24177,141,1.44 [1.05-1.97],0.024964149660611

@@ -1,0 +1,85 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+SCN4B,Sodium channel subunit beta-4,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,16209,758,1.27 [1.08-1.50],0.0034028744770593
+SCN4B,Sodium channel subunit beta-4,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,15598,231,2.34 [1.77-3.08],1.6148723314318483e-09
+SCN4B,Sodium channel subunit beta-4,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,11383,850,1.83 [1.57-2.14],2.588971397423161e-14
+SCN4B,Sodium channel subunit beta-4,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,16281,74,2.53 [1.53-4.17],0.0002739654682909
+SCN4B,Sodium channel subunit beta-4,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,15876,58,2.78 [1.57-4.93],0.0004430521365696
+SCN4B,Sodium channel subunit beta-4,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,18530,106,1.92 [1.31-2.81],0.0008219956974335
+SCN4B,Sodium channel subunit beta-4,Chapter I Certain infectious and parasitic diseases,Other septicaemia,18492,68,2.09 [1.31-3.32],0.0019240737202894
+SCN4B,Sodium channel subunit beta-4,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",18253,362,1.35 [1.08-1.70],0.008975651089688
+SCN4B,Sodium channel subunit beta-4,Chapter II Neoplasms,"Malignant neoplasm of breast, excluding all cancers (controls excluding all cancers)",8108,316,1.39 [1.08-1.79],0.0096985330042185
+SCN4B,Sodium channel subunit beta-4,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,16776,605,1.54 [1.29-1.83],1.8001980303689464e-06
+SCN4B,Sodium channel subunit beta-4,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,18353,155,1.94 [1.41-2.68],5.24994141196336e-05
+SCN4B,Sodium channel subunit beta-4,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,17933,271,1.60 [1.24-2.07],0.0003005126420856
+SCN4B,Sodium channel subunit beta-4,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,17933,271,1.60 [1.24-2.07],0.0003005126420856
+SCN4B,Sodium channel subunit beta-4,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),15813,439,1.84 [1.50-2.27],8.09176106810266e-09
+SCN4B,Sodium channel subunit beta-4,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,14270,1301,1.30 [1.14-1.48],5.830942228009224e-05
+SCN4B,Sodium channel subunit beta-4,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,17273,114,4.48 [3.24-6.20],1.2604674346065085e-19
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,Peripheral artery disease,18313,134,2.79 [1.99-3.92],3.018398006882093e-09
+SCN4B,Sodium channel subunit beta-4,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,17264,105,4.22 [2.99-5.96],2.5537184263375917e-16
+SCN4B,Sodium channel subunit beta-4,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,17789,630,1.75 [1.48-2.08],9.642595976319854e-11
+SCN4B,Sodium channel subunit beta-4,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,17770,611,1.70 [1.42-2.02],3.181705427112407e-09
+SCN4B,Sodium channel subunit beta-4,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,14121,1152,1.28 [1.12-1.47],0.0004235015281023
+SCN4B,Sodium channel subunit beta-4,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,14035,1066,1.28 [1.11-1.47],0.0007363272734938
+SCN4B,Sodium channel subunit beta-4,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,13011,42,3.73 [2.01-6.93],3.153408778639114e-05
+SCN4B,Sodium channel subunit beta-4,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",13041,72,3.11 [1.98-4.89],8.303902557795002e-07
+SCN4B,Sodium channel subunit beta-4,Chapter V Mental and behavioural disorders,Any mental disorder,16174,432,1.31 [1.07-1.61],0.0093952417557408
+SCN4B,Sodium channel subunit beta-4,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,14207,84,0.49 [0.30-0.82],0.0064843177699469
+SCN4B,Sodium channel subunit beta-4,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,18568,383,1.36 [1.09-1.69],0.0060283154118925
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,Transient ischemic attack,18672,94,2.22 [1.49-3.31],8.224455691516803e-05
+SCN4B,Sodium channel subunit beta-4,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,18466,235,1.55 [1.18-2.04],0.0015668062977413
+SCN4B,Sodium channel subunit beta-4,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,19287,52,4.78 [3.15-7.25],2.2231653952134202e-13
+SCN4B,Sodium channel subunit beta-4,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,2181,52,3.75 [2.44-5.76],1.8031086174987726e-09
+SCN4B,Sodium channel subunit beta-4,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",17158,52,5.34 [3.45-8.25],5.0925937343621603e-14
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,12100,3730,1.32 [1.21-1.45],1.953976414276926e-09
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,18854,82,2.10 [1.35-3.25],0.0009715382861449
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,"Hypertension, essential",12868,2587,1.31 [1.18-1.45],2.097957145046495e-07
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,Hypertension,12893,2612,1.37 [1.24-1.51],9.647243346442438e-10
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",17221,1459,1.34 [1.19-1.51],1.4627361084914615e-06
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,Angina pectoris,16635,873,1.22 [1.05-1.42],0.0089349263524452
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,18772,553,1.45 [1.21-1.74],4.878428662348368e-05
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",16111,349,1.64 [1.31-2.06],2.23130797083174e-05
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,16914,1174,1.37 [1.20-1.56],3.7370751755714512e-06
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,Pulmonary embolism,18667,115,1.77 [1.20-2.60],0.0039751542470135
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,Venous thromboembolism,18875,238,1.52 [1.16-1.99],0.0020738231487687
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,Secondary right heart disease,18661,109,2.15 [1.46-3.17],0.0001009351765912
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,18662,110,2.14 [1.46-3.15],0.0001058006582981
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",10387,106,2.54 [1.67-3.85],1.2887795150951244e-05
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,Cardiomyopathy,14555,62,3.78 [2.36-6.05],3.368078924709177e-08
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,8269,576,1.50 [1.23-1.83],7.803971195637213e-05
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,Other arrhythmias,14571,78,1.90 [1.17-3.08],0.0093419846863639
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,14600,107,2.27 [1.52-3.39],6.408666102027375e-05
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,"Heart failure, strict",18289,247,2.70 [2.11-3.46],3.478880634200043e-15
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",18589,159,1.74 [1.25-2.41],0.000925047417453
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",18616,143,1.75 [1.24-2.46],0.0014398370160669
+SCN4B,Sodium channel subunit beta-4,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,18354,143,2.12 [1.51-2.99],1.7074572045927828e-05
+SCN4B,Sodium channel subunit beta-4,Chapter X Diseases of the respiratory system,Influenza and pneumonia,17540,223,1.93 [1.46-2.55],3.906158867008157e-06
+SCN4B,Sodium channel subunit beta-4,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",17514,197,1.92 [1.43-2.58],1.6566922147771114e-05
+SCN4B,Sodium channel subunit beta-4,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,18604,240,1.55 [1.19-2.03],0.0012953875052637
+SCN4B,Sodium channel subunit beta-4,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,18598,234,1.60 [1.23-2.10],0.0005719279681087
+SCN4B,Sodium channel subunit beta-4,Chapter X Diseases of the respiratory system,Pleural effusion,17288,117,2.49 [1.71-3.64],2.1059966953471546e-06
+SCN4B,Sodium channel subunit beta-4,Chapter X Diseases of the respiratory system,Other diseases of pleura,17414,243,1.89 [1.45-2.46],2.646066129618726e-06
+SCN4B,Sodium channel subunit beta-4,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,18210,114,1.73 [1.20-2.50],0.0035876061806232
+SCN4B,Sodium channel subunit beta-4,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,12725,5388,1.15 [1.06-1.25],0.0007080426387026
+SCN4B,Sodium channel subunit beta-4,Chapter XI Diseases of the digestive system,Inguinal hernia,15539,673,1.32 [1.11-1.57],0.0018615680852566
+SCN4B,Sodium channel subunit beta-4,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,18733,645,1.36 [1.14-1.61],0.00050825686838
+SCN4B,Sodium channel subunit beta-4,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,18621,533,1.40 [1.16-1.69],0.0004194509410664
+SCN4B,Sodium channel subunit beta-4,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,18613,525,1.39 [1.15-1.68],0.0006414793680619
+SCN4B,Sodium channel subunit beta-4,Chapter XI Diseases of the digestive system,Diseases of liver,18881,103,1.78 [1.21-2.62],0.0037206943715852
+SCN4B,Sodium channel subunit beta-4,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",18149,44,2.39 [1.37-4.19],0.0022938126443654
+SCN4B,Sodium channel subunit beta-4,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,18678,231,1.46 [1.11-1.91],0.0072069150312685
+SCN4B,Sodium channel subunit beta-4,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,19230,311,0.71 [0.55-0.91],0.0081816027085154
+SCN4B,Sodium channel subunit beta-4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,12089,147,1.60 [1.13-2.27],0.0087046543017438
+SCN4B,Sodium channel subunit beta-4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,12418,476,1.30 [1.07-1.58],0.009522230018468
+SCN4B,Sodium channel subunit beta-4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",19209,141,1.68 [1.19-2.37],0.0032870408496446
+SCN4B,Sodium channel subunit beta-4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,19214,130,1.74 [1.22-2.49],0.0022930613041169
+SCN4B,Sodium channel subunit beta-4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,12020,78,2.10 [1.38-3.22],0.0006001261981236
+SCN4B,Sodium channel subunit beta-4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",19020,75,2.13 [1.38-3.31],0.0007128765288529
+SCN4B,Sodium channel subunit beta-4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,19001,100,1.73 [1.15-2.61],0.0084907596408205
+SCN4B,Sodium channel subunit beta-4,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,14442,3425,1.27 [1.16-1.38],1.0504925987546045e-07
+SCN4B,Sodium channel subunit beta-4,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,7527,710,1.28 [1.08-1.51],0.0050054092049684
+SCN4B,Sodium channel subunit beta-4,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,16706,200,8.46 [6.34-11.28],1.182980713805787e-47
+SCN4B,Sodium channel subunit beta-4,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,16568,62,2.52 [1.41-4.52],0.0018401081175034
+SCN4B,Sodium channel subunit beta-4,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,19167,64,3.94 [2.53-6.15],1.4855994928506426e-09
+SCN4B,Sodium channel subunit beta-4,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,17257,1009,1.22 [1.06-1.40],0.0064655833762915
+SCN4B,Sodium channel subunit beta-4,Chapter XIV Diseases of the genitourinary system,Urethral stricture,16362,114,1.73 [1.17-2.56],0.0055929646435364

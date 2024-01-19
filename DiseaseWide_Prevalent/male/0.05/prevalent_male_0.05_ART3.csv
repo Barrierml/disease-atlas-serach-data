@@ -1,0 +1,87 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,19739,242,1.89 [1.39-2.57],5.798312644903421e-05
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,15215,815,1.78 [1.50-2.12],7.457502291806402e-11
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,20474,92,3.00 [1.87-4.82],5.4557574484022536e-06
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,20045,52,3.41 [1.79-6.48],0.0001895350633089
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,22608,122,1.85 [1.22-2.81],0.0039563087511575
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter I Certain infectious and parasitic diseases,Other septicaemia,22571,85,2.56 [1.59-4.11],0.0001060560203171
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",18504,53,2.83 [1.56-5.13],0.0006222776928691
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,21054,560,2.46 [2.01-3.00],8.6542991538742e-19
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,23780,67,1.92 [1.11-3.30],0.0190873289873598
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter II Neoplasms,Other benign neoplasms of skin,23705,136,1.54 [1.02-2.32],0.0387708286843563
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,22616,123,2.91 [1.97-4.29],7.095487965203283e-08
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,22254,258,2.75 [2.09-3.61],4.553525194533992e-13
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,22254,258,2.75 [2.09-3.61],4.553525194533992e-13
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),20012,512,1.49 [1.20-1.85],0.0003655957491547
+ART3,Ecto-ADP-ribosyltransferase 3,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,23565,60,2.71 [1.54-4.77],0.000517632304191
+ART3,Ecto-ADP-ribosyltransferase 3,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,18653,1448,1.21 [1.06-1.39],0.0062733929826987
+ART3,Ecto-ADP-ribosyltransferase 3,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,21041,150,4.76 [3.42-6.62],2.62144610409844e-20
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter IX Diseases of the circulatory system,Peripheral artery disease,22460,165,2.01 [1.41-2.86],0.0001094734124847
+ART3,Ecto-ADP-ribosyltransferase 3,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,21025,134,4.56 [3.21-6.49],3.097875523550059e-17
+ART3,Ecto-ADP-ribosyltransferase 3,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,21587,696,1.66 [1.38-1.99],7.141518844051542e-08
+ART3,Ecto-ADP-ribosyltransferase 3,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,21560,669,1.61 [1.34-1.95],5.483952716157404e-07
+ART3,Ecto-ADP-ribosyltransferase 3,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,17256,51,4.91 [2.65-9.08],4.239483526886517e-07
+ART3,Ecto-ADP-ribosyltransferase 3,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",17306,101,4.37 [2.85-6.69],1.3545104660576502e-11
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",23255,261,0.74 [0.54-1.00],0.0473120216383566
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter V Mental and behavioural disorders,Acute alcohol intoxication,21721,78,0.54 [0.31-0.92],0.0243636196220897
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter V Mental and behavioural disorders,"Acute alcohol intoxication, ICD10",23679,78,0.55 [0.32-0.93],0.0268723491677908
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter V Mental and behavioural disorders,"Alcohol abuse, main dg, excluding more controls",19607,78,0.55 [0.32-0.93],0.0267691794387371
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter V Mental and behavioural disorders,Alcohol dependence,21758,115,0.60 [0.38-0.96],0.0325595663303308
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,23481,88,0.57 [0.35-0.94],0.0282450575578351
+ART3,Ecto-ADP-ribosyltransferase 3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,21061,386,1.29 [1.01-1.64],0.0416656880454862
+ART3,Ecto-ADP-ribosyltransferase 3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,22851,254,1.74 [1.31-2.32],0.0001371692463714
+ART3,Ecto-ADP-ribosyltransferase 3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,23421,71,4.98 [3.20-7.75],1.1700392038782386e-12
+ART3,Ecto-ADP-ribosyltransferase 3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,2599,71,5.54 [3.50-8.77],2.64704178777292e-13
+ART3,Ecto-ADP-ribosyltransferase 3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",20893,71,5.37 [3.40-8.48],6.144516995423023e-13
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,16064,3757,1.20 [1.09-1.33],0.0003701662951175
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter IX Diseases of the circulatory system,"Hypertension, essential",16956,2448,1.32 [1.17-1.48],2.7908006947617704e-06
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter IX Diseases of the circulatory system,Hypertension,17003,2495,1.45 [1.29-1.62],2.0100575453827616e-10
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",23625,163,1.55 [1.08-2.22],0.0173795697078109
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",22789,186,1.89 [1.36-2.63],0.0001676561315864
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",22816,168,1.85 [1.31-2.62],0.0005099602125488
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",22904,149,1.91 [1.33-2.76],0.0005032966235447
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,22430,88,2.08 [1.28-3.36],0.0030707899761593
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,22487,145,1.58 [1.07-2.32],0.0207605759482136
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter IX Diseases of the circulatory system,Varicose veins,22679,343,0.73 [0.56-0.95],0.0201644460808135
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter X Diseases of the respiratory system,Influenza and pneumonia,21691,253,1.37 [1.01-1.86],0.0433817823495484
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",21653,215,1.60 [1.15-2.22],0.0050119271121401
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter X Diseases of the respiratory system,Nasal polyp,22481,168,0.58 [0.40-0.84],0.0043673278516839
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,10324,62,0.47 [0.24-0.92],0.026802082287859
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,21290,852,0.84 [0.71-0.99],0.0365711707210839
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter X Diseases of the respiratory system,Early onset COPD,22517,192,0.67 [0.48-0.94],0.0195108571184736
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",22549,224,0.64 [0.47-0.88],0.00554638541188
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",22549,224,0.64 [0.47-0.88],0.00554638541188
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter X Diseases of the respiratory system,Pleural effusion,21500,137,1.86 [1.24-2.79],0.0025573144378036
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter X Diseases of the respiratory system,Other diseases of pleura,21650,287,1.33 [1.00-1.77],0.0494618429105958
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XI Diseases of the digestive system,Hernia,20296,2072,0.84 [0.75-0.95],0.0041789702496877
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XI Diseases of the digestive system,Inguinal hernia,19361,1137,0.83 [0.72-0.97],0.0219144271848634
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,22951,598,1.66 [1.36-2.02],3.837705609681102e-07
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XI Diseases of the digestive system,"Ulcerative colitis (strict definition, require KELA, min 2 HDR)",23695,140,1.91 [1.29-2.81],0.0011706780017165
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XI Diseases of the digestive system,Ulcerative colitis,22493,140,1.97 [1.33-2.92],0.0007265397171475
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",22479,126,2.11 [1.40-3.18],0.0003464341692202
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,22805,452,1.58 [1.26-1.97],7.287728597947315e-05
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,22802,449,1.60 [1.28-2.00],4.561209656521567e-05
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XI Diseases of the digestive system,Diseases of liver,22973,143,1.57 [1.07-2.30],0.0217096604334907
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XI Diseases of the digestive system,Other diseases of liver,22912,82,2.50 [1.57-3.99],0.0001146334334224
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,20666,1494,1.21 [1.06-1.38],0.0048752897771868
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,22213,458,1.30 [1.04-1.63],0.0236371046433075
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,22637,303,1.35 [1.03-1.77],0.032531804665815
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,23560,75,1.73 [1.03-2.89],0.0378740031527436
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,18022,1070,0.77 [0.66-0.90],0.0012838118069388
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",20463,1070,0.76 [0.65-0.88],0.0004157888452113
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,17210,258,0.55 [0.40-0.75],0.000191416388763
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",23694,123,0.64 [0.42-0.98],0.0390964862865303
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,17256,304,0.75 [0.56-0.99],0.0457214155511474
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,23529,35,2.27 [1.09-4.75],0.0287829484713479
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,20817,45,1.95 [1.00-3.80],0.0496009035842745
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],20669,163,0.68 [0.47-1.00],0.047737196672364
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,20617,111,0.64 [0.40-1.00],0.049413347044879
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,20694,188,1.45 [1.03-2.05],0.0327121559133725
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,18263,2388,1.92 [1.72-2.14],8.803472074487639e-32
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,20527,1285,1.24 [1.08-1.43],0.0021626034349064
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,20785,94,4.15 [2.48-6.95],6.39748472409743e-08
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,23278,77,6.34 [4.15-9.70],1.6263329650928026e-17
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,21604,847,1.31 [1.11-1.55],0.0014769854181849
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,21134,377,1.46 [1.14-1.87],0.0024691496326905
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter XIV Diseases of the genitourinary system,Hydrocele,19342,100,1.67 [1.06-2.62],0.0256857605399527
+ART3,Ecto-ADP-ribosyltransferase 3,Chapter VI Diseases of the nervous system,Falls/tendency to fall,21638,550,0.56 [0.46-0.70],1.085437497846537e-07

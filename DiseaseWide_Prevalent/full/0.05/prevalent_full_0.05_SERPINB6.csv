@@ -1,0 +1,70 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+SERPINB6,Serpin B6,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,33818,1592,1.11 [1.03-1.21],0.007707810663233
+SERPINB6,Serpin B6,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,44585,118,1.34 [1.02-1.75],0.0349840803989261
+SERPINB6,Serpin B6,Chapter II Neoplasms,"Malignant neoplasm of colon, excluding all cancers (controls excluding all cancers)",41278,132,0.74 [0.56-0.97],0.0308027365373271
+SERPINB6,Serpin B6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,45988,1596,1.17 [1.08-1.26],6.013943375186813e-05
+SERPINB6,Serpin B6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,49147,396,1.27 [1.10-1.48],0.0012522993280775
+SERPINB6,Serpin B6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,48492,707,1.24 [1.11-1.39],0.0001185006102734
+SERPINB6,Serpin B6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,48492,707,1.24 [1.11-1.39],0.0001185006102734
+SERPINB6,Serpin B6,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),44696,938,1.12 [1.01-1.23],0.0255611872637587
+SERPINB6,Serpin B6,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,39545,100,1.47 [1.10-1.97],0.0098822538847525
+SERPINB6,Serpin B6,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",43126,650,1.18 [1.05-1.33],0.0045165422413393
+SERPINB6,Serpin B6,Chapter V Mental and behavioural disorders,Depression,48553,570,1.17 [1.03-1.32],0.0131071631740558
+SERPINB6,Serpin B6,Chapter V Mental and behavioural disorders,Depression or dysthymia,42613,495,1.21 [1.06-1.38],0.0046017866455277
+SERPINB6,Serpin B6,Chapter VI Diseases of the nervous system,Neurological diseases,44259,2965,1.06 [1.00-1.12],0.0345885449729799
+SERPINB6,Serpin B6,Chapter IX Diseases of the circulatory system,Transient ischemic attack,50084,159,1.31 [1.03-1.65],0.0270752508959524
+SERPINB6,Serpin B6,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",49413,1336,1.12 [1.03-1.21],0.00862362621838
+SERPINB6,Serpin B6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,49841,158,1.31 [1.04-1.66],0.0242154125880214
+SERPINB6,Serpin B6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,49736,439,1.26 [1.09-1.45],0.0014517198797668
+SERPINB6,Serpin B6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,51094,105,1.64 [1.23-2.18],0.0007172291136934
+SERPINB6,Serpin B6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,4406,105,1.61 [1.20-2.17],0.0015823704836196
+SERPINB6,Serpin B6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",46793,105,1.65 [1.24-2.20],0.0005948670421637
+SERPINB6,Serpin B6,Chapter IX Diseases of the circulatory system,"Hypertension, essential",38573,4544,1.09 [1.03-1.15],0.0015419655562894
+SERPINB6,Serpin B6,Chapter IX Diseases of the circulatory system,Hypertension,38640,4611,1.10 [1.04-1.15],0.0005338138560275
+SERPINB6,Serpin B6,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,34189,160,1.91 [1.51-2.41],5.5599449032337363e-08
+SERPINB6,Serpin B6,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",47337,2417,0.91 [0.86-0.98],0.0084302854600757
+SERPINB6,Serpin B6,Chapter IX Diseases of the circulatory system,Angina pectoris,46369,1449,0.88 [0.81-0.96],0.0039966472876377
+SERPINB6,Serpin B6,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,46804,1919,0.91 [0.85-0.98],0.0163290041789969
+SERPINB6,Serpin B6,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,29210,884,0.86 [0.77-0.95],0.0053383330064751
+SERPINB6,Serpin B6,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,42959,188,0.69 [0.55-0.87],0.0014427900400647
+SERPINB6,Serpin B6,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),48784,285,1.22 [1.02-1.45],0.0289122702413501
+SERPINB6,Serpin B6,Chapter IX Diseases of the circulatory system,DVT of lower extremities,48741,242,1.26 [1.04-1.53],0.0173483355591029
+SERPINB6,Serpin B6,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",51323,232,1.29 [1.06-1.56],0.0110102278010532
+SERPINB6,Serpin B6,Chapter IX Diseases of the circulatory system,Varicose veins,49452,953,0.90 [0.81-0.99],0.0277700143097576
+SERPINB6,Serpin B6,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,41256,4144,1.08 [1.03-1.14],0.0019201769786103
+SERPINB6,Serpin B6,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,46224,2030,1.09 [1.02-1.17],0.012111984104613
+SERPINB6,Serpin B6,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",48260,1673,1.08 [1.00-1.16],0.0422057352292394
+SERPINB6,Serpin B6,Chapter X Diseases of the respiratory system,Asthma,36920,1673,1.10 [1.02-1.18],0.0159129618240886
+SERPINB6,Serpin B6,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",36383,1673,1.10 [1.02-1.18],0.0151420393899362
+SERPINB6,Serpin B6,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",36895,1648,1.09 [1.01-1.17],0.0293931430058331
+SERPINB6,Serpin B6,Chapter XI Diseases of the digestive system,Diseases of liver,50118,250,0.81 [0.67-0.99],0.0346605538281239
+SERPINB6,Serpin B6,Chapter XI Diseases of the digestive system,Diseases of the digestive system,48964,635,1.14 [1.02-1.29],0.0268797560482508
+SERPINB6,Serpin B6,Chapter XI Diseases of the digestive system,Intestinal malabsorption,48472,143,1.36 [1.07-1.74],0.0120930470312814
+SERPINB6,Serpin B6,Chapter XI Diseases of the digestive system,Coeliac disease,48446,117,1.45 [1.11-1.90],0.0063709413681803
+SERPINB6,Serpin B6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,37274,8027,1.08 [1.04-1.12],8.475385023056958e-05
+SERPINB6,Serpin B6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,40513,4660,1.09 [1.04-1.14],0.0007016527398533
+SERPINB6,Serpin B6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,46654,2425,1.13 [1.06-1.20],0.0001512714787369
+SERPINB6,Serpin B6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,36153,300,1.37 [1.15-1.62],0.0003286831088646
+SERPINB6,Serpin B6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,36786,933,1.16 [1.05-1.28],0.004282151948981
+SERPINB6,Serpin B6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",50904,288,1.37 [1.15-1.62],0.000382397107238
+SERPINB6,Serpin B6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,50927,261,1.41 [1.17-1.68],0.0002248457984775
+SERPINB6,Serpin B6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,38165,2312,1.12 [1.05-1.20],0.0005886889718029
+SERPINB6,Serpin B6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",43345,2312,1.12 [1.05-1.19],0.0010340838181332
+SERPINB6,Serpin B6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",51433,277,1.23 [1.03-1.47],0.0244139411999196
+SERPINB6,Serpin B6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,36917,1064,1.16 [1.05-1.27],0.0028994016435615
+SERPINB6,Serpin B6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,50479,113,1.45 [1.10-1.90],0.0077995372179022
+SERPINB6,Serpin B6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,44858,629,1.17 [1.04-1.31],0.0101007715361772
+SERPINB6,Serpin B6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,44434,205,1.40 [1.15-1.72],0.0010562310082155
+SERPINB6,Serpin B6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",45114,885,1.16 [1.05-1.28],0.0040234663702443
+SERPINB6,Serpin B6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,44708,479,1.16 [1.01-1.33],0.0326390693558781
+SERPINB6,Serpin B6,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,46444,506,1.52 [1.33-1.73],3.9030294062743015e-10
+SERPINB6,Serpin B6,Chapter XIV Diseases of the genitourinary system,Acute renal failure,46650,109,1.81 [1.37-2.38],2.939595912161476e-05
+SERPINB6,Serpin B6,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,46679,138,2.12 [1.66-2.71],2.186374023167662e-09
+SERPINB6,Serpin B6,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,46677,136,1.81 [1.41-2.32],3.3418207340747485e-06
+SERPINB6,Serpin B6,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,50850,144,1.75 [1.38-2.23],5.186887524976369e-06
+SERPINB6,Serpin B6,Chapter XIV Diseases of the genitourinary system,Inflammatory disease of cervix uteri,27104,134,0.76 [0.58-0.98],0.03391502263923
+SERPINB6,Serpin B6,Chapter XIV Diseases of the genitourinary system,Unspecified/other endometriosis,20908,97,1.35 [1.01-1.80],0.0417941857067806
+SERPINB6,Serpin B6,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,21778,967,0.90 [0.82-0.99],0.0366706879759789
+SERPINB6,Serpin B6,Chapter XIV Diseases of the genitourinary system,Uterine polyps,21130,319,0.82 [0.70-0.98],0.0253556194140509
+SERPINB6,Serpin B6,"Chapter XV Pregnancy, childbirth and the puerperium",Other maternal disorders predominantly related to pregnancy,27927,424,0.86 [0.75-1.00],0.0486420966529302
+SERPINB6,Serpin B6,"Chapter XV Pregnancy, childbirth and the puerperium",Haemorrhage in early pregnancy,27630,127,0.64 [0.49-0.84],0.0012866680039907

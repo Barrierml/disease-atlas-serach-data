@@ -1,0 +1,67 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+ASPN,Asporin,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,17664,712,1.45 [1.15-1.83],0.0017450400346755
+ASPN,Asporin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,17092,196,1.95 [1.36-2.78],0.0002567480357495
+ASPN,Asporin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,13164,671,1.56 [1.23-1.98],0.000305850657954
+ASPN,Asporin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,17721,71,2.14 [1.32-3.48],0.0021191197740169
+ASPN,Asporin,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,19557,99,1.87 [1.18-2.97],0.0077890904047844
+ASPN,Asporin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,19246,199,1.73 [1.20-2.49],0.0033164359004819
+ASPN,Asporin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,19246,199,1.73 [1.20-2.49],0.0033164359004819
+ASPN,Asporin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,18136,111,2.33 [1.58-3.44],2.073838271385839e-05
+ASPN,Asporin,Chapter IX Diseases of the circulatory system,Peripheral artery disease,19403,140,1.80 [1.16-2.79],0.0093241405266759
+ASPN,Asporin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,18125,100,2.58 [1.73-3.84],3.120254259740561e-06
+ASPN,Asporin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,18593,568,1.45 [1.10-1.90],0.0074493853238651
+ASPN,Asporin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,18578,553,1.47 [1.12-1.93],0.005351699495159
+ASPN,Asporin,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",15009,77,1.85 [1.08-3.15],0.0241024096291852
+ASPN,Asporin,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",17199,308,1.80 [1.30-2.49],0.0003909279549792
+ASPN,Asporin,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",20068,235,1.84 [1.29-2.63],0.0007595112090376
+ASPN,Asporin,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",20137,179,1.90 [1.28-2.83],0.0014681499761862
+ASPN,Asporin,Chapter V Mental and behavioural disorders,Alcohol dependence,18756,103,2.17 [1.33-3.54],0.0018401085120191
+ASPN,Asporin,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",16952,61,0.33 [0.13-0.87],0.0245909003406212
+ASPN,Asporin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,19855,89,0.41 [0.18-0.90],0.0267861254402573
+ASPN,Asporin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,18010,122,2.04 [1.38-3.00],0.0003190480185694
+ASPN,Asporin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",20085,65,2.17 [1.35-3.47],0.0013055133913738
+ASPN,Asporin,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",18212,1382,0.76 [0.62-0.93],0.0081375285979834
+ASPN,Asporin,Chapter IX Diseases of the circulatory system,Angina pectoris,17597,767,0.72 [0.55-0.95],0.0188815039519398
+ASPN,Asporin,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,19318,267,0.61 [0.39-0.96],0.0329208171620142
+ASPN,Asporin,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,19649,598,0.57 [0.42-0.77],0.0002932570884227
+ASPN,Asporin,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",20367,139,0.49 [0.26-0.92],0.0268889099408175
+ASPN,Asporin,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",17248,418,0.52 [0.36-0.75],0.0004887020562711
+ASPN,Asporin,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,17988,1179,0.78 [0.63-0.97],0.0283607743911578
+ASPN,Asporin,Chapter IX Diseases of the circulatory system,Venous thromboembolism,19915,217,1.76 [1.25-2.49],0.001374190285474
+ASPN,Asporin,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,16203,114,1.71 [1.09-2.69],0.0195041406665434
+ASPN,Asporin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",19436,273,1.56 [1.12-2.19],0.0088254743902662
+ASPN,Asporin,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),19413,136,2.16 [1.50-3.10],3.2510358336424964e-05
+ASPN,Asporin,Chapter IX Diseases of the circulatory system,DVT of lower extremities,19397,120,2.28 [1.58-3.28],9.780071558767038e-06
+ASPN,Asporin,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",20357,113,1.80 [1.13-2.86],0.0132275403177511
+ASPN,Asporin,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,19738,242,1.48 [1.03-2.15],0.0355934117341675
+ASPN,Asporin,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,19736,240,1.49 [1.03-2.15],0.0354601834439091
+ASPN,Asporin,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",19321,572,0.69 [0.50-0.93],0.0167552740586154
+ASPN,Asporin,Chapter X Diseases of the respiratory system,Asthma,13984,572,0.71 [0.52-0.97],0.0309547079490136
+ASPN,Asporin,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",13685,572,0.71 [0.52-0.98],0.0349879613333537
+ASPN,Asporin,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",13974,562,0.70 [0.51-0.96],0.026067187260651
+ASPN,Asporin,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,16083,572,1.34 [1.03-1.74],0.0273922902372087
+ASPN,Asporin,Chapter XI Diseases of the digestive system,Gastric ulcer,15637,126,1.76 [1.15-2.69],0.0096179878743145
+ASPN,Asporin,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",20396,106,1.76 [1.08-2.88],0.0241637820798898
+ASPN,Asporin,Chapter XI Diseases of the digestive system,Chronic gastritis,15615,104,1.66 [1.00-2.76],0.0491232595296417
+ASPN,Asporin,Chapter XI Diseases of the digestive system,Diseases of liver,19812,121,2.00 [1.32-3.05],0.0011955833185228
+ASPN,Asporin,Chapter XI Diseases of the digestive system,Diseases of the digestive system,19342,272,1.81 [1.32-2.49],0.0002336282548114
+ASPN,Asporin,Chapter XI Diseases of the digestive system,Coeliac disease,19092,22,2.46 [1.28-4.74],0.0071542511445232
+ASPN,Asporin,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,19268,198,1.92 [1.34-2.74],0.0003676416658899
+ASPN,Asporin,Chapter XI Diseases of the digestive system,GI-bleeding,19264,194,1.88 [1.30-2.70],0.0007265374227878
+ASPN,Asporin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,15210,3065,1.31 [1.14-1.50],0.0001261006213746
+ASPN,Asporin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,16481,1813,1.37 [1.16-1.61],0.0001634517208161
+ASPN,Asporin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,15585,917,1.59 [1.29-1.96],1.6423275460821682e-05
+ASPN,Asporin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",17688,917,1.53 [1.24-1.88],6.366907856458873e-05
+ASPN,Asporin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,14776,108,1.92 [1.25-2.96],0.0028530138664769
+ASPN,Asporin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",19741,104,1.97 [1.28-3.03],0.0019950061133212
+ASPN,Asporin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,14892,224,1.91 [1.35-2.70],0.0002423351969091
+ASPN,Asporin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",20437,107,1.67 [1.04-2.67],0.0326867312691156
+ASPN,Asporin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,15166,498,1.66 [1.28-2.16],0.0001435421640143
+ASPN,Asporin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,15680,1012,1.31 [1.07-1.61],0.0100315433987846
+ASPN,Asporin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,15187,519,1.34 [1.02-1.77],0.0365931673736058
+ASPN,Asporin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,20273,15,0.11 [0.02-0.70],0.0199563109735398
+ASPN,Asporin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,18206,251,1.63 [1.15-2.30],0.0055275794209493
+ASPN,Asporin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,18036,81,1.80 [1.06-3.04],0.0283644977811358
+ASPN,Asporin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",17734,52,1.96 [1.04-3.71],0.0383168588241361
+ASPN,Asporin,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,18108,72,0.35 [0.14-0.84],0.019533271217486
+ASPN,Asporin,Chapter VI Diseases of the nervous system,Falls/tendency to fall,18741,479,1.60 [1.23-2.07],0.0003821710709027

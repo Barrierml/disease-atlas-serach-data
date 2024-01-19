@@ -1,0 +1,67 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+S100P,Protein S100-P,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,25106,888,1.18 [1.07-1.30],0.0008001438354886
+S100P,Protein S100-P,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,25147,141,1.66 [1.38-2.00],7.734565122872134e-08
+S100P,Protein S100-P,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,19954,488,1.54 [1.37-1.73],1.4456373668254737e-13
+S100P,Protein S100-P,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,25936,78,1.67 [1.32-2.12],2.0501915745817333e-05
+S100P,Protein S100-P,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,27148,105,1.61 [1.30-1.99],1.1764691904351507e-05
+S100P,Protein S100-P,Chapter I Certain infectious and parasitic diseases,Other septicaemia,27110,67,1.77 [1.39-2.25],3.3607033042936646e-06
+S100P,Protein S100-P,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",26840,382,1.36 [1.19-1.56],4.341381954604605e-06
+S100P,Protein S100-P,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,26602,144,1.65 [1.38-1.97],2.899537816529812e-08
+S100P,Protein S100-P,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,25599,802,1.25 [1.13-1.38],1.721135438852588e-05
+S100P,Protein S100-P,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,26811,195,1.43 [1.20-1.71],7.847395687845895e-05
+S100P,Protein S100-P,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),25511,357,1.32 [1.14-1.52],0.0001376645369509
+S100P,Protein S100-P,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,24418,701,1.42 [1.28-1.57],2.265663760417108e-11
+S100P,Protein S100-P,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,26018,112,1.74 [1.43-2.11],2.3643686270507372e-08
+S100P,Protein S100-P,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,26003,97,1.84 [1.51-2.24],1.4323792313209552e-09
+S100P,Protein S100-P,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,26235,329,1.41 [1.22-1.64],5.260813490281001e-06
+S100P,Protein S100-P,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,26225,319,1.43 [1.24-1.67],2.2990276041427167e-06
+S100P,Protein S100-P,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,24258,541,1.31 [1.16-1.48],1.497741453451672e-05
+S100P,Protein S100-P,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,24212,495,1.30 [1.15-1.48],4.6779018848096166e-05
+S100P,Protein S100-P,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,23758,41,2.04 [1.58-2.64],6.5659131093092e-08
+S100P,Protein S100-P,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",23794,77,1.59 [1.24-2.05],0.0002563480936716
+S100P,Protein S100-P,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,21783,1957,1.35 [1.26-1.45],9.969808125720612e-17
+S100P,Protein S100-P,Chapter IX Diseases of the circulatory system,"Hypertension, essential",22827,1301,1.37 [1.26-1.49],8.820198174049287e-14
+S100P,Protein S100-P,Chapter IX Diseases of the circulatory system,Hypertension,22851,1325,1.39 [1.28-1.51],2.156635166341469e-15
+S100P,Protein S100-P,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,21573,47,2.09 [1.63-2.67],6.7803254473464795e-09
+S100P,Protein S100-P,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",26323,566,1.26 [1.11-1.42],0.0002251423308116
+S100P,Protein S100-P,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,26171,425,1.27 [1.10-1.46],0.0007485113157119
+S100P,Protein S100-P,Chapter IX Diseases of the circulatory system,Secondary right heart disease,27293,64,1.72 [1.33-2.21],2.740419803305433e-05
+S100P,Protein S100-P,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,27294,65,1.73 [1.35-2.22],1.4047668632355449e-05
+S100P,Protein S100-P,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",21587,61,1.78 [1.39-2.30],7.4706899884535455e-06
+S100P,Protein S100-P,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,19119,190,1.40 [1.16-1.69],0.0004149687260238
+S100P,Protein S100-P,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,27122,83,1.57 [1.24-2.00],0.0001862594098351
+S100P,Protein S100-P,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,23544,1930,1.19 [1.11-1.28],8.477792913919574e-07
+S100P,Protein S100-P,Chapter X Diseases of the respiratory system,Influenza and pneumonia,26630,183,1.46 [1.22-1.74],2.645162245188196e-05
+S100P,Protein S100-P,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",26604,157,1.54 [1.28-1.84],2.886150344880639e-06
+S100P,Protein S100-P,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,25463,872,1.19 [1.08-1.32],0.0004590962775975
+S100P,Protein S100-P,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,27638,58,1.95 [1.54-2.46],1.9499133795893956e-08
+S100P,Protein S100-P,Chapter X Diseases of the respiratory system,Interstitial lung disease,26507,44,1.94 [1.49-2.54],9.321311994010226e-07
+S100P,Protein S100-P,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",27696,44,1.95 [1.49-2.54],8.780767094825618e-07
+S100P,Protein S100-P,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,26500,37,1.87 [1.39-2.53],4.376082941563383e-05
+S100P,Protein S100-P,Chapter X Diseases of the respiratory system,Other diseases of pleura,26586,179,1.64 [1.40-1.93],1.9676074078153852e-09
+S100P,Protein S100-P,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,26985,85,1.82 [1.47-2.24],2.7730490037298723e-08
+S100P,Protein S100-P,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,19677,5088,1.10 [1.05-1.16],0.0002178328186818
+S100P,Protein S100-P,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,26937,744,1.23 [1.11-1.36],0.0001232860693468
+S100P,Protein S100-P,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",27492,70,1.67 [1.31-2.12],3.702747097529826e-05
+S100P,Protein S100-P,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",27739,98,1.57 [1.26-1.96],5.953377458298096e-05
+S100P,Protein S100-P,Chapter XI Diseases of the digestive system,Crohn disease,26291,98,1.58 [1.26-1.96],5.009145948183568e-05
+S100P,Protein S100-P,Chapter XI Diseases of the digestive system,Crohn's disease NAS,26267,74,1.55 [1.20-2.00],0.000705717100587
+S100P,Protein S100-P,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",26305,112,1.49 [1.20-1.86],0.0003381439007776
+S100P,Protein S100-P,Chapter XI Diseases of the digestive system,Diseases of liver,27087,119,1.53 [1.24-1.89],8.812689623060957e-05
+S100P,Protein S100-P,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,21525,3485,1.14 [1.07-1.20],1.6930986609425324e-05
+S100P,Protein S100-P,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,23128,1841,1.19 [1.11-1.28],1.5874251077882537e-06
+S100P,Protein S100-P,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,21402,115,1.54 [1.24-1.92],8.67325049193095e-05
+S100P,Protein S100-P,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,21625,338,1.43 [1.24-1.65],5.980987376683364e-07
+S100P,Protein S100-P,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,27502,100,1.52 [1.21-1.92],0.0003858786935093
+S100P,Protein S100-P,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,21943,656,1.27 [1.14-1.42],2.729924726480377e-05
+S100P,Protein S100-P,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",24514,656,1.26 [1.12-1.41],6.86563766811165e-05
+S100P,Protein S100-P,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,21311,24,1.94 [1.33-2.85],0.0006362116443683
+S100P,Protein S100-P,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,27431,151,1.44 [1.18-1.75],0.0003373317599031
+S100P,Protein S100-P,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,27321,41,1.74 [1.27-2.38],0.0005315742834821
+S100P,Protein S100-P,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,26439,100,1.55 [1.24-1.95],0.0001326220502784
+S100P,Protein S100-P,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,26677,338,1.33 [1.15-1.53],9.570624232914028e-05
+S100P,Protein S100-P,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,26294,207,1.92 [1.69-2.19],7.016526117160424e-23
+S100P,Protein S100-P,Chapter XIV Diseases of the genitourinary system,Acute renal failure,26444,45,2.04 [1.59-2.61],1.921831617832873e-08
+S100P,Protein S100-P,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,26447,48,2.31 [1.87-2.86],1.3487577197579388e-14
+S100P,Protein S100-P,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,26452,53,2.21 [1.80-2.72],5.6544358383364415e-14
+S100P,Protein S100-P,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,27519,54,1.95 [1.54-2.48],3.355742795413612e-08

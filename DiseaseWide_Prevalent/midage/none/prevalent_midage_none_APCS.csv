@@ -1,0 +1,407 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+APCS,Serum amyloid P-component,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,22045,793,1.08 [0.90-1.29],0.4311614988849522
+APCS,Serum amyloid P-component,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,22039,125,1.90 [1.17-3.07],0.0089684826214238
+APCS,Serum amyloid P-component,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,23450,136,1.32 [0.85-2.03],0.2177671472849547
+APCS,Serum amyloid P-component,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,17458,440,1.07 [0.83-1.37],0.6194010326972853
+APCS,Serum amyloid P-component,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,23396,82,1.33 [0.76-2.34],0.3236848737388951
+APCS,Serum amyloid P-component,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,22748,69,0.90 [0.49-1.65],0.7257672257534025
+APCS,Serum amyloid P-component,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",24287,81,1.37 [0.78-2.43],0.2717638309577262
+APCS,Serum amyloid P-component,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,24307,55,1.28 [0.64-2.54],0.4855467323776836
+APCS,Serum amyloid P-component,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,22266,40,1.02 [0.45-2.31],0.9592101806296298
+APCS,Serum amyloid P-component,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,23842,95,1.08 [0.64-1.82],0.7864306876918741
+APCS,Serum amyloid P-component,Chapter I Certain infectious and parasitic diseases,Other septicaemia,23806,59,0.89 [0.46-1.72],0.7359426461420591
+APCS,Serum amyloid P-component,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,24344,59,1.17 [0.60-2.28],0.6393010528725175
+APCS,Serum amyloid P-component,Chapter I Certain infectious and parasitic diseases,Other viral diseases,24305,91,0.92 [0.55-1.54],0.7386256656833736
+APCS,Serum amyloid P-component,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",24297,83,0.84 [0.49-1.44],0.5247839426065062
+APCS,Serum amyloid P-component,Chapter I Certain infectious and parasitic diseases,Mycoses,24137,42,0.53 [0.26-1.08],0.0814354309889432
+APCS,Serum amyloid P-component,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",23569,338,1.33 [1.00-1.76],0.0485568016603788
+APCS,Serum amyloid P-component,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,23355,124,1.54 [0.97-2.47],0.069430841568872
+APCS,Serum amyloid P-component,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,23451,220,1.52 [1.07-2.17],0.0208112093520181
+APCS,Serum amyloid P-component,Chapter II Neoplasms,"Malignant neoplasm of colon, excluding all cancers (controls excluding all cancers)",21089,28,0.67 [0.26-1.72],0.405877795037197
+APCS,Serum amyloid P-component,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",21103,42,0.67 [0.31-1.44],0.305714089151563
+APCS,Serum amyloid P-component,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",21175,114,1.20 [0.75-1.95],0.4462814671149709
+APCS,Serum amyloid P-component,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",21180,119,nan [nan-nan],
+APCS,Serum amyloid P-component,Chapter II Neoplasms,"Malignant neoplasm of breast, excluding all cancers (controls excluding all cancers)",11842,263,2.25 [1.61-3.15],2.3156455256727726e-06
+APCS,Serum amyloid P-component,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",9504,22,1.01 [0.29-3.52],0.9934131262565709
+APCS,Serum amyloid P-component,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",21105,44,1.52 [0.72-3.22],0.2711071373351621
+APCS,Serum amyloid P-component,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,22490,717,0.59 [0.49-0.70],1.2727710289558769e-08
+APCS,Serum amyloid P-component,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",23427,182,1.62 [1.10-2.40],0.0155584648419394
+APCS,Serum amyloid P-component,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,23979,72,1.42 [0.77-2.63],0.257893016144744
+APCS,Serum amyloid P-component,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",24409,68,2.02 [1.06-3.87],0.0335278444974768
+APCS,Serum amyloid P-component,Chapter II Neoplasms,Benign neoplasm: Rectum,24204,40,1.72 [0.74-3.99],0.204520730265544
+APCS,Serum amyloid P-component,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,24412,34,1.15 [0.47-2.83],0.7525480819365089
+APCS,Serum amyloid P-component,Chapter II Neoplasms,Benign neoplasm: Stomach,24449,27,1.24 [0.45-3.40],0.6756195542662204
+APCS,Serum amyloid P-component,Chapter II Neoplasms,Benign lipomatous neoplasm,24179,261,1.04 [0.76-1.42],0.8100267918425416
+APCS,Serum amyloid P-component,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,24392,105,1.07 [0.65-1.75],0.7949946095661564
+APCS,Serum amyloid P-component,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,24391,78,1.03 [0.58-1.84],0.9192930934491216
+APCS,Serum amyloid P-component,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",24364,41,0.30 [0.15-0.59],0.0004760695856725
+APCS,Serum amyloid P-component,Chapter II Neoplasms,"Haemangioma, any site",24366,41,0.30 [0.15-0.59],0.0004767879366764
+APCS,Serum amyloid P-component,Chapter II Neoplasms,Melanocytic naevi,24267,214,0.89 [0.63-1.25],0.5020587308885982
+APCS,Serum amyloid P-component,Chapter II Neoplasms,Melanocytic naevi of other and unspecified parts of face,24414,98,1.09 [0.66-1.80],0.7450239796567754
+APCS,Serum amyloid P-component,Chapter II Neoplasms,Other benign neoplasms of skin,24327,162,1.04 [0.70-1.54],0.8598936937769261
+APCS,Serum amyloid P-component,Chapter II Neoplasms,Benign neoplasm of breast,13479,80,0.75 [0.42-1.33],0.3237548554337343
+APCS,Serum amyloid P-component,Chapter II Neoplasms,Leiomyoma of uterus,13176,615,1.13 [0.91-1.41],0.2606808738432761
+APCS,Serum amyloid P-component,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,23575,169,0.40 [0.28-0.58],6.468817604050737e-07
+APCS,Serum amyloid P-component,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,23472,310,0.59 [0.45-0.78],0.0001928132929119
+APCS,Serum amyloid P-component,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,23472,310,0.59 [0.45-0.78],0.0001928132929119
+APCS,Serum amyloid P-component,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),22372,309,0.99 [0.74-1.32],0.9379624457603412
+APCS,Serum amyloid P-component,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,24011,72,1.17 [0.64-2.11],0.6120333764206048
+APCS,Serum amyloid P-component,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,24228,91,0.54 [0.32-0.89],0.0158212731243234
+APCS,Serum amyloid P-component,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,21405,621,0.93 [0.75-1.16],0.5324455141201841
+APCS,Serum amyloid P-component,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,23330,379,0.49 [0.38-0.62],1.3480235922882772e-08
+APCS,Serum amyloid P-component,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,22834,91,0.42 [0.26-0.68],0.000507688706247
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Peripheral artery disease,23771,52,0.97 [0.47-2.01],0.9416832898702951
+APCS,Serum amyloid P-component,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,22822,79,0.38 [0.23-0.65],0.0003179144647542
+APCS,Serum amyloid P-component,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,23028,285,0.69 [0.50-0.95],0.0242897505139459
+APCS,Serum amyloid P-component,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,23021,278,0.68 [0.49-0.95],0.0218837533074234
+APCS,Serum amyloid P-component,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,22738,156,0.73 [0.45-1.19],0.2051535147022952
+APCS,Serum amyloid P-component,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",22740,153,0.72 [0.44-1.18],0.1973610296466431
+APCS,Serum amyloid P-component,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,21265,481,0.94 [0.73-1.21],0.623917246091453
+APCS,Serum amyloid P-component,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",20847,63,0.49 [0.26-0.92],0.0254925441399928
+APCS,Serum amyloid P-component,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,21228,444,1.03 [0.80-1.34],0.8059148972575236
+APCS,Serum amyloid P-component,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,20824,40,0.88 [0.40-1.96],0.7598528030440979
+APCS,Serum amyloid P-component,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",20846,62,1.14 [0.59-2.21],0.6893080264845588
+APCS,Serum amyloid P-component,Chapter V Mental and behavioural disorders,Any mental disorder,21189,678,1.41 [1.15-1.73],0.0011062351500296
+APCS,Serum amyloid P-component,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",20775,264,1.79 [1.29-2.49],0.0005204391812917
+APCS,Serum amyloid P-component,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",24069,199,1.90 [1.30-2.77],0.0008412144294135
+APCS,Serum amyloid P-component,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",24127,145,1.72 [1.11-2.67],0.0151390572513574
+APCS,Serum amyloid P-component,Chapter V Mental and behavioural disorders,Acute alcohol intoxication,22692,71,1.20 [0.66-2.17],0.5584537963781093
+APCS,Serum amyloid P-component,Chapter V Mental and behavioural disorders,"Acute alcohol intoxication, ICD10",24349,71,1.07 [0.59-1.94],0.8214583832395466
+APCS,Serum amyloid P-component,Chapter V Mental and behavioural disorders,"Alcohol abuse, main dg, excluding more controls",20582,71,1.16 [0.64-2.12],0.6243337929134802
+APCS,Serum amyloid P-component,Chapter V Mental and behavioural disorders,Alcohol dependence,22707,86,1.95 [1.11-3.42],0.0199493215880883
+APCS,Serum amyloid P-component,Chapter V Mental and behavioural disorders,Smoking dependency,22664,63,2.47 [1.26-4.84],0.0084151276404949
+APCS,Serum amyloid P-component,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",20582,71,1.68 [0.91-3.10],0.0991650468875864
+APCS,Serum amyloid P-component,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",20849,338,1.32 [0.99-1.76],0.0545906970528925
+APCS,Serum amyloid P-component,Chapter V Mental and behavioural disorders,Depression,22920,294,1.24 [0.92-1.68],0.1634462568697532
+APCS,Serum amyloid P-component,Chapter V Mental and behavioural disorders,Depression or dysthymia,20721,256,1.16 [0.84-1.61],0.3677647430670211
+APCS,Serum amyloid P-component,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",20640,129,1.37 [0.87-2.16],0.1746091362350426
+APCS,Serum amyloid P-component,Chapter V Mental and behavioural disorders,Other anxiety disorders,23128,58,1.00 [0.51-1.97],0.990294454181776
+APCS,Serum amyloid P-component,Chapter VI Diseases of the nervous system,Neurological diseases,21762,1294,0.87 [0.75-1.01],0.0584802087614902
+APCS,Serum amyloid P-component,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,20269,156,0.94 [0.63-1.41],0.7703268457031366
+APCS,Serum amyloid P-component,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,24260,126,1.10 [0.70-1.72],0.6752644703735964
+APCS,Serum amyloid P-component,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,23283,437,0.86 [0.67-1.10],0.2253413736570294
+APCS,Serum amyloid P-component,Chapter VI Diseases of the nervous system,Epilepsy,22995,149,1.04 [0.68-1.57],0.8697883215723072
+APCS,Serum amyloid P-component,Chapter VI Diseases of the nervous system,Migraine,22936,90,0.47 [0.29-0.78],0.0031355966882515
+APCS,Serum amyloid P-component,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",24131,80,0.44 [0.26-0.74],0.0017824563894161
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Transient ischemic attack,24015,36,0.81 [0.35-1.92],0.6373612287211632
+APCS,Serum amyloid P-component,Chapter VI Diseases of the nervous system,Other sleep disorders,23000,154,1.34 [0.86-2.11],0.1997526686626227
+APCS,Serum amyloid P-component,Chapter VI Diseases of the nervous system,Sleep apnoea,23906,118,1.24 [0.74-2.08],0.4137709925301386
+APCS,Serum amyloid P-component,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",23448,541,0.75 [0.61-0.94],0.0113899052974684
+APCS,Serum amyloid P-component,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",23029,122,1.12 [0.70-1.79],0.6286857797972168
+APCS,Serum amyloid P-component,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,23197,290,0.54 [0.41-0.73],4.53108326239488e-05
+APCS,Serum amyloid P-component,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,24258,79,1.16 [0.66-2.06],0.6090948054085894
+APCS,Serum amyloid P-component,Chapter VI Diseases of the nervous system,Hemiplegia,24230,51,0.64 [0.32-1.26],0.1987870832179467
+APCS,Serum amyloid P-component,Chapter VI Diseases of the nervous system,Other neurological diseases,24067,110,1.17 [0.73-1.90],0.5126033548716787
+APCS,Serum amyloid P-component,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",24032,280,0.69 [0.51-0.92],0.0116922571603724
+APCS,Serum amyloid P-component,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,23904,152,0.63 [0.42-0.94],0.0236294256105183
+APCS,Serum amyloid P-component,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,23831,79,1.15 [0.66-2.02],0.621560700170868
+APCS,Serum amyloid P-component,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,23843,91,0.77 [0.46-1.29],0.3141151780938264
+APCS,Serum amyloid P-component,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,23795,43,0.38 [0.19-0.76],0.0067900009606922
+APCS,Serum amyloid P-component,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,22928,55,1.05 [0.52-2.13],0.8833926697377003
+APCS,Serum amyloid P-component,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,23037,164,1.02 [0.68-1.54],0.9060314873148132
+APCS,Serum amyloid P-component,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,23903,109,0.83 [0.51-1.34],0.4355267415516581
+APCS,Serum amyloid P-component,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,24227,18,0.63 [0.20-2.02],0.4408680836761596
+APCS,Serum amyloid P-component,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,1554,18,0.37 [0.11-1.22],0.1019501179482054
+APCS,Serum amyloid P-component,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",22691,18,0.63 [0.20-2.01],0.4336727306587143
+APCS,Serum amyloid P-component,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,24118,43,0.42 [0.20-0.85],0.0161457588434696
+APCS,Serum amyloid P-component,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,24098,23,0.37 [0.14-0.96],0.0410099691826148
+APCS,Serum amyloid P-component,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",24028,82,0.78 [0.45-1.35],0.3736569944346252
+APCS,Serum amyloid P-component,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,24082,92,0.45 [0.28-0.74],0.0015285989624661
+APCS,Serum amyloid P-component,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diseases of middle ear and mastoid,24335,110,1.89 [1.14-3.15],0.0140690193506667
+APCS,Serum amyloid P-component,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of ear,23982,84,0.93 [0.53-1.61],0.7859323165407993
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,19081,1739,1.02 [0.89-1.18],0.7507833726931876
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,24172,38,0.27 [0.14-0.54],0.0002161886907802
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,"Hypertension, essential",20010,1164,1.14 [0.96-1.35],0.1326787870020159
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Hypertension,20026,1180,1.13 [0.96-1.34],0.1488724689563783
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,18878,32,0.93 [0.37-2.38],0.8856299001760994
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",23124,500,0.84 [0.66-1.06],0.1390327512913361
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Angina pectoris,22926,302,0.70 [0.52-0.95],0.0210601281510224
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,23817,118,0.71 [0.44-1.13],0.1469562347073283
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,23924,225,0.84 [0.60-1.19],0.3374801634904171
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",24354,51,0.97 [0.47-2.02],0.9364900939363736
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",22764,140,0.95 [0.61-1.48],0.8307737129231709
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,22988,374,0.80 [0.61-1.05],0.1136330569439491
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Pulmonary embolism,23994,74,0.68 [0.38-1.21],0.1901989468590974
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Venous thromboembolism,23996,158,0.61 [0.41-0.90],0.0123947082474815
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Secondary right heart disease,23980,60,0.68 [0.35-1.29],0.2336492992936739
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,23981,61,0.72 [0.38-1.37],0.3172549479672238
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",18903,57,0.58 [0.30-1.11],0.1004527876360931
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Cardiomyopathy,22133,40,1.27 [0.54-2.99],0.5800954645788877
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Conduction disorders,22159,66,0.73 [0.39-1.37],0.3246543257538797
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,16627,83,0.92 [0.52-1.62],0.7644750224187102
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,16715,171,0.44 [0.30-0.64],1.730210150678181e-05
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Other arrhythmias,22128,35,1.00 [0.42-2.38],0.999679156726542
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,22145,52,0.43 [0.22-0.84],0.0137524510375136
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,"Heart failure, strict",24000,108,0.66 [0.40-1.07],0.0906419267857683
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",23971,101,0.69 [0.42-1.12],0.1300862390734465
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",24003,77,0.53 [0.31-0.92],0.0236283471247774
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",24045,66,0.47 [0.26-0.84],0.0103884316032726
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,23785,44,0.86 [0.41-1.83],0.7050032813455421
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,23816,75,0.45 [0.26-0.77],0.0037486292454196
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),23378,104,0.49 [0.30-0.79],0.0034888716057441
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,DVT of lower extremities,23361,87,0.52 [0.31-0.89],0.0158308595655733
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",24308,84,0.55 [0.32-0.94],0.0301311144489273
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Varicose veins,23661,387,0.75 [0.58-0.97],0.0256972690189625
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,Hypotension,23800,43,0.54 [0.26-1.12],0.0959834181543043
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,20683,1722,1.13 [0.99-1.28],0.0706251434254436
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,24245,122,1.07 [0.67-1.70],0.782537718630574
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,Influenza and pneumonia,23387,164,0.90 [0.61-1.34],0.6017160248847724
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",23363,140,0.88 [0.57-1.34],0.5496032808391682
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,23895,193,0.92 [0.64-1.33],0.6551682440680598
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,23894,192,0.91 [0.63-1.31],0.6025511106722583
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,23657,577,1.66 [1.33-2.06],6.537038948294652e-06
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,Chronic sinusitis,23170,90,1.82 [1.05-3.14],0.0314406376253661
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,Nasal polyp,23175,95,2.51 [1.45-4.32],0.0009453819718021
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",23448,368,1.70 [1.29-2.24],0.000144249387196
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,Deviated nasal septum,23273,193,2.05 [1.40-2.99],0.0002307116598294
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,14021,44,1.31 [0.60-2.89],0.4963866813049318
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,22372,782,0.98 [0.81-1.18],0.8257853496121067
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,Early onset COPD,23816,91,1.07 [0.61-1.88],0.8084201877784176
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",23816,91,1.07 [0.61-1.88],0.8084201877784176
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",23816,91,1.07 [0.61-1.88],0.8084201877784176
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",22896,707,0.93 [0.76-1.13],0.4409589916345823
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,Asthma,18668,707,0.99 [0.82-1.21],0.9497131820053644
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",18534,707,0.99 [0.81-1.21],0.9115532267075996
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",18656,695,0.97 [0.80-1.19],0.7976093113208547
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,24277,56,1.93 [0.96-3.91],0.0666510991523906
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,Interstitial lung disease,23255,43,2.77 [1.23-6.22],0.0137478832118295
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",24335,43,2.79 [1.24-6.27],0.013068582634787
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,23249,37,2.70 [1.13-6.44],0.0250836601442863
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,Pleural effusion,23250,69,0.73 [0.40-1.35],0.3183232693801846
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,Other diseases of pleura,23345,164,1.12 [0.75-1.68],0.5753059551218402
+APCS,Serum amyloid P-component,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,23696,75,1.65 [0.90-3.02],0.1035102285948078
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,17339,4558,1.20 [1.10-1.31],6.287893393912671e-05
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",23919,431,1.07 [0.84-1.36],0.5911588845913907
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,24385,118,1.08 [0.68-1.70],0.7527123225347749
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Impacted teeth,24390,110,1.10 [0.68-1.77],0.6999076191301958
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Dental caries,23595,107,1.74 [1.04-2.91],0.0333617405171784
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,23584,96,1.00 [0.60-1.66],0.98753061290653
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,24373,134,1.01 [0.66-1.55],0.9548419318115005
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,23566,78,0.84 [0.48-1.48],0.5464768140813363
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,23347,55,0.63 [0.33-1.21],0.1670996878476869
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,24338,40,0.56 [0.27-1.19],0.1306569393956976
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,19643,185,1.37 [0.93-2.01],0.1132507288817927
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",21019,1561,1.27 [1.11-1.45],0.0006636853968925
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Oesophagitis,19694,236,1.82 [1.29-2.57],0.0006560843696702
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,19959,501,1.42 [1.12-1.80],0.0040685567239875
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,19519,61,0.62 [0.33-1.16],0.1360682233060285
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,19586,128,2.83 [1.76-4.57],1.9662721551565763e-05
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Oesophageal obstruction,19485,27,2.97 [1.08-8.18],0.0349317574804367
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Gastric ulcer,19550,92,1.24 [0.72-2.14],0.4315535827203233
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Duodenal ulcer,19554,96,1.44 [0.84-2.47],0.1829732001710707
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",24358,67,1.07 [0.57-2.02],0.8248442942381577
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Chronic gastritis,19554,96,1.16 [0.68-1.99],0.5781720651600964
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),20021,563,1.22 [0.98-1.52],0.0757903455326171
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Diseases of appendix,24285,142,1.05 [0.69-1.60],0.8183930165856083
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Functional dyspepsia,19802,344,1.08 [0.82-1.43],0.5824247022227772
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,19557,99,1.26 [0.75-2.13],0.3779043102746453
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,24274,171,0.77 [0.52-1.12],0.1731289717230538
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Acute appendicitis,24256,113,1.06 [0.66-1.70],0.8097326913485409
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Hernia,22034,1051,1.89 [1.60-2.24],1.1254736153046873e-13
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Inguinal hernia,21332,349,2.41 [1.82-3.19],8.96206658095669e-10
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Umbilical hernia,21084,101,3.14 [1.80-5.48],5.49605597305617e-05
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Ventral hernia,21062,79,0.95 [0.54-1.67],0.8485058344914339
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,21532,549,1.97 [1.56-2.48],1.1573083408853573e-08
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,23674,664,1.15 [0.94-1.40],0.1765841005886145
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Other diseases of intestines,20122,1479,0.99 [0.86-1.13],0.8488526510659702
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",24156,66,2.35 [1.25-4.43],0.0079587602408537
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",24375,93,1.61 [0.95-2.72],0.0780107106579525
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Crohn disease,23103,93,1.63 [0.96-2.76],0.0695771725589118
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Crohn's disease NAS,23082,72,1.63 [0.90-2.98],0.1089858878261143
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,"Ulcerative colitis (strict definition, require KELA, min 2 HDR)",24325,112,1.23 [0.76-1.99],0.3943714183705796
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Ulcerative colitis,23122,112,1.25 [0.77-2.02],0.3700569996400373
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",23105,95,1.06 [0.63-1.78],0.8321954281241387
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,23544,534,1.06 [0.85-1.32],0.6015211366211146
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,23540,530,1.06 [0.85-1.33],0.5891401253956366
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,18706,63,1.35 [0.71-2.60],0.3620592154976039
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Intestinal stricture,24147,63,1.32 [0.69-2.52],0.4071719473608389
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",18688,45,1.43 [0.67-3.08],0.3571492232277899
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,18918,275,1.64 [1.19-2.28],0.0028270005304953
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,18795,152,1.01 [0.67-1.51],0.9768879959608254
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,18863,220,0.70 [0.51-0.98],0.0374035303821911
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Constipation,23434,195,0.68 [0.48-0.96],0.0280757788420073
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Diseases of peritoneum,24067,77,0.98 [0.55-1.74],0.9431636056345284
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,18802,159,0.75 [0.50-1.11],0.1449836114853005
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,18726,83,1.38 [0.78-2.44],0.2713716916412663
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,19351,708,1.00 [0.83-1.22],0.961518683569566
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Other diseases of intestine,18802,159,1.46 [0.96-2.22],0.0737403296627679
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,24055,65,1.03 [0.55-1.93],0.9266468923443154
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Diseases of liver,23796,110,0.46 [0.29-0.73],0.000859857412079
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Other diseases of liver,23748,62,0.58 [0.31-1.10],0.09394888911481
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",23318,459,0.91 [0.71-1.16],0.454051288689844
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Cholelithiasis,23224,365,0.95 [0.72-1.25],0.6960252317466007
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Cholecystitis,22926,67,0.79 [0.42-1.47],0.457662520353025
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,22897,38,0.79 [0.36-1.72],0.548437662210609
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Acute pancreatitis,22909,50,2.57 [1.20-5.50],0.0151270324794142
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Acute pancreatitis (for exclusion),24285,50,2.59 [1.21-5.56],0.014296322174551
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Diseases of the digestive system,23337,256,1.07 [0.78-1.47],0.6882732124262876
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Intestinal malabsorption,23143,62,0.53 [0.29-0.97],0.0388864052483097
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Coeliac disease,23131,50,0.54 [0.27-1.05],0.0701959290750421
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",23120,39,2.00 [0.86-4.65],0.1067267293024086
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,23241,160,1.23 [0.82-1.85],0.3146757519012144
+APCS,Serum amyloid P-component,Chapter XI Diseases of the digestive system,GI-bleeding,23236,155,1.20 [0.79-1.80],0.3946555816732936
+APCS,Serum amyloid P-component,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,22171,1311,0.98 [0.85-1.14],0.814951557024199
+APCS,Serum amyloid P-component,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,24108,87,0.92 [0.53-1.58],0.7542936486877287
+APCS,Serum amyloid P-component,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,24080,419,1.17 [0.91-1.51],0.2125969451064198
+APCS,Serum amyloid P-component,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,23465,459,0.69 [0.55-0.87],0.0018465375593572
+APCS,Serum amyloid P-component,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,23750,359,1.36 [1.02-1.80],0.0331321772354077
+APCS,Serum amyloid P-component,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",23487,96,1.22 [0.72-2.06],0.4647288653063982
+APCS,Serum amyloid P-component,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,23593,202,1.46 [1.00-2.13],0.0495649562553034
+APCS,Serum amyloid P-component,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,24223,76,1.30 [0.71-2.38],0.391041733308621
+APCS,Serum amyloid P-component,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,24210,63,1.18 [0.61-2.27],0.6221237713409085
+APCS,Serum amyloid P-component,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,24193,46,0.81 [0.39-1.70],0.5808025723952555
+APCS,Serum amyloid P-component,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,24304,28,nan [nan-nan],
+APCS,Serum amyloid P-component,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,24301,25,0.82 [0.31-2.19],0.6947170445959692
+APCS,Serum amyloid P-component,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,23719,58,1.62 [0.81-3.25],0.1748968719105488
+APCS,Serum amyloid P-component,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,23977,316,1.23 [0.93-1.64],0.150764934606618
+APCS,Serum amyloid P-component,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,23067,61,0.64 [0.34-1.21],0.1682359112586114
+APCS,Serum amyloid P-component,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,23090,84,0.53 [0.32-0.89],0.015709220142049
+APCS,Serum amyloid P-component,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,23076,70,0.65 [0.37-1.16],0.144386846036062
+APCS,Serum amyloid P-component,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",23184,178,0.89 [0.61-1.29],0.5321461065206606
+APCS,Serum amyloid P-component,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,23162,156,0.96 [0.64-1.43],0.8245136346253727
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,18900,3100,1.02 [0.93-1.13],0.6428383436460778
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,20312,1654,1.07 [0.94-1.22],0.3103781299668836
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,22282,966,0.99 [0.84-1.18],0.9322282346004
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,18770,112,0.91 [0.56-1.47],0.7041709554945136
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,18969,311,1.13 [0.84-1.53],0.4157662395322076
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",24150,107,0.98 [0.60-1.60],0.9425797706885072
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,24160,95,1.05 [0.62-1.78],0.8470345055726332
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,19245,587,1.36 [1.08-1.70],0.0086070823209804
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",21519,587,1.35 [1.08-1.69],0.008937123906519
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,18699,41,3.10 [1.29-7.47],0.0115453885195391
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",24116,40,2.97 [1.23-7.20],0.0157538124496546
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,18791,133,0.99 [0.62-1.56],0.9510828621160542
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,18680,22,0.95 [0.31-2.91],0.9284936757406388
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,18772,114,2.25 [1.35-3.77],0.0019800611084294
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",24342,59,2.52 [1.23-5.19],0.0118689501760774
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,18951,293,1.40 [1.02-1.93],0.037685392063469
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,18854,196,1.18 [0.80-1.74],0.3929413587055096
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,19750,1092,1.04 [0.89-1.22],0.596662118498821
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),18694,36,0.70 [0.31-1.59],0.3892864606261343
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),18814,156,0.46 [0.31-0.67],7.058166032779194e-05
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,18681,23,0.90 [0.31-2.57],0.8378827755377081
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),18684,26,0.32 [0.13-0.81],0.0154121341256925
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,19114,456,1.38 [1.08-1.76],0.0107217375226008
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,19039,381,1.52 [1.16-2.00],0.0023770305329005
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,19284,246,1.20 [0.86-1.67],0.2916285247752833
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,24084,146,0.45 [0.30-0.66],4.702679795411712e-05
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,23975,37,0.85 [0.38-1.90],0.6931899255124571
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,21808,45,0.82 [0.39-1.74],0.6132081503780167
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,21964,201,1.34 [0.92-1.95],0.1250235803167046
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,22573,810,1.16 [0.96-1.39],0.1208229253117966
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,21887,124,1.52 [0.93-2.47],0.0924863186319234
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,21813,50,0.84 [0.41-1.71],0.6227318547879327
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",22444,681,1.16 [0.95-1.42],0.1407303921579901
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,21813,50,1.67 [0.78-3.57],0.189566981300585
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,21994,231,1.21 [0.86-1.70],0.2665188117476806
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,21865,102,0.99 [0.60-1.63],0.9666082672998698
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,21824,61,1.31 [0.67-2.54],0.4268590264183622
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,21887,124,1.02 [0.65-1.61],0.9367135279537272
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,21824,61,1.41 [0.72-2.75],0.3119440565293099
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,22053,290,1.09 [0.81-1.48],0.5677989139413404
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,21567,251,1.18 [0.85-1.64],0.3341443507133679
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,21366,50,2.89 [1.33-6.30],0.0075618720410227
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,21360,44,0.63 [0.30-1.35],0.2387474899544522
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,21419,103,1.01 [0.61-1.68],0.9712903473882256
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",21365,49,2.01 [0.94-4.30],0.0725695030850428
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,21371,55,2.69 [1.32-5.49],0.0063833271245217
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],21357,41,2.87 [1.26-6.51],0.0119159372281158
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,21505,189,1.04 [0.71-1.52],0.8416202799819239
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,21362,46,1.75 [0.80-3.84],0.163672100128047
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,21360,44,1.35 [0.60-3.00],0.467533465826107
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,21409,93,1.22 [0.71-2.11],0.4730578367748362
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,21382,66,0.55 [0.30-1.00],0.0511589115653357
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",21701,385,0.72 [0.56-0.94],0.0148992460860363
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,21451,135,0.73 [0.47-1.14],0.1687170322555816
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,21516,200,0.68 [0.48-0.98],0.0368962963314007
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,23196,92,0.72 [0.43-1.21],0.2178326617638452
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,23405,301,0.96 [0.72-1.29],0.8058813531786926
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,23154,50,1.85 [0.88-3.87],0.1036691705761803
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,23161,57,1.25 [0.63-2.47],0.5296604309693511
+APCS,Serum amyloid P-component,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,23206,102,1.02 [0.61-1.70],0.937422206518274
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,20687,3852,0.61 [0.56-0.66],7.013548453866222e-28
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,9920,355,0.82 [0.60-1.13],0.2251779056456049
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,23123,161,0.97 [0.65-1.45],0.8829420573626676
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,23008,46,1.04 [0.48-2.25],0.9111815535063243
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Acute renal failure,23269,31,1.11 [0.44-2.83],0.8201606197869854
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,23268,30,0.80 [0.32-1.95],0.6175517556482041
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,23278,40,2.10 [0.93-4.75],0.0754985856134812
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Urolithiasis,24124,205,1.95 [1.35-2.82],0.0004026257741482
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,24189,48,0.67 [0.33-1.38],0.2804342409928583
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,24059,140,2.73 [1.74-4.29],1.343217823732167e-05
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,24004,85,1.25 [0.71-2.19],0.4437883470200791
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,23102,778,0.76 [0.63-0.91],0.0028100014859322
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Cystitis,22394,70,0.78 [0.43-1.40],0.4005846347406583
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,22382,58,1.50 [0.75-2.98],0.2502669668110545
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,22482,158,1.58 [1.04-2.41],0.0327633823516116
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Urethral stricture,22406,82,0.94 [0.54-1.64],0.8167713410125805
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,22871,547,0.64 [0.52-0.79],4.153045145247404e-05
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,9628,63,0.46 [0.23-0.92],0.02816720118145
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),9597,32,0.66 [0.23-1.85],0.425175776664597
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Hydrocele,9600,35,0.41 [0.17-0.97],0.0432200499938407
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",9638,73,1.07 [0.53-2.17],0.8521250866192406
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,9623,58,2.05 [0.91-4.62],0.0830738522527027
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,9649,84,1.03 [0.54-1.97],0.9245478999731994
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Disorders of breast,13353,220,1.13 [0.80-1.61],0.4909612268422971
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,13200,67,1.27 [0.67-2.42],0.4621512836288761
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Unspecified lump in breast,13206,73,1.23 [0.67-2.25],0.5004562434781026
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,13181,48,0.77 [0.37-1.62],0.4993842003410914
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,13322,338,1.27 [0.95-1.70],0.1023948875285124
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Inflammatory disease of cervix uteri,13054,70,0.87 [0.46-1.62],0.6550197925089951
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,13156,172,1.32 [0.88-1.97],0.1803184031116113
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,12285,2427,1.29 [1.14-1.45],3.3166896286836315e-05
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Endometriosis,10111,253,1.67 [1.19-2.33],0.0028297514061158
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Unspecified/other endometriosis,9939,81,1.47 [0.82-2.63],0.1955801223461678
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),9957,99,2.16 [1.25-3.72],0.0054734885123459
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,10132,274,1.55 [1.12-2.16],0.0085353147944508
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,10125,267,1.40 [1.01-1.94],0.0415966361346392
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,10281,423,1.19 [0.92-1.55],0.1876254548609287
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Uterine polyps,10004,146,1.03 [0.67-1.59],0.8953788960308094
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",10049,191,1.69 [1.14-2.50],0.0083986643403427
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Erosion and ectropion of cervix uteri,9931,73,1.01 [0.55-1.85],0.9671553665343766
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Dysplasia of cervi uteri,9984,126,1.79 [1.12-2.85],0.0141687632398383
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,"All dysplastic lesions of the cervix uteri, vagina or vulva",13486,176,1.36 [0.92-2.02],0.1283490478708829
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,All dysplastic lesions of the cervix uteri,13495,170,1.46 [0.98-2.19],0.0630669450010943
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,HSIL lesion of the cervix uteri,13511,98,1.35 [0.80-2.28],0.2656735061868012
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,"HSIL lesion of the cervix uteri, vagina or vulva",13503,105,1.24 [0.74-2.05],0.4139936749830956
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,9918,60,1.03 [0.53-2.03],0.9248658884922673
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,9912,54,1.56 [0.76-3.20],0.2215203944631
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,9919,61,1.04 [0.54-2.02],0.8960207305847109
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Irregular menses,13423,328,1.26 [0.94-1.70],0.1189780393762797
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",10863,1005,1.24 [1.04-1.48],0.0161086034146163
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Menorrhagia,10547,689,1.21 [0.98-1.48],0.0769062347477926
+APCS,Serum amyloid P-component,"Chapter IV Endocrine, nutritional and metabolic diseases","Polycystic ovarian syndrome, consortium definition",13496,141,1.62 [1.03-2.54],0.0366282045767217
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,10167,309,1.07 [0.80-1.45],0.6415854384372243
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,10090,232,1.76 [1.24-2.50],0.0014784564380733
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,10087,229,1.35 [0.94-1.94],0.1071077723385159
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,Female infertility,9946,88,1.02 [0.59-1.77],0.9347733091241218
+APCS,Serum amyloid P-component,Chapter XIV Diseases of the genitourinary system,"Female infertility, cervigal, vaginal, other or unspecified origin",9939,81,0.91 [0.52-1.61],0.750359009287256
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care related to the fetus and amniotic cavity and possible delivery problems,13503,727,0.77 [0.63-0.95],0.013452366434037
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",Complications of labour and delivery,13511,1004,0.72 [0.60-0.87],0.0004612578455415
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",Pregnancy with abortive outcome,13504,388,0.96 [0.73-1.25],0.7604870284158599
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",Other abnormal products of conception,13226,110,1.17 [0.72-1.91],0.5178925058011408
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",Spontaneous abortion,13270,154,1.07 [0.70-1.62],0.7598950487670264
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",Medical abortion,13253,137,0.82 [0.53-1.26],0.3620332982096913
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium","Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",13520,139,0.89 [0.58-1.39],0.6176179830100504
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",Pregnancy hypertension,13522,137,0.95 [0.61-1.48],0.8212920803165702
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",Other maternal disorders predominantly related to pregnancy,13519,358,0.81 [0.61-1.07],0.1325292999614189
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",Haemorrhage in early pregnancy,13266,105,0.81 [0.49-1.33],0.4078745651334641
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for other conditions predominantly related to pregnancy,13359,198,0.89 [0.62-1.29],0.5517705889105251
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for known or suspected malpresentation of fetus,12898,122,0.87 [0.55-1.38],0.557145322779794
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for known or suspected abnormality of pelvic organs,12946,170,0.88 [0.59-1.31],0.5279920576129087
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for other known or suspected fetal problems,12976,200,0.70 [0.49-1.00],0.0516483184504795
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",Premature rupture of membranes,12900,124,1.02 [0.65-1.62],0.9196237238549824
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",False labour,12892,116,0.77 [0.48-1.24],0.2809804172091104
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",Prolonged pregnancy,12903,127,0.51 [0.32-0.79],0.0027171461811295
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",Long labour,12693,186,0.88 [0.60-1.29],0.5254154579813748
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",Labour and delivery complicated by fetal stress [distress],12876,369,0.63 [0.48-0.83],0.0011432679728006
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",Perineal laceration during delivery,13066,559,0.73 [0.58-0.92],0.0079068492892571
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium","Postpartum hemorraghe, all women as controls",13525,146,0.65 [0.43-0.99],0.0453881862182038
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",Postpartum haemorrhage due to anatomy,12305,111,0.62 [0.39-1.00],0.0504971728368405
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium","Other complications of labour and delivery, not elsewhere classified",12590,83,0.72 [0.42-1.26],0.2518790745038157
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",Delivery,13530,287,0.67 [0.50-0.91],0.0105542342540575
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium",Single spontaneous delivery,13467,224,0.63 [0.45-0.89],0.0083134682218978
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium","Other obstetric conditions, not elsewhere classified",13519,211,0.87 [0.61-1.25],0.4534688375179101
+APCS,Serum amyloid P-component,"Chapter XV Pregnancy, childbirth and the puerperium","Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",13510,202,0.89 [0.62-1.28],0.5370971624656167
+APCS,Serum amyloid P-component,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",24229,32,0.53 [0.23-1.23],0.1396191198568874
+APCS,Serum amyloid P-component,Chapter VI Diseases of the nervous system,Falls/tendency to fall,22981,452,1.15 [0.90-1.46],0.2699381490838679

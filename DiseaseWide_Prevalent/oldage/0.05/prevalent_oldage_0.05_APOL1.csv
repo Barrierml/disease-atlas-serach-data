@@ -1,0 +1,86 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+APOL1,Apolipoprotein L1,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,16016,240,0.68 [0.54-0.87],0.0019418876328259
+APOL1,Apolipoprotein L1,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,11687,881,0.83 [0.74-0.94],0.0040098159613995
+APOL1,Apolipoprotein L1,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,16713,78,0.61 [0.40-0.93],0.0200961568699707
+APOL1,Apolipoprotein L1,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,18481,121,0.64 [0.46-0.90],0.0107546576028858
+APOL1,Apolipoprotein L1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,17215,628,0.74 [0.64-0.85],3.945388847561091e-05
+APOL1,Apolipoprotein L1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,18841,164,0.53 [0.40-0.71],1.9202633713529528e-05
+APOL1,Apolipoprotein L1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,18390,279,0.71 [0.57-0.88],0.0020828173255183
+APOL1,Apolipoprotein L1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,18390,279,0.71 [0.57-0.88],0.0020828173255183
+APOL1,Apolipoprotein L1,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),16232,452,0.71 [0.59-0.85],0.0001295489924506
+APOL1,Apolipoprotein L1,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,14658,1344,0.69 [0.62-0.77],9.58314302665256e-12
+APOL1,Apolipoprotein L1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,17730,115,0.40 [0.28-0.57],2.704194720336808e-07
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,Peripheral artery disease,18793,139,0.67 [0.49-0.92],0.0143418188410554
+APOL1,Apolipoprotein L1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,17721,106,0.39 [0.27-0.56],3.1219531653249786e-07
+APOL1,Apolipoprotein L1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,18263,648,0.44 [0.37-0.52],9.65894206731839e-24
+APOL1,Apolipoprotein L1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,18244,629,0.44 [0.37-0.51],1.719379497063509e-23
+APOL1,Apolipoprotein L1,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,18578,151,0.71 [0.51-0.98],0.0376302807561563
+APOL1,Apolipoprotein L1,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",18577,150,0.71 [0.51-0.98],0.0376717183127344
+APOL1,Apolipoprotein L1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,14502,1188,0.65 [0.58-0.73],2.9610100975730865e-13
+APOL1,Apolipoprotein L1,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",13464,150,0.59 [0.43-0.80],0.0007812249179011
+APOL1,Apolipoprotein L1,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,14416,1102,0.66 [0.58-0.74],2.5097332528646746e-12
+APOL1,Apolipoprotein L1,Chapter V Mental and behavioural disorders,Any mental disorder,16596,446,0.74 [0.62-0.88],0.0006802896170785
+APOL1,Apolipoprotein L1,Chapter V Mental and behavioural disorders,Depression,18934,185,0.74 [0.57-0.97],0.029908773299687
+APOL1,Apolipoprotein L1,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",16243,93,0.60 [0.40-0.90],0.0129609015165098
+APOL1,Apolipoprotein L1,Chapter V Mental and behavioural disorders,Other anxiety disorders,18945,56,0.56 [0.34-0.94],0.0284350013885697
+APOL1,Apolipoprotein L1,Chapter VI Diseases of the nervous system,Neurological diseases,16601,1275,0.89 [0.81-0.98],0.0233040355762883
+APOL1,Apolipoprotein L1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,19141,89,1.40 [1.06-1.85],0.0176890837120605
+APOL1,Apolipoprotein L1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,19797,51,0.35 [0.22-0.57],1.5505207570741087e-05
+APOL1,Apolipoprotein L1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,2237,51,0.48 [0.29-0.81],0.0056541779849198
+APOL1,Apolipoprotein L1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",17611,51,0.32 [0.20-0.51],1.715373903984435e-06
+APOL1,Apolipoprotein L1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diseases of middle ear and mastoid,20081,119,0.64 [0.45-0.90],0.010426543419307
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,12422,3842,0.69 [0.64-0.74],6.787911191228148e-23
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,19357,85,0.36 [0.25-0.53],2.489638725286877e-07
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,"Hypertension, essential",13209,2668,0.79 [0.73-0.85],4.190886779085879e-09
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,Hypertension,13235,2694,0.78 [0.72-0.85],1.2818071894582683e-09
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,10604,63,0.27 [0.17-0.44],5.7635846292493154e-08
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",17686,1512,0.51 [0.46-0.57],3.7499218117764085e-33
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,Angina pectoris,17071,897,0.58 [0.51-0.66],1.3444217139321509e-15
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,18975,272,0.49 [0.39-0.62],3.480667295445693e-09
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,19269,566,0.45 [0.38-0.53],6.173718134842578e-20
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",20012,113,0.37 [0.26-0.52],8.406840356702742e-09
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",16533,359,0.37 [0.30-0.46],1.3149986520189862e-19
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,17362,1210,0.47 [0.41-0.53],4.067484155699978e-33
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,Secondary right heart disease,19154,112,0.67 [0.47-0.96],0.0288334295808368
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,19155,113,0.68 [0.48-0.96],0.0298509196215827
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",10649,108,0.65 [0.45-0.94],0.0206450179443126
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,Cardiomyopathy,14948,63,0.61 [0.38-0.99],0.044556889104732
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,Conduction disorders,15023,138,0.62 [0.45-0.85],0.0031196936177717
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,7995,117,0.52 [0.36-0.74],0.0003503174803328
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,8465,587,0.44 [0.37-0.53],1.8306001444565407e-18
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,Other arrhythmias,14966,81,0.41 [0.27-0.61],1.622376469204035e-05
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,14997,112,0.39 [0.28-0.55],6.410071158049003e-08
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,"Heart failure, strict",18772,244,0.47 [0.36-0.60],2.558239390480534e-09
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,18834,148,0.61 [0.45-0.83],0.0016396052310353
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,Hypotension,18783,100,0.65 [0.44-0.94],0.0235738419877154
+APOL1,Apolipoprotein L1,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,14924,1871,0.90 [0.83-0.98],0.0157023990528714
+APOL1,Apolipoprotein L1,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,19086,251,0.74 [0.59-0.94],0.0116317755000618
+APOL1,Apolipoprotein L1,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,19080,245,0.73 [0.58-0.93],0.0107652407838079
+APOL1,Apolipoprotein L1,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,19648,119,0.71 [0.51-0.99],0.0413842429565685
+APOL1,Apolipoprotein L1,Chapter X Diseases of the respiratory system,Pleural effusion,17743,121,0.69 [0.49-0.97],0.0330068752097603
+APOL1,Apolipoprotein L1,Chapter X Diseases of the respiratory system,Other diseases of pleura,17874,252,0.74 [0.59-0.93],0.0110638113001908
+APOL1,Apolipoprotein L1,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,14301,283,0.81 [0.65-1.00],0.0455800580883124
+APOL1,Apolipoprotein L1,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,14260,242,0.75 [0.59-0.94],0.0150110874433486
+APOL1,Apolipoprotein L1,Chapter XI Diseases of the digestive system,Oesophageal obstruction,14093,75,1.37 [1.01-1.85],0.0414847642517149
+APOL1,Apolipoprotein L1,Chapter XI Diseases of the digestive system,Hernia,17044,1784,0.86 [0.79-0.94],0.0007029464018692
+APOL1,Apolipoprotein L1,Chapter XI Diseases of the digestive system,Inguinal hernia,15956,696,0.65 [0.56-0.76],1.4468053906917736e-08
+APOL1,Apolipoprotein L1,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",19856,41,1.67 [1.15-2.42],0.0066159489774782
+APOL1,Apolipoprotein L1,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",20108,51,1.57 [1.11-2.21],0.0113305387464354
+APOL1,Apolipoprotein L1,Chapter XI Diseases of the digestive system,Crohn disease,18623,51,1.56 [1.11-2.21],0.0115111642993896
+APOL1,Apolipoprotein L1,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,12901,45,0.54 [0.31-0.92],0.0242248009882977
+APOL1,Apolipoprotein L1,Chapter XI Diseases of the digestive system,Diseases of liver,19382,105,0.61 [0.42-0.89],0.0095756736631142
+APOL1,Apolipoprotein L1,Chapter XI Diseases of the digestive system,Other diseases of liver,19333,56,0.40 [0.25-0.64],0.0001743814102343
+APOL1,Apolipoprotein L1,Chapter XI Diseases of the digestive system,Cholelithiasis,18751,489,1.22 [1.07-1.40],0.0030405719581075
+APOL1,Apolipoprotein L1,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,19162,236,0.74 [0.58-0.95],0.0155246362925189
+APOL1,Apolipoprotein L1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",19514,80,0.64 [0.42-0.99],0.044572591898052
+APOL1,Apolipoprotein L1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",19966,192,1.25 [1.01-1.55],0.0365840737156469
+APOL1,Apolipoprotein L1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,16836,72,1.41 [1.03-1.93],0.0308164289997941
+APOL1,Apolipoprotein L1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,16816,52,0.57 [0.33-0.97],0.0395474946778834
+APOL1,Apolipoprotein L1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,18107,208,0.75 [0.59-0.97],0.02713706851366
+APOL1,Apolipoprotein L1,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,17147,215,0.57 [0.44-0.74],2.0001427155589807e-05
+APOL1,Apolipoprotein L1,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,16995,63,0.61 [0.38-0.99],0.0466852694641735
+APOL1,Apolipoprotein L1,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,17242,54,0.32 [0.21-0.50],4.387094026528193e-07
+APOL1,Apolipoprotein L1,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,19671,68,0.57 [0.36-0.90],0.0167103202234835
+APOL1,Apolipoprotein L1,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",7067,63,0.51 [0.31-0.83],0.007392776509367
+APOL1,Apolipoprotein L1,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,7084,80,0.49 [0.31-0.76],0.0013441645434955
+APOL1,Apolipoprotein L1,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",19701,72,0.42 [0.28-0.65],6.978032631355353e-05

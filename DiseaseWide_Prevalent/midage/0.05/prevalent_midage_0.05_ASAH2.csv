@@ -1,0 +1,83 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+ASAH2,Neutral ceramidase,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,25412,144,0.78 [0.61-0.98],0.0368133524752772
+ASAH2,Neutral ceramidase,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,26212,76,0.62 [0.47-0.82],0.0008460241906318
+ASAH2,Neutral ceramidase,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,27444,107,0.71 [0.54-0.92],0.0086886554765668
+ASAH2,Neutral ceramidase,Chapter I Certain infectious and parasitic diseases,Other septicaemia,27404,67,0.62 [0.46-0.83],0.0015786069834984
+ASAH2,Neutral ceramidase,Chapter II Neoplasms,"Malignant neoplasm of breast, excluding all cancers (controls excluding all cancers)",13666,284,2.24 [1.77-2.83],1.2041682122832414e-11
+ASAH2,Neutral ceramidase,Chapter II Neoplasms,Other benign neoplasms of skin,28003,188,1.38 [1.06-1.80],0.0152136876602234
+ASAH2,Neutral ceramidase,Chapter II Neoplasms,Leiomyoma of uterus,15159,688,1.27 [1.11-1.46],0.0006017695788513
+ASAH2,Neutral ceramidase,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),25782,355,0.83 [0.71-0.97],0.0217368770810606
+ASAH2,Neutral ceramidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,26317,111,0.73 [0.55-0.95],0.0210099241099963
+ASAH2,Neutral ceramidase,Chapter IX Diseases of the circulatory system,Peripheral artery disease,27380,54,0.66 [0.47-0.92],0.0134447546867641
+ASAH2,Neutral ceramidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,26305,99,0.72 [0.54-0.96],0.0268501745928392
+ASAH2,Neutral ceramidase,Chapter V Mental and behavioural disorders,Any mental disorder,24438,765,1.16 [1.02-1.32],0.0211286510560601
+ASAH2,Neutral ceramidase,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",27702,228,0.81 [0.66-0.99],0.0358153530859188
+ASAH2,Neutral ceramidase,Chapter V Mental and behavioural disorders,Smoking dependency,26137,67,1.66 [1.06-2.59],0.027371633326206
+ASAH2,Neutral ceramidase,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",24062,389,1.32 [1.10-1.58],0.0026952895307487
+ASAH2,Neutral ceramidase,Chapter V Mental and behavioural disorders,Depression,26422,341,1.36 [1.12-1.66],0.0017946717966528
+ASAH2,Neutral ceramidase,Chapter V Mental and behavioural disorders,Depression or dysthymia,23917,300,1.36 [1.11-1.68],0.0035539560111136
+ASAH2,Neutral ceramidase,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",23818,145,1.72 [1.26-2.35],0.0006036109919056
+ASAH2,Neutral ceramidase,Chapter V Mental and behavioural disorders,Other anxiety disorders,26632,68,1.73 [1.10-2.72],0.0168640095478777
+ASAH2,Neutral ceramidase,Chapter VI Diseases of the nervous system,Neurological diseases,25009,1439,1.13 [1.03-1.24],0.0091318070589536
+ASAH2,Neutral ceramidase,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,26779,490,1.23 [1.05-1.44],0.0118175068889939
+ASAH2,Neutral ceramidase,Chapter VI Diseases of the nervous system,Epilepsy,26459,170,1.57 [1.19-2.09],0.0017029158179736
+ASAH2,Neutral ceramidase,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",27763,93,1.52 [1.04-2.23],0.0300310610738359
+ASAH2,Neutral ceramidase,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",26995,612,1.18 [1.02-1.36],0.0229398775154142
+ASAH2,Neutral ceramidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,27512,130,0.76 [0.59-0.97],0.0285234642620353
+ASAH2,Neutral ceramidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,27882,22,0.54 [0.34-0.84],0.0066943913194945
+ASAH2,Neutral ceramidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,1756,22,0.47 [0.29-0.76],0.0019509692458338
+ASAH2,Neutral ceramidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",26148,22,0.54 [0.34-0.86],0.0085160572000048
+ASAH2,Neutral ceramidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,27763,50,0.69 [0.48-1.00],0.04819634167881
+ASAH2,Neutral ceramidase,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,21832,47,0.57 [0.40-0.80],0.001095554353361
+ASAH2,Neutral ceramidase,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,19344,191,0.67 [0.55-0.81],5.160173820136574e-05
+ASAH2,Neutral ceramidase,Chapter IX Diseases of the circulatory system,Other arrhythmias,25481,42,0.61 [0.42-0.89],0.0106492657739568
+ASAH2,Neutral ceramidase,Chapter IX Diseases of the circulatory system,"Heart failure, strict",27626,121,0.72 [0.56-0.93],0.0103621049633942
+ASAH2,Neutral ceramidase,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",27629,85,0.74 [0.55-1.00],0.0499558981939523
+ASAH2,Neutral ceramidase,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,27911,135,1.50 [1.10-2.05],0.011232622353144
+ASAH2,Neutral ceramidase,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",26893,161,0.78 [0.62-0.98],0.0337180617295177
+ASAH2,Neutral ceramidase,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",26358,804,1.13 [1.00-1.28],0.0444464338279962
+ASAH2,Neutral ceramidase,Chapter X Diseases of the respiratory system,Asthma,21557,804,1.15 [1.01-1.30],0.0304711950502859
+ASAH2,Neutral ceramidase,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",21411,804,1.15 [1.01-1.30],0.032574355943389
+ASAH2,Neutral ceramidase,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",21541,788,1.16 [1.02-1.31],0.0231021065074115
+ASAH2,Neutral ceramidase,Chapter X Diseases of the respiratory system,Pleural effusion,26784,76,0.72 [0.52-0.98],0.0354362745848749
+ASAH2,Neutral ceramidase,Chapter X Diseases of the respiratory system,Other diseases of pleura,26884,176,0.72 [0.59-0.89],0.0018521791694568
+ASAH2,Neutral ceramidase,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,27283,80,0.68 [0.51-0.90],0.0076337758496292
+ASAH2,Neutral ceramidase,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),23077,631,1.15 [1.00-1.32],0.04908379831066
+ASAH2,Neutral ceramidase,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,22561,115,1.42 [1.01-1.99],0.0453527665481535
+ASAH2,Neutral ceramidase,Chapter XI Diseases of the digestive system,Hernia,25356,1174,0.86 [0.78-0.94],0.0012626413861706
+ASAH2,Neutral ceramidase,Chapter XI Diseases of the digestive system,Inguinal hernia,24578,396,0.69 [0.61-0.79],1.0649275239790721e-07
+ASAH2,Neutral ceramidase,Chapter XI Diseases of the digestive system,"Ulcerative colitis (strict definition, require KELA, min 2 HDR)",27999,131,0.77 [0.60-0.99],0.0432131412228488
+ASAH2,Neutral ceramidase,Chapter XI Diseases of the digestive system,Ulcerative colitis,26627,131,0.77 [0.60-0.99],0.0450360610776814
+ASAH2,Neutral ceramidase,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,27700,69,1.57 [1.01-2.44],0.0459778418951747
+ASAH2,Neutral ceramidase,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",26893,528,1.28 [1.09-1.50],0.0019672442433482
+ASAH2,Neutral ceramidase,Chapter XI Diseases of the digestive system,Cholelithiasis,26778,413,1.22 [1.02-1.46],0.0255131857472121
+ASAH2,Neutral ceramidase,Chapter XI Diseases of the digestive system,Cholecystitis,26443,78,1.88 [1.22-2.90],0.0040003427460124
+ASAH2,Neutral ceramidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,25685,1101,1.18 [1.06-1.32],0.0019630784051026
+ASAH2,Neutral ceramidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,21892,340,1.23 [1.01-1.49],0.038616799126916
+ASAH2,Neutral ceramidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,21706,154,1.36 [1.01-1.82],0.040352341785737
+ASAH2,Neutral ceramidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,25170,48,0.67 [0.46-0.97],0.0333585047795366
+ASAH2,Neutral ceramidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,25187,65,1.86 [1.17-2.98],0.009185971837203
+ASAH2,Neutral ceramidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,24869,285,1.32 [1.07-1.63],0.0105020884413346
+ASAH2,Neutral ceramidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,24812,228,1.38 [1.09-1.75],0.008178188063232
+ASAH2,Neutral ceramidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,24634,50,1.77 [1.04-3.01],0.0356952217021442
+ASAH2,Neutral ceramidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,24697,113,1.54 [1.09-2.17],0.0144710486362876
+ASAH2,Neutral ceramidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,26747,99,1.48 [1.03-2.13],0.0335265231442834
+ASAH2,Neutral ceramidase,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,23786,4397,1.25 [1.18-1.32],4.6689567083600143e-14
+ASAH2,Neutral ceramidase,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,11415,410,0.85 [0.73-0.99],0.0336408822141189
+ASAH2,Neutral ceramidase,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,26594,208,0.69 [0.58-0.83],8.617635348035733e-05
+ASAH2,Neutral ceramidase,Chapter XIV Diseases of the genitourinary system,Acute renal failure,26752,44,0.51 [0.38-0.68],4.498499287844964e-06
+ASAH2,Neutral ceramidase,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,26756,48,0.59 [0.42-0.82],0.0018378016825025
+ASAH2,Neutral ceramidase,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,26761,53,0.69 [0.48-0.99],0.0435143770341234
+ASAH2,Neutral ceramidase,Chapter XIV Diseases of the genitourinary system,Urolithiasis,27756,239,0.73 [0.61-0.87],0.0006125487521343
+ASAH2,Neutral ceramidase,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,27832,52,0.65 [0.46-0.92],0.0140294763811561
+ASAH2,Neutral ceramidase,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,27684,167,0.68 [0.55-0.83],0.0001940898027943
+ASAH2,Neutral ceramidase,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,26348,625,1.27 [1.10-1.46],0.001054428985607
+ASAH2,Neutral ceramidase,Chapter XIV Diseases of the genitourinary system,Hydrocele,11043,38,0.61 [0.41-0.93],0.0201633054397006
+ASAH2,Neutral ceramidase,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,14136,2769,1.13 [1.05-1.21],0.001338501924954
+ASAH2,Neutral ceramidase,Chapter XIV Diseases of the genitourinary system,Endometriosis,11664,297,1.28 [1.04-1.58],0.0216333961793878
+ASAH2,Neutral ceramidase,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),11483,116,1.58 [1.11-2.24],0.0101671144341841
+ASAH2,Neutral ceramidase,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,11676,309,1.23 [1.00-1.51],0.0497012258452079
+ASAH2,Neutral ceramidase,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,11667,300,1.33 [1.08-1.64],0.0083054576435521
+ASAH2,Neutral ceramidase,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",12506,1139,1.17 [1.05-1.31],0.004365979417891
+ASAH2,Neutral ceramidase,Chapter XIV Diseases of the genitourinary system,Menorrhagia,12144,777,1.20 [1.05-1.36],0.0075352387177726
+ASAH2,Neutral ceramidase,"Chapter XV Pregnancy, childbirth and the puerperium",Haemorrhage in early pregnancy,15268,127,0.77 [0.59-1.00],0.048563376154142

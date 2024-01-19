@@ -1,0 +1,102 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+RETN,Resistin,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,24176,985,1.48 [1.30-1.69],1.97587283937042e-09
+RETN,Resistin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,24087,196,2.62 [2.07-3.31],5.923491386588123e-16
+RETN,Resistin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,18424,769,2.36 [2.04-2.72],2.648371844267022e-31
+RETN,Resistin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,24962,85,2.41 [1.68-3.44],1.3717238798094963e-06
+RETN,Resistin,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,24334,66,3.01 [2.12-4.28],6.496855485662495e-10
+RETN,Resistin,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,26811,121,2.08 [1.52-2.84],4.33209203654757e-06
+RETN,Resistin,Chapter I Certain infectious and parasitic diseases,Other septicaemia,26762,72,2.40 [1.66-3.48],3.655044814858141e-06
+RETN,Resistin,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",26362,435,1.58 [1.31-1.90],1.117532247157078e-06
+RETN,Resistin,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,26058,131,2.01 [1.48-2.73],7.524024112622909e-06
+RETN,Resistin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,24705,1036,1.60 [1.41-1.81],7.050546174096561e-14
+RETN,Resistin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,26286,274,1.71 [1.36-2.13],2.933771225879729e-06
+RETN,Resistin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,26011,458,1.86 [1.57-2.21],1.5173406068320694e-12
+RETN,Resistin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,26011,458,1.86 [1.57-2.21],1.5173406068320694e-12
+RETN,Resistin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),24469,420,1.87 [1.55-2.25],3.5623780635554524e-11
+RETN,Resistin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,27347,108,1.99 [1.42-2.79],6.93873340426749e-05
+RETN,Resistin,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,22978,925,1.57 [1.37-1.80],7.249143664260276e-11
+RETN,Resistin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,25364,903,1.61 [1.42-1.84],4.241435555279912e-13
+RETN,Resistin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,25843,125,2.28 [1.68-3.10],1.1011986551979713e-07
+RETN,Resistin,Chapter IX Diseases of the circulatory system,Peripheral artery disease,26691,60,2.27 [1.51-3.44],9.430269493591976e-05
+RETN,Resistin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,25829,111,2.19 [1.57-3.05],3.371861732968523e-06
+RETN,Resistin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,26139,421,1.60 [1.33-1.93],7.663450331252793e-07
+RETN,Resistin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,26129,411,1.55 [1.28-1.88],6.522055091844873e-06
+RETN,Resistin,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,25612,196,2.10 [1.58-2.81],3.818213827915284e-07
+RETN,Resistin,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",25615,193,2.09 [1.57-2.80],5.819728713167973e-07
+RETN,Resistin,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,22103,50,3.50 [2.41-5.09],5.619926483412168e-11
+RETN,Resistin,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",22125,72,2.22 [1.49-3.30],8.71732941751696e-05
+RETN,Resistin,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",23115,386,1.57 [1.29-1.92],8.009731567984706e-06
+RETN,Resistin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,27431,36,3.64 [2.39-5.56],2.0191685643636366e-09
+RETN,Resistin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,1792,36,3.37 [2.03-5.59],2.5187448692223823e-06
+RETN,Resistin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",25675,36,3.84 [2.52-5.87],4.6154048546016557e-10
+RETN,Resistin,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,20382,2824,1.53 [1.40-1.67],2.8473336629140413e-20
+RETN,Resistin,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,27120,76,2.21 [1.52-3.20],3.061370544088096e-05
+RETN,Resistin,Chapter IX Diseases of the circulatory system,"Hypertension, essential",21403,2086,1.46 [1.32-1.61],2.337753030812614e-13
+RETN,Resistin,Chapter IX Diseases of the circulatory system,Hypertension,21424,2107,1.50 [1.35-1.65],2.1978556199846004e-15
+RETN,Resistin,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,19368,51,8.08 [5.71-11.43],3.743666451345743e-32
+RETN,Resistin,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",26008,740,1.50 [1.30-1.74],5.4460581183814424e-08
+RETN,Resistin,Chapter IX Diseases of the circulatory system,Angina pectoris,25781,513,1.43 [1.20-1.70],6.060438811420228e-05
+RETN,Resistin,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,27104,231,1.75 [1.38-2.23],4.65267458983311e-06
+RETN,Resistin,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,25743,487,1.59 [1.33-1.90],2.84362045652606e-07
+RETN,Resistin,Chapter IX Diseases of the circulatory system,Secondary right heart disease,26907,96,2.36 [1.70-3.27],3.350551817685272e-07
+RETN,Resistin,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,26907,96,2.36 [1.70-3.27],3.350551817685272e-07
+RETN,Resistin,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",19410,93,2.65 [1.89-3.70],1.4020699788947973e-08
+RETN,Resistin,Chapter IX Diseases of the circulatory system,Cardiomyopathy,24053,40,2.88 [1.81-4.60],8.811586776618586e-06
+RETN,Resistin,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,16778,280,2.54 [2.01-3.21],6.3797575047972736e-15
+RETN,Resistin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",26846,105,3.59 [2.73-4.73],1.0833811508283841e-19
+RETN,Resistin,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,26760,115,1.95 [1.42-2.69],4.420205519325528e-05
+RETN,Resistin,Chapter IX Diseases of the circulatory system,Hypotension,26548,95,2.11 [1.49-2.98],2.5837765791568128e-05
+RETN,Resistin,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,22503,2110,1.46 [1.33-1.60],4.137708591485321e-15
+RETN,Resistin,Chapter X Diseases of the respiratory system,Influenza and pneumonia,26041,200,1.76 [1.36-2.27],1.4301548029176251e-05
+RETN,Resistin,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",26021,180,1.83 [1.40-2.38],7.575738728483288e-06
+RETN,Resistin,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,24724,1165,1.42 [1.25-1.60],1.4504829400146537e-08
+RETN,Resistin,Chapter X Diseases of the respiratory system,Early onset COPD,26631,158,2.19 [1.68-2.84],6.2316680093275905e-09
+RETN,Resistin,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",26651,178,2.21 [1.72-2.83],4.692734618006234e-10
+RETN,Resistin,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",26651,178,2.21 [1.72-2.83],4.692734618006234e-10
+RETN,Resistin,Chapter X Diseases of the respiratory system,Asthma,20562,1000,1.37 [1.19-1.56],5.500435971564187e-06
+RETN,Resistin,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",20369,1000,1.38 [1.20-1.58],3.5342368316313062e-06
+RETN,Resistin,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",20548,986,1.36 [1.19-1.56],1.009507624079035e-05
+RETN,Resistin,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,27369,83,2.09 [1.47-2.99],4.7018444308818527e-05
+RETN,Resistin,Chapter X Diseases of the respiratory system,Pleural effusion,25840,87,2.65 [1.92-3.65],2.881873193455921e-09
+RETN,Resistin,Chapter X Diseases of the respiratory system,Other diseases of pleura,25944,191,2.61 [2.07-3.28],3.009267907631376e-16
+RETN,Resistin,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,26516,92,2.60 [1.89-3.58],4.352093163643625e-09
+RETN,Resistin,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,19167,6043,1.28 [1.20-1.38],7.508025214315572e-13
+RETN,Resistin,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,26615,918,1.51 [1.32-1.72],1.1911790136803447e-09
+RETN,Resistin,Chapter XI Diseases of the digestive system,Other diseases of intestines,21925,2195,1.29 [1.17-1.41],1.6584752557221937e-07
+RETN,Resistin,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",27347,61,2.36 [1.57-3.55],3.976623035798264e-05
+RETN,Resistin,Chapter XI Diseases of the digestive system,Crohn's disease NAS,25762,65,2.28 [1.52-3.42],6.379619446836804e-05
+RETN,Resistin,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,26479,782,1.52 [1.32-1.75],8.966204944285099e-09
+RETN,Resistin,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,26468,771,1.52 [1.32-1.75],1.0004196472375975e-08
+RETN,Resistin,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,20405,675,1.39 [1.18-1.64],6.073344218100457e-05
+RETN,Resistin,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,20127,397,1.50 [1.23-1.83],8.094377602498823e-05
+RETN,Resistin,Chapter XI Diseases of the digestive system,Diseases of liver,26895,107,2.31 [1.68-3.18],2.6542257413794214e-07
+RETN,Resistin,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",26116,881,1.34 [1.17-1.54],3.2735449433466847e-05
+RETN,Resistin,Chapter XI Diseases of the digestive system,Cholelithiasis,25971,736,1.35 [1.16-1.57],8.069452592008654e-05
+RETN,Resistin,Chapter XI Diseases of the digestive system,Diseases of the digestive system,26294,313,1.65 [1.33-2.05],5.1066011172223e-06
+RETN,Resistin,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,26153,172,1.77 [1.33-2.34],7.032006167657031e-05
+RETN,Resistin,Chapter XI Diseases of the digestive system,GI-bleeding,26143,162,1.83 [1.38-2.44],3.097656212161813e-05
+RETN,Resistin,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,26742,208,1.73 [1.34-2.24],2.422476931986588e-05
+RETN,Resistin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,19495,4421,1.36 [1.26-1.46],5.676189908086246e-16
+RETN,Resistin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,21245,2540,1.30 [1.19-1.42],1.4091834855250968e-08
+RETN,Resistin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,18915,210,2.02 [1.58-2.59],1.8215271166556544e-08
+RETN,Resistin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,19226,521,1.80 [1.52-2.13],1.171373278708595e-11
+RETN,Resistin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",27118,201,1.97 [1.55-2.52],4.523931817411328e-08
+RETN,Resistin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,27135,183,2.13 [1.67-2.72],1.353444858184196e-09
+RETN,Resistin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,19943,1238,1.33 [1.18-1.51],6.583298645524648e-06
+RETN,Resistin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",22661,1238,1.30 [1.15-1.47],3.1589541913521244e-05
+RETN,Resistin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,19198,493,1.56 [1.30-1.87],2.1699082857195376e-06
+RETN,Resistin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,26865,222,1.83 [1.45-2.31],4.3242652006744986e-07
+RETN,Resistin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,26737,94,2.25 [1.62-3.12],1.1829087247657657e-06
+RETN,Resistin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,24648,1026,1.36 [1.20-1.54],2.317680248877553e-06
+RETN,Resistin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",24441,819,1.37 [1.19-1.58],1.4431458909103224e-05
+RETN,Resistin,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,22591,6149,1.22 [1.14-1.30],1.7776425693734892e-09
+RETN,Resistin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,25214,205,4.68 [3.81-5.74],1.50539310845075e-49
+RETN,Resistin,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,25055,46,3.38 [2.25-5.07],3.934320155629345e-09
+RETN,Resistin,Chapter XIV Diseases of the genitourinary system,Acute renal failure,25383,37,6.11 [4.29-8.71],1.1305592317685312e-23
+RETN,Resistin,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,25394,48,6.69 [4.86-9.20],1.5476378060903383e-31
+RETN,Resistin,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,25390,44,6.28 [4.50-8.75],2.2567100699311557e-27
+RETN,Resistin,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,27323,68,3.40 [2.51-4.60],1.940058432309295e-15
+RETN,Resistin,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,25458,1264,1.48 [1.32-1.66],3.797372888712767e-11
+RETN,Resistin,Chapter XIV Diseases of the genitourinary system,Cystitis,24330,136,2.07 [1.53-2.80],2.0660925225956503e-06
+RETN,Resistin,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,25192,998,1.51 [1.32-1.71],5.119160869735262e-10
+RETN,Resistin,Chapter XIV Diseases of the genitourinary system,Menorrhagia,21521,873,0.73 [0.63-0.85],4.496697548446262e-05

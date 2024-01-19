@@ -1,0 +1,63 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+LPL,Lipoprotein lipase,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,19657,240,1.34 [1.05-1.72],0.0196215472281855
+LPL,Lipoprotein lipase,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,20377,92,1.77 [1.18-2.66],0.0054087898606075
+LPL,Lipoprotein lipase,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,22500,119,1.59 [1.12-2.26],0.0098796926117093
+LPL,Lipoprotein lipase,Chapter I Certain infectious and parasitic diseases,Other septicaemia,22466,85,1.72 [1.13-2.61],0.0109811271818839
+LPL,Lipoprotein lipase,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,22086,148,1.52 [1.11-2.08],0.0086513262052414
+LPL,Lipoprotein lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,20949,555,1.29 [1.10-1.52],0.0018367035121147
+LPL,Lipoprotein lipase,Chapter II Neoplasms,Benign neoplasm: Stomach,23714,48,1.80 [1.02-3.16],0.0414925721651231
+LPL,Lipoprotein lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,22510,123,1.49 [1.06-2.11],0.0225695912550019
+LPL,Lipoprotein lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,22139,255,1.35 [1.07-1.72],0.012937463910171
+LPL,Lipoprotein lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,22139,255,1.35 [1.07-1.72],0.012937463910171
+LPL,Lipoprotein lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,18534,1441,0.82 [0.74-0.91],0.0001435002104768
+LPL,Lipoprotein lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,21484,701,0.56 [0.49-0.64],9.940564648695032e-18
+LPL,Lipoprotein lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,21458,675,0.54 [0.47-0.62],4.75243112054162e-19
+LPL,Lipoprotein lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,18384,1291,0.75 [0.67-0.83],9.616442762375617e-08
+LPL,Lipoprotein lipase,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",17272,179,0.74 [0.57-0.96],0.0231839052639371
+LPL,Lipoprotein lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,18284,1191,0.74 [0.66-0.83],9.048157724106181e-08
+LPL,Lipoprotein lipase,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",17191,98,2.50 [1.68-3.71],6.289407628592114e-06
+LPL,Lipoprotein lipase,Chapter V Mental and behavioural disorders,Smoking dependency,21648,84,0.63 [0.43-0.91],0.0150514024566338
+LPL,Lipoprotein lipase,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,22365,542,1.28 [1.08-1.51],0.0033778793264188
+LPL,Lipoprotein lipase,Chapter VI Diseases of the nervous system,Epilepsy,21988,165,1.48 [1.10-1.98],0.0096740216507441
+LPL,Lipoprotein lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,2595,71,1.92 [1.23-2.99],0.0042624994498692
+LPL,Lipoprotein lipase,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,15996,3767,0.85 [0.78-0.91],2.373961277971008e-05
+LPL,Lipoprotein lipase,Chapter IX Diseases of the circulatory system,"Hypertension, essential",16890,2464,0.80 [0.74-0.88],8.053538233360447e-07
+LPL,Lipoprotein lipase,Chapter IX Diseases of the circulatory system,Hypertension,16936,2510,0.82 [0.75-0.89],7.562611651928111e-06
+LPL,Lipoprotein lipase,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,14538,112,3.21 [2.18-4.72],3.341869273690064e-09
+LPL,Lipoprotein lipase,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",20997,1675,0.78 [0.71-0.85],1.655869163340406e-07
+LPL,Lipoprotein lipase,Chapter IX Diseases of the circulatory system,Angina pectoris,20258,936,0.78 [0.69-0.88],5.56830127645017e-05
+LPL,Lipoprotein lipase,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,22277,338,0.70 [0.58-0.85],0.0002906160930394
+LPL,Lipoprotein lipase,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,22675,736,0.77 [0.67-0.88],0.0001121509161983
+LPL,Lipoprotein lipase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",19825,503,0.82 [0.70-0.97],0.0182252536039749
+LPL,Lipoprotein lipase,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,20729,1430,0.78 [0.70-0.86],9.35955543128974e-07
+LPL,Lipoprotein lipase,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,18569,127,1.71 [1.21-2.42],0.0024699627900945
+LPL,Lipoprotein lipase,Chapter IX Diseases of the circulatory system,"Heart failure, strict",22405,312,1.32 [1.06-1.64],0.0120120506392699
+LPL,Lipoprotein lipase,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",22678,182,1.39 [1.05-1.84],0.0219481893304398
+LPL,Lipoprotein lipase,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),22377,149,1.50 [1.10-2.05],0.0106045836697863
+LPL,Lipoprotein lipase,Chapter IX Diseases of the circulatory system,DVT of lower extremities,22362,134,1.42 [1.02-1.97],0.0358164570504562
+LPL,Lipoprotein lipase,Chapter IX Diseases of the circulatory system,Varicose veins,22568,340,1.67 [1.35-2.06],1.61088161669182e-06
+LPL,Lipoprotein lipase,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",21549,209,1.36 [1.05-1.77],0.0201990470086043
+LPL,Lipoprotein lipase,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,21186,856,1.16 [1.02-1.32],0.026171880698908
+LPL,Lipoprotein lipase,Chapter X Diseases of the respiratory system,Early onset COPD,22406,192,1.34 [1.02-1.77],0.0377417997573996
+LPL,Lipoprotein lipase,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",22437,223,1.39 [1.07-1.80],0.0123938781561855
+LPL,Lipoprotein lipase,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",22437,223,1.39 [1.07-1.80],0.0123938781561855
+LPL,Lipoprotein lipase,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,18923,774,0.86 [0.75-0.98],0.0266990512396583
+LPL,Lipoprotein lipase,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,17022,539,0.82 [0.70-0.96],0.014656337414367
+LPL,Lipoprotein lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,22104,461,1.21 [1.02-1.45],0.0316038763644377
+LPL,Lipoprotein lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,17483,3546,1.08 [1.01-1.16],0.0335143975067251
+LPL,Lipoprotein lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,20723,43,2.08 [1.16-3.74],0.0140846431067702
+LPL,Lipoprotein lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,20771,91,1.49 [1.00-2.23],0.0494637930091288
+LPL,Lipoprotein lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,20730,50,0.66 [0.45-0.97],0.0321573017521545
+LPL,Lipoprotein lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",20740,348,1.24 [1.01-1.51],0.0405113542792092
+LPL,Lipoprotein lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,20579,187,1.47 [1.12-1.95],0.0062560443611074
+LPL,Lipoprotein lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,22870,288,1.31 [1.05-1.64],0.0159756238836691
+LPL,Lipoprotein lipase,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,18182,2369,1.10 [1.01-1.19],0.0241792369596068
+LPL,Lipoprotein lipase,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,20906,307,1.99 [1.60-2.49],1.3987805482753803e-09
+LPL,Lipoprotein lipase,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,20693,94,1.52 [1.02-2.26],0.0381594693085299
+LPL,Lipoprotein lipase,Chapter XIV Diseases of the genitourinary system,Acute renal failure,20939,75,2.39 [1.52-3.75],0.0001548857459165
+LPL,Lipoprotein lipase,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,20956,92,4.19 [2.75-6.38],2.41208260363114e-11
+LPL,Lipoprotein lipase,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,20957,93,2.53 [1.68-3.81],8.376783341552733e-06
+LPL,Lipoprotein lipase,Chapter XIV Diseases of the genitourinary system,Urolithiasis,23212,362,0.83 [0.69-1.00],0.0441916571889889
+LPL,Lipoprotein lipase,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,23173,79,1.64 [1.06-2.52],0.0254724032204098
+LPL,Lipoprotein lipase,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,21053,386,1.22 [1.01-1.49],0.0406286418394888
+LPL,Lipoprotein lipase,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",23198,77,2.25 [1.44-3.50],0.0003326563144217

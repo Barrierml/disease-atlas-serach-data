@@ -1,0 +1,255 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+MMP12,Macrophage metalloelastase,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,44553,1815,1.60 [1.49-1.73],1.6084669720192568e-35
+MMP12,Macrophage metalloelastase,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,43830,436,2.33 [2.04-2.67],1.4324944919770354e-34
+MMP12,Macrophage metalloelastase,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,33687,1590,2.30 [2.13-2.49],5.041121236178816e-94
+MMP12,Macrophage metalloelastase,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,45434,176,2.43 [1.98-2.98],9.119708303826339e-18
+MMP12,Macrophage metalloelastase,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,44379,118,2.31 [1.80-2.96],4.436894681895431e-11
+MMP12,Macrophage metalloelastase,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,49412,243,1.98 [1.65-2.37],1.8898855698274683e-13
+MMP12,Macrophage metalloelastase,Chapter I Certain infectious and parasitic diseases,Other septicaemia,49326,157,2.42 [1.96-2.99],1.6655259069499367e-16
+MMP12,Macrophage metalloelastase,Chapter I Certain infectious and parasitic diseases,Mycoses,50556,104,1.86 [1.41-2.45],1.0882592420767028e-05
+MMP12,Macrophage metalloelastase,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",48795,832,1.77 [1.60-1.97],1.8728909743100968e-27
+MMP12,Macrophage metalloelastase,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,48250,287,2.12 [1.80-2.50],3.9691676976661866e-19
+MMP12,Macrophage metalloelastase,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,48532,569,1.65 [1.46-1.87],6.277802735541165e-15
+MMP12,Macrophage metalloelastase,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",41524,544,1.15 [1.00-1.32],0.0437840678100503
+MMP12,Macrophage metalloelastase,Chapter II Neoplasms,"Malignant neoplasm of breast, excluding all cancers (controls excluding all cancers)",23244,670,1.28 [1.12-1.45],0.0002029552802073
+MMP12,Macrophage metalloelastase,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",41084,104,1.98 [1.51-2.61],9.798402324374768e-07
+MMP12,Macrophage metalloelastase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,45787,1594,1.85 [1.71-2.00],2.703451764266294e-53
+MMP12,Macrophage metalloelastase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,48917,392,1.85 [1.59-2.15],1.6910542260140822e-15
+MMP12,Macrophage metalloelastase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,48273,707,1.89 [1.69-2.11],1.0979142121795495e-28
+MMP12,Macrophage metalloelastase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,48273,707,1.89 [1.69-2.11],1.0979142121795495e-28
+MMP12,Macrophage metalloelastase,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),44478,938,1.83 [1.66-2.02],3.8351911610072155e-33
+MMP12,Macrophage metalloelastase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,50432,142,1.97 [1.55-2.51],4.306569497579878e-08
+MMP12,Macrophage metalloelastase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,50919,168,1.41 [1.11-1.79],0.0047422863601599
+MMP12,Macrophage metalloelastase,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,41611,2363,2.10 [1.96-2.24],3.9133561327582906e-105
+MMP12,Macrophage metalloelastase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,48467,1087,1.40 [1.27-1.54],1.03161453840605e-11
+MMP12,Macrophage metalloelastase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,46881,275,2.77 [2.36-3.25],1.012713259782326e-35
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Peripheral artery disease,49147,225,3.66 [3.09-4.33],6.111549310502234e-51
+MMP12,Macrophage metalloelastase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,46852,246,2.68 [2.26-3.17],7.433612834315305e-30
+MMP12,Macrophage metalloelastase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,47719,1113,2.26 [2.07-2.48],7.194962898720687e-69
+MMP12,Macrophage metalloelastase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,47682,1076,2.22 [2.03-2.44],5.592438964243444e-64
+MMP12,Macrophage metalloelastase,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,47681,371,1.61 [1.36-1.92],6.602917355512814e-08
+MMP12,Macrophage metalloelastase,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",47684,367,1.62 [1.36-1.93],5.4762377846079706e-08
+MMP12,Macrophage metalloelastase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,41264,2016,2.07 [1.93-2.23],1.2638810636642821e-87
+MMP12,Macrophage metalloelastase,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",39514,266,2.37 [1.99-2.82],1.2583590590678522e-22
+MMP12,Macrophage metalloelastase,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,41107,1859,2.05 [1.90-2.21],2.0763792204608807e-79
+MMP12,Macrophage metalloelastase,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,39349,101,2.91 [2.26-3.75],1.057014902870408e-16
+MMP12,Macrophage metalloelastase,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",39420,172,2.58 [2.11-3.17],5.28584047964028e-20
+MMP12,Macrophage metalloelastase,Chapter V Mental and behavioural disorders,Any mental disorder,43586,1309,1.75 [1.60-1.90],5.11000189032462e-38
+MMP12,Macrophage metalloelastase,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",42736,459,2.04 [1.78-2.34],2.3853959477017342e-24
+MMP12,Macrophage metalloelastase,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",50724,340,1.51 [1.29-1.77],2.564436158572945e-07
+MMP12,Macrophage metalloelastase,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",50855,247,1.57 [1.31-1.88],8.986746228591686e-07
+MMP12,Macrophage metalloelastase,Chapter V Mental and behavioural disorders,Acute alcohol intoxication,47974,118,1.78 [1.37-2.30],1.3152714513432543e-05
+MMP12,Macrophage metalloelastase,Chapter V Mental and behavioural disorders,"Acute alcohol intoxication, ICD10",51334,118,1.55 [1.20-2.02],0.0009260954847625
+MMP12,Macrophage metalloelastase,Chapter V Mental and behavioural disorders,"Alcohol abuse, main dg, excluding more controls",42395,118,1.88 [1.44-2.45],3.618944904785276e-06
+MMP12,Macrophage metalloelastase,Chapter V Mental and behavioural disorders,Alcohol dependence,47998,142,1.89 [1.49-2.39],1.0456016945451033e-07
+MMP12,Macrophage metalloelastase,Chapter V Mental and behavioural disorders,Smoking dependency,47879,119,2.75 [2.18-3.47],1.0687921468930782e-17
+MMP12,Macrophage metalloelastase,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",42385,108,1.78 [1.34-2.36],6.847091030966054e-05
+MMP12,Macrophage metalloelastase,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",42929,652,1.78 [1.58-2.00],6.953747618570384e-22
+MMP12,Macrophage metalloelastase,Chapter V Mental and behavioural disorders,Depression,48329,570,1.61 [1.42-1.83],1.110515063287508e-13
+MMP12,Macrophage metalloelastase,Chapter V Mental and behavioural disorders,Depression or dysthymia,42412,495,1.76 [1.54-2.02],1.407349588338164e-16
+MMP12,Macrophage metalloelastase,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",42531,254,1.29 [1.06-1.58],0.0120594338416124
+MMP12,Macrophage metalloelastase,Chapter VI Diseases of the nervous system,Neurological diseases,44064,2958,1.31 [1.23-1.39],1.6651685303355377e-18
+MMP12,Macrophage metalloelastase,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,48830,967,1.25 [1.13-1.39],1.8071396586016184e-05
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Transient ischemic attack,49856,157,1.71 [1.36-2.14],3.049287592458741e-06
+MMP12,Macrophage metalloelastase,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",49195,1336,1.21 [1.11-1.32],2.7379571809490487e-05
+MMP12,Macrophage metalloelastase,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",48105,246,1.31 [1.07-1.60],0.0083178856114261
+MMP12,Macrophage metalloelastase,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,48628,769,1.22 [1.09-1.37],0.0008426308474952
+MMP12,Macrophage metalloelastase,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,50922,165,1.61 [1.28-2.02],4.40253175384022e-05
+MMP12,Macrophage metalloelastase,Chapter VI Diseases of the nervous system,Hemiplegia,50873,116,1.73 [1.33-2.26],5.429728628520008e-05
+MMP12,Macrophage metalloelastase,Chapter VI Diseases of the nervous system,Other neurological diseases,50530,248,1.76 [1.47-2.12],1.6374871162100771e-09
+MMP12,Macrophage metalloelastase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,44349,326,1.27 [1.07-1.50],0.0068076527236481
+MMP12,Macrophage metalloelastase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,44827,804,1.15 [1.03-1.29],0.0139920404365765
+MMP12,Macrophage metalloelastase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,49492,440,1.32 [1.14-1.53],0.0002537488230046
+MMP12,Macrophage metalloelastase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,50853,105,3.00 [2.37-3.81],1.2593191791005664e-19
+MMP12,Macrophage metalloelastase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,4393,105,2.35 [1.81-3.07],2.505150565925733e-10
+MMP12,Macrophage metalloelastase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",46565,105,3.23 [2.55-4.10],4.3127952390226985e-22
+MMP12,Macrophage metalloelastase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,50418,197,1.36 [1.09-1.70],0.0062908483094733
+MMP12,Macrophage metalloelastase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of ear,49768,201,1.35 [1.09-1.68],0.006847251425484
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,36453,6566,1.85 [1.77-1.95],7.694679509389206e-133
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,50242,138,2.11 [1.68-2.66],2.1811793674982807e-10
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,"Hypertension, essential",38384,4533,1.87 [1.77-1.97],2.5533842809131955e-111
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Hypertension,38451,4600,1.89 [1.79-2.00],3.731668971262847e-117
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,34012,161,3.80 [3.13-4.60],4.976780732239628e-42
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",47091,2405,1.99 [1.87-2.13],3.52698787687546e-96
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Angina pectoris,46129,1443,1.97 [1.82-2.13],1.4559728437847864e-61
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,49407,486,1.85 [1.62-2.10],1.2969036158517298e-20
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,49886,965,1.88 [1.71-2.07],8.393002020914024e-40
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",51252,194,1.81 [1.49-2.20],3.197309873391213e-09
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",45286,600,2.03 [1.80-2.28],2.3967525459758639e-32
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,46558,1907,2.13 [1.99-2.29],2.2063129729048768e-95
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Pulmonary embolism,49852,217,1.25 [1.01-1.54],0.0444152033349186
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Venous thromboembolism,50068,460,1.28 [1.11-1.49],0.0008203329806442
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Secondary right heart disease,49815,180,1.95 [1.58-2.40],5.460047620545758e-10
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,49817,182,1.94 [1.57-2.39],5.921998487164792e-10
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",34024,173,2.24 [1.81-2.77],1.2555095267280133e-13
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Cardiomyopathy,42696,118,1.41 [1.06-1.89],0.0194112831059086
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Conduction disorders,42822,244,1.86 [1.54-2.24],7.315567148598452e-11
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,28399,237,2.12 [1.75-2.57],1.1975586886133592e-14
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,29043,881,2.14 [1.92-2.38],5.849075568389397e-42
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Other arrhythmias,42711,133,1.61 [1.24-2.09],0.0003219474368108
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,42762,184,2.37 [1.94-2.90],2.017793976574915e-17
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,"Heart failure, strict",49368,418,2.33 [2.04-2.66],1.6127266644395066e-35
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",49701,311,1.92 [1.64-2.25],7.259576000479304e-16
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",49770,262,1.99 [1.68-2.36],2.267206357136337e-15
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",49930,231,2.06 [1.72-2.46],3.09617959622592e-15
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,49144,159,2.28 [1.84-2.83],5.64147763848254e-14
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,49245,260,2.73 [2.32-3.22],1.5331232338222229e-33
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),48558,285,1.32 [1.09-1.58],0.0036173487317594
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,DVT of lower extremities,48515,242,1.26 [1.03-1.54],0.0228727045798941
+MMP12,Macrophage metalloelastase,Chapter IX Diseases of the circulatory system,Hypotension,49078,173,1.50 [1.20-1.89],0.0004778219976632
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,41075,4123,1.61 [1.52-1.69],1.2321600002455803e-69
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,51142,216,1.37 [1.10-1.69],0.00440481332883
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,Influenza and pneumonia,47752,453,2.26 [1.99-2.58],1.7775534721374544e-35
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",47695,396,2.29 [2.00-2.63],1.6601780640090788e-32
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,49637,502,1.86 [1.64-2.11],1.3310063494599361e-21
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,49626,491,1.87 [1.65-2.13],7.444740014779419e-22
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,49904,1221,1.11 [1.01-1.22],0.0235603040929236
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",49467,784,1.16 [1.04-1.31],0.009495949487436
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,23671,128,2.18 [1.67-2.85],1.1708407545856141e-08
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,46023,2018,1.44 [1.34-1.54],1.7250185284015234e-23
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,Early onset COPD,49146,351,1.86 [1.60-2.16],3.2017222533808767e-16
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",49199,404,1.80 [1.56-2.07],2.5882481563165725e-16
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",49199,404,1.80 [1.56-2.07],2.5882481563165725e-16
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",48049,1669,1.20 [1.11-1.30],4.704333523678821e-06
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,Asthma,36766,1669,1.46 [1.35-1.59],2.876086590141068e-19
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",36227,1669,1.48 [1.36-1.61],3.445283313362262e-20
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",36743,1646,1.46 [1.35-1.59],5.608639463457753e-19
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,50771,181,2.24 [1.84-2.73],8.61468808442115e-16
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,Interstitial lung disease,48548,140,2.38 [1.91-2.97],1.2564715904939024e-14
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",50932,140,2.34 [1.88-2.92],2.920644169830604e-14
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,48534,126,2.59 [2.06-3.24],1.5520817458759562e-16
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,Pleural effusion,47339,223,2.47 [2.07-2.95],2.087387256359464e-23
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,Other diseases of pleura,47594,478,2.23 [1.96-2.53],1.7704969980416065e-35
+MMP12,Macrophage metalloelastase,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,48982,218,2.06 [1.72-2.48],1.037440065289266e-14
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,35013,11648,1.36 [1.31-1.42],1.3472360918511663e-55
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",50457,837,1.26 [1.12-1.40],5.381577791014319e-05
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,39153,546,1.34 [1.18-1.53],1.288120840358285e-05
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",42929,4322,1.26 [1.19-1.32],6.095318127279408e-18
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Oesophagitis,39289,682,1.28 [1.14-1.45],6.205444170396785e-05
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,39998,1391,1.15 [1.06-1.26],0.0015668644586693
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,38757,150,1.35 [1.05-1.74],0.0186711460542022
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,39018,411,1.33 [1.14-1.54],0.0002939827386959
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Gastric ulcer,38914,307,1.30 [1.09-1.55],0.0040044433319166
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Duodenal ulcer,38854,247,1.43 [1.18-1.73],0.0002316057987927
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",51247,170,1.33 [1.06-1.68],0.0132826821778037
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Chronic gastritis,38856,249,1.35 [1.11-1.64],0.0027392446153017
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),40228,1621,1.28 [1.18-1.38],2.404993221236366e-09
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Functional dyspepsia,39480,873,1.15 [1.03-1.29],0.0154053919584941
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,38947,340,1.36 [1.15-1.61],0.0004126979875803
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Hernia,45105,3255,1.15 [1.08-1.22],3.3791151755001404e-06
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Ventral hernia,42057,207,1.51 [1.23-1.86],0.0001128861886536
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,43578,1728,1.19 [1.10-1.29],1.310572750818712e-05
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,49553,1519,1.51 [1.40-1.64],3.4399983850171615e-24
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Other diseases of intestines,40313,4018,1.35 [1.28-1.42],7.370505715407742e-28
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",50833,119,1.56 [1.19-2.05],0.0013474072991367
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",51380,163,1.53 [1.21-1.94],0.0003510205722637
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Crohn disease,48197,163,1.58 [1.25-2.00],0.0001524333502813
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Crohn's disease NAS,48157,123,1.54 [1.17-2.02],0.0017834552283822
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,"Ulcerative colitis (strict definition, require KELA, min 2 HDR)",51245,275,1.82 [1.53-2.16],1.533783633755011e-11
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Ulcerative colitis,48309,275,1.87 [1.57-2.23],2.2840918193998298e-12
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",48282,248,1.95 [1.63-2.34],6.62034178001816e-13
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,49265,1231,1.45 [1.33-1.59],4.2263172665004597e-16
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,49251,1217,1.44 [1.32-1.58],2.065145947128182e-15
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,36497,202,1.34 [1.08-1.67],0.0091152497358797
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Intestinal stricture,50589,202,1.26 [1.01-1.56],0.038133191776733
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",36428,133,1.34 [1.03-1.76],0.0313050677565763
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,37508,1213,1.38 [1.26-1.52],5.392544111738313e-12
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,36626,331,1.35 [1.13-1.61],0.0010648893892933
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,36873,578,1.65 [1.45-1.88],2.313925009900524e-14
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Constipation,48220,519,1.59 [1.39-1.82],8.800128289431e-12
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Diseases of peritoneum,50610,178,1.27 [1.01-1.61],0.0434911552224957
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,36580,285,1.29 [1.06-1.56],0.0094232642844022
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,36438,143,1.45 [1.12-1.87],0.0049565244442909
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,38054,1759,1.25 [1.16-1.35],1.5151083215224482e-08
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Other diseases of intestine,36838,543,1.33 [1.16-1.52],3.4858084829544794e-05
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Diseases of liver,49879,250,1.66 [1.38-1.99],6.136275461976833e-08
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Other diseases of liver,49766,137,1.39 [1.07-1.80],0.0121080808432196
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",48768,1262,1.43 [1.30-1.56],7.141040309167451e-15
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Cholelithiasis,48521,1015,1.38 [1.25-1.53],2.5981073147993846e-10
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Cholecystitis,47706,200,1.38 [1.11-1.72],0.0037872557489939
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,47608,102,2.19 [1.67-2.87],1.3482058751735393e-08
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Acute pancreatitis,47644,138,1.37 [1.06-1.78],0.0165411891775116
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Acute pancreatitis (for exclusion),51162,138,1.34 [1.04-1.74],0.0255359746428078
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Diseases of the digestive system,48727,629,1.55 [1.38-1.75],7.496226687487651e-13
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Intestinal malabsorption,48241,143,1.99 [1.56-2.53],1.9705629573633395e-08
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Coeliac disease,48215,117,2.14 [1.65-2.78],8.619106143413623e-09
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",48199,101,1.42 [1.05-1.92],0.0229670278839654
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,48495,397,1.43 [1.22-1.66],5.437106439841834e-06
+MMP12,Macrophage metalloelastase,Chapter XI Diseases of the digestive system,GI-bleeding,48482,384,1.45 [1.24-1.69],2.3414332206706044e-06
+MMP12,Macrophage metalloelastase,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,45168,3108,1.24 [1.17-1.32],7.077014425393941e-13
+MMP12,Macrophage metalloelastase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,50601,210,1.41 [1.14-1.74],0.0015731573120605
+MMP12,Macrophage metalloelastase,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,50666,906,1.15 [1.03-1.28],0.0096984625369522
+MMP12,Macrophage metalloelastase,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,48315,1159,1.18 [1.07-1.29],0.0007928908268888
+MMP12,Macrophage metalloelastase,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,49679,786,1.34 [1.20-1.50],2.115361473190561e-07
+MMP12,Macrophage metalloelastase,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",49070,177,1.29 [1.03-1.63],0.0294313662789473
+MMP12,Macrophage metalloelastase,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,49399,506,1.35 [1.18-1.55],2.2151203349991592e-05
+MMP12,Macrophage metalloelastase,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,50958,182,1.28 [1.01-1.61],0.0386294622373429
+MMP12,Macrophage metalloelastase,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,50918,142,1.42 [1.10-1.84],0.0069055700977022
+MMP12,Macrophage metalloelastase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,50885,109,1.44 [1.08-1.93],0.0129254541843987
+MMP12,Macrophage metalloelastase,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,49874,114,1.55 [1.17-2.05],0.0024352965442882
+MMP12,Macrophage metalloelastase,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,47359,203,1.35 [1.08-1.68],0.0087238609423
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,37102,7978,1.37 [1.32-1.43],5.963783667617775e-49
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,40333,4633,1.37 [1.30-1.44],1.7472821090219126e-33
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,46443,2414,1.26 [1.18-1.34],1.3583682475821913e-11
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,36005,305,2.08 [1.77-2.44],8.037374697266419e-19
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,36633,933,1.78 [1.61-1.97],2.1754911617858423e-30
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",50668,293,1.98 [1.68-2.34],3.130286629266187e-16
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,50690,265,2.07 [1.75-2.46],4.069624441640026e-17
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,37992,2292,1.46 [1.36-1.56],1.5869097531033694e-26
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",43155,2292,1.41 [1.32-1.51],1.870029125920224e-23
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,35840,140,1.81 [1.42-2.29],1.14013060056269e-06
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",50356,136,1.76 [1.38-2.24],5.100078088112945e-06
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,36145,445,1.60 [1.39-1.85],1.5101187800452482e-10
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,35844,144,1.56 [1.22-2.00],0.0004062455218484
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,36264,564,1.84 [1.62-2.08],1.4331374557042606e-21
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",51190,279,1.85 [1.56-2.20],9.64945541949017e-13
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,36753,1053,1.34 [1.21-1.48],9.025120629044853e-09
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,36490,790,1.48 [1.33-1.65],4.019066589348509e-12
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,38278,2578,1.20 [1.12-1.28],7.631118770269782e-08
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,39895,554,1.43 [1.26-1.64],1.1319849559345e-07
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,50258,112,1.88 [1.43-2.47],6.162205891435201e-06
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,44532,129,1.75 [1.35-2.26],2.0552935116743285e-05
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,44994,591,1.52 [1.34-1.73],3.730989195183385e-11
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,46264,1861,1.41 [1.31-1.52],6.26369307235347e-20
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,44779,376,1.51 [1.29-1.77],2.1111245012400637e-07
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,44576,173,1.30 [1.03-1.64],0.0283179563505032
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",45872,1469,1.39 [1.28-1.51],3.563475443624141e-15
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,44506,103,1.51 [1.12-2.04],0.0062343514689759
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,44876,473,1.33 [1.15-1.54],9.71414926372505e-05
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,44561,158,1.31 [1.02-1.68],0.0313366314194728
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,44683,280,1.50 [1.25-1.80],1.4791933692198631e-05
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,45018,615,1.37 [1.21-1.55],1.0661848781823233e-06
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,44653,624,1.23 [1.08-1.39],0.0019298688890318
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,44166,137,1.31 [1.01-1.71],0.044165152016036
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",44127,98,1.43 [1.05-1.95],0.0236154218404222
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,44556,527,1.27 [1.11-1.45],0.0006644560330862
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,44181,152,1.28 [1.00-1.65],0.0479337430193096
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,44282,253,1.30 [1.07-1.58],0.0089331393165089
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",44916,887,1.26 [1.13-1.40],2.6793885515637256e-05
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,44366,337,1.25 [1.05-1.48],0.0116191114475428
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,44502,473,1.22 [1.05-1.41],0.0080948090241595
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,47717,343,1.42 [1.20-1.68],3.435266771527235e-05
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,48157,783,1.46 [1.31-1.63],2.434486942375425e-11
+MMP12,Macrophage metalloelastase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,47471,97,2.08 [1.58-2.74],2.243728801466236e-07
+MMP12,Macrophage metalloelastase,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,40850,8520,1.23 [1.18-1.28],1.5304928265606724e-22
+MMP12,Macrophage metalloelastase,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,20447,1289,1.14 [1.04-1.25],0.0034573469801066
+MMP12,Macrophage metalloelastase,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,46228,507,2.59 [2.29-2.92],1.4581421264140687e-53
+MMP12,Macrophage metalloelastase,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,45861,140,1.57 [1.21-2.03],0.0006312007593494
+MMP12,Macrophage metalloelastase,Chapter XIV Diseases of the genitourinary system,Acute renal failure,46435,111,3.37 [2.69-4.22],2.894205930386581e-26
+MMP12,Macrophage metalloelastase,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,46465,141,3.67 [3.01-4.47],2.866281687738999e-38
+MMP12,Macrophage metalloelastase,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,46456,132,3.28 [2.66-4.04],7.15144688534254e-29
+MMP12,Macrophage metalloelastase,Chapter XIV Diseases of the genitourinary system,Urolithiasis,50776,492,1.19 [1.04-1.38],0.0142641216534634
+MMP12,Macrophage metalloelastase,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,50609,144,2.10 [1.68-2.62],9.549375990272671e-11
+MMP12,Macrophage metalloelastase,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,50638,354,1.22 [1.04-1.45],0.0171288861067646
+MMP12,Macrophage metalloelastase,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,47048,2094,1.21 [1.12-1.30],2.844235083572185e-07
+MMP12,Macrophage metalloelastase,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,45117,163,1.31 [1.03-1.67],0.0306448886663721
+MMP12,Macrophage metalloelastase,Chapter XIV Diseases of the genitourinary system,Urethral stricture,45184,230,1.38 [1.13-1.70],0.0017335234450065
+MMP12,Macrophage metalloelastase,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,46311,1357,1.28 [1.17-1.39],7.057615378420668e-08
+MMP12,Macrophage metalloelastase,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,19319,161,1.57 [1.25-1.97],9.055884962594312e-05
+MMP12,Macrophage metalloelastase,Chapter XIV Diseases of the genitourinary system,Inflammatory disease of cervix uteri,26967,129,0.68 [0.50-0.94],0.0182027098871341
+MMP12,Macrophage metalloelastase,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),20878,166,1.32 [1.02-1.70],0.0336754733499962
+MMP12,Macrophage metalloelastase,Chapter XIV Diseases of the genitourinary system,Uterine polyps,21026,314,0.77 [0.63-0.94],0.0098588280958537
+MMP12,Macrophage metalloelastase,"Chapter XV Pregnancy, childbirth and the puerperium",Complications of labour and delivery,27772,1195,0.84 [0.75-0.95],0.0057276383311869
+MMP12,Macrophage metalloelastase,"Chapter XV Pregnancy, childbirth and the puerperium",Labour and delivery complicated by fetal stress [distress],27010,433,0.81 [0.67-0.98],0.0284175576713499
+MMP12,Macrophage metalloelastase,"Chapter XV Pregnancy, childbirth and the puerperium",Perineal laceration during delivery,27244,667,0.81 [0.69-0.95],0.0082114807811772
+MMP12,Macrophage metalloelastase,Chapter VI Diseases of the nervous system,Falls/tendency to fall,46415,1201,1.24 [1.13-1.36],5.314488718862516e-06

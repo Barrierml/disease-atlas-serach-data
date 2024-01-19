@@ -1,0 +1,49 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+CRNN,Cornulin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,23422,194,1.37 [1.14-1.64],0.0007834670623763
+CRNN,Cornulin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,17934,753,1.13 [1.02-1.25],0.0171214820737784
+CRNN,Cornulin,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",25653,427,1.16 [1.02-1.32],0.023169681259627
+CRNN,Cornulin,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,25353,127,1.55 [1.24-1.93],0.00011972203432
+CRNN,Cornulin,Chapter II Neoplasms,Melanocytic naevi of other and unspecified parts of face,26928,116,1.30 [1.02-1.67],0.0366078064337449
+CRNN,Cornulin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,25436,409,0.76 [0.67-0.87],4.31550260838868e-05
+CRNN,Cornulin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,25426,399,0.75 [0.66-0.85],1.5514741832832173e-05
+CRNN,Cornulin,Chapter V Mental and behavioural disorders,Any mental disorder,22728,612,1.14 [1.02-1.27],0.0206741641166382
+CRNN,Cornulin,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",22495,379,1.24 [1.08-1.42],0.0018479553022338
+CRNN,Cornulin,Chapter V Mental and behavioural disorders,Depression,25002,341,1.29 [1.11-1.48],0.0005392364936934
+CRNN,Cornulin,Chapter V Mental and behavioural disorders,Depression or dysthymia,22280,299,1.25 [1.07-1.46],0.0042520045096173
+CRNN,Cornulin,Chapter VI Diseases of the nervous system,Neurological diseases,23238,1599,1.11 [1.04-1.19],0.0030869881265976
+CRNN,Cornulin,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,21250,182,1.33 [1.09-1.62],0.0056655618092894
+CRNN,Cornulin,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,26705,74,1.54 [1.15-2.06],0.004036195091877
+CRNN,Cornulin,Chapter VI Diseases of the nervous system,Other neurological diseases,26482,118,1.34 [1.06-1.71],0.0160602319886303
+CRNN,Cornulin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,1749,34,1.53 [1.02-2.29],0.038365016092705
+CRNN,Cornulin,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,26394,74,0.64 [0.48-0.84],0.0014068833200488
+CRNN,Cornulin,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,18860,49,1.46 [1.02-2.10],0.0407343825486938
+CRNN,Cornulin,Chapter IX Diseases of the circulatory system,Venous thromboembolism,26282,211,1.24 [1.04-1.48],0.0180535335203906
+CRNN,Cornulin,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",26192,125,1.27 [1.01-1.60],0.0425317706976653
+CRNN,Cornulin,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),25383,129,1.32 [1.05-1.65],0.0181166677846159
+CRNN,Cornulin,Chapter IX Diseases of the circulatory system,DVT of lower extremities,25358,104,1.31 [1.02-1.69],0.0341656812734565
+CRNN,Cornulin,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",26756,101,1.30 [1.01-1.68],0.0394344823276532
+CRNN,Cornulin,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,25816,89,1.41 [1.08-1.85],0.0112136615914102
+CRNN,Cornulin,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",26407,464,0.87 [0.77-0.98],0.0265831370124278
+CRNN,Cornulin,Chapter XI Diseases of the digestive system,Dental caries,26047,104,0.77 [0.60-0.99],0.0415316420341826
+CRNN,Cornulin,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,23900,943,1.11 [1.02-1.21],0.020775723560589
+CRNN,Cornulin,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,19579,384,1.27 [1.11-1.46],0.0005250743305854
+CRNN,Cornulin,Chapter XI Diseases of the digestive system,Constipation,25275,341,1.26 [1.09-1.45],0.0015086531731555
+CRNN,Cornulin,Chapter XI Diseases of the digestive system,Diseases of liver,26176,105,1.45 [1.14-1.84],0.0024353903051505
+CRNN,Cornulin,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",25334,40,1.53 [1.03-2.27],0.033686682961018
+CRNN,Cornulin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,20100,290,1.18 [1.01-1.38],0.0354414847686205
+CRNN,Cornulin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,26160,222,1.31 [1.09-1.56],0.0032586075950253
+CRNN,Cornulin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,26029,91,1.31 [1.00-1.72],0.0492612459655384
+CRNN,Cornulin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,24248,233,1.20 [1.02-1.43],0.0323936210779887
+CRNN,Cornulin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,24542,194,1.30 [1.08-1.57],0.0050676478177356
+CRNN,Cornulin,Chapter XIV Diseases of the genitourinary system,Acute renal failure,24710,36,1.62 [1.10-2.39],0.0149664710130736
+CRNN,Cornulin,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,24718,44,1.69 [1.19-2.42],0.0036130345772368
+CRNN,Cornulin,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,24712,38,1.59 [1.07-2.37],0.0210285897323581
+CRNN,Cornulin,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,26600,61,1.42 [1.03-1.95],0.0299552984609084
+CRNN,Cornulin,Chapter XIV Diseases of the genitourinary system,Cystitis,23672,128,1.35 [1.07-1.69],0.0104553940363531
+CRNN,Cornulin,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,23714,170,1.24 [1.01-1.51],0.0375945767783153
+CRNN,Cornulin,Chapter XIV Diseases of the genitourinary system,Inflammatory disease of cervix uteri,26178,132,0.76 [0.61-0.96],0.0210633803391029
+CRNN,Cornulin,Chapter XIV Diseases of the genitourinary system,HSIL lesion of the cervix uteri,26958,139,1.38 [1.09-1.73],0.0063481035704099
+CRNN,Cornulin,Chapter XIV Diseases of the genitourinary system,"HSIL lesion of the cervix uteri, vagina or vulva",26947,152,1.32 [1.06-1.64],0.0127222752484565
+CRNN,Cornulin,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,20238,140,0.77 [0.62-0.96],0.0181084879143233
+CRNN,Cornulin,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,20971,873,1.16 [1.06-1.27],0.0016240683988388
+CRNN,Cornulin,"Chapter XV Pregnancy, childbirth and the puerperium",Long labour,26028,222,0.77 [0.64-0.93],0.0082091001385995

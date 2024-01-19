@@ -1,0 +1,47 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+GZMA,Granzyme A,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,24492,1000,1.48 [1.27-1.73],6.143119801017817e-07
+GZMA,Granzyme A,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,24402,195,1.77 [1.29-2.42],0.0004243591418268
+GZMA,Granzyme A,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,25291,81,2.02 [1.28-3.20],0.0026767143310288
+GZMA,Granzyme A,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,24659,66,2.07 [1.25-3.42],0.0044304834272192
+GZMA,Granzyme A,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,27149,119,2.08 [1.43-3.02],0.0001145179208267
+GZMA,Granzyme A,Chapter I Certain infectious and parasitic diseases,Other viral diseases,27882,102,1.89 [1.23-2.90],0.0036267106231145
+GZMA,Granzyme A,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,26569,308,1.47 [1.12-1.92],0.005417205753297
+GZMA,Granzyme A,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",22852,50,2.63 [1.61-4.29],0.0001083428976789
+GZMA,Granzyme A,Chapter II Neoplasms,Leiomyoma of uterus,27481,1012,0.80 [0.68-0.94],0.0061633733924793
+GZMA,Granzyme A,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,23269,931,1.45 [1.23-1.70],5.433240688407486e-06
+GZMA,Granzyme A,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,25691,915,1.34 [1.14-1.57],0.0004230131101385
+GZMA,Granzyme A,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,26477,420,1.51 [1.20-1.91],0.0005011278325807
+GZMA,Granzyme A,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,26468,411,1.50 [1.18-1.89],0.0008493277140458
+GZMA,Granzyme A,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,23072,734,1.51 [1.27-1.81],4.299753703426145e-06
+GZMA,Granzyme A,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",22421,83,1.94 [1.24-3.03],0.0037693082252546
+GZMA,Granzyme A,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,23019,681,1.49 [1.24-1.79],1.7634954938134784e-05
+GZMA,Granzyme A,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",23065,43,0.32 [0.16-0.63],0.0010625339062426
+GZMA,Granzyme A,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,22106,186,0.55 [0.38-0.81],0.0025079811293596
+GZMA,Granzyme A,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,27859,154,0.54 [0.36-0.82],0.0039469896632463
+GZMA,Granzyme A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diseases of middle ear and mastoid,27932,132,1.76 [1.20-2.57],0.0036269094959398
+GZMA,Granzyme A,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,27470,75,2.24 [1.46-3.45],0.0002428897123946
+GZMA,Granzyme A,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,19638,50,2.31 [1.37-3.88],0.0015692605297725
+GZMA,Granzyme A,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",26346,739,1.29 [1.08-1.55],0.0052048752879501
+GZMA,Granzyme A,Chapter IX Diseases of the circulatory system,Angina pectoris,26120,513,1.32 [1.07-1.64],0.0098886358679603
+GZMA,Granzyme A,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,27459,231,1.63 [1.21-2.19],0.0011513383259268
+GZMA,Granzyme A,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",27989,28,2.73 [1.44-5.19],0.0020621892363154
+GZMA,Granzyme A,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",25704,97,1.81 [1.17-2.80],0.0073634360990233
+GZMA,Granzyme A,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,17010,282,1.44 [1.09-1.91],0.0098186626491522
+GZMA,Granzyme A,Chapter IX Diseases of the circulatory system,"Heart failure, strict",27200,102,1.77 [1.17-2.70],0.0075491309120365
+GZMA,Granzyme A,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,22793,2136,1.22 [1.09-1.36],0.0007246220874059
+GZMA,Granzyme A,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,19410,6113,1.24 [1.14-1.34],1.8799394632338093e-07
+GZMA,Granzyme A,Chapter XI Diseases of the digestive system,Hernia,25116,1223,1.22 [1.05-1.41],0.0072770667914609
+GZMA,Granzyme A,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,24871,978,1.26 [1.08-1.48],0.0040421344691707
+GZMA,Granzyme A,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,26807,782,1.28 [1.08-1.53],0.005533835091595
+GZMA,Granzyme A,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,26796,771,1.29 [1.08-1.54],0.0044636094147188
+GZMA,Granzyme A,Chapter XI Diseases of the digestive system,Diseases of liver,27250,107,2.21 [1.52-3.22],3.486824483181264e-05
+GZMA,Granzyme A,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",26449,898,1.56 [1.33-1.82],3.886530191089445e-08
+GZMA,Granzyme A,Chapter XI Diseases of the digestive system,Cholelithiasis,26301,750,1.63 [1.38-1.94],1.456630720273546e-08
+GZMA,Granzyme A,Chapter XI Diseases of the digestive system,Intestinal malabsorption,26431,106,2.11 [1.42-3.12],0.0002075155632871
+GZMA,Granzyme A,Chapter XI Diseases of the digestive system,Coeliac disease,26415,90,2.56 [1.75-3.76],1.4285957748069629e-06
+GZMA,Granzyme A,Chapter XIV Diseases of the genitourinary system,Erosion and ectropion of cervix uteri,21014,101,1.09 [1.09-1.09],0.0
+GZMA,Granzyme A,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care related to the fetus and amniotic cavity and possible delivery problems,28047,888,1.41 [1.16-1.70],0.0004402505815602
+GZMA,Granzyme A,"Chapter XV Pregnancy, childbirth and the puerperium",Complications of labour and delivery,28050,1214,1.44 [1.22-1.71],2.549744479229816e-05
+GZMA,Granzyme A,"Chapter XV Pregnancy, childbirth and the puerperium",Premature rupture of membranes,27307,148,1.89 [1.25-2.88],0.0027353476009524
+GZMA,Granzyme A,"Chapter XV Pregnancy, childbirth and the puerperium",Labour and delivery complicated by fetal stress [distress],27280,444,1.55 [1.19-2.00],0.0009330083359382
+GZMA,Granzyme A,"Chapter XV Pregnancy, childbirth and the puerperium",Perineal laceration during delivery,27515,679,1.39 [1.11-1.73],0.0035109125318065

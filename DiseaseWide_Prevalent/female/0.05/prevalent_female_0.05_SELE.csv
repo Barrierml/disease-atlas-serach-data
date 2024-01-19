@@ -1,0 +1,101 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+SELE,E-selectin,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,24533,999,1.24 [1.11-1.39],0.0001815847066052
+SELE,E-selectin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,24446,198,1.48 [1.15-1.91],0.0022831073201175
+SELE,E-selectin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,18699,777,1.45 [1.27-1.65],5.762853203384389e-08
+SELE,E-selectin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,25335,85,1.49 [1.01-2.19],0.0451009412583914
+SELE,E-selectin,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",26751,441,1.33 [1.12-1.57],0.0010832914484956
+SELE,E-selectin,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,26616,306,1.42 [1.16-1.73],0.0007574225356516
+SELE,E-selectin,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",22877,53,1.77 [1.07-2.91],0.0251836081688662
+SELE,E-selectin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,25073,1047,1.17 [1.05-1.31],0.0054739653353917
+SELE,E-selectin,Chapter II Neoplasms,Leiomyoma of uterus,27526,1011,1.15 [1.03-1.29],0.0141150026449852
+SELE,E-selectin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),24829,424,1.22 [1.02-1.45],0.0276018488321753
+SELE,E-selectin,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,23321,937,1.38 [1.22-1.56],1.3221546598917372e-07
+SELE,E-selectin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,25733,917,1.17 [1.04-1.31],0.009041490756326
+SELE,E-selectin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,26225,125,1.95 [1.41-2.71],5.714029392377404e-05
+SELE,E-selectin,Chapter IX Diseases of the circulatory system,Peripheral artery disease,27082,62,2.29 [1.47-3.56],0.0002498870644943
+SELE,E-selectin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,26211,111,1.98 [1.40-2.80],0.0001032066215191
+SELE,E-selectin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,26524,424,2.47 [2.07-2.95],2.0007624331101842e-23
+SELE,E-selectin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,26514,414,2.48 [2.07-2.97],4.100488445660525e-23
+SELE,E-selectin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,23124,740,1.40 [1.22-1.60],1.183581538409791e-06
+SELE,E-selectin,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,23071,687,1.39 [1.21-1.59],4.3423669214093175e-06
+SELE,E-selectin,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",23189,120,1.64 [1.17-2.29],0.003954228896741
+SELE,E-selectin,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",27867,80,1.71 [1.15-2.54],0.0078969346511371
+SELE,E-selectin,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",27909,48,2.21 [1.33-3.68],0.0022870023680107
+SELE,E-selectin,Chapter V Mental and behavioural disorders,Alcohol dependence,26619,25,2.70 [1.30-5.61],0.0075896649880227
+SELE,E-selectin,Chapter VI Diseases of the nervous system,Other sleep disorders,26415,99,1.44 [1.02-2.04],0.0390742241981982
+SELE,E-selectin,Chapter VI Diseases of the nervous system,Sleep apnoea,27685,71,1.57 [1.04-2.37],0.030033593751456
+SELE,E-selectin,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",26700,876,1.13 [1.00-1.27],0.0471846471017529
+SELE,E-selectin,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,27847,77,1.49 [1.00-2.23],0.0497600236618857
+SELE,E-selectin,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,20695,2862,1.31 [1.21-1.42],6.681077440544579e-12
+SELE,E-selectin,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,27522,77,1.81 [1.21-2.72],0.0040611956411158
+SELE,E-selectin,Chapter IX Diseases of the circulatory system,"Hypertension, essential",21730,2109,1.41 [1.29-1.54],9.142527499919047e-15
+SELE,E-selectin,Chapter IX Diseases of the circulatory system,Hypertension,21752,2131,1.40 [1.28-1.53],2.0491357827406225e-14
+SELE,E-selectin,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",26390,748,1.25 [1.10-1.43],0.0006389332521489
+SELE,E-selectin,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",28039,28,2.00 [1.03-3.89],0.0414525265145383
+SELE,E-selectin,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",25742,100,1.61 [1.13-2.29],0.007896120260188
+SELE,E-selectin,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,26123,493,1.30 [1.11-1.53],0.0011734721808586
+SELE,E-selectin,Chapter IX Diseases of the circulatory system,Pulmonary embolism,27309,100,0.67 [0.48-0.93],0.0186099156994224
+SELE,E-selectin,Chapter IX Diseases of the circulatory system,Venous thromboembolism,27410,219,0.63 [0.50-0.79],5.841867425398961e-05
+SELE,E-selectin,Chapter IX Diseases of the circulatory system,Secondary right heart disease,27306,97,1.98 [1.38-2.85],0.0002260840953786
+SELE,E-selectin,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,27306,97,1.98 [1.38-2.85],0.0002260840953786
+SELE,E-selectin,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",19715,94,2.03 [1.39-2.97],0.0002646264030061
+SELE,E-selectin,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,27106,72,1.65 [1.08-2.51],0.019262791908017
+SELE,E-selectin,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,27151,117,1.39 [1.00-1.92],0.0482884107653905
+SELE,E-selectin,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),26452,133,0.60 [0.45-0.81],0.0006524646147042
+SELE,E-selectin,Chapter IX Diseases of the circulatory system,DVT of lower extremities,26425,106,0.56 [0.41-0.78],0.000488498282262
+SELE,E-selectin,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",27894,103,0.59 [0.42-0.82],0.0015408416167421
+SELE,E-selectin,Chapter IX Diseases of the circulatory system,Varicose veins,26937,618,0.83 [0.72-0.96],0.0097590070404843
+SELE,E-selectin,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,22840,2144,1.21 [1.12-1.32],2.386907609591865e-06
+SELE,E-selectin,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,27171,226,1.28 [1.01-1.61],0.0408485602395387
+SELE,E-selectin,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,27325,573,1.16 [1.00-1.35],0.0459765969015264
+SELE,E-selectin,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,25089,1186,1.25 [1.13-1.39],2.2527378190891923e-05
+SELE,E-selectin,Chapter X Diseases of the respiratory system,Early onset COPD,27026,162,1.57 [1.19-2.06],0.0014210161377052
+SELE,E-selectin,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",27046,182,1.51 [1.16-1.96],0.0019190812618317
+SELE,E-selectin,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",27046,182,1.51 [1.16-1.96],0.0019190812618317
+SELE,E-selectin,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",26013,1019,1.20 [1.07-1.34],0.0012896468230019
+SELE,E-selectin,Chapter X Diseases of the respiratory system,Asthma,20867,1019,1.26 [1.12-1.41],8.190848182322855e-05
+SELE,E-selectin,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",20672,1019,1.26 [1.12-1.41],9.123604660303882e-05
+SELE,E-selectin,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",20851,1003,1.27 [1.13-1.42],5.687203175260938e-05
+SELE,E-selectin,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,27777,84,2.41 [1.63-3.55],9.639201481793416e-06
+SELE,E-selectin,Chapter X Diseases of the respiratory system,Interstitial lung disease,26278,63,4.04 [2.59-6.30],8.07799753603597e-10
+SELE,E-selectin,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",27854,63,3.97 [2.54-6.19],1.3542032229738624e-09
+SELE,E-selectin,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,26271,56,4.44 [2.77-7.10],5.145063772303081e-10
+SELE,E-selectin,Chapter X Diseases of the respiratory system,Other diseases of pleura,26330,196,1.61 [1.24-2.08],0.0002849347108509
+SELE,E-selectin,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,26914,94,1.90 [1.32-2.75],0.0006006711256134
+SELE,E-selectin,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,19442,6121,1.10 [1.04-1.16],0.0014831020084918
+SELE,E-selectin,Chapter XI Diseases of the digestive system,Dental caries,27152,108,1.51 [1.08-2.11],0.016970733206115
+SELE,E-selectin,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,21230,223,1.29 [1.01-1.63],0.0375851687238163
+SELE,E-selectin,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",23374,2367,1.11 [1.03-1.20],0.0058679710614615
+SELE,E-selectin,Chapter XI Diseases of the digestive system,Gastric ulcer,21154,147,1.36 [1.01-1.81],0.0406327111561804
+SELE,E-selectin,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),21870,863,1.17 [1.04-1.33],0.0100785428115536
+SELE,E-selectin,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,21189,182,1.45 [1.11-1.90],0.0058173563035061
+SELE,E-selectin,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,27001,927,1.34 [1.19-1.50],1.4206138809907655e-06
+SELE,E-selectin,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",28034,91,1.55 [1.07-2.26],0.0217193631487539
+SELE,E-selectin,Chapter XI Diseases of the digestive system,Crohn disease,26165,91,1.58 [1.08-2.31],0.0177002276492047
+SELE,E-selectin,Chapter XI Diseases of the digestive system,Crohn's disease NAS,26140,66,1.74 [1.12-2.72],0.0143334089432699
+SELE,E-selectin,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,26861,787,1.38 [1.21-1.57],7.813391596308206e-07
+SELE,E-selectin,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,26850,776,1.35 [1.19-1.54],3.729346707429784e-06
+SELE,E-selectin,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,20705,684,1.30 [1.13-1.49],0.0002302638164065
+SELE,E-selectin,Chapter XI Diseases of the digestive system,Other diseases of intestine,20256,235,1.29 [1.03-1.62],0.0288939864340719
+SELE,E-selectin,Chapter XI Diseases of the digestive system,Diseases of liver,27293,107,1.70 [1.21-2.40],0.0024309578608033
+SELE,E-selectin,Chapter XI Diseases of the digestive system,Diseases of the digestive system,26684,313,1.47 [1.20-1.80],0.0001803076881258
+SELE,E-selectin,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",26412,41,2.39 [1.37-4.19],0.0022359096767541
+SELE,E-selectin,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,26543,172,1.56 [1.19-2.04],0.0013738361559972
+SELE,E-selectin,Chapter XI Diseases of the digestive system,GI-bleeding,26533,162,1.50 [1.13-1.98],0.0044065826609691
+SELE,E-selectin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",27514,205,1.36 [1.06-1.74],0.0143185813278649
+SELE,E-selectin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,27531,187,1.48 [1.14-1.92],0.0031520600662625
+SELE,E-selectin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,19299,313,1.27 [1.03-1.55],0.0227354582734233
+SELE,E-selectin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,27135,95,2.30 [1.59-3.32],9.814872281864042e-06
+SELE,E-selectin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,25011,1045,1.17 [1.05-1.31],0.0049208668273273
+SELE,E-selectin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",24801,835,1.23 [1.09-1.39],0.0011079110229677
+SELE,E-selectin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,24214,248,1.33 [1.06-1.66],0.0130216299793429
+SELE,E-selectin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,24132,166,1.47 [1.12-1.94],0.0054963563312311
+SELE,E-selectin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,23952,83,0.51 [0.35-0.74],0.0003858685045293
+SELE,E-selectin,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,27821,103,1.46 [1.03-2.07],0.0319425171784523
+SELE,E-selectin,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,24723,173,1.37 [1.05-1.80],0.0220920847926374
+SELE,E-selectin,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,21763,807,0.86 [0.76-0.97],0.0159570523475467
+SELE,E-selectin,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,21930,974,0.89 [0.80-1.00],0.0470187391867179
+SELE,E-selectin,Chapter XIV Diseases of the genitourinary system,Menorrhagia,21839,883,1.14 [1.01-1.28],0.0369424828298281
+SELE,E-selectin,"Chapter XV Pregnancy, childbirth and the puerperium",Prolonged pregnancy,27360,153,0.73 [0.55-0.97],0.0318264893548947
+SELE,E-selectin,"Chapter XV Pregnancy, childbirth and the puerperium",Single spontaneous delivery,28046,263,0.78 [0.62-0.97],0.0245798717547042
+SELE,E-selectin,Chapter VI Diseases of the nervous system,Falls/tendency to fall,25157,659,1.18 [1.03-1.35],0.0203508625964391

@@ -1,0 +1,65 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+C2,Complement C2,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,20345,826,1.81 [1.32-2.46],0.0001978111771549
+C2,Complement C2,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,19715,242,2.49 [1.38-4.49],0.0024447996187192
+C2,Complement C2,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,15199,814,2.10 [1.51-2.93],1.061509519442192e-05
+C2,Complement C2,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",22406,392,2.39 [1.52-3.75],0.0001541163526701
+C2,Complement C2,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,22283,269,2.95 [1.71-5.09],0.0001060969088532
+C2,Complement C2,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",18663,234,3.10 [1.70-5.67],0.0002385449773783
+C2,Complement C2,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",18482,53,7.31 [2.28-23.44],0.0008236371120317
+C2,Complement C2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,21027,560,2.47 [1.68-3.64],4.627640824429892e-06
+C2,Complement C2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,22583,123,2.93 [1.30-6.62],0.009433057520969
+C2,Complement C2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,22225,258,2.60 [1.48-4.56],0.000846784842252
+C2,Complement C2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,22225,258,2.60 [1.48-4.56],0.000846784842252
+C2,Complement C2,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),19987,512,1.73 [1.17-2.56],0.0065074431006128
+C2,Complement C2,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,18625,1445,2.28 [1.77-2.94],1.3569393053326538e-10
+C2,Complement C2,Chapter IX Diseases of the circulatory system,Peripheral artery disease,22427,165,2.96 [1.46-6.02],0.0026830764903002
+C2,Complement C2,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,21554,696,6.77 [4.66-9.85],1.2792057613836233e-23
+C2,Complement C2,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,21527,669,6.51 [4.45-9.52],5.300922595889887e-22
+C2,Complement C2,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,22030,171,2.84 [1.32-6.11],0.0076177003566792
+C2,Complement C2,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",22030,170,2.89 [1.34-6.23],0.0067872098945428
+C2,Complement C2,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,18472,1292,2.38 [1.82-3.10],1.8582975425826002e-10
+C2,Complement C2,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,18372,1192,2.30 [1.74-3.02],3.260741088236693e-09
+C2,Complement C2,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,17230,50,5.57 [1.58-19.67],0.0076738855200179
+C2,Complement C2,Chapter V Mental and behavioural disorders,Any mental disorder,20184,685,1.83 [1.30-2.57],0.0005209713353346
+C2,Complement C2,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",19768,269,2.76 [1.60-4.74],0.0002512606970888
+C2,Complement C2,Chapter V Mental and behavioural disorders,Depression,22593,231,2.41 [1.35-4.32],0.0029899805106846
+C2,Complement C2,Chapter V Mental and behavioural disorders,Depression or dysthymia,19478,198,2.34 [1.25-4.38],0.0076633145916477
+C2,Complement C2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,2599,71,5.00 [1.68-14.88],0.003847394667665
+C2,Complement C2,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,16044,3750,1.65 [1.38-1.97],4.541038943439255e-08
+C2,Complement C2,Chapter IX Diseases of the circulatory system,"Hypertension, essential",16928,2443,1.67 [1.36-2.05],8.793876911107508e-07
+C2,Complement C2,Chapter IX Diseases of the circulatory system,Hypertension,16975,2490,1.68 [1.37-2.06],4.867310727272888e-07
+C2,Complement C2,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,14597,112,4.17 [1.78-9.80],0.001044815900641
+C2,Complement C2,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",21074,1674,1.58 [1.26-1.98],7.07554251736333e-05
+C2,Complement C2,Chapter IX Diseases of the circulatory system,Angina pectoris,20335,935,1.54 [1.14-2.06],0.0042630274593522
+C2,Complement C2,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,22755,733,1.65 [1.19-2.29],0.0027966795223316
+C2,Complement C2,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,20807,1431,1.62 [1.27-2.06],0.0001121387478331
+C2,Complement C2,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",22754,186,2.39 [1.24-4.62],0.0093668840651973
+C2,Complement C2,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,22397,88,5.89 [2.24-15.48],0.0003226275971758
+C2,Complement C2,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,18536,2009,1.83 [1.49-2.25],1.2091892209910441e-08
+C2,Complement C2,Chapter X Diseases of the respiratory system,Influenza and pneumonia,21657,251,2.45 [1.39-4.34],0.0020687419099258
+C2,Complement C2,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",21620,214,2.33 [1.26-4.31],0.0072834604536139
+C2,Complement C2,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,22813,269,2.69 [1.56-4.63],0.0003611004480489
+C2,Complement C2,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,22810,266,2.72 [1.57-4.70],0.000338314079616
+C2,Complement C2,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,21258,850,1.91 [1.41-2.59],3.350639295386408e-05
+C2,Complement C2,Chapter X Diseases of the respiratory system,Early onset COPD,22484,192,2.71 [1.41-5.19],0.0027555381003569
+C2,Complement C2,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",22372,662,1.68 [1.19-2.36],0.0029030505907628
+C2,Complement C2,Chapter X Diseases of the respiratory system,Asthma,16168,662,1.95 [1.37-2.77],0.0001951084113106
+C2,Complement C2,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",15822,662,1.94 [1.37-2.76],0.0002061091886338
+C2,Complement C2,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",16158,652,1.91 [1.34-2.71],0.0003431860572127
+C2,Complement C2,Chapter X Diseases of the respiratory system,Other diseases of pleura,21618,286,2.13 [1.25-3.61],0.0050866129584765
+C2,Complement C2,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,22427,126,2.96 [1.33-6.55],0.0075895465426481
+C2,Complement C2,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,15824,5610,1.22 [1.07-1.40],0.0041193773039721
+C2,Complement C2,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",19890,2002,1.46 [1.19-1.78],0.0002599300512691
+C2,Complement C2,Chapter XI Diseases of the digestive system,Oesophageal obstruction,17961,73,5.72 [2.04-16.06],0.00091639726623
+C2,Complement C2,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),18669,781,1.69 [1.23-2.32],0.0012975549304126
+C2,Complement C2,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,22916,597,1.62 [1.13-2.32],0.0084836455756387
+C2,Complement C2,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,16728,180,2.84 [1.45-5.57],0.0022917239340225
+C2,Complement C2,Chapter XI Diseases of the digestive system,Constipation,22217,165,3.09 [1.53-6.22],0.0016036224814091
+C2,Complement C2,Chapter XI Diseases of the digestive system,Diseases of the digestive system,22402,322,2.21 [1.35-3.63],0.0016205005032615
+C2,Complement C2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,23495,35,0.46 [0.30-0.72],0.0005921872330085
+C2,Complement C2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,20904,161,0.62 [0.43-0.88],0.0075429963740158
+C2,Complement C2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,22710,58,9.38 [3.23-27.28],3.904661534422901e-05
+C2,Complement C2,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,20974,309,3.08 [1.83-5.19],2.385778489387301e-05
+C2,Complement C2,Chapter XIV Diseases of the genitourinary system,Acute renal failure,21005,76,4.82 [1.72-13.50],0.0028069106831864
+C2,Complement C2,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,21021,92,4.66 [1.82-11.94],0.0013395572521925
+C2,Complement C2,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,21022,93,4.53 [1.79-11.50],0.0014699215944121

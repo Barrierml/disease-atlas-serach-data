@@ -1,0 +1,40 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+VIT,Vitrin,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,38836,1571,1.38 [1.21-1.57],1.0872552366856562e-06
+VIT,Vitrin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,38212,361,2.61 [2.04-3.34],2.0731939582156457e-14
+VIT,Vitrin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,29278,1318,1.82 [1.58-2.10],2.423721693310477e-16
+VIT,Vitrin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,39613,143,3.02 [2.11-4.31],1.262022143771779e-09
+VIT,Vitrin,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,43009,199,2.20 [1.59-3.04],1.9925492760387e-06
+VIT,Vitrin,Chapter I Certain infectious and parasitic diseases,Other septicaemia,42936,126,2.91 [2.01-4.21],1.6319004891651122e-08
+VIT,Vitrin,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",42461,709,1.53 [1.27-1.85],5.883932076452103e-06
+VIT,Vitrin,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,41996,244,2.38 [1.79-3.16],3.0936819886380392e-09
+VIT,Vitrin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,39869,1339,1.52 [1.32-1.74],4.623771135245705e-09
+VIT,Vitrin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),38761,763,1.93 [1.61-2.31],1.119039154246046e-12
+VIT,Vitrin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,43801,121,2.62 [1.76-3.91],2.0329478575845246e-06
+VIT,Vitrin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,40729,208,2.67 [1.98-3.58],8.557548701545043e-11
+VIT,Vitrin,Chapter IX Diseases of the circulatory system,Peripheral artery disease,42722,189,2.31 [1.64-3.25],1.8432580806213857e-06
+VIT,Vitrin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,40709,188,2.43 [1.77-3.34],4.7222357720849134e-08
+VIT,Vitrin,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",34395,133,3.46 [2.43-4.92],5.022307996355939e-12
+VIT,Vitrin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,44181,70,3.58 [2.38-5.40],1.065332243596282e-09
+VIT,Vitrin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,3785,70,3.64 [2.26-5.86],9.72371534351506e-08
+VIT,Vitrin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",40466,70,3.57 [2.33-5.46],4.351418974688788e-09
+VIT,Vitrin,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,31621,5574,1.21 [1.11-1.31],5.720128500559036e-06
+VIT,Vitrin,Chapter IX Diseases of the circulatory system,"Hypertension, essential",33355,3832,1.28 [1.16-1.40],2.8433725881735055e-07
+VIT,Vitrin,Chapter IX Diseases of the circulatory system,Hypertension,33396,3873,1.32 [1.20-1.44],5.8255170688981085e-09
+VIT,Vitrin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",42929,360,2.15 [1.68-2.76],1.983130593950674e-09
+VIT,Vitrin,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,35747,3611,1.39 [1.27-1.52],3.109754930172064e-13
+VIT,Vitrin,Chapter X Diseases of the respiratory system,Influenza and pneumonia,41567,395,1.96 [1.54-2.50],4.7001344592027566e-08
+VIT,Vitrin,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",41518,346,2.13 [1.65-2.75],6.2415204971240526e-09
+VIT,Vitrin,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,39940,1775,1.41 [1.25-1.59],3.0800204581008225e-08
+VIT,Vitrin,Chapter X Diseases of the respiratory system,Asthma,31971,1457,1.42 [1.24-1.63],3.534601665994077e-07
+VIT,Vitrin,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",31509,1457,1.43 [1.25-1.63],3.0297123964062945e-07
+VIT,Vitrin,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",31949,1435,1.41 [1.23-1.62],8.028117318327966e-07
+VIT,Vitrin,Chapter X Diseases of the respiratory system,Other diseases of pleura,41381,416,1.82 [1.43-2.30],8.248505110004181e-07
+VIT,Vitrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,44030,230,2.01 [1.48-2.73],8.765481703875357e-06
+VIT,Vitrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,43754,246,2.24 [1.70-2.96],1.1651364710130536e-08
+VIT,Vitrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,43608,100,3.41 [2.35-4.95],1.0332688519068564e-10
+VIT,Vitrin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,40424,375,5.44 [4.35-6.81],5.025120667676646e-50
+VIT,Vitrin,Chapter XIV Diseases of the genitourinary system,Acute renal failure,40657,76,8.08 [5.56-11.76],9.142312015465466e-28
+VIT,Vitrin,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,40679,98,8.91 [6.25-12.71],1.3714955804748169e-33
+VIT,Vitrin,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,44014,112,2.84 [1.92-4.19],1.5920772585473286e-07
+VIT,Vitrin,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care related to the fetus and amniotic cavity and possible delivery problems,24197,736,0.60 [0.49-0.74],2.4035254549649664e-06
+VIT,Vitrin,"Chapter XV Pregnancy, childbirth and the puerperium",Complications of labour and delivery,24203,1014,0.61 [0.50-0.73],1.8782314468376498e-07

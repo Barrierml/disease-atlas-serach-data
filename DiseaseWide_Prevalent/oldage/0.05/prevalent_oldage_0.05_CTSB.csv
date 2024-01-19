@@ -1,0 +1,84 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+CTSB,Cathepsin B,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,18240,297,1.51 [1.27-1.81],5.036126480029118e-06
+CTSB,Cathepsin B,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,13350,1098,1.21 [1.09-1.35],0.0003142584984025
+CTSB,Cathepsin B,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,19036,97,1.75 [1.31-2.36],0.0001797275240761
+CTSB,Cathepsin B,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,18540,72,1.47 [1.03-2.10],0.0354191459166811
+CTSB,Cathepsin B,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,21801,134,1.53 [1.18-1.98],0.0011933716345167
+CTSB,Cathepsin B,Chapter I Certain infectious and parasitic diseases,Other septicaemia,21755,88,1.67 [1.22-2.28],0.0012416201756646
+CTSB,Cathepsin B,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,21174,138,1.33 [1.02-1.73],0.0332160150703605
+CTSB,Cathepsin B,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",16561,59,1.63 [1.12-2.39],0.011286138013527
+CTSB,Cathepsin B,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,19729,775,1.56 [1.39-1.74],9.937342020677761e-15
+CTSB,Cathepsin B,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,21631,199,1.63 [1.32-2.02],5.404833200665954e-06
+CTSB,Cathepsin B,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,21094,355,1.52 [1.29-1.78],3.468249521286436e-07
+CTSB,Cathepsin B,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,21094,355,1.52 [1.29-1.78],3.468249521286436e-07
+CTSB,Cathepsin B,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,22584,59,1.62 [1.10-2.39],0.0140843371174301
+CTSB,Cathepsin B,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,16772,1661,0.62 [0.57-0.68],6.992421422930635e-24
+CTSB,Cathepsin B,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,21476,641,1.16 [1.02-1.32],0.0262087785547509
+CTSB,Cathepsin B,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,20403,157,1.39 [1.09-1.77],0.0087186718144626
+CTSB,Cathepsin B,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,21027,781,0.81 [0.71-0.92],0.0011365052366792
+CTSB,Cathepsin B,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,21000,754,0.80 [0.70-0.91],0.0006219682636425
+CTSB,Cathepsin B,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,16590,1479,0.55 [0.50-0.61],8.487246632310639e-32
+CTSB,Cathepsin B,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",15297,186,0.52 [0.40-0.68],1.7103617069624551e-06
+CTSB,Cathepsin B,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,16483,1372,0.54 [0.49-0.60],2.879686698266268e-31
+CTSB,Cathepsin B,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",22842,115,1.55 [1.17-2.04],0.0023380968429745
+CTSB,Cathepsin B,Chapter VI Diseases of the nervous system,Migraine,21458,58,0.53 [0.33-0.83],0.0062875389450727
+CTSB,Cathepsin B,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",22976,52,0.55 [0.34-0.89],0.0144772485456135
+CTSB,Cathepsin B,Chapter IX Diseases of the circulatory system,Transient ischemic attack,22026,119,0.70 [0.51-0.95],0.0230996054043649
+CTSB,Cathepsin B,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,2608,83,1.64 [1.16-2.30],0.0047418469145964
+CTSB,Cathepsin B,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of ear,21976,111,0.66 [0.47-0.91],0.0115877199953853
+CTSB,Cathepsin B,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,14291,4604,0.74 [0.69-0.79],2.816549202425081e-20
+CTSB,Cathepsin B,Chapter IX Diseases of the circulatory system,"Hypertension, essential",15136,3233,0.71 [0.66-0.77],3.3673945288464053e-20
+CTSB,Cathepsin B,Chapter IX Diseases of the circulatory system,Hypertension,15180,3277,0.73 [0.68-0.78],1.5236259968617641e-18
+CTSB,Cathepsin B,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,12016,113,1.95 [1.48-2.57],1.7616893808717424e-06
+CTSB,Cathepsin B,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",20315,1833,0.59 [0.54-0.65],1.734840179868654e-31
+CTSB,Cathepsin B,Chapter IX Diseases of the circulatory system,Angina pectoris,19572,1090,0.58 [0.52-0.65],7.663145650407288e-22
+CTSB,Cathepsin B,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,21811,348,0.57 [0.47-0.69],9.322166201679482e-09
+CTSB,Cathepsin B,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,22166,703,0.54 [0.47-0.62],3.80265926660191e-19
+CTSB,Cathepsin B,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",23045,130,0.49 [0.36-0.67],8.018642078120366e-06
+CTSB,Cathepsin B,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",18921,439,0.49 [0.41-0.58],2.6482725295024883e-16
+CTSB,Cathepsin B,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,19942,1485,0.57 [0.52-0.63],5.452250901631622e-29
+CTSB,Cathepsin B,Chapter IX Diseases of the circulatory system,Secondary right heart disease,22038,116,1.49 [1.13-1.98],0.005018378738555
+CTSB,Cathepsin B,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,22039,117,1.50 [1.14-1.99],0.0041684359120583
+CTSB,Cathepsin B,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",12015,112,1.42 [1.06-1.90],0.0196441025779355
+CTSB,Cathepsin B,Chapter IX Diseases of the circulatory system,Cardiomyopathy,17022,71,1.48 [1.02-2.14],0.0367656029008363
+CTSB,Cathepsin B,Chapter IX Diseases of the circulatory system,"Heart failure, strict",21559,296,1.24 [1.03-1.48],0.0240638182226826
+CTSB,Cathepsin B,Chapter IX Diseases of the circulatory system,Varicose veins,21828,518,1.23 [1.07-1.41],0.0040148513491776
+CTSB,Cathepsin B,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,17103,2177,1.13 [1.04-1.21],0.0021780640574511
+CTSB,Cathepsin B,Chapter X Diseases of the respiratory system,Influenza and pneumonia,20634,265,1.34 [1.11-1.63],0.0027213333972527
+CTSB,Cathepsin B,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",20605,236,1.33 [1.09-1.63],0.0060181348948212
+CTSB,Cathepsin B,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,22637,126,1.33 [1.00-1.75],0.0466431792719038
+CTSB,Cathepsin B,Chapter X Diseases of the respiratory system,Interstitial lung disease,21559,99,1.45 [1.07-1.97],0.0160350127689274
+CTSB,Cathepsin B,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",22735,99,1.45 [1.07-1.96],0.0170722787420045
+CTSB,Cathepsin B,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,21552,92,1.41 [1.03-1.94],0.0339249011893504
+CTSB,Cathepsin B,Chapter X Diseases of the respiratory system,Other diseases of pleura,20531,302,1.37 [1.14-1.64],0.0006798705002898
+CTSB,Cathepsin B,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,21513,136,1.35 [1.04-1.76],0.0233634068209653
+CTSB,Cathepsin B,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,16857,833,0.86 [0.77-0.97],0.015706818454313
+CTSB,Cathepsin B,Chapter XI Diseases of the digestive system,"Ulcerative colitis (strict definition, require KELA, min 2 HDR)",23065,138,1.35 [1.04-1.76],0.0245549977946089
+CTSB,Cathepsin B,Chapter XI Diseases of the digestive system,Ulcerative colitis,21517,138,1.35 [1.04-1.76],0.023936713490764
+CTSB,Cathepsin B,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,14978,323,1.22 [1.03-1.46],0.0249839548545892
+CTSB,Cathepsin B,Chapter XI Diseases of the digestive system,Constipation,21100,290,1.30 [1.08-1.56],0.0054967031340499
+CTSB,Cathepsin B,Chapter XI Diseases of the digestive system,Diseases of liver,22303,127,2.33 [1.85-2.93],5.709836615381887e-13
+CTSB,Cathepsin B,Chapter XI Diseases of the digestive system,Other diseases of liver,22247,71,1.85 [1.33-2.56],0.0002460012396461
+CTSB,Cathepsin B,Chapter XI Diseases of the digestive system,Intestinal malabsorption,21435,74,1.50 [1.06-2.12],0.0220577024527472
+CTSB,Cathepsin B,Chapter XI Diseases of the digestive system,Coeliac disease,21424,63,1.70 [1.18-2.45],0.0042888776344239
+CTSB,Cathepsin B,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",21419,58,1.52 [1.03-2.24],0.0342099424495823
+CTSB,Cathepsin B,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,22037,286,1.23 [1.02-1.48],0.0326098614983048
+CTSB,Cathepsin B,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,14169,184,1.31 [1.04-1.66],0.0207902974829679
+CTSB,Cathepsin B,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,14579,594,1.22 [1.07-1.40],0.0038496507280863
+CTSB,Cathepsin B,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",22694,178,1.33 [1.05-1.67],0.0161475743801768
+CTSB,Cathepsin B,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,22700,163,1.31 [1.03-1.67],0.0284241852505686
+CTSB,Cathepsin B,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,22440,71,1.58 [1.11-2.24],0.0104039338149851
+CTSB,Cathepsin B,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",19811,698,0.83 [0.73-0.95],0.0056475815490907
+CTSB,Cathepsin B,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,19329,216,0.77 [0.61-0.98],0.0307779953255818
+CTSB,Cathepsin B,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,19199,86,0.63 [0.43-0.92],0.0170374956125711
+CTSB,Cathepsin B,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,19402,289,0.74 [0.60-0.91],0.0039912555892154
+CTSB,Cathepsin B,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,16909,4113,1.08 [1.02-1.15],0.0093703371597147
+CTSB,Cathepsin B,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,19451,298,2.01 [1.71-2.37],9.100787746180715e-17
+CTSB,Cathepsin B,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,19235,82,2.00 [1.47-2.71],8.531936225830992e-06
+CTSB,Cathepsin B,Chapter XIV Diseases of the genitourinary system,Acute renal failure,19503,68,2.08 [1.52-2.87],6.18778938544838e-06
+CTSB,Cathepsin B,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,19526,91,2.74 [2.11-3.55],2.7095214265286327e-14
+CTSB,Cathepsin B,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,19516,81,1.87 [1.37-2.56],8.380295336835584e-05
+CTSB,Cathepsin B,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,22597,93,1.55 [1.14-2.10],0.0047448437166317
+CTSB,Cathepsin B,Chapter XIV Diseases of the genitourinary system,Hydrocele,8140,64,1.73 [1.20-2.51],0.0037025253755654
+CTSB,Cathepsin B,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,11096,1818,0.91 [0.83-0.99],0.0209012454842095
+CTSB,Cathepsin B,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,9769,491,0.75 [0.64-0.87],0.0001983828394062

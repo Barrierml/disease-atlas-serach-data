@@ -1,0 +1,62 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+ENG,Endoglin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,20567,505,2.41 [1.52-3.83],0.000198248959583
+ENG,Endoglin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,26724,80,3.47 [1.12-10.76],0.0307936121380417
+ENG,Endoglin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),26285,366,2.16 [1.26-3.71],0.0053366330504103
+ENG,Endoglin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,26816,117,9.80 [4.03-23.84],4.837384398718271e-07
+ENG,Endoglin,Chapter V Mental and behavioural disorders,Any mental disorder,24885,780,1.61 [1.10-2.35],0.0136345261063337
+ENG,Endoglin,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",24403,298,2.75 [1.50-5.04],0.0010741011555219
+ENG,Endoglin,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",28233,228,3.30 [1.69-6.46],0.0004930012103965
+ENG,Endoglin,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",28307,164,3.66 [1.66-8.06],0.0012788004965348
+ENG,Endoglin,Chapter V Mental and behavioural disorders,Acute alcohol intoxication,26651,82,4.83 [1.60-14.57],0.0051316938954984
+ENG,Endoglin,Chapter V Mental and behavioural disorders,"Acute alcohol intoxication, ICD10",28563,82,4.02 [1.35-11.94],0.0122695622309127
+ENG,Endoglin,Chapter V Mental and behavioural disorders,"Alcohol abuse, main dg, excluding more controls",24187,82,4.83 [1.59-14.64],0.0054439216806723
+ENG,Endoglin,Chapter V Mental and behavioural disorders,Alcohol dependence,26666,97,5.14 [1.87-14.14],0.0014967158246037
+ENG,Endoglin,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,28459,88,0.30 [0.10-0.89],0.0305488888256715
+ENG,Endoglin,Chapter VI Diseases of the nervous system,Hemiplegia,28427,56,0.24 [0.06-0.96],0.0433150166815298
+ENG,Endoglin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,27991,107,0.37 [0.14-1.00],0.0492526994106597
+ENG,Endoglin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,28251,101,3.13 [1.16-8.41],0.0236678490685903
+ENG,Endoglin,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,22232,50,0.13 [0.03-0.58],0.0070677782942395
+ENG,Endoglin,Chapter IX Diseases of the circulatory system,Secondary right heart disease,28136,64,5.39 [1.59-18.24],0.0067844808526541
+ENG,Endoglin,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,28137,65,4.67 [1.38-15.78],0.0130516057937049
+ENG,Endoglin,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",22243,61,4.05 [1.12-14.69],0.033461765547793
+ENG,Endoglin,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,19691,196,4.89 [2.34-10.24],2.4880071890000272e-05
+ENG,Endoglin,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,25993,63,4.78 [1.36-16.73],0.0145012796550577
+ENG,Endoglin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",28159,123,3.54 [1.45-8.64],0.0055295594014738
+ENG,Endoglin,Chapter IX Diseases of the circulatory system,DVT of lower extremities,27398,98,2.77 [1.00-7.69],0.0499044729234781
+ENG,Endoglin,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",28511,93,2.97 [1.06-8.31],0.0379969389424442
+ENG,Endoglin,Chapter X Diseases of the respiratory system,Influenza and pneumonia,27450,190,2.32 [1.11-4.85],0.0250013446366682
+ENG,Endoglin,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",27422,162,3.47 [1.58-7.64],0.0019887810757781
+ENG,Endoglin,Chapter X Diseases of the respiratory system,Early onset COPD,27947,109,2.97 [1.13-7.83],0.0279334984724946
+ENG,Endoglin,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",27947,109,2.97 [1.13-7.83],0.0279334984724946
+ENG,Endoglin,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",27947,109,2.97 [1.13-7.83],0.0279334984724946
+ENG,Endoglin,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,27815,86,3.56 [1.22-10.40],0.0203032659621162
+ENG,Endoglin,Chapter XI Diseases of the digestive system,Umbilical hernia,24762,123,0.32 [0.13-0.80],0.0155154441074211
+ENG,Endoglin,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",28593,102,4.02 [1.51-10.71],0.0053882074453323
+ENG,Endoglin,Chapter XI Diseases of the digestive system,Crohn disease,27108,102,4.06 [1.52-10.89],0.0053114074523459
+ENG,Endoglin,Chapter XI Diseases of the digestive system,Crohn's disease NAS,27083,77,6.73 [2.22-20.35],0.0007380967009739
+ENG,Endoglin,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",27122,116,3.49 [1.38-8.81],0.0082258714908801
+ENG,Endoglin,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",21965,49,5.67 [1.37-23.46],0.0166756010240556
+ENG,Endoglin,Chapter XI Diseases of the digestive system,Cholelithiasis,27289,419,0.52 [0.32-0.87],0.0119691112035352
+ENG,Endoglin,Chapter XI Diseases of the digestive system,Intestinal malabsorption,27157,68,0.19 [0.05-0.66],0.0091943914327832
+ENG,Endoglin,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,26013,1526,1.46 [1.11-1.91],0.0060259922021377
+ENG,Endoglin,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,28377,52,6.84 [1.80-25.96],0.0046807145232527
+ENG,Endoglin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,22190,3596,1.23 [1.02-1.48],0.0324381880359293
+ENG,Endoglin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,23843,1900,1.41 [1.10-1.80],0.0058410901473926
+ENG,Endoglin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,21990,47,4.59 [1.05-20.03],0.0425048221728957
+ENG,Endoglin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",28277,46,5.05 [1.19-21.36],0.0278877124504083
+ENG,Endoglin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,23209,1266,1.57 [1.17-2.10],0.0028173921813666
+ENG,Endoglin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,22478,535,1.60 [1.03-2.50],0.0374313386495915
+ENG,Endoglin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,22695,286,2.63 [1.45-4.76],0.0014854409635735
+ENG,Endoglin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",26369,779,1.46 [1.01-2.11],0.043598106920477
+ENG,Endoglin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,25742,152,2.70 [1.20-6.11],0.0168995489771787
+ENG,Endoglin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,25921,331,1.93 [1.11-3.37],0.0203886952110244
+ENG,Endoglin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,25107,56,4.71 [1.27-17.42],0.0202530091002822
+ENG,Endoglin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,27507,346,1.74 [1.00-3.00],0.0480699290112164
+ENG,Endoglin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,27218,57,4.19 [1.15-15.28],0.0300211460981317
+ENG,Endoglin,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,24247,4487,0.58 [0.49-0.69],5.49922088302808e-10
+ENG,Endoglin,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,14413,2825,0.75 [0.60-0.93],0.0082925075046636
+ENG,Endoglin,Chapter XIV Diseases of the genitourinary system,Endometriosis,11892,304,0.50 [0.27-0.92],0.0265008033858371
+ENG,Endoglin,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),11706,118,0.28 [0.11-0.75],0.0107194812650469
+ENG,Endoglin,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,11900,312,0.35 [0.19-0.65],0.0007261020596516
+ENG,Endoglin,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",11810,222,0.46 [0.22-0.93],0.0299429877371955
+ENG,Endoglin,Chapter XIV Diseases of the genitourinary system,Menorrhagia,12382,794,0.61 [0.42-0.89],0.0113341518542417

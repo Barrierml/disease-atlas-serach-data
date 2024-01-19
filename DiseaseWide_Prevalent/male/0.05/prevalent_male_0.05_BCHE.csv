@@ -1,0 +1,83 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+BCHE,Cholinesterase,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,16778,199,0.39 [0.25-0.60],2.621495591235402e-05
+BCHE,Cholinesterase,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,12922,666,0.56 [0.43-0.74],3.259796754171921e-05
+BCHE,Cholinesterase,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,17056,45,0.38 [0.16-0.87],0.0217159678778662
+BCHE,Cholinesterase,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,20083,51,0.41 [0.17-0.99],0.048559086629925
+BCHE,Cholinesterase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,17905,440,0.41 [0.30-0.56],1.5590322562379792e-08
+BCHE,Cholinesterase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,19207,94,0.44 [0.23-0.83],0.0115877674197519
+BCHE,Cholinesterase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,18903,197,0.41 [0.26-0.65],0.0001110560171269
+BCHE,Cholinesterase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,18903,197,0.41 [0.26-0.65],0.0001110560171269
+BCHE,Cholinesterase,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),17009,413,0.61 [0.43-0.86],0.0045892243167987
+BCHE,Cholinesterase,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,15832,1168,1.44 [1.15-1.80],0.0017125495025708
+BCHE,Cholinesterase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,17817,109,0.41 [0.22-0.79],0.00806098821624
+BCHE,Cholinesterase,Chapter IX Diseases of the circulatory system,Peripheral artery disease,19061,139,0.56 [0.32-1.00],0.0487163278949895
+BCHE,Cholinesterase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,17806,98,0.41 [0.21-0.82],0.0119711755082549
+BCHE,Cholinesterase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,15706,1042,1.75 [1.38-2.24],5.258093790708991e-06
+BCHE,Cholinesterase,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,15625,961,1.82 [1.41-2.33],3.255327185093172e-06
+BCHE,Cholinesterase,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,14703,39,0.34 [0.14-0.84],0.0195550236208815
+BCHE,Cholinesterase,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",14743,79,0.23 [0.13-0.40],3.6697768404842025e-07
+BCHE,Cholinesterase,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",16902,301,0.50 [0.34-0.73],0.0003947547029337
+BCHE,Cholinesterase,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",19721,230,0.39 [0.26-0.59],8.831068478498056e-06
+BCHE,Cholinesterase,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",19789,178,0.42 [0.26-0.67],0.0002496417086348
+BCHE,Cholinesterase,Chapter V Mental and behavioural disorders,Acute alcohol intoxication,18402,68,0.28 [0.15-0.53],0.0001067672088154
+BCHE,Cholinesterase,Chapter V Mental and behavioural disorders,"Acute alcohol intoxication, ICD10",20077,68,0.31 [0.17-0.58],0.0002591950764038
+BCHE,Cholinesterase,Chapter V Mental and behavioural disorders,"Alcohol abuse, main dg, excluding more controls",16669,68,0.28 [0.14-0.53],0.0001118224085205
+BCHE,Cholinesterase,Chapter V Mental and behavioural disorders,Alcohol dependence,18434,100,0.42 [0.22-0.81],0.0091900679304845
+BCHE,Cholinesterase,Chapter VI Diseases of the nervous system,Neurological diseases,17229,1131,0.73 [0.59-0.91],0.0046881988790784
+BCHE,Cholinesterase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,17905,318,0.63 [0.43-0.93],0.0208182278582616
+BCHE,Cholinesterase,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,13590,3107,0.82 [0.70-0.97],0.0187243261466693
+BCHE,Cholinesterase,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,19617,51,0.30 [0.12-0.72],0.0070455201913885
+BCHE,Cholinesterase,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,12413,61,0.16 [0.07-0.36],1.4851196342673235e-05
+BCHE,Cholinesterase,Chapter IX Diseases of the circulatory system,Secondary right heart disease,19426,79,0.38 [0.20-0.74],0.0040712553828215
+BCHE,Cholinesterase,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,19428,81,0.42 [0.22-0.83],0.0121054161946293
+BCHE,Cholinesterase,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",12427,75,0.32 [0.15-0.72],0.0058710258762299
+BCHE,Cholinesterase,Chapter IX Diseases of the circulatory system,Conduction disorders,15943,139,0.49 [0.28-0.85],0.0117771373959635
+BCHE,Cholinesterase,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,10421,510,0.41 [0.29-0.58],2.814974459542378e-07
+BCHE,Cholinesterase,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,15915,111,0.43 [0.23-0.78],0.0055196109038369
+BCHE,Cholinesterase,Chapter IX Diseases of the circulatory system,"Heart failure, strict",19090,269,0.32 [0.22-0.47],2.9600385517678467e-09
+BCHE,Cholinesterase,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",19364,135,0.53 [0.30-0.93],0.0282823602789514
+BCHE,Cholinesterase,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",19435,119,0.51 [0.28-0.92],0.0267650216464284
+BCHE,Cholinesterase,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),19067,133,0.53 [0.29-0.96],0.0352855487209624
+BCHE,Cholinesterase,Chapter IX Diseases of the circulatory system,DVT of lower extremities,19051,117,0.51 [0.27-0.95],0.0343519064156377
+BCHE,Cholinesterase,Chapter IX Diseases of the circulatory system,Varicose veins,19228,294,0.53 [0.35-0.78],0.0014339003168095
+BCHE,Cholinesterase,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,15763,1720,0.75 [0.62-0.89],0.0013524776281155
+BCHE,Cholinesterase,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,18031,727,0.70 [0.54-0.91],0.0082828635850158
+BCHE,Cholinesterase,Chapter X Diseases of the respiratory system,Early onset COPD,19072,165,0.31 [0.19-0.50],1.140805188416036e-06
+BCHE,Cholinesterase,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",19095,188,0.34 [0.21-0.53],3.097058449507836e-06
+BCHE,Cholinesterase,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",19095,188,0.34 [0.21-0.53],3.097058449507836e-06
+BCHE,Cholinesterase,Chapter X Diseases of the respiratory system,Pleural effusion,18220,112,0.27 [0.16-0.45],8.246568607221795e-07
+BCHE,Cholinesterase,Chapter X Diseases of the respiratory system,Other diseases of pleura,18346,238,0.40 [0.27-0.60],7.482680790858645e-06
+BCHE,Cholinesterase,Chapter XI Diseases of the digestive system,Oesophagitis,15565,333,1.57 [1.05-2.35],0.0293340583844474
+BCHE,Cholinesterase,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,15300,68,0.42 [0.20-0.90],0.0256398279191542
+BCHE,Cholinesterase,Chapter XI Diseases of the digestive system,Functional dyspepsia,15474,242,1.66 [1.03-2.67],0.0369936964385019
+BCHE,Cholinesterase,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,15372,140,0.49 [0.28-0.86],0.0129097438490985
+BCHE,Cholinesterase,Chapter XI Diseases of the digestive system,Hernia,17230,1750,0.81 [0.68-0.97],0.0208967937789062
+BCHE,Cholinesterase,Chapter XI Diseases of the digestive system,Inguinal hernia,16456,976,0.70 [0.55-0.88],0.0023581352219767
+BCHE,Cholinesterase,Chapter XI Diseases of the digestive system,Ventral hernia,15557,77,0.33 [0.17-0.62],0.000607840757831
+BCHE,Cholinesterase,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,19462,512,0.72 [0.53-0.98],0.0369723549244069
+BCHE,Cholinesterase,Chapter XI Diseases of the digestive system,Crohn's disease NAS,18998,48,0.36 [0.15-0.86],0.0217358153488012
+BCHE,Cholinesterase,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",19054,104,0.51 [0.26-0.98],0.0432788586904519
+BCHE,Cholinesterase,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,19341,391,0.70 [0.50-1.00],0.0487872884908259
+BCHE,Cholinesterase,Chapter XI Diseases of the digestive system,Diseases of liver,19471,116,0.21 [0.13-0.35],2.2560481008721715e-09
+BCHE,Cholinesterase,Chapter XI Diseases of the digestive system,Other diseases of liver,19422,67,0.24 [0.13-0.45],8.217266086154774e-06
+BCHE,Cholinesterase,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,17541,1279,0.77 [0.63-0.95],0.0138250165901505
+BCHE,Cholinesterase,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,19337,402,0.71 [0.50-1.00],0.0468696377167401
+BCHE,Cholinesterase,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,19188,253,0.65 [0.42-1.00],0.0486861896970819
+BCHE,Cholinesterase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,18351,714,1.48 [1.12-1.96],0.0055000351708022
+BCHE,Cholinesterase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",18194,557,1.70 [1.24-2.33],0.00102448163376
+BCHE,Cholinesterase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,17682,45,3.21 [1.07-9.62],0.0376211891899942
+BCHE,Cholinesterase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,17741,104,2.19 [1.06-4.54],0.0341677460860178
+BCHE,Cholinesterase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,17397,46,0.36 [0.16-0.81],0.0142744966096139
+BCHE,Cholinesterase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,17478,127,0.55 [0.31-0.97],0.0399692406096963
+BCHE,Cholinesterase,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,15513,1948,0.71 [0.59-0.84],6.146979066291726e-05
+BCHE,Cholinesterase,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,17395,1070,0.72 [0.58-0.90],0.0033148186807473
+BCHE,Cholinesterase,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,17925,219,0.39 [0.25-0.59],8.327511606528765e-06
+BCHE,Cholinesterase,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,17777,71,0.43 [0.20-0.94],0.0338935368652077
+BCHE,Cholinesterase,Chapter XIV Diseases of the genitourinary system,Acute renal failure,17987,53,0.28 [0.14-0.59],0.000746375947837
+BCHE,Cholinesterase,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,17986,52,0.10 [0.05-0.20],2.8771771338822542e-11
+BCHE,Cholinesterase,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,18003,69,0.34 [0.17-0.67],0.0019317677043547
+BCHE,Cholinesterase,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,19760,61,0.23 [0.12-0.45],1.9692661328701413e-05
+BCHE,Cholinesterase,Chapter XIV Diseases of the genitourinary system,Hydrocele,16413,88,0.37 [0.21-0.67],0.0009404573889026
+BCHE,Cholinesterase,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,16495,170,0.51 [0.31-0.83],0.0070060130109124
+BCHE,Cholinesterase,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",19773,61,0.34 [0.16-0.70],0.0038219009406302
+BCHE,Cholinesterase,Chapter VI Diseases of the nervous system,Falls/tendency to fall,18423,467,0.60 [0.44-0.82],0.0014827238180362

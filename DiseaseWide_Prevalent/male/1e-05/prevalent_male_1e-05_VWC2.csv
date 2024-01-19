@@ -1,0 +1,87 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+VWC2,Brorin,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,20034,817,1.55 [1.32-1.80],3.5747086866014575e-08
+VWC2,Brorin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,19398,239,3.33 [2.54-4.36],2.3226392093993626e-18
+VWC2,Brorin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,14980,810,2.95 [2.52-3.45],2.328988696915184e-41
+VWC2,Brorin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,20118,93,4.73 [3.10-7.23],5.893790641993748e-13
+VWC2,Brorin,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,19690,52,4.56 [2.59-8.03],1.5339288296538306e-07
+VWC2,Brorin,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,22236,120,3.05 [2.12-4.41],2.5773030697788624e-09
+VWC2,Brorin,Chapter I Certain infectious and parasitic diseases,Other septicaemia,22202,86,4.02 [2.65-6.12],7.374261410545491e-11
+VWC2,Brorin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,20705,553,2.74 [2.29-3.29],1.2336330953414172e-27
+VWC2,Brorin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,22252,123,2.61 [1.81-3.75],2.336931537172451e-07
+VWC2,Brorin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,21870,252,3.60 [2.78-4.64],1.048877670639666e-22
+VWC2,Brorin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,21870,252,3.60 [2.78-4.64],1.048877670639666e-22
+VWC2,Brorin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),19657,503,2.83 [2.33-3.43],8.613508879731818e-26
+VWC2,Brorin,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,18341,1420,2.55 [2.25-2.89],3.17766897975046e-49
+VWC2,Brorin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,20679,148,6.43 [4.67-8.87],6.247948226395016e-30
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,Peripheral artery disease,22092,159,3.87 [2.84-5.27],1.0106530425890692e-17
+VWC2,Brorin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,20666,135,6.59 [4.72-9.22],2.562366262982368e-28
+VWC2,Brorin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,21216,685,2.15 [1.83-2.54],7.229922114183386e-20
+VWC2,Brorin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,21190,659,2.06 [1.74-2.43],4.593734594456708e-17
+VWC2,Brorin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,18191,1270,2.52 [2.21-2.88],6.5502761487203225e-43
+VWC2,Brorin,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",17097,176,2.43 [1.75-3.38],1.1538450241774168e-07
+VWC2,Brorin,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,18093,1172,2.55 [2.23-2.93],5.116256228356368e-41
+VWC2,Brorin,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,16970,49,6.86 [3.91-12.02],1.7586995700308417e-11
+VWC2,Brorin,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",17018,97,5.71 [3.84-8.49],8.055231463088478e-18
+VWC2,Brorin,Chapter V Mental and behavioural disorders,Any mental disorder,19874,681,1.61 [1.36-1.90],2.3308070101900643e-08
+VWC2,Brorin,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",19458,265,2.19 [1.69-2.83],2.202856283413711e-09
+VWC2,Brorin,Chapter V Mental and behavioural disorders,Depression,22260,228,1.98 [1.51-2.61],8.758176305929989e-07
+VWC2,Brorin,Chapter V Mental and behavioural disorders,Depression or dysthymia,19172,196,2.02 [1.49-2.72],4.769268084514638e-06
+VWC2,Brorin,Chapter VI Diseases of the nervous system,Neurological diseases,19828,1292,1.36 [1.20-1.54],1.526154491778736e-06
+VWC2,Brorin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,22464,246,2.01 [1.54-2.63],2.750047678976873e-07
+VWC2,Brorin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,23025,69,8.12 [5.18-12.73],6.449275100808831e-20
+VWC2,Brorin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,2563,69,5.90 [3.75-9.28],1.4156801395246232e-14
+VWC2,Brorin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",20531,69,9.34 [5.92-14.74],7.97065140200277e-22
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,15817,3703,2.39 [2.18-2.63],5.057265594043872e-73
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,"Hypertension, essential",16692,2426,2.66 [2.38-2.96],1.454040765086339e-70
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,Hypertension,16733,2467,2.81 [2.53-3.13],4.5788764669265076e-80
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",20752,1647,2.34 [2.09-2.62],2.042765894793857e-49
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,Angina pectoris,20020,915,2.25 [1.95-2.60],2.527778121607483e-28
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,22009,332,2.30 [1.84-2.88],3.57725404679116e-13
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,22404,727,2.28 [1.95-2.66],4.5966513950613905e-25
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",23231,163,2.44 [1.78-3.33],2.6548612282405404e-08
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",19600,495,2.62 [2.16-3.17],5.679015612218628e-23
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,20487,1406,2.36 [2.10-2.67],1.952495197284307e-44
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",14344,78,3.67 [2.23-6.03],3.0103758815672014e-07
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,Conduction disorders,18418,164,2.66 [1.90-3.73],1.2376593197719451e-08
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,11594,131,3.74 [2.50-5.61],1.6194407690528643e-10
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,12057,594,2.20 [1.80-2.70],2.485593825250145e-14
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,18381,127,3.03 [2.08-4.43],8.853718366233744e-09
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",22147,310,3.32 [2.63-4.19],9.80814032563208e-24
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",22410,181,2.91 [2.16-3.90],1.1978992291253738e-12
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",22435,163,2.91 [2.14-3.96],1.1808441391612176e-11
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",22520,145,3.05 [2.20-4.22],1.7513327886051988e-11
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,22066,86,3.70 [2.44-5.62],7.45155472581567e-10
+VWC2,Brorin,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,22121,141,3.05 [2.19-4.26],4.5767721948975555e-11
+VWC2,Brorin,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,18232,1974,1.54 [1.38-1.71],1.281688351956051e-15
+VWC2,Brorin,Chapter X Diseases of the respiratory system,Influenza and pneumonia,21322,247,2.79 [2.14-3.62],1.7998309486243797e-14
+VWC2,Brorin,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",21285,210,2.90 [2.19-3.84],1.4341521047561764e-13
+VWC2,Brorin,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,22460,269,2.03 [1.58-2.61],3.680324135695908e-08
+VWC2,Brorin,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,22457,266,2.06 [1.60-2.65],2.2587898367949694e-08
+VWC2,Brorin,Chapter X Diseases of the respiratory system,Pleural effusion,21132,131,3.24 [2.27-4.61],8.140307335012068e-11
+VWC2,Brorin,Chapter X Diseases of the respiratory system,Other diseases of pleura,21278,277,2.66 [2.08-3.41],8.313985056871772e-15
+VWC2,Brorin,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,22067,124,2.87 [2.01-4.09],6.633709389755475e-09
+VWC2,Brorin,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,15578,5510,1.38 [1.28-1.49],4.7744320965253537e-17
+VWC2,Brorin,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,17944,319,1.97 [1.56-2.50],1.858581048508073e-08
+VWC2,Brorin,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",19587,1962,1.43 [1.29-1.58],1.6225479945920696e-11
+VWC2,Brorin,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),18390,765,1.48 [1.26-1.73],1.2974893341572478e-06
+VWC2,Brorin,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,22576,593,2.06 [1.73-2.46],6.334404531063822e-16
+VWC2,Brorin,Chapter XI Diseases of the digestive system,Other diseases of intestines,18058,1778,1.37 [1.23-1.53],1.5034916783716515e-08
+VWC2,Brorin,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,22433,450,2.24 [1.83-2.73],2.3870368578919416e-15
+VWC2,Brorin,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,22430,447,2.25 [1.85-2.75],1.6778146440812089e-15
+VWC2,Brorin,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",22278,359,1.74 [1.40-2.18],8.799342089285565e-07
+VWC2,Brorin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,17284,3496,1.50 [1.38-1.64],8.102672279910483e-21
+VWC2,Brorin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,18748,2054,1.46 [1.32-1.62],7.674029869588008e-13
+VWC2,Brorin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,16781,87,4.26 [2.82-6.44],5.709341157429669e-12
+VWC2,Brorin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,17094,400,2.16 [1.75-2.67],9.34771209810365e-13
+VWC2,Brorin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",23169,84,4.08 [2.71-6.14],1.7168914166158074e-11
+VWC2,Brorin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,23174,74,4.36 [2.82-6.72],2.8064348826644985e-11
+VWC2,Brorin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,23141,35,4.49 [2.40-8.38],2.516439349107279e-06
+VWC2,Brorin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,20724,276,2.00 [1.56-2.56],5.2683118124383043e-08
+VWC2,Brorin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,21255,807,1.60 [1.37-1.86],1.7430387151374571e-09
+VWC2,Brorin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",21076,628,1.58 [1.33-1.88],2.0946603472261765e-07
+VWC2,Brorin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,22604,290,1.80 [1.40-2.30],3.20708289304204e-06
+VWC2,Brorin,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,17948,2333,2.15 [1.95-2.38],5.27174019538064e-51
+VWC2,Brorin,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,20448,92,4.00 [2.53-6.32],2.8359268434126504e-09
+VWC2,Brorin,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,22893,73,8.88 [5.76-13.68],3.975618479904773e-23
+VWC2,Brorin,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,21235,829,1.60 [1.38-1.86],1.2856412616063272e-09
+VWC2,Brorin,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,20774,368,2.06 [1.65-2.57],1.2619365833828568e-10

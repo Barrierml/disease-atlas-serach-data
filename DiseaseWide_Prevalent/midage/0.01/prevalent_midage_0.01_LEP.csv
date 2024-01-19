@@ -1,0 +1,108 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+LEP,Leptin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,20323,501,1.22 [1.12-1.34],1.3749311662004342e-05
+LEP,Leptin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,26397,80,1.34 [1.08-1.67],0.0080774654679661
+LEP,Leptin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,26055,820,1.43 [1.33-1.53],1.0809209696139282e-22
+LEP,Leptin,Chapter II Neoplasms,Benign lipomatous neoplasm,28018,301,0.84 [0.76-0.94],0.0013834808832418
+LEP,Leptin,Chapter II Neoplasms,Melanocytic naevi,28127,253,1.25 [1.11-1.41],0.0003897040805443
+LEP,Leptin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,27296,201,1.42 [1.23-1.63],1.7542009983893195e-06
+LEP,Leptin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,27180,353,1.42 [1.28-1.58],1.1919550950863098e-10
+LEP,Leptin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,27180,353,1.42 [1.28-1.58],1.1919550950863098e-10
+LEP,Leptin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,27854,79,1.59 [1.27-2.01],7.422406035325733e-05
+LEP,Leptin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,28060,107,1.41 [1.15-1.73],0.0007816344666847
+LEP,Leptin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,27000,442,1.74 [1.57-1.93],4.933373036149075e-26
+LEP,Leptin,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",24107,295,0.76 [0.68-0.85],1.205502303661798e-06
+LEP,Leptin,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",27885,225,0.70 [0.62-0.79],5.665184360203494e-09
+LEP,Leptin,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",27958,163,0.67 [0.58-0.77],3.933415868143125e-08
+LEP,Leptin,Chapter V Mental and behavioural disorders,Alcohol dependence,26343,97,0.65 [0.54-0.79],8.735070467816949e-06
+LEP,Leptin,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",24203,391,1.23 [1.12-1.37],5.057134752238912e-05
+LEP,Leptin,Chapter V Mental and behavioural disorders,Depression,26577,338,1.24 [1.11-1.38],0.0001167673268163
+LEP,Leptin,Chapter V Mental and behavioural disorders,Depression or dysthymia,24052,296,1.25 [1.11-1.41],0.0001691689242145
+LEP,Leptin,Chapter VI Diseases of the nervous system,Neurological diseases,25189,1460,1.09 [1.03-1.14],0.0017712076087907
+LEP,Leptin,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,23494,163,1.37 [1.17-1.59],7.707299344706003e-05
+LEP,Leptin,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,28124,133,1.38 [1.16-1.63],0.000246597885108
+LEP,Leptin,Chapter VI Diseases of the nervous system,Migraine,26570,103,1.59 [1.29-1.96],1.0931272209004528e-05
+LEP,Leptin,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",27957,93,1.78 [1.42-2.23],5.220100088337517e-07
+LEP,Leptin,Chapter VI Diseases of the nervous system,Other sleep disorders,26642,175,0.67 [0.58-0.78],2.8181421894969266e-07
+LEP,Leptin,Chapter VI Diseases of the nervous system,Sleep apnoea,27703,136,0.68 [0.57-0.80],8.505446413789012e-06
+LEP,Leptin,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",27183,621,1.19 [1.10-1.29],2.298659897752705e-05
+LEP,Leptin,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,26899,337,1.20 [1.08-1.35],0.0009607169366813
+LEP,Leptin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,27592,49,1.66 [1.23-2.23],0.0009597007153029
+LEP,Leptin,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,22172,1992,0.94 [0.89-0.98],0.0071888924777482
+LEP,Leptin,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,27728,267,0.81 [0.72-0.91],0.0003262825065252
+LEP,Leptin,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",28218,60,0.72 [0.56-0.91],0.0065648787062306
+LEP,Leptin,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",26384,165,0.75 [0.65-0.87],8.438837603684876e-05
+LEP,Leptin,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,26638,430,0.84 [0.77-0.92],0.0002358727348498
+LEP,Leptin,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,19452,193,0.77 [0.68-0.88],0.0001742752839018
+LEP,Leptin,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,27584,52,1.50 [1.14-1.98],0.0040125273359798
+LEP,Leptin,Chapter IX Diseases of the circulatory system,Varicose veins,27408,440,1.18 [1.08-1.29],0.0003889058911441
+LEP,Leptin,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,23969,1969,1.09 [1.04-1.14],0.00029296992123
+LEP,Leptin,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,28102,139,1.30 [1.10-1.54],0.002400172859065
+LEP,Leptin,Chapter X Diseases of the respiratory system,Nasal polyp,26872,110,0.79 [0.66-0.94],0.0070103780478226
+LEP,Leptin,Chapter X Diseases of the respiratory system,Deviated nasal septum,26995,233,0.82 [0.73-0.93],0.001247782598894
+LEP,Leptin,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,25926,895,1.26 [1.18-1.35],1.1016249546221708e-11
+LEP,Leptin,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",26536,815,1.28 [1.19-1.37],1.1964450149585224e-11
+LEP,Leptin,Chapter X Diseases of the respiratory system,Asthma,21691,815,1.28 [1.19-1.37],2.3555035286990508e-11
+LEP,Leptin,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",21546,815,1.27 [1.19-1.37],4.083140163187367e-11
+LEP,Leptin,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",21675,799,1.29 [1.20-1.39],9.949736305326458e-12
+LEP,Leptin,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",24317,1757,1.08 [1.03-1.14],0.0008638598096034
+LEP,Leptin,Chapter XI Diseases of the digestive system,Gastric ulcer,22661,101,1.30 [1.07-1.59],0.0094538346729199
+LEP,Leptin,Chapter XI Diseases of the digestive system,Duodenal ulcer,22664,104,0.70 [0.59-0.83],7.54294989003682e-05
+LEP,Leptin,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",28226,73,0.70 [0.56-0.86],0.0009243604945952
+LEP,Leptin,Chapter XI Diseases of the digestive system,Functional dyspepsia,22947,387,1.21 [1.10-1.34],0.0001441807672863
+LEP,Leptin,Chapter XI Diseases of the digestive system,Hernia,25527,1184,0.78 [0.73-0.82],1.6175302845419316e-19
+LEP,Leptin,Chapter XI Diseases of the digestive system,Inguinal hernia,24741,398,0.47 [0.43-0.52],2.2042217126261868e-57
+LEP,Leptin,Chapter XI Diseases of the digestive system,Umbilical hernia,24464,121,0.77 [0.64-0.91],0.0031977955068642
+LEP,Leptin,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,27427,754,1.18 [1.10-1.27],4.721542940429611e-06
+LEP,Leptin,Chapter XI Diseases of the digestive system,Other diseases of intestines,23317,1683,1.11 [1.06-1.16],2.560449954017454e-05
+LEP,Leptin,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,27274,601,1.23 [1.13-1.33],5.822490645873198e-07
+LEP,Leptin,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,27269,596,1.22 [1.13-1.32],1.2282805090270772e-06
+LEP,Leptin,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,21813,179,1.45 [1.25-1.69],9.912445399077318e-07
+LEP,Leptin,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,21892,258,1.41 [1.25-1.60],4.959134335821187e-08
+LEP,Leptin,Chapter XI Diseases of the digestive system,Constipation,27128,231,1.41 [1.24-1.61],2.7121073246932657e-07
+LEP,Leptin,Chapter XI Diseases of the digestive system,Diseases of peritoneum,27897,78,1.51 [1.20-1.92],0.0005778040199993
+LEP,Leptin,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,27884,65,1.76 [1.34-2.30],4.658774169419604e-05
+LEP,Leptin,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",27071,522,1.67 [1.51-1.84],7.379857246672167e-25
+LEP,Leptin,Chapter XI Diseases of the digestive system,Cholelithiasis,26961,412,1.80 [1.61-2.02],1.4369338855073635e-24
+LEP,Leptin,Chapter XI Diseases of the digestive system,Cholecystitis,26630,81,1.64 [1.29-2.09],6.747915988047343e-05
+LEP,Leptin,Chapter XI Diseases of the digestive system,Intestinal malabsorption,26825,67,1.57 [1.22-2.02],0.0004159337910058
+LEP,Leptin,Chapter XI Diseases of the digestive system,Coeliac disease,26811,53,1.79 [1.33-2.39],9.982289628252116e-05
+LEP,Leptin,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,27209,539,1.16 [1.07-1.26],0.0003371293013981
+LEP,Leptin,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,27538,400,0.85 [0.78-0.94],0.0011451993322044
+LEP,Leptin,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,27365,227,0.83 [0.73-0.94],0.0035236304074208
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,21916,3543,1.06 [1.02-1.10],0.0014528562655129
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,25864,1114,1.10 [1.04-1.17],0.0014000161569796
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,21799,117,1.98 [1.61-2.44],7.440184594720039e-11
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,22022,340,1.35 [1.20-1.51],2.515359782834844e-07
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",27983,112,1.94 [1.58-2.39],3.6529967884536246e-10
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,28000,100,1.94 [1.56-2.41],3.388668584648839e-09
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,21835,153,1.37 [1.15-1.62],0.0003623437662728
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,22013,331,0.80 [0.72-0.89],3.524960779068977e-05
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,22929,1247,0.89 [0.85-0.94],5.643029948853614e-05
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),21856,174,1.61 [1.37-1.88],2.9108088952796912e-09
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,22210,528,0.68 [0.62-0.73],1.4466038070149239e-21
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,22122,440,0.64 [0.58-0.70],1.858985255286088e-23
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,27928,147,2.30 [1.91-2.78],3.9710263490990825e-18
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,27821,40,1.93 [1.38-2.72],0.0001391243653293
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,26187,909,1.13 [1.06-1.21],0.0001833388544277
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,25415,137,1.39 [1.16-1.66],0.0003479245746063
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",26045,767,1.13 [1.05-1.21],0.0006018339936651
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,25602,324,1.21 [1.08-1.35],0.0007277066829674
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,24976,226,1.21 [1.06-1.37],0.0053562872119602
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",25183,433,1.20 [1.09-1.33],0.0001635381716361
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,26929,99,1.42 [1.16-1.73],0.0005748937009375
+LEP,Leptin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,26887,57,0.69 [0.55-0.88],0.0028559858968188
+LEP,Leptin,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,23957,4439,1.62 [1.56-1.67],1.7143781874349047e-163
+LEP,Leptin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,26776,215,1.31 [1.14-1.50],0.000113872282862
+LEP,Leptin,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,26932,50,1.76 [1.30-2.38],0.0002692640813337
+LEP,Leptin,Chapter XIV Diseases of the genitourinary system,Urolithiasis,27947,243,0.79 [0.70-0.89],6.873935469470153e-05
+LEP,Leptin,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,27803,99,0.73 [0.61-0.88],0.0007110644683322
+LEP,Leptin,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,26793,887,1.29 [1.21-1.38],7.435188980511486e-14
+LEP,Leptin,Chapter XIV Diseases of the genitourinary system,Cystitis,25990,84,1.41 [1.14-1.75],0.0015996955095044
+LEP,Leptin,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,26526,620,1.53 [1.41-1.67],1.87456284846236e-23
+LEP,Leptin,Chapter XIV Diseases of the genitourinary system,Unspecified/other endometriosis,11527,89,1.52 [1.11-2.07],0.0091324691209883
+LEP,Leptin,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,11921,483,0.82 [0.73-0.93],0.00169833719915
+LEP,Leptin,"Chapter XV Pregnancy, childbirth and the puerperium",Haemorrhage in early pregnancy,15378,124,0.68 [0.54-0.86],0.0012118454828799
+LEP,Leptin,"Chapter XV Pregnancy, childbirth and the puerperium","Postpartum hemorraghe, all women as controls",15673,170,0.76 [0.62-0.93],0.0075819473778061
+LEP,Leptin,"Chapter XV Pregnancy, childbirth and the puerperium",Postpartum haemorrhage due to anatomy,14217,128,0.65 [0.52-0.82],0.0002476722096935
+LEP,Leptin,"Chapter XV Pregnancy, childbirth and the puerperium",Delivery,15681,341,0.78 [0.67-0.90],0.0008610325492379
+LEP,Leptin,"Chapter XV Pregnancy, childbirth and the puerperium",Single spontaneous delivery,15601,261,0.74 [0.63-0.87],0.000389761250035

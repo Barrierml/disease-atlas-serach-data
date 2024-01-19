@@ -1,0 +1,92 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+THOP1,Thimet oligopeptidase,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,24116,986,1.26 [1.05-1.51],0.0128930773793168
+THOP1,Thimet oligopeptidase,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,18397,766,1.41 [1.15-1.74],0.001118364122828
+THOP1,Thimet oligopeptidase,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,24911,85,2.02 [1.18-3.46],0.0107592707766761
+THOP1,Thimet oligopeptidase,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,24283,65,2.02 [1.07-3.79],0.0290608280784314
+THOP1,Thimet oligopeptidase,Chapter I Certain infectious and parasitic diseases,Other septicaemia,26692,72,1.94 [1.08-3.47],0.0260882909483575
+THOP1,Thimet oligopeptidase,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,27494,76,2.02 [1.15-3.56],0.0150454568643094
+THOP1,Thimet oligopeptidase,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",27457,97,1.71 [1.01-2.89],0.0456826206850942
+THOP1,Thimet oligopeptidase,Chapter II Neoplasms,"Malignant neoplasm of breast, excluding all cancers (controls excluding all cancers)",23122,671,1.36 [1.09-1.69],0.0055530281218617
+THOP1,Thimet oligopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,24653,1025,1.38 [1.16-1.64],0.0002800279276153
+THOP1,Thimet oligopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,27067,97,1.87 [1.12-3.13],0.0165999786363468
+THOP1,Thimet oligopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,22930,925,1.66 [1.38-2.00],6.477844435025954e-08
+THOP1,Thimet oligopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,22733,728,1.66 [1.34-2.04],2.007300766179001e-06
+THOP1,Thimet oligopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,22679,674,1.62 [1.31-2.01],1.1147362387146157e-05
+THOP1,Thimet oligopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",22078,73,2.30 [1.29-4.10],0.0049100369226419
+THOP1,Thimet oligopeptidase,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",27439,49,2.47 [1.23-4.97],0.0113471564466907
+THOP1,Thimet oligopeptidase,Chapter V Mental and behavioural disorders,Alcohol dependence,26177,26,3.49 [1.48-8.25],0.0044211053312248
+THOP1,Thimet oligopeptidase,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",23087,384,1.32 [1.00-1.75],0.0486645597464928
+THOP1,Thimet oligopeptidase,Chapter V Mental and behavioural disorders,Depression,25642,341,1.37 [1.02-1.84],0.0336633197766631
+THOP1,Thimet oligopeptidase,Chapter V Mental and behavioural disorders,Depression or dysthymia,22869,300,1.38 [1.01-1.89],0.0413717232456997
+THOP1,Thimet oligopeptidase,Chapter VI Diseases of the nervous system,Neurological diseases,23836,1637,1.25 [1.08-1.44],0.0025561905600817
+THOP1,Thimet oligopeptidase,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",26252,864,1.24 [1.02-1.50],0.0274758901866799
+THOP1,Thimet oligopeptidase,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,25939,551,1.31 [1.03-1.65],0.0256751428092067
+THOP1,Thimet oligopeptidase,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,20346,2813,1.35 [1.19-1.52],2.4252076034785785e-06
+THOP1,Thimet oligopeptidase,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,27060,76,3.41 [2.10-5.54],7.656253384438929e-07
+THOP1,Thimet oligopeptidase,Chapter IX Diseases of the circulatory system,"Hypertension, essential",21365,2072,1.29 [1.12-1.48],0.0003967257510076
+THOP1,Thimet oligopeptidase,Chapter IX Diseases of the circulatory system,Hypertension,21387,2094,1.26 [1.10-1.45],0.0009286519835443
+THOP1,Thimet oligopeptidase,Chapter IX Diseases of the circulatory system,Pulmonary embolism,26848,97,1.70 [1.00-2.89],0.0489150871741054
+THOP1,Thimet oligopeptidase,Chapter IX Diseases of the circulatory system,Secondary right heart disease,26848,97,2.58 [1.61-4.14],7.577664093128502e-05
+THOP1,Thimet oligopeptidase,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,26848,97,2.58 [1.61-4.14],7.577664093128502e-05
+THOP1,Thimet oligopeptidase,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",19387,94,2.52 [1.53-4.15],0.0002691023130972
+THOP1,Thimet oligopeptidase,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,16757,278,1.68 [1.21-2.35],0.0021340553340612
+THOP1,Thimet oligopeptidase,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,24028,57,2.55 [1.39-4.69],0.0025900024856497
+THOP1,Thimet oligopeptidase,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,22457,2117,1.38 [1.22-1.57],6.432667822034882e-07
+THOP1,Thimet oligopeptidase,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,24667,1172,1.51 [1.28-1.77],7.904733574422976e-07
+THOP1,Thimet oligopeptidase,Chapter X Diseases of the respiratory system,Early onset COPD,26578,160,1.97 [1.31-2.96],0.0011585329098285
+THOP1,Thimet oligopeptidase,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",26595,177,1.87 [1.26-2.77],0.0018908807569983
+THOP1,Thimet oligopeptidase,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",26595,177,1.87 [1.26-2.77],0.0018908807569983
+THOP1,Thimet oligopeptidase,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",25572,1011,1.42 [1.19-1.68],9.39394148301129e-05
+THOP1,Thimet oligopeptidase,Chapter X Diseases of the respiratory system,Asthma,20522,1011,1.49 [1.25-1.77],1.0631353479925848e-05
+THOP1,Thimet oligopeptidase,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",20331,1011,1.48 [1.24-1.77],1.3472914237258609e-05
+THOP1,Thimet oligopeptidase,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",20506,995,1.48 [1.24-1.76],1.690925030006554e-05
+THOP1,Thimet oligopeptidase,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,27309,84,2.39 [1.43-4.00],0.0009038970817776
+THOP1,Thimet oligopeptidase,Chapter X Diseases of the respiratory system,Interstitial lung disease,25837,63,2.89 [1.66-5.03],0.000184730968993
+THOP1,Thimet oligopeptidase,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",27386,63,2.83 [1.62-4.94],0.0002444828314269
+THOP1,Thimet oligopeptidase,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,25830,56,3.10 [1.75-5.50],0.0001090265370376
+THOP1,Thimet oligopeptidase,Chapter X Diseases of the respiratory system,Other diseases of pleura,25881,195,1.69 [1.16-2.45],0.0060346414198872
+THOP1,Thimet oligopeptidase,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,26457,93,1.81 [1.06-3.07],0.0286974697706987
+THOP1,Thimet oligopeptidase,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,19132,6024,1.22 [1.12-1.34],1.416195547113486e-05
+THOP1,Thimet oligopeptidase,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",22970,2333,1.22 [1.07-1.38],0.0021057812906733
+THOP1,Thimet oligopeptidase,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,21382,745,1.30 [1.06-1.61],0.013486532817169
+THOP1,Thimet oligopeptidase,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,20716,79,1.89 [1.05-3.39],0.0336567830769283
+THOP1,Thimet oligopeptidase,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,26552,919,1.29 [1.07-1.55],0.0068481698524428
+THOP1,Thimet oligopeptidase,Chapter XI Diseases of the digestive system,Other diseases of intestines,21880,2192,1.15 [1.01-1.30],0.0388203916778635
+THOP1,Thimet oligopeptidase,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,26412,779,1.36 [1.12-1.66],0.0021618351047123
+THOP1,Thimet oligopeptidase,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,26401,768,1.33 [1.09-1.62],0.0058183868205742
+THOP1,Thimet oligopeptidase,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,20369,681,1.57 [1.27-1.95],3.582728302697691e-05
+THOP1,Thimet oligopeptidase,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,20083,395,1.33 [1.00-1.75],0.0481586742635616
+THOP1,Thimet oligopeptidase,Chapter XI Diseases of the digestive system,Other diseases of intestine,19918,230,1.56 [1.09-2.22],0.0145232142879167
+THOP1,Thimet oligopeptidase,Chapter XI Diseases of the digestive system,Diseases of liver,26828,104,2.05 [1.25-3.38],0.0047294605414001
+THOP1,Thimet oligopeptidase,Chapter XI Diseases of the digestive system,Other diseases of liver,26778,54,2.12 [1.06-4.22],0.0332886129843677
+THOP1,Thimet oligopeptidase,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",26055,882,1.35 [1.11-1.63],0.0021226562468614
+THOP1,Thimet oligopeptidase,Chapter XI Diseases of the digestive system,Cholelithiasis,25913,740,1.37 [1.11-1.68],0.0027258232346203
+THOP1,Thimet oligopeptidase,Chapter XI Diseases of the digestive system,Cholecystitis,25304,131,1.83 [1.17-2.88],0.0085912927457781
+THOP1,Thimet oligopeptidase,Chapter XI Diseases of the digestive system,Diseases of the digestive system,26239,313,1.37 [1.00-1.87],0.0474094693546577
+THOP1,Thimet oligopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,19469,4408,1.23 [1.11-1.36],5.353266290998043e-05
+THOP1,Thimet oligopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,21208,2538,1.23 [1.09-1.39],0.0010599634603477
+THOP1,Thimet oligopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,24813,1335,1.24 [1.06-1.45],0.0070454245378273
+THOP1,Thimet oligopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,18881,211,2.62 [1.90-3.63],5.639347474822041e-09
+THOP1,Thimet oligopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,19189,519,1.65 [1.30-2.10],3.528551446676445e-05
+THOP1,Thimet oligopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",27054,203,2.59 [1.87-3.60],1.0801125636073575e-08
+THOP1,Thimet oligopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,27071,185,2.79 [1.99-3.89],1.802062259737477e-09
+THOP1,Thimet oligopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,19904,1234,1.19 [1.00-1.42],0.0446261244821683
+THOP1,Thimet oligopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",27438,153,1.73 [1.13-2.63],0.0109994157650481
+THOP1,Thimet oligopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,20086,1416,1.20 [1.03-1.41],0.0204599647791074
+THOP1,Thimet oligopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),19093,423,1.38 [1.05-1.81],0.0198411113666461
+THOP1,Thimet oligopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,26679,95,2.20 [1.33-3.63],0.0021075906528974
+THOP1,Thimet oligopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,24583,1025,1.31 [1.10-1.56],0.0026841422018652
+THOP1,Thimet oligopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",24378,820,1.38 [1.13-1.67],0.0012715212074261
+THOP1,Thimet oligopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,23805,247,1.43 [1.02-2.03],0.0407189413705128
+THOP1,Thimet oligopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,23635,77,2.09 [1.19-3.70],0.0108679855626894
+THOP1,Thimet oligopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,23864,386,1.37 [1.03-1.81],0.027850880864476
+THOP1,Thimet oligopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,24887,236,1.48 [1.04-2.12],0.0295986764724303
+THOP1,Thimet oligopeptidase,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,27294,37,0.26 [0.10-0.70],0.0073193065762572
+THOP1,Thimet oligopeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,24298,169,1.84 [1.24-2.72],0.0022598199661986
+THOP1,Thimet oligopeptidase,Chapter XIV Diseases of the genitourinary system,Disorders of breast,27320,477,1.36 [1.06-1.75],0.0169416102435857
+THOP1,Thimet oligopeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,26959,116,1.76 [1.09-2.84],0.0210611772901128
+THOP1,Thimet oligopeptidase,Chapter XIV Diseases of the genitourinary system,"All dysplastic lesions of the cervix uteri, vagina or vulva",27592,263,1.43 [1.02-2.00],0.0370356465339779
+THOP1,Thimet oligopeptidase,Chapter XIV Diseases of the genitourinary system,All dysplastic lesions of the cervix uteri,27604,249,1.43 [1.01-2.02],0.0420404746927308
+THOP1,Thimet oligopeptidase,Chapter XIV Diseases of the genitourinary system,Irregular menses,27527,468,1.35 [1.04-1.74],0.0217900474604377
+THOP1,Thimet oligopeptidase,Chapter XIV Diseases of the genitourinary system,Female infertility,20715,113,1.71 [1.04-2.81],0.0345955782874034
+THOP1,Thimet oligopeptidase,"Chapter XV Pregnancy, childbirth and the puerperium",Prolonged pregnancy,26901,149,0.58 [0.35-0.97],0.038131126234862

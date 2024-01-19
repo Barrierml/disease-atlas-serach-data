@@ -1,0 +1,56 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+FGF19,Fibroblast growth factor 19,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,24279,197,1.28 [1.09-1.51],0.0027533392530658
+FGF19,Fibroblast growth factor 19,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,25153,84,1.30 [1.01-1.67],0.0396281725590621
+FGF19,Fibroblast growth factor 19,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,24516,65,1.52 [1.14-2.01],0.0038285426135781
+FGF19,Fibroblast growth factor 19,Chapter II Neoplasms,"Malignant neoplasm of colon, excluding all cancers (controls excluding all cancers)",22709,52,0.68 [0.49-0.94],0.0195003317418797
+FGF19,Fibroblast growth factor 19,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",27862,91,0.76 [0.60-0.97],0.0255295164573918
+FGF19,Fibroblast growth factor 19,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),24652,421,1.20 [1.07-1.35],0.0013704711863124
+FGF19,Fibroblast growth factor 19,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,26339,420,0.70 [0.63-0.79],1.964665918065086e-09
+FGF19,Fibroblast growth factor 19,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,26330,411,0.71 [0.63-0.80],7.650337539595783e-09
+FGF19,Fibroblast growth factor 19,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,22259,52,1.39 [1.01-1.91],0.0406479521311162
+FGF19,Fibroblast growth factor 19,Chapter V Mental and behavioural disorders,Any mental disorder,23530,626,1.12 [1.02-1.23],0.0138557103136626
+FGF19,Fibroblast growth factor 19,Chapter V Mental and behavioural disorders,Depression or dysthymia,23068,302,1.15 [1.01-1.31],0.0375498677250301
+FGF19,Fibroblast growth factor 19,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",23055,151,1.24 [1.03-1.49],0.0236976835382383
+FGF19,Fibroblast growth factor 19,Chapter V Mental and behavioural disorders,Other anxiety disorders,25967,78,1.32 [1.02-1.70],0.0352029376533656
+FGF19,Fibroblast growth factor 19,Chapter VI Diseases of the nervous system,Other sleep disorders,26218,97,0.77 [0.61-0.96],0.0232921880504383
+FGF19,Fibroblast growth factor 19,Chapter VI Diseases of the nervous system,Sleep apnoea,27487,70,0.76 [0.58-0.99],0.0449232140380291
+FGF19,Fibroblast growth factor 19,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",26505,867,1.10 [1.02-1.19],0.0169976782534051
+FGF19,Fibroblast growth factor 19,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,19535,50,1.51 [1.10-2.08],0.0111988342278375
+FGF19,Fibroblast growth factor 19,Chapter IX Diseases of the circulatory system,Cardiomyopathy,24232,40,1.49 [1.04-2.13],0.0277525228136674
+FGF19,Fibroblast growth factor 19,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,26086,56,1.38 [1.02-1.87],0.0367236024440047
+FGF19,Fibroblast growth factor 19,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,26731,93,0.79 [0.62-1.00],0.048904474721624
+FGF19,Fibroblast growth factor 19,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,26963,120,1.29 [1.04-1.58],0.0175340712248178
+FGF19,Fibroblast growth factor 19,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,21594,743,1.12 [1.03-1.22],0.0081031596440934
+FGF19,Fibroblast growth factor 19,Chapter XI Diseases of the digestive system,Hernia,24970,1210,1.10 [1.03-1.18],0.0067537737772883
+FGF19,Fibroblast growth factor 19,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,24726,966,1.12 [1.03-1.20],0.0045760355119148
+FGF19,Fibroblast growth factor 19,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,26796,927,0.86 [0.80-0.93],0.0002188600542544
+FGF19,Fibroblast growth factor 19,Chapter XI Diseases of the digestive system,Other diseases of intestines,22078,2227,0.93 [0.89-0.98],0.0100539297571339
+FGF19,Fibroblast growth factor 19,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",27549,63,0.30 [0.23-0.39],8.096915184847004e-19
+FGF19,Fibroblast growth factor 19,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",27832,91,0.33 [0.27-0.42],5.715239184431764e-21
+FGF19,Fibroblast growth factor 19,Chapter XI Diseases of the digestive system,Crohn disease,25960,91,0.33 [0.26-0.42],5.80217367674382e-21
+FGF19,Fibroblast growth factor 19,Chapter XI Diseases of the digestive system,Crohn's disease NAS,25935,66,0.34 [0.26-0.45],2.2307204698484702e-14
+FGF19,Fibroblast growth factor 19,Chapter XI Diseases of the digestive system,Ulcerative colitis,26003,134,0.81 [0.67-1.00],0.0453783738143534
+FGF19,Fibroblast growth factor 19,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",25990,121,0.80 [0.65-0.99],0.0433449477860326
+FGF19,Fibroblast growth factor 19,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,26645,776,0.92 [0.84-1.00],0.0426778714505842
+FGF19,Fibroblast growth factor 19,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,19960,109,0.69 [0.56-0.86],0.0010690281891093
+FGF19,Fibroblast growth factor 19,Chapter XI Diseases of the digestive system,Intestinal stricture,27424,109,0.69 [0.56-0.86],0.0011029949173258
+FGF19,Fibroblast growth factor 19,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,20098,247,0.84 [0.72-0.97],0.0196204675158409
+FGF19,Fibroblast growth factor 19,Chapter XI Diseases of the digestive system,Diseases of the digestive system,26491,307,0.85 [0.74-0.97],0.0144340133702341
+FGF19,Fibroblast growth factor 19,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",26223,39,0.55 [0.38-0.79],0.0011187132246637
+FGF19,Fibroblast growth factor 19,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,24832,1037,1.08 [1.01-1.16],0.0330975707571914
+FGF19,Fibroblast growth factor 19,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,24042,247,1.20 [1.04-1.39],0.0153582332850365
+FGF19,Fibroblast growth factor 19,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,24154,359,1.13 [1.00-1.28],0.047538390922848
+FGF19,Fibroblast growth factor 19,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,23844,141,1.24 [1.02-1.50],0.0296958619923305
+FGF19,Fibroblast growth factor 19,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,23785,82,1.35 [1.05-1.74],0.0207948786685764
+FGF19,Fibroblast growth factor 19,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,25585,49,1.48 [1.07-2.04],0.0164410065663251
+FGF19,Fibroblast growth factor 19,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,21137,332,1.18 [1.04-1.34],0.0108118925359718
+FGF19,Fibroblast growth factor 19,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care related to the fetus and amniotic cavity and possible delivery problems,27898,881,0.87 [0.80-0.95],0.0016559252713421
+FGF19,Fibroblast growth factor 19,"Chapter XV Pregnancy, childbirth and the puerperium",Complications of labour and delivery,27902,1204,0.91 [0.84-0.98],0.0153167086785012
+FGF19,Fibroblast growth factor 19,"Chapter XV Pregnancy, childbirth and the puerperium",Medical abortion,27585,165,0.83 [0.69-1.00],0.0456311268843263
+FGF19,Fibroblast growth factor 19,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for other conditions predominantly related to pregnancy,27727,230,0.85 [0.72-0.99],0.0320403939323989
+FGF19,Fibroblast growth factor 19,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for known or suspected abnormality of pelvic organs,27219,202,0.85 [0.72-1.00],0.0460212857894571
+FGF19,Fibroblast growth factor 19,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for other known or suspected fetal problems,27268,251,0.86 [0.74-1.00],0.0495345925706103
+FGF19,Fibroblast growth factor 19,"Chapter XV Pregnancy, childbirth and the puerperium",Premature rupture of membranes,27167,150,0.76 [0.63-0.93],0.0060673407994123
+FGF19,Fibroblast growth factor 19,"Chapter XV Pregnancy, childbirth and the puerperium",Perineal laceration during delivery,27372,674,0.88 [0.80-0.97],0.0105926744314613
+FGF19,Fibroblast growth factor 19,"Chapter XV Pregnancy, childbirth and the puerperium",Delivery,27927,345,0.85 [0.75-0.97],0.0168657713080722
+FGF19,Fibroblast growth factor 19,"Chapter XV Pregnancy, childbirth and the puerperium",Single spontaneous delivery,27846,264,0.78 [0.67-0.90],0.0008947522661894

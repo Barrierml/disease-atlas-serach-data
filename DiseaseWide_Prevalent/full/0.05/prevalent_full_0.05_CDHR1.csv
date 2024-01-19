@@ -1,0 +1,65 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+CDHR1,Cadherin-related family member 1,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,32823,1540,0.88 [0.78-0.98],0.0262925532486462
+CDHR1,Cadherin-related family member 1,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,44337,169,1.41 [1.09-1.81],0.0083179947914739
+CDHR1,Cadherin-related family member 1,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",40497,534,1.19 [1.01-1.40],0.04097426604752
+CDHR1,Cadherin-related family member 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,40645,2295,1.12 [1.02-1.22],0.0152214523516299
+CDHR1,Cadherin-related family member 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,45776,262,1.35 [1.09-1.67],0.0055406029376835
+CDHR1,Cadherin-related family member 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,45750,236,1.37 [1.10-1.71],0.0049423669534487
+CDHR1,Cadherin-related family member 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,40308,1958,1.11 [1.01-1.22],0.0377053309030599
+CDHR1,Cadherin-related family member 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,40154,1804,1.11 [1.00-1.22],0.0499846970608584
+CDHR1,Cadherin-related family member 1,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",41506,245,0.74 [0.55-1.00],0.0497690652138681
+CDHR1,Cadherin-related family member 1,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,39023,257,0.65 [0.48-0.87],0.0043312732483299
+CDHR1,Cadherin-related family member 1,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,49986,206,0.70 [0.51-0.97],0.0319650545847534
+CDHR1,Cadherin-related family member 1,Chapter VI Diseases of the nervous system,Epilepsy,47014,301,1.24 [1.00-1.53],0.0484189503596775
+CDHR1,Cadherin-related family member 1,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,35577,6394,1.08 [1.02-1.15],0.013359849501444
+CDHR1,Cadherin-related family member 1,Chapter IX Diseases of the circulatory system,"Hypertension, essential",37457,4418,1.15 [1.07-1.24],7.736024425913668e-05
+CDHR1,Cadherin-related family member 1,Chapter IX Diseases of the circulatory system,Hypertension,37524,4485,1.15 [1.07-1.23],8.433634508511679e-05
+CDHR1,Cadherin-related family member 1,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",45960,2348,1.11 [1.02-1.21],0.0169353928547116
+CDHR1,Cadherin-related family member 1,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",50013,188,1.38 [1.07-1.78],0.0121742944630752
+CDHR1,Cadherin-related family member 1,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",44195,583,1.26 [1.08-1.47],0.0039105979463678
+CDHR1,Cadherin-related family member 1,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,45439,1863,1.11 [1.01-1.22],0.0389236180069816
+CDHR1,Cadherin-related family member 1,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,44885,1964,0.83 [0.75-0.92],0.000448420189387
+CDHR1,Cadherin-related family member 1,Chapter X Diseases of the respiratory system,Early onset COPD,47938,344,0.72 [0.56-0.93],0.0105815819102854
+CDHR1,Cadherin-related family member 1,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",47990,396,0.74 [0.58-0.93],0.0094865001960631
+CDHR1,Cadherin-related family member 1,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",47990,396,0.74 [0.58-0.93],0.0094865001960631
+CDHR1,Cadherin-related family member 1,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",46868,1615,0.83 [0.75-0.93],0.0016258138939011
+CDHR1,Cadherin-related family member 1,Chapter X Diseases of the respiratory system,Asthma,35844,1615,0.82 [0.73-0.92],0.0006853482461733
+CDHR1,Cadherin-related family member 1,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",35318,1615,0.82 [0.73-0.92],0.0008537516142694
+CDHR1,Cadherin-related family member 1,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",35820,1591,0.82 [0.73-0.91],0.0005119059083036
+CDHR1,Cadherin-related family member 1,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,34202,11379,0.93 [0.88-0.98],0.0033345720351517
+CDHR1,Cadherin-related family member 1,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",49247,807,0.83 [0.71-0.98],0.0236510538082252
+CDHR1,Cadherin-related family member 1,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,48630,190,0.64 [0.45-0.90],0.010236160558714
+CDHR1,Cadherin-related family member 1,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",41913,4220,0.92 [0.85-0.98],0.0149483196500999
+CDHR1,Cadherin-related family member 1,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,39044,1351,0.85 [0.75-0.96],0.0110413445035013
+CDHR1,Cadherin-related family member 1,Chapter XI Diseases of the digestive system,Hernia,43991,3183,0.85 [0.79-0.93],0.0001479832338682
+CDHR1,Cadherin-related family member 1,Chapter XI Diseases of the digestive system,Inguinal hernia,41982,1174,0.85 [0.74-0.97],0.0167897655467676
+CDHR1,Cadherin-related family member 1,Chapter XI Diseases of the digestive system,Ventral hernia,41011,203,0.68 [0.49-0.94],0.0213599117854952
+CDHR1,Cadherin-related family member 1,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,42489,1681,0.86 [0.77-0.96],0.0084911945805669
+CDHR1,Cadherin-related family member 1,Chapter XI Diseases of the digestive system,Diseases of liver,48688,239,1.35 [1.08-1.69],0.0093807286506072
+CDHR1,Cadherin-related family member 1,Chapter XI Diseases of the digestive system,Other diseases of liver,48578,129,1.39 [1.03-1.87],0.0313081016050616
+CDHR1,Cadherin-related family member 1,Chapter XI Diseases of the digestive system,Cholecystitis,46562,192,0.71 [0.51-1.00],0.0477461802924999
+CDHR1,Cadherin-related family member 1,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",47025,95,0.61 [0.37-1.00],0.0483549705793225
+CDHR1,Cadherin-related family member 1,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,49372,201,0.71 [0.51-0.99],0.0417608341141366
+CDHR1,Cadherin-related family member 1,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,48492,781,0.82 [0.70-0.97],0.0180142814228025
+CDHR1,Cadherin-related family member 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,36224,7781,0.94 [0.89-0.99],0.031810116214091
+CDHR1,Cadherin-related family member 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,35161,295,1.29 [1.05-1.58],0.0151583202034488
+CDHR1,Cadherin-related family member 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",49441,283,1.32 [1.07-1.62],0.0085198856759366
+CDHR1,Cadherin-related family member 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,49462,255,1.28 [1.03-1.60],0.02790319944661
+CDHR1,Cadherin-related family member 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,37107,2241,0.84 [0.76-0.92],0.0003854605450281
+CDHR1,Cadherin-related family member 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",42123,2241,0.83 [0.76-0.92],0.0003240368144924
+CDHR1,Cadherin-related family member 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,35411,545,0.77 [0.63-0.94],0.0089586183216537
+CDHR1,Cadherin-related family member 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",49954,266,0.67 [0.50-0.89],0.0058546211486011
+CDHR1,Cadherin-related family member 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,35900,1034,0.82 [0.71-0.95],0.006313506695644
+CDHR1,Cadherin-related family member 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,35641,775,0.83 [0.71-0.98],0.0262420321828419
+CDHR1,Cadherin-related family member 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,49187,245,1.30 [1.04-1.63],0.0192446883697139
+CDHR1,Cadherin-related family member 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,43603,274,0.71 [0.54-0.94],0.0170941085906479
+CDHR1,Cadherin-related family member 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,43193,221,0.73 [0.53-0.99],0.0460562787598089
+CDHR1,Cadherin-related family member 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],43169,197,0.66 [0.47-0.93],0.0173752512502302
+CDHR1,Cadherin-related family member 1,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,45124,497,1.25 [1.06-1.48],0.0090066425156
+CDHR1,Cadherin-related family member 1,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,45347,134,1.70 [1.35-2.16],8.363595386706568e-06
+CDHR1,Cadherin-related family member 1,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,18950,213,0.72 [0.52-1.00],0.0476670684107511
+CDHR1,Cadherin-related family member 1,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,26447,141,1.38 [1.05-1.82],0.0230533381944604
+CDHR1,Cadherin-related family member 1,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,20956,780,0.82 [0.70-0.96],0.0154765721264883
+CDHR1,Cadherin-related family member 1,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,21118,942,0.86 [0.75-1.00],0.0464184731446899
+CDHR1,Cadherin-related family member 1,"Chapter XV Pregnancy, childbirth and the puerperium","Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",27098,165,1.31 [1.00-1.73],0.0488120311751615
+CDHR1,Cadherin-related family member 1,"Chapter XV Pregnancy, childbirth and the puerperium",Pregnancy hypertension,27100,162,1.35 [1.03-1.77],0.0284249655294163

@@ -1,0 +1,83 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+ENO3,Beta-enolase,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,28493,1274,0.83 [0.75-0.92],0.0002542594183664
+ENO3,Beta-enolase,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,38575,143,0.56 [0.41-0.77],0.0003093295230559
+ENO3,Beta-enolase,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,41880,201,0.65 [0.50-0.83],0.0007600489453782
+ENO3,Beta-enolase,Chapter I Certain infectious and parasitic diseases,Other septicaemia,41807,128,0.58 [0.42-0.80],0.0009775146614529
+ENO3,Beta-enolase,Chapter I Certain infectious and parasitic diseases,Other viral diseases,43342,144,1.36 [1.09-1.70],0.0072374012345998
+ENO3,Beta-enolase,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",43331,133,1.34 [1.06-1.70],0.0138116968366863
+ENO3,Beta-enolase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,38816,1307,0.74 [0.67-0.82],8.39019881025866e-09
+ENO3,Beta-enolase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,41435,320,0.77 [0.63-0.95],0.0121872956807179
+ENO3,Beta-enolase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,40924,575,0.71 [0.61-0.83],9.345949738118964e-06
+ENO3,Beta-enolase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,40924,575,0.71 [0.61-0.83],9.345949738118964e-06
+ENO3,Beta-enolase,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),37747,745,0.87 [0.77-0.99],0.0287793703480372
+ENO3,Beta-enolase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,42634,118,0.68 [0.48-0.96],0.0293065967681545
+ENO3,Beta-enolase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,41061,913,0.87 [0.78-0.98],0.0222053290080627
+ENO3,Beta-enolase,Chapter IX Diseases of the circulatory system,Peripheral artery disease,41585,185,0.69 [0.53-0.89],0.0050176041923914
+ENO3,Beta-enolase,Chapter V Mental and behavioural disorders,Any mental disorder,36920,1083,0.86 [0.78-0.96],0.0048854227303433
+ENO3,Beta-enolase,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",36223,386,0.77 [0.64-0.92],0.0035193747773012
+ENO3,Beta-enolase,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",42899,280,0.77 [0.63-0.95],0.0131750075537083
+ENO3,Beta-enolase,Chapter V Mental and behavioural disorders,Acute alcohol intoxication,40561,95,0.55 [0.38-0.81],0.0021539348124058
+ENO3,Beta-enolase,Chapter V Mental and behavioural disorders,"Acute alcohol intoxication, ICD10",43409,95,0.58 [0.40-0.84],0.0036474023441808
+ENO3,Beta-enolase,Chapter V Mental and behavioural disorders,"Alcohol abuse, main dg, excluding more controls",35932,95,0.54 [0.37-0.80],0.0017967720990821
+ENO3,Beta-enolase,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,34069,240,0.72 [0.57-0.91],0.0069313011693286
+ENO3,Beta-enolase,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,43316,191,0.74 [0.57-0.97],0.0270953694613932
+ENO3,Beta-enolase,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,41350,809,0.85 [0.75-0.95],0.0052751074242963
+ENO3,Beta-enolase,Chapter VI Diseases of the nervous system,Epilepsy,40790,249,0.67 [0.54-0.84],0.0005194962492145
+ENO3,Beta-enolase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,37919,673,0.86 [0.75-0.98],0.0280674303933715
+ENO3,Beta-enolase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,3688,70,0.54 [0.36-0.81],0.0031377165262437
+ENO3,Beta-enolase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of ear,42132,179,0.74 [0.57-0.97],0.0275587570090163
+ENO3,Beta-enolase,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,30785,5430,0.94 [0.89-0.99],0.0198449575237922
+ENO3,Beta-enolase,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,28829,91,0.66 [0.45-0.95],0.0267720145017359
+ENO3,Beta-enolase,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,39423,1541,0.91 [0.84-1.00],0.0473562622716623
+ENO3,Beta-enolase,Chapter IX Diseases of the circulatory system,Venous thromboembolism,42363,391,0.84 [0.70-0.99],0.0402220472297694
+ENO3,Beta-enolase,Chapter IX Diseases of the circulatory system,Cardiomyopathy,36214,103,1.38 [1.05-1.82],0.0197417352552871
+ENO3,Beta-enolase,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,24646,747,0.76 [0.66-0.87],5.977539894455868e-05
+ENO3,Beta-enolase,Chapter IX Diseases of the circulatory system,Other arrhythmias,36224,113,0.61 [0.43-0.86],0.0048124967991402
+ENO3,Beta-enolase,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",42052,254,0.71 [0.57-0.89],0.0031361338862284
+ENO3,Beta-enolase,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",42110,213,0.66 [0.52-0.85],0.0011038293072469
+ENO3,Beta-enolase,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",42241,186,0.67 [0.51-0.87],0.0026851845415298
+ENO3,Beta-enolase,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,41578,124,0.44 [0.31-0.62],3.4209352994588445e-06
+ENO3,Beta-enolase,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,41669,215,0.69 [0.54-0.88],0.003156821913158
+ENO3,Beta-enolase,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,34809,3532,0.87 [0.82-0.93],6.603595832445431e-06
+ENO3,Beta-enolase,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,41997,439,0.83 [0.71-0.98],0.0284611343770867
+ENO3,Beta-enolase,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,41990,432,0.83 [0.71-0.98],0.0294223292419464
+ENO3,Beta-enolase,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,20058,108,0.62 [0.43-0.90],0.0110121088151498
+ENO3,Beta-enolase,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,38884,1732,0.91 [0.84-0.99],0.0224967748923752
+ENO3,Beta-enolase,Chapter X Diseases of the respiratory system,Early onset COPD,41568,300,0.68 [0.56-0.84],0.0003249006966673
+ENO3,Beta-enolase,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",41610,342,0.73 [0.60-0.89],0.0013973776331424
+ENO3,Beta-enolase,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",41610,342,0.73 [0.60-0.89],0.0013973776331424
+ENO3,Beta-enolase,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,42911,173,0.72 [0.55-0.95],0.0196242092668852
+ENO3,Beta-enolase,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,40960,124,0.66 [0.48-0.91],0.012552257930402
+ENO3,Beta-enolase,Chapter X Diseases of the respiratory system,Pleural effusion,40062,185,0.54 [0.41-0.72],1.3851492839437312e-05
+ENO3,Beta-enolase,Chapter X Diseases of the respiratory system,Other diseases of pleura,40276,399,0.62 [0.51-0.74],2.274997025734483e-07
+ENO3,Beta-enolase,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,41416,186,0.67 [0.51-0.87],0.0026080397560698
+ENO3,Beta-enolase,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,29696,9836,0.95 [0.91-0.98],0.0073304699129133
+ENO3,Beta-enolase,Chapter XI Diseases of the digestive system,Chronic gastritis,32961,215,0.78 [0.61-0.99],0.0372101220709015
+ENO3,Beta-enolase,Chapter XI Diseases of the digestive system,Ventral hernia,35595,163,0.54 [0.40-0.72],2.664557154942928e-05
+ENO3,Beta-enolase,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,41913,1291,0.90 [0.81-0.98],0.0227370733793717
+ENO3,Beta-enolase,Chapter XI Diseases of the digestive system,"Ulcerative colitis (strict definition, require KELA, min 2 HDR)",43326,234,0.69 [0.54-0.87],0.0018916601476162
+ENO3,Beta-enolase,Chapter XI Diseases of the digestive system,Ulcerative colitis,40856,234,0.69 [0.54-0.87],0.0017512693922932
+ENO3,Beta-enolase,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",40830,208,0.74 [0.58-0.94],0.0155435732072388
+ENO3,Beta-enolase,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,30923,167,0.76 [0.57-1.00],0.0479727502395932
+ENO3,Beta-enolase,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,31001,245,0.80 [0.64-0.99],0.0409138094529418
+ENO3,Beta-enolase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,30480,257,0.58 [0.45-0.73],7.566486743736824e-06
+ENO3,Beta-enolase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,31001,778,0.79 [0.69-0.90],0.0002693558610931
+ENO3,Beta-enolase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",42848,246,0.60 [0.47-0.76],2.796924428798821e-05
+ENO3,Beta-enolase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,42866,223,0.63 [0.49-0.81],0.0002758183676422
+ENO3,Beta-enolase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,32153,1930,0.91 [0.84-0.99],0.0288807998837618
+ENO3,Beta-enolase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",36505,1930,0.92 [0.85-1.00],0.0387473665657019
+ENO3,Beta-enolase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,30708,485,0.83 [0.71-0.98],0.0258642952889962
+ENO3,Beta-enolase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,30867,644,0.86 [0.75-0.99],0.035828634846674
+ENO3,Beta-enolase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,42582,243,0.59 [0.46-0.75],2.0889169582535195e-05
+ENO3,Beta-enolase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,42433,94,0.63 [0.42-0.93],0.0209172501201422
+ENO3,Beta-enolase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,37674,87,1.42 [1.07-1.88],0.0149812700106481
+ENO3,Beta-enolase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,37374,167,1.32 [1.06-1.64],0.0134618192730381
+ENO3,Beta-enolase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,37496,289,0.77 [0.63-0.95],0.0138307260447472
+ENO3,Beta-enolase,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,34698,7200,0.88 [0.84-0.92],2.8854701602518504e-08
+ENO3,Beta-enolase,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,17232,1055,0.88 [0.79-0.98],0.0150651798980335
+ENO3,Beta-enolase,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,39358,358,0.73 [0.60-0.87],0.0007704550884947
+ENO3,Beta-enolase,Chapter XIV Diseases of the genitourinary system,Acute renal failure,39591,74,0.65 [0.43-0.97],0.0374246984071234
+ENO3,Beta-enolase,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,39593,76,0.31 [0.20-0.50],6.565408112695233e-07
+ENO3,Beta-enolase,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,39871,1764,0.85 [0.78-0.92],8.837096932737863e-05
+ENO3,Beta-enolase,Chapter XIV Diseases of the genitourinary system,Urethral stricture,38301,194,0.73 [0.57-0.94],0.0141908494287748
+ENO3,Beta-enolase,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care related to the fetus and amniotic cavity and possible delivery problems,23574,720,0.85 [0.73-0.98],0.0280677198265699

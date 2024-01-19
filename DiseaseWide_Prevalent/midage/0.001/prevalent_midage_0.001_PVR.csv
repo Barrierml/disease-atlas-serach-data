@@ -1,0 +1,61 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+PVR,Poliovirus receptor,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,25811,907,1.33 [1.14-1.54],0.0002004135725066
+PVR,Poliovirus receptor,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,25832,145,2.18 [1.59-2.98],1.0285752676676684e-06
+PVR,Poliovirus receptor,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,20516,504,1.99 [1.66-2.39],1.8912098361829266e-13
+PVR,Poliovirus receptor,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,26644,80,2.51 [1.70-3.71],4.249852162619904e-06
+PVR,Poliovirus receptor,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,27893,110,2.24 [1.57-3.19],8.458752034732779e-06
+PVR,Poliovirus receptor,Chapter I Certain infectious and parasitic diseases,Other septicaemia,27852,69,2.52 [1.65-3.85],2.0674214737006574e-05
+PVR,Poliovirus receptor,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",27597,396,1.49 [1.20-1.85],0.0002604609259681
+PVR,Poliovirus receptor,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,27454,253,1.57 [1.21-2.04],0.0006466767992363
+PVR,Poliovirus receptor,Chapter II Neoplasms,"Malignant neoplasm of breast, excluding all cancers (controls excluding all cancers)",13890,294,1.68 [1.29-2.18],0.0001053894112453
+PVR,Poliovirus receptor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,26312,829,1.53 [1.31-1.78],6.217209393315055e-08
+PVR,Poliovirus receptor,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),26210,366,1.71 [1.37-2.12],1.726026166970547e-06
+PVR,Poliovirus receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,25091,714,1.86 [1.58-2.18],3.0905452847645327e-14
+PVR,Poliovirus receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,26753,117,2.04 [1.40-2.97],0.0001916244116736
+PVR,Poliovirus receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,26739,103,2.25 [1.52-3.32],4.8886335904684526e-05
+PVR,Poliovirus receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,26967,331,2.14 [1.72-2.68],2.0254505496086545e-11
+PVR,Poliovirus receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,26957,321,2.11 [1.68-2.65],1.0452456624849079e-10
+PVR,Poliovirus receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,24924,547,1.78 [1.49-2.14],5.47962775585576e-10
+PVR,Poliovirus receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,24878,501,1.81 [1.50-2.19],9.3774914398872e-10
+PVR,Poliovirus receptor,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",24457,80,2.14 [1.39-3.28],0.0005116557691275
+PVR,Poliovirus receptor,Chapter V Mental and behavioural disorders,Any mental disorder,24825,773,1.80 [1.54-2.10],9.085309942153269e-14
+PVR,Poliovirus receptor,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",24351,299,2.26 [1.80-2.85],3.309067452016654e-12
+PVR,Poliovirus receptor,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",28155,230,2.65 [2.08-3.39],5.7899926855055916e-15
+PVR,Poliovirus receptor,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",28227,164,2.53 [1.91-3.36],1.4290640355143972e-10
+PVR,Poliovirus receptor,Chapter V Mental and behavioural disorders,Acute alcohol intoxication,26581,84,2.83 [1.93-4.14],1.0104714900180297e-07
+PVR,Poliovirus receptor,Chapter V Mental and behavioural disorders,"Acute alcohol intoxication, ICD10",28480,84,2.56 [1.77-3.70],6.119246506580737e-07
+PVR,Poliovirus receptor,Chapter V Mental and behavioural disorders,"Alcohol abuse, main dg, excluding more controls",24136,84,2.85 [1.94-4.18],8.045911983802454e-08
+PVR,Poliovirus receptor,Chapter V Mental and behavioural disorders,Alcohol dependence,26595,98,2.87 [2.03-4.05],2.449603841449622e-09
+PVR,Poliovirus receptor,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",24443,391,1.82 [1.48-2.23],1.7108429435405618e-08
+PVR,Poliovirus receptor,Chapter V Mental and behavioural disorders,Depression,26840,340,1.74 [1.40-2.16],7.59377949572142e-07
+PVR,Poliovirus receptor,Chapter V Mental and behavioural disorders,Depression or dysthymia,24293,298,1.84 [1.46-2.33],2.943362923820733e-07
+PVR,Poliovirus receptor,Chapter VI Diseases of the nervous system,Neurological diseases,25435,1465,1.23 [1.09-1.39],0.0009766633299438
+PVR,Poliovirus receptor,Chapter VI Diseases of the nervous system,Epilepsy,26896,171,1.77 [1.30-2.42],0.000275368024313
+PVR,Poliovirus receptor,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,22382,1999,1.66 [1.49-1.86],1.244872237347138e-19
+PVR,Poliovirus receptor,Chapter IX Diseases of the circulatory system,"Hypertension, essential",23456,1322,1.89 [1.66-2.15],4.644211630288482e-22
+PVR,Poliovirus receptor,Chapter IX Diseases of the circulatory system,Hypertension,23480,1346,1.88 [1.66-2.14],3.839112432232422e-22
+PVR,Poliovirus receptor,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,22184,50,2.84 [1.71-4.73],5.584464840786266e-05
+PVR,Poliovirus receptor,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",27062,577,1.41 [1.18-1.69],0.0002191948113584
+PVR,Poliovirus receptor,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,26903,429,1.48 [1.21-1.83],0.0001997608817058
+PVR,Poliovirus receptor,Chapter IX Diseases of the circulatory system,"Heart failure, strict",28082,122,1.97 [1.39-2.80],0.0001627333335398
+PVR,Poliovirus receptor,Chapter X Diseases of the respiratory system,Other diseases of pleura,27321,182,1.70 [1.25-2.30],0.0006785177916743
+PVR,Poliovirus receptor,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,20236,5234,1.16 [1.08-1.25],0.0001276000486053
+PVR,Poliovirus receptor,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,27690,761,1.44 [1.23-1.69],7.959463481794152e-06
+PVR,Poliovirus receptor,Chapter XI Diseases of the digestive system,Other diseases of intestines,23548,1690,1.24 [1.11-1.39],0.0001934634887679
+PVR,Poliovirus receptor,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,27534,605,1.50 [1.25-1.79],8.224229745839806e-06
+PVR,Poliovirus receptor,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,27529,600,1.47 [1.23-1.76],2.218730425410109e-05
+PVR,Poliovirus receptor,Chapter XI Diseases of the digestive system,Diseases of liver,27841,124,3.65 [2.72-4.90],5.461161594704358e-18
+PVR,Poliovirus receptor,Chapter XI Diseases of the digestive system,Other diseases of liver,27782,65,3.57 [2.36-5.40],1.737787450025189e-09
+PVR,Poliovirus receptor,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,26843,47,2.48 [1.46-4.24],0.0008282848545243
+PVR,Poliovirus receptor,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,25942,1514,1.36 [1.21-1.53],2.777650782833421e-07
+PVR,Poliovirus receptor,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,27798,400,1.46 [1.18-1.82],0.0005241469205343
+PVR,Poliovirus receptor,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,27626,228,1.63 [1.24-2.16],0.0005628497978667
+PVR,Poliovirus receptor,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,28327,73,2.20 [1.41-3.43],0.0004791398938791
+PVR,Poliovirus receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,22148,3585,1.19 [1.09-1.29],6.502921681443632e-05
+PVR,Poliovirus receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,26112,1129,1.30 [1.14-1.49],0.0001356162991994
+PVR,Poliovirus receptor,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,27030,211,2.30 [1.77-2.99],4.793057499490476e-10
+PVR,Poliovirus receptor,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,26874,55,2.53 [1.54-4.17],0.0002612703130956
+PVR,Poliovirus receptor,Chapter XIV Diseases of the genitourinary system,Acute renal failure,27186,45,2.54 [1.53-4.21],0.0003001554917074
+PVR,Poliovirus receptor,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,27189,48,2.87 [1.77-4.64],1.7008797331560514e-05
+PVR,Poliovirus receptor,"Chapter XV Pregnancy, childbirth and the puerperium",Complications of labour and delivery,15802,1214,0.71 [0.60-0.83],2.302604069152053e-05
+PVR,Poliovirus receptor,"Chapter XV Pregnancy, childbirth and the puerperium",Perineal laceration during delivery,15268,680,0.71 [0.57-0.87],0.0008409056536205

@@ -1,0 +1,104 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,24200,990,0.90 [0.85-0.96],0.0016339321422025
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,24112,193,0.78 [0.68-0.90],0.0006928097728246
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,18459,766,0.87 [0.80-0.93],0.0001295637658577
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,24988,83,0.67 [0.54-0.83],0.0002491229159646
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,26825,120,0.75 [0.63-0.90],0.0018159954445221
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter I Certain infectious and parasitic diseases,Other septicaemia,26776,71,0.62 [0.49-0.78],6.613695969446415e-05
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter I Certain infectious and parasitic diseases,Mycoses,27201,62,0.67 [0.52-0.86],0.0018736711234246
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",22567,52,0.58 [0.44-0.77],0.0001759394968179
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,24735,1027,0.83 [0.78-0.88],1.7774969787676375e-09
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,26040,447,0.85 [0.77-0.93],0.0004305273699413
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,26040,447,0.85 [0.77-0.93],0.0004305273699413
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,27155,99,0.65 [0.53-0.80],2.9057347125170547e-05
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,22986,922,0.89 [0.83-0.95],0.0006102788295468
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,25383,899,0.93 [0.87-1.00],0.0388537010137226
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,25630,197,0.83 [0.71-0.97],0.019500521191009
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",25633,194,0.83 [0.71-0.97],0.0205114135128171
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,22790,726,0.91 [0.85-0.98],0.014778439959891
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,22739,675,0.91 [0.85-0.99],0.0237252062547358
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",22134,70,0.76 [0.60-0.96],0.0215662140528309
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter V Mental and behavioural disorders,Any mental disorder,23369,622,0.89 [0.82-0.96],0.0029127389375213
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",22868,121,0.76 [0.64-0.92],0.0037069230396698
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",27482,81,0.71 [0.57-0.89],0.0025232066124426
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",27525,49,0.58 [0.43-0.77],0.0002373578946659
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter V Mental and behavioural disorders,Alcohol dependence,26254,26,0.56 [0.37-0.83],0.0040269579423199
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",23132,385,0.88 [0.79-0.97],0.0108523000030714
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter V Mental and behavioural disorders,Depression,25700,342,0.88 [0.80-0.98],0.0210961531688253
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,27463,76,0.70 [0.56-0.87],0.0017702991228613
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter VI Diseases of the nervous system,Hemiplegia,27444,57,0.63 [0.48-0.81],0.0004977079723561
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,27140,105,0.81 [0.67-0.98],0.0330040139833902
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,20407,2804,0.89 [0.86-0.93],2.2722429175144085e-07
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,27140,77,0.65 [0.52-0.82],0.0002216071337079
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter IX Diseases of the circulatory system,"Hypertension, essential",21447,2064,0.92 [0.88-0.97],0.0013582792916039
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter IX Diseases of the circulatory system,Hypertension,21468,2085,0.92 [0.88-0.97],0.0013259044274544
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",26026,727,0.86 [0.79-0.92],4.065373127130879e-05
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter IX Diseases of the circulatory system,Angina pectoris,25804,505,0.84 [0.77-0.92],0.0001098745914319
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,27057,150,0.84 [0.72-0.99],0.0349132829444107
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,27135,228,0.85 [0.74-0.97],0.0128840025498031
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,25765,478,0.84 [0.77-0.92],0.0001851482304543
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter IX Diseases of the circulatory system,Secondary right heart disease,26931,97,0.69 [0.57-0.85],0.0004032388197052
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,26931,97,0.69 [0.57-0.85],0.0004032388197052
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",19477,94,0.71 [0.58-0.87],0.001013342385512
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,16827,280,0.70 [0.62-0.79],8.125531708725663e-09
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",26978,99,0.81 [0.66-0.99],0.0350389637706689
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,26778,113,0.78 [0.65-0.94],0.0076596598682014
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),26100,133,0.84 [0.70-0.99],0.0374873526342228
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",27515,103,0.82 [0.68-1.00],0.0467802332503997
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter IX Diseases of the circulatory system,Varicose veins,26582,615,0.90 [0.83-0.97],0.0059492846168766
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,22528,2121,0.91 [0.87-0.95],3.969120898357619e-05
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,24741,1172,0.92 [0.87-0.97],0.0048314674849422
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",26671,178,0.86 [0.74-1.00],0.0448538316806741
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",26671,178,0.86 [0.74-1.00],0.0448538316806741
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",25651,1008,0.93 [0.87-0.99],0.0171657571325392
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter X Diseases of the respiratory system,Asthma,20585,1008,0.91 [0.86-0.97],0.0040605202434941
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",20393,1008,0.91 [0.85-0.97],0.0038293269519089
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",20570,993,0.91 [0.85-0.97],0.0037380082805924
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,27395,84,0.71 [0.57-0.88],0.0018713326138854
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter X Diseases of the respiratory system,Interstitial lung disease,25923,63,0.66 [0.51-0.85],0.0011620677533533
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",27472,63,0.67 [0.52-0.86],0.0015035278359779
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,25916,56,0.66 [0.51-0.86],0.0023026044301928
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter X Diseases of the respiratory system,Pleural effusion,25861,88,0.65 [0.52-0.80],6.984905795982782e-05
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter X Diseases of the respiratory system,Other diseases of pleura,25967,194,0.75 [0.65-0.87],7.816203916326912e-05
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,19180,6051,0.95 [0.92-0.98],0.0004375783001758
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,26486,77,0.78 [0.62-0.98],0.0301343654920716
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,27585,48,0.70 [0.52-0.93],0.0135012383253987
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,20932,221,0.87 [0.76-0.99],0.0372318493014206
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",23046,2335,0.92 [0.88-0.96],0.0001160020547525
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,21456,745,0.91 [0.84-0.98],0.0084987280978645
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XI Diseases of the digestive system,Gastric ulcer,20860,149,0.82 [0.70-0.97],0.0170301175654467
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),21565,854,0.91 [0.85-0.97],0.0067115412600007
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XI Diseases of the digestive system,Other diseases of intestine,19955,235,0.85 [0.74-0.96],0.0108464347602327
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XI Diseases of the digestive system,Diseases of liver,26923,105,0.69 [0.57-0.84],0.0001846320800712
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XI Diseases of the digestive system,Other diseases of liver,26872,54,0.67 [0.51-0.88],0.0038241344685009
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,24544,1628,0.90 [0.86-0.95],4.886602398366418e-05
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,26889,325,0.86 [0.77-0.96],0.0062647889985413
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,26771,207,0.84 [0.73-0.96],0.0112122088718412
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,25593,158,0.84 [0.72-0.98],0.0282747417864895
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,19527,4435,0.94 [0.91-0.97],0.0001948015423969
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,21272,2555,0.96 [0.92-1.00],0.0433338554346927
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,18927,210,0.77 [0.67-0.88],0.0001872260321156
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,19240,523,0.80 [0.73-0.87],6.123611240218088e-07
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",27133,202,0.76 [0.67-0.88],0.0001463326773197
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,27150,184,0.73 [0.63-0.84],2.0258934358548287e-05
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,18999,282,0.89 [0.79-1.00],0.0497281125715928
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,20655,299,0.87 [0.78-0.98],0.0186457551344882
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,26891,221,0.74 [0.65-0.85],9.007224708501122e-06
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,24663,1030,0.87 [0.82-0.92],6.452726768463912e-06
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",24451,818,0.88 [0.82-0.94],0.0001534634607054
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,23797,164,0.83 [0.71-0.97],0.0178278996722756
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,23707,74,0.71 [0.56-0.89],0.0033714909463689
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,23989,356,0.89 [0.80-0.98],0.0212985737019173
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",24087,546,0.91 [0.84-0.99],0.0244116783983457
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,23734,193,0.86 [0.75-0.99],0.040589481537907
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,24948,239,0.78 [0.68-0.88],9.753690281755355e-05
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,25202,493,0.78 [0.71-0.85],5.032118479336422e-08
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,24777,68,0.74 [0.58-0.93],0.0118905188197477
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,24828,119,0.79 [0.66-0.94],0.009059620317142
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,22626,6156,0.97 [0.94-1.00],0.0281018663005342
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIV Diseases of the genitourinary system,HSIL lesion of the cervix uteri,27716,141,1.21 [1.03-1.41],0.0187208131573004
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter XIV Diseases of the genitourinary system,"HSIL lesion of the cervix uteri, vagina or vulva",27705,155,1.19 [1.03-1.39],0.0216683059851493
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,"Chapter XV Pregnancy, childbirth and the puerperium",Other maternal disorders predominantly related to pregnancy,27731,417,0.85 [0.77-0.94],0.0012761904248517
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,"Chapter XV Pregnancy, childbirth and the puerperium",Haemorrhage in early pregnancy,27440,126,0.74 [0.62-0.89],0.0010924995830206
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for known or suspected abnormality of pelvic organs,27036,204,0.85 [0.74-0.98],0.0240820055223873
+EDAR,Tumor necrosis factor receptor superfamily member EDAR,Chapter VI Diseases of the nervous system,Falls/tendency to fall,24798,646,0.91 [0.84-0.98],0.0121643542329124

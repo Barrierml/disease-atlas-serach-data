@@ -1,0 +1,94 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+BOC,Brother of CDO,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,17875,286,1.88 [1.20-2.94],0.0055863870685637
+BOC,Brother of CDO,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,13084,1066,1.32 [1.03-1.68],0.0275291778264445
+BOC,Brother of CDO,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,19318,756,1.39 [1.05-1.84],0.0208756034072144
+BOC,Brother of CDO,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),18135,555,1.98 [1.43-2.74],3.635529090273216e-05
+BOC,Brother of CDO,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,16445,1633,1.43 [1.17-1.75],0.0004389588211342
+BOC,Brother of CDO,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,21018,635,0.71 [0.52-0.96],0.0262686622308291
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,Peripheral artery disease,21132,167,3.09 [1.75-5.47],0.0001057021149057
+BOC,Brother of CDO,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,20570,762,4.92 [3.72-6.52],8.796595051875e-29
+BOC,Brother of CDO,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,20544,736,4.64 [3.49-6.17],4.178235324511671e-26
+BOC,Brother of CDO,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,16264,1452,1.33 [1.07-1.65],0.0086481914053247
+BOC,Brother of CDO,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",15001,189,2.17 [1.26-3.74],0.0051995042630963
+BOC,Brother of CDO,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,16156,1344,1.33 [1.06-1.65],0.0121315471663098
+BOC,Brother of CDO,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",14902,90,6.69 [3.29-13.61],1.526220938310404e-07
+BOC,Brother of CDO,Chapter V Mental and behavioural disorders,Any mental disorder,18577,529,1.40 [1.01-1.95],0.0461559260753404
+BOC,Brother of CDO,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",18206,158,2.69 [1.48-4.90],0.001243531259225
+BOC,Brother of CDO,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",22356,113,3.78 [1.90-7.51],0.0001448646600903
+BOC,Brother of CDO,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",22415,84,3.32 [1.50-7.39],0.0032028058030136
+BOC,Brother of CDO,Chapter V Mental and behavioural disorders,Acute alcohol intoxication,21185,34,7.28 [2.32-22.89],0.0006795207533161
+BOC,Brother of CDO,Chapter V Mental and behavioural disorders,"Acute alcohol intoxication, ICD10",22643,34,6.76 [2.13-21.42],0.0011724833509191
+BOC,Brother of CDO,Chapter V Mental and behavioural disorders,"Alcohol abuse, main dg, excluding more controls",18082,34,6.90 [2.20-21.61],0.0009080298382717
+BOC,Brother of CDO,Chapter VI Diseases of the nervous system,Neurological diseases,18444,1475,1.39 [1.13-1.71],0.0016435248184187
+BOC,Brother of CDO,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,21420,465,1.86 [1.31-2.63],0.0005059674670253
+BOC,Brother of CDO,Chapter VI Diseases of the nervous system,Other sleep disorders,21110,155,2.48 [1.37-4.48],0.002715590065184
+BOC,Brother of CDO,Chapter VI Diseases of the nervous system,Sleep apnoea,22196,116,2.05 [1.03-4.08],0.0418038176019025
+BOC,Brother of CDO,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,22341,76,2.42 [1.04-5.60],0.0400596165272927
+BOC,Brother of CDO,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,21344,298,2.58 [1.69-3.95],1.2427122212101954e-05
+BOC,Brother of CDO,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,21688,76,2.43 [1.06-5.59],0.036025155589515
+BOC,Brother of CDO,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,22061,98,0.36 [0.17-0.78],0.0091668699211163
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,14004,4505,1.34 [1.16-1.55],9.200158701482432e-05
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,"Hypertension, essential",14836,3159,1.30 [1.11-1.53],0.0012569446917097
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,Hypertension,14880,3203,1.32 [1.12-1.54],0.0006951442909278
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,11784,107,6.32 [3.23-12.38],7.802505465426496e-08
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",19883,1794,1.44 [1.19-1.74],0.0001607666358849
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,Angina pectoris,19159,1070,1.29 [1.01-1.64],0.0411886438551863
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,21358,338,1.58 [1.05-2.39],0.0285137272141654
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,21706,686,1.75 [1.31-2.35],0.0001482193596704
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",18520,431,2.11 [1.47-3.04],5.75487288270546e-05
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,19519,1455,1.51 [1.23-1.86],9.856925588395554e-05
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,Secondary right heart disease,21566,113,2.06 [1.03-4.12],0.04154231466667
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,21567,114,2.10 [1.06-4.19],0.0345866372569707
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",11786,109,2.32 [1.15-4.71],0.0190426351831294
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,Cardiomyopathy,16695,69,4.49 [1.95-10.33],0.0004048787261292
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,9398,675,2.59 [1.91-3.52],1.0171948486118356e-09
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,16747,121,4.03 [2.11-7.70],2.552302081054043e-05
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,"Heart failure, strict",21112,288,3.62 [2.35-5.58],4.994384821511259e-09
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,21173,173,1.96 [1.11-3.47],0.0201119280411622
+BOC,Brother of CDO,Chapter X Diseases of the respiratory system,Chronic sinusitis,21558,92,0.44 [0.20-0.97],0.0414174707790112
+BOC,Brother of CDO,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,19682,1118,0.59 [0.46-0.74],8.862721267704266e-06
+BOC,Brother of CDO,Chapter X Diseases of the respiratory system,Early onset COPD,21087,239,0.56 [0.34-0.92],0.0218210831466115
+BOC,Brother of CDO,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",21072,851,0.48 [0.37-0.63],6.891793736935277e-08
+BOC,Brother of CDO,Chapter X Diseases of the respiratory system,Asthma,14758,851,0.49 [0.38-0.65],2.989076119126062e-07
+BOC,Brother of CDO,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",14379,851,0.50 [0.38-0.66],6.153794753979446e-07
+BOC,Brother of CDO,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",14748,841,0.49 [0.38-0.65],4.187469195671553e-07
+BOC,Brother of CDO,Chapter X Diseases of the respiratory system,Pleural effusion,19953,144,1.98 [1.06-3.70],0.0322858374198961
+BOC,Brother of CDO,Chapter X Diseases of the respiratory system,Other diseases of pleura,20100,291,1.89 [1.22-2.94],0.004715869238558
+BOC,Brother of CDO,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,14682,6328,0.82 [0.72-0.93],0.0025209116808421
+BOC,Brother of CDO,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",18245,2530,0.73 [0.62-0.86],0.0001883734476849
+BOC,Brother of CDO,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,16527,812,0.51 [0.38-0.67],1.1331648310617004e-06
+BOC,Brother of CDO,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,15990,275,0.59 [0.37-0.94],0.026669270210315
+BOC,Brother of CDO,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),16682,967,0.73 [0.57-0.95],0.0164812637738968
+BOC,Brother of CDO,Chapter XI Diseases of the digestive system,Functional dyspepsia,16198,483,0.67 [0.47-0.95],0.0263399929493308
+BOC,Brother of CDO,Chapter XI Diseases of the digestive system,Inguinal hernia,17888,783,1.38 [1.05-1.82],0.0200980490017285
+BOC,Brother of CDO,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,18215,1110,0.58 [0.45-0.73],4.028771540172363e-06
+BOC,Brother of CDO,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,21671,745,0.73 [0.55-0.97],0.029200101875451
+BOC,Brother of CDO,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",22374,44,0.13 [0.04-0.38],0.0002225504848397
+BOC,Brother of CDO,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",22658,57,0.23 [0.09-0.61],0.0033540993237976
+BOC,Brother of CDO,Chapter XI Diseases of the digestive system,Crohn disease,20983,57,0.23 [0.09-0.62],0.0034412860989401
+BOC,Brother of CDO,Chapter XI Diseases of the digestive system,Crohn's disease NAS,20968,42,0.19 [0.06-0.60],0.004666735791078
+BOC,Brother of CDO,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,21543,617,0.73 [0.53-0.99],0.0424428868208162
+BOC,Brother of CDO,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,14502,150,0.38 [0.21-0.71],0.0024086583624378
+BOC,Brother of CDO,Chapter XI Diseases of the digestive system,Diseases of liver,21844,125,1.96 [1.01-3.80],0.0473548699686743
+BOC,Brother of CDO,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",21245,711,0.62 [0.47-0.83],0.0012953765124364
+BOC,Brother of CDO,Chapter XI Diseases of the digestive system,Cholelithiasis,21113,579,0.54 [0.39-0.74],0.0001527726273755
+BOC,Brother of CDO,Chapter XI Diseases of the digestive system,Cholecystitis,20650,116,0.39 [0.19-0.79],0.0085893303369489
+BOC,Brother of CDO,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,14837,4354,0.84 [0.73-0.97],0.016642274427943
+BOC,Brother of CDO,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,16413,2711,0.83 [0.70-0.97],0.0206844149687674
+BOC,Brother of CDO,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,13992,290,0.61 [0.39-0.95],0.0297759042738215
+BOC,Brother of CDO,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,15007,1305,0.80 [0.64-1.00],0.0452936909140999
+BOC,Brother of CDO,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,21983,69,0.39 [0.16-0.96],0.0402340080332651
+BOC,Brother of CDO,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,18981,116,2.95 [1.50-5.77],0.0016567858638065
+BOC,Brother of CDO,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",18906,41,0.26 [0.08-0.82],0.0217675643443019
+BOC,Brother of CDO,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,18915,50,0.31 [0.11-0.90],0.0304039634849842
+BOC,Brother of CDO,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,20355,237,0.48 [0.29-0.79],0.0038134741213177
+BOC,Brother of CDO,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,19044,290,2.78 [1.81-4.29],3.3663868416004994e-06
+BOC,Brother of CDO,Chapter XIV Diseases of the genitourinary system,Acute renal failure,19096,64,2.99 [1.19-7.47],0.0194300037995173
+BOC,Brother of CDO,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,19120,88,4.24 [2.02-8.87],0.0001274343690363
+BOC,Brother of CDO,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,19111,79,6.44 [3.09-13.43],6.724569996091212e-07
+BOC,Brother of CDO,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,19383,727,0.63 [0.48-0.85],0.0018797637378927
+BOC,Brother of CDO,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,8013,91,2.20 [1.02-4.72],0.0437746406924227
+BOC,Brother of CDO,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,11596,55,0.21 [0.08-0.60],0.0032927836892597
+BOC,Brother of CDO,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),9113,50,0.21 [0.07-0.61],0.004404599505296
+BOC,Brother of CDO,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,9536,473,0.67 [0.47-0.97],0.0333567866939057
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",22165,81,2.86 [1.29-6.37],0.0100061601437479

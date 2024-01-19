@@ -1,0 +1,55 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+POSTN,Periostin,Chapter II Neoplasms,"Malignant neoplasm of breast, excluding all cancers (controls excluding all cancers)",20218,586,1.56 [1.27-1.91],2.2004548238580613e-05
+POSTN,Periostin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),21431,346,1.49 [1.15-1.94],0.0026800511766299
+POSTN,Periostin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,22582,97,2.98 [2.02-4.38],3.2177560463719434e-08
+POSTN,Periostin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,22573,88,3.03 [2.03-4.52],5.3952502457676194e-08
+POSTN,Periostin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,22841,356,0.65 [0.49-0.85],0.0021075471392429
+POSTN,Periostin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,22832,347,0.63 [0.47-0.83],0.0010919956394956
+POSTN,Periostin,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",19374,58,2.59 [1.54-4.34],0.0003105500151075
+POSTN,Periostin,Chapter V Mental and behavioural disorders,Acute alcohol intoxication,22941,33,3.67 [2.00-6.74],2.6264061421022607e-05
+POSTN,Periostin,Chapter V Mental and behavioural disorders,"Acute alcohol intoxication, ICD10",24165,33,3.80 [2.10-6.88],1.0129467785742898e-05
+POSTN,Periostin,Chapter V Mental and behavioural disorders,"Alcohol abuse, main dg, excluding more controls",19938,33,3.65 [2.00-6.65],2.4566543183426737e-05
+POSTN,Periostin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,23979,28,2.93 [1.51-5.68],0.0015223911935055
+POSTN,Periostin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,1560,28,3.99 [1.78-8.94],0.0007578471059526
+POSTN,Periostin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",22447,28,2.84 [1.45-5.57],0.002412632237723
+POSTN,Periostin,Chapter IX Diseases of the circulatory system,Pulmonary embolism,23507,87,2.28 [1.45-3.58],0.0003666254702608
+POSTN,Periostin,Chapter IX Diseases of the circulatory system,Venous thromboembolism,23610,190,1.89 [1.36-2.63],0.0001656378056462
+POSTN,Periostin,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,14549,86,2.07 [1.30-3.32],0.0023748272203328
+POSTN,Periostin,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,14704,241,2.02 [1.50-2.73],4.5897944548972985e-06
+POSTN,Periostin,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",23524,115,2.16 [1.44-3.24],0.0002051059757129
+POSTN,Periostin,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",23560,86,2.33 [1.49-3.66],0.0002270650267536
+POSTN,Periostin,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",23622,74,2.49 [1.56-3.98],0.0001389166133411
+POSTN,Periostin,Chapter IX Diseases of the circulatory system,Varicose veins,23223,536,1.36 [1.10-1.69],0.0046900787759488
+POSTN,Periostin,Chapter X Diseases of the respiratory system,Nasal polyp,23105,73,2.27 [1.38-3.73],0.0011906576960457
+POSTN,Periostin,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,23916,79,2.01 [1.20-3.35],0.0075562620855811
+POSTN,Periostin,Chapter X Diseases of the respiratory system,Interstitial lung disease,22591,61,2.22 [1.27-3.89],0.0050875198638188
+POSTN,Periostin,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",23980,61,2.22 [1.27-3.89],0.0051461099390595
+POSTN,Periostin,Chapter X Diseases of the respiratory system,Other diseases of pleura,22684,171,1.71 [1.19-2.45],0.0035371810523922
+POSTN,Periostin,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,23391,100,0.44 [0.26-0.74],0.0020960412647715
+POSTN,Periostin,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",23906,58,0.35 [0.18-0.70],0.0028702780183966
+POSTN,Periostin,Chapter XI Diseases of the digestive system,"Ulcerative colitis (strict definition, require KELA, min 2 HDR)",24073,115,1.77 [1.15-2.73],0.0093027557735801
+POSTN,Periostin,Chapter XI Diseases of the digestive system,Ulcerative colitis,22562,115,1.80 [1.17-2.77],0.0079263214312321
+POSTN,Periostin,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",22548,101,2.01 [1.29-3.14],0.002152738560347
+POSTN,Periostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,17038,3880,1.32 [1.20-1.45],8.694414453107971e-09
+POSTN,Periostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,18582,2226,1.32 [1.18-1.48],2.0712707956208404e-06
+POSTN,Periostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,21727,1178,1.22 [1.05-1.42],0.008168077266267
+POSTN,Periostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,17429,1073,1.47 [1.25-1.73],2.21226326819366e-06
+POSTN,Periostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",19809,1073,1.43 [1.22-1.68],7.4168398744341665e-06
+POSTN,Periostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,16434,78,2.36 [1.50-3.73],0.0002293599837897
+POSTN,Periostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,16631,275,2.09 [1.58-2.77],2.3246463299696797e-07
+POSTN,Periostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",24021,143,1.83 [1.24-2.71],0.002498203570779
+POSTN,Periostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,16771,415,1.44 [1.13-1.84],0.003310100133008
+POSTN,Periostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,17600,1244,1.28 [1.11-1.48],0.00097388128792
+POSTN,Periostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),16455,99,1.83 [1.16-2.87],0.0093487048806187
+POSTN,Periostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,20717,76,2.44 [1.52-3.90],0.0002118833327531
+POSTN,Periostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,21556,915,1.49 [1.27-1.76],1.536520302254076e-06
+POSTN,Periostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,20711,70,2.40 [1.47-3.94],0.0005038306781424
+POSTN,Periostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",21371,730,1.50 [1.25-1.80],1.1202503077075527e-05
+POSTN,Periostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,20962,321,1.51 [1.16-1.98],0.0025179405834969
+POSTN,Periostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,20600,51,2.68 [1.56-4.61],0.0003675332830446
+POSTN,Periostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],20587,38,3.06 [1.70-5.54],0.0002088711619019
+POSTN,Periostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,21777,215,1.68 [1.22-2.33],0.0016861347424262
+POSTN,Periostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,21988,426,1.57 [1.24-1.98],0.0001866619176627
+POSTN,Periostin,Chapter XIV Diseases of the genitourinary system,Unspecified/other endometriosis,18107,86,0.47 [0.27-0.81],0.0064103007035959
+POSTN,Periostin,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,18728,707,0.64 [0.52-0.78],1.2965193184680975e-05
+POSTN,Periostin,Chapter VI Diseases of the nervous system,Falls/tendency to fall,21672,550,1.38 [1.12-1.71],0.0027907923512799

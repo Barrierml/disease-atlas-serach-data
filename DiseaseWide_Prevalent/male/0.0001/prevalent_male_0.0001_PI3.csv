@@ -1,0 +1,113 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+PI3,Elafin,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,20030,818,1.41 [1.27-1.57],6.705086544377279e-11
+PI3,Elafin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,19396,242,2.21 [1.89-2.59],4.4203189130362403e-23
+PI3,Elafin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,14963,812,2.08 [1.88-2.30],3.420363425128696e-45
+PI3,Elafin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,20108,92,2.36 [1.88-2.96],1.4971436312505846e-13
+PI3,Elafin,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,19681,49,2.26 [1.63-3.15],1.2058178615761908e-06
+PI3,Elafin,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,22225,121,1.94 [1.57-2.39],5.730218318429447e-10
+PI3,Elafin,Chapter I Certain infectious and parasitic diseases,Other septicaemia,22189,85,2.12 [1.68-2.67],2.1136330436342426e-10
+PI3,Elafin,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",22047,388,1.61 [1.40-1.85],1.1578538813624836e-11
+PI3,Elafin,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,21811,152,1.82 [1.48-2.22],6.771745420152837e-09
+PI3,Elafin,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,21923,264,1.52 [1.28-1.80],1.7028488607235574e-06
+PI3,Elafin,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",18176,52,1.90 [1.39-2.62],7.11902895718068e-05
+PI3,Elafin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,20690,558,1.87 [1.68-2.09],4.017655260321801e-29
+PI3,Elafin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,22223,122,2.12 [1.73-2.59],3.217969554220741e-13
+PI3,Elafin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,21860,256,2.10 [1.82-2.43],3.087115467154189e-24
+PI3,Elafin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,21860,256,2.10 [1.82-2.43],3.087115467154189e-24
+PI3,Elafin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),19658,511,1.84 [1.63-2.07],1.804117280838253e-23
+PI3,Elafin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,23152,58,2.16 [1.65-2.82],1.7796370886843252e-08
+PI3,Elafin,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,18320,1429,1.30 [1.19-1.42],1.593204256684594e-09
+PI3,Elafin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,20657,147,1.96 [1.61-2.38],2.870067561662904e-11
+PI3,Elafin,Chapter IX Diseases of the circulatory system,Peripheral artery disease,22057,166,1.78 [1.47-2.16],4.513596695763794e-09
+PI3,Elafin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,20641,131,1.88 [1.52-2.33],5.6201714977925115e-09
+PI3,Elafin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,21200,690,1.41 [1.26-1.58],3.114834836153504e-09
+PI3,Elafin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,21173,663,1.38 [1.23-1.55],5.418595487721415e-08
+PI3,Elafin,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,16942,51,2.75 [2.10-3.60],1.5383982669770821e-13
+PI3,Elafin,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",16989,98,2.99 [2.45-3.66],8.599982061446138e-27
+PI3,Elafin,Chapter V Mental and behavioural disorders,Any mental disorder,19861,682,1.59 [1.42-1.77],1.0870962226076964e-16
+PI3,Elafin,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",19516,337,1.57 [1.34-1.83],1.3562195777901564e-08
+PI3,Elafin,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",22853,261,1.48 [1.25-1.76],9.035878452415145e-06
+PI3,Elafin,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",22941,200,1.62 [1.34-1.96],6.338869837274466e-07
+PI3,Elafin,Chapter V Mental and behavioural disorders,Alcohol dependence,21372,115,1.70 [1.32-2.18],3.572684787065479e-05
+PI3,Elafin,Chapter V Mental and behavioural disorders,Smoking dependency,21371,83,1.81 [1.37-2.39],3.457417744878587e-05
+PI3,Elafin,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",19243,64,2.11 [1.57-2.83],6.460780556343262e-07
+PI3,Elafin,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",19447,268,1.68 [1.43-1.98],3.056320837976756e-10
+PI3,Elafin,Chapter V Mental and behavioural disorders,Depression,22229,230,1.58 [1.33-1.88],2.4887707611987684e-07
+PI3,Elafin,Chapter V Mental and behavioural disorders,Depression or dysthymia,19160,198,1.55 [1.28-1.89],1.0294012392318612e-05
+PI3,Elafin,Chapter VI Diseases of the nervous system,Neurological diseases,19803,1301,1.30 [1.19-1.41],1.861253192730549e-09
+PI3,Elafin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,22455,249,1.45 [1.22-1.73],2.3069002456055e-05
+PI3,Elafin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,23009,72,2.11 [1.64-2.72],7.186732216243332e-09
+PI3,Elafin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,2568,72,1.98 [1.52-2.58],4.843858490239727e-07
+PI3,Elafin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",20513,72,2.29 [1.76-2.99],9.911853240200194e-10
+PI3,Elafin,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,15762,3707,1.45 [1.36-1.55],6.42569191285443e-29
+PI3,Elafin,Chapter IX Diseases of the circulatory system,"Hypertension, essential",16641,2419,1.53 [1.42-1.65],5.2767026878750536e-30
+PI3,Elafin,Chapter IX Diseases of the circulatory system,Hypertension,16688,2466,1.59 [1.48-1.71],1.0720610433067357e-36
+PI3,Elafin,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,14333,111,5.15 [4.21-6.29],2.3020483519757563e-57
+PI3,Elafin,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",20732,1655,1.19 [1.10-1.29],1.2084489932691994e-05
+PI3,Elafin,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,20468,1415,1.19 [1.09-1.30],6.883673238471126e-05
+PI3,Elafin,Chapter IX Diseases of the circulatory system,Venous thromboembolism,22657,241,1.57 [1.33-1.85],9.72548821114358e-08
+PI3,Elafin,Chapter IX Diseases of the circulatory system,Secondary right heart disease,22509,78,1.78 [1.35-2.34],3.4819576954476484e-05
+PI3,Elafin,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,22511,80,1.77 [1.36-2.32],2.9738440291573764e-05
+PI3,Elafin,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",14296,74,2.14 [1.61-2.86],2.154135266096827e-07
+PI3,Elafin,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,12005,600,1.65 [1.44-1.88],1.7715763571300773e-13
+PI3,Elafin,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,18338,121,1.86 [1.49-2.33],3.887892498373381e-08
+PI3,Elafin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",22122,311,1.53 [1.31-1.78],4.464185708312719e-08
+PI3,Elafin,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",22392,186,1.80 [1.51-2.15],9.503072783553574e-11
+PI3,Elafin,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",22420,168,1.86 [1.55-2.23],2.2832258337484383e-11
+PI3,Elafin,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",22505,149,1.87 [1.55-2.27],1.3020519304340392e-10
+PI3,Elafin,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,22085,147,1.72 [1.40-2.12],2.991467110945547e-07
+PI3,Elafin,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),22093,148,1.68 [1.37-2.05],6.085279805868753e-07
+PI3,Elafin,Chapter IX Diseases of the circulatory system,DVT of lower extremities,22077,132,1.66 [1.34-2.05],4.397036568048517e-06
+PI3,Elafin,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",23180,124,1.61 [1.29-2.02],2.870006374875824e-05
+PI3,Elafin,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,18251,1977,1.27 [1.18-1.37],1.6280315077936147e-10
+PI3,Elafin,Chapter X Diseases of the respiratory system,Influenza and pneumonia,21323,250,1.74 [1.48-2.04],1.872631266933029e-11
+PI3,Elafin,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",21286,213,1.81 [1.53-2.15],5.745520197445168e-12
+PI3,Elafin,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,22438,267,1.58 [1.35-1.86],2.0338652981798962e-08
+PI3,Elafin,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,22435,264,1.59 [1.35-1.86],1.708283984647002e-08
+PI3,Elafin,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,20922,842,1.23 [1.11-1.36],7.972592461032076e-05
+PI3,Elafin,Chapter X Diseases of the respiratory system,Early onset COPD,22111,190,1.59 [1.32-1.93],1.2608197846893023e-06
+PI3,Elafin,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",22144,223,1.58 [1.33-1.89],2.716258231569889e-07
+PI3,Elafin,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",22144,223,1.58 [1.33-1.89],2.716258231569889e-07
+PI3,Elafin,Chapter X Diseases of the respiratory system,Pleural effusion,21111,131,1.95 [1.58-2.41],4.2741491791901316e-10
+PI3,Elafin,Chapter X Diseases of the respiratory system,Other diseases of pleura,21262,282,1.73 [1.48-2.02],4.965851248895333e-12
+PI3,Elafin,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,22058,126,1.74 [1.39-2.18],1.1428138853831498e-06
+PI3,Elafin,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,15592,5545,1.22 [1.15-1.29],1.3937116950268501e-12
+PI3,Elafin,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,22549,595,1.57 [1.40-1.75],4.211695566434834e-15
+PI3,Elafin,Chapter XI Diseases of the digestive system,Other diseases of intestines,18060,1793,1.29 [1.20-1.39],3.613223035511358e-11
+PI3,Elafin,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",23077,52,1.90 [1.38-2.62],9.812680278829277e-05
+PI3,Elafin,Chapter XI Diseases of the digestive system,"Ulcerative colitis (strict definition, require KELA, min 2 HDR)",23283,140,1.72 [1.39-2.12],6.475180617565343e-07
+PI3,Elafin,Chapter XI Diseases of the digestive system,Ulcerative colitis,22094,140,1.75 [1.42-2.17],2.351574022117575e-07
+PI3,Elafin,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",22080,126,1.80 [1.45-2.24],1.289969202733211e-07
+PI3,Elafin,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,22405,451,1.50 [1.32-1.71],1.0336504997168364e-09
+PI3,Elafin,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,22402,448,1.51 [1.32-1.72],6.032520852932516e-10
+PI3,Elafin,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,16805,538,1.32 [1.16-1.50],3.2644576494822265e-05
+PI3,Elafin,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,16448,181,1.57 [1.28-1.93],1.5154706965537824e-05
+PI3,Elafin,Chapter XI Diseases of the digestive system,Other diseases of intestine,16577,310,1.44 [1.22-1.69],1.2778455096160184e-05
+PI3,Elafin,Chapter XI Diseases of the digestive system,Diseases of liver,22577,144,1.67 [1.36-2.05],1.3392359552821142e-06
+PI3,Elafin,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",22255,369,1.34 [1.16-1.55],9.56919873669656e-05
+PI3,Elafin,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,21919,33,2.46 [1.78-3.40],5.704276491348016e-08
+PI3,Elafin,Chapter XI Diseases of the digestive system,Diseases of the digestive system,22050,321,1.38 [1.18-1.61],5.057062590616055e-05
+PI3,Elafin,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,20281,1470,1.48 [1.37-1.61],3.552141935924696e-22
+PI3,Elafin,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,21811,448,1.41 [1.23-1.61],6.196180364966031e-07
+PI3,Elafin,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,22233,299,1.39 [1.18-1.64],6.942780928981604e-05
+PI3,Elafin,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,23133,91,3.31 [2.76-3.98],2.1354961665792e-37
+PI3,Elafin,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,23118,76,3.74 [3.09-4.53],1.0502874941715023e-41
+PI3,Elafin,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,23100,58,3.90 [3.15-4.83],1.6109538682773739e-35
+PI3,Elafin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,17261,3509,1.15 [1.09-1.23],3.471443719379057e-06
+PI3,Elafin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,16745,89,2.25 [1.78-2.84],1.6081823894466337e-11
+PI3,Elafin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,17064,408,1.74 [1.53-1.99],2.747144194826861e-16
+PI3,Elafin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",23141,86,2.18 [1.74-2.74],1.837703640534385e-11
+PI3,Elafin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,23146,76,2.30 [1.83-2.91],2.2961854957276965e-12
+PI3,Elafin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,16785,129,1.75 [1.40-2.19],1.1591944782199918e-06
+PI3,Elafin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",22456,125,1.77 [1.42-2.21],5.050433529122802e-07
+PI3,Elafin,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,17930,2341,1.50 [1.40-1.60],6.569119385409213e-32
+PI3,Elafin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,20632,302,3.61 [3.17-4.10],3.1258650536659637e-85
+PI3,Elafin,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,20419,89,2.14 [1.66-2.75],3.090506452538869e-09
+PI3,Elafin,Chapter XIV Diseases of the genitourinary system,Acute renal failure,20668,76,3.86 [3.13-4.78],1.0029632680274108e-35
+PI3,Elafin,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,20684,92,5.15 [4.27-6.22],1.3594396997191937e-65
+PI3,Elafin,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,20683,91,4.27 [3.52-5.17],1.4105875595345391e-49
+PI3,Elafin,Chapter XIV Diseases of the genitourinary system,Urolithiasis,22912,353,1.41 [1.21-1.63],6.222834843663661e-06
+PI3,Elafin,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,22869,74,2.55 [2.05-3.18],8.014190482804486e-17
+PI3,Elafin,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,22804,245,1.48 [1.25-1.76],7.129834643491999e-06
+PI3,Elafin,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,21227,827,1.42 [1.29-1.58],8.82431677829653e-12
+PI3,Elafin,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,20766,366,1.59 [1.38-1.83],1.1046734778434559e-10

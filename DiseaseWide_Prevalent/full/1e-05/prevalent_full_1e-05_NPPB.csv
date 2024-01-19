@@ -1,0 +1,91 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+NPPB,Natriuretic peptides B,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,43719,1782,1.12 [1.08-1.16],1.4072263246024611e-11
+NPPB,Natriuretic peptides B,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,43022,427,1.34 [1.26-1.43],5.060923345890745e-19
+NPPB,Natriuretic peptides B,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,33038,1554,1.27 [1.22-1.31],1.877506220839453e-38
+NPPB,Natriuretic peptides B,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,44593,172,1.37 [1.24-1.52],2.41260555227504e-09
+NPPB,Natriuretic peptides B,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,43553,118,1.42 [1.26-1.61],1.944691785409944e-08
+NPPB,Natriuretic peptides B,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,48494,236,1.24 [1.14-1.35],1.2462556586468593e-06
+NPPB,Natriuretic peptides B,Chapter I Certain infectious and parasitic diseases,Other septicaemia,48411,153,1.32 [1.18-1.46],3.388009160895011e-07
+NPPB,Natriuretic peptides B,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",47863,811,1.17 [1.12-1.23],1.0289843111099728e-10
+NPPB,Natriuretic peptides B,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,47331,279,1.31 [1.20-1.41],7.459761642879188e-11
+NPPB,Natriuretic peptides B,Chapter II Neoplasms,"Malignant neoplasm of breast, excluding all cancers (controls excluding all cancers)",22811,659,1.15 [1.08-1.21],1.4726075150239091e-06
+NPPB,Natriuretic peptides B,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,44917,1558,1.25 [1.20-1.29],4.107970060343397e-32
+NPPB,Natriuretic peptides B,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,47978,382,1.21 [1.12-1.29],3.3285814388060697e-07
+NPPB,Natriuretic peptides B,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,47364,697,1.28 [1.21-1.35],4.3165546762842055e-20
+NPPB,Natriuretic peptides B,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,47364,697,1.28 [1.21-1.35],4.3165546762842055e-20
+NPPB,Natriuretic peptides B,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),43646,912,1.33 [1.27-1.39],8.318673226365026e-34
+NPPB,Natriuretic peptides B,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,40863,2334,1.33 [1.29-1.37],4.0951433246849846e-78
+NPPB,Natriuretic peptides B,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,47532,1066,1.11 [1.06-1.15],4.205848382168592e-06
+NPPB,Natriuretic peptides B,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,45982,268,1.25 [1.15-1.36],7.950924965741827e-08
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,Peripheral artery disease,48201,222,1.45 [1.34-1.58],1.8365455430483042e-19
+NPPB,Natriuretic peptides B,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,45953,239,1.24 [1.13-1.35],1.4935961290396492e-06
+NPPB,Natriuretic peptides B,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,46805,1091,1.22 [1.17-1.27],2.2378065520361066e-21
+NPPB,Natriuretic peptides B,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,46769,1055,1.22 [1.17-1.27],1.1012547077287998e-20
+NPPB,Natriuretic peptides B,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,46756,366,1.19 [1.11-1.29],2.551472781099208e-06
+NPPB,Natriuretic peptides B,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",46759,362,1.20 [1.11-1.29],1.467176366867853e-06
+NPPB,Natriuretic peptides B,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,40522,1993,1.34 [1.30-1.38],1.1254788106109503e-69
+NPPB,Natriuretic peptides B,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",38792,263,1.57 [1.45-1.70],1.6511066498790816e-29
+NPPB,Natriuretic peptides B,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,40368,1839,1.33 [1.29-1.38],5.6751158932831856e-64
+NPPB,Natriuretic peptides B,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",38696,167,1.57 [1.42-1.74],2.698924740715744e-18
+NPPB,Natriuretic peptides B,Chapter V Mental and behavioural disorders,Any mental disorder,42718,1281,1.12 [1.07-1.16],5.092234186828044e-08
+NPPB,Natriuretic peptides B,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",41880,443,1.17 [1.09-1.25],6.274390778232796e-06
+NPPB,Natriuretic peptides B,Chapter VI Diseases of the nervous system,Neurological diseases,43192,2907,1.09 [1.06-1.11],6.296150782897627e-10
+NPPB,Natriuretic peptides B,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,47910,951,1.11 [1.06-1.16],3.037781710869137e-06
+NPPB,Natriuretic peptides B,Chapter VI Diseases of the nervous system,Epilepsy,47257,298,1.26 [1.16-1.36],1.0291745338083414e-08
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,35787,6462,1.46 [1.42-1.49],6.269791519169095e-224
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,49288,133,2.21 [2.00-2.44],1.9876533313243047e-54
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,"Hypertension, essential",37663,4460,1.32 [1.29-1.36],7.597835035349483e-110
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,Hypertension,37731,4528,1.33 [1.30-1.36],7.504898196896869e-114
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,33357,154,2.04 [1.84-2.26],4.59757809095398e-42
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",46206,2360,1.61 [1.56-1.66],2.882434981324666e-205
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,Angina pectoris,45266,1420,1.57 [1.52-1.63],4.387326532274026e-123
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,48473,477,1.45 [1.37-1.53],3.204412431797565e-37
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,48941,945,1.58 [1.51-1.64],5.3954450136111854e-104
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",50280,188,1.58 [1.46-1.72],1.4943271295324207e-27
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",44434,588,1.93 [1.82-2.03],3.942513565265426e-122
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,45690,1880,1.70 [1.64-1.76],2.9011609721269438e-207
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,Secondary right heart disease,48859,177,1.96 [1.80-2.14],1.539245653492727e-50
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,48861,179,1.95 [1.78-2.13],6.007274581625394e-50
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",33373,170,2.27 [2.06-2.51],1.4097612630837515e-60
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,Cardiomyopathy,41907,115,2.79 [2.46-3.16],6.005466558838266e-58
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,Conduction disorders,42037,245,1.95 [1.78-2.13],6.478447542662715e-49
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,27887,235,2.16 [1.96-2.38],1.3973545207072003e-55
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,28517,865,2.82 [2.65-3.00],2.9037964518623562e-244
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,Other arrhythmias,41929,137,1.99 [1.77-2.24],1.4956002201651949e-30
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,41975,183,2.52 [2.29-2.78],1.3620868345531662e-75
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,"Heart failure, strict",48438,408,2.38 [2.24-2.54],4.676879178665668e-163
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",48773,313,1.30 [1.21-1.40],8.158785264827628e-13
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",48836,264,1.32 [1.22-1.43],2.0391761555063955e-12
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",48989,233,1.35 [1.24-1.46],1.0249448856440118e-12
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,48191,152,1.46 [1.32-1.62],1.1291321987695077e-13
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,48295,256,1.40 [1.29-1.51],8.862167575012624e-17
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,Hypotension,48170,170,1.29 [1.17-1.43],5.938726161638186e-07
+NPPB,Natriuretic peptides B,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,40292,4053,1.13 [1.10-1.16],8.579784340450887e-25
+NPPB,Natriuretic peptides B,Chapter X Diseases of the respiratory system,Influenza and pneumonia,46837,436,1.25 [1.17-1.33],2.037923558198665e-11
+NPPB,Natriuretic peptides B,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",46783,382,1.27 [1.18-1.36],1.6647759152674626e-11
+NPPB,Natriuretic peptides B,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,48682,500,1.26 [1.18-1.33],3.413781807746213e-14
+NPPB,Natriuretic peptides B,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,48671,489,1.27 [1.19-1.34],7.461819613611452e-15
+NPPB,Natriuretic peptides B,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,45145,1990,1.08 [1.05-1.12],5.889305249127314e-07
+NPPB,Natriuretic peptides B,Chapter X Diseases of the respiratory system,Early onset COPD,48202,347,1.22 [1.14-1.31],1.6205352558451874e-08
+NPPB,Natriuretic peptides B,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",48255,400,1.22 [1.15-1.30],9.953250098184767e-10
+NPPB,Natriuretic peptides B,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",48255,400,1.22 [1.15-1.30],9.953250098184767e-10
+NPPB,Natriuretic peptides B,Chapter X Diseases of the respiratory system,Asthma,36062,1643,1.09 [1.05-1.12],6.8568207938301335e-06
+NPPB,Natriuretic peptides B,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",35542,1643,1.10 [1.06-1.14],1.6061028319372988e-07
+NPPB,Natriuretic peptides B,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",36037,1618,1.09 [1.05-1.13],2.539479804326574e-06
+NPPB,Natriuretic peptides B,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,49808,185,1.28 [1.17-1.41],1.7504599716427633e-07
+NPPB,Natriuretic peptides B,Chapter X Diseases of the respiratory system,Pleural effusion,46435,219,1.52 [1.40-1.65],6.361310736591569e-22
+NPPB,Natriuretic peptides B,Chapter X Diseases of the respiratory system,Other diseases of pleura,46686,470,1.38 [1.30-1.47],1.1128707671589919e-25
+NPPB,Natriuretic peptides B,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,48039,215,1.27 [1.16-1.39],1.0836587912481685e-07
+NPPB,Natriuretic peptides B,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,34359,11416,1.04 [1.03-1.06],1.074934153023618e-07
+NPPB,Natriuretic peptides B,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,36362,7839,1.09 [1.07-1.10],3.3818258411659725e-19
+NPPB,Natriuretic peptides B,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,39541,4552,1.07 [1.05-1.09],4.5274887200531007e-10
+NPPB,Natriuretic peptides B,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,35911,922,1.17 [1.12-1.23],5.241206836311827e-12
+NPPB,Natriuretic peptides B,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,35129,140,1.46 [1.32-1.61],3.8285955447212506e-13
+NPPB,Natriuretic peptides B,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",49395,136,1.47 [1.33-1.63],7.23925924318596e-14
+NPPB,Natriuretic peptides B,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,49446,252,1.23 [1.13-1.35],6.31265852313429e-06
+NPPB,Natriuretic peptides B,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,40075,8393,1.07 [1.06-1.09],1.124717675014518e-15
+NPPB,Natriuretic peptides B,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,45338,497,1.49 [1.41-1.58],1.05729474495058e-39
+NPPB,Natriuretic peptides B,Chapter XIV Diseases of the genitourinary system,Acute renal failure,45540,109,1.74 [1.54-1.95],2.7766723333237436e-20
+NPPB,Natriuretic peptides B,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,45567,136,1.98 [1.79-2.19],9.7244674780604e-41
+NPPB,Natriuretic peptides B,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,45563,132,1.85 [1.66-2.05],1.701426485612436e-30
+NPPB,Natriuretic peptides B,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",49745,118,1.39 [1.24-1.56],1.5296510222969473e-08

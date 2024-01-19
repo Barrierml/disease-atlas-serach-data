@@ -1,0 +1,71 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+EZR,Ezrin,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,44919,1822,1.42 [1.20-1.68],3.4173954566130065e-05
+EZR,Ezrin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,44182,436,1.65 [1.19-2.29],0.0027549828150883
+EZR,Ezrin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,33927,1595,1.49 [1.24-1.80],2.1328275552681377e-05
+EZR,Ezrin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,45800,176,2.28 [1.42-3.67],0.0006970485730207
+EZR,Ezrin,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,44733,118,2.53 [1.44-4.48],0.0013431482675489
+EZR,Ezrin,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,49811,242,2.03 [1.35-3.06],0.0007374681047885
+EZR,Ezrin,Chapter I Certain infectious and parasitic diseases,Other septicaemia,49725,156,2.09 [1.26-3.47],0.0044581513587561
+EZR,Ezrin,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,51668,136,2.52 [1.50-4.22],0.0004758091959895
+EZR,Ezrin,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",41387,108,4.44 [2.71-7.26],3.036994805240686e-09
+EZR,Ezrin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),44843,940,1.54 [1.22-1.93],0.0002094891138672
+EZR,Ezrin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,50832,140,2.23 [1.30-3.83],0.0037148925597409
+EZR,Ezrin,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,41943,2377,1.58 [1.36-1.84],2.424647756003886e-09
+EZR,Ezrin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,41594,2028,1.65 [1.41-1.95],1.1899675348095835e-09
+EZR,Ezrin,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,41438,1872,1.66 [1.40-1.96],3.083265815499434e-09
+EZR,Ezrin,Chapter V Mental and behavioural disorders,Any mental disorder,43929,1316,1.48 [1.22-1.79],6.7137650455008e-05
+EZR,Ezrin,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",43074,461,1.61 [1.18-2.20],0.0025831185576023
+EZR,Ezrin,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",51256,248,1.76 [1.18-2.64],0.0058395462806019
+EZR,Ezrin,Chapter V Mental and behavioural disorders,Smoking dependency,48265,119,2.39 [1.35-4.21],0.0026251231425635
+EZR,Ezrin,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",43265,652,1.52 [1.16-1.99],0.002200476189818
+EZR,Ezrin,Chapter V Mental and behavioural disorders,Depression,48709,571,1.58 [1.19-2.10],0.0015259425770824
+EZR,Ezrin,Chapter V Mental and behavioural disorders,Depression or dysthymia,42752,496,1.89 [1.40-2.53],2.516716692328173e-05
+EZR,Ezrin,Chapter VI Diseases of the nervous system,Other sleep disorders,48586,332,1.79 [1.25-2.58],0.0016661472557057
+EZR,Ezrin,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",49574,1340,1.35 [1.11-1.64],0.002491606642657
+EZR,Ezrin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diseases of middle ear and mastoid,51714,270,1.84 [1.24-2.73],0.0023443205450833
+EZR,Ezrin,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,36774,6622,1.40 [1.26-1.56],5.57832678375494e-10
+EZR,Ezrin,Chapter IX Diseases of the circulatory system,"Hypertension, essential",38705,4562,1.41 [1.25-1.59],2.1713949014462107e-08
+EZR,Ezrin,Chapter IX Diseases of the circulatory system,Hypertension,38772,4629,1.43 [1.27-1.61],4.714012651691056e-09
+EZR,Ezrin,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,34303,160,2.78 [1.76-4.39],1.1405837974914254e-05
+EZR,Ezrin,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",47495,2426,1.34 [1.16-1.56],0.0001132773202099
+EZR,Ezrin,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,50289,975,1.34 [1.07-1.68],0.009718430565296
+EZR,Ezrin,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",45673,604,1.50 [1.14-1.98],0.0037717285288467
+EZR,Ezrin,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,46961,1927,1.38 [1.17-1.62],0.0001598156720714
+EZR,Ezrin,Chapter IX Diseases of the circulatory system,Pulmonary embolism,50261,219,2.18 [1.43-3.33],0.0003151906606889
+EZR,Ezrin,Chapter IX Diseases of the circulatory system,Venous thromboembolism,50473,461,1.70 [1.24-2.33],0.0009383273702185
+EZR,Ezrin,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,29305,887,1.41 [1.09-1.82],0.0096382158787165
+EZR,Ezrin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",49764,419,1.58 [1.14-2.19],0.0062719170536865
+EZR,Ezrin,Chapter IX Diseases of the circulatory system,DVT of lower extremities,48896,242,1.77 [1.15-2.71],0.008855567247859
+EZR,Ezrin,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,41399,4158,1.30 [1.15-1.46],1.2292499935856929e-05
+EZR,Ezrin,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",48061,400,1.58 [1.12-2.21],0.0086561395187045
+EZR,Ezrin,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,50024,506,1.53 [1.13-2.07],0.0065846809445231
+EZR,Ezrin,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,46379,2038,1.24 [1.06-1.46],0.0080857107861672
+EZR,Ezrin,Chapter X Diseases of the respiratory system,Asthma,37051,1679,1.32 [1.11-1.58],0.0022487554897766
+EZR,Ezrin,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",36509,1679,1.33 [1.11-1.59],0.0018926475836698
+EZR,Ezrin,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",37026,1654,1.29 [1.07-1.54],0.0066973583923091
+EZR,Ezrin,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,51176,185,2.42 [1.56-3.76],8.178595267480161e-05
+EZR,Ezrin,Chapter X Diseases of the respiratory system,Interstitial lung disease,48935,143,2.75 [1.71-4.43],3.3199730048802314e-05
+EZR,Ezrin,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",51336,143,2.76 [1.72-4.44],2.74984171607049e-05
+EZR,Ezrin,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,48921,129,2.88 [1.76-4.71],2.6982817138713942e-05
+EZR,Ezrin,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,35297,11738,1.13 [1.04-1.23],0.0052652281073921
+EZR,Ezrin,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,49662,1241,1.36 [1.11-1.66],0.0028992793655965
+EZR,Ezrin,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,49648,1227,1.35 [1.10-1.65],0.0036610386327428
+EZR,Ezrin,Chapter XI Diseases of the digestive system,Diseases of liver,50279,250,1.95 [1.30-2.92],0.0011435472217111
+EZR,Ezrin,Chapter XI Diseases of the digestive system,Other diseases of liver,50166,137,2.10 [1.23-3.58],0.0065920648187209
+EZR,Ezrin,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",49160,1266,1.36 [1.11-1.66],0.0028337916399009
+EZR,Ezrin,Chapter XI Diseases of the digestive system,Cholecystitis,48093,199,1.93 [1.21-3.07],0.0059693546816049
+EZR,Ezrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,37403,8066,1.20 [1.09-1.31],0.0001454313067985
+EZR,Ezrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,40645,4686,1.22 [1.09-1.37],0.0004163739893727
+EZR,Ezrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,36260,301,1.68 [1.14-2.48],0.0093174121629141
+EZR,Ezrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,36897,938,1.55 [1.23-1.94],0.0001500175015564
+EZR,Ezrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,51092,261,1.91 [1.27-2.86],0.0017351563251341
+EZR,Ezrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,38283,2324,1.26 [1.07-1.47],0.0041941684928959
+EZR,Ezrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,50647,113,2.21 [1.22-4.01],0.0091987699287311
+EZR,Ezrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,45352,598,1.66 [1.26-2.20],0.0003569991114155
+EZR,Ezrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,46633,1879,1.36 [1.15-1.60],0.0002986067244303
+EZR,Ezrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,45135,381,1.74 [1.23-2.47],0.0017206212298774
+EZR,Ezrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,44928,174,2.06 [1.26-3.34],0.0036438208370918
+EZR,Ezrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",46232,1478,1.36 [1.13-1.63],0.0011407077080948
+EZR,Ezrin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,46597,509,1.82 [1.36-2.45],7.192034838625244e-05
+EZR,Ezrin,Chapter XIV Diseases of the genitourinary system,Acute renal failure,46803,111,2.75 [1.57-4.82],0.0004040241871089
+EZR,Ezrin,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,46830,138,2.93 [1.77-4.83],2.699827745976886e-05

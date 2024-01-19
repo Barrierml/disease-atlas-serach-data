@@ -1,0 +1,97 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+DPP10,Inactive dipeptidyl peptidase 10,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,20263,825,1.30 [1.11-1.53],0.0010496406317241
+DPP10,Inactive dipeptidyl peptidase 10,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,19635,243,1.63 [1.25-2.12],0.0003474061565905
+DPP10,Inactive dipeptidyl peptidase 10,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,15145,817,1.60 [1.37-1.86],3.502657686670594e-09
+DPP10,Inactive dipeptidyl peptidase 10,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,20352,91,1.84 [1.23-2.76],0.0029102853521111
+DPP10,Inactive dipeptidyl peptidase 10,Chapter I Certain infectious and parasitic diseases,Other septicaemia,22439,84,1.62 [1.06-2.50],0.0274729577201698
+DPP10,Inactive dipeptidyl peptidase 10,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,20948,565,1.28 [1.06-1.55],0.0108575269692458
+DPP10,Inactive dipeptidyl peptidase 10,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",23624,133,1.44 [1.01-2.06],0.0439507630470474
+DPP10,Inactive dipeptidyl peptidase 10,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),19898,512,1.41 [1.16-1.73],0.000621076132489
+DPP10,Inactive dipeptidyl peptidase 10,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,18537,1440,1.15 [1.01-1.30],0.0350287748972377
+DPP10,Inactive dipeptidyl peptidase 10,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,22974,179,1.52 [1.12-2.05],0.0072896963237178
+DPP10,Inactive dipeptidyl peptidase 10,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,20906,151,2.04 [1.48-2.81],1.3650240787252189e-05
+DPP10,Inactive dipeptidyl peptidase 10,Chapter IX Diseases of the circulatory system,Peripheral artery disease,22329,163,1.65 [1.23-2.23],0.0009759766683212
+DPP10,Inactive dipeptidyl peptidase 10,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,20890,135,2.10 [1.50-2.93],1.4646483466595485e-05
+DPP10,Inactive dipeptidyl peptidase 10,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,21448,693,1.52 [1.28-1.81],1.793861213428638e-06
+DPP10,Inactive dipeptidyl peptidase 10,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,21422,667,1.51 [1.27-1.80],4.25251999788294e-06
+DPP10,Inactive dipeptidyl peptidase 10,Chapter V Mental and behavioural disorders,Any mental disorder,20104,685,1.44 [1.22-1.70],1.623859909344614e-05
+DPP10,Inactive dipeptidyl peptidase 10,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",19752,333,1.57 [1.25-1.96],8.735369844768414e-05
+DPP10,Inactive dipeptidyl peptidase 10,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",23121,259,1.45 [1.13-1.86],0.0033441375898247
+DPP10,Inactive dipeptidyl peptidase 10,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",23209,197,1.52 [1.15-2.00],0.0028425458186536
+DPP10,Inactive dipeptidyl peptidase 10,Chapter V Mental and behavioural disorders,Acute alcohol intoxication,21589,79,1.61 [1.07-2.44],0.0231693683689403
+DPP10,Inactive dipeptidyl peptidase 10,Chapter V Mental and behavioural disorders,"Alcohol abuse, main dg, excluding more controls",19498,79,1.66 [1.08-2.53],0.0194871300891063
+DPP10,Inactive dipeptidyl peptidase 10,Chapter V Mental and behavioural disorders,Alcohol dependence,21624,114,1.87 [1.36-2.56],0.0001007769727785
+DPP10,Inactive dipeptidyl peptidase 10,Chapter V Mental and behavioural disorders,Smoking dependency,21621,78,1.79 [1.16-2.76],0.0081162773873433
+DPP10,Inactive dipeptidyl peptidase 10,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",19484,65,2.18 [1.45-3.30],0.0002011536121976
+DPP10,Inactive dipeptidyl peptidase 10,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",19690,271,1.44 [1.11-1.86],0.0057250090758422
+DPP10,Inactive dipeptidyl peptidase 10,Chapter V Mental and behavioural disorders,Depression,22499,232,1.32 [1.00-1.74],0.0471192167819486
+DPP10,Inactive dipeptidyl peptidase 10,Chapter V Mental and behavioural disorders,Depression or dysthymia,19398,198,1.41 [1.04-1.91],0.0267317309567311
+DPP10,Inactive dipeptidyl peptidase 10,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,20690,144,1.81 [1.32-2.48],0.0002236219257254
+DPP10,Inactive dipeptidyl peptidase 10,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,15978,3754,1.19 [1.08-1.31],0.0005896102845602
+DPP10,Inactive dipeptidyl peptidase 10,Chapter IX Diseases of the circulatory system,"Hypertension, essential",16869,2455,1.22 [1.10-1.36],0.0003042582239867
+DPP10,Inactive dipeptidyl peptidase 10,Chapter IX Diseases of the circulatory system,Hypertension,16914,2500,1.21 [1.09-1.35],0.0005212270602971
+DPP10,Inactive dipeptidyl peptidase 10,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",20969,1665,1.21 [1.08-1.36],0.0014949102057979
+DPP10,Inactive dipeptidyl peptidase 10,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,22249,335,1.27 [1.00-1.61],0.0476547105035183
+DPP10,Inactive dipeptidyl peptidase 10,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,22644,730,1.24 [1.05-1.46],0.0119761697534535
+DPP10,Inactive dipeptidyl peptidase 10,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",19803,499,1.31 [1.07-1.60],0.008002675978723
+DPP10,Inactive dipeptidyl peptidase 10,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,20703,1422,1.24 [1.09-1.40],0.000966567730149
+DPP10,Inactive dipeptidyl peptidase 10,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,11703,135,1.51 [1.02-2.23],0.0375824712679628
+DPP10,Inactive dipeptidyl peptidase 10,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,12169,601,1.44 [1.18-1.75],0.0003223791848065
+DPP10,Inactive dipeptidyl peptidase 10,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,18576,129,1.48 [1.04-2.12],0.0308042618831192
+DPP10,Inactive dipeptidyl peptidase 10,Chapter IX Diseases of the circulatory system,"Heart failure, strict",22389,310,1.56 [1.24-1.95],0.0001280506947918
+DPP10,Inactive dipeptidyl peptidase 10,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,22359,146,1.47 [1.06-2.04],0.0206423151140532
+DPP10,Inactive dipeptidyl peptidase 10,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,18447,1998,1.19 [1.07-1.33],0.0015656511319445
+DPP10,Inactive dipeptidyl peptidase 10,Chapter X Diseases of the respiratory system,Influenza and pneumonia,21569,249,1.41 [1.08-1.84],0.0110276476969033
+DPP10,Inactive dipeptidyl peptidase 10,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",21531,211,1.42 [1.07-1.89],0.0160384247565223
+DPP10,Inactive dipeptidyl peptidase 10,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,22706,271,1.50 [1.17-1.91],0.0011434878200599
+DPP10,Inactive dipeptidyl peptidase 10,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,22703,268,1.50 [1.18-1.92],0.0010282386740277
+DPP10,Inactive dipeptidyl peptidase 10,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",22406,221,1.36 [1.03-1.80],0.0312210057981607
+DPP10,Inactive dipeptidyl peptidase 10,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",22406,221,1.36 [1.03-1.80],0.0312210057981607
+DPP10,Inactive dipeptidyl peptidase 10,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,23255,97,2.63 [1.93-3.58],7.22617008648213e-10
+DPP10,Inactive dipeptidyl peptidase 10,Chapter X Diseases of the respiratory system,Interstitial lung disease,22521,76,2.55 [1.79-3.64],2.493565445996132e-07
+DPP10,Inactive dipeptidyl peptidase 10,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",23339,76,2.55 [1.79-3.64],2.302536769955456e-07
+DPP10,Inactive dipeptidyl peptidase 10,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,22514,69,2.21 [1.48-3.32],0.000114044989853
+DPP10,Inactive dipeptidyl peptidase 10,Chapter X Diseases of the respiratory system,Other diseases of pleura,21528,281,1.43 [1.11-1.85],0.0056969135848823
+DPP10,Inactive dipeptidyl peptidase 10,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,22327,126,1.50 [1.05-2.12],0.0238312167173007
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,15760,5586,1.24 [1.14-1.35],2.5030598763154054e-07
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,18126,328,1.73 [1.37-2.17],3.5997637308715014e-06
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",19793,1995,1.42 [1.27-1.58],4.285232692920617e-10
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Oesophagitis,18190,392,1.60 [1.28-2.00],4.1035215827268346e-05
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,18438,640,1.35 [1.13-1.63],0.0012342263913613
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Gastric ulcer,17959,161,1.80 [1.31-2.49],0.0003400611728836
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Duodenal ulcer,17972,174,1.88 [1.40-2.54],2.8442526442018104e-05
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",23498,119,1.78 [1.27-2.48],0.0008169721904404
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),18574,776,1.44 [1.22-1.69],1.5045000403019012e-05
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,17959,161,1.43 [1.00-2.03],0.0482445619459639
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,23485,166,1.44 [1.04-1.98],0.0262780622258057
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Ventral hernia,18233,97,0.59 [0.35-0.99],0.0451699900894988
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,22818,596,1.27 [1.06-1.53],0.0115031210172077
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Other diseases of intestines,18264,1808,1.18 [1.06-1.33],0.0038631918062964
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",23353,55,2.42 [1.64-3.59],9.58745884672765e-06
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",23615,71,2.12 [1.44-3.14],0.0001603535750853
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Crohn disease,22293,71,2.21 [1.48-3.29],9.462211401273835e-05
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Crohn's disease NAS,22278,56,2.24 [1.44-3.48],0.0003516995696958
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,17001,545,1.22 [1.00-1.48],0.049624182565192
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,16542,86,1.60 [1.02-2.51],0.0404405841978325
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,16614,158,1.45 [1.04-2.04],0.0296873251297845
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,17317,861,1.18 [1.01-1.39],0.0386771749858574
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Diseases of liver,22846,144,2.98 [2.31-3.84],5.435905737663725e-17
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Other diseases of liver,22785,83,3.15 [2.30-4.31],6.899131077239654e-13
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",22529,372,1.60 [1.30-1.98],1.135322294361672e-05
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,22190,33,2.19 [1.24-3.88],0.0068613322446611
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Acute pancreatitis,22232,75,2.37 [1.67-3.35],1.3241344278108538e-06
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Acute pancreatitis (for exclusion),23486,75,2.34 [1.65-3.31],1.9471629042695334e-06
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Diseases of the digestive system,22298,315,1.51 [1.20-1.91],0.0005441204583071
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,22208,225,1.61 [1.24-2.09],0.0003979198768476
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XI Diseases of the digestive system,GI-bleeding,22204,221,1.64 [1.26-2.14],0.0002189496462722
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,22076,461,1.27 [1.03-1.57],0.027848769440869
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,18045,1148,0.85 [0.73-0.99],0.0338782221575212
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),16911,14,0.22 [0.05-0.96],0.0436514758560805
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,17486,589,0.74 [0.60-0.92],0.0068919197176963
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,17412,515,0.70 [0.56-0.89],0.0030787058586813
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,20921,259,1.33 [1.02-1.73],0.03635447384761
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XIV Diseases of the genitourinary system,Urolithiasis,23180,364,1.32 [1.05-1.66],0.0162573730330209
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,23144,79,1.56 [1.01-2.43],0.0467685910181487
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,23073,257,1.33 [1.02-1.74],0.0359735681489554
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,22951,135,1.49 [1.05-2.12],0.0266287131046649
+DPP10,Inactive dipeptidyl peptidase 10,Chapter XIV Diseases of the genitourinary system,Hydrocele,19212,99,1.56 [1.05-2.31],0.0273310359296928

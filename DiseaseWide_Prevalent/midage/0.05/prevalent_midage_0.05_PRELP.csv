@@ -1,0 +1,93 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+PRELP,Prolargin,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,25534,897,1.40 [1.05-1.86],0.0219863887290065
+PRELP,Prolargin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,25570,145,5.36 [2.66-10.79],2.6220984758636483e-06
+PRELP,Prolargin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,20290,501,2.68 [1.79-4.01],1.78921439168317e-06
+PRELP,Prolargin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,26367,79,3.57 [1.36-9.37],0.0095283927017736
+PRELP,Prolargin,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,27605,109,2.71 [1.21-6.06],0.0155632692060728
+PRELP,Prolargin,Chapter I Certain infectious and parasitic diseases,Other septicaemia,27564,68,3.82 [1.42-10.23],0.0077581588622642
+PRELP,Prolargin,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",27314,390,1.61 [1.04-2.47],0.0310128693545356
+PRELP,Prolargin,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,27068,144,3.88 [1.95-7.68],0.0001054705692148
+PRELP,Prolargin,Chapter II Neoplasms,"Malignant neoplasm of colon, excluding all cancers (controls excluding all cancers)",24459,30,0.43 [0.22-0.86],0.0176664736180244
+PRELP,Prolargin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,26024,822,1.62 [1.20-2.19],0.0016310219770142
+PRELP,Prolargin,Chapter II Neoplasms,Benign neoplasm of breast,15629,94,0.53 [0.31-0.91],0.02118273713099
+PRELP,Prolargin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,27153,354,1.94 [1.22-3.07],0.0048454586881656
+PRELP,Prolargin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,27153,354,1.94 [1.22-3.07],0.0048454586881656
+PRELP,Prolargin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),25936,364,4.12 [2.63-6.46],6.889782138607987e-10
+PRELP,Prolargin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,27827,80,5.77 [2.53-13.17],3.207558777285824e-05
+PRELP,Prolargin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,28041,107,4.78 [2.23-10.24],5.7681137875448165e-05
+PRELP,Prolargin,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,24819,706,1.67 [1.21-2.31],0.0019374749596283
+PRELP,Prolargin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,26983,446,1.51 [1.01-2.25],0.0425390728213188
+PRELP,Prolargin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,26477,116,3.20 [1.52-6.75],0.0021938869884105
+PRELP,Prolargin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,26462,101,3.39 [1.54-7.46],0.0024118018623729
+PRELP,Prolargin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,26700,339,1.84 [1.17-2.92],0.0088982802336394
+PRELP,Prolargin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,26692,331,1.74 [1.09-2.77],0.0191423331851805
+PRELP,Prolargin,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,24157,44,5.90 [1.82-19.19],0.0031615917516602
+PRELP,Prolargin,Chapter V Mental and behavioural disorders,Any mental disorder,24551,771,1.40 [1.02-1.91],0.0350905325003307
+PRELP,Prolargin,Chapter V Mental and behavioural disorders,Other anxiety disorders,26780,70,3.42 [1.31-8.93],0.012299310770586
+PRELP,Prolargin,Chapter VI Diseases of the nervous system,Neurological diseases,25160,1452,1.53 [1.22-1.92],0.000249052792271
+PRELP,Prolargin,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",27165,617,2.66 [1.89-3.76],2.5854756352802236e-08
+PRELP,Prolargin,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",26686,138,2.46 [1.16-5.20],0.0188870066193511
+PRELP,Prolargin,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,26879,331,3.83 [2.44-6.01],5.523031154032106e-09
+PRELP,Prolargin,Chapter VI Diseases of the nervous system,Other neurological diseases,27871,126,2.29 [1.07-4.91],0.0324132557240269
+PRELP,Prolargin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,27611,91,0.49 [0.28-0.85],0.0114706479582602
+PRELP,Prolargin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,28053,24,8.67 [2.74-27.42],0.0002349827829381
+PRELP,Prolargin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",26304,24,8.48 [2.72-26.49],0.0002324648997329
+PRELP,Prolargin,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,22146,1983,1.39 [1.14-1.70],0.0013601195467643
+PRELP,Prolargin,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,27980,40,4.70 [1.47-15.03],0.0090398884459863
+PRELP,Prolargin,Chapter IX Diseases of the circulatory system,"Hypertension, essential",23220,1324,1.35 [1.07-1.72],0.0131445545312255
+PRELP,Prolargin,Chapter IX Diseases of the circulatory system,Hypertension,23244,1348,1.46 [1.15-1.86],0.0017476120534051
+PRELP,Prolargin,Chapter IX Diseases of the circulatory system,Venous thromboembolism,27778,179,2.97 [1.61-5.48],0.0004926434929746
+PRELP,Prolargin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",27796,123,5.21 [2.65-10.24],1.6293649742623278e-06
+PRELP,Prolargin,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),27056,119,4.36 [2.17-8.78],3.637995510071292e-05
+PRELP,Prolargin,Chapter IX Diseases of the circulatory system,DVT of lower extremities,27035,98,5.77 [2.78-11.96],2.4296008078320333e-06
+PRELP,Prolargin,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",28141,93,6.35 [3.07-13.11],5.946455332221354e-07
+PRELP,Prolargin,Chapter IX Diseases of the circulatory system,Hypotension,27559,56,5.52 [1.97-15.42],0.0011259239407101
+PRELP,Prolargin,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",27057,159,2.47 [1.24-4.95],0.0104250617549346
+PRELP,Prolargin,Chapter X Diseases of the respiratory system,Deviated nasal septum,26971,236,2.06 [1.18-3.62],0.0113926699153982
+PRELP,Prolargin,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,25908,888,0.66 [0.52-0.84],0.0008315090969472
+PRELP,Prolargin,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",26514,805,0.62 [0.49-0.80],0.0002070293166331
+PRELP,Prolargin,Chapter X Diseases of the respiratory system,Asthma,21664,805,0.62 [0.48-0.79],0.0001623610601648
+PRELP,Prolargin,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",21518,805,0.62 [0.48-0.80],0.0001977405588788
+PRELP,Prolargin,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",21648,789,0.61 [0.47-0.78],0.0001204485949107
+PRELP,Prolargin,Chapter X Diseases of the respiratory system,Pleural effusion,26947,79,5.99 [2.67-13.43],1.3756987804600076e-05
+PRELP,Prolargin,Chapter X Diseases of the respiratory system,Other diseases of pleura,27052,184,3.37 [1.82-6.24],0.0001078187507529
+PRELP,Prolargin,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,27457,86,3.21 [1.32-7.81],0.0102061548441335
+PRELP,Prolargin,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,20008,5194,0.88 [0.78-1.00],0.0461345872562008
+PRELP,Prolargin,Chapter XI Diseases of the digestive system,Hernia,25509,1184,0.73 [0.59-0.90],0.0032667930710878
+PRELP,Prolargin,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,24929,604,0.63 [0.48-0.83],0.0011140381070248
+PRELP,Prolargin,Chapter XI Diseases of the digestive system,"Ulcerative colitis (strict definition, require KELA, min 2 HDR)",28172,134,0.55 [0.33-0.94],0.0273616891961958
+PRELP,Prolargin,Chapter XI Diseases of the digestive system,Ulcerative colitis,26779,134,0.56 [0.33-0.94],0.0284629059325064
+PRELP,Prolargin,Chapter XI Diseases of the digestive system,Diseases of peritoneum,27874,83,0.48 [0.26-0.90],0.0217905620540726
+PRELP,Prolargin,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,21681,91,0.44 [0.26-0.73],0.0017827752957064
+PRELP,Prolargin,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,27861,70,0.48 [0.25-0.94],0.0328883628528172
+PRELP,Prolargin,Chapter XI Diseases of the digestive system,Diseases of liver,27555,123,3.46 [1.66-7.24],0.0009557208158439
+PRELP,Prolargin,Chapter XI Diseases of the digestive system,Other diseases of liver,27498,66,3.41 [1.28-9.10],0.0140297627262606
+PRELP,Prolargin,Chapter XI Diseases of the digestive system,Intestinal malabsorption,26796,68,0.40 [0.23-0.71],0.0016625774839853
+PRELP,Prolargin,Chapter XI Diseases of the digestive system,Coeliac disease,26781,53,0.38 [0.21-0.72],0.0026469119050404
+PRELP,Prolargin,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,27337,227,1.91 [1.09-3.35],0.0241321196726167
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,21904,3544,1.43 [1.22-1.66],5.572753789067576e-06
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,23543,1874,1.58 [1.28-1.94],1.5277935166584303e-05
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,25844,1115,1.44 [1.11-1.85],0.0053073456154342
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,22333,664,1.47 [1.05-2.06],0.0244043920920693
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",24955,664,1.39 [1.00-1.93],0.0487238165235135
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,21715,46,7.02 [2.18-22.61],0.0010950732959075
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",27908,45,5.68 [2.03-15.91],0.0009472384733126
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,22001,332,1.86 [1.15-3.01],0.0121158176590405
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,22922,1253,1.58 [1.23-2.03],0.0003415969769645
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,22194,525,1.46 [1.00-2.14],0.0494608695891564
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,22106,437,1.76 [1.15-2.69],0.0086682487792239
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,22396,284,2.10 [1.26-3.51],0.0046576532297394
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,27906,154,0.58 [0.36-0.94],0.0284138529628149
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,25480,221,1.79 [1.02-3.14],0.0439277991085667
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,26172,913,1.42 [1.07-1.88],0.0145415484485843
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,25315,56,3.99 [1.42-11.21],0.0085279736161369
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",26026,767,1.43 [1.05-1.94],0.0236339047093855
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,25318,59,5.06 [1.92-13.30],0.0010182027988218
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,25328,69,4.24 [1.68-10.74],0.0022667117698673
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,24783,54,6.02 [2.31-15.70],0.0002451684994111
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",25159,430,1.88 [1.24-2.86],0.0030183734855783
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,24874,145,2.22 [1.09-4.55],0.0283059724653647
+PRELP,Prolargin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,24952,223,1.87 [1.05-3.33],0.0343558119204413
+PRELP,Prolargin,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",11148,91,2.62 [1.03-6.69],0.0435759183711745
+PRELP,Prolargin,Chapter XIV Diseases of the genitourinary system,Inflammatory disease of cervix uteri,15130,82,0.45 [0.26-0.79],0.0051801581667998
+PRELP,Prolargin,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,11758,309,0.53 [0.38-0.74],0.0001817840796518

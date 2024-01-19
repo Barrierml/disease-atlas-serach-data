@@ -1,0 +1,51 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,44533,1814,1.21 [1.06-1.39],0.0062074876449399
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,33616,1584,1.19 [1.02-1.38],0.0245545487515918
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,45404,174,1.93 [1.27-2.93],0.0020133840876334
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,44344,116,1.78 [1.07-2.95],0.0268179513144697
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,49394,240,1.55 [1.08-2.22],0.0172817396396552
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter I Certain infectious and parasitic diseases,Other septicaemia,49308,154,1.65 [1.06-2.58],0.0280767114402392
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,45734,1584,1.27 [1.10-1.47],0.0014212181033614
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,48235,703,1.24 [1.00-1.54],0.0491273859383658
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,48235,703,1.24 [1.00-1.54],0.0491273859383658
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),44443,923,1.37 [1.13-1.66],0.0011781777422577
+PECAM1,Platelet endothelial cell adhesion molecule,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,48434,1092,1.32 [1.11-1.57],0.0019546946132867
+PECAM1,Platelet endothelial cell adhesion molecule,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,46841,270,1.67 [1.20-2.34],0.0026765411633054
+PECAM1,Platelet endothelial cell adhesion molecule,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,46814,243,1.71 [1.20-2.43],0.0030085049361699
+PECAM1,Platelet endothelial cell adhesion molecule,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,47681,1110,1.58 [1.32-1.88],3.684864810983778e-07
+PECAM1,Platelet endothelial cell adhesion molecule,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,47646,1075,1.58 [1.32-1.88],5.255218816584969e-07
+PECAM1,Platelet endothelial cell adhesion molecule,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,47648,371,0.70 [0.50-0.98],0.0386343908862139
+PECAM1,Platelet endothelial cell adhesion molecule,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",47651,367,0.68 [0.48-0.96],0.027649570621288
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",42688,457,1.35 [1.02-1.78],0.0347442230739921
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",50689,340,1.45 [1.06-1.98],0.0194128816581764
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",50820,245,1.51 [1.05-2.17],0.0265200071749153
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter V Mental and behavioural disorders,Other anxiety disorders,48572,134,0.56 [0.34-0.95],0.0307204680007591
+PECAM1,Platelet endothelial cell adhesion molecule,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,49586,155,2.15 [1.40-3.30],0.0004684567682016
+PECAM1,Platelet endothelial cell adhesion molecule,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,44810,799,1.28 [1.04-1.57],0.0182238543497594
+PECAM1,Platelet endothelial cell adhesion molecule,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,49472,435,1.34 [1.02-1.76],0.0360710413634934
+PECAM1,Platelet endothelial cell adhesion molecule,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,50823,104,1.90 [1.11-3.24],0.0191631930689131
+PECAM1,Platelet endothelial cell adhesion molecule,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",46527,104,2.02 [1.18-3.45],0.0104014802269186
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",47081,2410,0.85 [0.75-0.96],0.0108520468319437
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter IX Diseases of the circulatory system,Angina pectoris,46118,1447,0.73 [0.62-0.86],0.0001634082821518
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter XI Diseases of the digestive system,Dental caries,49803,219,1.55 [1.07-2.24],0.0213906994393604
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",51350,165,1.68 [1.10-2.58],0.016909339176157
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter XI Diseases of the digestive system,Crohn disease,48166,165,1.70 [1.11-2.61],0.0149710424228074
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter XI Diseases of the digestive system,Crohn's disease NAS,48126,125,1.72 [1.05-2.80],0.0303452516958626
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter XI Diseases of the digestive system,Diseases of the digestive system,48704,630,1.41 [1.13-1.77],0.0028498762747912
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter XI Diseases of the digestive system,Intestinal malabsorption,48216,142,1.60 [1.01-2.56],0.0468396585203095
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter XI Diseases of the digestive system,Coeliac disease,48191,117,1.95 [1.19-3.21],0.0082544602573521
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,50646,914,0.75 [0.61-0.91],0.0034660648767839
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,50464,732,0.70 [0.56-0.87],0.0013243564924948
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,47336,201,0.59 [0.38-0.90],0.0143611124076255
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,35940,303,1.47 [1.06-2.03],0.0215741884206333
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",50637,291,1.45 [1.05-2.02],0.0262601297588339
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,50659,263,1.46 [1.04-2.07],0.0306796869640733
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,46232,1854,0.85 [0.74-0.98],0.0236368259172681
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,40820,8537,0.89 [0.82-0.95],0.0011607105113497
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,27387,560,0.74 [0.57-0.95],0.0179832268877782
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter XIV Diseases of the genitourinary system,Inflammatory disease of cervix uteri,26961,134,0.48 [0.29-0.82],0.006811137680333
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,25307,4607,0.89 [0.81-0.98],0.0176338394177877
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,21660,960,0.76 [0.63-0.93],0.0066678870645338
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter XIV Diseases of the genitourinary system,Uterine polyps,21019,319,0.70 [0.50-0.98],0.0405722258877799
+PECAM1,Platelet endothelial cell adhesion molecule,Chapter XIV Diseases of the genitourinary system,Menorrhagia,21576,876,0.81 [0.66-0.99],0.0402379385414195
+PECAM1,Platelet endothelial cell adhesion molecule,"Chapter XV Pregnancy, childbirth and the puerperium","Other complications of labour and delivery, not elsewhere classified",26670,103,1.93 [1.13-3.30],0.0163825666846184

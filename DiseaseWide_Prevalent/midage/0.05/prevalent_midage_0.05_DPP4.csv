@@ -1,0 +1,114 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+DPP4,Dipeptidyl peptidase 4,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,25066,140,0.56 [0.34-0.93],0.023749261454896
+DPP4,Dipeptidyl peptidase 4,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,19891,492,0.62 [0.47-0.82],0.0006458110764766
+DPP4,Dipeptidyl peptidase 4,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,25858,74,0.36 [0.19-0.71],0.0029069150110358
+DPP4,Dipeptidyl peptidase 4,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,27081,102,0.52 [0.29-0.92],0.0248591170897157
+DPP4,Dipeptidyl peptidase 4,Chapter I Certain infectious and parasitic diseases,Other septicaemia,27043,64,0.47 [0.23-0.97],0.0415100454310777
+DPP4,Dipeptidyl peptidase 4,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,27644,66,0.47 [0.23-0.95],0.0357792021532433
+DPP4,Dipeptidyl peptidase 4,Chapter I Certain infectious and parasitic diseases,Other viral diseases,27601,94,1.96 [1.10-3.50],0.0231607627470976
+DPP4,Dipeptidyl peptidase 4,Chapter II Neoplasms,"Malignant neoplasm of breast, excluding all cancers (controls excluding all cancers)",13448,290,3.16 [2.26-4.42],1.5083455717821715e-11
+DPP4,Dipeptidyl peptidase 4,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,25513,800,0.58 [0.47-0.72],5.375355501720492e-07
+DPP4,Dipeptidyl peptidase 4,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,26738,194,0.40 [0.27-0.60],1.0630086069373418e-05
+DPP4,Dipeptidyl peptidase 4,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,26629,350,0.55 [0.40-0.75],0.0001934320065198
+DPP4,Dipeptidyl peptidase 4,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,26629,350,0.55 [0.40-0.75],0.0001934320065198
+DPP4,Dipeptidyl peptidase 4,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),25437,356,0.64 [0.46-0.87],0.0051597494891923
+DPP4,Dipeptidyl peptidase 4,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,26454,432,0.72 [0.54-0.96],0.023433276406084
+DPP4,Dipeptidyl peptidase 4,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,25948,111,1.82 [1.05-3.14],0.0324821455039384
+DPP4,Dipeptidyl peptidase 4,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,25933,96,2.07 [1.16-3.69],0.0138984333433236
+DPP4,Dipeptidyl peptidase 4,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,23694,41,0.34 [0.14-0.82],0.0161327250954979
+DPP4,Dipeptidyl peptidase 4,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",27399,160,1.59 [1.01-2.51],0.0454308309128094
+DPP4,Dipeptidyl peptidase 4,Chapter V Mental and behavioural disorders,Alcohol dependence,25810,96,1.84 [1.00-3.36],0.0484467207976854
+DPP4,Dipeptidyl peptidase 4,Chapter VI Diseases of the nervous system,Epilepsy,26100,161,2.31 [1.49-3.57],0.0001699489645706
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,Transient ischemic attack,27280,39,0.31 [0.13-0.75],0.0091313673719208
+DPP4,Dipeptidyl peptidase 4,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",26631,610,1.42 [1.12-1.80],0.0038762304901723
+DPP4,Dipeptidyl peptidase 4,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,26350,329,1.97 [1.44-2.70],2.5689098398663604e-05
+DPP4,Dipeptidyl peptidase 4,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,26174,182,0.63 [0.40-0.97],0.0362790060182951
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,21698,1927,0.59 [0.51-0.69],6.143110986246738e-12
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,"Hypertension, essential",22751,1272,0.67 [0.56-0.80],7.594546576279154e-06
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,Hypertension,22776,1297,0.65 [0.54-0.77],1.0740371666032672e-06
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",26259,563,0.65 [0.51-0.84],0.0009156654362919
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,Angina pectoris,26044,348,0.64 [0.47-0.88],0.0053932377015214
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,27057,140,0.59 [0.36-0.97],0.0355457407389626
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,27178,261,0.63 [0.44-0.90],0.0120161828673221
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",25854,158,0.61 [0.38-0.97],0.0373072564280486
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,26103,417,0.63 [0.47-0.84],0.0017452848355191
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,Secondary right heart disease,27230,59,0.35 [0.17-0.73],0.0050722430367985
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,27230,59,0.35 [0.17-0.73],0.0050722430367985
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",21536,57,0.30 [0.15-0.63],0.0014671556249897
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,18961,94,0.43 [0.23-0.78],0.0057255046845351
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,19058,191,0.46 [0.30-0.71],0.0003761571384864
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,Other arrhythmias,25142,41,0.27 [0.11-0.63],0.0026015309359486
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,25162,61,0.26 [0.13-0.53],0.0001692692722891
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,"Heart failure, strict",27256,122,0.35 [0.21-0.58],4.409178464551312e-05
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",27233,111,0.56 [0.32-0.97],0.0401541687047401
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",27266,83,0.45 [0.24-0.84],0.0118907467976207
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",27314,73,0.46 [0.23-0.90],0.0223514238132712
+DPP4,Dipeptidyl peptidase 4,Chapter IX Diseases of the circulatory system,Varicose veins,26849,433,0.65 [0.49-0.87],0.0032716131380871
+DPP4,Dipeptidyl peptidase 4,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,23496,1926,0.70 [0.61-0.81],1.1529741915030333e-06
+DPP4,Dipeptidyl peptidase 4,Chapter X Diseases of the respiratory system,Influenza and pneumonia,26558,186,0.61 [0.39-0.94],0.0236004962533315
+DPP4,Dipeptidyl peptidase 4,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",26530,158,0.60 [0.37-0.95],0.031374450047656
+DPP4,Dipeptidyl peptidase 4,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,27154,209,0.48 [0.32-0.72],0.0003275847766717
+DPP4,Dipeptidyl peptidase 4,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,27152,207,0.49 [0.33-0.73],0.0005194473140071
+DPP4,Dipeptidyl peptidase 4,Chapter X Diseases of the respiratory system,Chronic sinusitis,26312,95,0.53 [0.29-0.97],0.0385405276239983
+DPP4,Dipeptidyl peptidase 4,Chapter X Diseases of the respiratory system,Deviated nasal septum,26446,229,1.60 [1.09-2.35],0.0155879045136491
+DPP4,Dipeptidyl peptidase 4,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,25398,865,0.56 [0.46-0.69],3.153357812068871e-08
+DPP4,Dipeptidyl peptidase 4,Chapter X Diseases of the respiratory system,Early onset COPD,27046,109,0.41 [0.24-0.71],0.001570361903274
+DPP4,Dipeptidyl peptidase 4,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",27046,109,0.41 [0.24-0.71],0.001570361903274
+DPP4,Dipeptidyl peptidase 4,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",27046,109,0.41 [0.24-0.71],0.001570361903274
+DPP4,Dipeptidyl peptidase 4,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",26001,784,0.56 [0.46-0.69],8.60500138294183e-08
+DPP4,Dipeptidyl peptidase 4,Chapter X Diseases of the respiratory system,Asthma,21247,784,0.54 [0.44-0.67],3.2385290006454465e-08
+DPP4,Dipeptidyl peptidase 4,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",21100,784,0.54 [0.43-0.67],2.0361929849044625e-08
+DPP4,Dipeptidyl peptidase 4,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",21231,768,0.52 [0.41-0.64],3.200133031452818e-09
+DPP4,Dipeptidyl peptidase 4,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,27577,56,0.34 [0.16-0.73],0.005251476952088
+DPP4,Dipeptidyl peptidase 4,Chapter X Diseases of the respiratory system,Pleural effusion,26416,76,0.48 [0.25-0.92],0.0280215307427121
+DPP4,Dipeptidyl peptidase 4,Chapter X Diseases of the respiratory system,Other diseases of pleura,26520,180,0.46 [0.30-0.71],0.0004109546860706
+DPP4,Dipeptidyl peptidase 4,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,26912,85,0.35 [0.19-0.65],0.0007804019031691
+DPP4,Dipeptidyl peptidase 4,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,19629,5085,0.86 [0.78-0.95],0.0029188446426443
+DPP4,Dipeptidyl peptidase 4,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,27639,44,0.40 [0.17-0.94],0.0353460819362665
+DPP4,Dipeptidyl peptidase 4,Chapter XI Diseases of the digestive system,Ventral hernia,23945,95,0.47 [0.26-0.83],0.0102638678002448
+DPP4,Dipeptidyl peptidase 4,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,21971,770,0.77 [0.62-0.96],0.0187317530372655
+DPP4,Dipeptidyl peptidase 4,Chapter XI Diseases of the digestive system,Diseases of liver,27006,119,3.75 [2.36-5.97],2.2906108371030165e-08
+DPP4,Dipeptidyl peptidase 4,Chapter XI Diseases of the digestive system,Other diseases of liver,26949,62,2.52 [1.26-5.04],0.0086316130755154
+DPP4,Dipeptidyl peptidase 4,Chapter XI Diseases of the digestive system,Intestinal malabsorption,26269,66,0.28 [0.14-0.56],0.0002985552285353
+DPP4,Dipeptidyl peptidase 4,Chapter XI Diseases of the digestive system,Coeliac disease,26254,51,0.24 [0.11-0.53],0.0003492365602413
+DPP4,Dipeptidyl peptidase 4,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,27500,86,0.47 [0.26-0.87],0.016573936473394
+DPP4,Dipeptidyl peptidase 4,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,27484,70,0.49 [0.25-0.98],0.0424147585005742
+DPP4,Dipeptidyl peptidase 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,21346,114,0.39 [0.23-0.67],0.0005965886177843
+DPP4,Dipeptidyl peptidase 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,21567,335,0.52 [0.38-0.72],7.388534754793677e-05
+DPP4,Dipeptidyl peptidase 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",27418,108,0.35 [0.21-0.61],0.0001918310119329
+DPP4,Dipeptidyl peptidase 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,27434,96,0.39 [0.22-0.71],0.0017629916142577
+DPP4,Dipeptidyl peptidase 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,21381,149,0.53 [0.33-0.85],0.0088665302940297
+DPP4,Dipeptidyl peptidase 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,22454,1222,1.47 [1.24-1.76],1.3390866837994836e-05
+DPP4,Dipeptidyl peptidase 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,21744,512,1.64 [1.26-2.14],0.0002176161392055
+DPP4,Dipeptidyl peptidase 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,21658,426,1.71 [1.29-2.28],0.0002369414296918
+DPP4,Dipeptidyl peptidase 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,21963,284,1.55 [1.09-2.19],0.0141522793859045
+DPP4,Dipeptidyl peptidase 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,27365,149,0.19 [0.12-0.30],1.6669648595051734e-13
+DPP4,Dipeptidyl peptidase 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,27256,40,0.24 [0.10-0.57],0.0011913134969019
+DPP4,Dipeptidyl peptidase 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,24811,55,3.23 [1.62-6.47],0.0009117451484457
+DPP4,Dipeptidyl peptidase 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",25517,761,1.28 [1.04-1.59],0.0223483496451896
+DPP4,Dipeptidyl peptidase 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,25011,255,1.53 [1.06-2.20],0.0230664466791633
+DPP4,Dipeptidyl peptidase 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,25080,324,1.47 [1.06-2.03],0.0198694162505068
+DPP4,Dipeptidyl peptidase 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,24396,143,0.49 [0.30-0.79],0.0034301722423222
+DPP4,Dipeptidyl peptidase 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,26347,69,0.46 [0.23-0.93],0.029554269842158
+DPP4,Dipeptidyl peptidase 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,26394,116,0.57 [0.33-0.99],0.0447791474859928
+DPP4,Dipeptidyl peptidase 4,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,23449,4353,0.68 [0.62-0.75],7.275852136969026e-14
+DPP4,Dipeptidyl peptidase 4,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,26220,209,0.35 [0.24-0.53],2.941839380981748e-07
+DPP4,Dipeptidyl peptidase 4,Chapter XIV Diseases of the genitourinary system,Acute renal failure,26371,45,0.34 [0.14-0.78],0.0116193575541897
+DPP4,Dipeptidyl peptidase 4,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,26375,49,0.15 [0.07-0.32],6.126491360732722e-07
+DPP4,Dipeptidyl peptidase 4,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,26381,55,0.19 [0.09-0.39],4.953960156887315e-06
+DPP4,Dipeptidyl peptidase 4,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,27445,53,0.41 [0.19-0.89],0.0235251979064236
+DPP4,Dipeptidyl peptidase 4,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,26251,872,0.70 [0.57-0.85],0.0004918827169213
+DPP4,Dipeptidyl peptidase 4,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,25993,614,0.70 [0.55-0.89],0.0037420419131153
+DPP4,Dipeptidyl peptidase 4,Chapter XIV Diseases of the genitourinary system,Hydrocele,10914,37,0.37 [0.14-0.98],0.0450493013166604
+DPP4,Dipeptidyl peptidase 4,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,14973,68,2.76 [1.44-5.27],0.0021514802833985
+DPP4,Dipeptidyl peptidase 4,Chapter XIV Diseases of the genitourinary system,Inflammatory disease of cervix uteri,14807,77,0.47 [0.24-0.91],0.0245144297990133
+DPP4,Dipeptidyl peptidase 4,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,11493,300,0.68 [0.48-0.97],0.0319371097547882
+DPP4,Dipeptidyl peptidase 4,Chapter XIV Diseases of the genitourinary system,Erosion and ectropion of cervix uteri,11277,84,2.13 [1.14-3.95],0.0170168219261193
+DPP4,Dipeptidyl peptidase 4,Chapter XIV Diseases of the genitourinary system,Dysplasia of cervi uteri,11333,140,0.56 [0.33-0.93],0.0245357803752473
+DPP4,Dipeptidyl peptidase 4,Chapter XIV Diseases of the genitourinary system,"All dysplastic lesions of the cervix uteri, vagina or vulva",15301,199,0.65 [0.43-0.99],0.0469629681974323
+DPP4,Dipeptidyl peptidase 4,Chapter XIV Diseases of the genitourinary system,HSIL lesion of the cervix uteri,15332,108,0.51 [0.29-0.91],0.0221752541503571
+DPP4,Dipeptidyl peptidase 4,Chapter XIV Diseases of the genitourinary system,"HSIL lesion of the cervix uteri, vagina or vulva",15323,118,0.49 [0.28-0.85],0.0109456344321761
+DPP4,Dipeptidyl peptidase 4,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",12323,1130,0.81 [0.68-0.98],0.0299174547116077
+DPP4,Dipeptidyl peptidase 4,Chapter XIV Diseases of the genitourinary system,Menorrhagia,11971,778,0.77 [0.62-0.96],0.0199203634380371
+DPP4,Dipeptidyl peptidase 4,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for known or suspected malpresentation of fetus,14614,142,0.56 [0.33-0.97],0.0401203053259633
+DPP4,Dipeptidyl peptidase 4,Chapter VI Diseases of the nervous system,Falls/tendency to fall,26135,525,1.42 [1.10-1.84],0.0071366198832376

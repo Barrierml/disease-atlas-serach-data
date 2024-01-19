@@ -1,0 +1,39 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+DAG1,Dystroglycan,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,15194,816,1.17 [1.02-1.35],0.0255652031647969
+DAG1,Dystroglycan,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,23270,40,0.54 [0.30-0.99],0.0457397439513485
+DAG1,Dystroglycan,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,21003,146,2.01 [1.49-2.72],5.966898241129624e-06
+DAG1,Dystroglycan,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,20988,131,1.86 [1.35-2.57],0.0001475360183548
+DAG1,Dystroglycan,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,21556,699,1.59 [1.37-1.85],1.5248056431747575e-09
+DAG1,Dystroglycan,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,21531,674,1.54 [1.32-1.80],2.6513079786296985e-08
+DAG1,Dystroglycan,Chapter V Mental and behavioural disorders,Any mental disorder,20190,691,1.22 [1.06-1.41],0.0061822738282905
+DAG1,Dystroglycan,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",19840,341,1.38 [1.12-1.69],0.0020331171019796
+DAG1,Dystroglycan,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",23234,263,1.53 [1.22-1.92],0.0002609583712626
+DAG1,Dystroglycan,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",23322,200,1.73 [1.33-2.24],3.774389724148799e-05
+DAG1,Dystroglycan,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",19769,270,1.32 [1.06-1.65],0.0150407261886235
+DAG1,Dystroglycan,Chapter V Mental and behavioural disorders,Depression,22606,230,1.36 [1.07-1.73],0.0133685574990966
+DAG1,Dystroglycan,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,22823,251,1.46 [1.15-1.84],0.0016410708184547
+DAG1,Dystroglycan,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,23394,70,2.53 [1.63-3.94],3.603697609536012e-05
+DAG1,Dystroglycan,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,2607,70,1.96 [1.24-3.10],0.0041033604681443
+DAG1,Dystroglycan,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",20857,70,2.72 [1.74-4.24],1.0586768570068746e-05
+DAG1,Dystroglycan,Chapter IX Diseases of the circulatory system,"Hypertension, essential",16953,2459,1.13 [1.03-1.23],0.009713659638197
+DAG1,Dystroglycan,Chapter IX Diseases of the circulatory system,Hypertension,16999,2505,1.12 [1.02-1.22],0.0142849985163448
+DAG1,Dystroglycan,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",21078,1670,0.86 [0.78-0.95],0.0032821154916614
+DAG1,Dystroglycan,Chapter IX Diseases of the circulatory system,Angina pectoris,20340,932,0.81 [0.71-0.92],0.0017617936888629
+DAG1,Dystroglycan,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",19906,498,0.84 [0.70-1.00],0.0477190726967789
+DAG1,Dystroglycan,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,20812,1428,0.87 [0.78-0.97],0.0135729244376293
+DAG1,Dystroglycan,Chapter IX Diseases of the circulatory system,Conduction disorders,18699,168,0.73 [0.54-0.99],0.0431056157778204
+DAG1,Dystroglycan,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,12236,603,0.78 [0.66-0.93],0.0047649265740225
+DAG1,Dystroglycan,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,18658,127,0.63 [0.45-0.90],0.0097084392966482
+DAG1,Dystroglycan,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,18552,2020,1.12 [1.02-1.22],0.0152334250449014
+DAG1,Dystroglycan,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,21274,859,1.14 [1.00-1.30],0.0462759074451926
+DAG1,Dystroglycan,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",22519,228,1.35 [1.04-1.74],0.0220936208164563
+DAG1,Dystroglycan,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",22519,228,1.35 [1.04-1.74],0.0220936208164563
+DAG1,Dystroglycan,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,22435,127,1.45 [1.05-2.01],0.0256055519993829
+DAG1,Dystroglycan,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,18993,768,1.16 [1.01-1.33],0.0357922487951119
+DAG1,Dystroglycan,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",22628,374,1.22 [1.00-1.48],0.0459879600956969
+DAG1,Dystroglycan,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,21555,1075,1.13 [1.01-1.27],0.0404412222299696
+DAG1,Dystroglycan,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,17042,90,1.73 [1.17-2.56],0.0056728053979157
+DAG1,Dystroglycan,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",23531,87,1.68 [1.13-2.49],0.010497575774613
+DAG1,Dystroglycan,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,23536,77,1.92 [1.27-2.92],0.0020970158948439
+DAG1,Dystroglycan,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,20542,62,1.69 [1.06-2.70],0.0265881475254911
+DAG1,Dystroglycan,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,23250,79,1.78 [1.17-2.69],0.0065177619544271

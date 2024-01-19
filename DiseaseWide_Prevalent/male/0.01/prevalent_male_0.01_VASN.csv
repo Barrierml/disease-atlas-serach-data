@@ -1,0 +1,61 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+VASN,Vasorin,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,19967,806,1.48 [1.17-1.86],0.0010062622283955
+VASN,Vasorin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,19331,234,2.12 [1.39-3.23],0.0004553894854287
+VASN,Vasorin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,14911,802,2.07 [1.63-2.63],1.964857387076169e-09
+VASN,Vasorin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,20058,89,3.36 [1.77-6.38],0.000205757470652
+VASN,Vasorin,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,19636,52,6.30 [3.04-13.04],7.195531666650442e-07
+VASN,Vasorin,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,22164,119,2.13 [1.21-3.74],0.0090182607332687
+VASN,Vasorin,Chapter I Certain infectious and parasitic diseases,Other septicaemia,22127,82,2.99 [1.56-5.75],0.0010198079751858
+VASN,Vasorin,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",21991,382,1.59 [1.15-2.21],0.0050452548038123
+VASN,Vasorin,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",18325,231,1.84 [1.21-2.81],0.0045866591465479
+VASN,Vasorin,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",18146,52,4.13 [1.94-8.80],0.0002346893855737
+VASN,Vasorin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,20639,546,2.36 [1.80-3.11],6.46798931709801e-10
+VASN,Vasorin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,22176,118,2.52 [1.43-4.44],0.0013863273779075
+VASN,Vasorin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,21819,253,2.66 [1.81-3.91],6.433695691446475e-07
+VASN,Vasorin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,21819,253,2.66 [1.81-3.91],6.433695691446475e-07
+VASN,Vasorin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),19613,502,1.54 [1.15-2.06],0.0036762931050364
+VASN,Vasorin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,20626,148,8.56 [5.54-13.21],3.5347052911414507e-22
+VASN,Vasorin,Chapter IX Diseases of the circulatory system,Peripheral artery disease,22031,161,2.38 [1.47-3.86],0.0004577700899994
+VASN,Vasorin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,20610,132,8.64 [5.47-13.62],1.912558068677579e-20
+VASN,Vasorin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,21167,689,2.22 [1.73-2.85],4.660687204473355e-10
+VASN,Vasorin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,21140,662,2.14 [1.66-2.76],5.640425875577747e-09
+VASN,Vasorin,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",16965,98,4.29 [2.40-7.68],9.59905274147235e-07
+VASN,Vasorin,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",22797,255,0.49 [0.33-0.74],0.000654641646692
+VASN,Vasorin,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",22888,194,0.54 [0.34-0.86],0.0093731014410889
+VASN,Vasorin,Chapter V Mental and behavioural disorders,Alcohol dependence,21330,113,0.38 [0.20-0.71],0.0025814727440943
+VASN,Vasorin,Chapter VI Diseases of the nervous system,Migraine,21539,32,3.86 [1.39-10.77],0.00976311002534
+VASN,Vasorin,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,23021,85,2.55 [1.33-4.88],0.0048287931707613
+VASN,Vasorin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,22411,250,2.51 [1.70-3.69],3.1302221323692635e-06
+VASN,Vasorin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,22964,70,7.79 [4.25-14.28],3.090028908924864e-11
+VASN,Vasorin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,2554,70,8.34 [4.14-16.79],2.772755525778248e-09
+VASN,Vasorin,Chapter IX Diseases of the circulatory system,"Hypertension, essential",16625,2396,1.51 [1.29-1.76],3.0095378860203e-07
+VASN,Vasorin,Chapter IX Diseases of the circulatory system,Hypertension,16670,2441,1.62 [1.39-1.89],8.970040200913239e-10
+VASN,Vasorin,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",20684,1630,0.76 [0.64-0.91],0.0022507764896853
+VASN,Vasorin,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,20422,1392,0.75 [0.63-0.91],0.0030312789722401
+VASN,Vasorin,Chapter IX Diseases of the circulatory system,Venous thromboembolism,22605,236,2.25 [1.51-3.37],7.814956566200133e-05
+VASN,Vasorin,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,12003,584,0.61 [0.45-0.83],0.001347226241814
+VASN,Vasorin,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",22341,182,2.86 [1.84-4.46],3.3724634952309725e-06
+VASN,Vasorin,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",22368,165,2.78 [1.75-4.43],1.6569756894856124e-05
+VASN,Vasorin,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",22455,147,2.52 [1.53-4.14],0.0002784065670713
+VASN,Vasorin,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),22045,149,2.56 [1.55-4.23],0.0002347406965212
+VASN,Vasorin,Chapter IX Diseases of the circulatory system,DVT of lower extremities,22028,132,2.14 [1.24-3.68],0.0059953999641963
+VASN,Vasorin,Chapter X Diseases of the respiratory system,Influenza and pneumonia,21261,246,2.01 [1.34-3.02],0.0007019680918578
+VASN,Vasorin,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",21225,210,2.07 [1.34-3.20],0.0010771130375792
+VASN,Vasorin,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,22503,584,1.47 [1.13-1.93],0.0045900511146369
+VASN,Vasorin,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,16429,175,1.87 [1.16-3.02],0.0098806199818026
+VASN,Vasorin,Chapter XI Diseases of the digestive system,Constipation,21820,160,2.08 [1.28-3.40],0.0033651195083686
+VASN,Vasorin,Chapter XI Diseases of the digestive system,Acute pancreatitis,21901,72,2.78 [1.39-5.57],0.003836472472599
+VASN,Vasorin,Chapter XI Diseases of the digestive system,Acute pancreatitis (for exclusion),23168,72,2.78 [1.39-5.57],0.0039998970313497
+VASN,Vasorin,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,20248,1470,1.37 [1.15-1.63],0.0004335482424929
+VASN,Vasorin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,17235,3490,1.23 [1.08-1.39],0.0013237439649579
+VASN,Vasorin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,18678,2061,1.25 [1.08-1.46],0.0037538435201184
+VASN,Vasorin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,16704,87,2.91 [1.57-5.40],0.0007074107735167
+VASN,Vasorin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",23098,84,3.26 [1.73-6.13],0.0002500938925908
+VASN,Vasorin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,23102,74,3.30 [1.69-6.46],0.0004772512261465
+VASN,Vasorin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,20399,44,3.84 [1.66-8.87],0.0016109753184991
+VASN,Vasorin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,20635,280,1.92 [1.33-2.79],0.0005607091320825
+VASN,Vasorin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,20448,93,2.56 [1.38-4.76],0.0028506907915494
+VASN,Vasorin,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,17900,2344,1.82 [1.58-2.11],7.051869050589957e-16
+VASN,Vasorin,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,22817,77,6.73 [3.77-12.04],1.2786999863186288e-10
+VASN,Vasorin,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,21179,827,1.55 [1.24-1.95],0.0001408849493767
+VASN,Vasorin,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,20733,381,1.64 [1.18-2.28],0.0030900503333512

@@ -1,0 +1,100 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+INSR,Insulin receptor,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,37710,1522,1.75 [1.31-2.34],0.0001627758679809
+INSR,Insulin receptor,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,37127,353,4.12 [2.41-7.03],2.171259130493994e-07
+INSR,Insulin receptor,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,28434,1278,2.59 [1.89-3.54],2.496474707490233e-09
+INSR,Insulin receptor,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,38485,140,3.51 [1.51-8.16],0.0034753866459521
+INSR,Insulin receptor,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,41780,197,3.14 [1.53-6.47],0.00186225972907
+INSR,Insulin receptor,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",41216,683,1.85 [1.21-2.82],0.0042596838785288
+INSR,Insulin receptor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,38705,1304,2.16 [1.58-2.95],1.3933183892870205e-06
+INSR,Insulin receptor,Chapter II Neoplasms,Benign neoplasm: Stomach,43464,83,4.40 [1.66-11.66],0.0029081626481312
+INSR,Insulin receptor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,40810,566,3.14 [2.01-4.89],4.276205424558298e-07
+INSR,Insulin receptor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,40810,566,3.14 [2.01-4.89],4.276205424558298e-07
+INSR,Insulin receptor,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),37653,745,1.77 [1.18-2.66],0.0061241206245432
+INSR,Insulin receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,40932,904,1.79 [1.23-2.60],0.0024179864733694
+INSR,Insulin receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,39542,199,3.50 [1.75-7.00],0.0003872909609753
+INSR,Insulin receptor,Chapter IX Diseases of the circulatory system,Peripheral artery disease,41464,189,3.65 [1.81-7.36],0.0002959675303171
+INSR,Insulin receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,39522,179,3.92 [1.93-7.98],0.0001627966325037
+INSR,Insulin receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,40249,906,3.14 [2.19-4.49],4.753153474773392e-10
+INSR,Insulin receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,40223,880,3.16 [2.20-4.55],5.301189641870172e-10
+INSR,Insulin receptor,Chapter V Mental and behavioural disorders,Any mental disorder,36808,1086,1.93 [1.37-2.71],0.0001530595475523
+INSR,Insulin receptor,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",36116,394,3.39 [1.97-5.82],1.0081945329475356e-05
+INSR,Insulin receptor,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",42780,288,4.75 [2.63-8.56],2.243265518419725e-07
+INSR,Insulin receptor,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",42888,211,4.74 [2.42-9.29],5.694858907875964e-06
+INSR,Insulin receptor,Chapter V Mental and behavioural disorders,Acute alcohol intoxication,40454,101,4.25 [1.71-10.59],0.0018681465949979
+INSR,Insulin receptor,Chapter V Mental and behavioural disorders,"Acute alcohol intoxication, ICD10",43302,101,4.13 [1.68-10.15],0.0019675957942881
+INSR,Insulin receptor,Chapter V Mental and behavioural disorders,"Alcohol abuse, main dg, excluding more controls",35823,101,4.49 [1.80-11.22],0.0012962035744006
+INSR,Insulin receptor,Chapter V Mental and behavioural disorders,Alcohol dependence,40475,122,7.33 [3.07-17.47],7.1087250013393135e-06
+INSR,Insulin receptor,Chapter V Mental and behavioural disorders,Depression,40765,458,2.14 [1.29-3.56],0.0033128042381015
+INSR,Insulin receptor,Chapter V Mental and behavioural disorders,Depression or dysthymia,35848,399,2.22 [1.29-3.82],0.0037971479143497
+INSR,Insulin receptor,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",41485,1109,1.67 [1.19-2.33],0.0028665914384291
+INSR,Insulin receptor,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,41011,635,2.10 [1.36-3.25],0.0007602508827372
+INSR,Insulin receptor,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,30723,5414,1.30 [1.08-1.57],0.0053520612879554
+INSR,Insulin receptor,Chapter IX Diseases of the circulatory system,"Hypertension, essential",32408,3710,1.37 [1.11-1.70],0.0030681596823373
+INSR,Insulin receptor,Chapter IX Diseases of the circulatory system,Hypertension,32451,3753,1.39 [1.13-1.71],0.0020560661736202
+INSR,Insulin receptor,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,28794,96,3.55 [1.36-9.26],0.0097904162259167
+INSR,Insulin receptor,Chapter IX Diseases of the circulatory system,Secondary right heart disease,42031,168,4.43 [2.15-9.13],5.464610283728964e-05
+INSR,Insulin receptor,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,42032,169,4.45 [2.17-9.14],4.686688424666704e-05
+INSR,Insulin receptor,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",28860,162,4.50 [2.17-9.34],5.430148662166774e-05
+INSR,Insulin receptor,Chapter IX Diseases of the circulatory system,Cardiomyopathy,36141,97,4.26 [1.73-10.47],0.0016180597932885
+INSR,Insulin receptor,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,24579,726,2.09 [1.37-3.19],0.0005778281528734
+INSR,Insulin receptor,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,36201,157,4.68 [2.28-9.63],2.7247553769760484e-05
+INSR,Insulin receptor,Chapter IX Diseases of the circulatory system,"Heart failure, strict",41696,347,3.17 [1.86-5.42],2.3068122786259902e-05
+INSR,Insulin receptor,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,34718,3516,1.86 [1.52-2.27],9.573023730096582e-10
+INSR,Insulin receptor,Chapter X Diseases of the respiratory system,Influenza and pneumonia,40370,385,2.72 [1.60-4.64],0.00021854783931
+INSR,Insulin receptor,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",40322,337,2.87 [1.64-5.04],0.0002372331253272
+INSR,Insulin receptor,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,38792,1726,2.12 [1.62-2.78],3.756451479888015e-08
+INSR,Insulin receptor,Chapter X Diseases of the respiratory system,Early onset COPD,41482,298,2.39 [1.29-4.42],0.005564732715904
+INSR,Insulin receptor,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",41524,340,2.46 [1.38-4.37],0.0022343970029698
+INSR,Insulin receptor,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",41524,340,2.46 [1.38-4.37],0.0022343970029698
+INSR,Insulin receptor,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",40498,1416,1.84 [1.37-2.48],5.591340368776614e-05
+INSR,Insulin receptor,Chapter X Diseases of the respiratory system,Asthma,31042,1416,2.07 [1.53-2.80],2.801480083800077e-06
+INSR,Insulin receptor,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",30597,1416,2.10 [1.55-2.85],1.9653016706019405e-06
+INSR,Insulin receptor,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",31022,1396,2.11 [1.56-2.87],1.5506827282510126e-06
+INSR,Insulin receptor,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,42817,175,3.70 [1.76-7.78],0.0005795698793512
+INSR,Insulin receptor,Chapter X Diseases of the respiratory system,Interstitial lung disease,40899,136,4.07 [1.79-9.29],0.0008409894755295
+INSR,Insulin receptor,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",42949,136,4.01 [1.75-9.18],0.0009930049879781
+INSR,Insulin receptor,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,40887,124,4.92 [2.16-11.18],0.0001440995539952
+INSR,Insulin receptor,Chapter X Diseases of the respiratory system,Other diseases of pleura,40177,405,2.91 [1.73-4.89],5.342313970202276e-05
+INSR,Insulin receptor,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,41317,188,4.09 [2.05-8.17],6.443621043115936e-05
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,29629,9820,1.59 [1.37-1.83],2.4456726097547177e-10
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,42018,158,3.18 [1.43-7.05],0.0045270748757153
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",36329,3662,1.63 [1.34-1.98],9.883033266391996e-07
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,Oesophagitis,33244,577,2.25 [1.43-3.51],0.0003997852225038
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,33859,1192,1.72 [1.24-2.38],0.0011249453178582
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),34038,1371,1.87 [1.38-2.52],5.300099311563435e-05
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,41821,1295,1.77 [1.30-2.42],0.0003006500663437
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",42896,99,3.62 [1.37-9.58],0.009676058657391
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",43352,135,3.13 [1.32-7.43],0.0097079917090534
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,Crohn disease,40661,135,3.21 [1.36-7.60],0.007990326853616
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,Crohn's disease NAS,40627,101,4.64 [1.87-11.50],0.0009371332095813
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,41586,1060,1.60 [1.13-2.26],0.0077092760948284
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,Other diseases of liver,41986,116,4.22 [1.78-10.02],0.001084734787485
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",41125,1032,2.26 [1.60-3.18],3.134713439812301e-06
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,Cholelithiasis,40919,826,2.01 [1.37-2.95],0.0003987500493936
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,40172,79,5.83 [2.09-16.32],0.0007804627517214
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,Diseases of the digestive system,41111,528,1.95 [1.22-3.14],0.0057068689566093
+INSR,Insulin receptor,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,41919,680,1.78 [1.17-2.71],0.0074452951988727
+INSR,Insulin receptor,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,41667,428,2.01 [1.19-3.38],0.0087524061586986
+INSR,Insulin receptor,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,42978,155,3.93 [1.83-8.44],0.0004427465159283
+INSR,Insulin receptor,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,42942,119,3.85 [1.61-9.20],0.0024721611241578
+INSR,Insulin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,31300,6730,1.46 [1.25-1.72],2.6276019455835915e-06
+INSR,Insulin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,34024,3918,1.49 [1.23-1.81],4.767926720908911e-05
+INSR,Insulin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,30877,771,2.07 [1.39-3.08],0.0003169763023821
+INSR,Insulin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,32028,1922,1.57 [1.20-2.06],0.0009326627370346
+INSR,Insulin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",36390,1922,1.49 [1.15-1.94],0.0030064744316296
+INSR,Insulin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,30227,121,4.70 [2.17-10.17],8.585688675405925e-05
+INSR,Insulin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",42521,117,4.54 [2.06-10.00],0.0001733176955709
+INSR,Insulin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,30746,640,2.00 [1.29-3.12],0.0020101121306917
+INSR,Insulin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,33632,475,2.68 [1.64-4.37],7.881788729639368e-05
+INSR,Insulin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,42343,94,7.63 [3.05-19.06],1.3623238136332998e-05
+INSR,Insulin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,37603,111,3.85 [1.53-9.69],0.0042571017434736
+INSR,Insulin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,39074,1582,1.91 [1.44-2.53],6.104988814376688e-06
+INSR,Insulin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",38741,1249,1.96 [1.43-2.68],2.7283870764549342e-05
+INSR,Insulin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,37578,86,3.97 [1.48-10.66],0.0061689610472468
+INSR,Insulin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,37622,130,3.23 [1.33-7.82],0.0093890511960711
+INSR,Insulin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,37602,110,4.06 [1.60-10.30],0.0031496099283583
+INSR,Insulin receptor,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,39260,364,2.40 [1.38-4.18],0.0019511102375221
+INSR,Insulin receptor,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,39494,81,7.60 [3.30-17.48],1.822929262496473e-06
+INSR,Insulin receptor,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,39508,95,7.55 [3.36-16.92],9.413762205136804e-07
+INSR,Insulin receptor,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,42741,111,4.23 [1.75-10.25],0.0013728637372591
+INSR,Insulin receptor,Chapter VI Diseases of the nervous system,Falls/tendency to fall,39244,1003,1.63 [1.14-2.31],0.0069120320360652

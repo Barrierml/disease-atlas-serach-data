@@ -1,0 +1,83 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+MSR1,Macrophage scavenger receptor types I and II,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,25811,907,1.68 [1.48-1.91],1.200358972665634e-15
+MSR1,Macrophage scavenger receptor types I and II,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,25832,145,2.97 [2.24-3.94],5.386921716263452e-14
+MSR1,Macrophage scavenger receptor types I and II,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,20516,504,2.56 [2.17-3.03],2.35315956912609e-28
+MSR1,Macrophage scavenger receptor types I and II,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,26644,80,3.06 [2.11-4.44],3.9606903925367774e-09
+MSR1,Macrophage scavenger receptor types I and II,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,26078,46,3.08 [1.90-5.00],5.198004280274124e-06
+MSR1,Macrophage scavenger receptor types I and II,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,27893,110,2.41 [1.73-3.35],1.938674911148693e-07
+MSR1,Macrophage scavenger receptor types I and II,Chapter I Certain infectious and parasitic diseases,Other septicaemia,27852,69,2.60 [1.71-3.94],7.66343902074206e-06
+MSR1,Macrophage scavenger receptor types I and II,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",27597,396,1.81 [1.50-2.18],3.846905924414861e-10
+MSR1,Macrophage scavenger receptor types I and II,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,27350,149,2.58 [1.94-3.43],5.999687026724029e-11
+MSR1,Macrophage scavenger receptor types I and II,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,27454,253,1.76 [1.40-2.22],1.7161882435938133e-06
+MSR1,Macrophage scavenger receptor types I and II,Chapter II Neoplasms,"Malignant neoplasm of breast, excluding all cancers (controls excluding all cancers)",13890,294,1.77 [1.42-2.22],5.772057707555409e-07
+MSR1,Macrophage scavenger receptor types I and II,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,26312,829,1.91 [1.67-2.18],4.0279842606170095e-22
+MSR1,Macrophage scavenger receptor types I and II,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,27445,356,1.86 [1.53-2.26],5.71453170064821e-10
+MSR1,Macrophage scavenger receptor types I and II,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,27445,356,1.86 [1.53-2.26],5.71453170064821e-10
+MSR1,Macrophage scavenger receptor types I and II,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),26210,366,1.68 [1.38-2.05],2.8796584063294897e-07
+MSR1,Macrophage scavenger receptor types I and II,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,28116,81,3.22 [2.22-4.67],6.512672154456162e-10
+MSR1,Macrophage scavenger receptor types I and II,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,25091,714,1.70 [1.48-1.97],4.189395722201376e-13
+MSR1,Macrophage scavenger receptor types I and II,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,26753,117,3.68 [2.74-4.94],5.6686758340808856e-18
+MSR1,Macrophage scavenger receptor types I and II,Chapter IX Diseases of the circulatory system,Peripheral artery disease,27829,55,2.87 [1.85-4.45],2.411067112455923e-06
+MSR1,Macrophage scavenger receptor types I and II,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,26739,103,3.59 [2.62-4.91],1.523440152725516e-15
+MSR1,Macrophage scavenger receptor types I and II,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,26967,331,2.38 [1.95-2.91],2.1082300275061654e-17
+MSR1,Macrophage scavenger receptor types I and II,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,26957,321,2.36 [1.92-2.89],1.8000184383740804e-16
+MSR1,Macrophage scavenger receptor types I and II,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,24924,547,1.58 [1.34-1.87],4.837527234964221e-08
+MSR1,Macrophage scavenger receptor types I and II,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,24878,501,1.59 [1.33-1.88],1.5395149043124385e-07
+MSR1,Macrophage scavenger receptor types I and II,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",24457,80,2.98 [2.05-4.34],1.078752033740338e-08
+MSR1,Macrophage scavenger receptor types I and II,Chapter V Mental and behavioural disorders,Any mental disorder,24825,773,1.73 [1.50-1.98],8.57716000176607e-15
+MSR1,Macrophage scavenger receptor types I and II,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",24351,299,2.36 [1.91-2.91],1.5377715157231897e-15
+MSR1,Macrophage scavenger receptor types I and II,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",28155,230,2.44 [1.94-3.06],1.780988440152417e-14
+MSR1,Macrophage scavenger receptor types I and II,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",28227,164,2.65 [2.04-3.44],2.8998223750696457e-13
+MSR1,Macrophage scavenger receptor types I and II,Chapter V Mental and behavioural disorders,Acute alcohol intoxication,26581,84,2.46 [1.67-3.62],4.879441539695165e-06
+MSR1,Macrophage scavenger receptor types I and II,Chapter V Mental and behavioural disorders,"Alcohol abuse, main dg, excluding more controls",24136,84,2.56 [1.74-3.77],1.772217910236104e-06
+MSR1,Macrophage scavenger receptor types I and II,Chapter V Mental and behavioural disorders,Alcohol dependence,26595,98,3.63 [2.59-5.09],9.344943190327545e-14
+MSR1,Macrophage scavenger receptor types I and II,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",24443,391,1.68 [1.39-2.04],8.52719153760175e-08
+MSR1,Macrophage scavenger receptor types I and II,Chapter V Mental and behavioural disorders,Depression,26840,340,1.62 [1.33-1.98],1.6648990851548348e-06
+MSR1,Macrophage scavenger receptor types I and II,Chapter V Mental and behavioural disorders,Depression or dysthymia,24293,298,1.71 [1.38-2.13],1.0874478093066594e-06
+MSR1,Macrophage scavenger receptor types I and II,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,22382,1999,1.68 [1.53-1.85],3.5287157937649275e-27
+MSR1,Macrophage scavenger receptor types I and II,Chapter IX Diseases of the circulatory system,"Hypertension, essential",23456,1322,1.72 [1.54-1.93],1.2699432966985213e-21
+MSR1,Macrophage scavenger receptor types I and II,Chapter IX Diseases of the circulatory system,Hypertension,23480,1346,1.72 [1.54-1.92],1.1700507525940733e-21
+MSR1,Macrophage scavenger receptor types I and II,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",27062,577,1.55 [1.32-1.82],5.0932728653373094e-08
+MSR1,Macrophage scavenger receptor types I and II,Chapter IX Diseases of the circulatory system,Angina pectoris,26841,356,1.58 [1.30-1.92],6.276955883647039e-06
+MSR1,Macrophage scavenger receptor types I and II,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,26903,429,1.52 [1.26-1.82],7.286448260244424e-06
+MSR1,Macrophage scavenger receptor types I and II,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,19654,194,1.88 [1.43-2.46],5.266733063614847e-06
+MSR1,Macrophage scavenger receptor types I and II,Chapter IX Diseases of the circulatory system,"Heart failure, strict",28082,122,2.73 [2.03-3.68],3.667439766561653e-11
+MSR1,Macrophage scavenger receptor types I and II,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,27885,84,2.73 [1.91-3.91],3.996357423392128e-08
+MSR1,Macrophage scavenger receptor types I and II,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,24207,1983,1.53 [1.40-1.68],1.677097947484671e-20
+MSR1,Macrophage scavenger receptor types I and II,Chapter X Diseases of the respiratory system,Influenza and pneumonia,27367,192,2.21 [1.71-2.86],1.7982486254933624e-09
+MSR1,Macrophage scavenger receptor types I and II,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",27339,164,2.37 [1.80-3.12],7.324136960918231e-10
+MSR1,Macrophage scavenger receptor types I and II,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,28406,58,3.70 [2.50-5.48],6.071650326850204e-11
+MSR1,Macrophage scavenger receptor types I and II,Chapter X Diseases of the respiratory system,Interstitial lung disease,27256,44,4.12 [2.65-6.40],2.9669162431644145e-10
+MSR1,Macrophage scavenger receptor types I and II,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",28469,44,3.92 [2.53-6.07],8.700836232366671e-10
+MSR1,Macrophage scavenger receptor types I and II,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,27249,37,3.99 [2.46-6.46],2.00323738218459e-08
+MSR1,Macrophage scavenger receptor types I and II,Chapter X Diseases of the respiratory system,Other diseases of pleura,27321,182,2.26 [1.74-2.93],8.147408570984893e-10
+MSR1,Macrophage scavenger receptor types I and II,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,27734,85,2.51 [1.75-3.61],5.861850403037064e-07
+MSR1,Macrophage scavenger receptor types I and II,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,20236,5234,1.22 [1.14-1.30],6.485685466555076e-10
+MSR1,Macrophage scavenger receptor types I and II,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",24559,1765,1.31 [1.19-1.44],2.638176538385864e-08
+MSR1,Macrophage scavenger receptor types I and II,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,22910,116,2.26 [1.61-3.16],1.997088983910046e-06
+MSR1,Macrophage scavenger receptor types I and II,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,27690,761,1.42 [1.24-1.63],5.917705287308752e-07
+MSR1,Macrophage scavenger receptor types I and II,Chapter XI Diseases of the digestive system,Other diseases of intestines,23548,1690,1.26 [1.15-1.39],2.287535954801999e-06
+MSR1,Macrophage scavenger receptor types I and II,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",27046,117,2.12 [1.52-2.96],9.431941782137936e-06
+MSR1,Macrophage scavenger receptor types I and II,Chapter XI Diseases of the digestive system,Diseases of liver,27841,124,4.49 [3.41-5.92],9.512999136062716e-27
+MSR1,Macrophage scavenger receptor types I and II,Chapter XI Diseases of the digestive system,Other diseases of liver,27782,65,3.98 [2.73-5.78],5.28570133605569e-13
+MSR1,Macrophage scavenger receptor types I and II,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,25942,1514,1.29 [1.17-1.43],6.877173079680619e-07
+MSR1,Macrophage scavenger receptor types I and II,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,22148,3585,1.46 [1.36-1.57],1.7595954765992166e-25
+MSR1,Macrophage scavenger receptor types I and II,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,23789,1894,1.46 [1.33-1.60],8.041953529049272e-16
+MSR1,Macrophage scavenger receptor types I and II,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,26112,1129,1.37 [1.22-1.53],1.2303825703043228e-07
+MSR1,Macrophage scavenger receptor types I and II,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,22014,119,3.25 [2.42-4.37],5.348195152662576e-15
+MSR1,Macrophage scavenger receptor types I and II,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,22240,345,2.52 [2.08-3.05],2.1875673641352488e-21
+MSR1,Macrophage scavenger receptor types I and II,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",28255,113,3.12 [2.30-4.23],2.505437024238308e-13
+MSR1,Macrophage scavenger receptor types I and II,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,28272,101,3.42 [2.50-4.67],1.4131624079875481e-14
+MSR1,Macrophage scavenger receptor types I and II,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,22564,669,1.46 [1.26-1.70],8.68553807771045e-07
+MSR1,Macrophage scavenger receptor types I and II,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",25200,669,1.40 [1.21-1.63],8.039617162453926e-06
+MSR1,Macrophage scavenger receptor types I and II,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,21941,46,3.99 [2.59-6.14],3.3377027701538075e-10
+MSR1,Macrophage scavenger receptor types I and II,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",28201,45,3.95 [2.55-6.11],6.64691428766583e-10
+MSR1,Macrophage scavenger receptor types I and II,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,22049,154,2.05 [1.55-2.73],6.818224992228073e-07
+MSR1,Macrophage scavenger receptor types I and II,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,23158,1263,1.34 [1.20-1.50],1.7624311534696557e-07
+MSR1,Macrophage scavenger receptor types I and II,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,28193,152,3.33 [2.56-4.34],4.347074280630066e-19
+MSR1,Macrophage scavenger receptor types I and II,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,28082,41,4.87 [3.17-7.48],5.199934109471238e-13
+MSR1,Macrophage scavenger receptor types I and II,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,26452,921,1.34 [1.18-1.52],8.425344888166305e-06
+MSR1,Macrophage scavenger receptor types I and II,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,27030,211,2.09 [1.63-2.68],6.203685219010834e-09
+MSR1,Macrophage scavenger receptor types I and II,Chapter XIV Diseases of the genitourinary system,Acute renal failure,27186,45,3.01 [1.85-4.90],9.31408674881722e-06
+MSR1,Macrophage scavenger receptor types I and II,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,27189,48,3.77 [2.43-5.84],3.172882119696693e-09
+MSR1,Macrophage scavenger receptor types I and II,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,27196,55,3.56 [2.34-5.42],3.18364367501335e-09

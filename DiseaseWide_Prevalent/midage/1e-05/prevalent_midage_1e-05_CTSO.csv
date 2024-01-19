@@ -1,0 +1,53 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+CTSO,Cathepsin O,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,25862,909,1.91 [1.58-2.29],8.417795904927535e-12
+CTSO,Cathepsin O,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,25892,145,3.84 [2.58-5.73],3.9589645424424095e-11
+CTSO,Cathepsin O,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,20559,504,2.59 [2.04-3.29],6.445858238462569e-15
+CTSO,Cathepsin O,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,26706,77,3.62 [2.09-6.29],4.744877772675641e-06
+CTSO,Cathepsin O,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,27954,107,3.20 [1.99-5.15],1.5571331438104809e-06
+CTSO,Cathepsin O,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",27654,395,2.00 [1.53-2.63],5.231349145593663e-07
+CTSO,Cathepsin O,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,27513,254,2.24 [1.61-3.12],1.6753046205299334e-06
+CTSO,Cathepsin O,Chapter II Neoplasms,"Malignant neoplasm of breast, excluding all cancers (controls excluding all cancers)",13917,294,2.77 [2.04-3.75],5.424073137197821e-11
+CTSO,Cathepsin O,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,26379,832,1.77 [1.46-2.15],6.991857751722813e-09
+CTSO,Cathepsin O,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),26269,367,2.10 [1.58-2.78],2.879343460479658e-07
+CTSO,Cathepsin O,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,25143,719,2.58 [2.11-3.15],2.586748070508236e-20
+CTSO,Cathepsin O,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,26806,116,4.39 [2.87-6.73],1.0946781349687132e-11
+CTSO,Cathepsin O,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,26791,101,4.44 [2.82-6.99],1.2773966383182372e-10
+CTSO,Cathepsin O,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,27028,338,5.64 [4.32-7.36],4.2275508001430484e-37
+CTSO,Cathepsin O,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,27018,328,5.70 [4.36-7.46],7.716299609261238e-37
+CTSO,Cathepsin O,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,24975,551,2.71 [2.16-3.40],6.447378596017904e-18
+CTSO,Cathepsin O,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,24930,506,2.63 [2.07-3.33],1.1744435419481582e-15
+CTSO,Cathepsin O,Chapter V Mental and behavioural disorders,Any mental disorder,24879,784,1.99 [1.62-2.43],2.402632317123262e-11
+CTSO,Cathepsin O,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",24394,299,2.18 [1.58-3.00],1.6742521700575984e-06
+CTSO,Cathepsin O,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",24497,402,1.95 [1.49-2.56],1.531894561557228e-06
+CTSO,Cathepsin O,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,22426,2014,2.17 [1.90-2.49],2.462635606701907e-29
+CTSO,Cathepsin O,Chapter IX Diseases of the circulatory system,"Hypertension, essential",23511,1335,2.32 [1.97-2.72],9.079083503549706e-25
+CTSO,Cathepsin O,Chapter IX Diseases of the circulatory system,Hypertension,23536,1360,2.32 [1.98-2.72],3.9693487220632688e-25
+CTSO,Cathepsin O,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",27118,581,1.95 [1.55-2.44],7.086789100673841e-09
+CTSO,Cathepsin O,Chapter IX Diseases of the circulatory system,Angina pectoris,26895,358,1.91 [1.44-2.54],7.550024165930484e-06
+CTSO,Cathepsin O,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,26959,433,2.05 [1.59-2.66],4.6318932843402694e-08
+CTSO,Cathepsin O,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,24254,1990,1.51 [1.32-1.72],8.223303314582867e-10
+CTSO,Cathepsin O,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,28472,57,4.88 [2.74-8.69],7.476469053944706e-08
+CTSO,Cathepsin O,Chapter X Diseases of the respiratory system,Interstitial lung disease,27310,43,4.87 [2.48-9.57],4.356016815743847e-06
+CTSO,Cathepsin O,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",28535,43,4.65 [2.37-9.11],7.472864773728323e-06
+CTSO,Cathepsin O,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,20277,5247,1.56 [1.42-1.71],5.919295028106879e-21
+CTSO,Cathepsin O,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",24622,1771,1.47 [1.28-1.69],3.979235235023462e-08
+CTSO,Cathepsin O,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,23412,561,1.77 [1.40-2.24],1.4358967306519211e-06
+CTSO,Cathepsin O,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),23501,650,1.73 [1.39-2.16],7.698398081929558e-07
+CTSO,Cathepsin O,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,27760,760,1.95 [1.60-2.38],4.483490141996916e-11
+CTSO,Cathepsin O,Chapter XI Diseases of the digestive system,Other diseases of intestines,23598,1705,1.47 [1.28-1.69],9.226977709679045e-08
+CTSO,Cathepsin O,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",28326,75,5.25 [3.18-8.68],9.619211127835972e-11
+CTSO,Cathepsin O,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",28582,106,5.03 [3.26-7.74],2.398171597883167e-13
+CTSO,Cathepsin O,Chapter XI Diseases of the digestive system,Crohn disease,27106,106,5.18 [3.35-8.01],1.2716363141284814e-13
+CTSO,Cathepsin O,Chapter XI Diseases of the digestive system,Crohn's disease NAS,27081,81,4.99 [3.03-8.20],2.51407575544085e-10
+CTSO,Cathepsin O,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,27604,604,1.79 [1.43-2.24],3.371438278501666e-07
+CTSO,Cathepsin O,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,27599,599,1.75 [1.40-2.19],1.090336731939932e-06
+CTSO,Cathepsin O,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",21942,49,5.38 [2.97-9.73],2.663554713774255e-08
+CTSO,Cathepsin O,Chapter XI Diseases of the digestive system,Diseases of liver,27909,124,3.56 [2.30-5.49],1.014033273886011e-08
+CTSO,Cathepsin O,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,26901,47,4.77 [2.51-9.04],1.7324483606214854e-06
+CTSO,Cathepsin O,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,25994,1520,1.47 [1.27-1.70],2.967901102993807e-07
+CTSO,Cathepsin O,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,22175,3591,1.35 [1.22-1.50],1.5349034381017712e-08
+CTSO,Cathepsin O,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,21964,35,1.86 [1.42-2.45],8.5673884662458e-06
+CTSO,Cathepsin O,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,28258,152,3.66 [2.47-5.43],1.0080914883948775e-10
+CTSO,Cathepsin O,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,28147,41,5.83 [2.98-11.40],2.703966868434221e-07
+CTSO,Cathepsin O,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,26503,925,1.55 [1.29-1.87],3.01024360056487e-06
+CTSO,Cathepsin O,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,27253,50,4.50 [2.37-8.54],4.423060828770065e-06

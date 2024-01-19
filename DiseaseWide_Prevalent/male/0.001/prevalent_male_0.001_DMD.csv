@@ -1,0 +1,57 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+DMD,Dystrophin,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,17171,691,1.35 [1.19-1.53],4.0029255672523145e-06
+DMD,Dystrophin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,16624,188,1.80 [1.49-2.18],1.5965041151620232e-09
+DMD,Dystrophin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,12795,646,1.57 [1.38-1.78],5.984462728654046e-12
+DMD,Dystrophin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,17246,71,1.70 [1.27-2.29],0.0004440999860498
+DMD,Dystrophin,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,19025,98,1.63 [1.25-2.12],0.0002902011334999
+DMD,Dystrophin,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",18869,320,1.46 [1.23-1.72],1.4471924867631411e-05
+DMD,Dystrophin,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,18670,121,1.71 [1.36-2.15],3.652236524717072e-06
+DMD,Dystrophin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,17741,437,1.38 [1.18-1.61],5.924438643021043e-05
+DMD,Dystrophin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,18722,196,1.48 [1.18-1.85],0.0006594425170277
+DMD,Dystrophin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,18722,196,1.48 [1.18-1.85],0.0006594425170277
+DMD,Dystrophin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),16864,410,1.39 [1.19-1.63],3.934916913580626e-05
+DMD,Dystrophin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,17635,109,1.56 [1.20-2.03],0.0009154287177781
+DMD,Dystrophin,Chapter IX Diseases of the circulatory system,Peripheral artery disease,18868,139,1.78 [1.41-2.25],1.185345236934573e-06
+DMD,Dystrophin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,18083,557,1.44 [1.25-1.67],9.788762006280393e-07
+DMD,Dystrophin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,18068,542,1.42 [1.22-1.65],4.463595163264497e-06
+DMD,Dystrophin,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",14579,76,1.80 [1.37-2.35],1.84996372563633e-05
+DMD,Dystrophin,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,19719,72,1.68 [1.25-2.27],0.000659071801703
+DMD,Dystrophin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,19639,41,2.10 [1.46-3.03],7.266346851605145e-05
+DMD,Dystrophin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,2167,41,2.17 [1.38-3.42],0.0007603138767342
+DMD,Dystrophin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",17513,41,2.10 [1.46-3.00],5.33013856840989e-05
+DMD,Dystrophin,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,13439,3075,1.21 [1.11-1.32],1.441243530736686e-05
+DMD,Dystrophin,Chapter IX Diseases of the circulatory system,"Hypertension, essential",14219,1997,1.30 [1.18-1.43],5.47900568928495e-08
+DMD,Dystrophin,Chapter IX Diseases of the circulatory system,Hypertension,14244,2022,1.32 [1.20-1.45],9.755670292292108e-09
+DMD,Dystrophin,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,12279,57,2.57 [1.99-3.32],4.792912017296915e-13
+DMD,Dystrophin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",18897,266,1.45 [1.19-1.76],0.0001798921626423
+DMD,Dystrophin,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,18895,124,1.70 [1.32-2.19],3.339892550697365e-05
+DMD,Dystrophin,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,15620,1718,1.27 [1.16-1.39],1.8111918293640458e-07
+DMD,Dystrophin,Chapter X Diseases of the respiratory system,Influenza and pneumonia,18245,208,1.53 [1.25-1.86],2.61893142974314e-05
+DMD,Dystrophin,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",18212,175,1.49 [1.20-1.85],0.0003763138724274
+DMD,Dystrophin,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,19194,235,1.49 [1.22-1.81],7.91180076364789e-05
+DMD,Dystrophin,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,19192,233,1.49 [1.22-1.81],7.782200385851767e-05
+DMD,Dystrophin,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,17844,737,1.28 [1.13-1.45],0.0001388150729242
+DMD,Dystrophin,Chapter X Diseases of the respiratory system,Asthma,13593,567,1.30 [1.13-1.50],0.0002860596032311
+DMD,Dystrophin,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",13297,567,1.30 [1.13-1.50],0.000248347539052
+DMD,Dystrophin,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",13583,557,1.31 [1.13-1.51],0.0002385842512413
+DMD,Dystrophin,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,13330,4691,1.15 [1.07-1.23],9.826252529240806e-05
+DMD,Dystrophin,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,19252,512,1.32 [1.14-1.52],0.0001573253602092
+DMD,Dystrophin,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",18591,49,1.88 [1.37-2.56],8.288693202701801e-05
+DMD,Dystrophin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,14792,2978,1.21 [1.12-1.30],9.56222986039886e-07
+DMD,Dystrophin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,16032,1755,1.25 [1.14-1.36],1.418174768791735e-06
+DMD,Dystrophin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,18097,916,1.22 [1.09-1.37],0.0008457911218069
+DMD,Dystrophin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,14607,330,1.52 [1.28-1.80],1.8703164330082864e-06
+DMD,Dystrophin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,15161,884,1.27 [1.13-1.44],8.512700242976452e-05
+DMD,Dystrophin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",17204,884,1.24 [1.10-1.40],0.0006327867041367
+DMD,Dystrophin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,18171,697,1.26 [1.11-1.44],0.0004163441205417
+DMD,Dystrophin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,17615,141,1.58 [1.23-2.01],0.0002614404809666
+DMD,Dystrophin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",18016,542,1.32 [1.15-1.52],9.536782423615414e-05
+DMD,Dystrophin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,17520,46,1.85 [1.35-2.55],0.0001464678842092
+DMD,Dystrophin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",17478,297,1.40 [1.17-1.68],0.0002827502527655
+DMD,Dystrophin,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,15371,1931,1.30 [1.20-1.42],2.072866716230826e-09
+DMD,Dystrophin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,17760,208,1.82 [1.53-2.16],1.8744589225829355e-11
+DMD,Dystrophin,Chapter XIV Diseases of the genitourinary system,Acute renal failure,17823,48,1.92 [1.40-2.64],4.900984056341805e-05
+DMD,Dystrophin,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,17823,48,2.57 [2.03-3.27],8.754847634134286e-15
+DMD,Dystrophin,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,17837,62,2.04 [1.58-2.63],5.3198019937607696e-08
+DMD,Dystrophin,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,19565,58,1.74 [1.28-2.37],0.0004272789900999
+DMD,Dystrophin,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,17785,307,1.37 [1.15-1.64],0.0005120876887446

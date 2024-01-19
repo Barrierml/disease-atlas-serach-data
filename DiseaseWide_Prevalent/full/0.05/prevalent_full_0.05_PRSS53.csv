@@ -1,0 +1,70 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+PRSS53,Serine protease 53,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,38749,1577,1.21 [1.07-1.37],0.0025018715007065
+PRSS53,Serine protease 53,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,38130,371,1.51 [1.17-1.94],0.0012800280850146
+PRSS53,Serine protease 53,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,39525,150,2.00 [1.39-2.86],0.0001632547599536
+PRSS53,Serine protease 53,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,42916,207,1.86 [1.37-2.53],8.287066538665991e-05
+PRSS53,Serine protease 53,Chapter I Certain infectious and parasitic diseases,Other septicaemia,42842,133,2.11 [1.46-3.06],7.040730749225845e-05
+PRSS53,Serine protease 53,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",42358,708,1.31 [1.09-1.57],0.0040042173337716
+PRSS53,Serine protease 53,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,42136,486,1.25 [1.00-1.56],0.0487292232137171
+PRSS53,Serine protease 53,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),38674,769,1.25 [1.05-1.50],0.0128351543330609
+PRSS53,Serine protease 53,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,40630,207,0.64 [0.46-0.91],0.0123263799678713
+PRSS53,Serine protease 53,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,40609,186,0.66 [0.46-0.95],0.0266931880732069
+PRSS53,Serine protease 53,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",37122,409,1.42 [1.11-1.82],0.0052515012913395
+PRSS53,Serine protease 53,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",43958,299,1.64 [1.24-2.17],0.0004506512721744
+PRSS53,Serine protease 53,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",44063,219,1.74 [1.26-2.40],0.0006907302524987
+PRSS53,Serine protease 53,Chapter V Mental and behavioural disorders,Acute alcohol intoxication,41571,104,1.60 [1.00-2.54],0.0482343536871568
+PRSS53,Serine protease 53,Chapter V Mental and behavioural disorders,"Acute alcohol intoxication, ICD10",44490,104,1.59 [1.01-2.51],0.0473101675429504
+PRSS53,Serine protease 53,Chapter V Mental and behavioural disorders,Alcohol dependence,41595,128,1.59 [1.04-2.45],0.0329652041774064
+PRSS53,Serine protease 53,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,34909,247,1.50 [1.10-2.05],0.0107378188626019
+PRSS53,Serine protease 53,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,44389,196,1.45 [1.02-2.06],0.0382273843747001
+PRSS53,Serine protease 53,Chapter VI Diseases of the nervous system,Epilepsy,41801,257,1.79 [1.35-2.37],4.529969274416309e-05
+PRSS53,Serine protease 53,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,38885,694,1.22 [1.02-1.47],0.0324292131237883
+PRSS53,Serine protease 53,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,43242,792,0.79 [0.66-0.95],0.0120483162638295
+PRSS53,Serine protease 53,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,24696,203,0.69 [0.48-0.99],0.0450010830570259
+PRSS53,Serine protease 53,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,25252,759,0.74 [0.61-0.90],0.0023272017880178
+PRSS53,Serine protease 53,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,37199,165,0.65 [0.44-0.97],0.0332394498756692
+PRSS53,Serine protease 53,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",43104,263,0.70 [0.52-0.96],0.0267956914898563
+PRSS53,Serine protease 53,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",43162,221,0.64 [0.46-0.90],0.0103950474703765
+PRSS53,Serine protease 53,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",43294,193,0.59 [0.41-0.85],0.0049782433717573
+PRSS53,Serine protease 53,Chapter X Diseases of the respiratory system,Nasal polyp,42389,215,1.59 [1.15-2.20],0.0048383073918681
+PRSS53,Serine protease 53,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,20548,108,0.56 [0.34-0.93],0.0246328026276083
+PRSS53,Serine protease 53,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",42648,343,1.36 [1.04-1.78],0.0240675567351872
+PRSS53,Serine protease 53,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",42648,343,1.36 [1.04-1.78],0.0240675567351872
+PRSS53,Serine protease 53,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,41993,123,1.57 [1.03-2.38],0.0352809445345425
+PRSS53,Serine protease 53,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",37302,3752,1.14 [1.05-1.24],0.0023153264078375
+PRSS53,Serine protease 53,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,34772,1222,1.17 [1.01-1.35],0.0358281208096291
+PRSS53,Serine protease 53,Chapter XI Diseases of the digestive system,Gastric ulcer,33808,258,1.36 [1.01-1.83],0.045685499672475
+PRSS53,Serine protease 53,Chapter XI Diseases of the digestive system,Inguinal hernia,37349,1044,0.84 [0.72-0.99],0.0351601559729941
+PRSS53,Serine protease 53,Chapter XI Diseases of the digestive system,Diseases of liver,43231,210,1.61 [1.17-2.22],0.0038596766239594
+PRSS53,Serine protease 53,Chapter XI Diseases of the digestive system,Intestinal malabsorption,41834,119,0.58 [0.36-0.94],0.0278096382391039
+PRSS53,Serine protease 53,Chapter XI Diseases of the digestive system,Coeliac disease,41814,99,0.58 [0.34-0.99],0.0448642355816541
+PRSS53,Serine protease 53,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",41798,83,1.99 [1.20-3.30],0.0077005939060789
+PRSS53,Serine protease 53,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,39199,2692,1.16 [1.05-1.28],0.0033822794787908
+PRSS53,Serine protease 53,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,43924,794,1.30 [1.10-1.55],0.0026995876672407
+PRSS53,Serine protease 53,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,44148,156,2.09 [1.47-2.95],3.422652554346176e-05
+PRSS53,Serine protease 53,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,44112,120,2.63 [1.83-3.77],1.6149570050133765e-07
+PRSS53,Serine protease 53,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,44085,93,2.90 [1.96-4.29],1.0384265118339964e-07
+PRSS53,Serine protease 53,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,43233,103,1.75 [1.11-2.77],0.01633272057402
+PRSS53,Serine protease 53,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,43759,629,1.28 [1.05-1.56],0.0141931858949249
+PRSS53,Serine protease 53,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,32173,6934,1.08 [1.01-1.16],0.028921989138152
+PRSS53,Serine protease 53,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,34977,4032,1.09 [1.00-1.19],0.0469612076348885
+PRSS53,Serine protease 53,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,31212,267,1.39 [1.03-1.88],0.031823032469763
+PRSS53,Serine protease 53,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",43908,256,1.40 [1.04-1.90],0.0284649397911174
+PRSS53,Serine protease 53,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,43924,232,1.42 [1.04-1.95],0.0279947668281054
+PRSS53,Serine protease 53,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,31066,121,1.71 [1.11-2.64],0.0155751288445925
+PRSS53,Serine protease 53,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",43678,117,1.66 [1.09-2.54],0.0186423512898804
+PRSS53,Serine protease 53,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,33198,2253,1.14 [1.02-1.27],0.0185923747561684
+PRSS53,Serine protease 53,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,43503,97,1.65 [1.03-2.63],0.036252921907641
+PRSS53,Serine protease 53,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",38916,785,1.24 [1.04-1.48],0.0154760363190685
+PRSS53,Serine protease 53,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,38429,298,1.52 [1.15-2.00],0.0029329199475595
+PRSS53,Serine protease 53,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,17678,1083,0.82 [0.70-0.95],0.0105086516391272
+PRSS53,Serine protease 53,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,40561,83,1.95 [1.22-3.12],0.0052160566639127
+PRSS53,Serine protease 53,Chapter XIV Diseases of the genitourinary system,Unspecified/other endometriosis,18086,88,0.57 [0.33-1.00],0.0489910125196185
+PRSS53,Serine protease 53,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,18795,797,1.24 [1.03-1.49],0.022021995465103
+PRSS53,Serine protease 53,Chapter XIV Diseases of the genitourinary system,Female infertility,18086,88,0.54 [0.31-0.94],0.0286305037723279
+PRSS53,Serine protease 53,Chapter XIV Diseases of the genitourinary system,"Female infertility, cervigal, vaginal, other or unspecified origin",18079,81,0.56 [0.32-0.99],0.0472565836042554
+PRSS53,Serine protease 53,"Chapter XV Pregnancy, childbirth and the puerperium",Complications of labour and delivery,24148,1014,0.82 [0.69-0.98],0.0331799893197917
+PRSS53,Serine protease 53,"Chapter XV Pregnancy, childbirth and the puerperium",Other maternal disorders predominantly related to pregnancy,24157,365,0.70 [0.54-0.91],0.0088408799159058
+PRSS53,Serine protease 53,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for other conditions predominantly related to pregnancy,23995,203,0.64 [0.45-0.91],0.0127496512905087
+PRSS53,Serine protease 53,"Chapter XV Pregnancy, childbirth and the puerperium","Other obstetric conditions, not elsewhere classified",24157,216,0.67 [0.48-0.95],0.0239670246437106
+PRSS53,Serine protease 53,"Chapter XV Pregnancy, childbirth and the puerperium","Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",24147,206,0.64 [0.45-0.91],0.0135947016962753

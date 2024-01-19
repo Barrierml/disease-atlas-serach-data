@@ -1,0 +1,84 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+S100A14,Protein S100-A14,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,38153,369,1.25 [1.04-1.49],0.0147747910625053
+S100A14,Protein S100-A14,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,39548,148,1.40 [1.08-1.82],0.0117826260742946
+S100A14,Protein S100-A14,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,42938,206,1.47 [1.19-1.83],0.0004397929085448
+S100A14,Protein S100-A14,Chapter II Neoplasms,"Malignant neoplasm of breast, excluding all cancers (controls excluding all cancers)",20190,584,1.18 [1.03-1.36],0.0210635893694472
+S100A14,Protein S100-A14,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,44603,196,0.75 [0.57-0.99],0.0456842818079777
+S100A14,Protein S100-A14,Chapter II Neoplasms,Melanocytic naevi of other and unspecified parts of face,44624,152,0.72 [0.52-0.99],0.0428892201429823
+S100A14,Protein S100-A14,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),38702,768,1.14 [1.00-1.29],0.0498093530160926
+S100A14,Protein S100-A14,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,43725,121,1.65 [1.26-2.15],0.0002279539384059
+S100A14,Protein S100-A14,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,41372,927,0.33 [0.28-0.38],3.697682103306152e-45
+S100A14,Protein S100-A14,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,41346,901,0.33 [0.28-0.38],7.453170765925829e-44
+S100A14,Protein S100-A14,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",37147,408,1.20 [1.00-1.44],0.047584291839777
+S100A14,Protein S100-A14,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",43985,299,1.23 [1.01-1.50],0.0413585589191965
+S100A14,Protein S100-A14,Chapter VI Diseases of the nervous system,Epilepsy,41824,257,0.75 [0.59-0.96],0.0245395317046953
+S100A14,Protein S100-A14,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",41714,212,1.28 [1.02-1.62],0.032047248621032
+S100A14,Protein S100-A14,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,44101,70,0.61 [0.38-0.99],0.0467233934720783
+S100A14,Protein S100-A14,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",40388,70,0.53 [0.32-0.87],0.0129548325800757
+S100A14,Protein S100-A14,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,31572,5569,1.10 [1.03-1.16],0.0023629804560128
+S100A14,Protein S100-A14,Chapter IX Diseases of the circulatory system,"Hypertension, essential",33297,3831,1.12 [1.05-1.20],0.0008691697484485
+S100A14,Protein S100-A14,Chapter IX Diseases of the circulatory system,Hypertension,33339,3873,1.12 [1.05-1.20],0.0006220272940984
+S100A14,Protein S100-A14,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,29563,97,1.67 [1.27-2.20],0.0002576875307577
+S100A14,Protein S100-A14,Chapter IX Diseases of the circulatory system,Venous thromboembolism,43440,399,1.22 [1.03-1.45],0.0196545070054337
+S100A14,Protein S100-A14,Chapter IX Diseases of the circulatory system,Secondary right heart disease,43207,171,1.29 [1.01-1.66],0.0439413979267993
+S100A14,Protein S100-A14,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",29630,164,1.36 [1.06-1.74],0.0157404747434905
+S100A14,Protein S100-A14,Chapter IX Diseases of the circulatory system,Cardiomyopathy,37159,104,2.00 [1.59-2.52],2.8811126164336702e-09
+S100A14,Protein S100-A14,Chapter IX Diseases of the circulatory system,"Heart failure, strict",42861,363,1.26 [1.05-1.50],0.0116381552141751
+S100A14,Protein S100-A14,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),42138,245,1.26 [1.02-1.56],0.0308841625394899
+S100A14,Protein S100-A14,Chapter IX Diseases of the circulatory system,DVT of lower extremities,42099,206,1.27 [1.00-1.59],0.0461047586031859
+S100A14,Protein S100-A14,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",44295,198,1.29 [1.02-1.63],0.0359135136579533
+S100A14,Protein S100-A14,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,35677,3601,1.11 [1.04-1.18],0.0011590984011644
+S100A14,Protein S100-A14,Chapter X Diseases of the respiratory system,Influenza and pneumonia,41495,398,1.41 [1.20-1.65],2.1317608491479744e-05
+S100A14,Protein S100-A14,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",41444,347,1.41 [1.19-1.68],5.713153443177483e-05
+S100A14,Protein S100-A14,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,43060,443,1.19 [1.01-1.40],0.0364823668969358
+S100A14,Protein S100-A14,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,43054,437,1.19 [1.01-1.40],0.0404480754540468
+S100A14,Protein S100-A14,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,39868,1762,1.10 [1.01-1.20],0.0256865354079121
+S100A14,Protein S100-A14,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",41623,1449,1.13 [1.03-1.24],0.0100547823941513
+S100A14,Protein S100-A14,Chapter X Diseases of the respiratory system,Asthma,31910,1449,1.12 [1.02-1.24],0.0175185751936396
+S100A14,Protein S100-A14,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",31453,1449,1.13 [1.02-1.24],0.0141840260075036
+S100A14,Protein S100-A14,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",31888,1427,1.12 [1.02-1.24],0.0189642997249717
+S100A14,Protein S100-A14,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,30448,10077,1.07 [1.02-1.11],0.0053069067614522
+S100A14,Protein S100-A14,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,33943,369,0.79 [0.65-0.97],0.0251272868515789
+S100A14,Protein S100-A14,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,44379,280,0.71 [0.56-0.91],0.0055587667748578
+S100A14,Protein S100-A14,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,42993,1325,1.11 [1.01-1.23],0.0303620971021388
+S100A14,Protein S100-A14,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",44559,143,0.69 [0.50-0.96],0.029804131956478
+S100A14,Protein S100-A14,Chapter XI Diseases of the digestive system,Crohn disease,41811,143,0.70 [0.50-0.97],0.0337163292644751
+S100A14,Protein S100-A14,Chapter XI Diseases of the digestive system,Crohn's disease NAS,41778,110,0.68 [0.46-0.99],0.0457527868732653
+S100A14,Protein S100-A14,Chapter XI Diseases of the digestive system,"Ulcerative colitis (strict definition, require KELA, min 2 HDR)",44435,235,0.61 [0.47-0.79],0.0002188837594507
+S100A14,Protein S100-A14,Chapter XI Diseases of the digestive system,Ulcerative colitis,41903,235,0.61 [0.47-0.80],0.0002681447700104
+S100A14,Protein S100-A14,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",41877,209,0.62 [0.47-0.82],0.0008953018341792
+S100A14,Protein S100-A14,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,42749,1081,1.20 [1.08-1.34],0.0005938525110768
+S100A14,Protein S100-A14,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,42737,1069,1.19 [1.07-1.33],0.0012253973285902
+S100A14,Protein S100-A14,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,31841,257,0.77 [0.60-0.99],0.0383068623412077
+S100A14,Protein S100-A14,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",42271,1057,1.38 [1.25-1.53],5.913342157144365e-10
+S100A14,Protein S100-A14,Chapter XI Diseases of the digestive system,Cholelithiasis,42063,849,1.37 [1.22-1.53],4.5113124369686446e-08
+S100A14,Protein S100-A14,Chapter XI Diseases of the digestive system,Cholecystitis,41383,169,1.57 [1.25-1.98],0.0001171781656839
+S100A14,Protein S100-A14,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,41295,81,1.45 [1.02-2.06],0.0366133833375088
+S100A14,Protein S100-A14,Chapter XI Diseases of the digestive system,Diseases of the digestive system,42286,534,1.35 [1.17-1.55],3.996168592591144e-05
+S100A14,Protein S100-A14,Chapter XI Diseases of the digestive system,Intestinal malabsorption,41871,119,2.15 [1.72-2.69],2.0094098802405664e-11
+S100A14,Protein S100-A14,Chapter XI Diseases of the digestive system,Coeliac disease,41851,99,2.05 [1.59-2.65],3.9739971074240536e-08
+S100A14,Protein S100-A14,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",41836,84,1.47 [1.05-2.06],0.0241306083536457
+S100A14,Protein S100-A14,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,32942,1974,1.14 [1.05-1.24],0.0021165038123642
+S100A14,Protein S100-A14,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",37427,1974,1.13 [1.04-1.23],0.0033954122047911
+S100A14,Protein S100-A14,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,31091,123,1.55 [1.19-2.01],0.0010341442310881
+S100A14,Protein S100-A14,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",43707,119,1.48 [1.13-1.94],0.0043900735036513
+S100A14,Protein S100-A14,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,31622,654,1.23 [1.08-1.40],0.0021416529825044
+S100A14,Protein S100-A14,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,34587,487,1.17 [1.00-1.38],0.046231129747411
+S100A14,Protein S100-A14,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,39072,522,1.20 [1.03-1.39],0.0180275995492299
+S100A14,Protein S100-A14,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,38880,330,1.21 [1.00-1.45],0.0474650335958983
+S100A14,Protein S100-A14,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,38700,150,1.37 [1.06-1.77],0.0157560179581054
+S100A14,Protein S100-A14,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,39090,540,1.17 [1.01-1.36],0.035443604395899
+S100A14,Protein S100-A14,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",38936,785,1.16 [1.02-1.31],0.0228810084202219
+S100A14,Protein S100-A14,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,17684,1086,1.13 [1.01-1.27],0.028665278623675
+S100A14,Protein S100-A14,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,40362,379,1.48 [1.26-1.73],1.2105897496732833e-06
+S100A14,Protein S100-A14,Chapter XIV Diseases of the genitourinary system,Acute renal failure,40594,80,1.58 [1.16-2.16],0.0038919892567854
+S100A14,Protein S100-A14,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,40600,86,2.14 [1.69-2.70],2.160190267025848e-10
+S100A14,Protein S100-A14,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,40614,100,1.54 [1.15-2.07],0.003660667478999
+S100A14,Protein S100-A14,Chapter XIV Diseases of the genitourinary system,Unspecified lump in breast,23619,146,1.37 [1.05-1.79],0.0189637947934483
+S100A14,Protein S100-A14,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",18391,385,1.21 [1.02-1.44],0.0322632037143823
+S100A14,Protein S100-A14,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,18132,126,1.41 [1.06-1.88],0.0191089767491726
+S100A14,Protein S100-A14,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,18805,799,1.17 [1.03-1.32],0.0138903231464627
+S100A14,Protein S100-A14,"Chapter XV Pregnancy, childbirth and the puerperium",Complications of labour and delivery,24165,1014,0.82 [0.71-0.95],0.0072291292656795
+S100A14,Protein S100-A14,"Chapter XV Pregnancy, childbirth and the puerperium",Perineal laceration during delivery,23712,561,0.72 [0.59-0.87],0.0006763249704082
+S100A14,Protein S100-A14,"Chapter XV Pregnancy, childbirth and the puerperium",Delivery,24186,291,0.66 [0.51-0.84],0.0010433427982585
+S100A14,Protein S100-A14,"Chapter XV Pregnancy, childbirth and the puerperium",Single spontaneous delivery,24120,225,0.66 [0.49-0.87],0.0038335375258526

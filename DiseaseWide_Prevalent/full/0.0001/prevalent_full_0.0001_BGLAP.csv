@@ -1,0 +1,65 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+BGLAP,Osteocalcin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,38217,368,1.36 [1.21-1.52],1.7861032814826878e-07
+BGLAP,Osteocalcin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,29274,1318,1.17 [1.10-1.24],1.1338276630367243e-06
+BGLAP,Osteocalcin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,39618,149,1.55 [1.29-1.86],2.120744307913234e-06
+BGLAP,Osteocalcin,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,43016,206,1.51 [1.30-1.76],5.875306511108745e-08
+BGLAP,Osteocalcin,Chapter I Certain infectious and parasitic diseases,Other septicaemia,42942,132,1.51 [1.26-1.83],1.399454006526728e-05
+BGLAP,Osteocalcin,Chapter I Certain infectious and parasitic diseases,Mycoses,43939,96,1.59 [1.28-1.97],2.4010021164726864e-05
+BGLAP,Osteocalcin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,39862,1342,1.23 [1.16-1.31],1.944815626600565e-12
+BGLAP,Osteocalcin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,42575,332,1.31 [1.17-1.48],4.039521353469979e-06
+BGLAP,Osteocalcin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,42019,584,1.29 [1.18-1.41],1.386627275634933e-08
+BGLAP,Osteocalcin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,42019,584,1.29 [1.18-1.41],1.386627275634933e-08
+BGLAP,Osteocalcin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),38767,765,1.30 [1.20-1.40],2.506641654223169e-10
+BGLAP,Osteocalcin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,41435,926,0.75 [0.70-0.81],3.5459518240365096e-16
+BGLAP,Osteocalcin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,41410,901,0.75 [0.70-0.80],3.846897446252491e-16
+BGLAP,Osteocalcin,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,31634,5592,1.13 [1.09-1.17],1.34034640465648e-11
+BGLAP,Osteocalcin,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,43678,123,2.66 [2.20-3.22],2.923389058440797e-24
+BGLAP,Osteocalcin,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,29611,93,1.92 [1.53-2.42],2.5425425872963853e-08
+BGLAP,Osteocalcin,Chapter IX Diseases of the circulatory system,Pulmonary embolism,43308,194,2.08 [1.78-2.44],1.121935943106213e-19
+BGLAP,Osteocalcin,Chapter IX Diseases of the circulatory system,Venous thromboembolism,43523,406,1.98 [1.78-2.21],1.3749938297799747e-34
+BGLAP,Osteocalcin,Chapter IX Diseases of the circulatory system,Secondary right heart disease,43288,174,2.17 [1.84-2.56],4.9850685705741885e-20
+BGLAP,Osteocalcin,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,43290,176,2.20 [1.86-2.59],5.944743375898177e-21
+BGLAP,Osteocalcin,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",29685,167,2.24 [1.88-2.66],2.326409006850111e-19
+BGLAP,Osteocalcin,Chapter IX Diseases of the circulatory system,Cardiomyopathy,37215,103,2.23 [1.78-2.81],5.856580190978295e-12
+BGLAP,Osteocalcin,Chapter IX Diseases of the circulatory system,Conduction disorders,37320,208,1.75 [1.49-2.05],7.026110934182648e-12
+BGLAP,Osteocalcin,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,24748,202,1.43 [1.21-1.69],3.0006561874182445e-05
+BGLAP,Osteocalcin,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,25305,759,2.46 [2.24-2.70],9.232807078801575e-81
+BGLAP,Osteocalcin,Chapter IX Diseases of the circulatory system,Other arrhythmias,37230,118,1.59 [1.29-1.96],1.5690676986601635e-05
+BGLAP,Osteocalcin,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,37278,166,1.74 [1.45-2.08],1.1390284686985504e-09
+BGLAP,Osteocalcin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",42929,356,2.15 [1.91-2.42],3.236924231523777e-36
+BGLAP,Osteocalcin,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",43212,265,1.36 [1.19-1.56],4.625151500672606e-06
+BGLAP,Osteocalcin,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",43271,223,1.54 [1.33-1.78],6.1884860378080625e-09
+BGLAP,Osteocalcin,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",43404,194,1.61 [1.38-1.88],1.998823950767595e-09
+BGLAP,Osteocalcin,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),42222,249,2.03 [1.77-2.33],1.2702499891518897e-23
+BGLAP,Osteocalcin,Chapter IX Diseases of the circulatory system,DVT of lower extremities,42183,210,2.25 [1.94-2.62],1.877877814443084e-26
+BGLAP,Osteocalcin,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",44378,202,2.21 [1.90-2.57],9.867087034124586e-25
+BGLAP,Osteocalcin,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,35735,3614,1.10 [1.06-1.14],1.32877439691337e-06
+BGLAP,Osteocalcin,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,30490,10100,1.08 [1.05-1.10],8.649811049777667e-08
+BGLAP,Osteocalcin,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",37384,3756,1.09 [1.05-1.13],4.799285659214823e-06
+BGLAP,Osteocalcin,Chapter XI Diseases of the digestive system,Oesophagitis,34214,586,1.24 [1.13-1.36],3.7159004726918047e-06
+BGLAP,Osteocalcin,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,34852,1224,1.15 [1.08-1.23],8.353083542683713e-06
+BGLAP,Osteocalcin,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,33992,364,1.29 [1.15-1.45],1.4169159808954584e-05
+BGLAP,Osteocalcin,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,37901,1501,1.15 [1.09-1.22],1.5038724669323194e-06
+BGLAP,Osteocalcin,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,43057,1324,1.19 [1.12-1.26],1.0211909220497337e-08
+BGLAP,Osteocalcin,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,42812,1079,1.17 [1.10-1.25],2.170010128580338e-06
+BGLAP,Osteocalcin,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,42800,1067,1.19 [1.11-1.27],2.9471144939001774e-07
+BGLAP,Osteocalcin,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",42351,1065,1.14 [1.07-1.22],8.848304301633828e-05
+BGLAP,Osteocalcin,Chapter XI Diseases of the digestive system,Intestinal malabsorption,41935,119,0.67 [0.56-0.81],2.3407097264627628e-05
+BGLAP,Osteocalcin,Chapter XI Diseases of the digestive system,Coeliac disease,41915,99,0.65 [0.53-0.79],2.796825156133861e-05
+BGLAP,Osteocalcin,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",41901,85,1.69 [1.33-2.16],1.998966381801043e-05
+BGLAP,Osteocalcin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,32253,6945,1.07 [1.04-1.10],5.641443834261479e-06
+BGLAP,Osteocalcin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,35069,4037,1.12 [1.08-1.17],3.5671319885295964e-10
+BGLAP,Osteocalcin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,31829,797,1.20 [1.11-1.30],2.9023581429026063e-06
+BGLAP,Osteocalcin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,33023,1991,1.18 [1.12-1.24],9.572193722021248e-10
+BGLAP,Osteocalcin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",37501,1991,1.16 [1.10-1.22],8.896921877177688e-09
+BGLAP,Osteocalcin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,31151,119,2.19 [1.78-2.69],5.886643341692823e-14
+BGLAP,Osteocalcin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",43781,115,2.21 [1.80-2.71],2.1885161005648704e-14
+BGLAP,Osteocalcin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,31945,913,1.17 [1.09-1.26],3.2647310596973645e-05
+BGLAP,Osteocalcin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,31701,669,1.28 [1.17-1.39],3.506385536978199e-08
+BGLAP,Osteocalcin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,33284,2252,1.11 [1.05-1.16],3.148000662793728e-05
+BGLAP,Osteocalcin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,34643,490,1.27 [1.15-1.40],1.8733750743479007e-06
+BGLAP,Osteocalcin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,40246,1634,1.12 [1.06-1.19],2.6298815979096013e-05
+BGLAP,Osteocalcin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,41457,304,0.77 [0.69-0.87],1.074609906449396e-05
+BGLAP,Osteocalcin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,40406,372,1.49 [1.33-1.67],4.640102392787924e-12
+BGLAP,Osteocalcin,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,40643,75,2.91 [2.27-3.72],2.713811542226137e-17
+BGLAP,Osteocalcin,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,40666,98,2.64 [2.11-3.29],6.638415390507241e-18

@@ -1,0 +1,88 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+LEPR,Leptin receptor,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,25556,896,1.27 [1.05-1.52],0.011443130000055
+LEPR,Leptin receptor,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,25597,143,1.64 [1.09-2.48],0.0176814014357471
+LEPR,Leptin receptor,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,20323,501,1.47 [1.17-1.85],0.0011190550482668
+LEPR,Leptin receptor,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,26397,80,2.32 [1.44-3.71],0.0004866148086285
+LEPR,Leptin receptor,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,27627,106,1.78 [1.13-2.80],0.0127624717221791
+LEPR,Leptin receptor,Chapter I Certain infectious and parasitic diseases,Other septicaemia,27590,69,2.21 [1.35-3.63],0.0016292784090591
+LEPR,Leptin receptor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,26055,820,1.62 [1.35-1.94],2.227260885899305e-07
+LEPR,Leptin receptor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,27180,353,1.83 [1.42-2.37],3.675347069841122e-06
+LEPR,Leptin receptor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,27180,353,1.83 [1.42-2.37],3.675347069841122e-06
+LEPR,Leptin receptor,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),25965,365,1.35 [1.02-1.77],0.0329414496767714
+LEPR,Leptin receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,27000,442,1.51 [1.17-1.94],0.0013524584682155
+LEPR,Leptin receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,26490,114,5.63 [4.13-7.67],6.6778207633211125e-28
+LEPR,Leptin receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,26477,101,5.49 [3.99-7.56],1.5980257422155238e-25
+LEPR,Leptin receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,26715,339,1.74 [1.33-2.27],5.291264777861406e-05
+LEPR,Leptin receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,26706,330,1.73 [1.32-2.27],6.837450550507924e-05
+LEPR,Leptin receptor,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",24207,79,1.94 [1.18-3.20],0.0092025423732002
+LEPR,Leptin receptor,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",24107,295,1.63 [1.24-2.15],0.0005638910768738
+LEPR,Leptin receptor,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",27885,225,1.96 [1.46-2.64],8.321315833143105e-06
+LEPR,Leptin receptor,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",27958,163,1.85 [1.32-2.60],0.0003645531088629
+LEPR,Leptin receptor,Chapter V Mental and behavioural disorders,Acute alcohol intoxication,26326,80,2.13 [1.39-3.27],0.0005454706801049
+LEPR,Leptin receptor,Chapter V Mental and behavioural disorders,"Acute alcohol intoxication, ICD10",28212,80,2.23 [1.44-3.44],0.0002974837207317
+LEPR,Leptin receptor,Chapter V Mental and behavioural disorders,"Alcohol abuse, main dg, excluding more controls",23892,80,2.10 [1.37-3.21],0.0006634381610178
+LEPR,Leptin receptor,Chapter V Mental and behavioural disorders,Alcohol dependence,26343,97,1.94 [1.30-2.91],0.0012881058180083
+LEPR,Leptin receptor,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,26899,337,1.51 [1.14-1.98],0.0034386615655256
+LEPR,Leptin receptor,Chapter VI Diseases of the nervous system,Other neurological diseases,27895,126,0.59 [0.34-1.00],0.0484300740817583
+LEPR,Leptin receptor,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,27709,132,1.60 [1.03-2.49],0.0355849617065159
+LEPR,Leptin receptor,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,28075,24,3.60 [2.10-6.16],3.247790361847296e-06
+LEPR,Leptin receptor,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,1778,24,4.21 [1.91-9.27],0.0003634331877125
+LEPR,Leptin receptor,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",26321,24,3.50 [2.04-5.98],4.901095080796057e-06
+LEPR,Leptin receptor,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",26796,577,0.77 [0.60-0.98],0.0344891297218776
+LEPR,Leptin receptor,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,27602,141,0.59 [0.36-0.96],0.034453479031791
+LEPR,Leptin receptor,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,27728,267,0.59 [0.41-0.85],0.0049490538622946
+LEPR,Leptin receptor,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",28218,60,0.39 [0.18-0.85],0.0179139194147852
+LEPR,Leptin receptor,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",26384,165,0.57 [0.36-0.91],0.0191365966866884
+LEPR,Leptin receptor,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,26638,430,0.65 [0.49-0.87],0.0034442866207677
+LEPR,Leptin receptor,Chapter IX Diseases of the circulatory system,Pulmonary embolism,27815,83,1.98 [1.20-3.25],0.007188918189289
+LEPR,Leptin receptor,Chapter IX Diseases of the circulatory system,Secondary right heart disease,27796,64,1.92 [1.09-3.40],0.0243783056632758
+LEPR,Leptin receptor,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,27797,65,1.95 [1.11-3.41],0.0198408493857108
+LEPR,Leptin receptor,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",21983,61,1.90 [1.03-3.51],0.0385907987130662
+LEPR,Leptin receptor,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,19452,193,2.03 [1.43-2.87],6.335912204561869e-05
+LEPR,Leptin receptor,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",27819,85,0.47 [0.24-0.90],0.0224625341216209
+LEPR,Leptin receptor,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",27868,75,0.40 [0.20-0.81],0.010866385430642
+LEPR,Leptin receptor,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",27087,160,1.51 [1.02-2.25],0.0404478373031023
+LEPR,Leptin receptor,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,27432,670,0.64 [0.51-0.81],0.0001477184885238
+LEPR,Leptin receptor,Chapter X Diseases of the respiratory system,Nasal polyp,26872,110,0.49 [0.27-0.87],0.0144475241067033
+LEPR,Leptin receptor,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",27196,434,0.71 [0.53-0.94],0.0168364377911584
+LEPR,Leptin receptor,Chapter XI Diseases of the digestive system,Oesophagitis,22830,270,0.69 [0.48-1.00],0.0471578479115015
+LEPR,Leptin receptor,Chapter XI Diseases of the digestive system,Gastric ulcer,22661,101,1.58 [1.01-2.49],0.0471248188826037
+LEPR,Leptin receptor,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,27427,754,1.26 [1.03-1.53],0.022623724116684
+LEPR,Leptin receptor,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",28247,102,1.72 [1.07-2.77],0.0244961004669195
+LEPR,Leptin receptor,Chapter XI Diseases of the digestive system,Crohn disease,26775,102,1.73 [1.08-2.78],0.0228500796494576
+LEPR,Leptin receptor,Chapter XI Diseases of the digestive system,Crohn's disease NAS,26750,77,2.16 [1.35-3.47],0.0014161674286954
+LEPR,Leptin receptor,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,27274,601,1.27 [1.02-1.58],0.0344155324828906
+LEPR,Leptin receptor,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,27269,596,1.25 [1.00-1.56],0.0491397688352904
+LEPR,Leptin receptor,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,21813,179,1.62 [1.10-2.39],0.0144339141642554
+LEPR,Leptin receptor,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,21720,86,1.91 [1.19-3.06],0.0073963988387661
+LEPR,Leptin receptor,Chapter XI Diseases of the digestive system,Diseases of liver,27573,121,2.21 [1.50-3.25],5.296827633274624e-05
+LEPR,Leptin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,21916,3543,1.18 [1.06-1.31],0.0020732125684512
+LEPR,Leptin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,23555,1873,1.18 [1.03-1.35],0.0141483267106435
+LEPR,Leptin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,25864,1114,1.37 [1.16-1.61],0.0001628273166609
+LEPR,Leptin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,22346,664,1.33 [1.07-1.65],0.0102302745504694
+LEPR,Leptin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",24974,664,1.30 [1.05-1.61],0.0155470578320021
+LEPR,Leptin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,21806,124,1.68 [1.07-2.65],0.0256278773322081
+LEPR,Leptin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,22013,331,1.38 [1.02-1.86],0.036604632913405
+LEPR,Leptin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,25037,287,1.49 [1.10-2.01],0.009701753745431
+LEPR,Leptin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,24804,54,2.28 [1.35-3.85],0.0020858738318832
+LEPR,Leptin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",25183,433,1.45 [1.13-1.85],0.0033435713347129
+LEPR,Leptin receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,24974,224,1.52 [1.09-2.12],0.0130927185874302
+LEPR,Leptin receptor,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,23957,4439,1.13 [1.03-1.25],0.0083932912965903
+LEPR,Leptin receptor,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,26776,215,1.64 [1.18-2.28],0.0032074194761528
+LEPR,Leptin receptor,Chapter XIV Diseases of the genitourinary system,Acute renal failure,26928,46,1.93 [1.05-3.55],0.0352270225329198
+LEPR,Leptin receptor,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,26932,50,2.12 [1.23-3.65],0.0068892707967083
+LEPR,Leptin receptor,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,26937,55,1.88 [1.04-3.39],0.0364414615538508
+LEPR,Leptin receptor,Chapter XIV Diseases of the genitourinary system,Unspecified lump in breast,15313,91,1.94 [1.21-3.13],0.0060217353368152
+LEPR,Leptin receptor,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,15438,399,1.32 [1.01-1.72],0.0452893920639641
+LEPR,Leptin receptor,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,14229,2791,0.83 [0.74-0.94],0.003590119187533
+LEPR,Leptin receptor,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,11748,310,0.60 [0.42-0.85],0.0041234422636114
+LEPR,Leptin receptor,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",11657,219,0.64 [0.42-0.97],0.0362264238479806
+LEPR,Leptin receptor,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,11510,72,0.47 [0.22-0.97],0.040690626844518
+LEPR,Leptin receptor,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,11497,59,0.41 [0.18-0.92],0.0312773080573742
+LEPR,Leptin receptor,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,11795,357,0.71 [0.51-0.98],0.0364049815057008
+LEPR,Leptin receptor,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care related to the fetus and amniotic cavity and possible delivery problems,15651,877,0.80 [0.64-1.00],0.0486063705486668
+LEPR,Leptin receptor,"Chapter XV Pregnancy, childbirth and the puerperium",Complications of labour and delivery,15656,1203,0.76 [0.62-0.92],0.0055104252029536
+LEPR,Leptin receptor,"Chapter XV Pregnancy, childbirth and the puerperium",Prolonged pregnancy,14923,149,0.49 [0.29-0.83],0.0072844484718305
+LEPR,Leptin receptor,"Chapter XV Pregnancy, childbirth and the puerperium",Labour and delivery complicated by fetal stress [distress],14887,434,0.63 [0.46-0.86],0.003221522452917
+LEPR,Leptin receptor,"Chapter XV Pregnancy, childbirth and the puerperium",Perineal laceration during delivery,15126,673,0.69 [0.53-0.90],0.0050634615056706
+LEPR,Leptin receptor,Chapter VI Diseases of the nervous system,Falls/tendency to fall,26663,534,1.38 [1.10-1.74],0.0056022899013791

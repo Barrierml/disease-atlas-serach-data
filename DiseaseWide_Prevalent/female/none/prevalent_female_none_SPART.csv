@@ -1,0 +1,399 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+SPART,Spartin,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,20720,854,1.00 [0.92-1.09],0.9800085321080856
+SPART,Spartin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,20670,167,0.92 [0.76-1.12],0.4287742695842079
+SPART,Spartin,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,22361,167,1.01 [0.84-1.23],0.8970737864014251
+SPART,Spartin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,15761,639,0.98 [0.89-1.09],0.7661892996709576
+SPART,Spartin,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,22303,109,0.88 [0.69-1.12],0.2933192115185308
+SPART,Spartin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,21424,74,0.94 [0.70-1.25],0.6582533383103385
+SPART,Spartin,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",23507,108,0.89 [0.70-1.14],0.3517776484213487
+SPART,Spartin,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,23500,71,0.94 [0.70-1.26],0.6683581990493783
+SPART,Spartin,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,20884,50,1.05 [0.74-1.49],0.7950953381055668
+SPART,Spartin,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,22956,104,0.94 [0.74-1.21],0.6448196351758416
+SPART,Spartin,Chapter I Certain infectious and parasitic diseases,Other septicaemia,22916,64,0.91 [0.66-1.24],0.5425253042039191
+SPART,Spartin,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,23573,68,1.13 [0.84-1.53],0.405636023113304
+SPART,Spartin,Chapter I Certain infectious and parasitic diseases,Other viral diseases,23548,83,1.08 [0.82-1.41],0.5872319509565364
+SPART,Spartin,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",23545,80,1.07 [0.82-1.41],0.6129704361943132
+SPART,Spartin,Chapter I Certain infectious and parasitic diseases,Mycoses,23255,59,0.99 [0.72-1.37],0.9475169353557256
+SPART,Spartin,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",22567,370,0.97 [0.85-1.11],0.6791702684059934
+SPART,Spartin,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,22311,114,1.04 [0.82-1.31],0.7561795146637682
+SPART,Spartin,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,22454,257,0.99 [0.84-1.15],0.8512142788901418
+SPART,Spartin,Chapter II Neoplasms,"Malignant neoplasm of colon, excluding all cancers (controls excluding all cancers)",19272,46,0.87 [0.60-1.27],0.4742213664825623
+SPART,Spartin,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",19281,55,nan [nan-nan],
+SPART,Spartin,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",19455,229,0.93 [0.78-1.10],0.3930172517327415
+SPART,Spartin,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",19462,236,0.93 [0.78-1.09],0.364211766723656
+SPART,Spartin,Chapter II Neoplasms,"Malignant neoplasm of breast, excluding all cancers (controls excluding all cancers)",19801,575,0.99 [0.89-1.10],0.8635188729024807
+SPART,Spartin,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",19271,45,0.84 [0.58-1.23],0.3781006494973689
+SPART,Spartin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,21163,873,1.10 [1.01-1.20],0.0234663846190635
+SPART,Spartin,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",22664,250,1.06 [0.90-1.24],0.4964419270792088
+SPART,Spartin,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,23271,95,0.95 [0.73-1.23],0.7081455788075921
+SPART,Spartin,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",23653,82,1.04 [0.79-1.37],0.7978738115909739
+SPART,Spartin,Chapter II Neoplasms,Benign neoplasm: Rectum,23473,54,1.42 [1.03-1.96],0.0331045189800344
+SPART,Spartin,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,23655,58,0.77 [0.54-1.08],0.1267994085251168
+SPART,Spartin,Chapter II Neoplasms,Benign neoplasm: Stomach,23697,44,0.78 [0.53-1.16],0.2225263291669038
+SPART,Spartin,Chapter II Neoplasms,Benign lipomatous neoplasm,23509,240,0.91 [0.77-1.07],0.2578359901763492
+SPART,Spartin,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,23654,98,0.83 [0.64-1.08],0.1593504454875813
+SPART,Spartin,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,23653,90,0.83 [0.63-1.08],0.1694345305548074
+SPART,Spartin,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",23590,61,0.84 [0.61-1.17],0.3094182688639456
+SPART,Spartin,Chapter II Neoplasms,"Haemangioma, any site",23592,60,0.87 [0.63-1.21],0.413537010929821
+SPART,Spartin,Chapter II Neoplasms,Melanocytic naevi,23508,231,1.15 [0.98-1.35],0.0862093319994498
+SPART,Spartin,Chapter II Neoplasms,Melanocytic naevi of other and unspecified parts of face,23657,109,1.35 [1.08-1.70],0.0090560268727185
+SPART,Spartin,Chapter II Neoplasms,Other benign neoplasms of skin,23564,195,1.17 [0.98-1.40],0.074008036553024
+SPART,Spartin,Chapter II Neoplasms,Benign neoplasm of breast,23642,120,0.93 [0.74-1.17],0.553215746190302
+SPART,Spartin,Chapter II Neoplasms,Leiomyoma of uterus,23212,870,0.98 [0.90-1.07],0.6149937325103051
+SPART,Spartin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,22525,238,1.15 [0.98-1.34],0.0925938701311964
+SPART,Spartin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,22293,375,1.13 [0.99-1.28],0.0635969835479555
+SPART,Spartin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,22293,375,1.13 [0.99-1.28],0.0635969835479555
+SPART,Spartin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),20983,338,1.01 [0.88-1.16],0.8594688170503139
+SPART,Spartin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,23187,83,0.80 [0.60-1.05],0.1123306464239555
+SPART,Spartin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,23404,83,1.04 [0.79-1.36],0.8006985242374093
+SPART,Spartin,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,19704,753,1.13 [1.03-1.24],0.0088553026438042
+SPART,Spartin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,21740,760,1.05 [0.96-1.15],0.2824917026165949
+SPART,Spartin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,22113,97,0.92 [0.71-1.19],0.5244684728177684
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Peripheral artery disease,22812,47,1.07 [0.75-1.53],0.7151021751656974
+SPART,Spartin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,22103,87,0.97 [0.74-1.27],0.8358141183016509
+SPART,Spartin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,22361,345,1.14 [0.99-1.31],0.0640060373882642
+SPART,Spartin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,22351,335,1.14 [0.99-1.31],0.0745705456183887
+SPART,Spartin,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,21938,164,0.95 [0.76-1.18],0.6385560623721951
+SPART,Spartin,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",21940,161,0.96 [0.77-1.19],0.705881045314542
+SPART,Spartin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,19539,588,1.09 [0.98-1.21],0.1304591992435292
+SPART,Spartin,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",19017,66,1.13 [0.83-1.53],0.4279493292787831
+SPART,Spartin,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,19499,548,1.08 [0.97-1.21],0.1612569001008557
+SPART,Spartin,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,18999,48,1.42 [1.01-2.01],0.0445598742706059
+SPART,Spartin,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",19009,58,1.20 [0.87-1.65],0.2647221429794421
+SPART,Spartin,Chapter V Mental and behavioural disorders,Any mental disorder,19987,515,1.02 [0.91-1.14],0.7065470865338292
+SPART,Spartin,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",19568,96,0.91 [0.69-1.18],0.4627261354688569
+SPART,Spartin,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",23481,61,0.85 [0.61-1.18],0.3196411271253856
+SPART,Spartin,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",23517,36,0.83 [0.54-1.27],0.3848704861480013
+SPART,Spartin,Chapter V Mental and behavioural disorders,Acute alcohol intoxication,22445,31,0.86 [0.54-1.36],0.5162398109882984
+SPART,Spartin,Chapter V Mental and behavioural disorders,"Acute alcohol intoxication, ICD10",23653,31,0.84 [0.53-1.33],0.4593720001330361
+SPART,Spartin,Chapter V Mental and behavioural disorders,"Alcohol abuse, main dg, excluding more controls",19503,31,0.86 [0.54-1.36],0.5232082913883611
+SPART,Spartin,Chapter V Mental and behavioural disorders,Alcohol dependence,22435,21,0.71 [0.40-1.27],0.249881416827808
+SPART,Spartin,Chapter V Mental and behavioural disorders,Smoking dependency,22355,31,0.78 [0.49-1.26],0.3130122629277116
+SPART,Spartin,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",19510,38,0.91 [0.60-1.38],0.6581490540439981
+SPART,Spartin,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",19788,316,1.03 [0.90-1.19],0.652456424088198
+SPART,Spartin,Chapter V Mental and behavioural disorders,Depression,21979,282,1.01 [0.87-1.17],0.936094939786514
+SPART,Spartin,Chapter V Mental and behavioural disorders,Depression or dysthymia,19609,244,1.07 [0.91-1.25],0.4280186543393937
+SPART,Spartin,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",19600,128,1.13 [0.91-1.41],0.2548135325518496
+SPART,Spartin,Chapter V Mental and behavioural disorders,Other anxiety disorders,22050,65,0.83 [0.60-1.14],0.2522357075525361
+SPART,Spartin,Chapter VI Diseases of the nervous system,Neurological diseases,20508,1392,1.04 [0.97-1.12],0.2294636118178055
+SPART,Spartin,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,18760,158,0.98 [0.81-1.20],0.8713097126927503
+SPART,Spartin,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,23525,129,0.98 [0.79-1.22],0.8707364741049048
+SPART,Spartin,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,22570,364,1.03 [0.91-1.18],0.6236468424428725
+SPART,Spartin,Chapter VI Diseases of the nervous system,Epilepsy,22319,113,1.09 [0.87-1.38],0.4423203223176697
+SPART,Spartin,Chapter VI Diseases of the nervous system,Migraine,22315,109,1.12 [0.89-1.42],0.3382417427380204
+SPART,Spartin,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",23317,102,1.11 [0.87-1.42],0.3835871210584097
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Transient ischemic attack,23101,50,1.11 [0.78-1.57],0.576051863164345
+SPART,Spartin,Chapter VI Diseases of the nervous system,Other sleep disorders,22294,88,0.93 [0.71-1.22],0.6193640807739436
+SPART,Spartin,Chapter VI Diseases of the nervous system,Sleep apnoea,23342,62,0.92 [0.66-1.27],0.5994912901609587
+SPART,Spartin,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",22503,721,1.01 [0.92-1.11],0.8212730013194294
+SPART,Spartin,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",21886,104,1.07 [0.84-1.36],0.5920081884515966
+SPART,Spartin,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,22236,454,1.03 [0.92-1.16],0.6240149274108797
+SPART,Spartin,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,23475,65,1.13 [0.83-1.53],0.4306844205217449
+SPART,Spartin,Chapter VI Diseases of the nervous system,Hemiplegia,23458,48,1.02 [0.71-1.46],0.9082644752079556
+SPART,Spartin,Chapter VI Diseases of the nervous system,Other neurological diseases,23279,101,0.95 [0.74-1.22],0.696312741166949
+SPART,Spartin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",23064,372,0.98 [0.86-1.12],0.797806407399211
+SPART,Spartin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,22905,213,1.04 [0.87-1.23],0.6650687205427821
+SPART,Spartin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,22755,63,0.79 [0.57-1.09],0.1517769142995197
+SPART,Spartin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,22803,111,1.06 [0.84-1.35],0.6062347174678657
+SPART,Spartin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,22785,93,1.26 [0.98-1.62],0.0691453068289781
+SPART,Spartin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,20100,145,1.01 [0.82-1.25],0.92343650419175
+SPART,Spartin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,20311,356,1.01 [0.88-1.16],0.8832256968130541
+SPART,Spartin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,22809,153,1.13 [0.93-1.38],0.229254042051864
+SPART,Spartin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,23479,28,1.13 [0.71-1.79],0.6136818829049546
+SPART,Spartin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,1530,28,1.10 [0.67-1.79],0.7121926189743011
+SPART,Spartin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",21977,28,1.14 [0.71-1.81],0.5887922615715762
+SPART,Spartin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,23093,80,1.08 [0.82-1.43],0.5666196941575021
+SPART,Spartin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,23056,43,1.19 [0.82-1.73],0.3551581144848347
+SPART,Spartin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",22970,76,0.87 [0.65-1.16],0.3336185773305984
+SPART,Spartin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,23201,88,0.93 [0.71-1.22],0.6046664121012801
+SPART,Spartin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diseases of middle ear and mastoid,23589,110,1.07 [0.85-1.36],0.561770034883972
+SPART,Spartin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of ear,23013,93,0.94 [0.73-1.22],0.6501535246129393
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,17410,2362,1.06 [1.00-1.13],0.0445931258083773
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,23219,65,0.94 [0.69-1.28],0.6922884956937452
+SPART,Spartin,Chapter IX Diseases of the circulatory system,"Hypertension, essential",18329,1734,1.09 [1.02-1.17],0.0092556368801945
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Hypertension,18344,1749,1.09 [1.02-1.17],0.0112809229242731
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,16629,34,1.13 [0.74-1.73],0.5657277041450275
+SPART,Spartin,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",22275,616,1.06 [0.95-1.17],0.2909288696007086
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Angina pectoris,22086,427,1.02 [0.90-1.16],0.7560282683408317
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,23122,123,0.87 [0.69-1.10],0.253676215467717
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,23190,191,0.96 [0.80-1.16],0.7011178296229448
+SPART,Spartin,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",23637,25,1.15 [0.70-1.88],0.5743880204960181
+SPART,Spartin,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",21740,81,1.08 [0.82-1.43],0.5629124833470642
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,22043,395,1.07 [0.94-1.22],0.2742618816974861
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Pulmonary embolism,23018,83,1.18 [0.90-1.54],0.2323898889607374
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Venous thromboembolism,23116,185,1.08 [0.90-1.30],0.4102761419113756
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Secondary right heart disease,23025,90,0.77 [0.59-1.01],0.0594894753287334
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,23025,90,0.77 [0.59-1.01],0.0594894753287334
+SPART,Spartin,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",16682,87,0.80 [0.61-1.06],0.1147448504494035
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Cardiomyopathy,20602,31,1.24 [0.80-1.92],0.3332130273997787
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Conduction disorders,20634,63,1.07 [0.78-1.46],0.671733550869162
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,14234,83,1.12 [0.85-1.46],0.4212054116577042
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,14383,232,0.89 [0.75-1.06],0.1858393374058339
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Other arrhythmias,20614,43,1.01 [0.69-1.49],0.9399049158178536
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,20620,49,0.75 [0.52-1.09],0.127723640483787
+SPART,Spartin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",22991,85,1.23 [0.94-1.61],0.1239114602592161
+SPART,Spartin,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",23025,110,0.94 [0.74-1.19],0.6011848337511325
+SPART,Spartin,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",23061,82,0.99 [0.75-1.31],0.9668890473401364
+SPART,Spartin,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",23121,70,1.01 [0.75-1.36],0.94223946737243
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,22837,60,0.94 [0.68-1.30],0.7218918806833765
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,22872,95,0.87 [0.67-1.13],0.3053058008912627
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),22316,112,1.06 [0.83-1.34],0.649748139166141
+SPART,Spartin,Chapter IX Diseases of the circulatory system,DVT of lower extremities,22293,89,1.11 [0.85-1.44],0.4536236096513443
+SPART,Spartin,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",23507,88,1.10 [0.84-1.43],0.4847465254120914
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Varicose veins,22728,524,0.92 [0.82-1.03],0.1272785316440376
+SPART,Spartin,Chapter IX Diseases of the circulatory system,Hypotension,22752,73,1.05 [0.78-1.40],0.75912849099133
+SPART,Spartin,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,19258,1822,1.08 [1.01-1.14],0.0192125317542191
+SPART,Spartin,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,23511,113,1.01 [0.80-1.27],0.9599609844001004
+SPART,Spartin,Chapter X Diseases of the respiratory system,Influenza and pneumonia,22293,179,1.02 [0.85-1.23],0.8241407313054324
+SPART,Spartin,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",22276,162,1.05 [0.86-1.27],0.6465814286822648
+SPART,Spartin,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,22900,205,1.00 [0.84-1.20],0.9740105502359738
+SPART,Spartin,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,22895,200,1.00 [0.84-1.20],0.9753465083757966
+SPART,Spartin,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,23033,484,1.10 [0.98-1.23],0.0959774785459019
+SPART,Spartin,Chapter X Diseases of the respiratory system,Chronic sinusitis,22652,103,1.16 [0.92-1.48],0.2147127736759718
+SPART,Spartin,Chapter X Diseases of the respiratory system,Nasal polyp,22620,71,1.19 [0.89-1.59],0.2431441924948469
+SPART,Spartin,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",22856,307,1.10 [0.96-1.27],0.1799662785129555
+SPART,Spartin,Chapter X Diseases of the respiratory system,Deviated nasal septum,22670,121,1.08 [0.86-1.35],0.5136760714080262
+SPART,Spartin,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,11374,56,1.17 [0.84-1.64],0.3473415659710247
+SPART,Spartin,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,21123,1004,1.06 [0.98-1.15],0.1336090040837202
+SPART,Spartin,Chapter X Diseases of the respiratory system,Early onset COPD,22795,136,1.31 [1.06-1.61],0.0130348243294102
+SPART,Spartin,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",22812,153,1.18 [0.96-1.44],0.113747544334385
+SPART,Spartin,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",22812,153,1.18 [0.96-1.44],0.113747544334385
+SPART,Spartin,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",21896,859,1.05 [0.96-1.14],0.3028659993647233
+SPART,Spartin,Chapter X Diseases of the respiratory system,Asthma,17585,859,1.06 [0.98-1.16],0.1614652343975255
+SPART,Spartin,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",17425,859,1.07 [0.98-1.16],0.1566740392267622
+SPART,Spartin,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",17573,847,1.06 [0.97-1.15],0.2170550174216799
+SPART,Spartin,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,23412,79,0.99 [0.75-1.31],0.9429571359368178
+SPART,Spartin,Chapter X Diseases of the respiratory system,Interstitial lung disease,22116,61,0.99 [0.72-1.36],0.9505929417134296
+SPART,Spartin,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",23474,61,0.99 [0.72-1.37],0.9620306419432776
+SPART,Spartin,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,22109,54,0.94 [0.67-1.33],0.7285293199340146
+SPART,Spartin,Chapter X Diseases of the respiratory system,Pleural effusion,22106,74,0.95 [0.71-1.27],0.728222923045069
+SPART,Spartin,Chapter X Diseases of the respiratory system,Other diseases of pleura,22199,167,1.02 [0.84-1.24],0.8421307479073832
+SPART,Spartin,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,22684,79,0.98 [0.74-1.30],0.8888091495939214
+SPART,Spartin,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,16466,5178,1.02 [0.98-1.07],0.3611861581684442
+SPART,Spartin,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",23203,406,1.07 [0.95-1.21],0.2779299003558291
+SPART,Spartin,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,23657,85,0.98 [0.75-1.29],0.9030138551497392
+SPART,Spartin,Chapter XI Diseases of the digestive system,Impacted teeth,23662,77,1.03 [0.78-1.36],0.8476724895967429
+SPART,Spartin,Chapter XI Diseases of the digestive system,Dental caries,22891,94,1.05 [0.81-1.36],0.7147511743594199
+SPART,Spartin,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,22902,105,1.17 [0.93-1.49],0.1865410314811108
+SPART,Spartin,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,23648,94,1.03 [0.80-1.33],0.8272013304959904
+SPART,Spartin,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,22892,95,1.16 [0.90-1.49],0.2431089472062455
+SPART,Spartin,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,22640,66,0.66 [0.48-0.91],0.0123091093865573
+SPART,Spartin,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,23578,43,0.64 [0.43-0.95],0.0278259707705517
+SPART,Spartin,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,17925,192,0.89 [0.74-1.07],0.210396509332956
+SPART,Spartin,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",19727,1994,1.01 [0.95-1.07],0.761488372845885
+SPART,Spartin,Chapter XI Diseases of the digestive system,Oesophagitis,17983,250,1.29 [1.11-1.51],0.0011479023211488
+SPART,Spartin,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,18381,648,1.02 [0.93-1.13],0.6307638442562816
+SPART,Spartin,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,17800,67,1.11 [0.82-1.49],0.5103349828480407
+SPART,Spartin,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,17850,117,1.17 [0.93-1.47],0.17997270127965
+SPART,Spartin,Chapter XI Diseases of the digestive system,Oesophageal obstruction,17767,34,1.08 [0.71-1.66],0.7181606696656098
+SPART,Spartin,Chapter XI Diseases of the digestive system,Gastric ulcer,17861,128,0.87 [0.69-1.09],0.2212985107849446
+SPART,Spartin,Chapter XI Diseases of the digestive system,Duodenal ulcer,17798,65,0.95 [0.69-1.30],0.7489506373851598
+SPART,Spartin,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",23616,51,0.81 [0.57-1.17],0.2631366012773662
+SPART,Spartin,Chapter XI Diseases of the digestive system,Chronic gastritis,17847,114,0.92 [0.73-1.17],0.5096010031760172
+SPART,Spartin,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),18456,723,0.99 [0.90-1.09],0.7766214119463116
+SPART,Spartin,Chapter XI Diseases of the digestive system,Diseases of appendix,23555,133,1.12 [0.91-1.39],0.2825776702251247
+SPART,Spartin,Chapter XI Diseases of the digestive system,Functional dyspepsia,18229,496,1.00 [0.89-1.11],0.9311667899198216
+SPART,Spartin,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,17883,150,1.02 [0.83-1.25],0.8516351689771177
+SPART,Spartin,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,23575,125,0.95 [0.76-1.19],0.6598271417812154
+SPART,Spartin,Chapter XI Diseases of the digestive system,Acute appendicitis,23532,110,1.01 [0.80-1.28],0.9059713614443332
+SPART,Spartin,Chapter XI Diseases of the digestive system,Hernia,21224,1047,1.03 [0.95-1.12],0.4323207703548082
+SPART,Spartin,Chapter XI Diseases of the digestive system,Inguinal hernia,20235,58,0.89 [0.64-1.24],0.4944470299921782
+SPART,Spartin,Chapter XI Diseases of the digestive system,Umbilical hernia,20244,67,1.22 [0.90-1.65],0.2048732850077991
+SPART,Spartin,Chapter XI Diseases of the digestive system,Ventral hernia,20266,89,0.99 [0.76-1.30],0.955877522475358
+SPART,Spartin,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,21014,837,1.06 [0.97-1.16],0.2151115285350056
+SPART,Spartin,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,22760,795,1.06 [0.97-1.16],0.2175075183693559
+SPART,Spartin,Chapter XI Diseases of the digestive system,Other diseases of intestines,18800,1885,1.02 [0.96-1.08],0.5613435369756896
+SPART,Spartin,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",23399,54,nan [nan-nan],
+SPART,Spartin,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",23637,77,1.11 [0.84-1.47],0.4504230712274217
+SPART,Spartin,Chapter XI Diseases of the digestive system,Crohn disease,22042,77,1.12 [0.85-1.48],0.4106648082489796
+SPART,Spartin,Chapter XI Diseases of the digestive system,Crohn's disease NAS,22021,56,1.00 [0.72-1.40],0.9796895090637814
+SPART,Spartin,Chapter XI Diseases of the digestive system,"Ulcerative colitis (strict definition, require KELA, min 2 HDR)",23564,112,1.22 [0.97-1.53],0.0917823858743816
+SPART,Spartin,Chapter XI Diseases of the digestive system,Ulcerative colitis,22077,112,1.23 [0.97-1.54],0.0818278847583008
+SPART,Spartin,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",22063,98,1.20 [0.94-1.53],0.1530119209001228
+SPART,Spartin,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,22644,679,1.05 [0.95-1.16],0.3320170553712736
+SPART,Spartin,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,22634,669,1.05 [0.95-1.15],0.3725575977889147
+SPART,Spartin,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,17001,86,1.02 [0.78-1.34],0.8797357653493685
+SPART,Spartin,Chapter XI Diseases of the digestive system,Intestinal stricture,23285,86,1.01 [0.77-1.32],0.928325692118366
+SPART,Spartin,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",16968,53,0.95 [0.67-1.34],0.7692415695294232
+SPART,Spartin,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,17495,580,0.99 [0.89-1.11],0.910825454723992
+SPART,Spartin,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,17124,209,1.02 [0.86-1.22],0.7811883139288222
+SPART,Spartin,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,17241,326,1.07 [0.93-1.23],0.3477196923701692
+SPART,Spartin,Chapter XI Diseases of the digestive system,Constipation,22252,291,1.05 [0.91-1.22],0.5067389781369878
+SPART,Spartin,Chapter XI Diseases of the digestive system,Diseases of peritoneum,23244,104,0.89 [0.70-1.15],0.3797939054564675
+SPART,Spartin,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,17025,110,1.03 [0.81-1.30],0.8261577736601516
+SPART,Spartin,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,16954,39,0.77 [0.51-1.16],0.2126863313649195
+SPART,Spartin,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,17694,779,1.04 [0.95-1.14],0.4309797662927561
+SPART,Spartin,Chapter XI Diseases of the digestive system,Other diseases of intestine,17116,201,0.92 [0.77-1.10],0.3781950101913652
+SPART,Spartin,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,23230,90,0.87 [0.66-1.13],0.3002123396004421
+SPART,Spartin,Chapter XI Diseases of the digestive system,Diseases of liver,23024,89,0.65 [0.49-0.86],0.0026135010393958
+SPART,Spartin,Chapter XI Diseases of the digestive system,Other diseases of liver,22982,47,0.76 [0.52-1.11],0.1543813442790747
+SPART,Spartin,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",22346,744,1.02 [0.93-1.12],0.6776300014077257
+SPART,Spartin,Chapter XI Diseases of the digestive system,Cholelithiasis,22224,622,1.02 [0.92-1.13],0.7237387257983345
+SPART,Spartin,Chapter XI Diseases of the digestive system,Cholecystitis,21716,114,1.09 [0.87-1.38],0.4522012738684778
+SPART,Spartin,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,21660,58,1.07 [0.77-1.48],0.6857153417341413
+SPART,Spartin,Chapter XI Diseases of the digestive system,Acute pancreatitis,21654,52,0.92 [0.65-1.31],0.6556155780288528
+SPART,Spartin,Chapter XI Diseases of the digestive system,Acute pancreatitis (for exclusion),23556,52,0.92 [0.64-1.30],0.6248626917773754
+SPART,Spartin,Chapter XI Diseases of the digestive system,Diseases of the digestive system,22512,254,1.27 [1.09-1.47],0.0023668465861165
+SPART,Spartin,Chapter XI Diseases of the digestive system,Intestinal malabsorption,22344,86,1.27 [0.98-1.64],0.0699424106610209
+SPART,Spartin,Chapter XI Diseases of the digestive system,Coeliac disease,22331,73,1.30 [0.98-1.72],0.0643214651936541
+SPART,Spartin,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",22292,34,1.25 [0.83-1.89],0.2862066527357864
+SPART,Spartin,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,22397,139,1.33 [1.09-1.63],0.0053387546179758
+SPART,Spartin,Chapter XI Diseases of the digestive system,GI-bleeding,22389,131,1.36 [1.10-1.67],0.0038287138777703
+SPART,Spartin,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,20972,1385,0.97 [0.91-1.04],0.4284392428850748
+SPART,Spartin,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,23298,103,0.90 [0.70-1.16],0.4150341153827896
+SPART,Spartin,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,23311,386,1.00 [0.88-1.14],0.950532230433116
+SPART,Spartin,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,22323,592,1.00 [0.90-1.11],0.995320421969236
+SPART,Spartin,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,22977,284,0.96 [0.82-1.11],0.5683519676621238
+SPART,Spartin,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",22756,63,0.88 [0.64-1.21],0.4191581633752945
+SPART,Spartin,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,22876,183,0.94 [0.78-1.14],0.5415687446428477
+SPART,Spartin,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,23435,75,1.05 [0.79-1.39],0.7584471626641109
+SPART,Spartin,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,23414,54,1.01 [0.72-1.42],0.9488160126791492
+SPART,Spartin,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,23402,42,1.00 [0.68-1.47],0.9833935093186174
+SPART,Spartin,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,23472,49,0.90 [0.63-1.29],0.5576876730811428
+SPART,Spartin,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,23469,46,0.90 [0.62-1.31],0.5871400487416593
+SPART,Spartin,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,22976,51,1.23 [0.88-1.73],0.2283836534195525
+SPART,Spartin,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,23225,300,0.98 [0.85-1.13],0.7880469935566267
+SPART,Spartin,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,21817,86,0.93 [0.71-1.22],0.6116082449640418
+SPART,Spartin,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,21861,130,0.89 [0.71-1.11],0.2886389239097908
+SPART,Spartin,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,21827,96,0.93 [0.72-1.20],0.5594125375976309
+SPART,Spartin,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",21950,219,1.04 [0.88-1.23],0.6722951526362785
+SPART,Spartin,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,21929,198,1.02 [0.85-1.22],0.8415076139746489
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,16688,3804,1.04 [1.00-1.10],0.0762949947351667
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,18195,2191,1.08 [1.02-1.15],0.0089011686907295
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,21265,1144,1.10 [1.02-1.19],0.0109325018305154
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,16197,193,1.19 [0.99-1.42],0.0568828472844001
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,16456,452,1.12 [0.99-1.26],0.0698414270549913
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",23195,185,1.22 [1.02-1.46],0.0302357231760026
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,23209,170,1.22 [1.01-1.47],0.0383022722248869
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,17053,1049,1.13 [1.04-1.23],0.0031756027166299
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",19402,1049,1.13 [1.04-1.22],0.0041930753054216
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,16016,12,0.73 [0.33-1.60],0.4254314115566283
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",23534,12,0.67 [0.31-1.47],0.3194361382442173
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,16235,231,1.09 [0.93-1.29],0.2945556638373539
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,16081,77,1.13 [0.85-1.51],0.38764572914066
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,16268,264,1.17 [1.00-1.37],0.0481717963732284
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",23513,134,1.30 [1.05-1.61],0.0141760039331786
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,16412,408,1.14 [1.01-1.30],0.0396700852922276
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,16414,410,1.07 [0.94-1.22],0.2942087175299859
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,17230,1226,1.04 [0.96-1.12],0.3468838318493995
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),16103,99,1.13 [0.88-1.45],0.330196795515532
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),16364,360,0.95 [0.83-1.08],0.4265938393583979
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,16072,68,0.89 [0.65-1.21],0.4434880449264398
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),16095,91,1.00 [0.76-1.30],0.9867507310328444
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,16325,321,1.06 [0.92-1.22],0.413936714422371
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,16276,272,1.06 [0.91-1.23],0.4784663982598703
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,17640,256,1.09 [0.93-1.27],0.3058144280375126
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,22965,206,0.97 [0.81-1.15],0.6912669064668664
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,22842,83,1.28 [0.98-1.66],0.071515893815894
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,20271,76,1.00 [0.75-1.34],0.9769875696540244
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,20462,267,0.98 [0.84-1.14],0.7764996877185345
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,21092,897,0.94 [0.87-1.03],0.1923421594275415
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,20379,184,0.95 [0.79-1.15],0.616091008721187
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,20262,67,1.08 [0.80-1.46],0.6150630924885858
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",20911,716,0.94 [0.85-1.03],0.2069404835129242
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,20237,42,1.32 [0.91-1.91],0.1376790663265814
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,20410,215,0.99 [0.83-1.17],0.9079491315060968
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,20287,92,1.02 [0.79-1.32],0.8710296080127403
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,20270,75,1.01 [0.76-1.35],0.9420576051010044
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,20325,130,0.79 [0.63-0.99],0.0408697842063187
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,20265,70,0.99 [0.74-1.34],0.9643980683758084
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,20505,310,1.01 [0.87-1.16],0.938060747792139
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,20454,333,1.08 [0.94-1.23],0.2960166014267098
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,20184,63,0.94 [0.69-1.30],0.7237008190836469
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,20215,94,0.94 [0.73-1.22],0.6573081137861794
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,20242,121,1.28 [1.03-1.60],0.0254735951370469
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",20157,36,1.20 [0.80-1.80],0.367217124137788
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,20171,50,1.31 [0.94-1.84],0.1126625250624478
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],20158,37,1.15 [0.77-1.73],0.4943759031541535
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,20349,228,1.15 [0.98-1.36],0.0904998200706961
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,20172,51,1.10 [0.78-1.55],0.5929371479216108
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,20174,53,1.10 [0.78-1.55],0.5813338820783531
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,20234,113,1.22 [0.97-1.53],0.0889966262521555
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,20190,69,1.00 [0.74-1.34],0.9749160359108868
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",20588,467,1.06 [0.94-1.19],0.3177929866254926
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,20287,166,0.92 [0.76-1.12],0.4057455465367269
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,20374,253,1.05 [0.90-1.23],0.5136476988802098
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,21323,212,0.96 [0.80-1.14],0.6280659953386414
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,21526,415,0.87 [0.76-0.98],0.027378809595548
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,21145,34,0.80 [0.51-1.24],0.3128559177823055
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,21160,49,0.80 [0.56-1.16],0.2441828624471372
+SPART,Spartin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,21202,91,0.81 [0.62-1.06],0.1319419830337647
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,19446,5297,0.99 [0.95-1.03],0.4745585870707344
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,21698,158,1.07 [0.88-1.31],0.481141472080264
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,21579,39,1.27 [0.86-1.86],0.2250578075223508
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Acute renal failure,21863,26,1.67 [1.05-2.64],0.0298167132792991
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,21867,30,1.25 [0.81-1.95],0.3165055655861913
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,21870,33,1.11 [0.73-1.70],0.6280066233570005
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Urolithiasis,23484,109,0.90 [0.71-1.15],0.396067730709512
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,23387,53,1.17 [0.84-1.64],0.3573509607736437
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,23457,82,0.96 [0.73-1.27],0.8002181097075037
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,23406,31,0.76 [0.48-1.21],0.2512976760417963
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,21822,1091,1.01 [0.93-1.09],0.8236854135157572
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Cystitis,20840,109,0.91 [0.72-1.16],0.4574774510238584
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,20807,76,1.21 [0.91-1.59],0.1842538571604248
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,20872,141,1.10 [0.89-1.36],0.3623164968684349
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Urethral stricture,20812,81,0.73 [0.55-0.98],0.0350543210691835
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,21594,863,1.03 [0.95-1.13],0.4472528986847813
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Disorders of breast,23431,416,0.91 [0.80-1.03],0.1167550096593094
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,23145,130,0.84 [0.67-1.05],0.1165777530771749
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Unspecified lump in breast,23159,144,0.93 [0.75-1.15],0.4907590179900162
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,23113,98,0.88 [0.68-1.14],0.3435324144733359
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,23369,484,0.99 [0.88-1.11],0.8080078945424433
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Inflammatory disease of cervix uteri,23003,118,0.92 [0.73-1.16],0.4932470660726532
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,23100,215,0.99 [0.84-1.17],0.9071274424989184
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,21619,3960,0.99 [0.95-1.04],0.7279152068826282
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Endometriosis,17960,301,1.07 [0.93-1.23],0.3665181419770297
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Unspecified/other endometriosis,17741,82,1.35 [1.04-1.76],0.0252738000244495
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),17801,142,1.03 [0.83-1.26],0.8145179723371977
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,18345,686,1.04 [0.94-1.14],0.4712678507782921
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,18008,349,0.95 [0.83-1.09],0.4976087933925988
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,18480,821,0.95 [0.87-1.04],0.2584632243013185
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Uterine polyps,17928,269,0.85 [0.73-0.99],0.0420790364119801
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",18039,380,1.00 [0.88-1.14],0.9643516617027712
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Erosion and ectropion of cervix uteri,17747,88,1.12 [0.86-1.46],0.3867864357141852
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Dysplasia of cervi uteri,17827,168,1.12 [0.92-1.35],0.2540170480402504
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,"All dysplastic lesions of the cervix uteri, vagina or vulva",23657,229,1.13 [0.96-1.33],0.132086598536484
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,All dysplastic lesions of the cervix uteri,23668,217,1.12 [0.95-1.33],0.1669336905099541
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,HSIL lesion of the cervix uteri,23689,116,1.16 [0.93-1.46],0.1854952215126598
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,"HSIL lesion of the cervix uteri, vagina or vulva",23679,128,1.17 [0.95-1.46],0.1402116542159316
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,17787,128,0.92 [0.73-1.14],0.4368270044160053
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,17763,104,0.98 [0.76-1.25],0.8549640371744198
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,17783,124,1.10 [0.88-1.37],0.3881206415299661
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Irregular menses,23602,398,1.11 [0.98-1.25],0.1041385554527989
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",18822,1163,1.02 [0.94-1.10],0.690774254166127
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Menorrhagia,18423,764,0.99 [0.90-1.08],0.7710745471734939
+SPART,Spartin,"Chapter IV Endocrine, nutritional and metabolic diseases","Polycystic ovarian syndrome, consortium definition",23677,173,1.00 [0.83-1.20],0.9729912064121616
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,18061,402,0.91 [0.80-1.04],0.1607019290872001
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,17928,269,1.00 [0.86-1.17],0.9789194170117996
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,18433,774,0.94 [0.86-1.03],0.1900072170196454
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,Female infertility,17742,83,1.22 [0.93-1.60],0.1524483983854485
+SPART,Spartin,Chapter XIV Diseases of the genitourinary system,"Female infertility, cervigal, vaginal, other or unspecified origin",17735,76,1.17 [0.88-1.55],0.2895102639586733
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care related to the fetus and amniotic cavity and possible delivery problems,23684,720,1.02 [0.92-1.13],0.7169018998875256
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",Complications of labour and delivery,23690,987,1.05 [0.96-1.15],0.2759300116718765
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",Pregnancy with abortive outcome,23684,380,1.14 [1.00-1.30],0.048247227617669
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",Other abnormal products of conception,23411,107,1.27 [1.00-1.60],0.046818051068782
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",Spontaneous abortion,23452,148,0.98 [0.79-1.20],0.8350790937827614
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",Medical abortion,23441,137,1.29 [1.04-1.59],0.0195581559010039
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium","Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",23701,143,1.08 [0.87-1.33],0.4862887451011125
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",Pregnancy hypertension,23703,140,1.05 [0.85-1.30],0.6422264218371452
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",Other maternal disorders predominantly related to pregnancy,23701,353,0.93 [0.81-1.07],0.2911541339669115
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",Haemorrhage in early pregnancy,23453,105,0.77 [0.60-1.00],0.0457997081058055
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for other conditions predominantly related to pregnancy,23544,196,0.94 [0.78-1.13],0.5120116639124144
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for known or suspected malpresentation of fetus,23087,123,1.16 [0.93-1.47],0.1938553164543676
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for known or suspected abnormality of pelvic organs,23130,166,0.98 [0.80-1.19],0.8132008709975135
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for other known or suspected fetal problems,23165,201,1.02 [0.85-1.22],0.8633563594261517
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",Premature rupture of membranes,23086,122,1.05 [0.83-1.32],0.685147132419482
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",False labour,23076,112,1.06 [0.83-1.34],0.6601471531726855
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",Prolonged pregnancy,23090,126,0.88 [0.69-1.11],0.2662028699279558
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",Long labour,22887,184,1.14 [0.95-1.37],0.1572568248993124
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",Labour and delivery complicated by fetal stress [distress],23068,365,1.02 [0.89-1.17],0.7294122210988305
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",Perineal laceration during delivery,23251,548,1.11 [0.99-1.25],0.064965529490848
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium","Postpartum hemorraghe, all women as controls",23705,144,1.00 [0.81-1.24],0.9881789362159036
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",Postpartum haemorrhage due to anatomy,22508,110,0.94 [0.74-1.21],0.6386753450670353
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium","Other complications of labour and delivery, not elsewhere classified",22787,84,0.88 [0.66-1.16],0.3715747429187591
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",Delivery,23711,279,0.94 [0.80-1.09],0.4096459650516452
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium",Single spontaneous delivery,23648,216,0.91 [0.76-1.09],0.2955758510650299
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium","Other obstetric conditions, not elsewhere classified",23700,214,1.11 [0.93-1.32],0.2378543619099964
+SPART,Spartin,"Chapter XV Pregnancy, childbirth and the puerperium","Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",23690,204,1.10 [0.92-1.31],0.2949275623879892
+SPART,Spartin,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",23453,40,0.93 [0.62-1.39],0.7259370503935977
+SPART,Spartin,Chapter VI Diseases of the nervous system,Falls/tendency to fall,21226,531,0.89 [0.80-1.00],0.0463367257429407

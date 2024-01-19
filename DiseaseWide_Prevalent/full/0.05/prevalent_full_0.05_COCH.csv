@@ -1,0 +1,99 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+COCH,Cochlin,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,38836,1571,1.27 [1.14-1.40],6.300947279286666e-06
+COCH,Cochlin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,38212,361,1.82 [1.50-2.20],8.699600873991225e-10
+COCH,Cochlin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,29278,1318,1.49 [1.34-1.67],2.3504706317928376e-12
+COCH,Cochlin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,39613,143,1.67 [1.22-2.27],0.0012361754733276
+COCH,Cochlin,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,38709,99,1.96 [1.38-2.80],0.0002039199377969
+COCH,Cochlin,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,43009,199,1.63 [1.26-2.12],0.0002605077062577
+COCH,Cochlin,Chapter I Certain infectious and parasitic diseases,Other septicaemia,42936,126,1.56 [1.12-2.18],0.0087260415095772
+COCH,Cochlin,Chapter I Certain infectious and parasitic diseases,Other viral diseases,44522,147,1.58 [1.16-2.15],0.0037853140309736
+COCH,Cochlin,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",44511,136,1.59 [1.15-2.19],0.0045926010165741
+COCH,Cochlin,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",42461,709,1.34 [1.16-1.55],9.799073997861692e-05
+COCH,Cochlin,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,41996,244,1.70 [1.34-2.15],1.3006158136774795e-05
+COCH,Cochlin,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,42237,485,1.30 [1.09-1.55],0.0038238411986404
+COCH,Cochlin,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",35673,92,1.92 [1.32-2.80],0.0006597176463717
+COCH,Cochlin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,39869,1339,1.15 [1.03-1.28],0.0162984442614095
+COCH,Cochlin,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",42308,581,1.20 [1.01-1.41],0.0334090995637533
+COCH,Cochlin,Chapter II Neoplasms,Benign neoplasm: Rectum,44175,120,1.56 [1.11-2.19],0.010460713486036
+COCH,Cochlin,Chapter II Neoplasms,Benign lipomatous neoplasm,44280,514,0.74 [0.62-0.89],0.0017141506710874
+COCH,Cochlin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),38761,763,1.51 [1.32-1.74],5.433333184769408e-09
+COCH,Cochlin,Chapter IX Diseases of the circulatory system,Peripheral artery disease,42722,189,1.65 [1.26-2.16],0.0002430182367116
+COCH,Cochlin,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,34347,85,2.40 [1.69-3.42],1.0823830175567218e-06
+COCH,Cochlin,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",34395,133,1.70 [1.24-2.33],0.0009224784323754
+COCH,Cochlin,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",37203,406,1.38 [1.13-1.68],0.0013259019329972
+COCH,Cochlin,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",44062,299,1.35 [1.08-1.68],0.0087082872771216
+COCH,Cochlin,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",44167,217,1.48 [1.15-1.91],0.0024629941032535
+COCH,Cochlin,Chapter V Mental and behavioural disorders,Alcohol dependence,41688,126,1.60 [1.14-2.23],0.006021419121039
+COCH,Cochlin,Chapter V Mental and behavioural disorders,Smoking dependency,41585,107,1.68 [1.18-2.39],0.0038657407077546
+COCH,Cochlin,Chapter VI Diseases of the nervous system,Epilepsy,41904,258,0.62 [0.47-0.81],0.0004459074926029
+COCH,Cochlin,Chapter IX Diseases of the circulatory system,Transient ischemic attack,43336,133,1.65 [1.20-2.28],0.0022365980733655
+COCH,Cochlin,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,31621,5574,1.08 [1.01-1.15],0.0204277645537943
+COCH,Cochlin,Chapter IX Diseases of the circulatory system,"Hypertension, essential",33355,3832,1.13 [1.05-1.21],0.0016631269327239
+COCH,Cochlin,Chapter IX Diseases of the circulatory system,Hypertension,33396,3873,1.15 [1.07-1.24],0.0002116450851277
+COCH,Cochlin,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,29615,92,4.55 [3.36-6.16],1.0702655835568753e-22
+COCH,Cochlin,Chapter IX Diseases of the circulatory system,Angina pectoris,40151,1203,0.82 [0.73-0.93],0.0019124286787081
+COCH,Cochlin,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,42946,394,0.76 [0.62-0.94],0.0129652966542876
+COCH,Cochlin,Chapter IX Diseases of the circulatory system,Cardiomyopathy,37220,105,1.67 [1.16-2.41],0.0058459314612
+COCH,Cochlin,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,25308,759,1.27 [1.09-1.48],0.0018967524016187
+COCH,Cochlin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",42929,360,1.43 [1.16-1.75],0.0006463124551537
+COCH,Cochlin,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,42807,220,1.46 [1.13-1.88],0.0035770993824911
+COCH,Cochlin,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",44374,202,1.34 [1.02-1.76],0.0356177137390918
+COCH,Cochlin,Chapter IX Diseases of the circulatory system,Varicose veins,42802,832,0.85 [0.74-0.98],0.0297296950990798
+COCH,Cochlin,Chapter IX Diseases of the circulatory system,Hypotension,42743,142,1.63 [1.19-2.22],0.0023552878280458
+COCH,Cochlin,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,35747,3611,1.13 [1.05-1.22],0.0006899752051115
+COCH,Cochlin,Chapter X Diseases of the respiratory system,Influenza and pneumonia,41567,395,1.43 [1.18-1.73],0.0003154086654507
+COCH,Cochlin,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",41518,346,1.49 [1.21-1.83],0.000134810196667
+COCH,Cochlin,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,43142,449,1.29 [1.07-1.55],0.0073799584325911
+COCH,Cochlin,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,43136,443,1.26 [1.05-1.52],0.0138665733231476
+COCH,Cochlin,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,44084,174,1.69 [1.28-2.23],0.000183988421923
+COCH,Cochlin,Chapter X Diseases of the respiratory system,Interstitial lung disease,42107,136,1.47 [1.07-2.03],0.0189723143125192
+COCH,Cochlin,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",44222,136,1.46 [1.06-2.01],0.0217337103964413
+COCH,Cochlin,Chapter X Diseases of the respiratory system,Other diseases of pleura,41381,416,1.52 [1.26-1.83],1.1459830790367892e-05
+COCH,Cochlin,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,42546,192,2.02 [1.58-2.60],3.2457641709808845e-08
+COCH,Cochlin,Chapter XI Diseases of the digestive system,Dental caries,43309,194,1.34 [1.01-1.76],0.0396911387414471
+COCH,Cochlin,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,33928,295,0.77 [0.60-0.99],0.0384407170356069
+COCH,Cochlin,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,44457,282,1.29 [1.02-1.63],0.03040761052411
+COCH,Cochlin,Chapter XI Diseases of the digestive system,Inguinal hernia,37432,1050,0.85 [0.74-0.97],0.0149047439577354
+COCH,Cochlin,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,43063,1331,1.32 [1.18-1.47],6.036398289027536e-07
+COCH,Cochlin,Chapter XI Diseases of the digestive system,Other diseases of intestines,35107,3482,1.08 [1.00-1.16],0.0395383939833895
+COCH,Cochlin,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",44165,109,1.51 [1.04-2.18],0.0291236438870053
+COCH,Cochlin,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",44638,146,1.51 [1.10-2.08],0.0102695121168703
+COCH,Cochlin,Chapter XI Diseases of the digestive system,Crohn disease,41878,146,1.54 [1.12-2.11],0.0080939193733164
+COCH,Cochlin,Chapter XI Diseases of the digestive system,Crohn's disease NAS,41843,111,1.48 [1.03-2.13],0.0358436546603085
+COCH,Cochlin,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",41944,212,1.34 [1.02-1.76],0.0337198216855501
+COCH,Cochlin,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,42815,1083,1.35 [1.20-1.52],6.922976194344438e-07
+COCH,Cochlin,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,42803,1071,1.35 [1.20-1.52],8.243325388779066e-07
+COCH,Cochlin,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",42348,1060,1.14 [1.01-1.30],0.0352710464194419
+COCH,Cochlin,Chapter XI Diseases of the digestive system,Acute pancreatitis,41401,113,1.55 [1.09-2.20],0.0151486612173267
+COCH,Cochlin,Chapter XI Diseases of the digestive system,Acute pancreatitis (for exclusion),44441,113,1.54 [1.09-2.19],0.0154489618476946
+COCH,Cochlin,Chapter XI Diseases of the digestive system,Diseases of the digestive system,42347,533,1.25 [1.05-1.48],0.0111360353269199
+COCH,Cochlin,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",41898,84,1.62 [1.07-2.44],0.0212439479596778
+COCH,Cochlin,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,39302,2709,1.09 [1.00-1.18],0.039182268766693
+COCH,Cochlin,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,43169,700,1.20 [1.03-1.40],0.0187577534811219
+COCH,Cochlin,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",42624,155,1.37 [1.01-1.87],0.0462889174424308
+COCH,Cochlin,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,44257,156,1.37 [1.01-1.87],0.0439980380045958
+COCH,Cochlin,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,44222,121,1.56 [1.11-2.19],0.0108876338130315
+COCH,Cochlin,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,44195,94,1.68 [1.15-2.44],0.0071650409306799
+COCH,Cochlin,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,43340,102,1.49 [1.03-2.18],0.0358163544304984
+COCH,Cochlin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,32242,6938,1.07 [1.01-1.13],0.0186631024707533
+COCH,Cochlin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,31292,265,2.33 [1.89-2.89],8.033787914143012e-15
+COCH,Cochlin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,31825,798,1.45 [1.26-1.66],2.0800284154139177e-07
+COCH,Cochlin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",44013,254,2.36 [1.91-2.92],2.949734220413716e-15
+COCH,Cochlin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,44030,230,2.46 [1.97-3.07],1.245224508255423e-15
+COCH,Cochlin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,31146,119,1.71 [1.22-2.40],0.0018803554831946
+COCH,Cochlin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",43783,115,1.71 [1.22-2.41],0.0020035716737646
+COCH,Cochlin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,43754,246,1.52 [1.20-1.93],0.0005619823913396
+COCH,Cochlin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,43608,100,2.22 [1.58-3.12],4.169463278264512e-06
+COCH,Cochlin,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,35648,7378,1.06 [1.00-1.12],0.0334018874854947
+COCH,Cochlin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,40424,375,2.79 [2.35-3.30],2.149004888669597e-32
+COCH,Cochlin,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,40160,111,1.56 [1.08-2.24],0.0164188052738185
+COCH,Cochlin,Chapter XIV Diseases of the genitourinary system,Acute renal failure,40657,76,3.41 [2.46-4.73],1.4869831999714388e-13
+COCH,Cochlin,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,40660,79,5.85 [4.42-7.73],2.955335396707781e-35
+COCH,Cochlin,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,40679,98,4.07 [3.06-5.41],4.0297286075291867e-22
+COCH,Cochlin,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,44014,112,2.11 [1.52-2.92],6.816721186927132e-06
+COCH,Cochlin,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,40344,1199,1.15 [1.02-1.30],0.0191347142175143
+COCH,Cochlin,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,18729,708,0.85 [0.73-1.00],0.0491724773327877
+COCH,Cochlin,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,18125,104,0.64 [0.42-0.98],0.0379215117085802
+COCH,Cochlin,Chapter XIV Diseases of the genitourinary system,Irregular menses,24111,410,1.26 [1.03-1.53],0.0213280645956796
+COCH,Cochlin,"Chapter XV Pregnancy, childbirth and the puerperium",Prolonged pregnancy,23585,124,0.60 [0.41-0.89],0.0100357823019494
+COCH,Cochlin,"Chapter XV Pregnancy, childbirth and the puerperium",Single spontaneous delivery,24159,225,0.70 [0.53-0.94],0.0161855358024

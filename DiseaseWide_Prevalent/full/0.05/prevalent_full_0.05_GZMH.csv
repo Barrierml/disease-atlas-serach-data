@@ -1,0 +1,66 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+GZMH,Granzyme H,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,43719,1782,1.09 [1.04-1.15],0.0006410993455679
+GZMH,Granzyme H,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,43022,427,1.14 [1.03-1.26],0.0087795969086373
+GZMH,Granzyme H,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,33038,1554,1.08 [1.01-1.14],0.0147636397355293
+GZMH,Granzyme H,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,44593,172,1.19 [1.03-1.37],0.0203064304746385
+GZMH,Granzyme H,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,48494,236,1.17 [1.03-1.33],0.0151411959556179
+GZMH,Granzyme H,Chapter I Certain infectious and parasitic diseases,Other viral diseases,50273,161,1.23 [1.06-1.42],0.0052507572309869
+GZMH,Granzyme H,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",50262,150,1.21 [1.04-1.41],0.0127962336351775
+GZMH,Granzyme H,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,47607,555,1.10 [1.01-1.20],0.03714373773516
+GZMH,Granzyme H,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",40295,104,1.47 [1.29-1.67],1.26613401247237e-08
+GZMH,Granzyme H,Chapter II Neoplasms,Leiomyoma of uterus,26697,995,0.92 [0.85-1.00],0.0436832920211645
+GZMH,Granzyme H,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,49469,132,1.24 [1.06-1.45],0.0085382889418461
+GZMH,Granzyme H,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,40863,2334,1.09 [1.04-1.14],0.0004300249623969
+GZMH,Granzyme H,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,40522,1993,1.10 [1.05-1.16],0.0001695130400606
+GZMH,Granzyme H,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",38792,263,1.16 [1.03-1.31],0.0169691615491592
+GZMH,Granzyme H,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,40368,1839,1.10 [1.04-1.16],0.0004384244595014
+GZMH,Granzyme H,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",49748,333,1.12 [1.01-1.26],0.0404673130855423
+GZMH,Granzyme H,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",49877,242,1.15 [1.02-1.31],0.0276640064306756
+GZMH,Granzyme H,Chapter V Mental and behavioural disorders,Alcohol dependence,47066,136,1.19 [1.01-1.40],0.0387390083441827
+GZMH,Granzyme H,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",41545,108,0.61 [0.47-0.79],0.0002444838072471
+GZMH,Granzyme H,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,50251,204,0.83 [0.70-1.00],0.0476043137458066
+GZMH,Granzyme H,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,49951,161,0.79 [0.64-0.97],0.0218242982093336
+GZMH,Granzyme H,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of ear,48821,203,0.79 [0.66-0.95],0.0114085728214873
+GZMH,Granzyme H,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,35787,6462,1.04 [1.00-1.07],0.0472095988749132
+GZMH,Granzyme H,Chapter IX Diseases of the circulatory system,"Hypertension, essential",37663,4460,1.04 [1.01-1.09],0.0249494996343549
+GZMH,Granzyme H,Chapter IX Diseases of the circulatory system,Hypertension,37731,4528,1.04 [1.00-1.08],0.0323742128739005
+GZMH,Granzyme H,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,48473,477,1.11 [1.01-1.22],0.0358967379633353
+GZMH,Granzyme H,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,48941,945,1.08 [1.01-1.16],0.025645773481022
+GZMH,Granzyme H,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,45690,1880,1.06 [1.01-1.12],0.0256218357482687
+GZMH,Granzyme H,Chapter IX Diseases of the circulatory system,Pulmonary embolism,48901,219,1.18 [1.04-1.35],0.0097885498046651
+GZMH,Granzyme H,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,28517,865,1.10 [1.02-1.19],0.0174819996863572
+GZMH,Granzyme H,Chapter IX Diseases of the circulatory system,Other arrhythmias,41929,137,1.19 [1.02-1.40],0.029694125069693
+GZMH,Granzyme H,Chapter IX Diseases of the circulatory system,"Heart failure, strict",48438,408,1.14 [1.03-1.26],0.0101018141995387
+GZMH,Granzyme H,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,40292,4053,1.06 [1.03-1.10],0.0009675720452117
+GZMH,Granzyme H,Chapter X Diseases of the respiratory system,Influenza and pneumonia,46837,436,1.14 [1.03-1.25],0.0083959432825137
+GZMH,Granzyme H,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",46783,382,1.12 [1.01-1.25],0.0303371314630568
+GZMH,Granzyme H,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",48255,400,1.12 [1.01-1.25],0.026377797518113
+GZMH,Granzyme H,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",48255,400,1.12 [1.01-1.25],0.026377797518113
+GZMH,Granzyme H,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,49808,185,1.17 [1.02-1.35],0.0268997059469751
+GZMH,Granzyme H,Chapter X Diseases of the respiratory system,Interstitial lung disease,47632,142,1.18 [1.00-1.38],0.0443765415357434
+GZMH,Granzyme H,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",49959,142,1.18 [1.01-1.39],0.0399774396497406
+GZMH,Granzyme H,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,48039,215,1.25 [1.11-1.41],0.0001824388845506
+GZMH,Granzyme H,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,34359,11416,1.04 [1.01-1.06],0.0117416317459629
+GZMH,Granzyme H,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,48330,1211,1.08 [1.01-1.15],0.0209034277489218
+GZMH,Granzyme H,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,48316,1197,1.08 [1.01-1.15],0.0179387661103403
+GZMH,Granzyme H,Chapter XI Diseases of the digestive system,Diseases of liver,48931,244,1.14 [1.00-1.30],0.0444268387213444
+GZMH,Granzyme H,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",47836,1230,1.11 [1.04-1.18],0.0014953217984549
+GZMH,Granzyme H,Chapter XI Diseases of the digestive system,Cholelithiasis,47597,991,1.11 [1.04-1.19],0.0024242583311092
+GZMH,Granzyme H,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),35117,128,0.76 [0.60-0.96],0.0229819785147968
+GZMH,Granzyme H,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,43285,122,0.78 [0.62-0.99],0.0453198426196573
+GZMH,Granzyme H,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,26575,110,1.22 [1.02-1.47],0.0311135429037778
+GZMH,Granzyme H,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,20691,402,0.80 [0.70-0.91],0.0009722850460379
+GZMH,Granzyme H,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",21623,1334,0.92 [0.86-0.99],0.0219105529455007
+GZMH,Granzyme H,Chapter XIV Diseases of the genitourinary system,Menorrhagia,21162,873,0.88 [0.80-0.96],0.0035132945851086
+GZMH,Granzyme H,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care related to the fetus and amniotic cavity and possible delivery problems,27250,862,1.12 [1.03-1.22],0.0073094280661601
+GZMH,Granzyme H,"Chapter XV Pregnancy, childbirth and the puerperium",Complications of labour and delivery,27256,1182,1.18 [1.09-1.27],1.7816116225765445e-05
+GZMH,Granzyme H,"Chapter XV Pregnancy, childbirth and the puerperium",Pregnancy with abortive outcome,27250,469,1.21 [1.09-1.34],0.0002595700322455
+GZMH,Granzyme H,"Chapter XV Pregnancy, childbirth and the puerperium",Other abnormal products of conception,26918,137,1.22 [1.02-1.45],0.0304357566931978
+GZMH,Granzyme H,"Chapter XV Pregnancy, childbirth and the puerperium",Medical abortion,26945,164,1.28 [1.09-1.50],0.0020959310921022
+GZMH,Granzyme H,"Chapter XV Pregnancy, childbirth and the puerperium","Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",27270,167,1.23 [1.05-1.44],0.011715151612057
+GZMH,Granzyme H,"Chapter XV Pregnancy, childbirth and the puerperium",Pregnancy hypertension,27272,164,1.23 [1.05-1.44],0.012160746180362
+GZMH,Granzyme H,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for other known or suspected fetal problems,26633,245,1.17 [1.02-1.35],0.0289685178773501
+GZMH,Granzyme H,"Chapter XV Pregnancy, childbirth and the puerperium",Premature rupture of membranes,26534,146,1.24 [1.04-1.47],0.0160627937304582
+GZMH,Granzyme H,"Chapter XV Pregnancy, childbirth and the puerperium",Labour and delivery complicated by fetal stress [distress],26502,428,1.22 [1.10-1.37],0.0002794041420718
+GZMH,Granzyme H,"Chapter XV Pregnancy, childbirth and the puerperium",Perineal laceration during delivery,26733,659,1.15 [1.05-1.27],0.0037220794531937
+GZMH,Granzyme H,"Chapter XV Pregnancy, childbirth and the puerperium","Postpartum hemorraghe, all women as controls",27271,171,1.19 [1.01-1.40],0.041649199844945

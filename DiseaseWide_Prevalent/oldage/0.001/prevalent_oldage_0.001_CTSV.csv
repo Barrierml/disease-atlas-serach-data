@@ -1,0 +1,91 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+CTSV,Cathepsin L2,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,19051,913,0.67 [0.57-0.78],1.3969707183825594e-07
+CTSV,Cathepsin L2,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,18291,293,0.37 [0.28-0.48],3.278747749753924e-13
+CTSV,Cathepsin L2,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,13399,1094,0.45 [0.38-0.52],1.288133243186324e-26
+CTSV,Cathepsin L2,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,19090,97,0.39 [0.24-0.61],3.992919656069762e-05
+CTSV,Cathepsin L2,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,18598,73,0.29 [0.17-0.49],3.476581658685668e-06
+CTSV,Cathepsin L2,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,21851,134,0.44 [0.30-0.64],1.7942740694335217e-05
+CTSV,Cathepsin L2,Chapter I Certain infectious and parasitic diseases,Other septicaemia,21806,89,0.40 [0.25-0.64],0.000105454765252
+CTSV,Cathepsin L2,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",21528,440,0.68 [0.55-0.84],0.0003209728715135
+CTSV,Cathepsin L2,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,21228,140,0.51 [0.35-0.73],0.000347070065231
+CTSV,Cathepsin L2,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",16620,58,0.32 [0.18-0.57],9.931586533978714e-05
+CTSV,Cathepsin L2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,19770,775,0.42 [0.36-0.50],2.068253804017435e-24
+CTSV,Cathepsin L2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,21680,196,0.31 [0.23-0.43],3.820804273750492e-13
+CTSV,Cathepsin L2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,21139,354,0.43 [0.34-0.54],3.53921665202514e-12
+CTSV,Cathepsin L2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,21139,354,0.43 [0.34-0.54],3.53921665202514e-12
+CTSV,Cathepsin L2,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),18569,576,0.63 [0.52-0.76],2.0060928654728257e-06
+CTSV,Cathepsin L2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,22649,60,0.24 [0.14-0.42],3.873774666903589e-07
+CTSV,Cathepsin L2,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,22921,62,0.37 [0.21-0.65],0.0004960304315355
+CTSV,Cathepsin L2,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,16814,1668,0.81 [0.73-0.91],0.0003149987537626
+CTSV,Cathepsin L2,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,21525,645,0.68 [0.57-0.81],1.5225650075471966e-05
+CTSV,Cathepsin L2,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,20446,156,0.50 [0.35-0.72],0.0001751085526942
+CTSV,Cathepsin L2,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,21077,787,0.71 [0.61-0.84],3.692772802770172e-05
+CTSV,Cathepsin L2,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,21050,760,0.72 [0.61-0.84],5.735042577071301e-05
+CTSV,Cathepsin L2,Chapter V Mental and behavioural disorders,Any mental disorder,19041,540,0.72 [0.60-0.88],0.0008783029996457
+CTSV,Cathepsin L2,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",18762,261,0.59 [0.45-0.78],0.0001843589711824
+CTSV,Cathepsin L2,Chapter VI Diseases of the nervous system,Neurological diseases,18898,1504,0.74 [0.66-0.83],5.0057253304856e-07
+CTSV,Cathepsin L2,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",22055,717,0.72 [0.61-0.85],0.0001068227204911
+CTSV,Cathepsin L2,Chapter VI Diseases of the nervous system,Other neurological diseases,22703,122,0.48 [0.32-0.71],0.0002946424005767
+CTSV,Cathepsin L2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,21853,306,0.61 [0.48-0.79],0.0001340574610212
+CTSV,Cathepsin L2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,22842,81,0.42 [0.26-0.68],0.0004514326771531
+CTSV,Cathepsin L2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,2618,81,0.45 [0.28-0.70],0.0005070350650402
+CTSV,Cathepsin L2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",20305,81,0.41 [0.25-0.67],0.0003825060815053
+CTSV,Cathepsin L2,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,14332,4603,0.74 [0.68-0.80],3.02291463614182e-13
+CTSV,Cathepsin L2,Chapter IX Diseases of the circulatory system,"Hypertension, essential",15187,3233,0.78 [0.71-0.85],3.871574072345599e-08
+CTSV,Cathepsin L2,Chapter IX Diseases of the circulatory system,Hypertension,15231,3277,0.75 [0.69-0.82],4.845946569327948e-10
+CTSV,Cathepsin L2,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",20360,1843,0.83 [0.75-0.93],0.0006548556163086
+CTSV,Cathepsin L2,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,19984,1492,0.81 [0.72-0.91],0.0004280838925906
+CTSV,Cathepsin L2,Chapter IX Diseases of the circulatory system,Venous thromboembolism,22338,282,0.62 [0.48-0.80],0.0003253875330491
+CTSV,Cathepsin L2,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,9621,692,0.71 [0.59-0.85],0.0002523525090516
+CTSV,Cathepsin L2,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,17121,121,0.38 [0.25-0.57],4.032632526420276e-06
+CTSV,Cathepsin L2,Chapter IX Diseases of the circulatory system,"Heart failure, strict",21609,299,0.54 [0.41-0.69],1.94214238529253e-06
+CTSV,Cathepsin L2,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,21613,108,0.43 [0.28-0.66],0.0001005134700548
+CTSV,Cathepsin L2,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,21681,176,0.50 [0.36-0.69],3.459388763394196e-05
+CTSV,Cathepsin L2,Chapter IX Diseases of the circulatory system,Hypotension,21562,120,0.41 [0.27-0.61],1.5613863829783496e-05
+CTSV,Cathepsin L2,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,17149,2166,0.75 [0.67-0.83],1.8249124306191363e-08
+CTSV,Cathepsin L2,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,21983,289,0.56 [0.43-0.73],1.4459995398076964e-05
+CTSV,Cathepsin L2,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,21974,280,0.53 [0.41-0.70],3.675683828771056e-06
+CTSV,Cathepsin L2,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,20153,1136,0.76 [0.67-0.87],4.677412206756e-05
+CTSV,Cathepsin L2,Chapter X Diseases of the respiratory system,Early onset COPD,21600,246,0.52 [0.39-0.69],3.9943960524766906e-06
+CTSV,Cathepsin L2,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",21652,298,0.53 [0.41-0.68],8.047914481680899e-07
+CTSV,Cathepsin L2,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",21652,298,0.53 [0.41-0.68],8.047914481680899e-07
+CTSV,Cathepsin L2,Chapter X Diseases of the respiratory system,Asthma,15124,866,0.75 [0.64-0.87],0.0002431537011968
+CTSV,Cathepsin L2,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",14729,866,0.74 [0.63-0.86],0.0001372144002333
+CTSV,Cathepsin L2,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",15115,857,0.75 [0.64-0.88],0.0003558208223365
+CTSV,Cathepsin L2,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,22696,125,0.42 [0.28-0.62],1.2372325387104428e-05
+CTSV,Cathepsin L2,Chapter X Diseases of the respiratory system,Other diseases of pleura,20585,295,0.58 [0.45-0.75],3.835831788166997e-05
+CTSV,Cathepsin L2,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,15016,6479,0.82 [0.76-0.88],8.842321365105042e-08
+CTSV,Cathepsin L2,Chapter XI Diseases of the digestive system,Hernia,19621,2077,0.82 [0.74-0.90],7.416188189520398e-05
+CTSV,Cathepsin L2,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,22190,767,0.67 [0.57-0.79],1.0952356793136712e-06
+CTSV,Cathepsin L2,Chapter XI Diseases of the digestive system,Other diseases of intestines,17034,2342,0.79 [0.72-0.87],2.370624443657418e-06
+CTSV,Cathepsin L2,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,22057,634,0.61 [0.51-0.72],3.2926221776732985e-08
+CTSV,Cathepsin L2,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,22048,625,0.61 [0.51-0.73],8.294801556053449e-08
+CTSV,Cathepsin L2,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,15604,912,0.77 [0.66-0.90],0.0009546968824087
+CTSV,Cathepsin L2,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",21760,730,0.71 [0.60-0.84],5.340252045861415e-05
+CTSV,Cathepsin L2,Chapter XI Diseases of the digestive system,Cholelithiasis,21625,595,0.72 [0.60-0.86],0.0004064711234327
+CTSV,Cathepsin L2,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,19529,1613,0.77 [0.69-0.87],9.096994566521132e-06
+CTSV,Cathepsin L2,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,22951,96,0.42 [0.27-0.65],0.0001215482362032
+CTSV,Cathepsin L2,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,22925,70,0.37 [0.22-0.62],0.0001432599347836
+CTSV,Cathepsin L2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,15194,4450,0.77 [0.71-0.83],4.894191918866809e-11
+CTSV,Cathepsin L2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,16798,2773,0.77 [0.70-0.85],3.732017927541104e-08
+CTSV,Cathepsin L2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,14212,187,0.29 [0.21-0.41],2.621581519637909e-13
+CTSV,Cathepsin L2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,14619,594,0.53 [0.44-0.63],2.274540358460924e-11
+CTSV,Cathepsin L2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",22745,181,0.30 [0.22-0.41],2.9149757525555653e-13
+CTSV,Cathepsin L2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,22750,165,0.29 [0.21-0.40],4.007259665930132e-13
+CTSV,Cathepsin L2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,15670,1645,0.77 [0.68-0.86],9.59996628109503e-06
+CTSV,Cathepsin L2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",18224,1645,0.78 [0.70-0.88],2.914339121863025e-05
+CTSV,Cathepsin L2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,14597,572,0.63 [0.52-0.77],3.510831582961669e-06
+CTSV,Cathepsin L2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,22535,106,0.27 [0.18-0.41],5.953205819442e-10
+CTSV,Cathepsin L2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,22501,72,0.30 [0.18-0.50],3.51133669300126e-06
+CTSV,Cathepsin L2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,20118,954,0.78 [0.68-0.90],0.0007497230768355
+CTSV,Cathepsin L2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",19781,458,0.67 [0.54-0.82],0.0001518843183052
+CTSV,Cathepsin L2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,19577,254,0.58 [0.43-0.76],0.0001166378450689
+CTSV,Cathepsin L2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,20852,242,0.59 [0.44-0.79],0.0003350276892002
+CTSV,Cathepsin L2,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,16960,4105,0.74 [0.68-0.80],4.6306422043093844e-14
+CTSV,Cathepsin L2,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,8973,875,0.76 [0.65-0.88],0.0004813857745938
+CTSV,Cathepsin L2,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,19516,298,0.20 [0.16-0.26],1.4518268510670156e-33
+CTSV,Cathepsin L2,Chapter XIV Diseases of the genitourinary system,Acute renal failure,19565,66,0.13 [0.08-0.23],1.5359467520788128e-13
+CTSV,Cathepsin L2,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,19581,82,0.14 [0.09-0.22],2.8052231359341673e-16
+CTSV,Cathepsin L2,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,22656,92,0.32 [0.20-0.50],7.926532838439782e-07
+CTSV,Cathepsin L2,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,20310,1207,0.75 [0.66-0.86],1.7364274442343036e-05
+CTSV,Cathepsin L2,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,19834,731,0.69 [0.59-0.82],1.787501265414174e-05

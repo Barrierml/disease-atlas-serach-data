@@ -1,0 +1,58 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+AFM,Afamin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,11697,882,0.54 [0.39-0.77],0.0005040026178955
+AFM,Afamin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,16734,79,0.21 [0.07-0.61],0.0039439125368031
+AFM,Afamin,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,19035,113,0.29 [0.12-0.68],0.0044216781671463
+AFM,Afamin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,17246,631,0.25 [0.17-0.37],2.176181516027291e-12
+AFM,Afamin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,18862,164,0.20 [0.10-0.41],1.1103683814666638e-05
+AFM,Afamin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,18416,280,0.18 [0.11-0.32],2.015806666994681e-09
+AFM,Afamin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,18416,280,0.18 [0.11-0.32],2.015806666994681e-09
+AFM,Afamin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,18709,547,0.50 [0.34-0.76],0.0009604948173946
+AFM,Afamin,Chapter V Mental and behavioural disorders,Any mental disorder,16609,445,0.49 [0.31-0.78],0.0025977796199886
+AFM,Afamin,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",16373,209,0.36 [0.19-0.70],0.0022542393339822
+AFM,Afamin,Chapter VI Diseases of the nervous system,Neurological diseases,16612,1270,0.58 [0.44-0.76],9.992582232350613e-05
+AFM,Afamin,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,19062,394,0.50 [0.31-0.81],0.004711464446119
+AFM,Afamin,Chapter VI Diseases of the nervous system,Epilepsy,18778,110,0.19 [0.08-0.46],0.0002265971502727
+AFM,Afamin,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",19151,606,0.58 [0.40-0.86],0.0068200742725919
+AFM,Afamin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,18969,239,0.40 [0.22-0.73],0.0029427742115188
+AFM,Afamin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,19601,83,0.27 [0.10-0.73],0.0099092179678633
+AFM,Afamin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of ear,19164,100,0.22 [0.09-0.55],0.0011322845475873
+AFM,Afamin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",18791,246,0.38 [0.21-0.69],0.0015046030967591
+AFM,Afamin,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",19095,162,0.18 [0.09-0.37],2.3631616633325706e-06
+AFM,Afamin,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",19123,145,0.20 [0.10-0.43],3.2976738406753464e-05
+AFM,Afamin,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",19213,127,0.16 [0.07-0.35],4.307968493789486e-06
+AFM,Afamin,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,18856,147,0.26 [0.12-0.57],0.0006862771263926
+AFM,Afamin,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),18704,145,0.24 [0.11-0.50],0.0001702216389115
+AFM,Afamin,Chapter IX Diseases of the circulatory system,DVT of lower extremities,18682,123,0.25 [0.11-0.56],0.0008234998908329
+AFM,Afamin,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",19933,118,0.30 [0.13-0.70],0.0051848527472383
+AFM,Afamin,Chapter X Diseases of the respiratory system,Pleural effusion,17763,121,0.25 [0.11-0.57],0.0011286565102937
+AFM,Afamin,Chapter X Diseases of the respiratory system,Other diseases of pleura,17896,254,0.24 [0.14-0.43],1.722760670989768e-06
+AFM,Afamin,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,18719,119,0.23 [0.10-0.53],0.0005184891390693
+AFM,Afamin,Chapter XI Diseases of the digestive system,Hernia,17062,1779,0.72 [0.56-0.91],0.0066621119773334
+AFM,Afamin,Chapter XI Diseases of the digestive system,Inguinal hernia,15980,697,0.41 [0.28-0.60],3.118305886371206e-06
+AFM,Afamin,Chapter XI Diseases of the digestive system,Other diseases of intestines,14874,2000,0.73 [0.58-0.92],0.0071596919362097
+AFM,Afamin,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",18892,601,1.73 [1.16-2.56],0.0067503748355201
+AFM,Afamin,Chapter XI Diseases of the digestive system,Cholecystitis,18391,100,3.77 [1.45-9.82],0.0064617114353613
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,13235,3844,0.65 [0.54-0.79],1.09319689021826e-05
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,14636,2389,0.65 [0.52-0.81],0.0001099278830353
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,17921,1143,0.65 [0.49-0.87],0.0041038384360258
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,12401,154,0.28 [0.13-0.59],0.0009424616828362
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,12734,487,0.51 [0.33-0.78],0.0022524342540912
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",19728,148,0.35 [0.16-0.75],0.0067906016924781
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,13651,1404,0.62 [0.47-0.81],0.0005997062844805
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",15864,1404,0.64 [0.49-0.83],0.0009867207094188
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,12328,81,0.23 [0.08-0.62],0.0037798509059158
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",19534,78,0.24 [0.09-0.68],0.0065480900733666
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,12721,474,0.55 [0.35-0.86],0.0081969963162015
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,19533,101,0.23 [0.09-0.59],0.0019078050131539
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,17031,326,0.46 [0.28-0.78],0.0040485959008062
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",17175,397,0.52 [0.32-0.83],0.006384390446447
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,17003,225,0.35 [0.19-0.65],0.0008890529357116
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,18290,374,0.50 [0.30-0.82],0.0059508206086815
+AFM,Afamin,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,14846,3522,0.74 [0.61-0.89],0.001657519376704
+AFM,Afamin,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,7733,732,0.59 [0.41-0.85],0.0046832930605501
+AFM,Afamin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,17158,215,0.27 [0.14-0.51],5.101869763074476e-05
+AFM,Afamin,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,17262,61,0.11 [0.03-0.33],9.62815729366604e-05
+AFM,Afamin,Chapter XIV Diseases of the genitourinary system,Urolithiasis,19853,206,3.04 [1.57-5.90],0.0010101051444712
+AFM,Afamin,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,19798,151,3.96 [1.83-8.56],0.0004671417597269
+AFM,Afamin,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,17724,1036,0.59 [0.43-0.80],0.0006283657733243
+AFM,Afamin,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,16996,308,0.32 [0.19-0.55],3.337738162116332e-05

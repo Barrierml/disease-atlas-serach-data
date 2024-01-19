@@ -1,0 +1,122 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+KITLG,Kit ligand,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,44507,1811,0.89 [0.80-1.00],0.0485163778546005
+KITLG,Kit ligand,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,45409,177,1.57 [1.09-2.26],0.0151860618543629
+KITLG,Kit ligand,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,49371,240,1.45 [1.07-1.97],0.0174024994965259
+KITLG,Kit ligand,Chapter I Certain infectious and parasitic diseases,Other septicaemia,49288,157,1.79 [1.22-2.62],0.0026659536842831
+KITLG,Kit ligand,Chapter II Neoplasms,"Malignant neoplasm of breast, excluding all cancers (controls excluding all cancers)",23227,673,0.71 [0.59-0.85],0.0002363311287594
+KITLG,Kit ligand,Chapter II Neoplasms,Benign neoplasm: Stomach,51487,103,1.74 [1.08-2.82],0.0229773441696908
+KITLG,Kit ligand,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,51410,180,1.44 [1.01-2.06],0.0451186410859842
+KITLG,Kit ligand,Chapter II Neoplasms,Melanocytic naevi,51125,402,0.76 [0.60-0.96],0.0238422118207595
+KITLG,Kit ligand,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,48220,706,1.23 [1.03-1.48],0.0234730893949168
+KITLG,Kit ligand,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,48220,706,1.23 [1.03-1.48],0.0234730893949168
+KITLG,Kit ligand,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),44452,932,1.18 [1.01-1.38],0.0394229515957948
+KITLG,Kit ligand,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,46840,271,1.37 [1.03-1.84],0.0329341651341256
+KITLG,Kit ligand,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,47690,1121,0.87 [0.75-1.00],0.0481160152408087
+KITLG,Kit ligand,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,47654,1085,0.84 [0.73-0.97],0.0160497176854612
+KITLG,Kit ligand,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,47627,372,1.34 [1.04-1.72],0.0216330861416813
+KITLG,Kit ligand,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",47630,368,1.35 [1.05-1.74],0.0189249913522308
+KITLG,Kit ligand,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",39455,263,0.60 [0.46-0.79],0.000330196993508
+KITLG,Kit ligand,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,39292,100,2.55 [1.56-4.19],0.0001978696553954
+KITLG,Kit ligand,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",39363,171,2.25 [1.54-3.27],2.384159846586948e-05
+KITLG,Kit ligand,Chapter V Mental and behavioural disorders,Any mental disorder,43547,1312,0.66 [0.58-0.75],9.952389372619543e-11
+KITLG,Kit ligand,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",42691,456,0.48 [0.39-0.59],7.17006272441678e-13
+KITLG,Kit ligand,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",50675,338,0.39 [0.31-0.48],5.2647028312580346e-17
+KITLG,Kit ligand,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",50807,248,0.36 [0.28-0.46],1.7253154662688536e-15
+KITLG,Kit ligand,Chapter V Mental and behavioural disorders,Acute alcohol intoxication,47929,114,0.40 [0.27-0.58],1.6745758167499051e-06
+KITLG,Kit ligand,Chapter V Mental and behavioural disorders,"Acute alcohol intoxication, ICD10",51292,114,0.44 [0.30-0.64],1.6305550629913366e-05
+KITLG,Kit ligand,Chapter V Mental and behavioural disorders,"Alcohol abuse, main dg, excluding more controls",42349,114,0.39 [0.27-0.57],1.2710482334913517e-06
+KITLG,Kit ligand,Chapter V Mental and behavioural disorders,Alcohol dependence,47956,141,0.28 [0.20-0.38],5.533320400661868e-15
+KITLG,Kit ligand,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",42343,108,0.61 [0.40-0.93],0.0205032387385944
+KITLG,Kit ligand,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",42889,654,0.73 [0.62-0.88],0.0006468154907522
+KITLG,Kit ligand,Chapter V Mental and behavioural disorders,Depression,48284,571,0.75 [0.62-0.90],0.0024505658169323
+KITLG,Kit ligand,Chapter V Mental and behavioural disorders,Depression or dysthymia,42376,496,0.72 [0.59-0.88],0.0012432146205361
+KITLG,Kit ligand,Chapter VI Diseases of the nervous system,Neurological diseases,44006,2956,0.90 [0.82-0.98],0.0177519632528115
+KITLG,Kit ligand,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,39955,264,0.70 [0.53-0.93],0.0138002944030703
+KITLG,Kit ligand,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,51191,210,0.73 [0.53-1.00],0.0499524117930787
+KITLG,Kit ligand,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,48789,969,0.85 [0.74-0.99],0.0324573891951157
+KITLG,Kit ligand,Chapter VI Diseases of the nervous system,Epilepsy,48125,305,0.50 [0.39-0.64],3.0205739487026255e-08
+KITLG,Kit ligand,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,49569,154,1.54 [1.04-2.27],0.0311163609703052
+KITLG,Kit ligand,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,49463,443,1.48 [1.18-1.86],0.0007560528200153
+KITLG,Kit ligand,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,50812,106,3.49 [2.23-5.48],5.1863988826488424e-08
+KITLG,Kit ligand,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,4389,106,4.18 [2.73-6.39],3.927634655131359e-11
+KITLG,Kit ligand,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",46529,106,3.45 [2.17-5.49],1.6946273708115585e-07
+KITLG,Kit ligand,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diseases of middle ear and mastoid,51270,269,0.75 [0.57-1.00],0.0463671872936288
+KITLG,Kit ligand,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,36437,6594,0.92 [0.86-0.99],0.0271000954734826
+KITLG,Kit ligand,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",47068,2412,0.90 [0.82-1.00],0.0410624771678516
+KITLG,Kit ligand,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,46540,1919,0.87 [0.78-0.97],0.0154660768155996
+KITLG,Kit ligand,Chapter IX Diseases of the circulatory system,Venous thromboembolism,50026,457,1.35 [1.08-1.68],0.0081787091324055
+KITLG,Kit ligand,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,29008,884,0.65 [0.55-0.77],4.242805717181567e-07
+KITLG,Kit ligand,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,42704,185,0.69 [0.49-0.97],0.0325120305646992
+KITLG,Kit ligand,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",49658,312,1.48 [1.13-1.94],0.0039523617438954
+KITLG,Kit ligand,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",49726,262,1.62 [1.21-2.16],0.0012216654297035
+KITLG,Kit ligand,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",49883,234,1.60 [1.17-2.17],0.0028804218870786
+KITLG,Kit ligand,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,49192,262,0.76 [0.57-1.00],0.0498806638644977
+KITLG,Kit ligand,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),48511,281,1.34 [1.01-1.78],0.039225427452485
+KITLG,Kit ligand,Chapter IX Diseases of the circulatory system,DVT of lower extremities,48469,239,1.53 [1.13-2.07],0.0064376939373386
+KITLG,Kit ligand,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",51036,229,1.57 [1.15-2.14],0.0043728348841827
+KITLG,Kit ligand,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,41036,4134,0.87 [0.80-0.94],0.0002786436342411
+KITLG,Kit ligand,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",47642,389,1.30 [1.02-1.66],0.0333334671819503
+KITLG,Kit ligand,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,49588,506,0.79 [0.64-0.96],0.0184776019349672
+KITLG,Kit ligand,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,49577,495,0.77 [0.63-0.94],0.0113131111430038
+KITLG,Kit ligand,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,23643,126,0.61 [0.40-0.93],0.0229286400822587
+KITLG,Kit ligand,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,45971,2034,0.83 [0.74-0.92],0.0003130638594201
+KITLG,Kit ligand,Chapter X Diseases of the respiratory system,Early onset COPD,49108,353,0.71 [0.56-0.90],0.0046107741258902
+KITLG,Kit ligand,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",49156,401,0.71 [0.57-0.88],0.0020499925797602
+KITLG,Kit ligand,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",49156,401,0.71 [0.57-0.88],0.0020499925797602
+KITLG,Kit ligand,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",48001,1685,0.89 [0.79-1.00],0.0451545421776496
+KITLG,Kit ligand,Chapter X Diseases of the respiratory system,Asthma,36736,1685,0.82 [0.73-0.92],0.0009826546934428
+KITLG,Kit ligand,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",36201,1685,0.82 [0.73-0.92],0.0008466551428769
+KITLG,Kit ligand,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",36710,1659,0.81 [0.72-0.91],0.0004991238397295
+KITLG,Kit ligand,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,50721,181,0.67 [0.48-0.94],0.0198626152663217
+KITLG,Kit ligand,Chapter X Diseases of the respiratory system,Interstitial lung disease,48506,140,0.59 [0.41-0.86],0.0055446609022805
+KITLG,Kit ligand,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",50880,140,0.60 [0.41-0.87],0.0064787145175451
+KITLG,Kit ligand,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,48492,126,0.56 [0.38-0.82],0.0030096441849542
+KITLG,Kit ligand,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,35005,11658,0.93 [0.88-0.98],0.0085382642081668
+KITLG,Kit ligand,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,51414,183,1.50 [1.05-2.15],0.0276507017141703
+KITLG,Kit ligand,Chapter XI Diseases of the digestive system,Impacted teeth,51422,170,1.47 [1.01-2.14],0.0422018710958461
+KITLG,Kit ligand,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,51395,203,1.57 [1.12-2.22],0.0096491800098511
+KITLG,Kit ligand,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,43521,1742,0.89 [0.79-1.00],0.0437239806215529
+KITLG,Kit ligand,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",50794,119,0.55 [0.37-0.83],0.0040344379540277
+KITLG,Kit ligand,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",51341,162,0.65 [0.45-0.92],0.0167931590460948
+KITLG,Kit ligand,Chapter XI Diseases of the digestive system,Crohn disease,48163,162,0.64 [0.45-0.92],0.0149922649503889
+KITLG,Kit ligand,Chapter XI Diseases of the digestive system,Diseases of liver,49827,246,0.46 [0.36-0.61],1.7080291424261642e-08
+KITLG,Kit ligand,Chapter XI Diseases of the digestive system,Diseases of the digestive system,48703,637,0.81 [0.67-0.97],0.0204412026163757
+KITLG,Kit ligand,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,48469,403,0.78 [0.62-0.98],0.0292178617409925
+KITLG,Kit ligand,Chapter XI Diseases of the digestive system,GI-bleeding,48455,389,0.78 [0.62-0.98],0.036055677285217
+KITLG,Kit ligand,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",49028,177,0.71 [0.51-0.99],0.0444412728800118
+KITLG,Kit ligand,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,50871,144,0.64 [0.44-0.92],0.0152913679273586
+KITLG,Kit ligand,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,50837,110,0.65 [0.43-0.99],0.0436445613597935
+KITLG,Kit ligand,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,37041,7979,0.92 [0.86-0.98],0.0060497564333806
+KITLG,Kit ligand,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,46398,2414,0.91 [0.82-1.00],0.0494863458309205
+KITLG,Kit ligand,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,35935,296,0.65 [0.50-0.85],0.0016138012302834
+KITLG,Kit ligand,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,36569,930,0.77 [0.66-0.90],0.0007999981077183
+KITLG,Kit ligand,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",50629,285,0.65 [0.50-0.85],0.0017437693506964
+KITLG,Kit ligand,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,50652,258,0.63 [0.48-0.84],0.0014173307237198
+KITLG,Kit ligand,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,36087,448,0.80 [0.64-0.99],0.0390065681538329
+KITLG,Kit ligand,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,36435,796,0.85 [0.72-1.00],0.0469342769820281
+KITLG,Kit ligand,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,36602,963,1.19 [1.02-1.39],0.0263293035162672
+KITLG,Kit ligand,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,36471,832,1.24 [1.05-1.46],0.0127491054963097
+KITLG,Kit ligand,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,44474,128,0.59 [0.40-0.87],0.0081708646523232
+KITLG,Kit ligand,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,44218,234,0.73 [0.54-0.99],0.0414559077349381
+KITLG,Kit ligand,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],44192,208,0.69 [0.50-0.95],0.0215574920944968
+KITLG,Kit ligand,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,44107,123,0.66 [0.44-0.99],0.0467208468565537
+KITLG,Kit ligand,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,40838,8542,1.07 [1.01-1.13],0.030121424991105
+KITLG,Kit ligand,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,20435,1277,1.20 [1.05-1.37],0.00909800420859
+KITLG,Kit ligand,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,46182,513,5.53 [4.44-6.88],5.680183324722432e-53
+KITLG,Kit ligand,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,45809,140,1.97 [1.30-2.98],0.0014730428407694
+KITLG,Kit ligand,Chapter XIV Diseases of the genitourinary system,Acute renal failure,46385,113,9.57 [6.15-14.91],1.622242374848126e-23
+KITLG,Kit ligand,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,46409,137,9.68 [6.45-14.51],4.415245791521301e-28
+KITLG,Kit ligand,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,50568,148,3.44 [2.32-5.09],6.468250495029953e-10
+KITLG,Kit ligand,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,45470,556,1.25 [1.02-1.53],0.0314630052556572
+KITLG,Kit ligand,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),19261,103,2.01 [1.25-3.23],0.003767633048373
+KITLG,Kit ligand,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,25312,4613,0.88 [0.81-0.95],0.0012483902458998
+KITLG,Kit ligand,Chapter XIV Diseases of the genitourinary system,Endometriosis,21062,363,0.66 [0.51-0.84],0.0009598398485813
+KITLG,Kit ligand,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),20869,170,0.65 [0.45-0.93],0.0172308353264354
+KITLG,Kit ligand,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,21105,406,0.72 [0.57-0.91],0.0064257704488653
+KITLG,Kit ligand,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",21138,439,0.78 [0.62-0.98],0.0357404103274934
+KITLG,Kit ligand,Chapter XIV Diseases of the genitourinary system,Dysplasia of cervi uteri,20885,186,0.69 [0.49-0.97],0.0331545407249578
+KITLG,Kit ligand,Chapter XIV Diseases of the genitourinary system,Irregular menses,27656,469,0.78 [0.62-0.97],0.0238292842183275
+KITLG,Kit ligand,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",22046,1347,0.80 [0.70-0.92],0.0016043400957381
+KITLG,Kit ligand,Chapter XIV Diseases of the genitourinary system,Menorrhagia,21580,881,0.83 [0.70-0.98],0.0243083998872576
+KITLG,Kit ligand,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,21167,468,0.70 [0.56-0.88],0.0019553628446587
+KITLG,Kit ligand,Chapter VI Diseases of the nervous system,Falls/tendency to fall,46386,1200,0.84 [0.73-0.96],0.009733675542928

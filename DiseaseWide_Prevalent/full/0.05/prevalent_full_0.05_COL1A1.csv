@@ -1,0 +1,107 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+COL1A1,Collagen alpha-1(I) chain,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,44339,443,1.57 [1.12-2.19],0.0086284730317859
+COL1A1,Collagen alpha-1(I) chain,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,45960,178,2.02 [1.21-3.37],0.0068262445847811
+COL1A1,Collagen alpha-1(I) chain,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,51688,153,0.53 [0.30-0.93],0.0271156509129689
+COL1A1,Collagen alpha-1(I) chain,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,49994,244,1.76 [1.14-2.73],0.0113129819024621
+COL1A1,Collagen alpha-1(I) chain,Chapter I Certain infectious and parasitic diseases,Other septicaemia,49908,158,2.12 [1.24-3.62],0.0062292562087215
+COL1A1,Collagen alpha-1(I) chain,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,48812,285,1.70 [1.13-2.56],0.0108341751469826
+COL1A1,Collagen alpha-1(I) chain,Chapter II Neoplasms,"Malignant neoplasm of breast, excluding all cancers (controls excluding all cancers)",23502,678,2.12 [1.64-2.75],1.1648985028906252e-08
+COL1A1,Collagen alpha-1(I) chain,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",18829,238,1.82 [1.14-2.89],0.0119707074084757
+COL1A1,Collagen alpha-1(I) chain,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",41523,108,1.96 [1.02-3.77],0.0422925951506219
+COL1A1,Collagen alpha-1(I) chain,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),44994,943,1.41 [1.12-1.77],0.0035604464791482
+COL1A1,Collagen alpha-1(I) chain,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,51010,140,2.00 [1.14-3.51],0.0154110672744685
+COL1A1,Collagen alpha-1(I) chain,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,51501,169,0.50 [0.29-0.87],0.0136589283707031
+COL1A1,Collagen alpha-1(I) chain,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,48269,1130,0.44 [0.35-0.56],4.077740323285545e-12
+COL1A1,Collagen alpha-1(I) chain,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,48232,1093,0.43 [0.34-0.54],1.379568095038737e-12
+COL1A1,Collagen alpha-1(I) chain,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",51438,250,2.02 [1.29-3.15],0.0020577282528272
+COL1A1,Collagen alpha-1(I) chain,Chapter V Mental and behavioural disorders,Alcohol dependence,48543,141,2.69 [1.50-4.82],0.0008689696508743
+COL1A1,Collagen alpha-1(I) chain,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,40434,269,0.53 [0.34-0.82],0.0039876759302414
+COL1A1,Collagen alpha-1(I) chain,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,51822,213,0.46 [0.29-0.74],0.0013702281924936
+COL1A1,Collagen alpha-1(I) chain,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,49398,980,1.60 [1.28-2.00],3.950756089281681e-05
+COL1A1,Collagen alpha-1(I) chain,Chapter VI Diseases of the nervous system,Epilepsy,48726,308,1.69 [1.14-2.51],0.0085917441346193
+COL1A1,Collagen alpha-1(I) chain,Chapter VI Diseases of the nervous system,Other sleep disorders,48759,341,1.61 [1.09-2.37],0.0158551961963942
+COL1A1,Collagen alpha-1(I) chain,Chapter VI Diseases of the nervous system,Sleep apnoea,50954,262,1.88 [1.22-2.89],0.0044429872512888
+COL1A1,Collagen alpha-1(I) chain,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,51436,108,2.04 [1.06-3.94],0.0328799605514651
+COL1A1,Collagen alpha-1(I) chain,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,4446,108,2.62 [1.43-4.83],0.0019130462912179
+COL1A1,Collagen alpha-1(I) chain,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",47098,108,2.03 [1.03-4.01],0.0404564410296151
+COL1A1,Collagen alpha-1(I) chain,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diseases of middle ear and mastoid,51902,270,0.54 [0.35-0.84],0.0057905806883668
+COL1A1,Collagen alpha-1(I) chain,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,36884,6666,0.87 [0.78-0.97],0.0142957144076267
+COL1A1,Collagen alpha-1(I) chain,Chapter IX Diseases of the circulatory system,"Hypertension, essential",38818,4594,0.87 [0.77-0.98],0.0230123459536894
+COL1A1,Collagen alpha-1(I) chain,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,34387,163,4.98 [2.96-8.35],1.245547809465593e-09
+COL1A1,Collagen alpha-1(I) chain,Chapter IX Diseases of the circulatory system,Pulmonary embolism,50441,224,1.67 [1.06-2.65],0.0283938689789189
+COL1A1,Collagen alpha-1(I) chain,Chapter IX Diseases of the circulatory system,Venous thromboembolism,50649,465,1.62 [1.17-2.23],0.0034247828739731
+COL1A1,Collagen alpha-1(I) chain,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,41550,4178,0.84 [0.75-0.94],0.0028528067138645
+COL1A1,Collagen alpha-1(I) chain,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,23933,128,0.43 [0.22-0.85],0.0144438310817079
+COL1A1,Collagen alpha-1(I) chain,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,46544,2050,0.70 [0.60-0.82],1.6138093898410376e-05
+COL1A1,Collagen alpha-1(I) chain,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",48596,1693,0.71 [0.59-0.84],0.0001141677646742
+COL1A1,Collagen alpha-1(I) chain,Chapter X Diseases of the respiratory system,Asthma,37189,1693,0.69 [0.58-0.83],5.5918249769678975e-05
+COL1A1,Collagen alpha-1(I) chain,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",36646,1693,0.69 [0.58-0.83],6.296676045976171e-05
+COL1A1,Collagen alpha-1(I) chain,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",37163,1667,0.69 [0.57-0.82],5.00147169866787e-05
+COL1A1,Collagen alpha-1(I) chain,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,51352,183,0.36 [0.21-0.60],0.0001163121227538
+COL1A1,Collagen alpha-1(I) chain,Chapter X Diseases of the respiratory system,Interstitial lung disease,49100,141,0.20 [0.11-0.36],1.4628522179400593e-07
+COL1A1,Collagen alpha-1(I) chain,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",51511,141,0.21 [0.11-0.37],2.167744886092989e-07
+COL1A1,Collagen alpha-1(I) chain,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,49086,127,0.28 [0.15-0.53],0.0001032205989776
+COL1A1,Collagen alpha-1(I) chain,Chapter X Diseases of the respiratory system,Pleural effusion,47884,225,1.80 [1.13-2.85],0.0124963555749362
+COL1A1,Collagen alpha-1(I) chain,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,35424,11790,0.87 [0.80-0.94],0.0007313214909265
+COL1A1,Collagen alpha-1(I) chain,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",43443,4392,0.87 [0.78-0.98],0.0196810801027583
+COL1A1,Collagen alpha-1(I) chain,Chapter XI Diseases of the digestive system,Functional dyspepsia,39932,881,0.73 [0.57-0.92],0.0092260951139299
+COL1A1,Collagen alpha-1(I) chain,Chapter XI Diseases of the digestive system,Hernia,45608,3306,0.86 [0.75-0.97],0.0189683778226193
+COL1A1,Collagen alpha-1(I) chain,Chapter XI Diseases of the digestive system,Umbilical hernia,42562,260,0.59 [0.37-0.94],0.0267493116585777
+COL1A1,Collagen alpha-1(I) chain,Chapter XI Diseases of the digestive system,Diseases of liver,50451,252,1.90 [1.24-2.92],0.0032893496250676
+COL1A1,Collagen alpha-1(I) chain,Chapter XI Diseases of the digestive system,Intestinal malabsorption,48806,143,0.24 [0.14-0.42],7.407689393243598e-07
+COL1A1,Collagen alpha-1(I) chain,Chapter XI Diseases of the digestive system,Coeliac disease,48780,117,0.17 [0.09-0.32],2.590523576996986e-08
+COL1A1,Collagen alpha-1(I) chain,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",48764,101,2.14 [1.09-4.21],0.0267476215480366
+COL1A1,Collagen alpha-1(I) chain,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,45684,3158,1.16 [1.01-1.32],0.0296974443663897
+COL1A1,Collagen alpha-1(I) chain,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,49962,515,1.56 [1.14-2.12],0.0054661734766188
+COL1A1,Collagen alpha-1(I) chain,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,40774,4697,1.23 [1.10-1.38],0.0002543568194508
+COL1A1,Collagen alpha-1(I) chain,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,38413,2336,1.41 [1.21-1.65],1.5129936501405745e-05
+COL1A1,Collagen alpha-1(I) chain,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",43635,2336,1.39 [1.20-1.62],2.23662386691902e-05
+COL1A1,Collagen alpha-1(I) chain,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,36223,146,1.93 [1.07-3.48],0.0292515137315667
+COL1A1,Collagen alpha-1(I) chain,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,36648,571,2.01 [1.49-2.72],4.915547642121519e-06
+COL1A1,Collagen alpha-1(I) chain,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",51784,283,2.47 [1.66-3.68],9.10436274617951e-06
+COL1A1,Collagen alpha-1(I) chain,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,37150,1073,1.29 [1.03-1.63],0.0271792021357544
+COL1A1,Collagen alpha-1(I) chain,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,36886,809,1.36 [1.05-1.75],0.0186369245684855
+COL1A1,Collagen alpha-1(I) chain,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,38689,2612,1.25 [1.08-1.44],0.0022032052201691
+COL1A1,Collagen alpha-1(I) chain,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,37056,979,1.36 [1.08-1.72],0.009332705821162
+COL1A1,Collagen alpha-1(I) chain,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,36922,845,1.37 [1.07-1.77],0.013440165638742
+COL1A1,Collagen alpha-1(I) chain,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,50976,258,0.30 [0.19-0.45],2.0853075806734642e-08
+COL1A1,Collagen alpha-1(I) chain,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,50829,111,0.34 [0.18-0.64],0.0008150351878819
+COL1A1,Collagen alpha-1(I) chain,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,45002,102,0.47 [0.23-0.96],0.0374569997011527
+COL1A1,Collagen alpha-1(I) chain,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,44699,175,1.90 [1.14-3.16],0.0135432265993757
+COL1A1,Collagen alpha-1(I) chain,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",44624,100,0.48 [0.23-0.99],0.0461580744189117
+COL1A1,Collagen alpha-1(I) chain,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,48266,345,0.20 [0.14-0.29],6.607541160286969e-17
+COL1A1,Collagen alpha-1(I) chain,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,48709,788,0.51 [0.39-0.66],2.1311109064964837e-07
+COL1A1,Collagen alpha-1(I) chain,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,20685,1297,1.34 [1.09-1.66],0.006534268644042
+COL1A1,Collagen alpha-1(I) chain,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,46750,515,2.90 [2.15-3.91],3.184052496930221e-12
+COL1A1,Collagen alpha-1(I) chain,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,46375,140,1.94 [1.07-3.51],0.0281577597419695
+COL1A1,Collagen alpha-1(I) chain,Chapter XIV Diseases of the genitourinary system,Acute renal failure,46958,114,3.62 [1.97-6.66],3.462109659809609e-05
+COL1A1,Collagen alpha-1(I) chain,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,46985,141,9.63 [5.95-15.58],3.0176612282058716e-20
+COL1A1,Collagen alpha-1(I) chain,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,46980,136,3.30 [1.88-5.79],3.327632394854781e-05
+COL1A1,Collagen alpha-1(I) chain,Chapter XIV Diseases of the genitourinary system,Urolithiasis,51353,497,1.66 [1.21-2.27],0.0016576282413986
+COL1A1,Collagen alpha-1(I) chain,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,51190,146,3.72 [2.21-6.26],7.227887538491651e-07
+COL1A1,Collagen alpha-1(I) chain,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,51210,354,1.87 [1.29-2.70],0.0008629972624333
+COL1A1,Collagen alpha-1(I) chain,Chapter XIV Diseases of the genitourinary system,Urethral stricture,45704,236,1.90 [1.21-2.99],0.0050692118320832
+COL1A1,Collagen alpha-1(I) chain,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),19495,107,2.01 [1.00-4.02],0.0494302055987911
+COL1A1,Collagen alpha-1(I) chain,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,21763,807,0.61 [0.48-0.78],6.98083942286317e-05
+COL1A1,Collagen alpha-1(I) chain,Chapter XIV Diseases of the genitourinary system,HSIL lesion of the cervix uteri,28101,140,0.55 [0.31-0.99],0.0465996026856321
+COL1A1,Collagen alpha-1(I) chain,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,21099,143,0.55 [0.31-0.98],0.0414745016686017
+COL1A1,Collagen alpha-1(I) chain,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,21865,909,1.42 [1.13-1.79],0.0029272775789891
+COL1A1,Collagen alpha-1(I) chain,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care related to the fetus and amniotic cavity and possible delivery problems,28096,889,0.57 [0.44-0.75],4.230673770856784e-05
+COL1A1,Collagen alpha-1(I) chain,"Chapter XV Pregnancy, childbirth and the puerperium",Complications of labour and delivery,28101,1214,0.59 [0.47-0.75],1.4097165149215034e-05
+COL1A1,Collagen alpha-1(I) chain,"Chapter XV Pregnancy, childbirth and the puerperium",Other abnormal products of conception,27749,139,0.49 [0.26-0.91],0.0239460569258971
+COL1A1,Collagen alpha-1(I) chain,"Chapter XV Pregnancy, childbirth and the puerperium",Spontaneous abortion,27803,193,0.58 [0.34-0.98],0.0408808927341256
+COL1A1,Collagen alpha-1(I) chain,"Chapter XV Pregnancy, childbirth and the puerperium","Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",28117,167,0.54 [0.30-0.97],0.0405788138988922
+COL1A1,Collagen alpha-1(I) chain,"Chapter XV Pregnancy, childbirth and the puerperium",Pregnancy hypertension,28119,164,0.52 [0.29-0.93],0.0274028978474878
+COL1A1,Collagen alpha-1(I) chain,"Chapter XV Pregnancy, childbirth and the puerperium",Other maternal disorders predominantly related to pregnancy,28115,424,0.61 [0.43-0.89],0.00900023435389
+COL1A1,Collagen alpha-1(I) chain,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for other conditions predominantly related to pregnancy,27924,233,0.36 [0.22-0.60],6.224832699299615e-05
+COL1A1,Collagen alpha-1(I) chain,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for known or suspected malpresentation of fetus,27357,150,0.47 [0.26-0.87],0.0160139815162578
+COL1A1,Collagen alpha-1(I) chain,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for known or suspected abnormality of pelvic organs,27410,203,0.34 [0.20-0.57],5.676126869047945e-05
+COL1A1,Collagen alpha-1(I) chain,"Chapter XV Pregnancy, childbirth and the puerperium",False labour,27347,140,0.46 [0.24-0.87],0.0163183611487272
+COL1A1,Collagen alpha-1(I) chain,"Chapter XV Pregnancy, childbirth and the puerperium",Prolonged pregnancy,27360,153,0.44 [0.24-0.82],0.0089890310439584
+COL1A1,Collagen alpha-1(I) chain,"Chapter XV Pregnancy, childbirth and the puerperium",Long labour,27122,235,0.39 [0.24-0.65],0.0003277154291385
+COL1A1,Collagen alpha-1(I) chain,"Chapter XV Pregnancy, childbirth and the puerperium",Labour and delivery complicated by fetal stress [distress],27329,442,0.65 [0.45-0.93],0.0183375609329869
+COL1A1,Collagen alpha-1(I) chain,"Chapter XV Pregnancy, childbirth and the puerperium",Perineal laceration during delivery,27567,680,0.64 [0.47-0.86],0.003395526717611
+COL1A1,Collagen alpha-1(I) chain,"Chapter XV Pregnancy, childbirth and the puerperium",Delivery,28128,345,0.48 [0.32-0.72],0.0003227384344651
+COL1A1,Collagen alpha-1(I) chain,"Chapter XV Pregnancy, childbirth and the puerperium",Single spontaneous delivery,28046,263,0.51 [0.32-0.80],0.0034818665727057
+COL1A1,Collagen alpha-1(I) chain,"Chapter XV Pregnancy, childbirth and the puerperium","Other obstetric conditions, not elsewhere classified",28114,257,0.44 [0.27-0.70],0.0005889007177732
+COL1A1,Collagen alpha-1(I) chain,"Chapter XV Pregnancy, childbirth and the puerperium","Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",28104,247,0.47 [0.29-0.76],0.0020351633734445

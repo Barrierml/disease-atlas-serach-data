@@ -1,0 +1,41 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+LPO,Lactoperoxidase,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,42353,427,1.29 [1.13-1.48],0.0002769047280734
+LPO,Lactoperoxidase,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,43901,169,1.45 [1.17-1.79],0.0005645728542163
+LPO,Lactoperoxidase,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),42967,890,1.31 [1.19-1.44],4.9312561842479307e-08
+LPO,Lactoperoxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,40231,2269,1.18 [1.10-1.25],6.928820595228675e-07
+LPO,Lactoperoxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,45289,259,2.81 [2.43-3.25],1.098974423923894e-44
+LPO,Lactoperoxidase,Chapter IX Diseases of the circulatory system,Peripheral artery disease,47501,213,1.39 [1.15-1.68],0.0007494606946192
+LPO,Lactoperoxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,45265,235,2.82 [2.43-3.28],1.9705464339952327e-41
+LPO,Lactoperoxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,46094,1064,1.73 [1.59-1.89],1.9630608301038157e-34
+LPO,Lactoperoxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,46060,1030,1.74 [1.59-1.90],8.515242125020017e-34
+LPO,Lactoperoxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,39896,1934,1.20 [1.12-1.28],3.032359411753873e-07
+LPO,Lactoperoxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,39749,1787,1.21 [1.12-1.30],2.534128143587218e-07
+LPO,Lactoperoxidase,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",41286,445,1.31 [1.14-1.51],0.0001177301025211
+LPO,Lactoperoxidase,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",49008,334,1.43 [1.22-1.67],6.479663935939236e-06
+LPO,Lactoperoxidase,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",49137,242,1.45 [1.21-1.74],5.708039684178744e-05
+LPO,Lactoperoxidase,Chapter V Mental and behavioural disorders,Alcohol dependence,46379,139,1.60 [1.27-2.02],8.176484986800227e-05
+LPO,Lactoperoxidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,42838,314,1.31 [1.12-1.53],0.0006358067463465
+LPO,Lactoperoxidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,47812,421,1.27 [1.11-1.46],0.0005703169806078
+LPO,Lactoperoxidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,49124,102,1.97 [1.54-2.50],4.531819264319557e-08
+LPO,Lactoperoxidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",44986,102,2.15 [1.68-2.74],7.821945424719986e-10
+LPO,Lactoperoxidase,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,35269,6330,1.19 [1.13-1.24],1.0812138750995405e-13
+LPO,Lactoperoxidase,Chapter IX Diseases of the circulatory system,"Hypertension, essential",37122,4358,1.20 [1.14-1.27],1.0900415152670766e-12
+LPO,Lactoperoxidase,Chapter IX Diseases of the circulatory system,Hypertension,37186,4422,1.20 [1.14-1.26],9.502873713333609e-13
+LPO,Lactoperoxidase,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",45531,2318,1.21 [1.14-1.29],1.8715767453524238e-09
+LPO,Lactoperoxidase,Chapter IX Diseases of the circulatory system,Angina pectoris,44602,1389,1.17 [1.08-1.27],7.85973085055707e-05
+LPO,Lactoperoxidase,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,48202,943,1.23 [1.12-1.35],1.996916323651838e-05
+LPO,Lactoperoxidase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",43795,582,1.31 [1.17-1.48],7.82741794627654e-06
+LPO,Lactoperoxidase,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,45011,1833,1.21 [1.13-1.30],9.925976758243e-08
+LPO,Lactoperoxidase,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,28129,859,1.24 [1.12-1.38],4.824028057615403e-05
+LPO,Lactoperoxidase,Chapter IX Diseases of the circulatory system,"Heart failure, strict",47706,399,1.28 [1.11-1.48],0.0007498850380751
+LPO,Lactoperoxidase,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,47964,484,1.27 [1.11-1.44],0.000336051233317
+LPO,Lactoperoxidase,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,47953,473,1.26 [1.11-1.44],0.0004457753392704
+LPO,Lactoperoxidase,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",46419,1606,0.87 [0.80-0.93],0.0001799688917315
+LPO,Lactoperoxidase,Chapter XI Diseases of the digestive system,Hernia,43595,3126,0.89 [0.85-0.95],8.358507817358194e-05
+LPO,Lactoperoxidase,Chapter XI Diseases of the digestive system,Inguinal hernia,41613,1144,0.85 [0.77-0.93],0.0002946162269146
+LPO,Lactoperoxidase,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,47872,1471,1.14 [1.05-1.23],0.0009905258331828
+LPO,Lactoperoxidase,Chapter XI Diseases of the digestive system,Diseases of liver,48206,245,1.49 [1.26-1.78],6.340168605365698e-06
+LPO,Lactoperoxidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,38951,4486,0.92 [0.87-0.96],0.000296360923696
+LPO,Lactoperoxidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,36677,2212,0.86 [0.80-0.92],8.771270620063831e-06
+LPO,Lactoperoxidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",41665,2212,0.86 [0.80-0.92],5.962820866114232e-06
+LPO,Lactoperoxidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,35476,1011,0.83 [0.76-0.92],0.0001604681895679

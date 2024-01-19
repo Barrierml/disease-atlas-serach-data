@@ -1,0 +1,65 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+CTSC,Dipeptidyl peptidase 1,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,18178,290,1.29 [1.02-1.63],0.0335974837409491
+CTSC,Dipeptidyl peptidase 1,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,13280,1078,1.19 [1.05-1.36],0.006759082002666
+CTSC,Dipeptidyl peptidase 1,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",16488,55,1.67 [1.03-2.71],0.0366407625181022
+CTSC,Dipeptidyl peptidase 1,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),18453,565,1.21 [1.02-1.43],0.029509690297424
+CTSC,Dipeptidyl peptidase 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,20296,152,1.56 [1.15-2.11],0.0044405412540054
+CTSC,Dipeptidyl peptidase 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,20283,139,1.62 [1.18-2.22],0.0028172140103168
+CTSC,Dipeptidyl peptidase 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,20923,779,1.24 [1.06-1.43],0.0054873153831752
+CTSC,Dipeptidyl peptidase 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,20897,753,1.27 [1.09-1.47],0.0020971132943294
+CTSC,Dipeptidyl peptidase 1,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",18540,161,1.53 [1.12-2.07],0.0068632860393176
+CTSC,Dipeptidyl peptidase 1,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",22742,113,1.68 [1.18-2.37],0.0037204193628129
+CTSC,Dipeptidyl peptidase 1,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",22801,84,1.86 [1.25-2.75],0.0020555347455905
+CTSC,Dipeptidyl peptidase 1,Chapter V Mental and behavioural disorders,Alcohol dependence,21565,42,2.09 [1.22-3.57],0.006917465239466
+CTSC,Dipeptidyl peptidase 1,Chapter VI Diseases of the nervous system,Neurological diseases,18764,1486,1.34 [1.20-1.49],5.994651251338879e-08
+CTSC,Dipeptidyl peptidase 1,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,16422,104,1.78 [1.25-2.54],0.0013332109657877
+CTSC,Dipeptidyl peptidase 1,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,23014,79,1.66 [1.11-2.48],0.0135273561344439
+CTSC,Dipeptidyl peptidase 1,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,21782,467,1.46 [1.22-1.74],2.593874565234669e-05
+CTSC,Dipeptidyl peptidase 1,Chapter VI Diseases of the nervous system,Epilepsy,21450,135,2.75 [2.10-3.59],1.4945014767513522e-13
+CTSC,Dipeptidyl peptidase 1,Chapter VI Diseases of the nervous system,Hemiplegia,22703,58,1.80 [1.13-2.85],0.0125106680072227
+CTSC,Dipeptidyl peptidase 1,Chapter VI Diseases of the nervous system,Other neurological diseases,22545,121,1.41 [1.01-1.99],0.0467139598108919
+CTSC,Dipeptidyl peptidase 1,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,14230,4560,1.15 [1.06-1.24],0.0005242796197793
+CTSC,Dipeptidyl peptidase 1,Chapter IX Diseases of the circulatory system,"Hypertension, essential",15082,3189,1.14 [1.05-1.24],0.002324653917599
+CTSC,Dipeptidyl peptidase 1,Chapter IX Diseases of the circulatory system,Hypertension,15125,3232,1.13 [1.04-1.23],0.0033789463022256
+CTSC,Dipeptidyl peptidase 1,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",20231,1815,1.11 [1.01-1.23],0.0342770955254905
+CTSC,Dipeptidyl peptidase 1,Chapter IX Diseases of the circulatory system,Angina pectoris,19492,1076,1.14 [1.01-1.30],0.0364381175629854
+CTSC,Dipeptidyl peptidase 1,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,19863,1472,1.16 [1.04-1.29],0.0073419483867809
+CTSC,Dipeptidyl peptidase 1,Chapter IX Diseases of the circulatory system,Cardiomyopathy,16953,69,1.75 [1.13-2.71],0.0124047253113371
+CTSC,Dipeptidyl peptidase 1,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,9561,687,1.38 [1.18-1.62],5.27691977830828e-05
+CTSC,Dipeptidyl peptidase 1,Chapter IX Diseases of the circulatory system,"Heart failure, strict",21471,288,1.42 [1.14-1.78],0.0021571966600928
+CTSC,Dipeptidyl peptidase 1,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,17037,2154,1.18 [1.08-1.30],0.0002968675176659
+CTSC,Dipeptidyl peptidase 1,Chapter X Diseases of the respiratory system,Influenza and pneumonia,20545,259,1.37 [1.08-1.74],0.0092224711692045
+CTSC,Dipeptidyl peptidase 1,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",20516,230,1.40 [1.09-1.80],0.0086631870683676
+CTSC,Dipeptidyl peptidase 1,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,20008,1135,1.29 [1.15-1.45],2.653136772104479e-05
+CTSC,Dipeptidyl peptidase 1,Chapter X Diseases of the respiratory system,Early onset COPD,21445,241,1.49 [1.16-1.90],0.0014958060653073
+CTSC,Dipeptidyl peptidase 1,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",21498,294,1.55 [1.25-1.93],9.023756038874242e-05
+CTSC,Dipeptidyl peptidase 1,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",21498,294,1.55 [1.25-1.93],9.023756038874242e-05
+CTSC,Dipeptidyl peptidase 1,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",21427,862,1.18 [1.03-1.36],0.0145562775433047
+CTSC,Dipeptidyl peptidase 1,Chapter X Diseases of the respiratory system,Asthma,15026,862,1.26 [1.10-1.45],0.0009255809581281
+CTSC,Dipeptidyl peptidase 1,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",14638,862,1.28 [1.11-1.47],0.000496900531544
+CTSC,Dipeptidyl peptidase 1,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",15017,853,1.27 [1.11-1.46],0.0007028713768553
+CTSC,Dipeptidyl peptidase 1,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,22541,124,1.46 [1.05-2.04],0.0259375296009548
+CTSC,Dipeptidyl peptidase 1,Chapter X Diseases of the respiratory system,Interstitial lung disease,21468,97,1.51 [1.04-2.20],0.0298411958728
+CTSC,Dipeptidyl peptidase 1,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",22638,97,1.49 [1.03-2.17],0.0354841821948178
+CTSC,Dipeptidyl peptidase 1,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,21461,90,1.50 [1.02-2.21],0.0398089790595204
+CTSC,Dipeptidyl peptidase 1,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,22423,98,0.47 [0.31-0.73],0.0006416536468772
+CTSC,Dipeptidyl peptidase 1,Chapter XI Diseases of the digestive system,Oesophagitis,16364,408,1.24 [1.02-1.50],0.030615306687304
+CTSC,Dipeptidyl peptidase 1,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,16237,281,1.30 [1.03-1.63],0.025962503305669
+CTSC,Dipeptidyl peptidase 1,Chapter XI Diseases of the digestive system,Hernia,19480,2066,1.17 [1.06-1.28],0.0010228141700363
+CTSC,Dipeptidyl peptidase 1,Chapter XI Diseases of the digestive system,Inguinal hernia,18207,793,1.30 [1.13-1.49],0.0003208405055675
+CTSC,Dipeptidyl peptidase 1,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,14904,321,0.74 [0.59-0.94],0.013714008120821
+CTSC,Dipeptidyl peptidase 1,Chapter XI Diseases of the digestive system,Constipation,21008,290,0.73 [0.57-0.93],0.011725904867334
+CTSC,Dipeptidyl peptidase 1,Chapter XI Diseases of the digestive system,Diseases of peritoneum,22618,96,0.57 [0.37-0.88],0.0110448893660135
+CTSC,Dipeptidyl peptidase 1,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,14638,55,1.71 [1.05-2.79],0.0318992700474915
+CTSC,Dipeptidyl peptidase 1,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,22602,80,0.60 [0.37-0.95],0.0313965232427732
+CTSC,Dipeptidyl peptidase 1,Chapter XI Diseases of the digestive system,Diseases of liver,22205,122,1.88 [1.37-2.59],0.0001043948131304
+CTSC,Dipeptidyl peptidase 1,Chapter XI Diseases of the digestive system,Other diseases of liver,22154,71,1.88 [1.24-2.86],0.0029666145849596
+CTSC,Dipeptidyl peptidase 1,Chapter XI Diseases of the digestive system,Cholelithiasis,21477,590,0.77 [0.64-0.91],0.0024736781503034
+CTSC,Dipeptidyl peptidase 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,22345,71,1.63 [1.06-2.49],0.0254514209438186
+CTSC,Dipeptidyl peptidase 1,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,16845,4083,0.90 [0.84-0.97],0.0045704173283382
+CTSC,Dipeptidyl peptidase 1,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,19159,82,1.71 [1.15-2.54],0.0078304469326217
+CTSC,Dipeptidyl peptidase 1,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,19335,365,1.26 [1.03-1.54],0.0257289607652375
+CTSC,Dipeptidyl peptidase 1,Chapter XIV Diseases of the genitourinary system,Urethral stricture,19110,140,1.49 [1.08-2.04],0.013798981086729
+CTSC,Dipeptidyl peptidase 1,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",8122,72,0.57 [0.35-0.94],0.0276602322756611
+CTSC,Dipeptidyl peptidase 1,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,9352,105,1.56 [1.07-2.27],0.021768153181979
+CTSC,Dipeptidyl peptidase 1,Chapter XIV Diseases of the genitourinary system,Uterine polyps,9396,149,0.66 [0.47-0.95],0.023769345656941

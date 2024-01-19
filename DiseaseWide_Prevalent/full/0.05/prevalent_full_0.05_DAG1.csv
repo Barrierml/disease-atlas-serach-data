@@ -1,0 +1,71 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+DAG1,Dystroglycan,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,44720,1817,1.10 [1.00-1.20],0.0405304715760697
+DAG1,Dystroglycan,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,33762,1590,1.12 [1.01-1.24],0.0272363844933886
+DAG1,Dystroglycan,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,45918,1599,1.13 [1.03-1.24],0.0103091248358774
+DAG1,Dystroglycan,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,48430,712,1.22 [1.06-1.40],0.0044634648681631
+DAG1,Dystroglycan,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,48430,712,1.22 [1.06-1.40],0.0044634648681631
+DAG1,Dystroglycan,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),44635,933,1.17 [1.03-1.32],0.0151030594524224
+DAG1,Dystroglycan,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,50599,139,0.65 [0.47-0.90],0.0088050792168132
+DAG1,Dystroglycan,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,47044,268,1.88 [1.50-2.34],2.8672508221343225e-08
+DAG1,Dystroglycan,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,47016,240,1.85 [1.46-2.34],3.325059209526804e-07
+DAG1,Dystroglycan,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,47895,1119,1.63 [1.45-1.83],2.974661855768272e-16
+DAG1,Dystroglycan,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,47861,1085,1.61 [1.43-1.81],4.641425378340893e-15
+DAG1,Dystroglycan,Chapter V Mental and behavioural disorders,Any mental disorder,43720,1317,1.13 [1.02-1.25],0.0231683472242089
+DAG1,Dystroglycan,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",42864,461,1.28 [1.08-1.53],0.0055621630755233
+DAG1,Dystroglycan,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",50895,344,1.35 [1.11-1.65],0.0030730966880525
+DAG1,Dystroglycan,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",51026,249,1.50 [1.19-1.90],0.0005991184427457
+DAG1,Dystroglycan,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",43059,656,1.17 [1.02-1.36],0.0304898685943291
+DAG1,Dystroglycan,Chapter V Mental and behavioural disorders,Depression,48486,573,1.17 [1.01-1.37],0.0422620335129483
+DAG1,Dystroglycan,Chapter V Mental and behavioural disorders,Depression or dysthymia,42541,498,1.19 [1.01-1.41],0.0378632928470738
+DAG1,Dystroglycan,Chapter VI Diseases of the nervous system,Neurological diseases,44184,2961,1.09 [1.01-1.17],0.0184574395634154
+DAG1,Dystroglycan,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",49349,1338,1.15 [1.04-1.28],0.0065867291975822
+DAG1,Dystroglycan,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,49676,437,1.36 [1.14-1.63],0.0006160816391774
+DAG1,Dystroglycan,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,51031,104,2.27 [1.59-3.26],7.821103620471326e-06
+DAG1,Dystroglycan,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,4403,104,1.68 [1.15-2.45],0.0069271593053786
+DAG1,Dystroglycan,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",46732,104,2.41 [1.68-3.45],1.700831128887256e-06
+DAG1,Dystroglycan,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,36584,6581,1.06 [1.00-1.13],0.0338025010679283
+DAG1,Dystroglycan,Chapter IX Diseases of the circulatory system,"Hypertension, essential",38516,4537,1.16 [1.09-1.24],4.600631510750083e-06
+DAG1,Dystroglycan,Chapter IX Diseases of the circulatory system,Hypertension,38583,4604,1.16 [1.08-1.23],1.0637794746611843e-05
+DAG1,Dystroglycan,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",47273,2406,0.92 [0.85-1.00],0.0471378982279455
+DAG1,Dystroglycan,Chapter IX Diseases of the circulatory system,Angina pectoris,46312,1445,0.88 [0.79-0.98],0.0181283859258561
+DAG1,Dystroglycan,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,29158,883,0.83 [0.72-0.95],0.0077597093889775
+DAG1,Dystroglycan,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,42908,185,0.73 [0.55-0.97],0.0317576831378252
+DAG1,Dystroglycan,Chapter IX Diseases of the circulatory system,DVT of lower extremities,48672,244,1.27 [1.00-1.61],0.0489622921547941
+DAG1,Dystroglycan,Chapter IX Diseases of the circulatory system,Varicose veins,49388,960,0.81 [0.72-0.92],0.0010137373252587
+DAG1,Dystroglycan,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,41238,4149,1.13 [1.07-1.20],5.897965396772884e-05
+DAG1,Dystroglycan,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,46186,2030,1.16 [1.07-1.27],0.0004527890975846
+DAG1,Dystroglycan,Chapter X Diseases of the respiratory system,Early onset COPD,49315,354,1.30 [1.06-1.59],0.0103155299820449
+DAG1,Dystroglycan,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",49368,407,1.33 [1.10-1.61],0.0027966306087533
+DAG1,Dystroglycan,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",49368,407,1.33 [1.10-1.61],0.0027966306087533
+DAG1,Dystroglycan,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",48219,1673,1.13 [1.03-1.24],0.0086318544747646
+DAG1,Dystroglycan,Chapter X Diseases of the respiratory system,Asthma,36899,1673,1.16 [1.06-1.27],0.001736043589781
+DAG1,Dystroglycan,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",36357,1673,1.16 [1.06-1.28],0.001692014864679
+DAG1,Dystroglycan,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",36874,1648,1.16 [1.05-1.27],0.0022829937596909
+DAG1,Dystroglycan,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,35118,11715,1.07 [1.02-1.12],0.0023922762074197
+DAG1,Dystroglycan,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,43719,1734,1.15 [1.05-1.26],0.0026872869150768
+DAG1,Dystroglycan,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,49726,1532,1.15 [1.04-1.26],0.0054371541032982
+DAG1,Dystroglycan,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",51558,163,1.35 [1.02-1.79],0.037345035310011
+DAG1,Dystroglycan,Chapter XI Diseases of the digestive system,Crohn disease,48357,163,1.36 [1.03-1.81],0.0311302568842861
+DAG1,Dystroglycan,Chapter XI Diseases of the digestive system,Crohn's disease NAS,48317,123,1.42 [1.03-1.96],0.0339363745031931
+DAG1,Dystroglycan,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,49437,1243,1.13 [1.02-1.25],0.0250287609006977
+DAG1,Dystroglycan,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,49423,1229,1.12 [1.01-1.25],0.0354817282093482
+DAG1,Dystroglycan,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",48929,1262,1.11 [1.00-1.24],0.0481925177222026
+DAG1,Dystroglycan,Chapter XI Diseases of the digestive system,Diseases of the digestive system,48893,629,1.21 [1.04-1.40],0.0122692852749113
+DAG1,Dystroglycan,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,37209,8007,1.07 [1.02-1.13],0.0042121544020824
+DAG1,Dystroglycan,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,40456,4656,1.07 [1.01-1.14],0.0196772567324464
+DAG1,Dystroglycan,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,46603,2420,1.13 [1.05-1.22],0.0018284077462113
+DAG1,Dystroglycan,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,36103,303,1.32 [1.06-1.63],0.0120467158653522
+DAG1,Dystroglycan,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",50845,291,1.28 [1.03-1.59],0.0234028843187756
+DAG1,Dystroglycan,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,50867,263,1.30 [1.04-1.63],0.0232134082231488
+DAG1,Dystroglycan,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,38113,2313,1.11 [1.02-1.21],0.0114110736371428
+DAG1,Dystroglycan,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",43295,2313,1.10 [1.02-1.20],0.0198547737187306
+DAG1,Dystroglycan,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,36365,565,1.19 [1.01-1.39],0.0395705216395963
+DAG1,Dystroglycan,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",51377,278,1.34 [1.07-1.68],0.0109087008712524
+DAG1,Dystroglycan,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,50426,113,1.42 [1.01-2.01],0.0451352252420652
+DAG1,Dystroglycan,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,44810,627,1.16 [1.00-1.35],0.0460004546292602
+DAG1,Dystroglycan,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,50779,146,1.40 [1.03-1.90],0.0324884189954623
+DAG1,Dystroglycan,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,21772,967,0.84 [0.74-0.95],0.0066489115419948
+DAG1,Dystroglycan,Chapter XIV Diseases of the genitourinary system,Uterine polyps,21120,315,0.76 [0.62-0.95],0.0135820013124144
+DAG1,Dystroglycan,"Chapter XV Pregnancy, childbirth and the puerperium",Other maternal disorders predominantly related to pregnancy,27915,418,0.79 [0.66-0.95],0.0121911334428773
+DAG1,Dystroglycan,"Chapter XV Pregnancy, childbirth and the puerperium",Haemorrhage in early pregnancy,27622,125,0.55 [0.39-0.77],0.0004644850430985
+DAG1,Dystroglycan,"Chapter XV Pregnancy, childbirth and the puerperium",Prolonged pregnancy,27167,150,0.70 [0.51-0.95],0.0204568037122325

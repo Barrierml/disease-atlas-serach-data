@@ -1,0 +1,84 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+THPO,Thrombopoietin,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,25106,888,1.30 [1.12-1.52],0.0008537077893948
+THPO,Thrombopoietin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,25147,141,1.63 [1.11-2.37],0.0117064228017691
+THPO,Thrombopoietin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,19954,488,1.24 [1.00-1.53],0.0452721541143382
+THPO,Thrombopoietin,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,25375,46,2.06 [1.08-3.94],0.029008862968238
+THPO,Thrombopoietin,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,27704,67,1.91 [1.12-3.28],0.018051404469856
+THPO,Thrombopoietin,Chapter I Certain infectious and parasitic diseases,Other viral diseases,27664,97,2.13 [1.37-3.33],0.0008355794403512
+THPO,Thrombopoietin,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",27656,89,2.25 [1.42-3.57],0.0005808207606113
+THPO,Thrombopoietin,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,26701,243,1.43 [1.07-1.90],0.0159630390865973
+THPO,Thrombopoietin,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",24072,47,3.97 [2.16-7.30],8.591129179378377e-06
+THPO,Thrombopoietin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,25599,802,1.38 [1.17-1.63],0.0001012872285407
+THPO,Thrombopoietin,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",27779,69,0.55 [0.32-0.97],0.040122675046421
+THPO,Thrombopoietin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,26811,195,1.39 [1.01-1.93],0.0461966115960452
+THPO,Thrombopoietin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,26709,348,1.38 [1.08-1.76],0.0102193284631079
+THPO,Thrombopoietin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,26709,348,1.38 [1.08-1.76],0.0102193284631079
+THPO,Thrombopoietin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,27358,76,3.07 [1.88-5.01],7.282937637420908e-06
+THPO,Thrombopoietin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,24258,541,0.76 [0.62-0.93],0.0072916223773486
+THPO,Thrombopoietin,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",23791,74,0.40 [0.23-0.69],0.0009403963010406
+THPO,Thrombopoietin,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,24212,495,0.79 [0.64-0.98],0.0293846353704091
+THPO,Thrombopoietin,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,23758,41,3.28 [1.69-6.35],0.0004371724746595
+THPO,Thrombopoietin,Chapter VI Diseases of the nervous system,Epilepsy,26166,162,0.56 [0.38-0.80],0.0018275509565186
+THPO,Thrombopoietin,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,27497,40,0.43 [0.20-0.90],0.0258987088963351
+THPO,Thrombopoietin,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",26323,566,0.55 [0.45-0.67],4.128101779395161e-09
+THPO,Thrombopoietin,Chapter IX Diseases of the circulatory system,Angina pectoris,26107,350,0.47 [0.36-0.60],4.219528572180513e-09
+THPO,Thrombopoietin,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,27115,139,0.46 [0.31-0.69],0.0001537778252702
+THPO,Thrombopoietin,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,27235,259,0.50 [0.37-0.67],2.73369007483157e-06
+THPO,Thrombopoietin,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",25914,157,0.49 [0.34-0.72],0.0002310890595174
+THPO,Thrombopoietin,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,26171,425,0.49 [0.39-0.62],1.533623165472316e-09
+THPO,Thrombopoietin,Chapter IX Diseases of the circulatory system,Venous thromboembolism,27298,173,1.53 [1.09-2.15],0.0147381750696305
+THPO,Thrombopoietin,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,25228,62,0.51 [0.28-0.93],0.0271996456458068
+THPO,Thrombopoietin,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),26607,115,1.80 [1.19-2.72],0.0051864218528612
+THPO,Thrombopoietin,Chapter IX Diseases of the circulatory system,DVT of lower extremities,26586,94,2.08 [1.33-3.27],0.0014015690656455
+THPO,Thrombopoietin,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",27659,89,2.04 [1.28-3.24],0.0026815212870779
+THPO,Thrombopoietin,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,23544,1930,1.18 [1.06-1.32],0.0027566511416388
+THPO,Thrombopoietin,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,27604,137,2.00 [1.37-2.91],0.0002986782311511
+THPO,Thrombopoietin,Chapter X Diseases of the respiratory system,Influenza and pneumonia,26630,183,1.68 [1.21-2.34],0.0020253384232733
+THPO,Thrombopoietin,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",26604,157,1.78 [1.25-2.53],0.0015223217699448
+THPO,Thrombopoietin,Chapter X Diseases of the respiratory system,Chronic sinusitis,26367,92,1.83 [1.15-2.90],0.0103893105278014
+THPO,Thrombopoietin,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,26985,85,1.66 [1.02-2.69],0.0399158055318246
+THPO,Thrombopoietin,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,19677,5088,1.13 [1.04-1.21],0.0022456494126259
+THPO,Thrombopoietin,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",27220,492,1.35 [1.10-1.66],0.0045091910618927
+THPO,Thrombopoietin,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,26832,104,1.63 [1.05-2.53],0.0291003489399632
+THPO,Thrombopoietin,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,26822,94,2.06 [1.31-3.24],0.0017804670901645
+THPO,Thrombopoietin,Chapter XI Diseases of the digestive system,Inguinal hernia,24295,385,0.69 [0.54-0.88],0.0026717898663909
+THPO,Thrombopoietin,Chapter XI Diseases of the digestive system,Umbilical hernia,24030,120,1.55 [1.03-2.33],0.0335813883717898
+THPO,Thrombopoietin,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,24501,591,1.26 [1.04-1.52],0.01603878568143
+THPO,Thrombopoietin,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,26937,744,1.22 [1.03-1.45],0.0197349648365585
+THPO,Thrombopoietin,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,26787,594,1.34 [1.11-1.62],0.0022154080751225
+THPO,Thrombopoietin,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,26782,589,1.34 [1.11-1.61],0.0024953154291913
+THPO,Thrombopoietin,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",21307,46,2.20 [1.15-4.19],0.0164940518830108
+THPO,Thrombopoietin,Chapter XI Diseases of the digestive system,Diseases of liver,27087,119,0.55 [0.36-0.84],0.0059715227566076
+THPO,Thrombopoietin,Chapter XI Diseases of the digestive system,Other diseases of liver,27032,64,0.42 [0.23-0.76],0.0043872149173878
+THPO,Thrombopoietin,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",26591,519,1.26 [1.03-1.54],0.0249535059804983
+THPO,Thrombopoietin,Chapter XI Diseases of the digestive system,Cholelithiasis,26484,412,1.31 [1.05-1.64],0.0180898709006395
+THPO,Thrombopoietin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,21525,3485,1.16 [1.06-1.26],0.0008313583840482
+THPO,Thrombopoietin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,25401,1103,1.24 [1.08-1.42],0.0027826006349478
+THPO,Thrombopoietin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",27714,60,1.99 [1.13-3.49],0.0172367894390576
+THPO,Thrombopoietin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,27431,151,2.50 [1.76-3.56],3.608940129294009e-07
+THPO,Thrombopoietin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,25139,325,1.30 [1.01-1.67],0.0409848909253398
+THPO,Thrombopoietin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,24585,287,1.33 [1.02-1.74],0.0375788891182563
+THPO,Thrombopoietin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,24362,64,1.79 [1.02-3.13],0.0410927259658281
+THPO,Thrombopoietin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",24726,428,1.30 [1.04-1.62],0.0213810202351598
+THPO,Thrombopoietin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,24519,221,1.42 [1.05-1.93],0.0228414517507496
+THPO,Thrombopoietin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,26439,100,1.68 [1.08-2.61],0.0222920547235435
+THPO,Thrombopoietin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,26294,207,1.82 [1.34-2.48],0.0001495634191202
+THPO,Thrombopoietin,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,26447,48,2.04 [1.08-3.85],0.0272484033639441
+THPO,Thrombopoietin,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,26452,53,2.98 [1.66-5.36],0.0002704156564328
+THPO,Thrombopoietin,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,27519,54,2.21 [1.23-3.99],0.0081443983170487
+THPO,Thrombopoietin,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,25633,179,1.49 [1.07-2.08],0.0197012795368125
+THPO,Thrombopoietin,Chapter XIV Diseases of the genitourinary system,Hydrocele,10901,36,0.44 [0.20-0.96],0.0395711869594838
+THPO,Thrombopoietin,Chapter XIV Diseases of the genitourinary system,Disorders of breast,15211,249,1.40 [1.04-1.87],0.0241883242465401
+THPO,Thrombopoietin,Chapter XIV Diseases of the genitourinary system,Unspecified lump in breast,15052,90,1.85 [1.15-2.97],0.0107991701408708
+THPO,Thrombopoietin,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,11300,74,0.49 [0.28-0.87],0.0139656726988905
+THPO,Thrombopoietin,Chapter XIV Diseases of the genitourinary system,Irregular menses,15288,378,1.48 [1.17-1.88],0.0010967473508197
+THPO,Thrombopoietin,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care related to the fetus and amniotic cavity and possible delivery problems,15387,862,0.79 [0.66-0.94],0.008016318872477
+THPO,Thrombopoietin,"Chapter XV Pregnancy, childbirth and the puerperium",Complications of labour and delivery,15394,1182,0.77 [0.66-0.90],0.0009215638836031
+THPO,Thrombopoietin,"Chapter XV Pregnancy, childbirth and the puerperium",Other maternal disorders predominantly related to pregnancy,15404,409,0.74 [0.58-0.94],0.0147299446881438
+THPO,Thrombopoietin,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for other known or suspected fetal problems,14770,245,0.72 [0.53-0.97],0.032535956807212
+THPO,Thrombopoietin,"Chapter XV Pregnancy, childbirth and the puerperium",Prolonged pregnancy,14673,148,0.59 [0.40-0.88],0.0094552302440104
+THPO,Thrombopoietin,"Chapter XV Pregnancy, childbirth and the puerperium",Long labour,14442,230,0.70 [0.50-0.96],0.0274265745939874
+THPO,Thrombopoietin,"Chapter XV Pregnancy, childbirth and the puerperium",Perineal laceration during delivery,14871,659,0.74 [0.61-0.91],0.0034687325114644
+THPO,Thrombopoietin,"Chapter XV Pregnancy, childbirth and the puerperium",Postpartum haemorrhage due to anatomy,13983,129,0.58 [0.38-0.89],0.0124521929081818
+THPO,Thrombopoietin,"Chapter XV Pregnancy, childbirth and the puerperium",Delivery,15416,331,0.67 [0.51-0.88],0.0039835028632581
+THPO,Thrombopoietin,"Chapter XV Pregnancy, childbirth and the puerperium",Single spontaneous delivery,15335,250,0.59 [0.43-0.80],0.000859764033703

@@ -1,0 +1,82 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+CLPS,Colipase,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,13285,1084,1.12 [1.04-1.21],0.0048954846323296
+CLPS,Colipase,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,22868,89,0.74 [0.58-0.95],0.0168685356870668
+CLPS,Colipase,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,18483,71,1.35 [1.01-1.80],0.0430379077348223
+CLPS,Colipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,19645,764,1.19 [1.08-1.30],0.0001902699364031
+CLPS,Colipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,21550,192,1.29 [1.08-1.53],0.004439935074171
+CLPS,Colipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,21024,351,1.17 [1.03-1.33],0.0181836630960752
+CLPS,Colipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,21024,351,1.17 [1.03-1.33],0.0181836630960752
+CLPS,Colipase,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),18455,566,1.14 [1.02-1.27],0.0156493486756852
+CLPS,Colipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,16687,1649,1.10 [1.03-1.17],0.0032444188397296
+CLPS,Colipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,21402,646,1.17 [1.06-1.29],0.0013483158645535
+CLPS,Colipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,20322,154,0.55 [0.45-0.67],8.41393049099262e-10
+CLPS,Colipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,20309,141,0.52 [0.43-0.64],1.2860323835097043e-10
+CLPS,Colipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,16505,1467,1.10 [1.03-1.18],0.00560976543192
+CLPS,Colipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,16395,1357,1.10 [1.03-1.18],0.0069630286089345
+CLPS,Colipase,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",18550,160,0.74 [0.62-0.89],0.0011863201163375
+CLPS,Colipase,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",22769,112,0.66 [0.54-0.81],5.8324957400457056e-05
+CLPS,Colipase,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",22829,83,0.67 [0.53-0.85],0.0008526290084292
+CLPS,Colipase,Chapter V Mental and behavioural disorders,Acute alcohol intoxication,21577,34,0.65 [0.46-0.91],0.011440030297585
+CLPS,Colipase,Chapter V Mental and behavioural disorders,"Acute alcohol intoxication, ICD10",23061,34,0.64 [0.45-0.90],0.0108522576548132
+CLPS,Colipase,Chapter V Mental and behavioural disorders,"Alcohol abuse, main dg, excluding more controls",18424,34,0.66 [0.47-0.92],0.0142555199183703
+CLPS,Colipase,Chapter V Mental and behavioural disorders,Alcohol dependence,21585,42,0.61 [0.45-0.82],0.0011842789763817
+CLPS,Colipase,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,16431,102,0.73 [0.58-0.92],0.0084646347469594
+CLPS,Colipase,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,23044,79,0.64 [0.49-0.83],0.0007069150423846
+CLPS,Colipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,22714,80,0.75 [0.57-0.98],0.0331438128142467
+CLPS,Colipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",20183,80,0.73 [0.55-0.96],0.0230863616804114
+CLPS,Colipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",22213,77,0.74 [0.56-0.96],0.0250280785871591
+CLPS,Colipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of ear,21920,109,1.32 [1.05-1.67],0.0170834246593643
+CLPS,Colipase,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,14242,4583,1.10 [1.05-1.16],3.8964212466282064e-05
+CLPS,Colipase,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,22175,97,1.67 [1.32-2.11],2.3584634763846367e-05
+CLPS,Colipase,Chapter IX Diseases of the circulatory system,Hypertension,15135,3250,1.07 [1.02-1.13],0.0066495777987994
+CLPS,Colipase,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,11994,109,2.18 [1.76-2.71],2.0002199238692042e-12
+CLPS,Colipase,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",20254,1834,1.11 [1.05-1.18],0.0005926223013355
+CLPS,Colipase,Chapter IX Diseases of the circulatory system,Angina pectoris,19514,1094,1.09 [1.01-1.18],0.0202969640891885
+CLPS,Colipase,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,22094,703,1.16 [1.05-1.27],0.0022489381969214
+CLPS,Colipase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",18858,438,1.25 [1.11-1.41],0.000197009635429
+CLPS,Colipase,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,19882,1487,1.10 [1.03-1.17],0.0053693051582645
+CLPS,Colipase,Chapter IX Diseases of the circulatory system,Secondary right heart disease,21976,118,1.68 [1.35-2.08],2.45960156813632e-06
+CLPS,Colipase,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,21977,119,1.67 [1.35-2.08],2.5724342885364806e-06
+CLPS,Colipase,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",11999,114,1.74 [1.39-2.18],1.1074712902114476e-06
+CLPS,Colipase,Chapter IX Diseases of the circulatory system,Cardiomyopathy,16969,68,1.71 [1.29-2.27],0.0001809150957115
+CLPS,Colipase,Chapter IX Diseases of the circulatory system,Conduction disorders,17075,174,1.36 [1.13-1.63],0.0013032501761058
+CLPS,Colipase,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,9000,141,1.41 [1.14-1.73],0.0013072862775893
+CLPS,Colipase,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,9545,686,1.34 [1.21-1.48],1.7239952904338874e-08
+CLPS,Colipase,Chapter IX Diseases of the circulatory system,Other arrhythmias,16995,94,1.30 [1.01-1.67],0.0421342547539336
+CLPS,Colipase,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,17025,124,1.79 [1.45-2.21],5.744493740907342e-08
+CLPS,Colipase,Chapter IX Diseases of the circulatory system,"Heart failure, strict",21489,295,1.29 [1.12-1.49],0.0003339012932702
+CLPS,Colipase,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,22569,126,1.57 [1.27-1.93],2.353709785162712e-05
+CLPS,Colipase,Chapter X Diseases of the respiratory system,Interstitial lung disease,21491,98,1.59 [1.25-2.01],0.0001161086836694
+CLPS,Colipase,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",22665,98,1.58 [1.25-2.00],0.0001276477261043
+CLPS,Colipase,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,21484,91,1.62 [1.27-2.07],9.219828540132986e-05
+CLPS,Colipase,Chapter X Diseases of the respiratory system,Other diseases of pleura,20468,295,1.24 [1.07-1.43],0.0034852324551096
+CLPS,Colipase,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,21448,135,1.31 [1.06-1.61],0.0107154236457988
+CLPS,Colipase,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,16329,340,1.15 [1.01-1.31],0.0362860757151946
+CLPS,Colipase,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",18551,2562,1.06 [1.00-1.11],0.0370352337428678
+CLPS,Colipase,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,22066,767,0.89 [0.81-0.97],0.0074168677260453
+CLPS,Colipase,Chapter XI Diseases of the digestive system,"Ulcerative colitis (strict definition, require KELA, min 2 HDR)",22996,144,0.81 [0.66-0.99],0.0388443094314444
+CLPS,Colipase,Chapter XI Diseases of the digestive system,Ulcerative colitis,21443,144,0.81 [0.66-0.99],0.0403412215918572
+CLPS,Colipase,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",21433,134,0.80 [0.65-0.98],0.03558399585012
+CLPS,Colipase,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,21931,632,0.88 [0.80-0.97],0.0120725792033685
+CLPS,Colipase,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,21922,623,0.88 [0.79-0.97],0.008126404701404
+CLPS,Colipase,Chapter XI Diseases of the digestive system,Cholelithiasis,21499,590,1.11 [1.01-1.23],0.0380956362983215
+CLPS,Colipase,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,20964,55,0.68 [0.50-0.93],0.0151103665556107
+CLPS,Colipase,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,22085,392,1.14 [1.01-1.29],0.0408410633927362
+CLPS,Colipase,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,21975,282,1.16 [1.00-1.34],0.0427100943893006
+CLPS,Colipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,15112,4441,1.05 [1.01-1.10],0.0248179861384311
+CLPS,Colipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,14117,186,1.20 [1.00-1.43],0.0485605391677219
+CLPS,Colipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,22624,164,1.23 [1.02-1.48],0.0335605630914031
+CLPS,Colipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),14232,301,1.17 [1.02-1.35],0.0301676060383538
+CLPS,Colipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,17384,274,0.86 [0.74-1.00],0.0459937029904913
+CLPS,Colipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,22408,104,1.45 [1.15-1.83],0.0018311050360546
+CLPS,Colipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,19351,284,0.84 [0.73-0.97],0.0184351891604687
+CLPS,Colipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,19307,87,1.36 [1.05-1.76],0.0204457411274056
+CLPS,Colipase,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,16858,4100,1.06 [1.01-1.11],0.0099489863110821
+CLPS,Colipase,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,19395,297,1.59 [1.38-1.83],5.335587512340335e-11
+CLPS,Colipase,Chapter XIV Diseases of the genitourinary system,Acute renal failure,19441,65,1.48 [1.10-1.98],0.0092361312131086
+CLPS,Colipase,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,19466,90,2.03 [1.61-2.56],2.6241506503032528e-09
+CLPS,Colipase,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,19456,80,1.84 [1.43-2.36],2.2045610282488203e-06
+CLPS,Colipase,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,22533,90,1.50 [1.17-1.92],0.0013725738854708
+CLPS,Colipase,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,11938,165,0.82 [0.67-0.99],0.0422975604175206
+CLPS,Colipase,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,11829,56,0.69 [0.50-0.95],0.0250245082202038
+CLPS,Colipase,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",9470,221,0.83 [0.70-0.98],0.0287110253527172

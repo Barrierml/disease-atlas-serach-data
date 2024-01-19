@@ -1,0 +1,32 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+LPO,Lactoperoxidase,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,24767,142,1.59 [1.26-2.00],7.084565755497805e-05
+LPO,Lactoperoxidase,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,19674,486,1.26 [1.10-1.44],0.0006531762273992
+LPO,Lactoperoxidase,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,25550,76,1.52 [1.12-2.08],0.0076128227914877
+LPO,Lactoperoxidase,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,26747,106,1.44 [1.10-1.87],0.0075010030587642
+LPO,Lactoperoxidase,Chapter II Neoplasms,Melanocytic naevi,27225,232,0.76 [0.62-0.92],0.0058725503167958
+LPO,Lactoperoxidase,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),25128,351,1.28 [1.09-1.49],0.0018517887183435
+LPO,Lactoperoxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,24079,678,1.22 [1.09-1.37],0.0005319683873262
+LPO,Lactoperoxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,26148,410,0.81 [0.70-0.94],0.0051062476314661
+LPO,Lactoperoxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,25647,107,3.20 [2.58-3.96],1.4982749888382718e-26
+LPO,Lactoperoxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,25635,95,3.21 [2.57-4.03],2.5458170416581443e-24
+LPO,Lactoperoxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,25857,317,1.66 [1.43-1.94],1.2655874998779709e-10
+LPO,Lactoperoxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,25848,308,1.68 [1.43-1.96],1.2545523456154275e-10
+LPO,Lactoperoxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,23919,518,1.20 [1.06-1.37],0.0050803963942212
+LPO,Lactoperoxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,23877,476,1.22 [1.07-1.40],0.0030498714071912
+LPO,Lactoperoxidase,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",26999,225,1.35 [1.11-1.63],0.0023678868730408
+LPO,Lactoperoxidase,Chapter V Mental and behavioural disorders,Other anxiety disorders,25957,66,0.58 [0.41-0.83],0.0025481457077576
+LPO,Lactoperoxidase,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,27222,121,0.68 [0.52-0.89],0.0051879243401879
+LPO,Lactoperoxidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,26757,87,1.48 [1.11-1.98],0.0080649141109951
+LPO,Lactoperoxidase,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,21482,1907,1.19 [1.10-1.28],3.3903735054312267e-06
+LPO,Lactoperoxidase,Chapter IX Diseases of the circulatory system,"Hypertension, essential",22512,1260,1.23 [1.12-1.34],4.453731933359244e-06
+LPO,Lactoperoxidase,Chapter IX Diseases of the circulatory system,Hypertension,22534,1282,1.21 [1.11-1.32],1.0660441885363823e-05
+LPO,Lactoperoxidase,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,26830,213,1.34 [1.11-1.62],0.0027441070267395
+LPO,Lactoperoxidase,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,26828,211,1.34 [1.11-1.63],0.0024157154364609
+LPO,Lactoperoxidase,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,26588,78,1.58 [1.17-2.14],0.0028469466213823
+LPO,Lactoperoxidase,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,26555,722,1.23 [1.10-1.37],0.0001788962798768
+LPO,Lactoperoxidase,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,26414,581,1.24 [1.10-1.40],0.0004344755087286
+LPO,Lactoperoxidase,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,26409,576,1.23 [1.09-1.39],0.0008228569449648
+LPO,Lactoperoxidase,Chapter XI Diseases of the digestive system,Diseases of liver,26703,124,1.53 [1.20-1.95],0.0005989902465441
+LPO,Lactoperoxidase,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,13789,2694,0.91 [0.86-0.97],0.0064059327043418
+LPO,Lactoperoxidase,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,11347,252,0.73 [0.60-0.90],0.0026437101122782
+LPO,Lactoperoxidase,"Chapter XV Pregnancy, childbirth and the puerperium",Complications of labour and delivery,15176,1172,1.17 [1.06-1.30],0.0016925757733046

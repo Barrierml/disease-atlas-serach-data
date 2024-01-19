@@ -1,0 +1,79 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+PLAU,Urokinase-type plasminogen activator,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,24246,990,1.45 [1.22-1.73],3.325573618692261e-05
+PLAU,Urokinase-type plasminogen activator,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,24159,193,1.90 [1.41-2.55],1.9587530965271632e-05
+PLAU,Urokinase-type plasminogen activator,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,18464,770,1.38 [1.13-1.69],0.0017904756448706
+PLAU,Urokinase-type plasminogen activator,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,25036,81,2.29 [1.62-3.24],2.4257893546171434e-06
+PLAU,Urokinase-type plasminogen activator,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,26881,119,2.01 [1.52-2.66],1.0917057854701664e-06
+PLAU,Urokinase-type plasminogen activator,Chapter I Certain infectious and parasitic diseases,Other septicaemia,26830,68,2.03 [1.43-2.87],6.778500268254527e-05
+PLAU,Urokinase-type plasminogen activator,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",26440,436,1.53 [1.24-1.90],8.920537732976193e-05
+PLAU,Urokinase-type plasminogen activator,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,26133,129,1.85 [1.39-2.46],2.7056629648846943e-05
+PLAU,Urokinase-type plasminogen activator,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,26308,304,1.41 [1.08-1.84],0.0120088781140445
+PLAU,Urokinase-type plasminogen activator,Chapter II Neoplasms,"Malignant neoplasm of breast, excluding all cancers (controls excluding all cancers)",23236,674,1.38 [1.12-1.69],0.0022041607519158
+PLAU,Urokinase-type plasminogen activator,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,24765,1028,1.53 [1.29-1.80],4.4441138652065574e-07
+PLAU,Urokinase-type plasminogen activator,Chapter II Neoplasms,Leiomyoma of uterus,27204,1002,0.79 [0.65-0.96],0.0176501732987806
+PLAU,Urokinase-type plasminogen activator,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,26353,272,1.39 [1.04-1.87],0.0262563780328708
+PLAU,Urokinase-type plasminogen activator,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),24539,412,1.86 [1.52-2.27],1.570200564407687e-09
+PLAU,Urokinase-type plasminogen activator,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,23012,918,1.24 [1.03-1.49],0.0225088958392229
+PLAU,Urokinase-type plasminogen activator,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,25431,912,1.41 [1.19-1.67],8.843711245129018e-05
+PLAU,Urokinase-type plasminogen activator,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,25905,122,1.59 [1.12-2.25],0.0090247898805195
+PLAU,Urokinase-type plasminogen activator,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,25893,110,1.57 [1.08-2.27],0.0172627381583122
+PLAU,Urokinase-type plasminogen activator,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,26198,415,0.62 [0.46-0.85],0.0030229655716648
+PLAU,Urokinase-type plasminogen activator,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,26189,406,0.60 [0.44-0.83],0.0016250098120824
+PLAU,Urokinase-type plasminogen activator,Chapter V Mental and behavioural disorders,Alcohol dependence,26303,24,1.88 [1.03-3.43],0.0411417139399617
+PLAU,Urokinase-type plasminogen activator,Chapter V Mental and behavioural disorders,Depression or dysthymia,22963,302,1.39 [1.07-1.82],0.0144621246225353
+PLAU,Urokinase-type plasminogen activator,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,27581,152,0.54 [0.32-0.89],0.0164404628524501
+PLAU,Urokinase-type plasminogen activator,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,26423,425,1.33 [1.05-1.70],0.0198308802874351
+PLAU,Urokinase-type plasminogen activator,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,26709,106,1.59 [1.08-2.33],0.0187056027787581
+PLAU,Urokinase-type plasminogen activator,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,27188,75,1.79 [1.23-2.61],0.0023323422137445
+PLAU,Urokinase-type plasminogen activator,Chapter IX Diseases of the circulatory system,Pulmonary embolism,26983,96,1.69 [1.19-2.39],0.0030719300227745
+PLAU,Urokinase-type plasminogen activator,Chapter IX Diseases of the circulatory system,Venous thromboembolism,27086,216,1.39 [1.01-1.92],0.045889727335607
+PLAU,Urokinase-type plasminogen activator,Chapter IX Diseases of the circulatory system,Secondary right heart disease,26982,95,1.55 [1.03-2.32],0.0358486759497682
+PLAU,Urokinase-type plasminogen activator,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,26982,95,1.55 [1.03-2.32],0.0358486759497682
+PLAU,Urokinase-type plasminogen activator,Chapter IX Diseases of the circulatory system,Cardiomyopathy,24113,39,1.81 [1.13-2.89],0.012787623987447
+PLAU,Urokinase-type plasminogen activator,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,16843,279,1.95 [1.45-2.62],8.92325170821327e-06
+PLAU,Urokinase-type plasminogen activator,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,24131,57,1.78 [1.19-2.66],0.0050932286216353
+PLAU,Urokinase-type plasminogen activator,Chapter IX Diseases of the circulatory system,"Heart failure, strict",26920,102,1.89 [1.37-2.60],0.0001101239454932
+PLAU,Urokinase-type plasminogen activator,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,26827,113,1.51 [1.03-2.22],0.0346670348654202
+PLAU,Urokinase-type plasminogen activator,Chapter IX Diseases of the circulatory system,Hypotension,26620,91,1.56 [1.02-2.38],0.0412375954230401
+PLAU,Urokinase-type plasminogen activator,Chapter X Diseases of the respiratory system,Chronic sinusitis,26547,115,1.58 [1.09-2.29],0.0156241867489337
+PLAU,Urokinase-type plasminogen activator,Chapter X Diseases of the respiratory system,Deviated nasal septum,26573,141,1.75 [1.24-2.47],0.0015563947339664
+PLAU,Urokinase-type plasminogen activator,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,27445,84,1.89 [1.38-2.60],8.924129738608559e-05
+PLAU,Urokinase-type plasminogen activator,Chapter X Diseases of the respiratory system,Interstitial lung disease,25964,64,1.98 [1.38-2.85],0.0002307934838215
+PLAU,Urokinase-type plasminogen activator,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",27522,64,1.91 [1.34-2.73],0.000322333111352
+PLAU,Urokinase-type plasminogen activator,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,25957,57,1.92 [1.30-2.84],0.0010384844756941
+PLAU,Urokinase-type plasminogen activator,Chapter X Diseases of the respiratory system,Pleural effusion,25913,86,1.73 [1.20-2.51],0.0033981072029529
+PLAU,Urokinase-type plasminogen activator,Chapter X Diseases of the respiratory system,Other diseases of pleura,26018,191,1.51 [1.11-2.06],0.0091458764184964
+PLAU,Urokinase-type plasminogen activator,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,26840,118,1.54 [1.05-2.27],0.0287142786665747
+PLAU,Urokinase-type plasminogen activator,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",23089,2328,1.20 [1.06-1.36],0.004408982490733
+PLAU,Urokinase-type plasminogen activator,Chapter XI Diseases of the digestive system,Functional dyspepsia,21343,582,1.39 [1.12-1.73],0.0025448455213256
+PLAU,Urokinase-type plasminogen activator,Chapter XI Diseases of the digestive system,"Ulcerative colitis (strict definition, require KELA, min 2 HDR)",27622,136,1.80 [1.34-2.42],0.0001013418427591
+PLAU,Urokinase-type plasminogen activator,Chapter XI Diseases of the digestive system,Ulcerative colitis,25881,136,1.79 [1.34-2.41],0.0001017276901387
+PLAU,Urokinase-type plasminogen activator,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",25867,122,1.86 [1.38-2.50],4.238524996728219e-05
+PLAU,Urokinase-type plasminogen activator,Chapter XI Diseases of the digestive system,Diseases of liver,26976,103,2.60 [1.99-3.39],1.7645742578822936e-12
+PLAU,Urokinase-type plasminogen activator,Chapter XI Diseases of the digestive system,Other diseases of liver,26926,53,2.33 [1.66-3.28],1.2444263089939576e-06
+PLAU,Urokinase-type plasminogen activator,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,26902,57,0.29 [0.13-0.67],0.0033885869041147
+PLAU,Urokinase-type plasminogen activator,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,19552,4439,1.21 [1.09-1.34],0.000308248262158
+PLAU,Urokinase-type plasminogen activator,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,21305,2559,1.15 [1.02-1.30],0.0242824481855541
+PLAU,Urokinase-type plasminogen activator,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,24927,1344,1.19 [1.02-1.39],0.0317719413423073
+PLAU,Urokinase-type plasminogen activator,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,18960,214,1.66 [1.26-2.19],0.0003078793645909
+PLAU,Urokinase-type plasminogen activator,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,19270,524,1.28 [1.02-1.61],0.0323917544024291
+PLAU,Urokinase-type plasminogen activator,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",27180,205,1.67 [1.27-2.19],0.0001958548321867
+PLAU,Urokinase-type plasminogen activator,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,27197,187,1.73 [1.32-2.27],6.211915187132414e-05
+PLAU,Urokinase-type plasminogen activator,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,20179,1433,1.18 [1.01-1.37],0.0388398463636454
+PLAU,Urokinase-type plasminogen activator,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,26941,220,1.58 [1.19-2.11],0.0015273893460208
+PLAU,Urokinase-type plasminogen activator,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,26813,92,1.64 [1.10-2.43],0.0153682906069591
+PLAU,Urokinase-type plasminogen activator,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,23696,113,1.68 [1.17-2.41],0.0048549319322334
+PLAU,Urokinase-type plasminogen activator,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,24982,235,1.53 [1.13-2.06],0.0056205454929162
+PLAU,Urokinase-type plasminogen activator,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,25233,486,1.33 [1.05-1.69],0.016945872171103
+PLAU,Urokinase-type plasminogen activator,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,25285,201,1.90 [1.45-2.47],2.36235934763334e-06
+PLAU,Urokinase-type plasminogen activator,Chapter XIV Diseases of the genitourinary system,Acute renal failure,25455,36,2.88 [1.99-4.16],1.959266991330061e-08
+PLAU,Urokinase-type plasminogen activator,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,25464,45,2.39 [1.53-3.75],0.0001412966060688
+PLAU,Urokinase-type plasminogen activator,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,25462,43,2.24 [1.41-3.55],0.0006823455718331
+PLAU,Urokinase-type plasminogen activator,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,27424,37,0.30 [0.11-0.81],0.0168991776622184
+PLAU,Urokinase-type plasminogen activator,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,25307,4607,0.83 [0.75-0.91],0.0001446691735347
+PLAU,Urokinase-type plasminogen activator,Chapter XIV Diseases of the genitourinary system,Endometriosis,21062,362,0.72 [0.52-1.00],0.0481583914026843
+PLAU,Urokinase-type plasminogen activator,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,21497,797,0.61 [0.48-0.77],2.117882164304994e-05
+PLAU,Urokinase-type plasminogen activator,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,21660,960,0.71 [0.58-0.87],0.0011183863654045
+PLAU,Urokinase-type plasminogen activator,Chapter XIV Diseases of the genitourinary system,Dysplasia of cervi uteri,20890,190,0.59 [0.38-0.93],0.0219480112901636
+PLAU,Urokinase-type plasminogen activator,Chapter XIV Diseases of the genitourinary system,Menorrhagia,21576,876,0.80 [0.64-0.98],0.0344878210467804
+PLAU,Urokinase-type plasminogen activator,"Chapter XV Pregnancy, childbirth and the puerperium",Perineal laceration during delivery,27240,673,1.29 [1.01-1.64],0.042965936497106

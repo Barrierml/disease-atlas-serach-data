@@ -1,0 +1,119 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+CHGB,Secretogranin-1,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,20412,823,1.36 [1.17-1.58],4.287337762024383e-05
+CHGB,Secretogranin-1,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,19766,239,2.86 [2.22-3.69],5.728364576330406e-16
+CHGB,Secretogranin-1,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,15262,820,2.48 [2.14-2.87],7.592887687494942e-34
+CHGB,Secretogranin-1,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,20491,92,4.21 [2.87-6.17],1.804939270456289e-13
+CHGB,Secretogranin-1,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,20064,53,3.39 [2.00-5.74],5.368933485009607e-06
+CHGB,Secretogranin-1,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,22641,120,2.39 [1.71-3.33],3.41019385501502e-07
+CHGB,Secretogranin-1,Chapter I Certain infectious and parasitic diseases,Other septicaemia,22606,85,3.43 [2.41-4.90],9.802652110110952e-12
+CHGB,Secretogranin-1,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",22470,390,1.49 [1.21-1.83],0.0001389356941736
+CHGB,Secretogranin-1,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,22346,266,1.72 [1.34-2.19],1.3949328090778346e-05
+CHGB,Secretogranin-1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,21091,563,2.59 [2.19-3.05],5.858477731651895e-29
+CHGB,Secretogranin-1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,22665,124,3.15 [2.33-4.25],5.930939680338532e-14
+CHGB,Secretogranin-1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,22278,257,3.18 [2.52-4.00],7.50997972442387e-23
+CHGB,Secretogranin-1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,22278,257,3.18 [2.52-4.00],7.50997972442387e-23
+CHGB,Secretogranin-1,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),20036,518,2.17 [1.81-2.59],3.2418510127372534e-17
+CHGB,Secretogranin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,23603,62,2.43 [1.53-3.85],0.000155602997373
+CHGB,Secretogranin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,18672,1448,1.66 [1.48-1.87],1.135548058535168e-17
+CHGB,Secretogranin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,23143,182,1.60 [1.20-2.13],0.0015359070012052
+CHGB,Secretogranin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,21077,150,2.74 [2.04-3.67],1.5449341762443726e-11
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,Peripheral artery disease,22495,165,2.12 [1.57-2.85],8.17488705890793e-07
+CHGB,Secretogranin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,21063,136,2.71 [1.99-3.69],2.4499589273521556e-10
+CHGB,Secretogranin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,21625,698,1.80 [1.54-2.10],1.141120011134922e-13
+CHGB,Secretogranin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,21598,671,1.74 [1.48-2.03],8.193864835165124e-12
+CHGB,Secretogranin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,22107,172,1.66 [1.20-2.30],0.002214448671352
+CHGB,Secretogranin-1,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",22107,171,1.70 [1.22-2.35],0.0014735517974074
+CHGB,Secretogranin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,18519,1295,1.52 [1.35-1.72],2.7860396643607967e-11
+CHGB,Secretogranin-1,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",17409,185,1.70 [1.26-2.30],0.0005771110506176
+CHGB,Secretogranin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,18416,1192,1.50 [1.32-1.71],7.59052080846567e-10
+CHGB,Secretogranin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,17275,51,4.38 [2.86-6.69],9.757924838692324e-12
+CHGB,Secretogranin-1,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",17323,99,4.47 [3.23-6.20],2.051481404680496e-19
+CHGB,Secretogranin-1,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",19623,66,2.07 [1.29-3.33],0.0025846109035342
+CHGB,Secretogranin-1,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,18188,85,0.45 [0.28-0.72],0.0009969594723688
+CHGB,Secretogranin-1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,21087,382,1.39 [1.13-1.71],0.0016995964003622
+CHGB,Secretogranin-1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,22888,250,1.87 [1.47-2.39],3.563923017403352e-07
+CHGB,Secretogranin-1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,23459,70,4.80 [3.38-6.81],1.906638582574972e-18
+CHGB,Secretogranin-1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,2602,70,4.28 [2.92-6.28],1.030546189699518e-13
+CHGB,Secretogranin-1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",20927,70,5.28 [3.68-7.55],1.1136976652026925e-19
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,16107,3770,1.75 [1.60-1.91],1.010611269060482e-35
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,23162,62,2.45 [1.56-3.84],9.796936898678616e-05
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,"Hypertension, essential",17001,2465,2.00 [1.81-2.21],1.3607815321252988e-41
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,Hypertension,17046,2510,2.10 [1.90-2.32],6.579336686348383e-49
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",21135,1681,1.44 [1.30-1.60],1.862851362449969e-11
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,Angina pectoris,20393,939,1.39 [1.21-1.60],3.665483386293892e-06
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,22415,338,1.54 [1.24-1.91],7.749570886650682e-05
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,22815,738,1.51 [1.30-1.76],5.1681562334339474e-08
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",23658,163,1.99 [1.49-2.67],3.4845627070829614e-06
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",19959,505,1.72 [1.43-2.07],5.1509148731199804e-09
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,20868,1437,1.43 [1.27-1.60],1.0257301762662338e-09
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,Venous thromboembolism,23096,242,1.42 [1.10-1.84],0.0073218888340241
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,Secondary right heart disease,22952,84,2.33 [1.56-3.47],3.407182743914226e-05
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,22954,86,2.42 [1.64-3.58],9.294089388999293e-06
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",14616,80,3.19 [2.07-4.92],1.3443629224779978e-07
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,Cardiomyopathy,18662,77,2.52 [1.61-3.93],4.873004770252024e-05
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,Conduction disorders,18753,168,1.94 [1.41-2.66],4.091166095942709e-05
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,11803,135,2.94 [2.04-4.23],6.6610776724671e-09
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,12273,605,1.98 [1.63-2.39],2.2797913090422294e-12
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,Other arrhythmias,18669,84,2.49 [1.63-3.81],2.5564687673682847e-05
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,18714,129,2.53 [1.80-3.57],1.100239607006465e-07
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,"Heart failure, strict",22554,314,2.60 [2.10-3.21],8.512482363734066e-19
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",22823,185,1.49 [1.12-2.00],0.0069589213917559
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,22467,88,1.82 [1.19-2.77],0.0052464411776087
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,22526,147,1.85 [1.34-2.56],0.0001988604470583
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,DVT of lower extremities,22502,136,1.63 [1.16-2.29],0.0044614158931439
+CHGB,Secretogranin-1,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",23630,129,1.69 [1.20-2.37],0.0024840646926757
+CHGB,Secretogranin-1,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,18591,2015,1.34 [1.21-1.47],1.1765947267133516e-08
+CHGB,Secretogranin-1,Chapter X Diseases of the respiratory system,Influenza and pneumonia,21730,252,2.16 [1.70-2.76],4.4332340856891345e-10
+CHGB,Secretogranin-1,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",21693,215,2.31 [1.78-2.99],2.4030846706877003e-10
+CHGB,Secretogranin-1,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,22877,273,1.76 [1.39-2.23],2.5662516754131467e-06
+CHGB,Secretogranin-1,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,22874,270,1.76 [1.39-2.23],2.6832144842162306e-06
+CHGB,Secretogranin-1,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,21312,850,1.25 [1.08-1.44],0.0022106112506758
+CHGB,Secretogranin-1,Chapter X Diseases of the respiratory system,Early onset COPD,22543,196,1.80 [1.37-2.36],2.3269897178055315e-05
+CHGB,Secretogranin-1,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",22575,228,1.78 [1.38-2.29],7.974774105506538e-06
+CHGB,Secretogranin-1,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",22575,228,1.78 [1.38-2.29],7.974774105506538e-06
+CHGB,Secretogranin-1,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",15861,658,1.27 [1.07-1.50],0.0068137195474343
+CHGB,Secretogranin-1,Chapter X Diseases of the respiratory system,Pleural effusion,21528,134,2.06 [1.48-2.87],1.873891611446061e-05
+CHGB,Secretogranin-1,Chapter X Diseases of the respiratory system,Other diseases of pleura,21678,284,1.91 [1.52-2.41],4.402736243740714e-08
+CHGB,Secretogranin-1,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,22485,127,1.93 [1.38-2.71],0.0001243360503699
+CHGB,Secretogranin-1,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,15875,5618,1.21 [1.13-1.30],2.355742095424972e-07
+CHGB,Secretogranin-1,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,18257,325,1.48 [1.18-1.86],0.0006977866957385
+CHGB,Secretogranin-1,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",19932,2000,1.24 [1.12-1.36],2.478676436169783e-05
+CHGB,Secretogranin-1,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,18005,73,2.31 [1.48-3.60],0.0002421042829463
+CHGB,Secretogranin-1,Chapter XI Diseases of the digestive system,Gastric ulcer,18092,160,1.55 [1.12-2.13],0.0075430450456837
+CHGB,Secretogranin-1,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),18711,779,1.23 [1.06-1.44],0.0072139736014108
+CHGB,Secretogranin-1,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,23658,168,1.56 [1.15-2.12],0.0042880873583106
+CHGB,Secretogranin-1,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,22991,601,1.55 [1.32-1.83],1.861850872935002e-07
+CHGB,Secretogranin-1,Chapter XI Diseases of the digestive system,Other diseases of intestines,18410,1806,1.30 [1.17-1.44],7.018945275433731e-07
+CHGB,Secretogranin-1,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,22845,455,1.67 [1.39-2.02],6.768441077003199e-08
+CHGB,Secretogranin-1,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,22842,452,1.68 [1.39-2.02],6.411647803712882e-08
+CHGB,Secretogranin-1,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,17139,535,1.44 [1.20-1.72],6.747385911674395e-05
+CHGB,Secretogranin-1,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,16763,159,1.56 [1.13-2.15],0.00639803770916
+CHGB,Secretogranin-1,Chapter XI Diseases of the digestive system,Other diseases of intestine,16918,314,1.36 [1.08-1.72],0.0086699394047374
+CHGB,Secretogranin-1,Chapter XI Diseases of the digestive system,Diseases of liver,23015,142,1.72 [1.24-2.38],0.0010984928468906
+CHGB,Secretogranin-1,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",22207,58,2.32 [1.44-3.74],0.0005274361235376
+CHGB,Secretogranin-1,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,20693,1488,1.28 [1.14-1.43],1.7792879236761517e-05
+CHGB,Secretogranin-1,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,22238,457,1.41 [1.17-1.71],0.00041384355731
+CHGB,Secretogranin-1,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,22680,300,1.52 [1.21-1.91],0.0003994195948444
+CHGB,Secretogranin-1,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,23583,94,1.72 [1.16-2.54],0.007145348993872
+CHGB,Secretogranin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,17627,3584,1.15 [1.06-1.24],0.0008584741706856
+CHGB,Secretogranin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,17079,89,2.36 [1.58-3.51],2.35818360835134e-05
+CHGB,Secretogranin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,17404,414,1.60 [1.31-1.96],3.740500920126287e-06
+CHGB,Secretogranin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",23593,86,2.19 [1.48-3.23],8.054861159629511e-05
+CHGB,Secretogranin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,23598,76,2.23 [1.48-3.37],0.0001360372101991
+CHGB,Secretogranin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,17120,130,1.98 [1.41-2.79],8.790503459597309e-05
+CHGB,Secretogranin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",22899,126,1.95 [1.39-2.75],0.0001255479946648
+CHGB,Secretogranin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),17014,24,3.11 [1.55-6.23],0.0013951557144984
+CHGB,Secretogranin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,23563,36,2.96 [1.72-5.08],8.584733229137113e-05
+CHGB,Secretogranin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,23545,18,2.98 [1.36-6.51],0.0061604835161834
+CHGB,Secretogranin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,22825,105,1.70 [1.17-2.48],0.0055345091565228
+CHGB,Secretogranin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,23015,295,1.45 [1.15-1.83],0.0019953200064311
+CHGB,Secretogranin-1,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,18278,2371,1.87 [1.70-2.05],1.1013672136665236e-38
+CHGB,Secretogranin-1,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,20548,1283,1.20 [1.06-1.35],0.0034433100726041
+CHGB,Secretogranin-1,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,20827,92,3.47 [2.35-5.13],3.9916069420800547e-10
+CHGB,Secretogranin-1,Chapter XIV Diseases of the genitourinary system,Urolithiasis,23352,357,1.39 [1.12-1.72],0.0027513886513364
+CHGB,Secretogranin-1,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,23317,76,4.82 [3.45-6.75],4.4856423680962014e-20
+CHGB,Secretogranin-1,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,23248,253,1.56 [1.21-2.00],0.0004908436983414
+CHGB,Secretogranin-1,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,21628,843,1.46 [1.26-1.69],2.776671125905335e-07
+CHGB,Secretogranin-1,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,21173,388,1.48 [1.20-1.83],0.00028549554724
+CHGB,Secretogranin-1,Chapter XIV Diseases of the genitourinary system,Urethral stricture,20924,139,1.68 [1.20-2.37],0.0026843594288259
+CHGB,Secretogranin-1,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,21159,374,1.59 [1.29-1.97],1.5982434084651515e-05

@@ -1,0 +1,58 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+AFM,Afamin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,29307,1325,0.61 [0.46-0.80],0.0004315432461407
+AFM,Afamin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,39669,149,0.33 [0.15-0.71],0.004887420327449
+AFM,Afamin,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,43077,209,0.39 [0.20-0.75],0.0044046320784811
+AFM,Afamin,Chapter II Neoplasms,"Malignant neoplasm of breast, excluding all cancers (controls excluding all cancers)",20253,588,2.74 [1.79-4.18],3.1820959618058583e-06
+AFM,Afamin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,39926,1353,0.47 [0.36-0.61],2.7358195175878413e-08
+AFM,Afamin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,42631,335,0.32 [0.19-0.55],2.812083964926382e-05
+AFM,Afamin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,42085,590,0.36 [0.24-0.53],4.76678997577615e-07
+AFM,Afamin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,42085,590,0.36 [0.24-0.53],4.76678997577615e-07
+AFM,Afamin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),38805,763,0.55 [0.39-0.78],0.0009275583192856
+AFM,Afamin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,42239,928,0.49 [0.36-0.68],1.758318469990457e-05
+AFM,Afamin,Chapter IX Diseases of the circulatory system,Peripheral artery disease,42785,190,0.37 [0.19-0.72],0.0035826638979481
+AFM,Afamin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,35969,1672,1.45 [1.13-1.85],0.0030098232868437
+AFM,Afamin,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,35846,1549,1.52 [1.18-1.96],0.0012504198128156
+AFM,Afamin,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",34436,139,0.14 [0.06-0.30],4.495417686910456e-07
+AFM,Afamin,Chapter VI Diseases of the nervous system,Neurological diseases,38553,2572,0.74 [0.61-0.90],0.0027294493335415
+AFM,Afamin,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,42540,833,0.62 [0.45-0.87],0.0051008307010849
+AFM,Afamin,Chapter VI Diseases of the nervous system,Epilepsy,41967,260,0.26 [0.14-0.46],4.432654632585078e-06
+AFM,Afamin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,43075,348,0.46 [0.28-0.76],0.0027167836886647
+AFM,Afamin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of ear,43345,185,0.29 [0.15-0.58],0.0004890601750661
+AFM,Afamin,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,29655,96,0.11 [0.04-0.28],3.549694205576113e-06
+AFM,Afamin,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,25336,758,0.59 [0.40-0.85],0.0049471949464908
+AFM,Afamin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",42995,355,0.46 [0.28-0.76],0.0022582846763016
+AFM,Afamin,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",43270,264,0.33 [0.18-0.58],0.0001362484070999
+AFM,Afamin,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",43330,222,0.27 [0.15-0.50],3.6841531897214365e-05
+AFM,Afamin,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",43462,193,0.23 [0.12-0.45],1.310991366529613e-05
+AFM,Afamin,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,42873,223,0.35 [0.19-0.66],0.0011039641523456
+AFM,Afamin,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),42281,249,0.37 [0.21-0.67],0.0010551982971017
+AFM,Afamin,Chapter IX Diseases of the circulatory system,DVT of lower extremities,42242,210,0.37 [0.20-0.71],0.0025499419514469
+AFM,Afamin,Chapter X Diseases of the respiratory system,Pleural effusion,41208,190,0.25 [0.13-0.50],6.597858286047097e-05
+AFM,Afamin,Chapter X Diseases of the respiratory system,Other diseases of pleura,41436,418,0.37 [0.24-0.59],2.919725832784957e-05
+AFM,Afamin,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",37433,3773,1.27 [1.08-1.51],0.0047030315299894
+AFM,Afamin,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),35062,1402,1.43 [1.10-1.86],0.0082936304650578
+AFM,Afamin,Chapter XI Diseases of the digestive system,Functional dyspepsia,34416,756,1.69 [1.18-2.43],0.0043734832879402
+AFM,Afamin,Chapter XI Diseases of the digestive system,Inguinal hernia,37492,1050,0.57 [0.42-0.78],0.0003526610011259
+AFM,Afamin,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",44706,145,3.52 [1.56-7.95],0.0024542457137401
+AFM,Afamin,Chapter XI Diseases of the digestive system,Crohn disease,41943,145,3.58 [1.58-8.09],0.0022230969867427
+AFM,Afamin,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",42409,1064,1.61 [1.19-2.17],0.0020670613887894
+AFM,Afamin,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,42969,444,0.55 [0.35-0.86],0.008696901675394
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,32292,6968,0.76 [0.66-0.87],6.617757073395847e-05
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,35119,4056,0.74 [0.63-0.87],0.0003623638690184
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,31332,269,0.40 [0.22-0.74],0.0030467311047926
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",44082,258,0.43 [0.24-0.79],0.0064197279952898
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,44097,234,0.43 [0.23-0.81],0.0086762929864644
+AFM,Afamin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,43819,247,0.35 [0.19-0.65],0.0009459224256934
+AFM,Afamin,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,35711,7407,0.82 [0.72-0.93],0.0028105440528806
+AFM,Afamin,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,17734,1089,0.60 [0.45-0.80],0.0006410972039184
+AFM,Afamin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,40476,379,0.26 [0.16-0.43],6.655796771880918e-08
+AFM,Afamin,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,40736,101,0.13 [0.05-0.32],1.0545316621323174e-05
+AFM,Afamin,Chapter XIV Diseases of the genitourinary system,Urolithiasis,44182,415,2.26 [1.43-3.59],0.0005243909073519
+AFM,Afamin,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,44062,295,2.62 [1.52-4.53],0.0005425807752036
+AFM,Afamin,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,41017,1820,0.64 [0.51-0.81],0.0001525439452432
+AFM,Afamin,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,39664,467,0.50 [0.32-0.78],0.0019717382374709
+AFM,Afamin,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,16821,176,0.35 [0.17-0.71],0.0034266597472354
+AFM,Afamin,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care related to the fetus and amniotic cavity and possible delivery problems,24244,735,0.56 [0.37-0.85],0.0065418262875942
+AFM,Afamin,"Chapter XV Pregnancy, childbirth and the puerperium",Complications of labour and delivery,24251,1015,0.44 [0.30-0.64],1.5838398166328585e-05
+AFM,Afamin,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for other known or suspected fetal problems,23713,204,0.37 [0.18-0.76],0.0072863840920395
+AFM,Afamin,"Chapter XV Pregnancy, childbirth and the puerperium",Perineal laceration during delivery,23798,562,0.36 [0.22-0.58],2.6450450536873057e-05

@@ -1,0 +1,68 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+SCGB1A1,Uteroglobin,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,24285,991,1.19 [1.07-1.31],0.001181098881472
+SCGB1A1,Uteroglobin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,24201,196,1.57 [1.24-1.99],0.0001806123055932
+SCGB1A1,Uteroglobin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,18506,771,1.27 [1.13-1.43],7.524083720269503e-05
+SCGB1A1,Uteroglobin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,25076,84,1.82 [1.25-2.65],0.0016950671435758
+SCGB1A1,Uteroglobin,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,24439,64,2.31 [1.50-3.54],0.0001320791524817
+SCGB1A1,Uteroglobin,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,26917,121,2.08 [1.52-2.83],3.762172484763511e-06
+SCGB1A1,Uteroglobin,Chapter I Certain infectious and parasitic diseases,Other septicaemia,26867,71,1.86 [1.24-2.77],0.0025633537635633
+SCGB1A1,Uteroglobin,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",26480,441,1.28 [1.10-1.49],0.0015963329429742
+SCGB1A1,Uteroglobin,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,26169,130,1.57 [1.18-2.10],0.0022876180227138
+SCGB1A1,Uteroglobin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,24800,1029,1.26 [1.14-1.40],1.0030509310311252e-05
+SCGB1A1,Uteroglobin,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",27773,91,0.67 [0.50-0.90],0.0075833285866611
+SCGB1A1,Uteroglobin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,26392,270,1.43 [1.17-1.74],0.0005227039027909
+SCGB1A1,Uteroglobin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,26121,451,1.40 [1.20-1.63],2.3817610874544992e-05
+SCGB1A1,Uteroglobin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,26121,451,1.40 [1.20-1.63],2.3817610874544992e-05
+SCGB1A1,Uteroglobin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),24576,419,1.36 [1.15-1.59],0.0002146677513702
+SCGB1A1,Uteroglobin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,27240,99,1.81 [1.28-2.56],0.0007273537007479
+SCGB1A1,Uteroglobin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,25954,122,1.74 [1.28-2.37],0.0004219645593178
+SCGB1A1,Uteroglobin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,25941,109,1.66 [1.20-2.30],0.0020749273900837
+SCGB1A1,Uteroglobin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,26252,420,1.25 [1.06-1.46],0.0064499671082655
+SCGB1A1,Uteroglobin,Chapter V Mental and behavioural disorders,Any mental disorder,23456,624,0.84 [0.75-0.95],0.0040527189504805
+SCGB1A1,Uteroglobin,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",22952,120,0.57 [0.45-0.72],1.999700225501324e-06
+SCGB1A1,Uteroglobin,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",27571,81,0.59 [0.45-0.77],9.990086242616678e-05
+SCGB1A1,Uteroglobin,Chapter V Mental and behavioural disorders,Acute alcohol intoxication,26353,39,0.50 [0.34-0.74],0.0005596571691475
+SCGB1A1,Uteroglobin,Chapter V Mental and behavioural disorders,"Acute alcohol intoxication, ICD10",27768,39,0.57 [0.39-0.84],0.0049322168544901
+SCGB1A1,Uteroglobin,Chapter V Mental and behavioural disorders,"Alcohol abuse, main dg, excluding more controls",22871,39,0.49 [0.33-0.74],0.0005571255250502
+SCGB1A1,Uteroglobin,Chapter V Mental and behavioural disorders,Alcohol dependence,26340,26,0.53 [0.33-0.85],0.0084576860945175
+SCGB1A1,Uteroglobin,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",22874,42,0.44 [0.31-0.64],1.1205014906057202e-05
+SCGB1A1,Uteroglobin,Chapter VI Diseases of the nervous system,Epilepsy,26175,137,0.71 [0.56-0.91],0.0058855813608686
+SCGB1A1,Uteroglobin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,27547,34,3.66 [2.00-6.69],2.534579835348388e-05
+SCGB1A1,Uteroglobin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,1793,34,3.28 [1.87-5.77],3.610020159715119e-05
+SCGB1A1,Uteroglobin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",25788,34,3.79 [2.05-7.03],2.256581384139261e-05
+SCGB1A1,Uteroglobin,Chapter IX Diseases of the circulatory system,Secondary right heart disease,27026,95,1.82 [1.29-2.57],0.0006471624166261
+SCGB1A1,Uteroglobin,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,27026,95,1.82 [1.29-2.57],0.0006471624166261
+SCGB1A1,Uteroglobin,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",19517,92,1.93 [1.34-2.77],0.0004013388354646
+SCGB1A1,Uteroglobin,Chapter IX Diseases of the circulatory system,Cardiomyopathy,24150,40,2.50 [1.44-4.34],0.0011689730432758
+SCGB1A1,Uteroglobin,Chapter IX Diseases of the circulatory system,Conduction disorders,24190,80,1.70 [1.17-2.46],0.0053069461877746
+SCGB1A1,Uteroglobin,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,16867,277,1.61 [1.31-1.98],7.679170235440411e-06
+SCGB1A1,Uteroglobin,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,24166,56,1.98 [1.25-3.12],0.0033978447299042
+SCGB1A1,Uteroglobin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",26969,102,2.64 [1.87-3.73],3.690239549774431e-08
+SCGB1A1,Uteroglobin,Chapter IX Diseases of the circulatory system,Varicose veins,26656,614,0.83 [0.74-0.94],0.0035716095575235
+SCGB1A1,Uteroglobin,Chapter IX Diseases of the circulatory system,Hypotension,26657,96,1.58 [1.13-2.22],0.0076430965615739
+SCGB1A1,Uteroglobin,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,22610,2124,0.81 [0.76-0.87],5.719290659288024e-09
+SCGB1A1,Uteroglobin,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,24828,1170,0.65 [0.60-0.71],2.704617049336592e-22
+SCGB1A1,Uteroglobin,Chapter X Diseases of the respiratory system,Early onset COPD,26740,159,0.62 [0.51-0.76],3.201999219436194e-06
+SCGB1A1,Uteroglobin,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",26760,179,0.64 [0.53-0.78],5.130172957288447e-06
+SCGB1A1,Uteroglobin,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",26760,179,0.64 [0.53-0.78],5.130172957288447e-06
+SCGB1A1,Uteroglobin,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",25744,1005,0.65 [0.59-0.71],2.716524018332461e-20
+SCGB1A1,Uteroglobin,Chapter X Diseases of the respiratory system,Asthma,20657,1005,0.61 [0.56-0.67],1.5523180673636285e-23
+SCGB1A1,Uteroglobin,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",20465,1005,0.61 [0.56-0.67],2.4936502811346681e-23
+SCGB1A1,Uteroglobin,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",20642,990,0.61 [0.55-0.67],3.3464667861418844e-23
+SCGB1A1,Uteroglobin,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,27486,84,2.43 [1.67-3.54],3.210474523597443e-06
+SCGB1A1,Uteroglobin,Chapter X Diseases of the respiratory system,Interstitial lung disease,26006,63,3.79 [2.39-6.00],1.3354981565138376e-08
+SCGB1A1,Uteroglobin,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",27562,63,3.66 [2.33-5.74],1.7385021288873036e-08
+SCGB1A1,Uteroglobin,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,25999,56,3.27 [2.03-5.28],1.1812749959770267e-06
+SCGB1A1,Uteroglobin,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,20033,247,0.74 [0.62-0.90],0.001742635443434
+SCGB1A1,Uteroglobin,Chapter XI Diseases of the digestive system,Other diseases of intestine,20022,236,0.77 [0.64-0.94],0.0095597596897097
+SCGB1A1,Uteroglobin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,19001,213,1.56 [1.24-1.96],0.0001321394763588
+SCGB1A1,Uteroglobin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",27224,204,1.62 [1.29-2.04],3.516182747123884e-05
+SCGB1A1,Uteroglobin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,27241,186,1.76 [1.38-2.24],4.765267939183075e-06
+SCGB1A1,Uteroglobin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,26854,95,3.97 [2.73-5.77],4.532585972228716e-13
+SCGB1A1,Uteroglobin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,25321,202,3.68 [2.84-4.76],6.353244386697637e-23
+SCGB1A1,Uteroglobin,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,25164,45,2.14 [1.26-3.61],0.0046068967987855
+SCGB1A1,Uteroglobin,Chapter XIV Diseases of the genitourinary system,Acute renal failure,25492,35,7.95 [4.07-15.55],1.3641699529252023e-09
+SCGB1A1,Uteroglobin,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,25497,40,3.78 [2.08-6.86],1.195166844183296e-05
+SCGB1A1,Uteroglobin,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,27440,67,2.40 [1.58-3.63],3.613234037427342e-05
+SCGB1A1,Uteroglobin,Chapter XIV Diseases of the genitourinary system,Cystitis,24432,137,1.48 [1.12-1.96],0.0054986249076589
+SCGB1A1,Uteroglobin,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,25300,1005,1.15 [1.04-1.27],0.0078349662750797

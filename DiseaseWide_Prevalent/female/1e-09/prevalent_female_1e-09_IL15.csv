@@ -1,0 +1,60 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+IL15,Interleukin-15,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,24200,990,1.81 [1.53-2.13],2.5693246805354826e-12
+IL15,Interleukin-15,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,24112,193,2.89 [2.08-4.00],1.7366693915931595e-10
+IL15,Interleukin-15,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,18459,766,3.16 [2.63-3.81],8.547058244570321e-34
+IL15,Interleukin-15,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,24988,83,3.97 [2.65-5.94],2.15974532938992e-11
+IL15,Interleukin-15,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,26825,120,3.13 [2.20-4.45],2.0544419903080112e-10
+IL15,Interleukin-15,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,24735,1027,2.72 [2.34-3.16],4.9267398636709637e-39
+IL15,Interleukin-15,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,26316,269,2.49 [1.91-3.25],1.7528983310034978e-11
+IL15,Interleukin-15,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),24481,408,2.34 [1.84-2.96],2.434139164614955e-12
+IL15,Interleukin-15,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,26164,416,2.21 [1.74-2.81],1.1719640817631744e-10
+IL15,Interleukin-15,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,26155,407,2.21 [1.73-2.82],1.7071872868443348e-10
+IL15,Interleukin-15,Chapter V Mental and behavioural disorders,Any mental disorder,23369,622,2.03 [1.66-2.48],4.088711326214833e-12
+IL15,Interleukin-15,Chapter VI Diseases of the nervous system,Neurological diseases,23881,1639,1.80 [1.58-2.05],1.5079761808017708e-18
+IL15,Interleukin-15,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,20407,2804,1.86 [1.66-2.09],2.717542032896636e-25
+IL15,Interleukin-15,Chapter IX Diseases of the circulatory system,"Hypertension, essential",21447,2064,1.79 [1.58-2.04],9.422393606329589e-19
+IL15,Interleukin-15,Chapter IX Diseases of the circulatory system,Hypertension,21468,2085,1.82 [1.60-2.07],9.954262335182764e-20
+IL15,Interleukin-15,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,19432,49,6.86 [4.32-10.90],3.758078403551055e-16
+IL15,Interleukin-15,Chapter IX Diseases of the circulatory system,Venous thromboembolism,27038,218,2.69 [2.03-3.58],8.443397404940643e-12
+IL15,Interleukin-15,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,26736,71,4.39 [2.91-6.63],1.8228187729738427e-12
+IL15,Interleukin-15,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,22528,2121,1.84 [1.63-2.07],4.896740696730974e-23
+IL15,Interleukin-15,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,24741,1172,1.66 [1.43-1.94],7.630867901904188e-11
+IL15,Interleukin-15,Chapter X Diseases of the respiratory system,Asthma,20585,1008,1.76 [1.48-2.09],1.4833068389548312e-10
+IL15,Interleukin-15,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",20393,1008,1.77 [1.49-2.10],1.0518232507234179e-10
+IL15,Interleukin-15,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",20570,993,1.78 [1.50-2.11],6.889569165870883e-11
+IL15,Interleukin-15,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,27395,84,4.20 [2.92-6.02],6.982499653809699e-15
+IL15,Interleukin-15,Chapter X Diseases of the respiratory system,Interstitial lung disease,25923,63,6.01 [3.92-9.21],2.0522453051867142e-16
+IL15,Interleukin-15,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",27472,63,4.47 [3.01-6.62],9.42024245063065e-14
+IL15,Interleukin-15,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,25916,56,5.64 [3.56-8.92],1.574277976275949e-13
+IL15,Interleukin-15,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,19180,6051,1.53 [1.40-1.66],4.78772560393897e-22
+IL15,Interleukin-15,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,26631,922,1.95 [1.66-2.30],1.1499285536687369e-15
+IL15,Interleukin-15,Chapter XI Diseases of the digestive system,Other diseases of intestines,21936,2216,1.55 [1.38-1.75],1.162931905516385e-13
+IL15,Interleukin-15,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",27652,93,4.31 [3.03-6.14],4.552573786595608e-16
+IL15,Interleukin-15,Chapter XI Diseases of the digestive system,Crohn disease,25802,93,4.55 [3.18-6.51],1.1516434231416238e-16
+IL15,Interleukin-15,Chapter XI Diseases of the digestive system,Crohn's disease NAS,25777,68,4.33 [2.84-6.60],1.0842152895568107e-11
+IL15,Interleukin-15,Chapter XI Diseases of the digestive system,"Ulcerative colitis (strict definition, require KELA, min 2 HDR)",27572,135,3.02 [2.15-4.23],1.4749620499436347e-10
+IL15,Interleukin-15,Chapter XI Diseases of the digestive system,Ulcerative colitis,25844,135,3.22 [2.28-4.55],3.5455298151600357e-11
+IL15,Interleukin-15,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",25830,121,3.29 [2.30-4.73],9.344650014671075e-11
+IL15,Interleukin-15,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,26488,779,1.81 [1.51-2.17],9.916125785680272e-11
+IL15,Interleukin-15,Chapter XI Diseases of the digestive system,Diseases of liver,26923,105,3.49 [2.44-4.97],5.257077772813701e-12
+IL15,Interleukin-15,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,24544,1628,1.64 [1.43-1.87],4.285343772475416e-13
+IL15,Interleukin-15,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,26889,325,2.27 [1.76-2.93],2.708002505048e-10
+IL15,Interleukin-15,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,19527,4435,1.99 [1.81-2.18],1.5779334771409153e-45
+IL15,Interleukin-15,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,21272,2555,1.78 [1.58-1.99],3.6505916747278427e-23
+IL15,Interleukin-15,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,18927,210,5.44 [4.10-7.22],6.454849962470911e-32
+IL15,Interleukin-15,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,19240,523,3.31 [2.69-4.08],1.4738327906810877e-29
+IL15,Interleukin-15,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",27133,202,4.61 [3.58-5.94],3.883809478755604e-32
+IL15,Interleukin-15,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,27150,184,4.43 [3.39-5.78],8.247749583083412e-28
+IL15,Interleukin-15,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,19953,1236,1.78 [1.52-2.09],1.0332735442770414e-12
+IL15,Interleukin-15,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",22689,1236,1.65 [1.41-1.93],2.2376343027953787e-10
+IL15,Interleukin-15,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,19208,491,2.08 [1.65-2.63],8.33288168771938e-10
+IL15,Interleukin-15,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,26891,221,9.11 [7.18-11.55],6.458937525653144e-74
+IL15,Interleukin-15,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,26762,92,7.46 [5.34-10.44],7.465679400621842e-32
+IL15,Interleukin-15,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,24663,1030,1.66 [1.41-1.95],6.494626648393101e-10
+IL15,Interleukin-15,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,23989,356,2.21 [1.73-2.82],2.8865015927138377e-10
+IL15,Interleukin-15,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,25202,493,2.09 [1.68-2.60],2.861595798636532e-11
+IL15,Interleukin-15,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,22626,6156,1.29 [1.19-1.40],4.86042931565189e-10
+IL15,Interleukin-15,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,25241,202,3.59 [2.72-4.74],1.4559265784794672e-19
+IL15,Interleukin-15,Chapter XIV Diseases of the genitourinary system,Acute renal failure,25416,34,5.44 [3.19-9.26],4.441435536888612e-10
+IL15,Interleukin-15,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,25431,49,6.74 [4.52-10.06],9.099082758764363e-21
+IL15,Interleukin-15,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,25423,41,5.33 [3.38-8.40],5.685797015382712e-13

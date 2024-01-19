@@ -1,0 +1,147 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+SCT,Secretin,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,20563,837,0.83 [0.71-0.96],0.0148699385851077
+SCT,Secretin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,20525,166,0.66 [0.47-0.92],0.0154807468359224
+SCT,Secretin,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,22224,167,0.68 [0.48-0.95],0.0249117958937561
+SCT,Secretin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,15683,637,0.74 [0.62-0.88],0.0006976406147852
+SCT,Secretin,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,22167,110,0.46 [0.30-0.71],0.0003584992461181
+SCT,Secretin,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",23344,109,0.47 [0.31-0.72],0.0004431699791712
+SCT,Secretin,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,23333,72,0.32 [0.19-0.55],3.08781281739125e-05
+SCT,Secretin,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,20747,52,1.73 [1.04-2.86],0.0340111447566645
+SCT,Secretin,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,22296,248,0.70 [0.53-0.93],0.0125152090078303
+SCT,Secretin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,21013,867,0.78 [0.67-0.91],0.0013501607432668
+SCT,Secretin,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,23491,59,0.48 [0.27-0.85],0.0116540577949177
+SCT,Secretin,Chapter II Neoplasms,Benign neoplasm: Stomach,23534,45,0.30 [0.15-0.59],0.000407452052569
+SCT,Secretin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,22370,231,0.74 [0.55-0.99],0.0398296529787239
+SCT,Secretin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,22129,376,0.78 [0.62-0.98],0.0349821084622619
+SCT,Secretin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,22129,376,0.78 [0.62-0.98],0.0349821084622619
+SCT,Secretin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,21593,755,0.80 [0.68-0.93],0.0047602237223887
+SCT,Secretin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,21956,95,1.79 [1.25-2.55],0.0013242595331232
+SCT,Secretin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,21946,85,2.00 [1.41-2.83],9.71816239499269e-05
+SCT,Secretin,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",18854,65,0.57 [0.33-0.98],0.0437520309228337
+SCT,Secretin,Chapter V Mental and behavioural disorders,Any mental disorder,19861,517,0.80 [0.66-0.97],0.0225176379805414
+SCT,Secretin,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",19659,315,0.66 [0.51-0.85],0.0014260256796868
+SCT,Secretin,Chapter V Mental and behavioural disorders,Depression,21815,280,0.62 [0.47-0.81],0.0004328763430896
+SCT,Secretin,Chapter V Mental and behavioural disorders,Depression or dysthymia,19481,242,0.62 [0.46-0.82],0.0010214496743307
+SCT,Secretin,Chapter VI Diseases of the nervous system,Neurological diseases,20372,1394,0.84 [0.75-0.95],0.0053861893021557
+SCT,Secretin,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,22413,366,0.78 [0.62-0.98],0.0342744410700683
+SCT,Secretin,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,23315,66,0.43 [0.25-0.76],0.0036397387765509
+SCT,Secretin,Chapter VI Diseases of the nervous system,Hemiplegia,23299,50,0.29 [0.15-0.55],0.0002112812772544
+SCT,Secretin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,20180,357,0.78 [0.63-0.98],0.0345851262209641
+SCT,Secretin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,22655,149,1.76 [1.32-2.35],0.0001425557363587
+SCT,Secretin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,23313,29,1.89 [1.02-3.50],0.0422310473201687
+SCT,Secretin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",21825,29,1.89 [1.03-3.48],0.0406286328872711
+SCT,Secretin,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,17300,2352,0.73 [0.66-0.81],9.052183588651875e-10
+SCT,Secretin,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,23055,67,0.42 [0.24-0.71],0.0015190377776144
+SCT,Secretin,Chapter IX Diseases of the circulatory system,"Hypertension, essential",18193,1725,0.80 [0.71-0.89],9.13139260859648e-05
+SCT,Secretin,Chapter IX Diseases of the circulatory system,Hypertension,18209,1741,0.80 [0.72-0.90],0.0001471273982575
+SCT,Secretin,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",22104,606,0.60 [0.50-0.71],1.4661564876183642e-08
+SCT,Secretin,Chapter IX Diseases of the circulatory system,Angina pectoris,21915,417,0.56 [0.45-0.70],1.2393557007763725e-07
+SCT,Secretin,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,22962,120,0.61 [0.41-0.90],0.0131214138211893
+SCT,Secretin,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,23029,187,0.48 [0.35-0.66],7.630319125293563e-06
+SCT,Secretin,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",23472,25,0.21 [0.09-0.52],0.000640393192369
+SCT,Secretin,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",21577,79,0.38 [0.23-0.62],0.0001000686647431
+SCT,Secretin,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,21879,392,0.61 [0.49-0.75],5.963660550490814e-06
+SCT,Secretin,Chapter IX Diseases of the circulatory system,Secondary right heart disease,22859,89,0.63 [0.40-1.00],0.0496534203671365
+SCT,Secretin,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,22859,89,0.63 [0.40-1.00],0.0496534203671365
+SCT,Secretin,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",16554,86,0.55 [0.34-0.88],0.0124648641259677
+SCT,Secretin,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,14141,84,0.50 [0.31-0.82],0.0060248622199533
+SCT,Secretin,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,14284,227,0.47 [0.35-0.63],5.281840204928328e-07
+SCT,Secretin,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",22867,113,0.51 [0.33-0.77],0.0015124655030229
+SCT,Secretin,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",22902,84,0.44 [0.27-0.72],0.0009924644589053
+SCT,Secretin,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",22958,72,0.35 [0.20-0.59],0.0001025854227738
+SCT,Secretin,Chapter IX Diseases of the circulatory system,Varicose veins,22570,518,0.75 [0.62-0.91],0.0029537213502302
+SCT,Secretin,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,19152,1796,0.77 [0.69-0.86],2.556076068200996e-06
+SCT,Secretin,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,22866,481,0.80 [0.66-0.98],0.0293118684638758
+SCT,Secretin,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",22687,302,0.68 [0.53-0.88],0.003209098847157
+SCT,Secretin,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,20993,994,0.75 [0.65-0.87],8.793053640521194e-05
+SCT,Secretin,Chapter X Diseases of the respiratory system,Early onset COPD,22642,133,0.63 [0.43-0.91],0.0136811538409687
+SCT,Secretin,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",22659,150,0.63 [0.45-0.90],0.0099229393846325
+SCT,Secretin,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",22659,150,0.63 [0.45-0.90],0.0099229393846325
+SCT,Secretin,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",21753,856,0.77 [0.66-0.89],0.0006253960057886
+SCT,Secretin,Chapter X Diseases of the respiratory system,Asthma,17506,856,0.74 [0.64-0.87],0.0001814838033623
+SCT,Secretin,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",17346,856,0.74 [0.64-0.87],0.0001958715041565
+SCT,Secretin,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",17494,844,0.74 [0.64-0.87],0.0002144094459207
+SCT,Secretin,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,23251,77,0.60 [0.37-0.99],0.0450743004927214
+SCT,Secretin,Chapter X Diseases of the respiratory system,Interstitial lung disease,21947,59,0.51 [0.29-0.91],0.0214818405135724
+SCT,Secretin,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",23313,59,0.52 [0.29-0.92],0.0246866099784561
+SCT,Secretin,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,21941,53,0.50 [0.27-0.91],0.0238159960948649
+SCT,Secretin,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,16337,5136,0.60 [0.56-0.65],8.545585066986323e-39
+SCT,Secretin,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",23044,407,0.75 [0.60-0.93],0.0096402017725624
+SCT,Secretin,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,23493,85,0.51 [0.30-0.84],0.0091816961882653
+SCT,Secretin,Chapter XI Diseases of the digestive system,Impacted teeth,23498,77,0.45 [0.26-0.78],0.0043110627743679
+SCT,Secretin,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,23484,95,0.56 [0.34-0.90],0.0178715242382646
+SCT,Secretin,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,17816,189,0.39 [0.28-0.54],1.5429002254445332e-08
+SCT,Secretin,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",19606,1979,0.40 [0.36-0.45],1.1785181070554288e-59
+SCT,Secretin,Chapter XI Diseases of the digestive system,Oesophagitis,17877,250,0.34 [0.25-0.46],3.851968060318658e-13
+SCT,Secretin,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,18261,634,0.32 [0.27-0.39],3.106156927249065e-32
+SCT,Secretin,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,17746,119,0.18 [0.12-0.28],2.7751014379768512e-15
+SCT,Secretin,Chapter XI Diseases of the digestive system,Gastric ulcer,17752,125,0.34 [0.23-0.52],2.8381298317490544e-07
+SCT,Secretin,Chapter XI Diseases of the digestive system,Chronic gastritis,17738,111,0.39 [0.25-0.59],1.4062884130316678e-05
+SCT,Secretin,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),18349,722,0.36 [0.30-0.43],1.7081403350240884e-30
+SCT,Secretin,Chapter XI Diseases of the digestive system,Functional dyspepsia,18122,495,0.43 [0.35-0.53],1.5401923663881162e-15
+SCT,Secretin,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,17772,145,0.38 [0.26-0.56],5.390048620039818e-07
+SCT,Secretin,Chapter XI Diseases of the digestive system,Hernia,21076,1019,0.43 [0.37-0.50],6.706987178201555e-30
+SCT,Secretin,Chapter XI Diseases of the digestive system,Umbilical hernia,20120,63,0.53 [0.30-0.94],0.0293762564884938
+SCT,Secretin,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,20877,820,0.34 [0.29-0.40],3.403409067915982e-38
+SCT,Secretin,Chapter XI Diseases of the digestive system,Other diseases of intestines,18672,1876,0.71 [0.64-0.79],5.03296694364593e-10
+SCT,Secretin,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,17375,579,0.82 [0.69-0.98],0.0332872800675546
+SCT,Secretin,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,17006,210,0.55 [0.40-0.74],0.0001321439902609
+SCT,Secretin,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,17125,329,0.58 [0.45-0.74],1.6294311228434968e-05
+SCT,Secretin,Chapter XI Diseases of the digestive system,Constipation,22092,296,0.59 [0.46-0.77],7.673567920680408e-05
+SCT,Secretin,Chapter XI Diseases of the digestive system,Diseases of peritoneum,23101,111,1.59 [1.11-2.27],0.0109033499097146
+SCT,Secretin,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,17563,767,0.65 [0.55-0.77],2.59609207896685e-07
+SCT,Secretin,Chapter XI Diseases of the digestive system,Other diseases of intestine,16995,199,0.58 [0.42-0.79],0.0006113952961318
+SCT,Secretin,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,23087,97,1.51 [1.02-2.23],0.0394817654496085
+SCT,Secretin,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",22178,732,0.59 [0.50-0.69],3.6455239442031215e-10
+SCT,Secretin,Chapter XI Diseases of the digestive system,Cholelithiasis,22056,610,0.58 [0.48-0.69],2.484329639659721e-09
+SCT,Secretin,Chapter XI Diseases of the digestive system,Cholecystitis,21557,111,0.56 [0.37-0.85],0.0068109144536915
+SCT,Secretin,Chapter XI Diseases of the digestive system,Acute pancreatitis,21497,51,0.53 [0.29-0.98],0.0437370726295868
+SCT,Secretin,Chapter XI Diseases of the digestive system,Diseases of the digestive system,22364,256,0.74 [0.56-0.97],0.0287376269742636
+SCT,Secretin,Chapter XI Diseases of the digestive system,Intestinal malabsorption,22198,90,0.44 [0.27-0.70],0.0005988942238337
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,16553,3780,0.79 [0.73-0.86],2.4581740535597734e-08
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,18060,2174,0.80 [0.72-0.88],7.972543730622058e-06
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,21118,1149,0.74 [0.65-0.85],8.579573532120995e-06
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,16074,188,0.66 [0.48-0.91],0.0111413688772259
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,16328,442,0.74 [0.60-0.92],0.0053953185281541
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",23031,180,0.68 [0.49-0.94],0.0185263529875311
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,23047,168,0.71 [0.51-0.99],0.042930291669135
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,16934,1048,0.75 [0.65-0.86],4.018344516669496e-05
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",19243,1048,0.76 [0.66-0.87],7.236504078488376e-05
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,16113,227,0.73 [0.55-0.97],0.0292615619180704
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,15963,77,0.59 [0.36-0.96],0.0331060426486031
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,16296,410,0.65 [0.52-0.81],0.0001168050151466
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,16288,402,0.67 [0.54-0.83],0.0002679627207484
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,17103,1217,0.78 [0.68-0.88],0.0001174396496856
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),15974,88,0.52 [0.32-0.83],0.0062660214109539
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,17526,254,0.59 [0.44-0.78],0.0002203846664097
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,22678,82,0.41 [0.25-0.68],0.000458885106684
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,20336,267,0.75 [0.58-0.98],0.033995668574086
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,20952,883,0.80 [0.69-0.92],0.0026866136703224
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",20771,702,0.82 [0.69-0.97],0.0179113228271986
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,20196,127,0.57 [0.38-0.85],0.0054334144058846
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,20376,307,0.77 [0.60-0.99],0.0402000532687068
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,20306,337,0.69 [0.54-0.88],0.0024472855943746
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,20032,63,0.52 [0.30-0.90],0.0191971330316579
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,20197,228,0.66 [0.49-0.88],0.0043355224463656
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,20019,50,0.42 [0.22-0.79],0.0073151982663451
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,20024,55,0.55 [0.31-0.99],0.0473666859757345
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",20438,469,0.72 [0.59-0.88],0.0014118896691336
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,20135,166,0.69 [0.49-0.97],0.0308240392483098
+SCT,Secretin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,20226,257,0.69 [0.53-0.91],0.0085655950083095
+SCT,Secretin,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,19301,5240,0.89 [0.83-0.96],0.0015535076892301
+SCT,Secretin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,21543,153,1.50 [1.10-2.05],0.0108164131600436
+SCT,Secretin,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,21722,30,2.89 [1.84-4.55],4.403940346202742e-06
+SCT,Secretin,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,21662,1070,0.72 [0.63-0.83],3.0031575911302736e-06
+SCT,Secretin,Chapter XIV Diseases of the genitourinary system,Cystitis,20700,108,0.60 [0.39-0.92],0.0182113334211643
+SCT,Secretin,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,21439,847,0.70 [0.60-0.82],5.480643152568994e-06
+SCT,Secretin,Chapter XIV Diseases of the genitourinary system,Disorders of breast,23268,417,1.22 [1.00-1.49],0.0487190647203709
+SCT,Secretin,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,22981,130,1.61 [1.17-2.22],0.0035363978928359
+SCT,Secretin,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,21444,3924,0.89 [0.82-0.96],0.0023765018426287
+SCT,Secretin,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,18199,679,0.77 [0.65-0.91],0.002352011169446
+SCT,Secretin,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,17865,345,0.77 [0.61-0.99],0.0375379545787222
+SCT,Secretin,Chapter XIV Diseases of the genitourinary system,Erosion and ectropion of cervix uteri,17605,85,0.60 [0.37-0.99],0.0453274069648903
+SCT,Secretin,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,17643,123,1.54 [1.09-2.19],0.0147342857785548
+SCT,Secretin,"Chapter XV Pregnancy, childbirth and the puerperium","Postpartum hemorraghe, all women as controls",23540,145,0.64 [0.42-0.96],0.0332716378265664
+SCT,Secretin,"Chapter XV Pregnancy, childbirth and the puerperium",Postpartum haemorrhage due to anatomy,22343,110,0.58 [0.36-0.94],0.0285003345970376
+SCT,Secretin,"Chapter XV Pregnancy, childbirth and the puerperium",Delivery,23547,288,0.64 [0.47-0.86],0.0032918037694513
+SCT,Secretin,"Chapter XV Pregnancy, childbirth and the puerperium",Single spontaneous delivery,23481,222,0.60 [0.43-0.85],0.0033532624556248

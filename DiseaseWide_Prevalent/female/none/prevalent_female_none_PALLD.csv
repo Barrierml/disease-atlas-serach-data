@@ -1,0 +1,399 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+PALLD,Palladin,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,20580,835,0.91 [0.77-1.09],0.3202771019801844
+PALLD,Palladin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,20531,162,0.87 [0.58-1.31],0.5145140672375943
+PALLD,Palladin,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,22201,160,0.80 [0.53-1.23],0.319753017234852
+PALLD,Palladin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,15668,633,0.97 [0.79-1.18],0.7640254130845365
+PALLD,Palladin,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,22146,105,0.64 [0.36-1.14],0.1289650084373328
+PALLD,Palladin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,21275,73,0.90 [0.50-1.62],0.7296093699835664
+PALLD,Palladin,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",23334,104,0.67 [0.38-1.19],0.1749237589775655
+PALLD,Palladin,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,23328,69,0.69 [0.34-1.37],0.2873906334614327
+PALLD,Palladin,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,20736,51,1.24 [0.71-2.15],0.4556388790160677
+PALLD,Palladin,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,22798,101,1.00 [0.63-1.60],0.9992704938893762
+PALLD,Palladin,Chapter I Certain infectious and parasitic diseases,Other septicaemia,22759,62,0.75 [0.37-1.52],0.4267067427237353
+PALLD,Palladin,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,23399,68,0.85 [0.45-1.59],0.6057587163306066
+PALLD,Palladin,Chapter I Certain infectious and parasitic diseases,Other viral diseases,23374,85,1.36 [0.93-2.00],0.1140470465109317
+PALLD,Palladin,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",23371,82,1.38 [0.94-2.03],0.0984013691517559
+PALLD,Palladin,Chapter I Certain infectious and parasitic diseases,Mycoses,23089,59,0.83 [0.41-1.66],0.5939676959986243
+PALLD,Palladin,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",22406,363,0.79 [0.60-1.06],0.1128325071574721
+PALLD,Palladin,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,22157,114,0.95 [0.60-1.49],0.8165348779005273
+PALLD,Palladin,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,22294,251,0.78 [0.55-1.10],0.1622965176106624
+PALLD,Palladin,Chapter II Neoplasms,"Malignant neoplasm of colon, excluding all cancers (controls excluding all cancers)",19132,43,1.06 [0.52-2.15],0.8705949377496951
+PALLD,Palladin,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",19141,52,nan [nan-nan],
+PALLD,Palladin,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",19313,224,0.66 [0.45-0.98],0.0417953815903538
+PALLD,Palladin,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",19320,231,0.67 [0.46-0.99],0.043241991322781
+PALLD,Palladin,Chapter II Neoplasms,"Malignant neoplasm of breast, excluding all cancers (controls excluding all cancers)",19658,569,1.06 [0.88-1.29],0.5393260194896794
+PALLD,Palladin,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",19136,47,1.09 [0.56-2.10],0.8034374780521238
+PALLD,Palladin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,21012,869,1.13 [0.97-1.31],0.1172515780638736
+PALLD,Palladin,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",22501,254,0.98 [0.72-1.33],0.8890341732770694
+PALLD,Palladin,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,23105,98,1.12 [0.72-1.75],0.6018148299313535
+PALLD,Palladin,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",23480,80,0.73 [0.39-1.37],0.3274405756677461
+PALLD,Palladin,Chapter II Neoplasms,Benign neoplasm: Rectum,23300,55,0.90 [0.45-1.80],0.7727796922926085
+PALLD,Palladin,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,23479,59,0.99 [0.53-1.84],0.9760330396955864
+PALLD,Palladin,Chapter II Neoplasms,Benign neoplasm: Stomach,23522,45,1.10 [0.57-2.11],0.7762480229725728
+PALLD,Palladin,Chapter II Neoplasms,Benign lipomatous neoplasm,23337,243,1.14 [0.86-1.49],0.3600858419508708
+PALLD,Palladin,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,23479,100,1.01 [0.63-1.60],0.9783166934187282
+PALLD,Palladin,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,23480,89,1.46 [1.03-2.06],0.0340768950691463
+PALLD,Palladin,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",23418,59,0.96 [0.51-1.80],0.8932361591478618
+PALLD,Palladin,Chapter II Neoplasms,"Haemangioma, any site",23420,58,0.82 [0.41-1.65],0.5796982595459372
+PALLD,Palladin,Chapter II Neoplasms,Melanocytic naevi,23333,232,0.98 [0.72-1.34],0.9176257025556112
+PALLD,Palladin,Chapter II Neoplasms,Melanocytic naevi of other and unspecified parts of face,23481,109,1.13 [0.75-1.69],0.5622628603978812
+PALLD,Palladin,Chapter II Neoplasms,Other benign neoplasms of skin,23385,194,1.05 [0.76-1.45],0.7684881609026688
+PALLD,Palladin,Chapter II Neoplasms,Benign neoplasm of breast,23464,116,1.14 [0.77-1.68],0.5206900121460083
+PALLD,Palladin,Chapter II Neoplasms,Leiomyoma of uterus,23049,854,0.98 [0.83-1.16],0.8433386953227899
+PALLD,Palladin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,22360,229,1.06 [0.79-1.43],0.6863683022275633
+PALLD,Palladin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,22135,374,1.28 [1.04-1.56],0.018201077553859
+PALLD,Palladin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,22135,374,1.28 [1.04-1.56],0.018201077553859
+PALLD,Palladin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),20825,337,0.95 [0.73-1.24],0.7147014226872836
+PALLD,Palladin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,23012,87,1.09 [0.68-1.74],0.7303867495375385
+PALLD,Palladin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,23228,87,1.31 [0.88-1.94],0.1796012607386773
+PALLD,Palladin,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,19522,754,0.89 [0.73-1.08],0.2266829733955965
+PALLD,Palladin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,21562,750,1.02 [0.86-1.21],0.824788782698375
+PALLD,Palladin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,21951,92,1.35 [0.95-1.94],0.0975833063432556
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Peripheral artery disease,22646,48,1.48 [0.93-2.37],0.0994007596625828
+PALLD,Palladin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,21942,83,1.38 [0.95-1.99],0.0925657534477584
+PALLD,Palladin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,22206,347,0.99 [0.76-1.28],0.9255670958844662
+PALLD,Palladin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,22196,337,0.93 [0.70-1.23],0.6085698566464867
+PALLD,Palladin,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,21771,159,1.16 [0.81-1.66],0.4183283246493758
+PALLD,Palladin,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",21773,156,1.17 [0.81-1.67],0.4019242890871123
+PALLD,Palladin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,19350,582,0.81 [0.64-1.02],0.0711777413513596
+PALLD,Palladin,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",18836,68,0.74 [0.37-1.46],0.3824084038508151
+PALLD,Palladin,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,19310,542,0.81 [0.64-1.03],0.0804750997014963
+PALLD,Palladin,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,18815,47,0.96 [0.47-1.95],0.9052401328562278
+PALLD,Palladin,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",18826,58,1.32 [0.81-2.15],0.27052217447844
+PALLD,Palladin,Chapter V Mental and behavioural disorders,Any mental disorder,19849,509,0.92 [0.74-1.15],0.4792583291448931
+PALLD,Palladin,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",19439,99,0.76 [0.43-1.35],0.3492132906712456
+PALLD,Palladin,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",23305,63,0.70 [0.35-1.43],0.3309326049504084
+PALLD,Palladin,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",23343,38,0.54 [0.20-1.43],0.2132909329478033
+PALLD,Palladin,Chapter V Mental and behavioural disorders,Acute alcohol intoxication,22283,32,0.91 [0.37-2.21],0.8345058809047885
+PALLD,Palladin,Chapter V Mental and behavioural disorders,"Acute alcohol intoxication, ICD10",23478,32,0.94 [0.39-2.26],0.8870055222831762
+PALLD,Palladin,Chapter V Mental and behavioural disorders,"Alcohol abuse, main dg, excluding more controls",19372,32,0.92 [0.38-2.24],0.8565790827043107
+PALLD,Palladin,Chapter V Mental and behavioural disorders,Alcohol dependence,22274,23,0.68 [0.20-2.27],0.5281106650989391
+PALLD,Palladin,Chapter V Mental and behavioural disorders,Smoking dependency,22198,32,0.91 [0.36-2.32],0.8478386264852021
+PALLD,Palladin,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",19378,38,0.32 [0.11-0.94],0.0384992017690349
+PALLD,Palladin,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",19651,311,1.00 [0.76-1.30],0.9741363580509528
+PALLD,Palladin,Chapter V Mental and behavioural disorders,Depression,21809,277,0.96 [0.71-1.28],0.761117074903072
+PALLD,Palladin,Chapter V Mental and behavioural disorders,Depression or dysthymia,19472,239,1.04 [0.78-1.40],0.7883532871996131
+PALLD,Palladin,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",19466,126,0.81 [0.50-1.30],0.3763816266584973
+PALLD,Palladin,Chapter V Mental and behavioural disorders,Other anxiety disorders,21895,65,0.63 [0.30-1.30],0.2089181004145348
+PALLD,Palladin,Chapter VI Diseases of the nervous system,Neurological diseases,20368,1389,1.02 [0.90-1.16],0.7146618494308726
+PALLD,Palladin,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,18638,162,0.96 [0.66-1.39],0.8165981120328664
+PALLD,Palladin,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,23350,133,0.94 [0.62-1.43],0.7796501779302962
+PALLD,Palladin,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,22410,366,1.05 [0.82-1.33],0.7106819131676232
+PALLD,Palladin,Chapter VI Diseases of the nervous system,Epilepsy,22161,117,0.95 [0.61-1.48],0.8095823169859933
+PALLD,Palladin,Chapter VI Diseases of the nervous system,Migraine,22153,109,1.05 [0.69-1.62],0.8065930042135758
+PALLD,Palladin,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",23143,101,1.13 [0.74-1.73],0.5716298344060573
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Transient ischemic attack,22940,50,1.34 [0.80-2.25],0.2672772823737771
+PALLD,Palladin,Chapter VI Diseases of the nervous system,Other sleep disorders,22130,86,0.90 [0.52-1.54],0.6976630770461725
+PALLD,Palladin,Chapter VI Diseases of the nervous system,Sleep apnoea,23173,60,1.05 [0.60-1.86],0.855389772113771
+PALLD,Palladin,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",22340,717,1.09 [0.92-1.29],0.3004106268726018
+PALLD,Palladin,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",21725,102,1.06 [0.68-1.65],0.7813320999982379
+PALLD,Palladin,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,22072,449,1.11 [0.90-1.36],0.3224574069541023
+PALLD,Palladin,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,23303,63,1.20 [0.72-2.00],0.4864313143591359
+PALLD,Palladin,Chapter VI Diseases of the nervous system,Hemiplegia,23287,47,0.97 [0.47-1.97],0.9230406098151124
+PALLD,Palladin,Chapter VI Diseases of the nervous system,Other neurological diseases,23107,100,0.82 [0.48-1.39],0.4616570146681258
+PALLD,Palladin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",22896,367,0.74 [0.55-0.99],0.0442560769190789
+PALLD,Palladin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,22741,212,0.68 [0.46-1.01],0.0563221972902649
+PALLD,Palladin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,22589,60,0.56 [0.26-1.23],0.1494067951154327
+PALLD,Palladin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,22642,113,0.57 [0.32-1.01],0.0557192116039337
+PALLD,Palladin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,22622,93,0.84 [0.48-1.45],0.5214377511455974
+PALLD,Palladin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,19973,147,1.27 [0.92-1.76],0.1408836076195343
+PALLD,Palladin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,20176,350,1.01 [0.78-1.31],0.9136441213904232
+PALLD,Palladin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,22644,154,1.05 [0.73-1.52],0.8019280878572501
+PALLD,Palladin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,23299,29,1.21 [0.58-2.55],0.6072837470313668
+PALLD,Palladin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,1506,29,1.32 [0.57-3.03],0.5149245513946386
+PALLD,Palladin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",21822,29,1.22 [0.59-2.53],0.5964834113459136
+PALLD,Palladin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,22926,78,0.76 [0.40-1.43],0.3906467149836294
+PALLD,Palladin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,22890,42,0.90 [0.41-1.98],0.7953825956949522
+PALLD,Palladin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",22804,76,0.90 [0.51-1.60],0.729015711341686
+PALLD,Palladin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,23024,86,1.31 [0.88-1.95],0.1839467352838356
+PALLD,Palladin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diseases of middle ear and mastoid,23411,108,1.30 [0.91-1.86],0.1529092580580911
+PALLD,Palladin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of ear,22858,94,1.18 [0.77-1.81],0.4596714235578748
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,17292,2355,1.05 [0.94-1.18],0.3469839635628448
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,23038,66,0.76 [0.39-1.52],0.4433733878599879
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,"Hypertension, essential",18197,1722,1.05 [0.92-1.18],0.4724691596469412
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Hypertension,18213,1738,1.05 [0.93-1.19],0.4129744091420648
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,16508,33,1.20 [0.60-2.40],0.6057226175809196
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",22094,609,0.96 [0.79-1.18],0.7289213178269516
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Angina pectoris,21905,420,0.94 [0.73-1.21],0.6368455392906588
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,22952,121,0.98 [0.63-1.53],0.9294864359583476
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,23017,186,0.95 [0.66-1.37],0.7896813470770053
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",23464,23,1.33 [0.60-2.95],0.4848096711729097
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",21563,78,0.86 [0.47-1.57],0.6260832967304868
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,21865,391,1.03 [0.81-1.31],0.8055287882800313
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Pulmonary embolism,22841,85,1.22 [0.79-1.88],0.3795676425737223
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Venous thromboembolism,22942,186,1.08 [0.78-1.50],0.6283535398213542
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Secondary right heart disease,22846,90,1.18 [0.76-1.82],0.4647026642714704
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,22846,90,1.18 [0.76-1.82],0.4647026642714704
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",16562,87,1.18 [0.76-1.83],0.4514063948375656
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Cardiomyopathy,20465,31,1.01 [0.44-2.35],0.9773855274025792
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Conduction disorders,20498,64,1.65 [1.18-2.31],0.0035510254208766
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,14126,84,0.95 [0.56-1.61],0.8470834036802157
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,14268,226,1.19 [0.90-1.56],0.2235708361898635
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Other arrhythmias,20478,44,0.83 [0.37-1.83],0.6367678409211219
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,20483,49,1.11 [0.60-2.05],0.7368466162339715
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",22829,83,0.84 [0.47-1.50],0.557544947146666
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",22864,110,1.36 [0.96-1.91],0.080640978250735
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",22899,83,1.26 [0.83-1.93],0.2800800861595391
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",22961,71,1.17 [0.71-1.92],0.5353122054522437
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,22668,60,0.95 [0.50-1.80],0.8754122639064651
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,22704,96,1.49 [1.07-2.07],0.0178129348378449
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),22155,112,0.94 [0.59-1.49],0.7826195767481197
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,DVT of lower extremities,22132,89,1.03 [0.63-1.68],0.898229502615718
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",23336,88,1.00 [0.61-1.64],0.9975833771546468
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Varicose veins,22567,524,1.13 [0.94-1.37],0.1959852619839905
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,Hypotension,22588,72,0.80 [0.42-1.52],0.496126462989549
+PALLD,Palladin,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,19127,1811,0.98 [0.88-1.11],0.7998649451526241
+PALLD,Palladin,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,23334,113,1.19 [0.81-1.74],0.3729492250077534
+PALLD,Palladin,Chapter X Diseases of the respiratory system,Influenza and pneumonia,22143,174,0.75 [0.49-1.15],0.1933720810870317
+PALLD,Palladin,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",22128,159,0.78 [0.51-1.21],0.272608676004532
+PALLD,Palladin,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,22739,203,0.98 [0.70-1.37],0.8962873710863772
+PALLD,Palladin,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,22734,198,0.95 [0.67-1.35],0.7811994414798895
+PALLD,Palladin,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,22859,479,0.96 [0.76-1.19],0.6909340232257293
+PALLD,Palladin,Chapter X Diseases of the respiratory system,Chronic sinusitis,22479,99,1.19 [0.79-1.79],0.3946627832177097
+PALLD,Palladin,Chapter X Diseases of the respiratory system,Nasal polyp,22451,71,1.08 [0.64-1.84],0.7641224486374887
+PALLD,Palladin,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",22683,303,0.99 [0.75-1.30],0.9241151489913492
+PALLD,Palladin,Chapter X Diseases of the respiratory system,Deviated nasal septum,22498,118,1.05 [0.69-1.59],0.8100102144343477
+PALLD,Palladin,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,11301,55,0.88 [0.43-1.78],0.718543513435388
+PALLD,Palladin,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,20970,998,0.98 [0.84-1.14],0.7780244593497507
+PALLD,Palladin,Chapter X Diseases of the respiratory system,Early onset COPD,22641,135,0.82 [0.51-1.31],0.4091201121281755
+PALLD,Palladin,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",22658,152,0.74 [0.47-1.19],0.2128848707137393
+PALLD,Palladin,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",22658,152,0.74 [0.47-1.19],0.2128848707137393
+PALLD,Palladin,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",21732,858,1.00 [0.85-1.17],0.9755994428593868
+PALLD,Palladin,Chapter X Diseases of the respiratory system,Asthma,17466,858,0.99 [0.84-1.17],0.9033826253624344
+PALLD,Palladin,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",17310,858,0.99 [0.84-1.16],0.8651640753717258
+PALLD,Palladin,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",17455,847,0.99 [0.84-1.17],0.9456850210530764
+PALLD,Palladin,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,23246,79,1.22 [0.77-1.94],0.3947522454185126
+PALLD,Palladin,Chapter X Diseases of the respiratory system,Interstitial lung disease,21958,61,1.28 [0.78-2.11],0.324117913225499
+PALLD,Palladin,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",23309,61,1.29 [0.79-2.12],0.3109451064804747
+PALLD,Palladin,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,21951,54,1.34 [0.81-2.23],0.2601721972419254
+PALLD,Palladin,Chapter X Diseases of the respiratory system,Pleural effusion,21954,72,0.74 [0.38-1.43],0.3675507988778949
+PALLD,Palladin,Chapter X Diseases of the respiratory system,Other diseases of pleura,22048,166,0.89 [0.60-1.33],0.5693093567911522
+PALLD,Palladin,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,22525,79,1.08 [0.65-1.79],0.7800551460241082
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,16344,5131,1.02 [0.94-1.10],0.7146890271408757
+PALLD,Palladin,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",23028,406,1.06 [0.84-1.32],0.6330485439272525
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,23481,88,0.72 [0.41-1.29],0.2752701455756132
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Impacted teeth,23486,80,0.76 [0.42-1.38],0.3680361827912467
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Dental caries,22718,96,1.21 [0.81-1.82],0.3563442160693764
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,22730,108,1.12 [0.74-1.69],0.5845579190305232
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,23472,97,0.77 [0.45-1.32],0.3361468407494645
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,22716,94,1.11 [0.71-1.74],0.6595058507788131
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,22465,69,0.96 [0.53-1.72],0.8847248785627377
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,23399,44,1.33 [0.77-2.30],0.3115050410911768
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,17811,189,1.18 [0.87-1.59],0.295028757602347
+PALLD,Palladin,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",19601,1979,1.01 [0.91-1.13],0.8115920924759514
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Oesophagitis,17870,248,1.18 [0.90-1.53],0.2322287384439925
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,18259,637,1.11 [0.93-1.32],0.2678425515181496
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,17689,67,0.67 [0.33-1.37],0.2769560553088613
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,17739,117,0.92 [0.58-1.47],0.7394500101463553
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Oesophageal obstruction,17653,31,0.74 [0.26-2.08],0.5683759133185087
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Gastric ulcer,17747,125,1.13 [0.77-1.66],0.5226968875593083
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Duodenal ulcer,17687,65,1.31 [0.82-2.08],0.2538356425927974
+PALLD,Palladin,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",23442,51,0.50 [0.21-1.21],0.1240749367717112
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Chronic gastritis,17734,112,0.65 [0.37-1.14],0.1297220536967974
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),18342,720,1.01 [0.84-1.21],0.9404427359664168
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Diseases of appendix,23380,135,0.68 [0.42-1.11],0.1197914451028605
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Functional dyspepsia,18113,491,1.16 [0.96-1.41],0.1222957426503254
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,17771,149,1.03 [0.70-1.50],0.881171467497659
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,23403,117,1.11 [0.75-1.64],0.6147332833347602
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Acute appendicitis,23356,111,0.75 [0.44-1.25],0.2680839841489434
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Hernia,21070,1029,1.00 [0.86-1.16],0.9583020757167048
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Inguinal hernia,20098,57,0.96 [0.51-1.82],0.9061683702325564
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Umbilical hernia,20103,62,1.32 [0.83-2.08],0.2393678578295601
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Ventral hernia,20127,86,0.73 [0.40-1.34],0.3094000937057258
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,20871,830,0.99 [0.83-1.17],0.8649810875003691
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,22600,784,1.01 [0.86-1.20],0.8644959026080148
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Other diseases of intestines,18664,1854,1.00 [0.89-1.12],0.989234812063971
+PALLD,Palladin,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",23235,54,nan [nan-nan],
+PALLD,Palladin,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",23470,77,0.72 [0.38-1.36],0.30710693001571
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Crohn disease,21893,77,0.71 [0.38-1.36],0.3034272489540941
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Crohn's disease NAS,21871,55,0.84 [0.42-1.70],0.6321751566541937
+PALLD,Palladin,Chapter XI Diseases of the digestive system,"Ulcerative colitis (strict definition, require KELA, min 2 HDR)",23393,110,1.26 [0.88-1.82],0.2072990579386751
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Ulcerative colitis,21926,110,1.26 [0.88-1.81],0.2127346654747658
+PALLD,Palladin,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",21912,96,1.12 [0.72-1.73],0.6124279218963149
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,22485,669,1.02 [0.85-1.22],0.8487025068723124
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,22475,659,1.01 [0.84-1.21],0.920424147498312
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,16898,88,1.02 [0.63-1.67],0.9233608550115886
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Intestinal stricture,23110,88,1.03 [0.63-1.70],0.8998319930286897
+PALLD,Palladin,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",16866,56,1.12 [0.64-1.98],0.694756450810535
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,17381,571,1.11 [0.92-1.33],0.2932777351701477
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,17015,205,0.99 [0.72-1.38],0.9755770057989008
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,17136,326,0.96 [0.73-1.26],0.775764967581235
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Constipation,22086,293,0.98 [0.74-1.30],0.8717359871864772
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Diseases of peritoneum,23078,108,0.84 [0.51-1.38],0.4879004847109129
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,16912,102,1.11 [0.74-1.67],0.6217982130860673
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,16850,40,0.39 [0.14-1.07],0.0671644948529697
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,17567,757,1.10 [0.93-1.29],0.2666864265833958
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Other diseases of intestine,17006,196,0.93 [0.65-1.32],0.6794755981507671
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,23066,96,0.84 [0.50-1.42],0.5179536645844167
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Diseases of liver,22848,86,1.03 [0.63-1.69],0.9137899449836456
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Other diseases of liver,22808,46,1.18 [0.65-2.14],0.5755616633069034
+PALLD,Palladin,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",22165,736,1.16 [1.00-1.36],0.0566205170109686
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Cholelithiasis,22043,614,1.12 [0.94-1.34],0.1932036624726749
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Cholecystitis,21540,111,1.47 [1.08-1.99],0.0134044508015032
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,21486,57,1.04 [0.57-1.91],0.8918057126218408
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Acute pancreatitis,21478,49,0.95 [0.47-1.92],0.8847012234611911
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Acute pancreatitis (for exclusion),23386,49,0.95 [0.47-1.92],0.8806364836277744
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Diseases of the digestive system,22340,259,1.10 [0.83-1.45],0.5031725665212154
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Intestinal malabsorption,22172,91,1.39 [0.97-1.99],0.0704273759837902
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Coeliac disease,22159,78,1.33 [0.88-2.00],0.1734614913664051
+PALLD,Palladin,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",22115,34,0.42 [0.14-1.24],0.1178453015073371
+PALLD,Palladin,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,22220,139,0.99 [0.66-1.49],0.9622655161997888
+PALLD,Palladin,Chapter XI Diseases of the digestive system,GI-bleeding,22212,131,0.98 [0.65-1.50],0.9363624644969796
+PALLD,Palladin,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,20838,1378,1.09 [0.96-1.24],0.1698493130594456
+PALLD,Palladin,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,23129,103,0.92 [0.57-1.51],0.7515244995083665
+PALLD,Palladin,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,23139,393,0.94 [0.73-1.21],0.6368338770547658
+PALLD,Palladin,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,22173,578,1.11 [0.92-1.33],0.2906204602156942
+PALLD,Palladin,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,22815,283,1.23 [0.97-1.55],0.0926215122250058
+PALLD,Palladin,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",22597,65,1.48 [1.00-2.19],0.0516835076123696
+PALLD,Palladin,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,22710,178,1.17 [0.86-1.60],0.307330769263753
+PALLD,Palladin,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,23261,76,1.14 [0.70-1.85],0.6012297914560389
+PALLD,Palladin,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,23239,54,0.74 [0.35-1.57],0.4316512887693142
+PALLD,Palladin,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,23226,41,0.73 [0.31-1.74],0.4771993691776977
+PALLD,Palladin,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,23302,49,0.85 [0.40-1.79],0.6671788686332085
+PALLD,Palladin,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,23299,46,0.94 [0.46-1.94],0.8678791489695539
+PALLD,Palladin,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,22798,52,0.78 [0.37-1.65],0.5149876257546352
+PALLD,Palladin,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,23049,303,1.05 [0.81-1.36],0.7249864760310284
+PALLD,Palladin,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,21675,80,1.00 [0.59-1.70],0.9980379022539694
+PALLD,Palladin,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,21722,127,0.94 [0.60-1.46],0.779131875996838
+PALLD,Palladin,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,21687,92,0.73 [0.41-1.31],0.2958495843152956
+PALLD,Palladin,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",21815,220,1.19 [0.90-1.57],0.220272046619808
+PALLD,Palladin,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,21794,199,1.22 [0.92-1.63],0.1749945791721932
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,16551,3765,1.05 [0.96-1.15],0.2724349032810208
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,18051,2167,1.09 [0.99-1.22],0.0898179241725077
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,21113,1150,0.96 [0.83-1.11],0.5749197124581641
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,16072,188,0.86 [0.58-1.26],0.4288104488262408
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,16325,441,0.97 [0.77-1.22],0.7852847738272222
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",23032,180,0.82 [0.55-1.22],0.3221858013416632
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,23046,165,0.82 [0.54-1.25],0.3594476584757509
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,16922,1038,1.13 [0.98-1.31],0.0856556151957848
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",19238,1038,1.14 [0.99-1.31],0.0704671840477624
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,15896,12,1.13 [0.35-3.69],0.8402313662982646
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",23362,12,1.22 [0.37-3.95],0.7442217350498646
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,16109,225,1.01 [0.74-1.38],0.9424699080226446
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,15958,74,1.36 [0.90-2.06],0.1492360448479935
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,16147,263,1.19 [0.92-1.54],0.1851762482112173
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",23339,138,1.15 [0.80-1.65],0.4643032829467458
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,16290,406,1.02 [0.80-1.29],0.8809850179832159
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,16284,400,1.24 [1.01-1.52],0.0379651661931368
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,17095,1211,1.06 [0.93-1.21],0.4050887412595866
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),15982,98,1.02 [0.63-1.63],0.9465411949684578
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),16243,359,1.12 [0.89-1.40],0.3418000892910776
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,15950,66,0.51 [0.24-1.11],0.0892995312866536
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),15972,88,1.32 [0.89-1.96],0.1616278325775085
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,16193,309,0.87 [0.65-1.17],0.3472198294486502
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,16144,260,0.84 [0.60-1.16],0.2826874240026327
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,17503,258,1.42 [1.15-1.76],0.0013663508362498
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,22795,207,1.21 [0.91-1.60],0.1876400344300289
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,22667,79,0.86 [0.48-1.55],0.612988945423528
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,20141,74,0.97 [0.55-1.71],0.9242089820228672
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,20337,270,1.02 [0.77-1.36],0.8791777444521947
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,20948,881,1.16 [1.00-1.34],0.0542781625088849
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,20255,188,0.98 [0.69-1.40],0.9174933853309968
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,20136,69,1.11 [0.65-1.92],0.7017441455270017
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",20766,699,1.18 [1.00-1.38],0.0489122909879954
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,20108,41,0.65 [0.27-1.58],0.3429239265307607
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,20274,207,1.43 [1.13-1.81],0.0029820516558983
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,20155,88,1.08 [0.67-1.74],0.7564391642757293
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,20141,74,0.96 [0.54-1.71],0.900844427319981
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,20197,130,0.98 [0.64-1.50],0.9271432191218392
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,20135,68,1.02 [0.58-1.81],0.9437846509991688
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,20375,308,1.18 [0.93-1.50],0.1779065332255698
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,20297,334,0.97 [0.75-1.27],0.8423412582487834
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,20026,63,0.91 [0.48-1.72],0.766230148874435
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,20057,94,1.11 [0.70-1.75],0.6657231004435717
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,20084,121,0.88 [0.55-1.40],0.5879914050661501
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",19999,36,1.45 [0.85-2.48],0.1765645188974061
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,20012,49,0.62 [0.26-1.44],0.2650344660830682
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],19998,35,0.48 [0.16-1.40],0.1805917171921282
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,20199,236,0.83 [0.59-1.17],0.2888120373965638
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,20014,51,0.79 [0.37-1.69],0.5373842910321034
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,20019,56,0.54 [0.24-1.23],0.1456885962447664
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,20082,119,0.70 [0.42-1.17],0.1762727619387017
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,20033,70,1.18 [0.72-1.92],0.5171206871930722
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",20431,468,0.96 [0.77-1.21],0.7544375205178059
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,20129,166,0.82 [0.55-1.23],0.3414093982376782
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,20215,252,1.02 [0.76-1.37],0.8974755341719484
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,21158,202,1.00 [0.71-1.40],0.9791565012548126
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,21362,406,1.05 [0.84-1.33],0.6493962304592225
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,20989,33,0.85 [0.34-2.10],0.7253249791571227
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,21004,48,0.89 [0.43-1.84],0.7584851747020485
+PALLD,Palladin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,21046,90,0.96 [0.58-1.60],0.8879539154582704
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,19278,5248,1.04 [0.97-1.13],0.2569359681537219
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,21539,148,1.19 [0.85-1.66],0.3172781448935193
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,21427,36,0.97 [0.44-2.14],0.9436820382382906
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Acute renal failure,21711,26,1.05 [0.43-2.52],0.9178937986056872
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,21713,28,1.76 [1.10-2.82],0.0185657936445177
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,21714,29,0.96 [0.40-2.30],0.925843355131188
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Urolithiasis,23315,104,1.17 [0.78-1.75],0.4523780039573765
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,23221,51,0.89 [0.44-1.82],0.7529747901257119
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,23289,78,1.15 [0.71-1.85],0.5728566842782853
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,23241,30,1.55 [0.90-2.65],0.1122745400384463
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,21653,1066,1.06 [0.92-1.22],0.4018250436950931
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Cystitis,20694,107,1.13 [0.75-1.71],0.5676877628336985
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,20659,72,1.21 [0.76-1.95],0.4235830410965652
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,20721,134,1.21 [0.86-1.71],0.2823856044156952
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Urethral stricture,20666,79,0.81 [0.44-1.49],0.5011894281549258
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,21435,848,1.07 [0.92-1.25],0.3694270662084202
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Disorders of breast,23254,417,1.04 [0.83-1.30],0.7346276918612366
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,22969,132,1.27 [0.92-1.77],0.1469087525812871
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Unspecified lump in breast,22977,140,0.98 [0.65-1.47],0.9128474905377036
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,22940,103,1.07 [0.69-1.65],0.7736826877581122
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,23198,474,0.94 [0.75-1.17],0.5699846783694558
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Inflammatory disease of cervix uteri,22838,114,0.94 [0.60-1.47],0.7778283887288725
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,22935,211,0.98 [0.71-1.35],0.912702028767116
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,21445,3934,1.04 [0.96-1.12],0.3857057956700672
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Endometriosis,17811,300,1.28 [1.03-1.59],0.0285546463321783
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Unspecified/other endometriosis,17595,84,1.26 [0.83-1.91],0.2790427909647708
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),17650,139,1.41 [1.05-1.87],0.020622997601554
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,18191,680,1.00 [0.83-1.20],0.9985493213760954
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,17857,346,0.94 [0.72-1.22],0.6526241658603199
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,18327,816,0.99 [0.84-1.18],0.941265631914088
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Uterine polyps,17780,269,0.95 [0.71-1.28],0.7470155742335816
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",17884,373,0.91 [0.70-1.18],0.4644801058000544
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Erosion and ectropion of cervix uteri,17595,84,0.83 [0.47-1.45],0.5109923875884277
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Dysplasia of cervi uteri,17673,162,1.04 [0.72-1.50],0.8240343893161288
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,"All dysplastic lesions of the cervix uteri, vagina or vulva",23486,225,1.01 [0.74-1.38],0.941021665729582
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,All dysplastic lesions of the cervix uteri,23495,214,1.05 [0.78-1.43],0.7351517619133652
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,HSIL lesion of the cervix uteri,23516,120,1.01 [0.67-1.54],0.945950944213434
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,"HSIL lesion of the cervix uteri, vagina or vulva",23508,131,0.94 [0.61-1.43],0.7559593621648812
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,17634,123,1.24 [0.88-1.77],0.2231194025879854
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,17614,103,0.73 [0.42-1.27],0.2681311834053207
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,17631,120,0.80 [0.49-1.31],0.3755668534261519
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Irregular menses,23427,405,1.01 [0.80-1.27],0.933616393326284
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",18668,1157,1.11 [0.97-1.27],0.137752885955263
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Menorrhagia,18267,756,1.10 [0.94-1.30],0.2395171604763761
+PALLD,Palladin,"Chapter IV Endocrine, nutritional and metabolic diseases","Polycystic ovarian syndrome, consortium definition",23501,175,1.13 [0.82-1.56],0.4386811714552616
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,17911,400,1.28 [1.05-1.55],0.0126073022365554
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,17782,271,0.89 [0.66-1.21],0.4747066328804871
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,18287,776,0.93 [0.78-1.12],0.4637582274559332
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,Female infertility,17596,85,1.26 [0.83-1.92],0.2796704079147513
+PALLD,Palladin,Chapter XIV Diseases of the genitourinary system,"Female infertility, cervigal, vaginal, other or unspecified origin",17589,78,1.11 [0.68-1.80],0.6862548969046494
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care related to the fetus and amniotic cavity and possible delivery problems,23511,713,0.97 [0.80-1.16],0.7077021352461778
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",Complications of labour and delivery,23517,975,0.99 [0.84-1.17],0.942869722240514
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",Pregnancy with abortive outcome,23509,378,0.90 [0.70-1.16],0.4360055084253953
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",Other abnormal products of conception,23239,108,0.80 [0.49-1.30],0.3613276664230823
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",Spontaneous abortion,23285,154,0.81 [0.54-1.22],0.312456504203906
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",Medical abortion,23264,133,1.17 [0.82-1.65],0.3851419135308331
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium","Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",23526,135,0.50 [0.30-0.84],0.0089964160534847
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",Pregnancy hypertension,23528,133,0.49 [0.29-0.84],0.0088582378302207
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",Other maternal disorders predominantly related to pregnancy,23526,345,1.03 [0.81-1.32],0.7992635529918858
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",Haemorrhage in early pregnancy,23284,103,1.08 [0.71-1.63],0.714586872040912
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for other conditions predominantly related to pregnancy,23373,192,0.87 [0.60-1.24],0.4371333389583679
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for known or suspected malpresentation of fetus,22915,117,0.80 [0.49-1.29],0.3621061344473248
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for known or suspected abnormality of pelvic organs,22965,167,1.07 [0.76-1.50],0.7029497599790527
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for other known or suspected fetal problems,22995,197,0.98 [0.70-1.36],0.8978060099538898
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",Premature rupture of membranes,22918,120,1.25 [0.90-1.74],0.1832290617251856
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",False labour,22910,112,1.01 [0.66-1.55],0.9565331381649644
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",Prolonged pregnancy,22920,122,0.97 [0.64-1.46],0.8757666775672562
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",Long labour,22727,185,0.74 [0.50-1.10],0.1369892708245552
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",Labour and delivery complicated by fetal stress [distress],22898,356,0.94 [0.73-1.22],0.6543891079994086
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",Perineal laceration during delivery,23087,545,0.97 [0.78-1.21],0.7913498813015998
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium","Postpartum hemorraghe, all women as controls",23532,141,0.89 [0.59-1.33],0.5621165927535188
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",Postpartum haemorrhage due to anatomy,22340,107,0.76 [0.46-1.27],0.2941032952500282
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium","Other complications of labour and delivery, not elsewhere classified",22624,82,0.89 [0.52-1.52],0.6626241662565422
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",Delivery,23537,279,0.77 [0.56-1.06],0.1046961366612778
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium",Single spontaneous delivery,23474,216,0.77 [0.54-1.10],0.1487038936421268
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium","Other obstetric conditions, not elsewhere classified",23526,207,0.91 [0.65-1.27],0.5821286986419956
+PALLD,Palladin,"Chapter XV Pregnancy, childbirth and the puerperium","Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",23516,197,0.87 [0.62-1.24],0.4411508508092229
+PALLD,Palladin,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",23280,41,0.89 [0.40-2.00],0.7818635919067188
+PALLD,Palladin,Chapter VI Diseases of the nervous system,Falls/tendency to fall,21065,542,1.19 [1.00-1.42],0.0539011016453247

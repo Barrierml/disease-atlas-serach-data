@@ -1,0 +1,67 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+SERPINF2,Alpha-2-antiplasmin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,28734,1298,0.60 [0.39-0.90],0.0143011819502061
+SERPINF2,Alpha-2-antiplasmin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,38924,141,0.31 [0.10-0.97],0.0446647837381942
+SERPINF2,Alpha-2-antiplasmin,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,38041,97,0.24 [0.06-0.96],0.0436684893251723
+SERPINF2,Alpha-2-antiplasmin,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",15861,195,6.23 [2.38-16.29],0.0001912353076987
+SERPINF2,Alpha-2-antiplasmin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,39168,1325,0.65 [0.44-0.95],0.028011199327714
+SERPINF2,Alpha-2-antiplasmin,Chapter II Neoplasms,Other benign neoplasms of skin,43745,305,2.21 [1.01-4.84],0.0468478534121575
+SERPINF2,Alpha-2-antiplasmin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),38075,748,0.51 [0.30-0.85],0.0103636913296071
+SERPINF2,Alpha-2-antiplasmin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,40020,204,0.33 [0.12-0.86],0.0242148004540402
+SERPINF2,Alpha-2-antiplasmin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,40001,185,0.33 [0.12-0.91],0.032365354881773
+SERPINF2,Alpha-2-antiplasmin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,40733,917,1.86 [1.15-3.01],0.0114391519556914
+SERPINF2,Alpha-2-antiplasmin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,40708,892,2.02 [1.24-3.29],0.0045562017973948
+SERPINF2,Alpha-2-antiplasmin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,35278,1637,1.58 [1.10-2.28],0.0142555900453266
+SERPINF2,Alpha-2-antiplasmin,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,35159,1518,1.76 [1.21-2.57],0.0032895324548475
+SERPINF2,Alpha-2-antiplasmin,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",36552,400,0.36 [0.17-0.74],0.0058861103725318
+SERPINF2,Alpha-2-antiplasmin,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",43292,294,0.30 [0.13-0.67],0.0035743362219182
+SERPINF2,Alpha-2-antiplasmin,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",43399,216,0.18 [0.07-0.45],0.0002947083702048
+SERPINF2,Alpha-2-antiplasmin,Chapter VI Diseases of the nervous system,Neurological diseases,37826,2536,0.73 [0.54-0.97],0.0289201275416001
+SERPINF2,Alpha-2-antiplasmin,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,41747,820,0.50 [0.31-0.82],0.0057352698858059
+SERPINF2,Alpha-2-antiplasmin,Chapter VI Diseases of the nervous system,Epilepsy,41179,252,0.18 [0.08-0.42],5.266241957055717e-05
+SERPINF2,Alpha-2-antiplasmin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",42847,635,0.51 [0.29-0.89],0.0167618770433154
+SERPINF2,Alpha-2-antiplasmin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,42577,365,0.45 [0.22-0.93],0.0303355237294599
+SERPINF2,Alpha-2-antiplasmin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,42342,130,0.25 [0.08-0.82],0.0218619178155644
+SERPINF2,Alpha-2-antiplasmin,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,42921,120,0.18 [0.06-0.60],0.005032316007601
+SERPINF2,Alpha-2-antiplasmin,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,29091,93,0.22 [0.06-0.84],0.0271605598470695
+SERPINF2,Alpha-2-antiplasmin,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",40255,1975,0.50 [0.35-0.70],5.318897021096489e-05
+SERPINF2,Alpha-2-antiplasmin,Chapter IX Diseases of the circulatory system,Angina pectoris,39453,1173,0.58 [0.38-0.89],0.0123811220528438
+SERPINF2,Alpha-2-antiplasmin,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,42195,380,0.37 [0.18-0.76],0.0069371475306542
+SERPINF2,Alpha-2-antiplasmin,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,42596,781,0.36 [0.22-0.61],0.0001033935977406
+SERPINF2,Alpha-2-antiplasmin,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",38774,494,0.31 [0.16-0.59],0.0003187064808485
+SERPINF2,Alpha-2-antiplasmin,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,39802,1554,0.42 [0.29-0.62],8.16285230199963e-06
+SERPINF2,Alpha-2-antiplasmin,Chapter IX Diseases of the circulatory system,Venous thromboembolism,42774,395,2.03 [1.01-4.08],0.0476337361396281
+SERPINF2,Alpha-2-antiplasmin,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,24859,747,0.32 [0.18-0.55],5.186363599140912e-05
+SERPINF2,Alpha-2-antiplasmin,Chapter IX Diseases of the circulatory system,Other arrhythmias,36596,115,0.12 [0.03-0.39],0.0004894286609365
+SERPINF2,Alpha-2-antiplasmin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",42187,349,0.41 [0.19-0.88],0.0219715745293408
+SERPINF2,Alpha-2-antiplasmin,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,42058,220,0.29 [0.11-0.73],0.009164010204455
+SERPINF2,Alpha-2-antiplasmin,Chapter IX Diseases of the circulatory system,Varicose veins,42063,819,0.48 [0.29-0.78],0.0029199204852305
+SERPINF2,Alpha-2-antiplasmin,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,42389,433,0.44 [0.23-0.87],0.017289291897742
+SERPINF2,Alpha-2-antiplasmin,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,42382,426,0.45 [0.23-0.89],0.021012726803349
+SERPINF2,Alpha-2-antiplasmin,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,41364,124,0.28 [0.08-0.95],0.0419226351050074
+SERPINF2,Alpha-2-antiplasmin,Chapter X Diseases of the respiratory system,Pleural effusion,40429,185,0.24 [0.09-0.63],0.0041958984358669
+SERPINF2,Alpha-2-antiplasmin,Chapter XI Diseases of the digestive system,Functional dyspepsia,33762,748,1.89 [1.14-3.13],0.0131587805115604
+SERPINF2,Alpha-2-antiplasmin,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,37242,1491,1.58 [1.09-2.28],0.0157143736664619
+SERPINF2,Alpha-2-antiplasmin,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",43871,144,3.15 [1.03-9.63],0.0440818536908401
+SERPINF2,Alpha-2-antiplasmin,Chapter XI Diseases of the digestive system,Crohn disease,41157,144,3.15 [1.04-9.61],0.043131798344877
+SERPINF2,Alpha-2-antiplasmin,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,31364,284,2.25 [1.00-5.08],0.049933869934708
+SERPINF2,Alpha-2-antiplasmin,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",41601,1046,1.84 [1.20-2.84],0.0056430038499758
+SERPINF2,Alpha-2-antiplasmin,Chapter XI Diseases of the digestive system,Cholelithiasis,41394,839,1.82 [1.12-2.94],0.0150473835269512
+SERPINF2,Alpha-2-antiplasmin,Chapter XI Diseases of the digestive system,Intestinal malabsorption,41212,117,0.25 [0.07-0.87],0.0296221637269681
+SERPINF2,Alpha-2-antiplasmin,Chapter XI Diseases of the digestive system,Coeliac disease,41193,98,0.22 [0.06-0.85],0.0273525990014573
+SERPINF2,Alpha-2-antiplasmin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,38045,131,3.40 [1.06-10.91],0.0394016831123045
+SERPINF2,Alpha-2-antiplasmin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,37650,98,0.24 [0.06-0.92],0.0372073718515057
+SERPINF2,Alpha-2-antiplasmin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,37848,296,0.39 [0.17-0.88],0.0228597969503708
+SERPINF2,Alpha-2-antiplasmin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,40535,94,0.19 [0.05-0.72],0.014504143419474
+SERPINF2,Alpha-2-antiplasmin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,40611,170,0.30 [0.11-0.84],0.0219607992326182
+SERPINF2,Alpha-2-antiplasmin,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,35037,7268,0.73 [0.61-0.88],0.0011927400280959
+SERPINF2,Alpha-2-antiplasmin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,39707,370,0.46 [0.22-0.95],0.0363402760684733
+SERPINF2,Alpha-2-antiplasmin,Chapter XIV Diseases of the genitourinary system,Acute renal failure,39940,74,0.19 [0.04-0.89],0.0358693415034192
+SERPINF2,Alpha-2-antiplasmin,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,43091,142,0.23 [0.07-0.73],0.0119916960408387
+SERPINF2,Alpha-2-antiplasmin,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,40247,1783,0.57 [0.41-0.81],0.001341855975934
+SERPINF2,Alpha-2-antiplasmin,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,39633,1169,0.61 [0.40-0.92],0.0195916772806608
+SERPINF2,Alpha-2-antiplasmin,"Chapter IV Endocrine, nutritional and metabolic diseases","Polycystic ovarian syndrome, consortium definition",23776,174,3.55 [1.28-9.84],0.0147428200897797
+SERPINF2,Alpha-2-antiplasmin,"Chapter XV Pregnancy, childbirth and the puerperium",Complications of labour and delivery,23793,994,0.45 [0.26-0.76],0.0027559852976627
+SERPINF2,Alpha-2-antiplasmin,"Chapter XV Pregnancy, childbirth and the puerperium",Labour and delivery complicated by fetal stress [distress],23164,365,0.30 [0.13-0.65],0.002544733313839
+SERPINF2,Alpha-2-antiplasmin,"Chapter XV Pregnancy, childbirth and the puerperium",Perineal laceration during delivery,23350,551,0.32 [0.16-0.63],0.0009740164942462
+SERPINF2,Alpha-2-antiplasmin,"Chapter XV Pregnancy, childbirth and the puerperium",Delivery,23812,285,0.29 [0.12-0.69],0.0053934298716818
+SERPINF2,Alpha-2-antiplasmin,"Chapter XV Pregnancy, childbirth and the puerperium",Single spontaneous delivery,23749,222,0.26 [0.10-0.69],0.0069407791333538

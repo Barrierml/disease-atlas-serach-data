@@ -1,0 +1,69 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+BOLA1,BolA-like protein 1,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,16093,763,1.17 [1.03-1.32],0.0122057850911146
+BOLA1,BolA-like protein 1,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,15498,236,1.51 [1.26-1.80],5.839223774023476e-06
+BOLA1,BolA-like protein 1,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,11299,852,1.24 [1.11-1.40],0.0002445163904869
+BOLA1,BolA-like protein 1,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,16172,74,1.59 [1.17-2.15],0.0027113760117492
+BOLA1,BolA-like protein 1,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,15768,59,1.50 [1.06-2.11],0.0210978482285082
+BOLA1,BolA-like protein 1,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,18389,107,1.52 [1.17-1.97],0.0019059763867678
+BOLA1,BolA-like protein 1,Chapter I Certain infectious and parasitic diseases,Other septicaemia,18350,68,1.60 [1.16-2.20],0.0038771067583187
+BOLA1,BolA-like protein 1,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",18114,365,1.32 [1.12-1.56],0.0007456728664682
+BOLA1,BolA-like protein 1,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,17868,119,1.37 [1.05-1.81],0.0222458716336144
+BOLA1,BolA-like protein 1,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,18012,263,1.34 [1.11-1.62],0.002401854975721
+BOLA1,BolA-like protein 1,Chapter II Neoplasms,"Malignant neoplasm of colon, excluding all cancers (controls excluding all cancers)",14013,79,0.56 [0.35-0.90],0.0170688084836422
+BOLA1,BolA-like protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,16669,612,1.32 [1.16-1.50],3.9534877175582487e-05
+BOLA1,BolA-like protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,17791,275,1.39 [1.16-1.67],0.0004570597072344
+BOLA1,BolA-like protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,17791,275,1.39 [1.16-1.67],0.0004570597072344
+BOLA1,BolA-like protein 1,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),15708,439,1.30 [1.12-1.50],0.0006696701327512
+BOLA1,BolA-like protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,19206,47,1.50 [1.00-2.24],0.0474722741495576
+BOLA1,BolA-like protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,17143,111,1.62 [1.26-2.09],0.0001826248956909
+BOLA1,BolA-like protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,17134,102,1.62 [1.25-2.11],0.0003051039535489
+BOLA1,BolA-like protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,17653,621,1.23 [1.07-1.41],0.0039722046546622
+BOLA1,BolA-like protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,17634,602,1.23 [1.07-1.42],0.0045629985814162
+BOLA1,BolA-like protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",12934,72,1.97 [1.53-2.53],1.0417085708361541e-07
+BOLA1,BolA-like protein 1,Chapter VI Diseases of the nervous system,Neurological diseases,16052,1229,1.12 [1.01-1.24],0.026203562766529
+BOLA1,BolA-like protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,19134,52,1.60 [1.13-2.26],0.0084904996567427
+BOLA1,BolA-like protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,2156,52,1.45 [1.01-2.08],0.0456559605774118
+BOLA1,BolA-like protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",17030,52,1.68 [1.18-2.41],0.0043845435518336
+BOLA1,BolA-like protein 1,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,12014,3706,1.10 [1.02-1.19],0.009822640664338
+BOLA1,BolA-like protein 1,Chapter IX Diseases of the circulatory system,"Hypertension, essential",12769,2583,1.11 [1.02-1.20],0.0165330439223654
+BOLA1,BolA-like protein 1,Chapter IX Diseases of the circulatory system,Hypertension,12794,2608,1.12 [1.03-1.22],0.0058904818056891
+BOLA1,BolA-like protein 1,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,10249,63,2.27 [1.79-2.87],1.3379394182039895e-11
+BOLA1,BolA-like protein 1,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",19343,112,1.37 [1.04-1.81],0.0244978897376367
+BOLA1,BolA-like protein 1,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,16781,1166,1.12 [1.01-1.25],0.0318514585540752
+BOLA1,BolA-like protein 1,Chapter IX Diseases of the circulatory system,Venous thromboembolism,18726,233,1.29 [1.05-1.58],0.0159089678193218
+BOLA1,BolA-like protein 1,Chapter IX Diseases of the circulatory system,Cardiomyopathy,14476,62,1.71 [1.26-2.33],0.0005653795262133
+BOLA1,BolA-like protein 1,Chapter IX Diseases of the circulatory system,"Heart failure, strict",18158,245,1.57 [1.32-1.87],4.12927246249389e-07
+BOLA1,BolA-like protein 1,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",18558,124,1.35 [1.04-1.77],0.0266329059601221
+BOLA1,BolA-like protein 1,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),18057,136,1.37 [1.06-1.77],0.0151302599822907
+BOLA1,BolA-like protein 1,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,14434,1809,1.17 [1.07-1.27],0.0003858419124491
+BOLA1,BolA-like protein 1,Chapter X Diseases of the respiratory system,Influenza and pneumonia,17439,223,1.29 [1.04-1.58],0.0175067691593876
+BOLA1,BolA-like protein 1,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",17411,195,1.30 [1.04-1.62],0.0197283433888079
+BOLA1,BolA-like protein 1,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,16850,945,1.13 [1.01-1.27],0.0318294763223598
+BOLA1,BolA-like protein 1,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",18162,248,1.23 [1.00-1.52],0.046977499958434
+BOLA1,BolA-like protein 1,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",18162,248,1.23 [1.00-1.52],0.046977499958434
+BOLA1,BolA-like protein 1,Chapter XI Diseases of the digestive system,Umbilical hernia,14872,107,1.46 [1.10-1.93],0.0084481204473696
+BOLA1,BolA-like protein 1,Chapter XI Diseases of the digestive system,Diseases of the digestive system,18234,275,1.35 [1.12-1.62],0.001437536369266
+BOLA1,BolA-like protein 1,Chapter XI Diseases of the digestive system,Intestinal malabsorption,18016,57,1.62 [1.14-2.29],0.0065818927705867
+BOLA1,BolA-like protein 1,Chapter XI Diseases of the digestive system,Coeliac disease,18008,49,1.63 [1.12-2.36],0.0104059502975847
+BOLA1,BolA-like protein 1,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",18004,45,1.71 [1.19-2.45],0.0038287569696642
+BOLA1,BolA-like protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,12761,3681,1.14 [1.06-1.22],0.0004290477371307
+BOLA1,BolA-like protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,14117,2290,1.12 [1.04-1.22],0.0050002557229196
+BOLA1,BolA-like protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,17325,1099,1.14 [1.03-1.27],0.0123604827364842
+BOLA1,BolA-like protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,12298,471,1.25 [1.07-1.46],0.0054023946525995
+BOLA1,BolA-like protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,19053,131,1.31 [1.00-1.72],0.0467997386480099
+BOLA1,BolA-like protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,11906,79,1.97 [1.53-2.55],2.2744839857767573e-07
+BOLA1,BolA-like protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",18866,76,1.90 [1.47-2.46],9.92273629649285e-07
+BOLA1,BolA-like protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),12070,243,1.24 [1.00-1.53],0.0466461472159986
+BOLA1,BolA-like protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,12201,374,1.20 [1.01-1.43],0.0417739265186194
+BOLA1,BolA-like protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,12162,335,1.21 [1.00-1.45],0.0463073581986107
+BOLA1,BolA-like protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,18868,98,1.41 [1.05-1.90],0.02202830678152
+BOLA1,BolA-like protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,18830,60,1.73 [1.27-2.37],0.0005426017828915
+BOLA1,BolA-like protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,16478,252,1.26 [1.03-1.54],0.0229842665385028
+BOLA1,BolA-like protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,16311,85,1.39 [1.02-1.91],0.0394350455988728
+BOLA1,BolA-like protein 1,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,16588,208,1.88 [1.59-2.22],2.5969947009797466e-13
+BOLA1,BolA-like protein 1,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,16676,53,2.62 [2.10-3.26],1.2339845648317877e-17
+BOLA1,BolA-like protein 1,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,16681,58,2.09 [1.62-2.71],1.968379298562e-08
+BOLA1,BolA-like protein 1,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,19012,65,1.81 [1.38-2.37],2.073306098091662e-05
+BOLA1,BolA-like protein 1,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,17104,998,1.15 [1.03-1.28],0.0130749273088089
+BOLA1,BolA-like protein 1,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,16401,295,1.23 [1.01-1.48],0.0367101573710877
+BOLA1,BolA-like protein 1,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,7194,410,1.20 [1.00-1.42],0.0442982467509692

@@ -1,0 +1,72 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+CAPS,Calcyphosin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,38130,371,1.11 [1.02-1.20],0.0200881679363455
+CAPS,Calcyphosin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,29218,1314,1.09 [1.04-1.15],0.0005779741411228
+CAPS,Calcyphosin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),38674,769,1.08 [1.02-1.15],0.0147566463609297
+CAPS,Calcyphosin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,40630,207,1.14 [1.02-1.28],0.0206701717203214
+CAPS,Calcyphosin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,40609,186,1.15 [1.03-1.29],0.0173746622503014
+CAPS,Calcyphosin,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",34303,138,1.17 [1.04-1.33],0.0119342257088978
+CAPS,Calcyphosin,Chapter V Mental and behavioural disorders,Any mental disorder,37839,1126,1.06 [1.00-1.12],0.0472773441013523
+CAPS,Calcyphosin,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",37122,409,1.12 [1.03-1.22],0.0096583092354957
+CAPS,Calcyphosin,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",43958,299,1.10 [1.00-1.22],0.0483039652850112
+CAPS,Calcyphosin,Chapter V Mental and behavioural disorders,Acute alcohol intoxication,41571,104,1.23 [1.07-1.41],0.0026832131143432
+CAPS,Calcyphosin,Chapter V Mental and behavioural disorders,"Acute alcohol intoxication, ICD10",44490,104,1.23 [1.07-1.41],0.0028846334825098
+CAPS,Calcyphosin,Chapter V Mental and behavioural disorders,"Alcohol abuse, main dg, excluding more controls",36817,104,1.24 [1.08-1.41],0.0022494596415454
+CAPS,Calcyphosin,Chapter V Mental and behavioural disorders,Depression or dysthymia,36851,420,1.10 [1.01-1.20],0.0245114346164704
+CAPS,Calcyphosin,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,44389,196,0.81 [0.66-0.99],0.0443070026219199
+CAPS,Calcyphosin,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,42149,659,1.07 [1.00-1.15],0.0394515133434096
+CAPS,Calcyphosin,Chapter VI Diseases of the nervous system,Hemiplegia,44114,101,1.18 [1.02-1.37],0.0245495439648471
+CAPS,Calcyphosin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,44074,70,1.24 [1.05-1.46],0.0103816427018178
+CAPS,Calcyphosin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,3776,70,1.23 [1.04-1.46],0.0159707257013521
+CAPS,Calcyphosin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",40368,70,1.24 [1.05-1.46],0.0114253049392434
+CAPS,Calcyphosin,Chapter IX Diseases of the circulatory system,"Hypertension, essential",33270,3822,1.04 [1.01-1.08],0.0220635744579301
+CAPS,Calcyphosin,Chapter IX Diseases of the circulatory system,Hypertension,33312,3864,1.05 [1.01-1.08],0.0090218385838772
+CAPS,Calcyphosin,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,29545,97,1.35 [1.20-1.52],8.166774292328306e-07
+CAPS,Calcyphosin,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",40852,2003,1.05 [1.00-1.09],0.0352302663261324
+CAPS,Calcyphosin,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,40398,1581,1.05 [1.00-1.10],0.0378346825659669
+CAPS,Calcyphosin,Chapter IX Diseases of the circulatory system,Venous thromboembolism,43412,403,1.09 [1.00-1.19],0.0403647096558417
+CAPS,Calcyphosin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",42828,359,1.13 [1.04-1.23],0.003470801151833
+CAPS,Calcyphosin,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),42111,247,1.15 [1.05-1.27],0.0039989761450993
+CAPS,Calcyphosin,Chapter IX Diseases of the circulatory system,DVT of lower extremities,42072,208,1.18 [1.07-1.30],0.001418450478726
+CAPS,Calcyphosin,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",44269,200,1.19 [1.07-1.32],0.0008598767474569
+CAPS,Calcyphosin,Chapter IX Diseases of the circulatory system,Varicose veins,42696,832,0.88 [0.81-0.96],0.0031943591675685
+CAPS,Calcyphosin,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,35642,3590,1.17 [1.14-1.21],1.06270430333982e-24
+CAPS,Calcyphosin,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,43231,1057,1.15 [1.10-1.21],3.0257099445907094e-08
+CAPS,Calcyphosin,Chapter X Diseases of the respiratory system,Nasal polyp,42389,215,1.33 [1.22-1.44],2.3216561233307187e-11
+CAPS,Calcyphosin,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",42847,673,1.12 [1.05-1.19],0.0007104104457069
+CAPS,Calcyphosin,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,39845,1758,1.23 [1.18-1.27],3.605187736130462e-27
+CAPS,Calcyphosin,Chapter X Diseases of the respiratory system,Early onset COPD,42606,301,1.20 [1.11-1.30],1.3166797781191368e-05
+CAPS,Calcyphosin,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",42648,343,1.19 [1.10-1.29],7.751800882884351e-06
+CAPS,Calcyphosin,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",42648,343,1.19 [1.10-1.29],7.751800882884351e-06
+CAPS,Calcyphosin,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",41601,1446,1.23 [1.18-1.28],2.802742961257129e-23
+CAPS,Calcyphosin,Chapter X Diseases of the respiratory system,Asthma,31891,1446,1.24 [1.19-1.29],1.483240108819054e-24
+CAPS,Calcyphosin,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",31433,1446,1.24 [1.19-1.29],1.5687404244069131e-24
+CAPS,Calcyphosin,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",31870,1425,1.24 [1.19-1.29],9.331924925939853e-24
+CAPS,Calcyphosin,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,30431,10079,1.03 [1.00-1.05],0.0329467381134837
+CAPS,Calcyphosin,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,42955,1323,1.07 [1.02-1.13],0.0057274566935915
+CAPS,Calcyphosin,Chapter XI Diseases of the digestive system,Other diseases of intestines,35037,3468,1.05 [1.01-1.08],0.0062839854283517
+CAPS,Calcyphosin,Chapter XI Diseases of the digestive system,"Ulcerative colitis (strict definition, require KELA, min 2 HDR)",44408,236,1.19 [1.09-1.31],0.0002099210206671
+CAPS,Calcyphosin,Chapter XI Diseases of the digestive system,Ulcerative colitis,41868,236,1.19 [1.09-1.31],0.0002156064457422
+CAPS,Calcyphosin,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",41842,210,1.18 [1.07-1.30],0.0014204643708803
+CAPS,Calcyphosin,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,31858,289,1.13 [1.03-1.24],0.010606271289862
+CAPS,Calcyphosin,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,33092,1523,1.06 [1.01-1.11],0.0181820858352456
+CAPS,Calcyphosin,Chapter XI Diseases of the digestive system,GI-bleeding,42046,331,1.10 [1.01-1.21],0.0353752035613827
+CAPS,Calcyphosin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,32173,6934,1.05 [1.02-1.08],0.0004356589066755
+CAPS,Calcyphosin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,34977,4032,1.05 [1.02-1.09],0.0017635055020188
+CAPS,Calcyphosin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,40242,2111,1.05 [1.01-1.09],0.025386789414866
+CAPS,Calcyphosin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,31742,797,1.07 [1.01-1.15],0.0281272163396621
+CAPS,Calcyphosin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,32930,1985,1.08 [1.03-1.12],0.0005678698622362
+CAPS,Calcyphosin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",37398,1985,1.07 [1.03-1.12],0.001213406154333
+CAPS,Calcyphosin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,31437,492,1.09 [1.01-1.18],0.0277085538188594
+CAPS,Calcyphosin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",44357,248,1.13 [1.02-1.25],0.0143719395813132
+CAPS,Calcyphosin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,31611,666,1.10 [1.03-1.17],0.0048461728099145
+CAPS,Calcyphosin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),31066,121,1.16 [1.01-1.32],0.03724337378738
+CAPS,Calcyphosin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,38260,129,1.20 [1.07-1.36],0.0027433742317455
+CAPS,Calcyphosin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,40324,377,1.12 [1.03-1.22],0.0056507286466764
+CAPS,Calcyphosin,Chapter XIV Diseases of the genitourinary system,Acute renal failure,40558,80,1.22 [1.05-1.42],0.0087381219163833
+CAPS,Calcyphosin,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,40561,83,1.32 [1.15-1.50],4.681378958391425e-05
+CAPS,Calcyphosin,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,40577,99,1.20 [1.05-1.38],0.0089680822618983
+CAPS,Calcyphosin,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,43910,114,1.19 [1.04-1.36],0.0129602010417775
+CAPS,Calcyphosin,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,18125,127,0.61 [0.43-0.88],0.0082625165265554
+CAPS,Calcyphosin,"Chapter XV Pregnancy, childbirth and the puerperium",Pregnancy hypertension,24160,141,0.68 [0.48-0.97],0.0325656449475101
+CAPS,Calcyphosin,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for other conditions predominantly related to pregnancy,23995,203,1.15 [1.00-1.32],0.0459889138281914
+CAPS,Calcyphosin,"Chapter XV Pregnancy, childbirth and the puerperium",Labour and delivery complicated by fetal stress [distress],23513,379,0.73 [0.60-0.90],0.0025403376206227

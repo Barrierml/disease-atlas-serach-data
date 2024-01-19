@@ -1,0 +1,70 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+GCG,Pro-glucagon,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,19184,235,1.22 [1.11-1.34],2.820419824813204e-05
+GCG,Pro-glucagon,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,14816,801,1.15 [1.09-1.21],2.700601521677585e-07
+GCG,Pro-glucagon,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,19879,88,1.18 [1.02-1.38],0.0296255058322406
+GCG,Pro-glucagon,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,20469,545,1.10 [1.03-1.17],0.0042544172110262
+GCG,Pro-glucagon,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,21617,252,1.12 [1.03-1.23],0.0121341094544892
+GCG,Pro-glucagon,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,21617,252,1.12 [1.03-1.23],0.0121341094544892
+GCG,Pro-glucagon,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),19430,494,1.09 [1.02-1.16],0.0099186917933295
+GCG,Pro-glucagon,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,18133,1411,1.15 [1.10-1.19],9.689704948066004e-11
+GCG,Pro-glucagon,Chapter IX Diseases of the circulatory system,Peripheral artery disease,21827,159,1.15 [1.03-1.28],0.0148411068938096
+GCG,Pro-glucagon,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,20985,678,1.59 [1.50-1.69],7.814657706347886e-53
+GCG,Pro-glucagon,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,20960,653,1.59 [1.50-1.69],1.4613728046838823e-51
+GCG,Pro-glucagon,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,17981,1259,1.15 [1.10-1.20],4.0825072313690687e-10
+GCG,Pro-glucagon,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",16903,181,1.15 [1.03-1.28],0.0121473444440329
+GCG,Pro-glucagon,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,17878,1156,1.14 [1.09-1.20],5.815076237608977e-09
+GCG,Pro-glucagon,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,16771,49,1.25 [1.02-1.53],0.0328497024803738
+GCG,Pro-glucagon,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",16820,98,1.25 [1.08-1.44],0.002881856704026
+GCG,Pro-glucagon,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",19232,262,1.10 [1.01-1.20],0.0376841631696108
+GCG,Pro-glucagon,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,20471,376,1.18 [1.10-1.27],8.49447831758938e-06
+GCG,Pro-glucagon,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,22203,246,1.17 [1.07-1.29],0.0005389754381367
+GCG,Pro-glucagon,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,22759,71,1.45 [1.23-1.72],1.473016941673185e-05
+GCG,Pro-glucagon,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",20311,71,1.61 [1.35-1.92],1.0232352950126025e-07
+GCG,Pro-glucagon,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,15647,3671,1.12 [1.09-1.16],2.5267681981198997e-13
+GCG,Pro-glucagon,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,22479,61,1.27 [1.07-1.52],0.0076444195082825
+GCG,Pro-glucagon,Chapter IX Diseases of the circulatory system,"Hypertension, essential",16512,2407,1.16 [1.12-1.21],1.532966048575415e-17
+GCG,Pro-glucagon,Chapter IX Diseases of the circulatory system,Hypertension,16557,2452,1.17 [1.13-1.21],5.584660289996167e-19
+GCG,Pro-glucagon,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,14213,108,1.40 [1.22-1.61],2.780015519117968e-06
+GCG,Pro-glucagon,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",20494,1637,1.08 [1.04-1.12],4.158045881667721e-05
+GCG,Pro-glucagon,Chapter IX Diseases of the circulatory system,Angina pectoris,19774,917,1.07 [1.01-1.12],0.010701096189355
+GCG,Pro-glucagon,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,20230,1396,1.09 [1.05-1.14],1.780389511657776e-05
+GCG,Pro-glucagon,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",14184,79,1.24 [1.06-1.46],0.0090396137661652
+GCG,Pro-glucagon,Chapter IX Diseases of the circulatory system,Cardiomyopathy,18116,78,1.34 [1.14-1.58],0.0003117095437038
+GCG,Pro-glucagon,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,11455,131,1.23 [1.08-1.40],0.0019589594811789
+GCG,Pro-glucagon,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,18161,123,1.18 [1.04-1.34],0.0121688112684424
+GCG,Pro-glucagon,Chapter IX Diseases of the circulatory system,"Heart failure, strict",21883,306,1.13 [1.04-1.22],0.0038131669214784
+GCG,Pro-glucagon,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",22149,181,1.13 [1.02-1.26],0.0209309858034201
+GCG,Pro-glucagon,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",22175,164,1.14 [1.02-1.27],0.0201003678352914
+GCG,Pro-glucagon,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",22262,145,1.19 [1.06-1.34],0.0027332982022051
+GCG,Pro-glucagon,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,18049,1950,1.06 [1.02-1.09],0.001903554151036
+GCG,Pro-glucagon,Chapter X Diseases of the respiratory system,Influenza and pneumonia,21092,245,1.13 [1.03-1.23],0.0112028883395807
+GCG,Pro-glucagon,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",21055,208,1.13 [1.03-1.25],0.0119432271154034
+GCG,Pro-glucagon,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,20699,820,1.06 [1.01-1.12],0.0172305047225467
+GCG,Pro-glucagon,Chapter X Diseases of the respiratory system,Asthma,15740,638,1.07 [1.01-1.13],0.0268222484898821
+GCG,Pro-glucagon,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",15404,638,1.07 [1.01-1.14],0.0194738115899626
+GCG,Pro-glucagon,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",15730,628,1.07 [1.01-1.14],0.0211558031418951
+GCG,Pro-glucagon,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,21822,122,1.19 [1.05-1.35],0.0071315040764677
+GCG,Pro-glucagon,Chapter XI Diseases of the digestive system,Diseases of appendix,23005,101,0.79 [0.69-0.92],0.001714230803468
+GCG,Pro-glucagon,Chapter XI Diseases of the digestive system,Acute appendicitis,22987,83,0.80 [0.68-0.94],0.005271170555088
+GCG,Pro-glucagon,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",22828,53,1.23 [1.01-1.49],0.0374536543803606
+GCG,Pro-glucagon,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, require KELA, min 2 HDR)",23085,69,1.19 [1.00-1.41],0.0462921142356142
+GCG,Pro-glucagon,Chapter XI Diseases of the digestive system,Crohn disease,21804,69,1.19 [1.01-1.41],0.0415078402222934
+GCG,Pro-glucagon,Chapter XI Diseases of the digestive system,Diseases of liver,22340,137,1.15 [1.02-1.29],0.0253162237482555
+GCG,Pro-glucagon,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,22176,460,1.09 [1.02-1.17],0.0101687993855197
+GCG,Pro-glucagon,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,22013,297,1.14 [1.05-1.24],0.0015341969970155
+GCG,Pro-glucagon,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,22883,88,1.24 [1.07-1.45],0.0046084897370145
+GCG,Pro-glucagon,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,22869,74,1.21 [1.03-1.43],0.0211360938112405
+GCG,Pro-glucagon,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,16588,88,0.85 [0.73-0.98],0.0310009817179784
+GCG,Pro-glucagon,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",22899,85,0.84 [0.72-0.98],0.02451160496176
+GCG,Pro-glucagon,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,16622,122,1.18 [1.03-1.34],0.0134504342751981
+GCG,Pro-glucagon,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",22223,118,1.19 [1.05-1.36],0.0083787201576578
+GCG,Pro-glucagon,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,20469,271,1.12 [1.03-1.22],0.0114175339058272
+GCG,Pro-glucagon,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,20351,153,1.14 [1.02-1.28],0.0226479204092967
+GCG,Pro-glucagon,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,17739,2315,1.05 [1.02-1.09],0.0021471451987502
+GCG,Pro-glucagon,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,20426,304,1.25 [1.15-1.35],1.4344249425053298e-07
+GCG,Pro-glucagon,Chapter XIV Diseases of the genitourinary system,Acute renal failure,20452,72,1.40 [1.19-1.65],6.150827205531394e-05
+GCG,Pro-glucagon,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,20471,91,1.29 [1.11-1.50],0.0007864281349716
+GCG,Pro-glucagon,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,20473,93,1.34 [1.16-1.55],9.58842233765834e-05
+GCG,Pro-glucagon,Chapter XIV Diseases of the genitourinary system,Urolithiasis,22674,350,1.12 [1.04-1.21],0.0035866270726632
+GCG,Pro-glucagon,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,22627,76,1.23 [1.05-1.45],0.0118830434727648
+GCG,Pro-glucagon,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,22571,247,1.17 [1.06-1.28],0.0009546359422456

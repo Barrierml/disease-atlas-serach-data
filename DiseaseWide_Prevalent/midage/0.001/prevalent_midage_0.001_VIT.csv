@@ -1,0 +1,71 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+VIT,Vitrin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,22205,127,2.78 [1.90-4.05],1.2770842280865485e-07
+VIT,Vitrin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,17602,445,1.79 [1.44-2.22],1.7117468865612845e-07
+VIT,Vitrin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,22910,70,2.66 [1.62-4.37],0.0001083777936235
+VIT,Vitrin,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,22420,40,3.00 [1.64-5.51],0.0003797007650809
+VIT,Vitrin,Chapter I Certain infectious and parasitic diseases,Other septicaemia,23977,60,2.66 [1.57-4.50],0.000263577667608
+VIT,Vitrin,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,23525,125,2.14 [1.45-3.16],0.0001324176553442
+VIT,Vitrin,Chapter II Neoplasms,Melanocytic naevi,24435,210,0.47 [0.34-0.63],1.369605170120767e-06
+VIT,Vitrin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),22534,310,1.89 [1.46-2.43],1.0527484545460272e-06
+VIT,Vitrin,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,21572,624,1.65 [1.37-1.99],1.1791390332692953e-07
+VIT,Vitrin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,23494,382,0.61 [0.48-0.77],2.856489851135662e-05
+VIT,Vitrin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,23000,92,2.08 [1.35-3.21],0.0008634589307797
+VIT,Vitrin,Chapter IX Diseases of the circulatory system,Peripheral artery disease,23939,51,4.02 [2.28-7.07],1.4681609263444088e-06
+VIT,Vitrin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,21431,483,1.53 [1.24-1.90],8.149624729630447e-05
+VIT,Vitrin,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,21392,444,1.52 [1.21-1.89],0.0002438784197445
+VIT,Vitrin,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,20988,40,2.87 [1.54-5.36],0.0009094171876215
+VIT,Vitrin,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",21010,62,4.24 [2.62-6.85],4.1993544969118525e-09
+VIT,Vitrin,Chapter V Mental and behavioural disorders,Any mental disorder,21340,679,1.45 [1.21-1.73],4.495054319192884e-05
+VIT,Vitrin,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",20929,268,2.28 [1.73-3.01],5.623315483213595e-09
+VIT,Vitrin,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",24239,204,2.15 [1.58-2.93],1.1256770829956076e-06
+VIT,Vitrin,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",24293,148,2.67 [1.88-3.81],4.720801706477295e-08
+VIT,Vitrin,Chapter V Mental and behavioural disorders,Smoking dependency,22825,62,2.99 [1.71-5.20],0.0001114022790205
+VIT,Vitrin,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,23357,288,0.63 [0.48-0.83],0.0008432923257862
+VIT,Vitrin,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,19209,1743,1.47 [1.30-1.66],3.629843470095849e-10
+VIT,Vitrin,Chapter IX Diseases of the circulatory system,"Hypertension, essential",20148,1167,1.48 [1.28-1.71],1.2911275134245322e-07
+VIT,Vitrin,Chapter IX Diseases of the circulatory system,Hypertension,20165,1184,1.51 [1.31-1.74],1.842106324115824e-08
+VIT,Vitrin,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",23286,502,1.56 [1.27-1.93],2.5274280209705715e-05
+VIT,Vitrin,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",22922,138,2.11 [1.44-3.10],0.0001371192804119
+VIT,Vitrin,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,23153,378,1.87 [1.48-2.37],2.0244964375442786e-07
+VIT,Vitrin,Chapter IX Diseases of the circulatory system,Cardiomyopathy,22283,41,3.37 [1.73-6.58],0.0003674770635478
+VIT,Vitrin,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,22295,53,2.79 [1.60-4.87],0.0002952839306684
+VIT,Vitrin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",24167,111,3.55 [2.41-5.22],1.4099060792978556e-10
+VIT,Vitrin,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),23544,103,2.14 [1.38-3.31],0.0006646429735007
+VIT,Vitrin,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,20836,1741,1.28 [1.15-1.44],1.802541642205583e-05
+VIT,Vitrin,Chapter X Diseases of the respiratory system,Deviated nasal septum,23437,197,1.72 [1.26-2.36],0.000738036156735
+VIT,Vitrin,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,24447,54,3.14 [1.82-5.42],4.123306429004574e-05
+VIT,Vitrin,Chapter X Diseases of the respiratory system,Interstitial lung disease,23413,42,3.20 [1.74-5.90],0.0001852238610344
+VIT,Vitrin,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",24505,42,3.18 [1.74-5.82],0.0001724098413226
+VIT,Vitrin,Chapter X Diseases of the respiratory system,Other diseases of pleura,23510,164,2.11 [1.50-2.95],1.6198433270453528e-05
+VIT,Vitrin,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,19742,126,2.58 [1.76-3.78],1.0975018888921183e-06
+VIT,Vitrin,Chapter XI Diseases of the digestive system,Hernia,22187,1060,1.55 [1.34-1.78],2.346661280738145e-09
+VIT,Vitrin,Chapter XI Diseases of the digestive system,Inguinal hernia,21480,353,2.69 [2.14-3.38],3.2017383028330135e-17
+VIT,Vitrin,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,24220,66,0.40 [0.23-0.69],0.0009926223153612
+VIT,Vitrin,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,23917,365,1.54 [1.21-1.95],0.0003449270931606
+VIT,Vitrin,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,23758,206,1.79 [1.31-2.44],0.0002695393063913
+VIT,Vitrin,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,24146,316,1.57 [1.22-2.02],0.0004714236381678
+VIT,Vitrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,18830,40,4.31 [2.38-7.81],1.3430633176568924e-06
+VIT,Vitrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",24278,39,4.65 [2.62-8.25],1.56316072946796e-07
+VIT,Vitrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),18945,155,0.46 [0.32-0.67],4.4333562734322265e-05
+VIT,Vitrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,19247,457,1.70 [1.38-2.11],1.1237660985650212e-06
+VIT,Vitrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,19172,382,1.79 [1.42-2.27],1.092386526164464e-06
+VIT,Vitrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,24146,38,3.70 [2.02-6.76],2.1189427151541016e-05
+VIT,Vitrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,23324,50,3.23 [1.83-5.70],5.222160942198533e-05
+VIT,Vitrin,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,20826,3866,0.54 [0.50-0.59],1.011393258773485e-46
+VIT,Vitrin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,23287,164,4.67 [3.45-6.32],1.6524967254795572e-23
+VIT,Vitrin,Chapter XIV Diseases of the genitourinary system,Acute renal failure,23435,33,8.08 [4.72-13.80],2.2342749759956537e-14
+VIT,Vitrin,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,23443,41,7.97 [4.87-13.04],1.4475819004877026e-16
+VIT,Vitrin,Chapter XIV Diseases of the genitourinary system,Urolithiasis,24289,211,1.88 [1.39-2.54],3.623967633724475e-05
+VIT,Vitrin,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,24356,47,3.81 [2.19-6.63],2.25912706008268e-06
+VIT,Vitrin,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,24224,146,2.07 [1.45-2.95],5.98063095035814e-05
+VIT,Vitrin,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,22638,157,2.03 [1.43-2.88],7.715877336199881e-05
+VIT,Vitrin,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,23033,552,0.70 [0.57-0.85],0.0002986819135741
+VIT,Vitrin,Chapter XIV Diseases of the genitourinary system,"All dysplastic lesions of the cervix uteri, vagina or vulva",13577,179,1.86 [1.30-2.65],0.0006147809738476
+VIT,Vitrin,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care related to the fetus and amniotic cavity and possible delivery problems,13595,736,0.60 [0.49-0.74],2.565528302182161e-06
+VIT,Vitrin,"Chapter XV Pregnancy, childbirth and the puerperium",Complications of labour and delivery,13602,1014,0.61 [0.50-0.73],2.023960613748181e-07
+VIT,Vitrin,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for known or suspected malpresentation of fetus,12981,122,0.43 [0.27-0.69],0.0003811761410693
+VIT,Vitrin,"Chapter XV Pregnancy, childbirth and the puerperium",Long labour,12780,192,0.50 [0.34-0.74],0.0005154274256829
+VIT,Vitrin,"Chapter XV Pregnancy, childbirth and the puerperium",Labour and delivery complicated by fetal stress [distress],12963,375,0.60 [0.45-0.79],0.0002953696371273
+VIT,Vitrin,"Chapter XV Pregnancy, childbirth and the puerperium",Perineal laceration during delivery,13151,563,0.60 [0.47-0.77],3.723051244038587e-05
+VIT,Vitrin,"Chapter XV Pregnancy, childbirth and the puerperium",Postpartum haemorrhage due to anatomy,12385,113,0.42 [0.26-0.68],0.00037691321499
+VIT,Vitrin,"Chapter XV Pregnancy, childbirth and the puerperium",Delivery,13622,290,0.55 [0.40-0.74],0.0001151652325554

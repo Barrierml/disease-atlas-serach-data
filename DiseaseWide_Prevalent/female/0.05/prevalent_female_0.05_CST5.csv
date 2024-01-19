@@ -1,0 +1,85 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+CST5,Cystatin-D,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,23833,974,1.20 [1.09-1.33],0.0004255084956422
+CST5,Cystatin-D,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,23749,195,1.45 [1.16-1.82],0.0010313575867382
+CST5,Cystatin-D,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,18165,756,1.15 [1.02-1.30],0.0229375311982449
+CST5,Cystatin-D,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,24607,78,2.18 [1.58-3.03],2.7353355821329744e-06
+CST5,Cystatin-D,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,23997,64,1.76 [1.21-2.55],0.0029944250191822
+CST5,Cystatin-D,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,26418,115,1.90 [1.45-2.48],3.089864825204825e-06
+CST5,Cystatin-D,Chapter I Certain infectious and parasitic diseases,Other septicaemia,26370,67,2.20 [1.56-3.10],7.457318022882201e-06
+CST5,Cystatin-D,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,27161,74,1.56 [1.10-2.22],0.0125191562772393
+CST5,Cystatin-D,Chapter I Certain infectious and parasitic diseases,Other viral diseases,27126,99,1.67 [1.24-2.25],0.0006608533696527
+CST5,Cystatin-D,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",27121,94,1.67 [1.23-2.26],0.0009998604656927
+CST5,Cystatin-D,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,25692,129,1.44 [1.10-1.88],0.0082718813576235
+CST5,Cystatin-D,Chapter II Neoplasms,"Malignant neoplasm of breast, excluding all cancers (controls excluding all cancers)",22834,660,1.19 [1.05-1.34],0.0071867962942739
+CST5,Cystatin-D,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",22225,51,1.73 [1.13-2.63],0.0112847168046964
+CST5,Cystatin-D,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,24355,999,1.17 [1.05-1.29],0.0029334039585033
+CST5,Cystatin-D,Chapter II Neoplasms,Benign neoplasm: Rectum,27042,57,0.61 [0.39-0.94],0.0266565477415669
+CST5,Cystatin-D,Chapter II Neoplasms,Other benign neoplasms of skin,27151,222,0.80 [0.64-0.99],0.0418299489149417
+CST5,Cystatin-D,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,25906,267,1.23 [1.02-1.49],0.0319734546003875
+CST5,Cystatin-D,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),24117,405,1.34 [1.15-1.57],0.0002432823011116
+CST5,Cystatin-D,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,26740,95,1.61 [1.18-2.19],0.0023698641439862
+CST5,Cystatin-D,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,25466,111,1.59 [1.20-2.10],0.0013437591648311
+CST5,Cystatin-D,Chapter IX Diseases of the circulatory system,Peripheral artery disease,26301,59,1.92 [1.31-2.81],0.0008243551193121
+CST5,Cystatin-D,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,25456,101,1.50 [1.11-2.02],0.0081433638445406
+CST5,Cystatin-D,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",22540,116,1.47 [1.09-1.98],0.0120898177782414
+CST5,Cystatin-D,Chapter V Mental and behavioural disorders,Smoking dependency,25765,34,2.26 [1.37-3.74],0.0014713669536682
+CST5,Cystatin-D,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",22467,43,1.86 [1.18-2.93],0.007195189340089
+CST5,Cystatin-D,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,21515,179,0.58 [0.45-0.76],4.236888274082841e-05
+CST5,Cystatin-D,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,27106,150,0.59 [0.44-0.77],0.0001687089034808
+CST5,Cystatin-D,Chapter IX Diseases of the circulatory system,Transient ischemic attack,26603,55,1.74 [1.16-2.60],0.0076251076038606
+CST5,Cystatin-D,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",25203,119,1.44 [1.09-1.91],0.0104636782308575
+CST5,Cystatin-D,Chapter VI Diseases of the nervous system,Other neurological diseases,26814,125,0.71 [0.53-0.96],0.0241480462496456
+CST5,Cystatin-D,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,27036,33,1.99 [1.22-3.25],0.0055841843589504
+CST5,Cystatin-D,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,1759,33,2.00 [1.20-3.33],0.0077206848395664
+CST5,Cystatin-D,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",25310,33,2.00 [1.23-3.25],0.0054071964895991
+CST5,Cystatin-D,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",26475,96,0.69 [0.49-0.96],0.0299416362249896
+CST5,Cystatin-D,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,19141,47,3.90 [2.56-5.94],2.4509546665579067e-10
+CST5,Cystatin-D,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",25636,723,0.83 [0.73-0.94],0.0033347236613959
+CST5,Cystatin-D,Chapter IX Diseases of the circulatory system,Angina pectoris,25415,502,0.83 [0.72-0.97],0.0152925858656003
+CST5,Cystatin-D,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,26714,231,0.77 [0.62-0.96],0.0197519133320733
+CST5,Cystatin-D,Chapter IX Diseases of the circulatory system,Pulmonary embolism,26516,99,1.43 [1.05-1.95],0.0214664844077292
+CST5,Cystatin-D,Chapter IX Diseases of the circulatory system,Venous thromboembolism,26617,218,1.27 [1.02-1.56],0.0292593657381498
+CST5,Cystatin-D,Chapter IX Diseases of the circulatory system,Secondary right heart disease,26514,97,1.55 [1.14-2.10],0.0050738206440236
+CST5,Cystatin-D,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,26514,97,1.55 [1.14-2.10],0.0050738206440236
+CST5,Cystatin-D,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",19188,94,1.60 [1.16-2.20],0.0039365805962828
+CST5,Cystatin-D,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,23728,57,1.65 [1.11-2.46],0.0132187354749736
+CST5,Cystatin-D,Chapter IX Diseases of the circulatory system,"Heart failure, strict",26466,98,1.51 [1.11-2.05],0.0087231187971087
+CST5,Cystatin-D,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",26561,96,1.43 [1.05-1.95],0.0250341167733036
+CST5,Cystatin-D,Chapter IX Diseases of the circulatory system,Varicose veins,26159,602,0.83 [0.73-0.96],0.0085857242258998
+CST5,Cystatin-D,Chapter IX Diseases of the circulatory system,Hypotension,26157,92,1.42 [1.03-1.95],0.0312994376084426
+CST5,Cystatin-D,Chapter X Diseases of the respiratory system,Influenza and pneumonia,25673,199,1.27 [1.02-1.58],0.0347825039006373
+CST5,Cystatin-D,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",25654,180,1.27 [1.00-1.60],0.0456759905183914
+CST5,Cystatin-D,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,26975,83,1.44 [1.03-2.00],0.0320680192319436
+CST5,Cystatin-D,Chapter X Diseases of the respiratory system,Pleural effusion,25469,87,1.78 [1.30-2.44],0.0003712959718315
+CST5,Cystatin-D,Chapter X Diseases of the respiratory system,Other diseases of pleura,25572,190,1.57 [1.26-1.95],5.514444032079654e-05
+CST5,Cystatin-D,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,26137,90,1.59 [1.16-2.19],0.0038429653830965
+CST5,Cystatin-D,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,20638,219,0.72 [0.58-0.91],0.0047510329637686
+CST5,Cystatin-D,Chapter XI Diseases of the digestive system,Gastric ulcer,20565,146,0.74 [0.57-0.98],0.0346399469393316
+CST5,Cystatin-D,Chapter XI Diseases of the digestive system,Hernia,24435,1179,0.88 [0.80-0.97],0.0100267164621401
+CST5,Cystatin-D,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,24201,945,0.86 [0.77-0.96],0.0064444324819962
+CST5,Cystatin-D,Chapter XI Diseases of the digestive system,Other diseases of intestines,21593,2168,0.92 [0.85-0.99],0.0238408406719303
+CST5,Cystatin-D,Chapter XI Diseases of the digestive system,Cholecystitis,25000,132,0.67 [0.50-0.90],0.008405275982844
+CST5,Cystatin-D,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,23623,348,0.81 [0.68-0.97],0.0219563368101446
+CST5,Cystatin-D,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,24809,478,1.16 [1.00-1.34],0.0443605539263176
+CST5,Cystatin-D,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,24859,197,2.15 [1.74-2.65],8.37344163163127e-13
+CST5,Cystatin-D,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,24705,43,1.86 [1.18-2.95],0.0078570107470641
+CST5,Cystatin-D,Chapter XIV Diseases of the genitourinary system,Acute renal failure,25034,36,3.70 [2.43-5.63],9.888254931945167e-10
+CST5,Cystatin-D,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,25043,45,4.14 [2.84-6.04],1.827903337764512e-13
+CST5,Cystatin-D,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,25037,39,2.46 [1.58-3.85],7.706350626532631e-05
+CST5,Cystatin-D,Chapter XIV Diseases of the genitourinary system,Urolithiasis,27056,130,0.74 [0.55-0.98],0.0385896829806061
+CST5,Cystatin-D,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,26963,37,0.56 [0.32-0.98],0.0435335892611073
+CST5,Cystatin-D,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,23928,87,0.60 [0.42-0.85],0.0048157633752124
+CST5,Cystatin-D,Chapter XIV Diseases of the genitourinary system,Endometriosis,20716,359,0.82 [0.69-0.98],0.0277894290062857
+CST5,Cystatin-D,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care related to the fetus and amniotic cavity and possible delivery problems,27288,870,0.79 [0.70-0.90],0.0002528415819096
+CST5,Cystatin-D,"Chapter XV Pregnancy, childbirth and the puerperium",Complications of labour and delivery,27294,1188,0.80 [0.71-0.89],6.925368317829388e-05
+CST5,Cystatin-D,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for known or suspected abnormality of pelvic organs,26619,201,0.75 [0.58-0.95],0.0198478040767187
+CST5,Cystatin-D,"Chapter XV Pregnancy, childbirth and the puerperium",Maternal care for other known or suspected fetal problems,26667,249,0.78 [0.62-0.97],0.0261761822273861
+CST5,Cystatin-D,"Chapter XV Pregnancy, childbirth and the puerperium",Prolonged pregnancy,26565,147,0.58 [0.43-0.78],0.0002787510118372
+CST5,Cystatin-D,"Chapter XV Pregnancy, childbirth and the puerperium",Long labour,26332,226,0.74 [0.58-0.94],0.0128808383137451
+CST5,Cystatin-D,"Chapter XV Pregnancy, childbirth and the puerperium",Labour and delivery complicated by fetal stress [distress],26540,434,0.78 [0.66-0.93],0.005283864003668
+CST5,Cystatin-D,"Chapter XV Pregnancy, childbirth and the puerperium",Perineal laceration during delivery,26769,663,0.80 [0.69-0.92],0.002518916308115
+CST5,Cystatin-D,"Chapter XV Pregnancy, childbirth and the puerperium","Postpartum hemorraghe, all women as controls",27310,166,0.76 [0.58-1.00],0.0497864478212252
+CST5,Cystatin-D,"Chapter XV Pregnancy, childbirth and the puerperium",Postpartum haemorrhage due to anatomy,25860,126,0.72 [0.53-0.99],0.0404031468149672
+CST5,Cystatin-D,"Chapter XV Pregnancy, childbirth and the puerperium",Delivery,27318,339,0.70 [0.58-0.85],0.0002324615228796
+CST5,Cystatin-D,"Chapter XV Pregnancy, childbirth and the puerperium",Single spontaneous delivery,27238,259,0.66 [0.53-0.82],0.0001883556369878
+CST5,Cystatin-D,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",27020,45,0.59 [0.36-0.97],0.0368752222801287

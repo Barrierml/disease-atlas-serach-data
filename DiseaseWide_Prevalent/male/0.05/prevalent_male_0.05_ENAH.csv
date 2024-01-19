@@ -1,0 +1,115 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+ENAH,Protein enabled homolog,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,19923,811,1.32 [1.16-1.49],2.1058156882249505e-05
+ENAH,Protein enabled homolog,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,19297,240,1.52 [1.22-1.89],0.0001802266619909
+ENAH,Protein enabled homolog,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,14894,801,1.58 [1.38-1.79],7.649649494933425e-12
+ENAH,Protein enabled homolog,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,20006,91,1.72 [1.24-2.39],0.0010994270170812
+ENAH,Protein enabled homolog,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,19590,52,2.03 [1.35-3.05],0.0007237685537724
+ENAH,Protein enabled homolog,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,22104,119,1.51 [1.11-2.05],0.0080950868861428
+ENAH,Protein enabled homolog,Chapter I Certain infectious and parasitic diseases,Other septicaemia,22070,85,1.67 [1.19-2.36],0.0034268711497852
+ENAH,Protein enabled homolog,Chapter I Certain infectious and parasitic diseases,Mycoses,22865,41,1.76 [1.10-2.80],0.0179837306614734
+ENAH,Protein enabled homolog,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",21935,384,1.38 [1.16-1.65],0.0003767123770434
+ENAH,Protein enabled homolog,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,21704,153,1.75 [1.36-2.26],1.4016700704815716e-05
+ENAH,Protein enabled homolog,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,20612,550,1.28 [1.10-1.49],0.0015810480133333
+ENAH,Protein enabled homolog,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,22123,121,1.42 [1.05-1.93],0.024250164330795
+ENAH,Protein enabled homolog,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,21768,253,1.40 [1.13-1.74],0.0019395859061662
+ENAH,Protein enabled homolog,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,21768,253,1.40 [1.13-1.74],0.0019395859061662
+ENAH,Protein enabled homolog,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),19560,506,1.23 [1.05-1.44],0.0119427468283813
+ENAH,Protein enabled homolog,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,20578,151,1.75 [1.36-2.25],1.318655878977548e-05
+ENAH,Protein enabled homolog,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,20562,135,1.65 [1.26-2.17],0.0002924574832408
+ENAH,Protein enabled homolog,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",16936,99,1.74 [1.25-2.42],0.0009932710316437
+ENAH,Protein enabled homolog,Chapter V Mental and behavioural disorders,Any mental disorder,19757,676,1.26 [1.10-1.46],0.001306672920026
+ENAH,Protein enabled homolog,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",19413,332,1.30 [1.06-1.60],0.0112182641586131
+ENAH,Protein enabled homolog,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",22738,255,1.41 [1.13-1.75],0.0024866034273934
+ENAH,Protein enabled homolog,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",22828,196,1.43 [1.11-1.84],0.0049194473602801
+ENAH,Protein enabled homolog,Chapter V Mental and behavioural disorders,Alcohol dependence,21265,111,1.49 [1.07-2.09],0.0185029187783014
+ENAH,Protein enabled homolog,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",19348,267,1.44 [1.16-1.77],0.0008374224159704
+ENAH,Protein enabled homolog,Chapter V Mental and behavioural disorders,Depression,22126,227,1.43 [1.14-1.80],0.001881385308827
+ENAH,Protein enabled homolog,Chapter V Mental and behavioural disorders,Depression or dysthymia,19059,195,1.43 [1.12-1.84],0.0047374206126575
+ENAH,Protein enabled homolog,Chapter VI Diseases of the nervous system,Neurological diseases,19727,1299,1.18 [1.06-1.31],0.0018499364802952
+ENAH,Protein enabled homolog,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",22369,463,1.30 [1.11-1.53],0.0015710633021527
+ENAH,Protein enabled homolog,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,22118,212,1.46 [1.16-1.84],0.0014422103699949
+ENAH,Protein enabled homolog,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,22478,49,1.85 [1.23-2.80],0.0033555003175011
+ENAH,Protein enabled homolog,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,22343,243,1.54 [1.25-1.90],4.5792158689129e-05
+ENAH,Protein enabled homolog,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,22903,70,1.91 [1.34-2.70],0.000289048036694
+ENAH,Protein enabled homolog,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,2540,70,1.77 [1.24-2.54],0.0018972923874407
+ENAH,Protein enabled homolog,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",20433,70,1.96 [1.37-2.79],0.0002202339059979
+ENAH,Protein enabled homolog,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,22778,91,0.64 [0.42-0.97],0.0348245053219621
+ENAH,Protein enabled homolog,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,15746,3697,1.11 [1.03-1.20],0.0077801812138677
+ENAH,Protein enabled homolog,Chapter IX Diseases of the circulatory system,"Hypertension, essential",16618,2416,1.13 [1.03-1.24],0.0067237183941883
+ENAH,Protein enabled homolog,Chapter IX Diseases of the circulatory system,Hypertension,16664,2462,1.15 [1.05-1.26],0.0018661465896026
+ENAH,Protein enabled homolog,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,14311,109,2.17 [1.63-2.90],1.5429685914647178e-07
+ENAH,Protein enabled homolog,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,11998,599,1.20 [1.02-1.42],0.0253399193014119
+ENAH,Protein enabled homolog,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,18165,1978,1.23 [1.13-1.35],3.027943297120071e-06
+ENAH,Protein enabled homolog,Chapter X Diseases of the respiratory system,Influenza and pneumonia,21218,246,1.49 [1.20-1.85],0.0002508597729897
+ENAH,Protein enabled homolog,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",21181,209,1.45 [1.15-1.83],0.0019950904324544
+ENAH,Protein enabled homolog,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,22340,271,1.44 [1.17-1.78],0.0005064079775609
+ENAH,Protein enabled homolog,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,22337,268,1.45 [1.18-1.79],0.0004190001014414
+ENAH,Protein enabled homolog,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,20830,833,1.19 [1.05-1.36],0.0073110051610924
+ENAH,Protein enabled homolog,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",22046,224,1.32 [1.04-1.68],0.0246348164616881
+ENAH,Protein enabled homolog,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",22046,224,1.32 [1.04-1.68],0.0246348164616881
+ENAH,Protein enabled homolog,Chapter X Diseases of the respiratory system,Asthma,15837,646,1.17 [1.01-1.36],0.0401555710235951
+ENAH,Protein enabled homolog,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",15494,646,1.17 [1.00-1.35],0.0431704495801485
+ENAH,Protein enabled homolog,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",15827,636,1.17 [1.01-1.36],0.039309750602044
+ENAH,Protein enabled homolog,Chapter X Diseases of the respiratory system,Interstitial lung disease,22158,75,1.49 [1.02-2.17],0.0373158945060627
+ENAH,Protein enabled homolog,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",22961,75,1.49 [1.02-2.17],0.0397916838621976
+ENAH,Protein enabled homolog,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,22151,68,1.51 [1.02-2.23],0.0393344086048994
+ENAH,Protein enabled homolog,Chapter X Diseases of the respiratory system,Other diseases of pleura,21176,277,1.26 [1.02-1.56],0.0356534025632461
+ENAH,Protein enabled homolog,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,21960,122,1.45 [1.07-1.97],0.0169942165737248
+ENAH,Protein enabled homolog,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,15511,5501,1.11 [1.04-1.19],0.0015570731627196
+ENAH,Protein enabled homolog,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,22542,75,0.53 [0.34-0.85],0.0076076149482143
+ENAH,Protein enabled homolog,Chapter XI Diseases of the digestive system,Duodenal ulcer,17680,171,1.34 [1.03-1.76],0.0308619433580986
+ENAH,Protein enabled homolog,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",23109,118,1.55 [1.15-2.10],0.0043671597910736
+ENAH,Protein enabled homolog,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,18559,743,1.15 [1.00-1.32],0.0428811366806613
+ENAH,Protein enabled homolog,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,22458,585,1.25 [1.08-1.45],0.0031766313506569
+ENAH,Protein enabled homolog,Chapter XI Diseases of the digestive system,Other diseases of intestines,17989,1783,1.16 [1.06-1.28],0.0012725063706038
+ENAH,Protein enabled homolog,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,22313,440,1.31 [1.11-1.55],0.0016452976679513
+ENAH,Protein enabled homolog,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,22310,437,1.32 [1.12-1.56],0.0011816984197244
+ENAH,Protein enabled homolog,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,16733,527,1.46 [1.25-1.70],1.5729061636966906e-06
+ENAH,Protein enabled homolog,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,16383,177,1.34 [1.03-1.75],0.0288523505988688
+ENAH,Protein enabled homolog,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,20198,1450,1.13 [1.02-1.25],0.0173143892115603
+ENAH,Protein enabled homolog,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,21703,448,1.19 [1.00-1.41],0.0449611200464657
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,17193,3467,1.29 [1.20-1.38],4.288092972953795e-12
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,18646,2036,1.27 [1.17-1.39],3.6470477905598e-08
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,21098,1052,1.31 [1.17-1.47],2.42902486029239e-06
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,16698,88,2.16 [1.60-2.91],3.952203338347771e-07
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,17008,398,1.59 [1.34-1.89],1.20686029791912e-07
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",23040,85,2.08 [1.54-2.81],1.9331896983775667e-06
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,23044,75,2.24 [1.64-3.04],3.133390049852038e-07
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,17646,1036,1.28 [1.14-1.44],3.840848391682636e-05
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",20036,1036,1.23 [1.09-1.38],0.0005728727776817
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,16736,126,1.38 [1.01-1.89],0.0408283197369466
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,16767,157,1.44 [1.09-1.89],0.0102710107319522
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,17170,560,1.40 [1.20-1.63],2.0329987257593705e-05
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,17734,1124,1.21 [1.08-1.36],0.0008579950172386
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),16631,21,2.01 [1.04-3.89],0.0382478598945963
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,17193,583,1.21 [1.04-1.41],0.0155311432723874
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,17121,511,1.20 [1.02-1.41],0.0295851083516453
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,20361,39,1.87 [1.15-3.04],0.0117881825729335
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,20598,276,1.30 [1.05-1.60],0.017094181229248
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,21127,805,1.24 [1.10-1.42],0.0008104714451801
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,20411,89,1.58 [1.11-2.25],0.0107056530751438
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",20951,629,1.22 [1.06-1.41],0.0064553189643033
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,20542,220,1.34 [1.06-1.70],0.0141495295149466
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,20577,255,1.41 [1.13-1.74],0.0018819624604876
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,20280,234,1.59 [1.28-1.98],2.9191006185190474e-05
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,20108,62,1.71 [1.14-2.57],0.0101775079955926
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,20107,61,1.68 [1.11-2.54],0.0134860854498715
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,20155,109,1.41 [1.01-1.96],0.0442102483846613
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",20385,339,1.29 [1.07-1.57],0.0091659331079586
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,20227,181,1.38 [1.06-1.78],0.0154858081680563
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,22474,283,1.42 [1.16-1.73],0.0007160063706529
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,22241,50,1.65 [1.06-2.58],0.0262641659996915
+ENAH,Protein enabled homolog,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,22276,85,1.52 [1.06-2.17],0.0213889917477658
+ENAH,Protein enabled homolog,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,17863,2332,1.24 [1.14-1.35],4.989463912952897e-07
+ENAH,Protein enabled homolog,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,20553,302,1.84 [1.53-2.20],6.80323109912344e-11
+ENAH,Protein enabled homolog,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,20342,91,1.67 [1.19-2.33],0.0027650992004112
+ENAH,Protein enabled homolog,Chapter XIV Diseases of the genitourinary system,Acute renal failure,20578,71,1.68 [1.15-2.46],0.007825687130852
+ENAH,Protein enabled homolog,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,20599,92,2.69 [2.08-3.49],5.845515528269375e-14
+ENAH,Protein enabled homolog,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,20599,92,2.08 [1.55-2.79],1.1977757389377284e-06
+ENAH,Protein enabled homolog,Chapter XIV Diseases of the genitourinary system,Urolithiasis,22809,357,1.35 [1.13-1.63],0.0012642700198721
+ENAH,Protein enabled homolog,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,22768,79,1.96 [1.42-2.70],4.4087982938439504e-05
+ENAH,Protein enabled homolog,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,22584,132,1.58 [1.19-2.10],0.0016263641070191
+ENAH,Protein enabled homolog,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,21108,819,1.18 [1.04-1.34],0.0122580717168996
+ENAH,Protein enabled homolog,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,20360,71,1.86 [1.29-2.68],0.0008940556726557
+ENAH,Protein enabled homolog,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,20649,360,1.31 [1.08-1.58],0.0052607966484767
+ENAH,Protein enabled homolog,Chapter VI Diseases of the nervous system,Falls/tendency to fall,21140,537,1.26 [1.08-1.48],0.0028778056995383

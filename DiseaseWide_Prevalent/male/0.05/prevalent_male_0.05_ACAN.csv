@@ -1,0 +1,105 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+ACAN,Aggrecan core protein,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,20061,809,1.27 [1.01-1.60],0.0439731801756645
+ACAN,Aggrecan core protein,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,19448,237,2.27 [1.49-3.47],0.000143573688118
+ACAN,Aggrecan core protein,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,15006,808,1.35 [1.06-1.72],0.0150032268760045
+ACAN,Aggrecan core protein,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,20159,90,3.29 [1.66-6.51],0.0006213174224629
+ACAN,Aggrecan core protein,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,19731,50,4.38 [1.75-10.97],0.0016382429989451
+ACAN,Aggrecan core protein,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,22267,117,2.35 [1.30-4.27],0.0049018881805207
+ACAN,Aggrecan core protein,Chapter I Certain infectious and parasitic diseases,Other septicaemia,22234,84,3.20 [1.59-6.44],0.0011130916742715
+ACAN,Aggrecan core protein,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,21857,147,2.70 [1.59-4.57],0.0002376063665863
+ACAN,Aggrecan core protein,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",18398,232,1.67 [1.09-2.58],0.0198048339315739
+ACAN,Aggrecan core protein,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",18220,54,2.74 [1.14-6.63],0.0249600301228202
+ACAN,Aggrecan core protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,20730,547,1.47 [1.11-1.94],0.0073309706268349
+ACAN,Aggrecan core protein,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),19709,508,1.54 [1.15-2.06],0.0040541862785288
+ACAN,Aggrecan core protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,23211,61,2.98 [1.32-6.76],0.0087839120127453
+ACAN,Aggrecan core protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,18339,1431,0.67 [0.56-0.80],1.905710211660244e-05
+ACAN,Aggrecan core protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes,20718,151,2.15 [1.27-3.65],0.0046467093171487
+ACAN,Aggrecan core protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,20702,135,2.12 [1.21-3.71],0.008826799690859
+ACAN,Aggrecan core protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,21260,693,0.35 [0.27-0.45],3.102436240069825e-15
+ACAN,Aggrecan core protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,21234,667,0.32 [0.25-0.42],7.028157871121716e-17
+ACAN,Aggrecan core protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,18189,1281,0.56 [0.46-0.68],5.164293980925491e-09
+ACAN,Aggrecan core protein,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",17086,178,0.53 [0.32-0.86],0.0104529844878024
+ACAN,Aggrecan core protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,18090,1182,0.58 [0.47-0.70],7.86085126871855e-08
+ACAN,Aggrecan core protein,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",17005,97,3.63 [1.90-6.95],9.645155333014718e-05
+ACAN,Aggrecan core protein,Chapter VI Diseases of the nervous system,Neurological diseases,19869,1305,1.39 [1.15-1.67],0.0006132243220593
+ACAN,Aggrecan core protein,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",22526,469,2.09 [1.54-2.82],1.7267845646584735e-06
+ACAN,Aggrecan core protein,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,22277,220,2.40 [1.55-3.72],8.200787438854847e-05
+ACAN,Aggrecan core protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,22512,254,1.61 [1.07-2.41],0.0210081654565978
+ACAN,Aggrecan core protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,23068,71,4.71 [2.27-9.78],3.237275264121726e-05
+ACAN,Aggrecan core protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,2568,71,7.27 [3.51-15.05],8.908849157491038e-08
+ACAN,Aggrecan core protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic maculopathy, excluding more controls",20571,71,4.29 [2.05-8.99],0.0001155865746997
+ACAN,Aggrecan core protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,22820,98,2.02 [1.06-3.84],0.0315684019915668
+ACAN,Aggrecan core protein,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,15826,3725,0.81 [0.71-0.93],0.0033009529252938
+ACAN,Aggrecan core protein,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,14382,111,9.47 [5.06-17.75],2.212566271998191e-12
+ACAN,Aggrecan core protein,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",20783,1657,0.45 [0.38-0.53],3.298360120970213e-20
+ACAN,Aggrecan core protein,Chapter IX Diseases of the circulatory system,Angina pectoris,20050,924,0.51 [0.40-0.63],2.0300076213732433e-09
+ACAN,Aggrecan core protein,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,22050,334,0.66 [0.46-0.94],0.0198525601753951
+ACAN,Aggrecan core protein,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,22444,728,0.47 [0.37-0.60],1.2025752904063691e-09
+ACAN,Aggrecan core protein,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",23268,163,0.39 [0.24-0.64],0.0002131964877231
+ACAN,Aggrecan core protein,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",19625,499,0.35 [0.26-0.47],4.02225293255322e-12
+ACAN,Aggrecan core protein,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,20519,1415,0.44 [0.36-0.53],1.3646892053172977e-18
+ACAN,Aggrecan core protein,Chapter IX Diseases of the circulatory system,Pulmonary embolism,22607,118,3.77 [2.10-6.77],8.545708125247284e-06
+ACAN,Aggrecan core protein,Chapter IX Diseases of the circulatory system,Venous thromboembolism,22711,236,2.90 [1.91-4.39],5.464452864784837e-07
+ACAN,Aggrecan core protein,Chapter IX Diseases of the circulatory system,Cardiomyopathy,18332,78,0.39 [0.19-0.81],0.0114120657976789
+ACAN,Aggrecan core protein,Chapter IX Diseases of the circulatory system,"Heart failure, strict",22173,311,0.62 [0.43-0.90],0.0117348025803995
+ACAN,Aggrecan core protein,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),22140,147,2.21 [1.30-3.74],0.0032784801045175
+ACAN,Aggrecan core protein,Chapter IX Diseases of the circulatory system,DVT of lower extremities,22125,132,2.41 [1.38-4.20],0.0019916188497665
+ACAN,Aggrecan core protein,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",23236,125,2.20 [1.24-3.90],0.0068590700912466
+ACAN,Aggrecan core protein,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,18284,2000,0.84 [0.72-0.99],0.0315382282155789
+ACAN,Aggrecan core protein,Chapter X Diseases of the respiratory system,Influenza and pneumonia,21361,242,1.58 [1.04-2.40],0.0323970488429847
+ACAN,Aggrecan core protein,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",21325,206,1.76 [1.12-2.77],0.0142168314674582
+ACAN,Aggrecan core protein,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,22498,271,0.67 [0.45-0.99],0.044934162121427
+ACAN,Aggrecan core protein,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,22495,268,0.66 [0.45-0.98],0.0414622337580474
+ACAN,Aggrecan core protein,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,10160,60,0.37 [0.15-0.88],0.0253361559883486
+ACAN,Aggrecan core protein,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,20966,851,0.57 [0.46-0.72],1.5632184402155026e-06
+ACAN,Aggrecan core protein,Chapter X Diseases of the respiratory system,Early onset COPD,22173,191,0.40 [0.25-0.64],0.0001170400678582
+ACAN,Aggrecan core protein,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",22202,220,0.48 [0.31-0.75],0.0010328490008256
+ACAN,Aggrecan core protein,Chapter X Diseases of the respiratory system,"Other chronic obstructive pulmonary disease, including avohilmo",22202,220,0.48 [0.31-0.75],0.0010328490008256
+ACAN,Aggrecan core protein,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",22072,665,0.62 [0.48-0.80],0.0002170479492687
+ACAN,Aggrecan core protein,Chapter X Diseases of the respiratory system,Asthma,15940,665,0.59 [0.46-0.77],6.980729896471163e-05
+ACAN,Aggrecan core protein,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",15603,665,0.58 [0.45-0.76],4.851181671472622e-05
+ACAN,Aggrecan core protein,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",15930,655,0.59 [0.46-0.77],7.583452466551671e-05
+ACAN,Aggrecan core protein,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,23036,97,0.26 [0.14-0.50],5.31774021813529e-05
+ACAN,Aggrecan core protein,Chapter X Diseases of the respiratory system,Interstitial lung disease,22305,77,0.20 [0.10-0.41],1.1465880929096384e-05
+ACAN,Aggrecan core protein,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",23117,77,0.20 [0.10-0.41],1.1478065736640324e-05
+ACAN,Aggrecan core protein,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,22298,70,0.26 [0.12-0.55],0.0004428216197404
+ACAN,Aggrecan core protein,Chapter XI Diseases of the digestive system,Oesophagitis,18026,386,1.46 [1.04-2.04],0.0277366068590741
+ACAN,Aggrecan core protein,Chapter XI Diseases of the digestive system,Umbilical hernia,18162,186,0.47 [0.29-0.74],0.0014064170227458
+ACAN,Aggrecan core protein,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",16366,66,2.22 [1.00-4.92],0.049473476130136
+ACAN,Aggrecan core protein,Chapter XI Diseases of the digestive system,Intestinal malabsorption,21823,37,0.28 [0.10-0.80],0.0174190507527938
+ACAN,Aggrecan core protein,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,20365,1475,1.24 [1.04-1.48],0.0160778078399526
+ACAN,Aggrecan core protein,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,21884,453,1.64 [1.21-2.23],0.0016255260684204
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,17311,3507,1.73 [1.52-1.96],2.345909122204649e-17
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,18776,2054,1.97 [1.68-2.30],9.845580959192997e-18
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,21234,1062,1.36 [1.11-1.67],0.0031735758847354
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,16806,84,2.12 [1.05-4.27],0.0356917055644353
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,17126,404,2.07 [1.50-2.86],1.051624953370374e-05
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,17771,1049,2.19 [1.77-2.71],3.25373956015171e-13
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Artrosis, including avohilmo",20164,1049,2.13 [1.73-2.62],8.875188438860049e-13
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,16887,165,2.68 [1.64-4.40],9.049204091949616e-05
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,16974,252,2.20 [1.46-3.33],0.0001727972704846
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",23338,117,1.97 [1.09-3.57],0.0250817296355971
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,17283,561,2.13 [1.61-2.81],1.3078233189132562e-07
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,17020,298,2.18 [1.49-3.17],5.078036138749473e-05
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,17857,1135,1.81 [1.48-2.22],6.716249106103317e-09
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,17307,585,1.61 [1.22-2.12],0.0007923767445583
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,17234,512,1.53 [1.14-2.06],0.0045930873581223
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,18929,253,2.14 [1.42-3.24],0.0002788859228761
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,20752,281,2.08 [1.41-3.06],0.0002054060295367
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,21287,816,1.66 [1.32-2.09],1.7983721919914806e-05
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,20633,162,1.79 [1.08-2.97],0.0230183822921056
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,20562,91,3.19 [1.62-6.25],0.0007486833496486
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",21104,633,1.59 [1.23-2.07],0.0005000511026253
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,20587,116,2.48 [1.36-4.53],0.0031177076857585
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,20724,253,1.78 [1.18-2.67],0.0058372053423198
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,20404,232,2.04 [1.33-3.12],0.0010358895040201
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,20235,63,3.25 [1.46-7.24],0.0038408754512462
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,20413,241,1.66 [1.10-2.52],0.0164433843885944
+ACAN,Aggrecan core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,22630,286,1.52 [1.04-2.23],0.0325206249818066
+ACAN,Aggrecan core protein,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,18001,2338,1.43 [1.24-1.66],1.6658505582207457e-06
+ACAN,Aggrecan core protein,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,20689,300,3.77 [2.59-5.49],4.831249307960938e-12
+ACAN,Aggrecan core protein,Chapter XIV Diseases of the genitourinary system,Acute renal failure,20722,75,7.69 [3.69-16.01],4.928538467776485e-08
+ACAN,Aggrecan core protein,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,22933,79,4.46 [2.19-9.09],3.956473919076565e-05
+ACAN,Aggrecan core protein,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,21292,832,1.35 [1.07-1.70],0.0110573340353052
+ACAN,Aggrecan core protein,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,20825,365,1.69 [1.20-2.38],0.0025520156625541
+ACAN,Aggrecan core protein,Chapter VI Diseases of the nervous system,Falls/tendency to fall,21320,543,1.41 [1.07-1.87],0.0164970115384298

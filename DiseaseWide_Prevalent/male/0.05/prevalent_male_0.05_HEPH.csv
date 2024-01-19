@@ -1,0 +1,85 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+HEPH,Hephaestin,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,17664,712,1.55 [1.17-2.07],0.0026797954143279
+HEPH,Hephaestin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,17092,196,2.13 [1.23-3.69],0.0072271817866571
+HEPH,Hephaestin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,13164,671,1.94 [1.43-2.63],1.8800891718557643e-05
+HEPH,Hephaestin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,17721,71,5.22 [2.12-12.86],0.0003284662339635
+HEPH,Hephaestin,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,17368,48,6.55 [2.26-19.00],0.0005471343863079
+HEPH,Hephaestin,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,19557,99,2.90 [1.35-6.22],0.0064095675530134
+HEPH,Hephaestin,Chapter I Certain infectious and parasitic diseases,Other septicaemia,19523,65,4.19 [1.65-10.64],0.0026327657444917
+HEPH,Hephaestin,Chapter I Certain infectious and parasitic diseases,Other viral diseases,20465,62,7.12 [2.78-18.19],4.1457425046109576e-05
+HEPH,Hephaestin,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",20457,54,6.62 [2.42-18.11],0.0002316593776149
+HEPH,Hephaestin,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,19190,125,2.33 [1.17-4.63],0.0157707400562895
+HEPH,Hephaestin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),17321,417,1.82 [1.25-2.66],0.0018814730333261
+HEPH,Hephaestin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,20339,50,5.08 [1.77-14.56],0.0024878985655584
+HEPH,Hephaestin,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,16111,1179,1.84 [1.45-2.32],3.507066571606007e-07
+HEPH,Hephaestin,Chapter IX Diseases of the circulatory system,Peripheral artery disease,19403,140,4.77 [2.52-9.02],1.5838059860187066e-06
+HEPH,Hephaestin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,18593,568,8.93 [6.36-12.55],1.6838239107490884e-36
+HEPH,Hephaestin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,18578,553,9.00 [6.39-12.70],4.851484864394573e-36
+HEPH,Hephaestin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,15987,1055,1.94 [1.51-2.48],1.5704211293118328e-07
+HEPH,Hephaestin,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",15076,144,2.05 [1.08-3.87],0.027054114112622
+HEPH,Hephaestin,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,15906,974,1.93 [1.49-2.49],5.074640177364013e-07
+HEPH,Hephaestin,Chapter V Mental and behavioural disorders,Any mental disorder,17491,600,1.92 [1.40-2.63],5.844336784660564e-05
+HEPH,Hephaestin,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",17199,308,1.71 [1.10-2.64],0.0163961151319196
+HEPH,Hephaestin,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",16952,61,4.17 [1.60-10.83],0.0033816545184795
+HEPH,Hephaestin,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",17115,224,2.53 [1.51-4.23],0.0004111284256768
+HEPH,Hephaestin,Chapter V Mental and behavioural disorders,Depression,19552,193,1.97 [1.14-3.40],0.0146493705507448
+HEPH,Hephaestin,Chapter V Mental and behavioural disorders,Depression or dysthymia,16890,170,2.45 [1.36-4.41],0.0027555333545931
+HEPH,Hephaestin,Chapter VI Diseases of the nervous system,Neurological diseases,17537,1145,1.33 [1.06-1.65],0.0124223713642903
+HEPH,Hephaestin,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,19409,454,1.62 [1.14-2.30],0.0077196239725821
+HEPH,Hephaestin,Chapter VI Diseases of the nervous system,Other sleep disorders,19152,197,1.72 [1.01-2.92],0.0464829829320969
+HEPH,Hephaestin,Chapter VI Diseases of the nervous system,Sleep apnoea,19924,155,1.94 [1.06-3.55],0.0321423551952163
+HEPH,Hephaestin,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,20275,79,0.37 [0.27-0.50],2.8160909159385596e-10
+HEPH,Hephaestin,Chapter VI Diseases of the nervous system,Hemiplegia,20248,52,0.42 [0.26-0.66],0.0002017916823218
+HEPH,Hephaestin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,19920,154,0.63 [0.42-0.94],0.0238475972457497
+HEPH,Hephaestin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,19855,89,0.51 [0.34-0.77],0.0014766494240933
+HEPH,Hephaestin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,2230,41,8.53 [2.83-25.76],0.0001436552249467
+HEPH,Hephaestin,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,13822,3149,1.79 [1.51-2.11],6.139642031524767e-12
+HEPH,Hephaestin,Chapter IX Diseases of the circulatory system,"Hypertension, essential",14636,2056,1.67 [1.38-2.01],1.097631729800918e-07
+HEPH,Hephaestin,Chapter IX Diseases of the circulatory system,Hypertension,14661,2081,1.65 [1.37-1.99],1.5979450602228156e-07
+HEPH,Hephaestin,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,12638,58,3.08 [1.09-8.70],0.033493082235621
+HEPH,Hephaestin,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",18212,1382,2.44 [1.96-3.05],2.164232963542112e-15
+HEPH,Hephaestin,Chapter IX Diseases of the circulatory system,Angina pectoris,17597,767,1.90 [1.43-2.53],9.07555097402576e-06
+HEPH,Hephaestin,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,19318,267,1.65 [1.05-2.61],0.0313816623485152
+HEPH,Hephaestin,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,19649,598,1.90 [1.39-2.60],5.709546358659416e-05
+HEPH,Hephaestin,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",17248,418,2.63 [1.80-3.86],6.621904516067811e-07
+HEPH,Hephaestin,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,17988,1179,2.44 [1.92-3.09],2.111365232111823e-13
+HEPH,Hephaestin,Chapter IX Diseases of the circulatory system,Cardiomyopathy,16161,72,3.97 [1.61-9.75],0.0026879552118156
+HEPH,Hephaestin,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,10208,116,2.18 [1.03-4.60],0.0405472836472433
+HEPH,Hephaestin,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,10609,517,2.67 [1.85-3.85],1.7535411213801158e-07
+HEPH,Hephaestin,Chapter IX Diseases of the circulatory system,Other arrhythmias,16162,73,4.54 [1.87-11.03],0.0008399098468848
+HEPH,Hephaestin,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,16203,114,7.49 [3.74-14.99],1.2899205456089317e-08
+HEPH,Hephaestin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",19436,273,2.10 [1.32-3.33],0.0016329564265155
+HEPH,Hephaestin,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,19430,125,3.01 [1.53-5.92],0.001401736841553
+HEPH,Hephaestin,Chapter X Diseases of the respiratory system,Influenza and pneumonia,18769,215,1.79 [1.07-2.99],0.0270791389656037
+HEPH,Hephaestin,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",18734,180,1.87 [1.07-3.29],0.0293356143349513
+HEPH,Hephaestin,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,18349,744,0.68 [0.56-0.84],0.0002485799361248
+HEPH,Hephaestin,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",19321,572,0.57 [0.46-0.69],2.3411773962357312e-08
+HEPH,Hephaestin,Chapter X Diseases of the respiratory system,Asthma,13984,572,0.61 [0.49-0.76],9.220244194985826e-06
+HEPH,Hephaestin,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",13685,572,0.62 [0.50-0.77],1.6721201010979276e-05
+HEPH,Hephaestin,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",13974,562,0.60 [0.48-0.74],3.736269604473417e-06
+HEPH,Hephaestin,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,20161,96,4.26 [1.99-9.12],0.0001863948740745
+HEPH,Hephaestin,Chapter X Diseases of the respiratory system,Interstitial lung disease,19516,76,3.90 [1.66-9.18],0.0018279995898416
+HEPH,Hephaestin,Chapter X Diseases of the respiratory system,"ILD, hospital admissions",20235,76,3.93 [1.67-9.23],0.0016847403244097
+HEPH,Hephaestin,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,19510,70,4.25 [1.75-10.33],0.0014262132125942
+HEPH,Hephaestin,Chapter XI Diseases of the digestive system,Dental caries,19920,98,0.55 [0.38-0.81],0.0023134218337642
+HEPH,Hephaestin,Chapter XI Diseases of the digestive system,Oesophageal obstruction,15577,66,0.54 [0.32-0.91],0.0214799374662281
+HEPH,Hephaestin,Chapter XI Diseases of the digestive system,Hernia,17540,1777,0.80 [0.68-0.94],0.0055279975317877
+HEPH,Hephaestin,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",14392,58,0.56 [0.34-0.94],0.0266911687131988
+HEPH,Hephaestin,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,14412,78,0.56 [0.37-0.85],0.0067077198853987
+HEPH,Hephaestin,Chapter XI Diseases of the digestive system,Diseases of liver,19812,121,2.97 [1.49-5.91],0.0019795071787271
+HEPH,Hephaestin,Chapter XI Diseases of the digestive system,Other diseases of liver,19760,69,3.77 [1.52-9.38],0.0042501225719774
+HEPH,Hephaestin,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",19530,303,1.85 [1.20-2.85],0.0054721713311783
+HEPH,Hephaestin,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,19252,25,5.57 [1.29-24.08],0.0214970934116618
+HEPH,Hephaestin,Chapter XI Diseases of the digestive system,Acute pancreatitis,19288,61,5.98 [2.32-15.37],0.0002081026808687
+HEPH,Hephaestin,Chapter XI Diseases of the digestive system,Acute pancreatitis (for exclusion),20373,61,6.00 [2.33-15.45],0.0002071832454862
+HEPH,Hephaestin,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,17871,1293,1.31 [1.06-1.61],0.0137850919242378
+HEPH,Hephaestin,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,19687,408,1.88 [1.29-2.76],0.0011139615905208
+HEPH,Hephaestin,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,19537,258,2.18 [1.35-3.52],0.0014495121407485
+HEPH,Hephaestin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,14692,24,7.05 [1.63-30.53],0.0089938597241731
+HEPH,Hephaestin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,19628,46,0.52 [0.30-0.93],0.0264574541681843
+HEPH,Hephaestin,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,15791,1967,1.26 [1.06-1.50],0.0095181938767845
+HEPH,Hephaestin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,18253,217,2.01 [1.19-3.36],0.0084554575435721
+HEPH,Hephaestin,Chapter XIV Diseases of the genitourinary system,Acute renal failure,18313,50,6.41 [2.21-18.57],0.0006163659703311
+HEPH,Hephaestin,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,18312,49,8.59 [3.05-24.21],4.733948510960242e-05
+HEPH,Hephaestin,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,20114,58,3.04 [1.13-8.18],0.0275824586967757
+HEPH,Hephaestin,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",16769,137,2.00 [1.05-3.84],0.0361344008416271

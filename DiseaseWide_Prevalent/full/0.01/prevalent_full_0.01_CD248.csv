@@ -1,0 +1,79 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,OR[95%CI],P_value
+CD248,Endosialin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,39618,149,1.82 [1.25-2.67],0.0019306371447187
+CD248,Endosialin,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,38712,98,1.99 [1.25-3.18],0.0039947340473755
+CD248,Endosialin,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,43016,206,1.67 [1.21-2.31],0.0017407677633063
+CD248,Endosialin,Chapter I Certain infectious and parasitic diseases,Other septicaemia,42942,132,1.85 [1.24-2.75],0.0024012691213107
+CD248,Endosialin,Chapter II Neoplasms,"Malignant neoplasm of breast, excluding all cancers (controls excluding all cancers)",20218,586,1.45 [1.19-1.77],0.0002074054042998
+CD248,Endosialin,Chapter II Neoplasms,Melanocytic naevi of other and unspecified parts of face,44710,154,0.56 [0.38-0.83],0.0034576075224656
+CD248,Endosialin,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,36200,1966,0.85 [0.76-0.96],0.0058997708783576
+CD248,Endosialin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes,41435,926,0.44 [0.38-0.52],1.2358338027300033e-23
+CD248,Endosialin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,41410,901,0.44 [0.37-0.52],1.7318420597495785e-23
+CD248,Endosialin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,35905,1671,0.82 [0.72-0.92],0.0012000029520797
+CD248,Endosialin,"Chapter IV Endocrine, nutritional and metabolic diseases",Pure hypercholesterolaemia,35783,1549,0.83 [0.73-0.95],0.0052877118208973
+CD248,Endosialin,Chapter V Mental and behavioural disorders,Any mental disorder,37926,1128,0.69 [0.60-0.80],4.255537987000295e-07
+CD248,Endosialin,Chapter V Mental and behavioural disorders,Smoking dependency,41598,109,0.51 [0.33-0.77],0.0013028767200182
+CD248,Endosialin,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",36899,101,0.54 [0.35-0.84],0.0058389142190853
+CD248,Endosialin,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",37348,550,0.65 [0.53-0.79],2.680268265948436e-05
+CD248,Endosialin,Chapter V Mental and behavioural disorders,Depression,42011,482,0.67 [0.54-0.83],0.0002818599960749
+CD248,Endosialin,Chapter V Mental and behavioural disorders,Depression or dysthymia,36938,421,0.67 [0.53-0.84],0.0006493253136284
+CD248,Endosialin,Chapter VI Diseases of the nervous system,Neurological diseases,38503,2577,0.84 [0.76-0.93],0.0004949685740686
+CD248,Endosialin,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,34975,245,0.53 [0.39-0.72],4.720668448766806e-05
+CD248,Endosialin,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,44500,194,0.47 [0.34-0.66],1.183279406542066e-05
+CD248,Endosialin,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,42474,834,0.76 [0.64-0.89],0.0010214560232991
+CD248,Endosialin,Chapter VI Diseases of the nervous system,Other sleep disorders,41929,289,0.61 [0.46-0.80],0.0004609689716894
+CD248,Endosialin,Chapter VI Diseases of the nervous system,Sleep apnoea,43782,221,0.62 [0.45-0.84],0.0025324686497873
+CD248,Endosialin,Chapter VI Diseases of the nervous system,Hemiplegia,44223,103,0.55 [0.35-0.86],0.0082236005766609
+CD248,Endosialin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic maculopathy,3799,68,2.23 [1.33-3.74],0.0023216483880307
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,31634,5592,0.90 [0.84-0.97],0.0091161311114305
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,43678,123,1.85 [1.22-2.81],0.0040589183154963
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,"Hypertension, essential",33358,3840,0.86 [0.79-0.94],0.0009222679467162
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,Hypertension,33398,3880,0.87 [0.80-0.95],0.0021743249920002
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,29611,93,4.08 [2.59-6.43],1.3459708351113974e-09
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,43351,802,0.79 [0.66-0.93],0.0049667470387105
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,Pulmonary embolism,43308,194,2.17 [1.57-3.02],3.587345062593954e-06
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,Venous thromboembolism,43523,406,1.91 [1.52-2.40],3.3744002518652834e-08
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,Secondary right heart disease,43288,174,1.98 [1.40-2.81],0.000131582602018
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,43290,176,1.98 [1.39-2.80],0.0001290224611323
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",29685,167,1.90 [1.32-2.75],0.000571398501877
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,25305,759,1.67 [1.39-2.01],3.456942131436225e-08
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,Other arrhythmias,37230,118,1.80 [1.17-2.77],0.0074921017720729
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,37278,166,2.36 [1.65-3.38],2.565191337893208e-06
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",42929,356,1.65 [1.29-2.11],8.162482382210965e-05
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),42222,249,1.77 [1.32-2.38],0.0001354774587072
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,DVT of lower extremities,42183,210,2.00 [1.46-2.75],1.8287683296698204e-05
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",44378,202,1.98 [1.44-2.73],3.1452469451381567e-05
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,Varicose veins,42804,831,1.48 [1.26-1.75],2.894834987565359e-06
+CD248,Endosialin,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,35735,3614,0.86 [0.79-0.94],0.0005569149629954
+CD248,Endosialin,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,20589,109,0.54 [0.35-0.83],0.0054101216703496
+CD248,Endosialin,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,39945,1776,0.72 [0.65-0.81],3.8308275663232455e-08
+CD248,Endosialin,Chapter X Diseases of the respiratory system,"Asthma, hospital admissions , main diagnosis only",41707,1460,0.69 [0.61-0.78],4.982965190305867e-09
+CD248,Endosialin,Chapter X Diseases of the respiratory system,Asthma,31965,1460,0.65 [0.57-0.73],2.6313135267541935e-11
+CD248,Endosialin,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",31504,1460,0.65 [0.57-0.73],2.6860852482704496e-11
+CD248,Endosialin,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",31944,1439,0.65 [0.57-0.74],4.37356807296363e-11
+CD248,Endosialin,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,30490,10100,0.90 [0.85-0.96],0.0006650996103299
+CD248,Endosialin,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",37384,3756,0.89 [0.82-0.97],0.0059942673919132
+CD248,Endosialin,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,37901,1501,0.84 [0.74-0.95],0.005200943507187
+CD248,Endosialin,Chapter XI Diseases of the digestive system,"Ulcerative colitis (strict definition, require KELA, min 2 HDR)",44517,236,1.54 [1.14-2.09],0.0053804172921473
+CD248,Endosialin,Chapter XI Diseases of the digestive system,Ulcerative colitis,41969,236,1.55 [1.14-2.10],0.0050059633885319
+CD248,Endosialin,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",41944,211,1.57 [1.14-2.17],0.0063506728732121
+CD248,Endosialin,Chapter XI Diseases of the digestive system,Diseases of liver,43330,213,1.85 [1.36-2.54],0.0001140289315981
+CD248,Endosialin,Chapter XI Diseases of the digestive system,Diseases of the digestive system,42351,535,0.76 [0.62-0.93],0.0082458861688763
+CD248,Endosialin,Chapter XI Diseases of the digestive system,Coeliac disease,41915,99,0.53 [0.33-0.85],0.0082887018100526
+CD248,Endosialin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,32253,6945,1.12 [1.05-1.19],0.0009421525132042
+CD248,Endosialin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,35069,4037,1.19 [1.10-1.29],2.409577347584462e-05
+CD248,Endosialin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,31298,266,1.84 [1.38-2.45],3.4250091197572225e-05
+CD248,Endosialin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,31829,797,1.38 [1.16-1.63],0.0002029428972191
+CD248,Endosialin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",44023,256,1.82 [1.36-2.43],5.267324279338606e-05
+CD248,Endosialin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,44040,232,1.88 [1.38-2.54],4.871007452569581e-05
+CD248,Endosialin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,33284,2252,1.20 [1.08-1.33],0.0006482622671319
+CD248,Endosialin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,43763,248,2.01 [1.50-2.69],2.4415666893416425e-06
+CD248,Endosialin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,43614,99,2.84 [1.81-4.46],6.134203606715997e-06
+CD248,Endosialin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,38948,336,0.70 [0.54-0.91],0.0074982428024669
+CD248,Endosialin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",39009,783,1.27 [1.07-1.50],0.0065240132242588
+CD248,Endosialin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,38523,297,1.54 [1.17-2.02],0.0017799274200854
+CD248,Endosialin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,40406,372,2.12 [1.67-2.70],9.212826742745055e-10
+CD248,Endosialin,Chapter XIV Diseases of the genitourinary system,Acute renal failure,40644,76,3.25 [1.96-5.40],5.306521412699942e-06
+CD248,Endosialin,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,40643,75,8.86 [5.65-13.90],1.9289733312490257e-21
+CD248,Endosialin,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,40666,98,4.13 [2.65-6.43],3.3854074292222256e-10
+CD248,Endosialin,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,44012,111,1.97 [1.27-3.05],0.0023482553727297
+CD248,Endosialin,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,18728,707,0.68 [0.56-0.81],3.1679425956718105e-05
