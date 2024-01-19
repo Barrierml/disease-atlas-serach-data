@@ -1,0 +1,49 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+NENF,Neudesin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),19264,3565,1.05 [1.02-1.08],0.0003222588862612
+NENF,Neudesin,Chapter I Certain infectious and parasitic diseases,Mycoses,20023,527,1.07 [1.00-1.15],0.0371510984868608
+NENF,Neudesin,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",19671,1435,0.94 [0.90-0.99],0.0215992375322489
+NENF,Neudesin,Chapter II Neoplasms,Benign neoplasm: Caecum,20049,330,0.86 [0.76-0.96],0.0086042989383232
+NENF,Neudesin,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",14407,85,0.75 [0.58-0.98],0.0334070949313209
+NENF,Neudesin,Chapter II Neoplasms,Leiomyoma of uterus,10278,147,1.16 [1.04-1.30],0.0082639763748372
+NENF,Neudesin,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",7208,827,0.90 [0.84-0.96],0.0019952892128814
+NENF,Neudesin,Chapter II Neoplasms,Melanocytic naevi of trunk,20048,67,0.73 [0.53-0.99],0.0425056463697352
+NENF,Neudesin,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",14427,105,0.78 [0.62-0.98],0.0294219353979318
+NENF,Neudesin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,19534,1471,1.07 [1.03-1.12],0.0006121885290209
+NENF,Neudesin,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,14003,760,1.06 [1.00-1.12],0.0371908607425048
+NENF,Neudesin,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",19645,679,1.07 [1.01-1.13],0.030951001187738
+NENF,Neudesin,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",19958,165,1.13 [1.01-1.26],0.0366011919699562
+NENF,Neudesin,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,18703,113,1.15 [1.00-1.32],0.0470662901304322
+NENF,Neudesin,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,18861,271,1.10 [1.00-1.20],0.0473373137611038
+NENF,Neudesin,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,8174,350,1.13 [1.05-1.22],0.0012570275616769
+NENF,Neudesin,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,18605,98,0.69 [0.52-0.91],0.0078285222907269
+NENF,Neudesin,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,20020,544,1.09 [1.02-1.16],0.0085903124033907
+NENF,Neudesin,Chapter VI Diseases of the nervous system,Generalized epilepsy,19761,45,1.26 [1.05-1.51],0.0125951334380705
+NENF,Neudesin,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",19462,1033,0.93 [0.88-0.99],0.0155295201238607
+NENF,Neudesin,Chapter VI Diseases of the nervous system,Parkinson's disease,20038,346,1.11 [1.03-1.20],0.0067880438935631
+NENF,Neudesin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,19953,859,0.94 [0.88-1.00],0.0498060955732148
+NENF,Neudesin,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",19819,1387,0.94 [0.90-0.99],0.0270358456439238
+NENF,Neudesin,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,18924,407,1.12 [1.05-1.21],0.0014675871063724
+NENF,Neudesin,Chapter X Diseases of the respiratory system,Influenza and pneumonia,19841,2156,1.04 [1.01-1.08],0.0190870265208066
+NENF,Neudesin,Chapter X Diseases of the respiratory system,Interstitial lung disease,18960,443,1.12 [1.05-1.20],0.0011149878004312
+NENF,Neudesin,Chapter X Diseases of the respiratory system,Later onset COPD,19609,1286,0.93 [0.88-0.98],0.0076911775937055
+NENF,Neudesin,Chapter X Diseases of the respiratory system,Other diseases of pleura,19817,2281,1.05 [1.02-1.09],0.0028829376701447
+NENF,Neudesin,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,19953,522,1.11 [1.04-1.19],0.0012937699716306
+NENF,Neudesin,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,19952,1463,1.06 [1.02-1.11],0.0038223898269421
+NENF,Neudesin,Chapter X Diseases of the respiratory system,Pleural effusion,18668,1132,1.07 [1.02-1.12],0.0047679587649079
+NENF,Neudesin,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",19599,1914,1.04 [1.00-1.08],0.0269430501185055
+NENF,Neudesin,Chapter XI Diseases of the digestive system,Acute gastritis,14037,85,1.20 [1.04-1.38],0.0110031664566618
+NENF,Neudesin,Chapter XI Diseases of the digestive system,Coeliac disease,18590,105,1.45 [1.31-1.60],7.422958862595691e-14
+NENF,Neudesin,Chapter XI Diseases of the digestive system,Intestinal malabsorption,18608,123,1.38 [1.26-1.52],3.0480051252295307e-11
+NENF,Neudesin,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,14890,938,1.08 [1.02-1.13],0.003724113824761
+NENF,Neudesin,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,17822,57,1.25 [1.05-1.48],0.0113656985636915
+NENF,Neudesin,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,19375,53,1.23 [1.04-1.46],0.0168662857890389
+NENF,Neudesin,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,19006,184,1.12 [1.01-1.25],0.0374987648763797
+NENF,Neudesin,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",18036,271,1.12 [1.02-1.22],0.0132976089663884
+NENF,Neudesin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,16723,119,0.72 [0.57-0.91],0.0069702515259524
+NENF,Neudesin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,16673,69,1.21 [1.04-1.41],0.0135988545988752
+NENF,Neudesin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,19702,1890,1.04 [1.00-1.08],0.031311739460148
+NENF,Neudesin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,19145,1333,1.05 [1.01-1.10],0.0224622639862719
+NENF,Neudesin,Chapter XIV Diseases of the genitourinary system,Dialysis,17164,70,1.22 [1.05-1.42],0.0097807878032144
+NENF,Neudesin,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,8096,33,1.28 [1.04-1.56],0.0185050729841634
+NENF,Neudesin,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,8167,104,1.21 [1.07-1.36],0.0027732358501624
+NENF,Neudesin,Chapter XIV Diseases of the genitourinary system,Urethral stricture,16818,229,0.84 [0.72-0.97],0.014641330920674

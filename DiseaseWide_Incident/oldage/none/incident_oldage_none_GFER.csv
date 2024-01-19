@@ -1,0 +1,658 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",21330,189,1.07 [0.87-1.31],0.51571834387066
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",22508,239,1.12 [0.94-1.34],0.21506630334864
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",22231,1714,1.10 [1.03-1.17],0.007167730002292
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Candidiasis,22515,533,1.12 [1.00-1.27],0.0588645785925297
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,21766,4121,1.12 [1.07-1.17],1.9213674695949746e-07
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),21725,4220,1.11 [1.06-1.16],3.9043945880106266e-06
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,22235,1399,1.14 [1.06-1.23],0.0005663809431063
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,22422,124,1.12 [0.87-1.44],0.3651975438719926
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,19740,1262,1.16 [1.07-1.25],0.0002825689758498
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,19072,1554,1.17 [1.09-1.26],1.2986468828385396e-05
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,18561,330,1.16 [1.00-1.36],0.050519101892527
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,14659,2690,1.13 [1.07-1.19],1.0152016999850616e-05
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,18507,483,1.24 [1.10-1.41],0.0006504797158436
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,22489,1653,1.13 [1.05-1.21],0.0006924992948451
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Mycoses,22603,621,1.13 [1.01-1.26],0.0334375309896803
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,21734,1217,1.06 [0.98-1.15],0.1361234499021368
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,22532,1391,1.14 [1.05-1.22],0.0008097653435414
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,21075,239,1.13 [0.94-1.35],0.1856852875266531
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,22662,66,1.32 [0.94-1.83],0.1048075153998239
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Other septicaemia,22358,1217,1.14 [1.05-1.23],0.0015906644820462
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,22374,76,1.23 [0.90-1.69],0.1985294944799269
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Other viral diseases,22598,136,1.30 [1.03-1.64],0.0251875574615577
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",22577,115,1.30 [1.01-1.67],0.0444931772092758
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,21007,490,1.29 [1.14-1.46],4.451466090438509e-05
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,20817,300,1.06 [0.90-1.24],0.5183837500863567
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,20968,132,1.29 [1.02-1.63],0.0365820216920805
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,22647,46,1.14 [0.75-1.71],0.5460580642753889
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,22597,165,0.99 [0.79-1.23],0.9108093090041868
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Viral warts,22486,54,1.50 [1.05-2.15],0.02450776075706
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],22504,72,0.69 [0.48-0.98],0.0398555812348295
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Benign lipomatous neoplasm,22374,259,0.79 [0.66-0.95],0.0139749064715453
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,22579,39,0.77 [0.48-1.24],0.2816554751213705
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,22564,43,1.04 [0.67-1.59],0.8719210868867738
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,10805,83,0.76 [0.55-1.06],0.112167078537713
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",22205,1628,1.08 [1.00-1.15],0.0382453002714709
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Benign neoplasm of meninges,22647,65,1.29 [0.93-1.81],0.1325097806773607
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,22571,77,1.33 [0.98-1.81],0.0703629981123745
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,22634,115,0.98 [0.75-1.27],0.8572468217133001
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Benign neoplasm of ovary,11789,73,0.97 [0.69-1.35],0.8408484637936279
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Benign neoplasm: Ascending colon,22622,428,1.07 [0.93-1.22],0.3608245043758067
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Benign neoplasm: Caecum,22628,382,1.06 [0.92-1.23],0.4232671436477699
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",22515,82,1.06 [0.77-1.45],0.727749330201779
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Benign neoplasm: Descending colon,22620,248,1.13 [0.95-1.35],0.16677795743552
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Benign neoplasm: Rectum,22581,394,0.97 [0.84-1.12],0.6581908103679586
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,22511,658,1.11 [1.00-1.24],0.0537831831185496
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Benign neoplasm: Transverse colon,22606,528,1.15 [1.01-1.29],0.0277702699043267
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Carcinoma in situ of breast,8869,47,0.85 [0.56-1.29],0.4432709046647741
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",8912,64,1.19 [0.85-1.68],0.3152843228759064
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",16187,69,1.23 [0.88-1.71],0.2265221094227612
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",16215,97,1.02 [0.77-1.37],0.8795629363622547
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",22605,121,0.90 [0.69-1.17],0.4380304781539063
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Haemangioma, any site",22606,119,0.92 [0.71-1.20],0.5488700892062216
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Leiomyoma of uterus,11526,160,1.06 [0.85-1.33],0.5867322593892803
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Lung cancer and mesothelioma,14342,471,1.04 [0.91-1.18],0.560928130469963
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Lymphoid leukaemia,16189,71,1.25 [0.91-1.73],0.1704666062459005
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",16339,221,0.98 [0.81-1.19],0.8424022754950367
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",16426,308,1.08 [0.92-1.27],0.3338114023331709
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",8987,101,0.90 [0.67-1.20],0.4696359363778136
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",16222,104,1.25 [0.95-1.63],0.107574134452647
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",16261,143,1.11 [0.88-1.41],0.3815333781982987
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",16237,119,1.10 [0.85-1.43],0.4528939119090884
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",8972,86,0.93 [0.68-1.27],0.6641299969664094
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",16242,124,0.91 [0.70-1.19],0.4968951540430263
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",8180,948,0.98 [0.90-1.08],0.7277277534380472
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",16250,132,0.91 [0.71-1.17],0.4703312824302944
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",16206,88,1.13 [0.84-1.53],0.406371844833547
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,16261,143,1.07 [0.84-1.36],0.5828015620460663
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Melanocytic naevi,22521,181,1.11 [0.91-1.37],0.3048420029648041
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Melanocytic naevi of trunk,22635,76,1.34 [0.98-1.82],0.0629234529290845
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Melanoma in situ,16170,109,1.05 [0.80-1.38],0.7209820285351697
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",16236,118,1.01 [0.77-1.31],0.952066836197186
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",16314,196,1.05 [0.86-1.29],0.6305055601617082
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",16439,321,0.93 [0.79-1.09],0.3613257750897449
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",16241,123,1.17 [0.91-1.50],0.227155644016872
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,Other benign neoplasms of skin,22488,158,1.03 [0.82-1.29],0.8144872716488171
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",17568,1450,1.01 [0.93-1.08],0.8755076110866444
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",17651,1533,1.01 [0.94-1.09],0.7165871878994419
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,22368,381,1.12 [0.97-1.29],0.134702611885851
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,20383,161,1.39 [1.12-1.71],0.0026189242276823
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,22054,67,1.28 [0.92-1.79],0.1416472117089776
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,21912,3423,1.15 [1.09-1.20],1.4741000327264409e-08
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,20975,72,1.56 [1.15-2.12],0.0043920536950073
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,22196,64,1.11 [0.78-1.57],0.5668035226884449
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,22155,1933,1.15 [1.08-1.23],8.759368926195434e-06
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,22154,1932,1.15 [1.08-1.23],9.738593690513255e-06
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,20333,111,1.08 [0.82-1.41],0.5918946691084619
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,22308,1405,1.25 [1.17-1.35],1.018073812781493e-09
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,22243,111,1.11 [0.85-1.45],0.4257723363006307
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,22057,70,0.91 [0.64-1.28],0.5749850367738537
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,22060,73,1.15 [0.83-1.59],0.3955296951539638
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,22483,351,1.06 [0.91-1.24],0.4213869064495017
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,22534,38,1.04 [0.66-1.65],0.8589022755729082
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",22420,288,0.98 [0.83-1.16],0.83452520486724
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,21033,130,1.01 [0.79-1.30],0.9214787097594992
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,15140,408,1.26 [1.10-1.45],0.0008038353297207
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,21187,97,1.36 [1.02-1.83],0.0384788085314039
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,21198,108,1.91 [1.51-2.42],1.0259565889290713e-07
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,14802,70,1.11 [0.79-1.55],0.5544487283540194
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,21052,63,0.85 [0.59-1.23],0.387401194058817
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,20286,313,0.98 [0.84-1.16],0.8358169938744253
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",21875,950,1.07 [0.98-1.17],0.1446636373829559
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,21403,478,1.06 [0.93-1.21],0.3563765042039312
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,21143,218,1.08 [0.89-1.31],0.4312669769832795
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,22380,1391,1.16 [1.08-1.25],0.0001071681933356
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,19051,1347,1.17 [1.08-1.26],6.252128081406899e-05
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",14823,91,0.82 [0.60-1.12],0.2181785737943352
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",20409,97,1.30 [0.99-1.71],0.0564311979037589
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,15093,361,1.14 [0.98-1.32],0.0902633783927592
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,14785,53,1.76 [1.24-2.49],0.0015572126635993
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,19244,4512,1.07 [1.02-1.11],0.0019020690036024
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,14988,256,1.19 [1.00-1.41],0.0501313758541528
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,15427,695,1.15 [1.04-1.28],0.0082556654049759
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,22601,359,1.16 [1.00-1.34],0.043608880885942
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,22395,153,1.12 [0.89-1.40],0.321405846282891
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,14884,152,1.06 [0.84-1.33],0.6248512691611365
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",14809,77,1.27 [0.93-1.73],0.1301242990131887
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,22034,1722,1.04 [0.97-1.11],0.280810720743707
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,15111,379,1.27 [1.10-1.46],0.0010998248044422
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,15150,418,1.22 [1.06-1.40],0.0043313942533039
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",15581,849,1.15 [1.05-1.27],0.003413068256692
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,14907,175,1.00 [0.81-1.24],0.991128665688308
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,22386,144,1.11 [0.88-1.40],0.3701888447475189
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,15618,886,1.07 [0.97-1.17],0.1846431807530432
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,15377,645,1.10 [0.98-1.23],0.0926720426476042
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,20053,80,1.20 [0.88-1.63],0.2453409071756214
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,21037,6305,1.07 [1.04-1.11],7.588751848195815e-05
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,20371,59,0.95 [0.66-1.38],0.7893340564388659
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,20363,51,1.04 [0.70-1.54],0.8525521014406757
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,22480,1866,0.99 [0.93-1.06],0.7518614065891713
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",22477,1863,0.99 [0.93-1.06],0.7901154192647623
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,20377,65,0.95 [0.67-1.36],0.7904667098157383
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,22318,1110,1.02 [0.93-1.11],0.7266673319389098
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",16937,2205,1.12 [1.06-1.19],0.0001782963645114
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,22646,306,1.13 [0.96-1.33],0.1296559036616547
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,21052,127,1.28 [1.00-1.64],0.0466261251919219
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,21322,114,0.97 [0.74-1.26],0.7981351858215275
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,21365,157,1.24 [1.00-1.55],0.0501909454537857
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",14928,196,1.17 [0.96-1.42],0.1240291582566739
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,19925,179,1.13 [0.92-1.39],0.2432724193330253
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,2418,95,1.16 [0.86-1.56],0.3231515689538045
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,2583,300,1.02 [0.86-1.21],0.8333209194734293
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,19826,80,1.68 [1.26-2.24],0.0003600378396802
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,2394,74,1.30 [0.94-1.81],0.1166337059647497
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,21834,2088,1.16 [1.09-1.24],1.3300498950108664e-06
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,21551,626,0.90 [0.80-1.01],0.0758816655035732
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,20410,437,1.18 [1.03-1.34],0.0144104679992984
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,15827,1095,1.16 [1.07-1.26],0.0005720972784613
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",22526,301,0.89 [0.75-1.06],0.1843949792179885
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),21208,266,0.95 [0.79-1.13],0.5393111202602732
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Angina pectoris,19556,1541,1.02 [0.95-1.10],0.5375907435771198
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Aortic aneurysm,21311,369,0.95 [0.82-1.10],0.4781624781264432
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,21027,85,1.19 [0.88-1.60],0.2644997464049074
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",21228,286,1.20 [1.02-1.41],0.030694573902966
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,11465,2773,1.00 [0.95-1.06],0.925474744025782
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,AV-block,17206,653,1.07 [0.96-1.20],0.2044031828907754
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",22578,569,1.02 [0.91-1.15],0.7437338192369731
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Cardiac arrest,8953,261,1.29 [1.09-1.52],0.0029717978790086
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Cardiomyopathy,16747,194,0.93 [0.75-1.14],0.4727764377339705
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",16658,105,1.06 [0.80-1.39],0.6919251738770062
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,22657,80,1.54 [1.15-2.07],0.0038756456167606
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Conduction disorders,18062,1509,1.04 [0.96-1.12],0.3160581610047923
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,20699,2707,1.03 [0.98-1.09],0.2908290224225953
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,18173,8702,1.04 [1.01-1.07],0.0164920018326841
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,DVT of lower extremities,21127,331,0.92 [0.79-1.08],0.3271112090824886
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Endocarditis,16655,102,1.32 [1.01-1.73],0.0393798079407184
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,"Heart failure, strict",22375,1633,1.13 [1.05-1.21],0.0005155766533417
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Hypertension,19386,7755,1.06 [1.03-1.10],0.0003049174022654
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,"Hypertension, essential",19404,7773,1.06 [1.03-1.10],0.0003468983070019
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,"Hypertension, portal",22496,89,1.48 [1.12-1.96],0.006319567854477
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",11884,253,1.13 [0.95-1.35],0.1653579688604688
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,11836,205,1.54 [1.29-1.85],2.5823332751860948e-06
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Hypotension,22479,1607,1.10 [1.02-1.18],0.0082863174456846
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,21389,148,0.87 [0.68-1.11],0.2523586738211347
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",20868,2853,1.03 [0.97-1.08],0.3122730708966645
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",22153,781,1.13 [1.02-1.25],0.0179622087637002
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Left bundle-branch block,17065,512,1.10 [0.97-1.25],0.1353784651995444
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,21982,1041,1.03 [0.94-1.12],0.5531203825167643
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",18914,899,1.08 [0.98-1.19],0.1070864147161179
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",22535,181,1.12 [0.91-1.38],0.2679640368599737
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",22618,403,1.04 [0.90-1.20],0.5854471902132138
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Oesophageal varices,20857,61,1.73 [1.24-2.40],0.0011553521009644
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Other aneurysm,21043,101,1.19 [0.90-1.56],0.2154516687155793
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Other arrhythmias,17137,584,1.06 [0.95-1.19],0.3055851992335791
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,21075,133,1.30 [1.03-1.64],0.0298162457301485
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,21264,322,1.11 [0.95-1.30],0.1897478158297344
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,16773,220,1.14 [0.95-1.38],0.1705287001767016
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Other disorders of veins,20914,118,1.20 [0.93-1.55],0.1600263364859691
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,20841,45,1.20 [0.79-1.81],0.3882181643115939
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,20639,88,1.01 [0.74-1.37],0.9427870547314152
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,20970,174,1.02 [0.82-1.27],0.8499637531286612
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,17984,1431,1.01 [0.94-1.09],0.7667105961094873
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,20933,61,1.79 [1.30-2.48],0.0004285923623088
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,21655,713,1.01 [0.91-1.12],0.8431934690852401
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,21903,514,1.06 [0.94-1.20],0.3404499076456159
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",21508,957,1.07 [0.97-1.17],0.1750954962469332
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,9103,411,1.03 [0.90-1.18],0.6722091420306152
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Peripheral artery disease,21488,578,1.07 [0.95-1.20],0.2498700798849957
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),21213,417,0.94 [0.82-1.09],0.4219121037577491
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Pulmonary embolism,21975,586,0.96 [0.85-1.08],0.4731508285336975
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,22563,950,1.09 [1.00-1.20],0.0587411862892586
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Right bundle-branch block,17057,504,1.05 [0.92-1.19],0.4940147967168166
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Secondary right heart disease,21898,509,1.07 [0.94-1.21],0.2905419894158529
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,20812,261,1.15 [0.96-1.36],0.1225152980695421
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",22137,896,1.09 [0.99-1.20],0.0771143348047006
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",22122,935,1.09 [0.99-1.19],0.071805658819154
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,21361,62,0.89 [0.62-1.29],0.5449871999961586
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,21046,104,0.92 [0.69-1.22],0.5663409746351791
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Transient ischemic attack,21691,319,1.10 [0.94-1.28],0.2493821544234399
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,21264,323,1.07 [0.91-1.25],0.4195550600155606
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Varicose veins,21303,507,1.12 [0.99-1.27],0.0657685852348217
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,20961,121,0.93 [0.72-1.21],0.5856750901328545
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter IX Diseases of the circulatory system,Venous thromboembolism,22386,926,0.95 [0.86-1.04],0.2878094324153945
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",22580,319,1.53 [1.32-1.78],1.5832784821232818e-08
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",19350,1352,1.06 [0.98-1.14],0.1417214132443784
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter V Mental and behavioural disorders,Any mental disorder,22136,4138,1.09 [1.04-1.14],9.732741823822584e-05
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",22552,376,1.45 [1.26-1.66],1.4475623619207696e-07
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",19416,1418,1.16 [1.08-1.25],6.005397470744565e-05
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",18081,83,1.11 [0.82-1.51],0.5015769675540114
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter V Mental and behavioural disorders,Smoking dependency,22158,1154,1.17 [1.08-1.27],0.0001279560218732
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",19413,1415,1.20 [1.11-1.29],1.8510168513243465e-06
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter V Mental and behavioural disorders,Vascular dementia,21767,229,0.91 [0.75-1.10],0.3323723421432516
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Alzheimer disease,22659,584,1.07 [0.96-1.21],0.2301597527129868
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",13879,109,1.28 [0.99-1.66],0.06337426736762
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Bell's palsy,20850,83,1.03 [0.75-1.40],0.8574484327103693
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,21245,478,1.08 [0.95-1.23],0.2457103145815805
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Cerebral cysts,22225,245,1.16 [0.97-1.39],0.0932370488226849
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,22586,403,0.99 [0.86-1.14],0.8655211208746296
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,21816,73,1.05 [0.76-1.47],0.7615707556377829
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,22642,67,0.81 [0.56-1.16],0.2428479962184261
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",22064,84,1.35 [1.01-1.81],0.0461122874070536
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Epilepsy,21181,298,0.92 [0.78-1.09],0.32350995882757
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,22205,1322,1.03 [0.95-1.11],0.521428436772476
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,22605,914,0.98 [0.89-1.07],0.6101637640099168
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Falls/tendency to fall,22012,3401,1.04 [0.99-1.09],0.1458765585755191
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Generalized epilepsy,22292,54,1.19 [0.82-1.72],0.3729104995647703
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Hemiplegia,22510,327,1.06 [0.91-1.24],0.4442011324622404
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Hydrocephalus,22056,76,1.20 [0.87-1.64],0.2602757684199875
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,22645,69,1.23 [0.89-1.71],0.2153040269994028
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,20833,66,0.71 [0.49-1.02],0.0639376564984967
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,20837,70,0.98 [0.70-1.38],0.9150759668238786
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Memory loss,21519,141,0.91 [0.71-1.16],0.4390558244816499
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Migraine,21155,272,1.02 [0.86-1.21],0.8103094897331605
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",22613,249,1.04 [0.87-1.24],0.7038563087121466
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Motor neuron disease,13961,168,1.08 [0.86-1.34],0.5121677848304946
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,22531,58,0.89 [0.61-1.30],0.5601292991134837
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",21960,1193,1.04 [0.96-1.13],0.3307757685529144
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Neurological diseases,21205,4275,1.04 [1.00-1.09],0.0514537735622519
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,22066,323,1.07 [0.92-1.26],0.3771743529889112
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",21183,416,1.07 [0.94-1.23],0.3146777051419926
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",22583,337,1.13 [0.97-1.32],0.1082286583205574
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,16949,964,1.11 [1.02-1.22],0.0184452525923485
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,22064,84,0.90 [0.65-1.23],0.510858792632121
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Other disorders of nervous system,22140,160,0.93 [0.74-1.17],0.5527972045987103
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,21924,233,1.03 [0.85-1.24],0.7764067009235985
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Other facial nerve disorders,20860,93,1.14 [0.85-1.51],0.3825721188399287
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Other headache syndromes,20933,50,0.86 [0.57-1.29],0.4619176627454884
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Other neurological diseases,22551,571,1.14 [1.01-1.28],0.0316578450262417
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Other sleep disorders,21391,508,1.06 [0.93-1.20],0.367683607815414
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Parkinson's disease,22626,677,0.95 [0.85-1.06],0.3568686992356265
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,22025,45,1.07 [0.70-1.62],0.7633542098680355
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Restless leg syndrome,22659,109,1.00 [0.76-1.31],0.9919219465954184
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Sleep apnoea,22427,431,1.05 [0.91-1.20],0.4999965631714541
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Small fibre neuropathy,22303,57,1.01 [0.69-1.48],0.9514387891150984
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,22648,194,1.07 [0.87-1.30],0.5375756419031981
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,20833,66,0.89 [0.62-1.28],0.5304224210699635
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,22659,590,1.07 [0.95-1.20],0.2462605748478404
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),21708,223,0.92 [0.76-1.12],0.4086007638533091
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,22029,151,0.96 [0.76-1.21],0.7129526546153275
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,22214,555,1.04 [0.92-1.17],0.5196636810339614
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,22407,262,0.99 [0.83-1.18],0.887495430399595
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,21454,66,1.02 [0.72-1.46],0.8935500363512888
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,21427,39,1.67 [1.11-2.52],0.0147519886335217
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",22538,65,1.25 [0.89-1.76],0.1896827023000512
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,22348,221,1.00 [0.83-1.21],0.9991794326220588
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",2398,75,1.19 [0.86-1.66],0.2977579038557049
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,2961,110,1.15 [0.87-1.51],0.3201471128618512
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,21980,102,1.02 [0.77-1.35],0.8954671064430342
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,22367,1408,1.06 [0.99-1.15],0.1138880219476197
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",22254,866,1.07 [0.97-1.18],0.1496838171704514
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,21690,302,1.17 [1.00-1.37],0.0569142241038518
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",22586,927,1.04 [0.95-1.14],0.4241951604660166
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,22652,82,1.48 [1.10-1.97],0.0089275424906983
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,22515,856,1.03 [0.94-1.14],0.5273619229457079
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",22619,492,0.98 [0.86-1.12],0.766424290156917
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,22541,221,1.06 [0.88-1.28],0.5254781260550714
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,21484,96,1.17 [0.88-1.56],0.2853021718729711
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,21487,99,0.99 [0.74-1.32],0.9337297168525828
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,21465,77,1.12 [0.81-1.54],0.5028663380258223
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,22529,989,1.01 [0.92-1.10],0.8700775053798715
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,21798,258,0.97 [0.81-1.16],0.75651439269482
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,21729,70,0.88 [0.62-1.25],0.4857861650236578
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,22247,120,0.87 [0.66-1.13],0.2881513768169733
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,22511,384,0.99 [0.86-1.14],0.8912285639082085
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,21873,214,1.04 [0.86-1.26],0.7078062866072954
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,22459,139,0.98 [0.77-1.25],0.8718755020424391
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,22202,662,1.06 [0.95-1.18],0.3154421861438408
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,22038,160,0.85 [0.68-1.07],0.1762540753060406
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,20242,3158,1.03 [0.98-1.09],0.192979901360012
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,22467,340,0.98 [0.84-1.15],0.8141714548276748
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,22646,184,1.20 [0.98-1.47],0.0783276966564224
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,21913,525,1.00 [0.89-1.14],0.949608691869826
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,22216,89,0.89 [0.65-1.21],0.4537574658653989
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,22643,73,1.52 [1.12-2.07],0.0073995568291481
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,21512,124,0.94 [0.73-1.22],0.6541123002806654
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,21559,171,0.83 [0.66-1.04],0.1111428875435387
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,21122,163,1.23 [0.99-1.53],0.0556669895812509
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,21721,62,0.97 [0.67-1.39],0.8514259396828514
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",21028,69,0.84 [0.59-1.20],0.3455017027533686
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,21651,111,0.92 [0.70-1.21],0.5322575678036865
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",21826,286,0.99 [0.83-1.17],0.8940291190324916
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,21544,156,1.01 [0.80-1.27],0.9288743005730244
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,21051,92,1.31 [0.99-1.74],0.0608378430536217
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,21087,128,1.00 [0.78-1.29],0.9693621588478972
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,19772,2688,1.04 [0.99-1.10],0.133623179863787
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,21480,92,1.12 [0.83-1.50],0.4585804395083284
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,22371,493,0.98 [0.86-1.12],0.7625019646100196
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,21953,75,1.17 [0.85-1.61],0.3297982958491273
+GFER,FAD-linked sulfhydryl oxidase ALR,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),22080,202,1.23 [1.01-1.49],0.0381647372776072
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,22442,109,1.06 [0.81-1.39],0.6623855104015923
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,22611,137,1.18 [0.93-1.49],0.1780767343287579
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,22524,111,1.49 [1.16-1.91],0.0017106694838251
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,22394,61,1.10 [0.77-1.58],0.5927665348486679
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,22398,65,1.24 [0.88-1.73],0.2192565269240928
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,22551,1216,1.03 [0.95-1.12],0.4511759009414566
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,22258,923,1.04 [0.95-1.15],0.3684798681462786
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,21484,149,0.80 [0.63-1.02],0.077177279218538
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,21421,86,1.07 [0.79-1.45],0.6754906098612066
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Acute pharyngitis,22473,63,1.16 [0.81-1.64],0.4172180835772417
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,22587,177,1.09 [0.88-1.34],0.4358165267800064
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,22471,61,1.12 [0.79-1.61],0.5201734801550864
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,All influenza,20036,154,1.26 [1.01-1.57],0.0381657351346932
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),20033,151,1.29 [1.04-1.61],0.0224881178053702
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Allergic asthma (mode),13973,102,1.23 [0.93-1.61],0.1425668568460368
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Allergic rhinitis,22554,232,0.97 [0.80-1.17],0.7165479485514926
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",15159,1671,1.12 [1.04-1.19],0.0017006665508253
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",15520,1649,1.11 [1.03-1.19],0.0037908216599317
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),22155,174,1.17 [0.95-1.44],0.1435883821898989
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",19985,103,1.24 [0.94-1.62],0.1228121431308902
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Bronchiectasis,19014,506,1.13 [1.00-1.28],0.049988856399499
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",18578,70,1.42 [1.04-1.95],0.0266174334384566
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,21560,3052,1.07 [1.01-1.12],0.0112492542064669
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",21450,70,1.05 [0.75-1.48],0.7579988494763709
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Chronic sinusitis,21513,133,1.09 [0.85-1.39],0.5030241482268876
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",22375,1595,1.06 [0.99-1.14],0.0819671437746579
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Deviated nasal septum,21462,82,1.09 [0.80-1.49],0.575820226416132
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,20553,5981,1.09 [1.05-1.13],7.951083069829358e-06
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",21714,334,1.06 [0.90-1.23],0.4902654973878986
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Early onset COPD,20887,107,1.07 [0.82-1.41],0.5976645510629904
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Emphysema,18929,421,1.02 [0.89-1.17],0.7683573570668425
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,21401,438,0.94 [0.82-1.08],0.391082426560649
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Influenza and pneumonia,22407,2525,1.13 [1.07-1.19],2.443336512803424e-05
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Interstitial lung disease,21442,479,0.98 [0.86-1.12],0.7556357905589637
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Later onset COPD,22152,1488,1.06 [0.99-1.14],0.0934037823635358
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,22643,482,1.11 [0.98-1.27],0.1000430371969936
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Nasal polyp,21474,94,1.04 [0.78-1.40],0.7741204285050373
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,22378,1262,1.11 [1.03-1.20],0.0086887492971593
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Other diseases of pleura,22376,2627,1.09 [1.03-1.15],0.0027167074837409
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,22118,738,1.04 [0.93-1.15],0.4921206820040227
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Other pleural conditions,19817,68,0.93 [0.66-1.32],0.6995208492762476
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,22542,573,1.02 [0.90-1.14],0.7987563119772647
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,22535,1680,1.10 [1.03-1.18],0.0074028680700526
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Pleural effusion,21087,1338,1.12 [1.04-1.21],0.0036048440384107
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Pleural plaque,19995,246,1.01 [0.84-1.22],0.8834036617322611
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",22124,2242,1.13 [1.06-1.19],7.342445391527239e-05
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,22538,377,1.13 [0.97-1.30],0.1062618982870006
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Pneumothorax,19912,163,0.83 [0.66-1.05],0.1206763730462241
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Pollen allergy,22648,197,1.08 [0.89-1.32],0.4396650206992513
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Pulmonary oedema,22060,91,1.03 [0.76-1.38],0.8620532922284816
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Respiratory insufficiency,13940,69,1.26 [0.91-1.75],0.1576033411988737
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,22356,1240,1.12 [1.03-1.21],0.0063031251151532
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,21614,234,0.97 [0.81-1.17],0.7810633199839117
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Viral pneumonia,20175,293,1.10 [0.94-1.30],0.2312232441020388
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",22164,236,1.06 [0.88-1.27],0.5405205959395312
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,7224,115,1.18 [0.91-1.53],0.2167083671600061
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,14349,61,1.53 [1.09-2.15],0.0136373492870498
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Acute appendicitis,22546,126,1.13 [0.89-1.45],0.3185018510086175
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Acute gastritis,15765,106,1.16 [0.88-1.52],0.2938012711987895
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Acute pancreatitis,20665,188,1.08 [0.88-1.32],0.4795427482701313
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Acute peritonitis,22179,108,1.46 [1.14-1.88],0.0032722691628321
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Alcoholic liver disease,21710,62,2.18 [1.60-2.99],1.1179561887992563e-06
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Barrett oesophagus,16153,494,1.11 [0.98-1.26],0.0947581903303768
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",20619,142,1.12 [0.89-1.42],0.3380733451947389
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",22249,142,1.12 [0.88-1.42],0.3464332717453109
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Cholecystitis,20689,212,0.93 [0.76-1.14],0.4756471223973069
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Cholelithiasis,21495,1018,1.09 [1.00-1.19],0.0539938523711644
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Chronic gastritis,15999,340,1.06 [0.91-1.23],0.4758181278018545
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Chronic pancreatitis,20530,53,1.02 [0.69-1.51],0.9146537023727536
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",22526,119,1.69 [1.33-2.14],1.4726816503099732e-05
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Coeliac disease,20954,123,1.18 [0.92-1.51],0.1912187987618171
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Collagenous colitis,20952,102,0.91 [0.69-1.21],0.5321968886696195
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,22543,154,1.06 [0.84-1.33],0.6160252270697552
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Constipation,22382,2089,1.00 [0.94-1.06],0.8853897827438924
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Crohn disease,20936,86,1.08 [0.79-1.46],0.632020595100254
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",22316,65,0.95 [0.67-1.36],0.7877146913855433
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Crohn's disease NAS,20929,79,1.25 [0.92-1.70],0.1562725898163216
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Dental caries,22067,187,1.13 [0.92-1.39],0.2328209982878016
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,19592,2510,1.08 [1.02-1.15],0.0050290812739729
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Diseases of appendix,22576,156,1.03 [0.82-1.29],0.783327937899508
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Diseases of liver,22540,892,1.30 [1.19-1.43],1.2542403858557569e-08
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",20149,4490,1.07 [1.02-1.11],0.0020099367582586
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",22340,460,1.09 [0.96-1.24],0.1837240735463378
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Diseases of peritoneum,22570,499,1.08 [0.95-1.22],0.2385615202331603
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,21972,92,1.11 [0.83-1.48],0.4811155793068145
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Diseases of salivary glands,21846,59,0.94 [0.65-1.37],0.7461222833725347
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Diseases of the digestive system,22334,1503,1.05 [0.98-1.13],0.200039184613766
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Diseases of tongue,21862,92,1.01 [0.75-1.36],0.9475668208645338
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",21952,1475,1.08 [1.01-1.17],0.0314568309496546
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,17984,3696,1.05 [1.00-1.10],0.0304683965793311
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Duodenal ulcer,15903,244,1.11 [0.93-1.33],0.2519958277403442
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",22565,198,1.10 [0.90-1.34],0.3668344835615941
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,22623,26,1.37 [0.81-2.32],0.2398605526012122
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,21788,140,1.63 [1.31-2.04],1.293570084705294e-05
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,14395,107,1.15 [0.88-1.51],0.2994023180147291
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Functional dyspepsia,16211,552,1.04 [0.93-1.18],0.4730054271138351
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Gastric ulcer,16081,422,1.28 [1.12-1.46],0.000249904776118
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,18261,2602,1.05 [0.99-1.11],0.1077808562067133
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,16302,643,1.19 [1.06-1.32],0.0021645893531717
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,16356,8043,1.06 [1.03-1.09],0.0004330604898837
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,GI-bleeding,22084,1253,1.06 [0.98-1.15],0.1632454323234217
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,21925,45,0.77 [0.50-1.21],0.2592655204847232
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,15264,1165,1.00 [0.92-1.08],0.9384181779924032
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",21714,66,1.42 [1.02-1.98],0.0355204576446261
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Hernia,20649,3567,1.05 [1.00-1.10],0.0670366865801878
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Impacted teeth,22627,24,1.57 [0.93-2.67],0.0933718665418735
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Impaction of intestines,14365,77,1.05 [0.76-1.45],0.784880917572296
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Inguinal hernia,18156,1074,0.96 [0.88-1.05],0.4093432881234022
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",17203,121,0.88 [0.67-1.15],0.3447029755052437
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,14403,115,1.16 [0.90-1.51],0.2534243338356635
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Intestinal malabsorption,20970,139,1.06 [0.84-1.35],0.626165827631223
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,14789,501,1.06 [0.94-1.20],0.3417293229053373
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,22626,329,1.56 [1.35-1.80],1.627527976072394e-09
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,21623,773,1.22 [1.10-1.34],0.0001115203467408
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,21919,1069,1.13 [1.03-1.23],0.0062733244876197
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Oesophageal obstruction,15871,212,1.00 [0.83-1.22],0.9688599147440096
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Oesophagitis,16341,682,1.11 [0.99-1.23],0.064172272810957
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,22605,133,1.03 [0.81-1.32],0.7858086277509473
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,17169,87,1.06 [0.78-1.44],0.7019957514788031
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,15645,1357,1.10 [1.02-1.19],0.0112162613390032
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,20831,354,1.03 [0.89-1.20],0.6714638461240688
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,20619,142,0.96 [0.75-1.22],0.7299878926563813
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Other diseases of intestine,16178,1890,1.06 [0.99-1.13],0.0704435693508691
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Other diseases of intestines,20385,6097,1.04 [1.00-1.08],0.035442953296922
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,21826,208,1.09 [0.90-1.32],0.3871047157145324
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Other diseases of liver,22384,736,1.28 [1.16-1.42],1.043930772641295e-06
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,16407,748,1.10 [0.99-1.22],0.0742228232263503
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Other diseases of pancreas,20688,211,0.97 [0.80-1.18],0.7750129083955527
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,22494,423,1.01 [0.88-1.16],0.8380948392587935
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,16732,1073,1.12 [1.03-1.22],0.0070706744694447
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,22100,1269,1.06 [0.98-1.15],0.1537841007785606
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,22051,171,1.15 [0.93-1.43],0.1854998428689704
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,16423,2135,1.01 [0.95-1.07],0.7870159389266352
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),17788,2129,1.08 [1.02-1.15],0.0102975784438636
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,21758,110,1.32 [1.02-1.71],0.0341578010403745
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,21796,946,1.14 [1.04-1.25],0.0042684996486123
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",14725,437,1.04 [0.91-1.19],0.5817988319509724
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,22619,29,1.41 [0.86-2.31],0.1708199584505576
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,14896,608,1.05 [0.93-1.17],0.4404160106874405
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",20982,151,1.03 [0.81-1.29],0.8258403245536425
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Recurring oral aphthae,22647,52,0.85 [0.57-1.27],0.4284439530828814
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,21872,99,1.04 [0.79-1.39],0.7610306503278181
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Toxic colitis,20926,76,0.94 [0.68-1.31],0.7166461506620456
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,15991,332,1.26 [1.08-1.46],0.0028799157791342
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Ulcerative colitis,21013,163,0.99 [0.79-1.24],0.919648569811604
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",20979,129,0.97 [0.75-1.24],0.7938370891559214
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Umbilical hernia,17329,247,0.94 [0.78-1.13],0.5143683683344884
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,14529,241,1.04 [0.87-1.25],0.6568895341346012
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Ventral hernia,17359,277,1.05 [0.89-1.25],0.5682001051448444
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XI Diseases of the digestive system,Volvulus,14383,95,0.82 [0.60-1.11],0.1952117507568325
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,22555,417,1.05 [0.91-1.20],0.5303201341440726
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,22306,63,1.44 [1.03-2.02],0.0312100948066927
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,20147,162,1.04 [0.83-1.29],0.7484006737430137
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,22035,804,1.13 [1.02-1.24],0.0183874749876052
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",21372,141,1.14 [0.90-1.44],0.2888431152729964
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,20603,618,1.05 [0.94-1.18],0.3688141940303721
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,22322,312,1.19 [1.02-1.39],0.0280133339676523
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,22559,549,1.12 [0.99-1.26],0.0697628656540081
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,22057,47,0.93 [0.61-1.42],0.7328706130968974
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,21083,3657,1.06 [1.01-1.11],0.0188361908476331
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,22231,427,1.13 [0.99-1.30],0.0679182553840997
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,22104,300,1.15 [0.98-1.35],0.0924608635959398
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,22277,1046,1.11 [1.01-1.21],0.0220262361730897
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",22640,59,0.86 [0.59-1.25],0.4185833397138031
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,20041,56,1.06 [0.73-1.55],0.7433594875250473
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,21863,59,1.10 [0.76-1.58],0.6144827232531116
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,22309,299,1.18 [1.01-1.39],0.0413963233750559
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,20579,594,0.99 [0.88-1.12],0.9117527910405976
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,20075,90,1.02 [0.75-1.37],0.9065310293873904
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,22571,96,1.07 [0.81-1.43],0.6249668035192752
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,21463,232,1.17 [0.98-1.40],0.0890327935690737
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,22461,218,1.11 [0.92-1.35],0.2630208878909285
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,22103,93,1.21 [0.91-1.61],0.1964164002899047
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,20062,77,1.00 [0.73-1.39],0.9766404874882204
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,22054,2069,1.05 [0.99-1.12],0.1295442067426542
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",20619,634,0.98 [0.88-1.10],0.7440943863989254
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,20078,93,1.05 [0.78-1.41],0.7335518748007208
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,22572,329,1.08 [0.92-1.26],0.3506577383906084
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,22082,72,0.99 [0.71-1.39],0.960887512495195
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,22512,269,1.14 [0.96-1.35],0.1363388237842766
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,22587,449,1.03 [0.90-1.17],0.7083519102441456
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,20105,120,1.03 [0.80-1.34],0.7990968435311179
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,20318,333,0.90 [0.77-1.06],0.2127033946150674
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,22575,437,1.03 [0.90-1.18],0.6546083666414513
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",20313,328,1.25 [1.08-1.46],0.0036502069888188
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,22630,155,1.05 [0.84-1.32],0.6760678456005403
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,18860,77,0.94 [0.68-1.31],0.715159729183799
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,19975,6310,1.06 [1.03-1.10],0.0007415758205962
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,18586,4921,1.06 [1.02-1.10],0.0050240656959308
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,18832,49,0.85 [0.55-1.29],0.4347632186715771
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,18789,144,0.99 [0.78-1.25],0.9044887675856544
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,18834,189,1.00 [0.82-1.23],0.9806311885042114
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,22400,65,0.99 [0.70-1.41],0.9567485209012648
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",18792,147,1.03 [0.81-1.30],0.8139384632661182
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,15127,1462,1.07 [1.00-1.15],0.0634663669298708
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",22452,244,1.00 [0.83-1.20],0.9959162596806432
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,19222,577,1.03 [0.92-1.16],0.5920946589788849
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,18337,7873,1.06 [1.03-1.09],0.0004099112389328
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,20160,116,0.86 [0.65-1.12],0.2615295325221486
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,18965,182,1.15 [0.93-1.41],0.1891935680366075
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,19280,497,1.05 [0.92-1.19],0.4867904793231409
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,21737,3092,1.04 [0.99-1.09],0.1642360365472874
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,19089,306,0.95 [0.81-1.13],0.5763837174569992
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,18929,146,1.14 [0.91-1.44],0.2469430240038381
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,18894,111,1.02 [0.78-1.34],0.8692344992614804
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,21930,95,0.88 [0.66-1.19],0.4146782878151197
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,15627,1962,1.06 [1.00-1.13],0.0597361856244829
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,14438,773,1.31 [1.19-1.44],5.61380772534373e-08
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",22567,767,1.30 [1.17-1.43],2.3266787044517601e-07
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,13740,75,1.25 [0.92-1.71],0.1598818409253051
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),13966,301,1.06 [0.90-1.24],0.4925361714424708
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,19046,263,1.07 [0.90-1.27],0.4552574831844905
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,14137,472,1.07 [0.94-1.21],0.3405348690634909
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,18725,80,1.27 [0.94-1.72],0.1144525015288637
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,19319,674,1.08 [0.97-1.20],0.1654705850646116
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,18956,311,1.08 [0.92-1.27],0.3386216780370172
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,14107,442,1.06 [0.92-1.21],0.4307420940250841
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,18854,71,1.27 [0.92-1.76],0.1475919711383405
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",18843,60,1.22 [0.85-1.73],0.2767310150321995
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,20126,82,1.12 [0.82-1.53],0.469746432810649
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,22233,2189,1.00 [0.94-1.06],0.9135520559543748
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,21583,1539,0.99 [0.92-1.06],0.7152904446599486
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",22487,533,1.26 [1.12-1.42],0.0001102128945297
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,16730,3065,1.08 [1.03-1.14],0.0034034571786942
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,13707,42,0.96 [0.62-1.49],0.8558079345110554
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,18885,102,1.19 [0.91-1.57],0.2096843026732712
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,13734,69,1.09 [0.78-1.54],0.6014183953566994
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),13800,135,1.23 [0.97-1.56],0.083618579851723
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,20285,241,1.02 [0.85-1.23],0.8300236242039454
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,20547,503,1.02 [0.90-1.16],0.7015302063853268
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,22635,111,1.11 [0.85-1.45],0.4421194760940571
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",20597,1952,1.03 [0.97-1.10],0.3474841898488405
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,18859,76,1.48 [1.09-1.99],0.0107519499158191
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),13816,151,1.08 [0.86-1.36],0.5008887040815162
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,19423,778,1.05 [0.95-1.16],0.3803723400931659
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,15806,2141,1.08 [1.02-1.15],0.0112813200938634
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,21955,120,0.94 [0.73-1.23],0.6639609863562471
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,22647,60,1.45 [1.03-2.05],0.0319722771058761
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,18860,77,1.06 [0.76-1.46],0.7385618827513367
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",20115,1332,1.16 [1.07-1.25],0.0001312535742114
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,18890,107,1.12 [0.86-1.47],0.4072819773152307
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,15705,2040,1.06 [1.00-1.13],0.0654360722622694
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,20163,119,1.02 [0.78-1.32],0.8913589909250366
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,18819,36,0.82 [0.50-1.33],0.4162566294816098
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,18832,187,0.90 [0.73-1.12],0.3548686420551974
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,19460,677,1.17 [1.05-1.30],0.0043576449206689
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,22313,478,1.14 [1.01-1.30],0.0372944009118452
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,19299,654,1.02 [0.91-1.14],0.7420524943443032
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,22502,528,1.25 [1.11-1.41],0.000243419760355
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,22632,69,1.44 [1.05-1.98],0.023678288914797
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,18949,166,0.91 [0.73-1.14],0.4035875772770233
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,17623,871,1.11 [1.01-1.22],0.0356498114552878
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,19417,634,1.15 [1.03-1.29],0.0115908903072861
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],19059,276,0.97 [0.82-1.16],0.7552999116156617
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",13734,69,1.26 [0.91-1.75],0.1717280074679172
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,16731,3066,1.13 [1.07-1.18],3.4722676802793543e-06
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,14490,825,1.11 [1.00-1.22],0.0394805925008788
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,22205,370,1.11 [0.96-1.28],0.154702028226207
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",22604,80,1.09 [0.79-1.49],0.6008805104977086
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",20059,70,1.20 [0.86-1.67],0.2807915929561864
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,13726,61,1.47 [1.05-2.07],0.0258605422103056
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,18754,109,1.09 [0.83-1.42],0.5402670874314526
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,14205,540,1.29 [1.14-1.45],2.46607303035068e-05
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,19112,329,1.17 [1.00-1.36],0.0437492673833078
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,18925,280,1.21 [1.03-1.43],0.0210843696657294
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,18909,264,1.03 [0.87-1.22],0.7423445879722013
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,15927,67,1.40 [1.01-1.93],0.0413739534406939
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",22637,74,1.36 [1.00-1.85],0.0519661436813692
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,19325,542,1.11 [0.98-1.25],0.1003259051097507
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],21924,89,1.28 [0.97-1.71],0.0859000971337418
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,21384,2601,1.10 [1.04-1.17],0.0004126248926206
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",18932,149,1.09 [0.87-1.37],0.4661097609395842
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,19352,707,1.08 [0.97-1.20],0.1368734249829857
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,21326,263,0.88 [0.74-1.06],0.1759215910555753
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,18895,250,0.98 [0.82-1.18],0.8470848905056654
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,20618,1973,1.04 [0.98-1.11],0.1812246798160063
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,19936,1291,1.06 [0.98-1.15],0.135428101204297
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],18842,59,1.09 [0.76-1.58],0.6404831348388602
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,21949,114,1.16 [0.89-1.49],0.2685901027213725
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,18943,160,1.24 [1.00-1.54],0.0543543579435569
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,18875,92,0.98 [0.73-1.32],0.9055858949416362
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),13741,76,1.22 [0.89-1.67],0.2179057851916083
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Acute renal failure,21186,2212,1.21 [1.14-1.28],2.0063639954650248e-10
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),9058,24,1.76 [1.05-2.94],0.0309181029152928
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,11499,34,1.19 [0.74-1.90],0.4734030502394396
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,22334,295,1.10 [0.94-1.30],0.2430560495051613
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,22138,99,1.00 [0.75-1.34],0.9833750342436252
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,21251,2277,1.19 [1.12-1.26],8.887109232249721e-09
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,22430,130,1.57 [1.25-1.98],0.0001318703453053
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,22353,398,0.97 [0.84-1.12],0.6376098104456314
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Cystitis,18893,297,1.02 [0.86-1.20],0.822126512244597
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Dialysis,19068,94,1.78 [1.37-2.33],1.975033768016881e-05
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,9987,2089,0.99 [0.93-1.06],0.7866932697338902
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Disorders of breast,11599,134,1.24 [0.98-1.57],0.0677890941464674
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Endometriosis,9071,37,1.44 [0.93-2.22],0.1000052804414089
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,9609,575,1.01 [0.90-1.14],0.8605439981460129
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,18656,6150,1.06 [1.02-1.10],0.0009876665181902
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,22396,96,1.46 [1.11-1.91],0.006608615360386
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Hydrocele,8010,112,0.89 [0.67-1.17],0.4037435196755452
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,19039,340,1.06 [0.91-1.24],0.4396173317335761
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,9676,1778,0.97 [0.91-1.04],0.4603245197521373
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,11665,156,0.99 [0.79-1.24],0.9250270548105448
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),8023,125,0.87 [0.66-1.13],0.2910603486326615
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,18682,86,1.09 [0.80-1.47],0.5822538359315248
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,10051,1017,0.99 [0.91-1.09],0.8900842364956997
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,7959,61,0.78 [0.53-1.15],0.2134123935381342
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,9072,38,0.96 [0.60-1.52],0.8561720763836081
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",22645,86,0.99 [0.73-1.35],0.9572177010016591
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",22647,80,0.72 [0.51-1.00],0.0529048804635859
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,21488,2892,1.03 [0.97-1.08],0.3160978248580264
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,19510,914,1.00 [0.91-1.10],0.9519809744579496
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,11516,51,1.26 [0.86-1.83],0.2380946045876342
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,22574,619,1.04 [0.93-1.17],0.4626716743833913
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,8048,150,1.05 [0.83-1.33],0.6742646764151343
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,8057,159,1.02 [0.81-1.28],0.8511397377180048
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,8043,145,0.88 [0.68-1.12],0.2889790143531424
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,22618,84,0.88 [0.64-1.21],0.4482734753076349
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,20899,2303,1.05 [0.99-1.11],0.102451347287859
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,11589,80,0.95 [0.69-1.30],0.7413124151363342
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,9103,69,1.33 [0.97-1.84],0.0777575108108786
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",9174,140,1.00 [0.79-1.27],0.9908327809512671
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,9083,49,0.87 [0.58-1.31],0.5118070488672652
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,9133,99,0.84 [0.63-1.13],0.2606260365219727
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,19101,402,1.06 [0.92-1.22],0.4117041698922427
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,22154,199,1.12 [0.92-1.36],0.2666873754066895
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,9157,123,1.01 [0.79-1.31],0.9126771661729188
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,9059,25,0.80 [0.45-1.44],0.4663488134137503
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,9242,208,1.00 [0.82-1.21],0.9847050911791084
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,9124,90,1.18 [0.88-1.57],0.2628347712092451
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,9236,202,0.99 [0.81-1.21],0.9133063506277238
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,22348,48,1.07 [0.71-1.62],0.7427155469976237
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",8051,153,1.00 [0.80-1.27],0.9714640546466436
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,22371,3672,1.16 [1.11-1.22],2.1957645043897528e-10
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",18790,91,1.17 [0.88-1.56],0.2892614036525814
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,19151,177,1.22 [0.99-1.50],0.0664112469344921
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,22074,35,0.94 [0.57-1.53],0.7959530038257179
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Urethral stricture,18857,261,1.04 [0.87-1.24],0.63578203264957
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Urolithiasis,22415,376,1.08 [0.94-1.25],0.2754139144399296
+GFER,FAD-linked sulfhydryl oxidase ALR,Chapter XIV Diseases of the genitourinary system,Uterine polyps,9069,35,0.84 [0.51-1.37],0.4792210890655711

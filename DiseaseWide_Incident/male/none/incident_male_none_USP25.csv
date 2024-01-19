@@ -1,0 +1,632 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",19522,140,1.12 [0.90-1.40],0.3211803594164168
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",20373,155,1.17 [0.95-1.45],0.1421508700781929
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",20155,1162,1.08 [1.00-1.17],0.0617731108637926
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Candidiasis,20382,313,1.08 [0.93-1.25],0.338036176636173
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,19779,2888,1.08 [1.03-1.14],0.0017052280080393
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),19762,2919,1.04 [0.99-1.09],0.1209675065350509
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,20202,879,1.09 [1.00-1.19],0.0590956305451202
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,20324,68,0.92 [0.66-1.28],0.607148968232093
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,18495,915,1.08 [0.99-1.18],0.0770227683583472
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,17823,996,1.08 [0.99-1.18],0.0676209935126667
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,17645,208,1.09 [0.90-1.31],0.366719793063199
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,14343,1899,1.03 [0.97-1.10],0.2823940334520759
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,17588,333,1.19 [1.03-1.38],0.017684499394783
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,20374,1051,1.10 [1.01-1.19],0.0213964381918308
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Mycoses,20458,389,1.07 [0.94-1.23],0.3047110461259251
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,19727,734,1.10 [0.99-1.21],0.0695528094894833
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,20394,1012,1.07 [0.98-1.16],0.1405576921240964
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,19480,157,1.16 [0.94-1.43],0.1805379662878792
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,20492,43,1.07 [0.72-1.61],0.729618491594571
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Other septicaemia,20261,879,1.06 [0.97-1.16],0.2091367924440208
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,20310,54,1.37 [0.97-1.94],0.0770568017285823
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Other viral diseases,20431,96,1.26 [0.97-1.64],0.0881369953927712
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",20416,81,1.32 [0.99-1.75],0.058080672535124
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,19391,398,1.14 [1.00-1.30],0.0520795664966601
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,19229,236,1.02 [0.86-1.22],0.7897904517572935
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,19393,70,1.13 [0.83-1.55],0.4385711637101974
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,20473,59,0.81 [0.57-1.16],0.2544584150443653
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,20443,126,1.06 [0.83-1.35],0.6352891077195975
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Viral warts,20364,47,1.14 [0.77-1.68],0.5110903649794952
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],20362,45,1.08 [0.72-1.61],0.7216990057451045
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,Benign lipomatous neoplasm,20227,302,0.98 [0.84-1.15],0.8367264538324686
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,20433,43,1.09 [0.73-1.63],0.6631443640222959
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,20397,49,1.14 [0.79-1.66],0.4864726234323452
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,20455,109,0.93 [0.72-1.21],0.5978281602394937
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",20166,1407,1.00 [0.94-1.08],0.8981823094119425
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,Benign neoplasm of meninges,20491,27,1.23 [0.74-2.02],0.4221391407703753
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,20438,60,0.90 [0.64-1.28],0.5655030906618781
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,20478,66,1.13 [0.82-1.57],0.4446351638004236
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,Benign neoplasm: Ascending colon,20469,392,0.99 [0.86-1.13],0.8810937002721009
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,Benign neoplasm: Caecum,20471,293,1.11 [0.95-1.29],0.2043022323542104
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",20379,65,1.20 [0.86-1.65],0.2810828931998798
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,Benign neoplasm: Descending colon,20465,246,1.04 [0.88-1.24],0.6197115776008084
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,Benign neoplasm: Rectum,20426,365,0.94 [0.82-1.09],0.420684064557414
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,20383,632,1.01 [0.91-1.13],0.8132580866527737
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,Benign neoplasm: Transverse colon,20455,475,1.04 [0.92-1.17],0.5564891339090962
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",15951,63,1.48 [1.07-2.06],0.0177037037358031
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",15950,62,0.73 [0.52-1.04],0.0800135190999281
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",20462,80,0.94 [0.70-1.27],0.6852214823341729
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,"Haemangioma, any site",20462,77,0.97 [0.71-1.31],0.8249100797057811
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,Lung cancer and mesothelioma,13663,309,1.11 [0.95-1.29],0.1749972517198592
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,Lymphoid leukaemia,15945,57,1.70 [1.21-2.38],0.0021294974688967
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",16057,169,1.11 [0.90-1.36],0.3362189591227208
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",16130,242,1.04 [0.87-1.23],0.6828859857358931
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",15968,80,0.81 [0.59-1.10],0.1709004832661446
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",16004,116,1.10 [0.86-1.41],0.4473412626585554
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",16015,127,1.05 [0.83-1.33],0.6972173393772991
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",15958,70,0.89 [0.64-1.23],0.4680833107362268
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",17072,1184,0.96 [0.88-1.03],0.2675249699353469
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",16017,129,0.87 [0.69-1.11],0.2696612922808457
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",15983,95,1.27 [0.97-1.66],0.0886551388362542
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,15996,108,1.24 [0.96-1.60],0.09573325941179
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,Melanocytic naevi,20390,147,0.92 [0.73-1.15],0.4435246077664245
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,Melanocytic naevi of trunk,20466,84,1.08 [0.81-1.44],0.6021893088274131
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,Melanoma in situ,15917,63,1.36 [0.98-1.90],0.0673356498230324
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",15976,88,0.84 [0.63-1.12],0.2343752196203769
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",16032,144,0.97 [0.77-1.21],0.7831770129194572
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",16087,199,1.09 [0.90-1.31],0.4003568798694731
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",15978,90,0.91 [0.68-1.21],0.4993358257388203
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,Other benign neoplasms of skin,20380,125,1.03 [0.81-1.31],0.7874807050078082
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",16910,1022,0.95 [0.88-1.04],0.2726264724263812
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",16972,1084,0.97 [0.89-1.05],0.4553091683632971
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,20259,254,1.10 [0.93-1.30],0.2610777233013193
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,19040,69,0.99 [0.72-1.37],0.972532429492848
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,20062,57,1.09 [0.77-1.55],0.6147140533898432
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,20047,2318,1.04 [0.98-1.10],0.1926539175194375
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,19444,53,1.46 [1.02-2.08],0.0387921284034497
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,20137,42,0.71 [0.46-1.09],0.1189158231680811
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,20196,1225,1.04 [0.96-1.12],0.3607152150126138
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,20194,1223,1.03 [0.96-1.12],0.3940885946161488
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,19052,81,0.89 [0.65-1.20],0.4337056843155413
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,20303,912,1.13 [1.03-1.23],0.0078246821702857
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,20189,94,1.18 [0.90-1.54],0.2430260427749099
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,20067,62,1.05 [0.75-1.47],0.7812022207820103
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,20061,56,1.27 [0.89-1.81],0.1808299140354133
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,20351,256,0.70 [0.59-0.83],5.032165765452491e-05
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,20410,39,0.94 [0.62-1.44],0.7831271057518354
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",20303,208,0.64 [0.53-0.78],7.477793709395744e-06
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,19452,61,0.75 [0.53-1.08],0.1238437348601675
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,15172,305,1.09 [0.94-1.27],0.2587849003370639
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,18733,134,1.29 [1.03-1.62],0.0271809603472236
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,18763,164,1.09 [0.88-1.33],0.4342980172154804
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,14918,51,1.31 [0.91-1.90],0.1504785495526015
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,19340,52,0.82 [0.56-1.19],0.2939781434622566
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,18682,186,0.84 [0.69-1.03],0.0907318907685706
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",20097,486,1.00 [0.88-1.13],0.9835715735420671
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,19811,200,0.86 [0.71-1.05],0.1369248619214159
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,19729,118,1.14 [0.89-1.46],0.2969906547483339
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,20239,951,1.14 [1.04-1.24],0.0030978097452029
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,17583,920,1.12 [1.03-1.22],0.0088071668886295
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",14929,62,0.79 [0.55-1.12],0.1835300570762045
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",19780,36,0.85 [0.54-1.34],0.4949489954035393
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,15089,222,1.17 [0.98-1.40],0.0858340146333737
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,14929,62,1.16 [0.83-1.62],0.3929180989379855
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,18169,3302,1.08 [1.03-1.13],0.0013394184626214
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,15023,156,1.02 [0.82-1.27],0.8565010673030257
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,15335,468,1.09 [0.96-1.23],0.1796241714200845
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,20443,227,1.07 [0.89-1.27],0.4716895064408249
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,20288,72,0.97 [0.71-1.34],0.8663244261849464
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,14995,128,1.26 [1.00-1.59],0.0526436446798009
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",14922,55,0.98 [0.68-1.42],0.929230931227076
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,20338,594,1.05 [0.95-1.18],0.3416170823940788
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,15122,255,1.21 [1.03-1.43],0.0231039260272617
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,15162,295,0.95 [0.81-1.11],0.5241535125574401
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",15480,613,1.09 [0.98-1.22],0.1049428424823371
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,14981,114,0.90 [0.70-1.16],0.4207855529175651
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,20283,67,1.00 [0.72-1.39],0.9968557277079458
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,15359,492,1.17 [1.04-1.32],0.0104217116032459
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,15211,344,1.10 [0.96-1.27],0.1817696034236139
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,18545,49,0.99 [0.68-1.45],0.9612831245917748
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,19301,4434,1.06 [1.02-1.10],0.0048443174919324
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,19755,11,1.17 [0.53-2.60],0.6916704187823706
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,19765,21,0.92 [0.51-1.66],0.7927432955841428
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,20351,1516,0.95 [0.89-1.02],0.1544933915727758
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",20347,1511,0.95 [0.89-1.02],0.1665010952291674
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,19756,12,2.43 [1.24-4.74],0.0093454994419387
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,20262,688,1.04 [0.94-1.15],0.4203351420631369
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",16229,1362,1.10 [1.02-1.18],0.0127297266842696
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,20483,203,0.90 [0.75-1.10],0.3047952327615464
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,19698,87,0.87 [0.65-1.17],0.3573257317128776
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,19638,64,1.10 [0.79-1.53],0.5822936830546556
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,19647,73,1.21 [0.89-1.65],0.2292506308139928
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",14926,59,1.13 [0.79-1.60],0.5059821084680689
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,18108,144,1.06 [0.86-1.32],0.5727430484778787
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,2161,104,1.13 [0.87-1.48],0.3673613646058085
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,2297,268,0.95 [0.80-1.12],0.5095769401120809
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,18044,80,1.13 [0.85-1.50],0.3979204120042295
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,2117,60,1.03 [0.72-1.47],0.8719862384782793
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,19841,1877,1.09 [1.02-1.16],0.006116903425974
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,19889,278,0.78 [0.66-0.93],0.0041350326686891
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,18699,203,1.02 [0.85-1.23],0.8224757473408464
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,15512,645,1.11 [0.99-1.23],0.0632336001465239
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",20386,209,0.89 [0.74-1.08],0.2342513663075902
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),19463,232,0.84 [0.70-1.00],0.0521259738456117
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Angina pectoris,18023,1268,0.99 [0.92-1.07],0.797077339008464
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Aortic aneurysm,19560,329,0.89 [0.76-1.03],0.1201402853195349
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,19301,70,1.16 [0.85-1.59],0.3513680097038847
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",19426,195,1.20 [1.00-1.45],0.0518128753366726
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,12001,1954,0.93 [0.88-0.99],0.0246797368697503
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,AV-block,16531,514,0.94 [0.84-1.07],0.3547219823961097
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",20433,440,1.02 [0.90-1.16],0.7503677623906595
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Cardiac arrest,10261,214,1.12 [0.93-1.34],0.2367061997329381
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Cardiomyopathy,16194,177,0.93 [0.76-1.14],0.469522044069418
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",16111,94,0.83 [0.63-1.10],0.1964261648029814
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,20492,49,0.84 [0.56-1.25],0.3802812861924357
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Conduction disorders,17157,1140,0.97 [0.89-1.05],0.4421796281843807
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,18979,2245,1.03 [0.98-1.09],0.2489713673413984
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,17348,6719,1.02 [0.99-1.05],0.2449785753931256
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,DVT of lower extremities,19439,230,0.87 [0.73-1.04],0.1221991992857218
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Endocarditis,16088,71,0.83 [0.60-1.15],0.2527751548455103
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,"Heart failure, strict",20222,1128,1.05 [0.97-1.14],0.240770132644637
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Hypertension,18366,5838,1.04 [1.01-1.08],0.0205598553055619
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,"Hypertension, essential",18371,5843,1.04 [1.01-1.08],0.0219555950150106
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,"Hypertension, portal",20292,99,0.72 [0.54-0.95],0.0200772603049085
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",12700,172,1.25 [1.02-1.52],0.0329015962947168
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,12632,104,1.18 [0.91-1.54],0.2008892533090838
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Hypotension,20365,1013,1.12 [1.03-1.22],0.0089490829925538
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,19592,99,0.75 [0.57-0.98],0.0353615890822779
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",19103,2348,1.02 [0.96-1.08],0.5170309725610529
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",20141,559,1.09 [0.97-1.22],0.1392754628241121
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Left bundle-branch block,16364,347,1.09 [0.94-1.26],0.2451062711690035
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,19896,912,1.04 [0.95-1.14],0.3544653077238281
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",17545,790,1.08 [0.98-1.18],0.1212040554410063
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",20356,192,1.10 [0.91-1.33],0.3075138846113731
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",20448,320,1.04 [0.89-1.20],0.6391681069977933
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Oesophageal varices,19265,56,0.73 [0.51-1.06],0.0969687117600291
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Other aneurysm,19310,79,1.13 [0.84-1.52],0.4350337605696978
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Other arrhythmias,16428,411,1.01 [0.89-1.16],0.846382800312898
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,19345,114,1.10 [0.86-1.40],0.470327425320226
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,19465,234,1.03 [0.86-1.22],0.7694551406698023
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,16176,159,1.00 [0.81-1.24],0.9855829867954008
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Other disorders of veins,19286,77,1.07 [0.79-1.45],0.665867138033884
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,19252,43,0.97 [0.65-1.45],0.8714810134840862
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,19164,75,1.12 [0.82-1.52],0.482123839100062
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,19297,88,0.88 [0.66-1.18],0.406339055159202
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,17070,1053,1.03 [0.94-1.11],0.550453300398692
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,19407,55,0.87 [0.60-1.26],0.4624912391563345
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,19702,471,1.17 [1.03-1.32],0.0133635055027203
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,19945,318,1.26 [1.09-1.47],0.0020309970497989
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",19643,554,1.09 [0.98-1.23],0.1211314810757661
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,10362,315,0.89 [0.77-1.04],0.1470025056864681
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Peripheral artery disease,19621,432,1.15 [1.01-1.30],0.0340218934140206
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),19504,295,0.88 [0.75-1.03],0.1120622087235241
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Pulmonary embolism,20046,419,0.97 [0.85-1.11],0.6493826305514749
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,20438,594,1.05 [0.94-1.17],0.4035083081635453
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Right bundle-branch block,16417,400,0.94 [0.82-1.08],0.3831739337179325
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Secondary right heart disease,19944,317,1.25 [1.08-1.46],0.0028038439083156
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,19276,187,1.04 [0.86-1.27],0.6777308054532232
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",20127,634,1.05 [0.94-1.17],0.391652934826301
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",20116,659,1.05 [0.95-1.17],0.3165860265810311
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,19576,39,0.94 [0.61-1.44],0.7660259662557913
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,19328,98,0.81 [0.62-1.07],0.1392947179938954
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Transient ischemic attack,19783,201,1.11 [0.92-1.33],0.2962109027718164
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,19248,264,1.02 [0.87-1.21],0.7785790833688816
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Varicose veins,19536,327,0.99 [0.85-1.14],0.8443366449514866
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,19247,62,0.93 [0.66-1.32],0.6964899928709329
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter IX Diseases of the circulatory system,Venous thromboembolism,20285,653,0.92 [0.83-1.02],0.1230793206607642
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",20315,421,1.09 [0.96-1.23],0.206140134496546
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",17663,831,1.10 [1.00-1.20],0.0504176184875959
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter V Mental and behavioural disorders,Any mental disorder,19896,3064,1.04 [0.99-1.09],0.1156617475110354
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",20260,488,1.09 [0.97-1.23],0.1630101279688614
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",17817,985,1.12 [1.03-1.21],0.0100825736902882
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",16895,63,1.00 [0.71-1.39],0.9822561929062542
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter V Mental and behavioural disorders,Smoking dependency,19923,1316,1.05 [0.98-1.13],0.1738039438634729
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",18419,1587,1.05 [0.98-1.12],0.1584531886132324
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter V Mental and behavioural disorders,Vascular dementia,20102,125,0.86 [0.67-1.10],0.2281873668521096
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Alzheimer disease,20492,250,0.91 [0.76-1.08],0.2853367213295787
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",13728,49,0.97 [0.65-1.45],0.8861925265803874
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Bell's palsy,19313,67,1.02 [0.74-1.42],0.8815544310588149
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,19543,297,1.13 [0.97-1.32],0.1172182707987884
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Cerebral cysts,20149,197,1.04 [0.86-1.26],0.6570730346153384
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,20416,291,0.95 [0.81-1.11],0.5198941657551646
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,20082,56,1.20 [0.84-1.71],0.3226926317794005
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,20476,68,0.85 [0.61-1.18],0.3319149353438488
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",20027,75,1.16 [0.86-1.58],0.3315206297381792
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Epilepsy,19124,236,1.03 [0.86-1.22],0.7673017457881915
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,20041,1153,1.06 [0.98-1.14],0.1497387602889877
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,20459,405,0.92 [0.80-1.05],0.2183087311000929
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Falls/tendency to fall,20016,1818,1.00 [0.94-1.07],0.9828827554364704
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Generalized epilepsy,20168,50,1.07 [0.74-1.54],0.7349227073198289
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Hemiplegia,20351,226,0.98 [0.82-1.18],0.8656874272993647
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Hydrocephalus,20001,49,1.24 [0.86-1.81],0.2516913069287733
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,20476,54,1.35 [0.96-1.91],0.088869971453862
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,19266,20,0.63 [0.34-1.17],0.1435577880796469
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,19328,82,0.93 [0.69-1.25],0.6179784709453824
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Memory loss,19963,106,0.95 [0.73-1.23],0.696197170140398
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Migraine,19051,163,1.25 [1.02-1.53],0.031799543042339
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",20473,148,1.29 [1.04-1.59],0.0195248157159714
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Motor neuron disease,13832,140,1.14 [0.91-1.42],0.2652939511502344
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,20388,59,0.87 [0.61-1.22],0.4097349803614142
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",20074,828,1.08 [0.98-1.18],0.1216184778930777
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Neurological diseases,19350,3015,1.03 [0.98-1.08],0.2041624272768018
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,20212,186,0.97 [0.79-1.18],0.7315445990118576
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",19562,316,1.11 [0.96-1.29],0.16857402874714
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",20413,298,1.15 [0.99-1.34],0.0741671825441364
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,16187,518,0.97 [0.86-1.09],0.56857057648987
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,20016,64,0.95 [0.68-1.33],0.7509434046330312
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Other disorders of nervous system,20081,129,0.93 [0.73-1.17],0.5286554563939834
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,20166,112,0.91 [0.70-1.17],0.4537592619480797
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Other facial nerve disorders,19330,84,0.97 [0.72-1.29],0.8276707987461054
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Other headache syndromes,18922,34,0.79 [0.49-1.25],0.3120372728721676
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Other neurological diseases,20391,439,1.05 [0.93-1.20],0.4239245156751539
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Other sleep disorders,19487,599,1.05 [0.94-1.16],0.4057580274494509
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Parkinson's disease,20471,275,0.94 [0.80-1.11],0.4477389561982283
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,19975,23,0.75 [0.43-1.32],0.3221921466602323
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Restless leg syndrome,20491,37,0.99 [0.64-1.54],0.961474596539306
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Sleep apnoea,20240,541,1.05 [0.93-1.17],0.4363971887434843
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Small fibre neuropathy,20165,50,1.11 [0.76-1.62],0.591794059924336
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,20474,161,1.11 [0.90-1.37],0.3234718829154477
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,19274,28,0.99 [0.59-1.64],0.9579555373039936
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,20492,253,0.90 [0.76-1.07],0.2469936876581165
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),20075,121,0.85 [0.66-1.09],0.2068656216046609
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,20035,73,1.02 [0.75-1.40],0.8865292882036673
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,20198,249,1.02 [0.86-1.21],0.8298129849549747
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,20337,249,0.94 [0.79-1.11],0.4415109065943057
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,19740,39,0.79 [0.51-1.23],0.304877817920417
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,19756,55,1.40 [1.00-1.97],0.0514222739996668
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",20415,35,0.91 [0.57-1.44],0.6805290754896126
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,20300,103,1.21 [0.93-1.57],0.1627952837424401
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",2117,60,1.00 [0.70-1.42],0.978377032774852
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,2576,109,1.14 [0.88-1.48],0.3164976089994233
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,20043,81,1.55 [1.17-2.06],0.002193605819976
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,20296,847,1.05 [0.96-1.15],0.2868580415605417
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",20226,525,0.99 [0.88-1.12],0.9269605570900818
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,19818,117,1.03 [0.80-1.33],0.7935721383305772
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",20428,479,1.04 [0.92-1.17],0.5481336932475429
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,20490,55,1.32 [0.93-1.87],0.1269710719549334
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,20373,424,1.04 [0.91-1.18],0.5909967691139502
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",20459,262,1.09 [0.93-1.29],0.2956042986313635
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,20415,129,1.12 [0.89-1.41],0.346820263278802
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,19767,66,1.22 [0.87-1.70],0.2407708264108857
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,19774,73,0.92 [0.67-1.26],0.5952936329831566
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,19736,35,0.86 [0.54-1.38],0.5427259467817267
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,20411,581,1.07 [0.95-1.19],0.2621038583036919
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,19998,168,0.91 [0.74-1.13],0.4110225173992724
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,19973,24,0.74 [0.42-1.30],0.2887556038075541
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,20279,82,0.95 [0.70-1.27],0.7119857536921971
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,20381,184,1.14 [0.94-1.39],0.1864397434908914
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,20096,147,1.10 [0.88-1.37],0.3859802110651995
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,20354,68,1.17 [0.85-1.61],0.349589997331411
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,20210,380,1.19 [1.04-1.36],0.0131974685472153
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,20064,102,1.13 [0.87-1.47],0.3644775875445323
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,19341,1521,1.05 [0.98-1.13],0.1469082928386118
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,20358,161,1.13 [0.91-1.40],0.2576613676751857
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,20477,122,1.25 [0.99-1.59],0.0637619199966813
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,20063,362,0.95 [0.82-1.10],0.4974427955032812
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,20255,58,0.96 [0.67-1.36],0.8003110982798733
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,20480,45,1.39 [0.94-2.05],0.095821972565825
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,19762,61,0.83 [0.58-1.18],0.3030814825463725
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,19829,128,0.83 [0.65-1.06],0.1331186354237049
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,19554,105,1.02 [0.78-1.32],0.8919224267371938
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,19989,40,0.85 [0.55-1.31],0.4528248420153894
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",19505,56,0.92 [0.64-1.32],0.6550662552782058
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,19873,43,1.04 [0.69-1.57],0.862503798361129
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",19999,169,1.07 [0.87-1.31],0.531783194458281
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,19795,94,1.01 [0.76-1.33],0.9491235828350064
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,19555,106,1.25 [0.97-1.61],0.0895158479470725
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,19526,77,1.10 [0.81-1.49],0.5540112781809572
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,19046,1226,1.09 [1.01-1.18],0.0289169922516881
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,19749,48,0.95 [0.64-1.40],0.7821062952058845
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,20286,324,1.17 [1.01-1.35],0.0379082301104687
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,20022,60,1.05 [0.74-1.48],0.7765676877596946
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),20093,131,0.96 [0.76-1.21],0.7364804933049975
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,20332,53,1.03 [0.71-1.49],0.8709462846526158
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,20458,108,1.09 [0.84-1.41],0.5106764517192925
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,20374,100,1.24 [0.96-1.61],0.1055962189745271
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,20326,47,0.95 [0.65-1.41],0.8143518406742443
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,20326,47,1.08 [0.73-1.59],0.696804758503492
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,20406,793,1.05 [0.96-1.16],0.2711074825814501
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,20198,585,1.07 [0.95-1.19],0.2637583999869729
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,19727,114,0.81 [0.63-1.04],0.1044979178435412
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,19684,71,1.11 [0.81-1.52],0.5068280724875027
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Acute pharyngitis,20309,47,0.97 [0.66-1.42],0.865041063348766
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,20417,155,1.02 [0.83-1.27],0.8234221897692735
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,20312,50,0.83 [0.57-1.22],0.3379391692216982
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,All influenza,18574,85,1.12 [0.84-1.49],0.4567704586557372
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),18571,82,1.14 [0.85-1.52],0.3877409042424723
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Allergic asthma (mode),13446,92,1.32 [1.01-1.72],0.0412400450251955
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Allergic rhinitis,20401,238,1.00 [0.84-1.18],0.9724785027147884
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",14296,1240,1.09 [1.01-1.18],0.0206793967475938
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",14569,1215,1.09 [1.01-1.18],0.0202222528743561
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),20157,124,1.36 [1.08-1.73],0.0095306271087702
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",18567,78,1.40 [1.04-1.88],0.0252848867755126
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Bronchiectasis,17793,250,1.14 [0.96-1.34],0.1380849579560457
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",17579,36,1.53 [1.00-2.35],0.051104481493803
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,19751,2208,1.07 [1.01-1.14],0.0145589621578487
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",19225,68,0.99 [0.71-1.37],0.9369710995956771
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Chronic sinusitis,19293,136,1.14 [0.91-1.43],0.2524119236689107
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",20300,1122,1.05 [0.97-1.14],0.2308812245018036
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Deviated nasal septum,19282,125,0.92 [0.73-1.17],0.5011963665144403
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,18741,4499,1.04 [1.00-1.08],0.0406845378192818
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",19504,347,0.96 [0.84-1.11],0.619661936750372
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Early onset COPD,19457,279,1.03 [0.88-1.21],0.7024525651864086
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Emphysema,17856,313,1.12 [0.96-1.30],0.1354822972984292
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,19672,305,1.14 [0.98-1.33],0.1012057295553316
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Influenza and pneumonia,20277,1788,1.08 [1.01-1.15],0.017984505690061
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Interstitial lung disease,19694,327,1.21 [1.04-1.40],0.0127125909218748
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Later onset COPD,19536,843,1.05 [0.96-1.15],0.3184811474385975
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,20474,336,1.08 [0.93-1.25],0.2917598804713687
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Nasal polyp,19288,131,1.05 [0.84-1.33],0.6573246060672016
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,20253,828,1.13 [1.03-1.24],0.0099337055631895
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Other diseases of pleura,20246,1875,1.12 [1.06-1.19],0.0002102751732231
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,19924,767,0.99 [0.90-1.09],0.8954524319542774
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Other pleural conditions,18424,53,1.03 [0.71-1.49],0.8856568474476385
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,20396,400,1.18 [1.03-1.35],0.0146813572867196
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,20383,1189,1.16 [1.07-1.25],0.000248997717686
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Pleural effusion,19316,945,1.12 [1.03-1.22],0.0085235686065976
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Pleural plaque,18601,230,1.11 [0.93-1.32],0.253252217898246
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",20061,1572,1.08 [1.01-1.15],0.0286594971624807
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,20385,247,1.12 [0.94-1.32],0.2085946973723617
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Pneumothorax,18493,122,1.00 [0.79-1.28],0.987446372010274
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Pollen allergy,20477,205,1.05 [0.88-1.27],0.579322679738675
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Pulmonary oedema,20055,59,0.98 [0.69-1.40],0.9282510974088748
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Respiratory insufficiency,13404,50,1.54 [1.07-2.22],0.0204068455981287
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,20236,811,1.12 [1.02-1.23],0.0152329716209564
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,19396,239,1.00 [0.84-1.19],0.994932282560418
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Viral pneumonia,18718,229,1.03 [0.86-1.23],0.7522897133163485
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",20176,195,0.98 [0.81-1.19],0.84513556781265
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,8991,102,0.90 [0.69-1.18],0.4359651156012837
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,14352,74,1.14 [0.84-1.54],0.4106831731656382
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Acute appendicitis,20379,123,1.06 [0.84-1.35],0.621735192231061
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Acute gastritis,15519,73,1.06 [0.78-1.44],0.7086456452778167
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Acute pancreatitis,19337,180,0.95 [0.78-1.16],0.624625701838046
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Acute peritonitis,20175,79,1.03 [0.76-1.39],0.8588840523495253
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Alcoholic liver disease,19716,96,0.81 [0.62-1.07],0.1395177833772698
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Barrett oesophagus,15887,441,0.94 [0.83-1.07],0.3377275754465164
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",19260,103,0.91 [0.70-1.20],0.5083425204030443
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",20145,103,0.90 [0.69-1.18],0.4623354755169633
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Cholecystitis,19342,185,0.90 [0.74-1.09],0.2873863667696341
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Cholelithiasis,19842,685,1.07 [0.97-1.19],0.1666234964598376
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Chronic gastritis,15666,220,0.90 [0.75-1.08],0.251323149661471
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Chronic pancreatitis,19206,49,0.76 [0.51-1.12],0.1658019408502645
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",20314,121,0.77 [0.60-0.98],0.0371744988189168
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Coeliac disease,19085,75,1.28 [0.94-1.73],0.11131262794559
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Collagenous colitis,19261,42,1.13 [0.76-1.70],0.5416172741020467
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,20341,188,0.94 [0.77-1.14],0.5060078463668655
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Constipation,20350,1315,0.99 [0.92-1.07],0.7806429838469207
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Crohn disease,19297,78,1.09 [0.81-1.47],0.5703545407880011
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",20198,57,0.98 [0.69-1.40],0.9316635858908192
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Crohn's disease NAS,19284,65,1.32 [0.96-1.81],0.0901399409341003
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Dental caries,19938,190,1.15 [0.95-1.39],0.1394429799145405
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,17375,1657,1.00 [0.94-1.07],0.8870254530905112
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Diseases of appendix,20404,148,1.05 [0.84-1.30],0.6774252637361395
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Diseases of liver,20373,753,0.91 [0.83-1.00],0.0622561854890282
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",18775,3329,1.03 [0.98-1.08],0.2554625355908732
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",20176,428,1.07 [0.94-1.21],0.3275702988339988
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Diseases of peritoneum,20450,354,1.03 [0.90-1.19],0.6425455756709662
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,19839,91,1.15 [0.87-1.51],0.3282506279047119
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Diseases of salivary glands,19724,51,0.97 [0.67-1.40],0.8620676200299913
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Diseases of the digestive system,20220,1210,1.07 [0.99-1.15],0.1030481735064677
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Diseases of tongue,19736,97,1.14 [0.87-1.48],0.3459433882527607
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",20193,1036,1.02 [0.94-1.11],0.6697160924659531
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,16903,2625,1.01 [0.96-1.07],0.6553880868074495
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Duodenal ulcer,15666,220,0.97 [0.81-1.16],0.7122867473500069
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",20386,169,1.01 [0.82-1.24],0.9180661374263944
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,20431,35,1.28 [0.83-1.97],0.2665999176436073
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,19760,140,0.81 [0.64-1.02],0.0716363551857736
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,14430,152,0.94 [0.76-1.17],0.5974703024392105
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Functional dyspepsia,15803,357,1.01 [0.88-1.16],0.8704387250392169
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Gastric ulcer,15758,312,1.09 [0.94-1.27],0.2444545333656831
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,17286,1840,1.05 [0.99-1.12],0.1102600093026749
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,15944,498,1.05 [0.94-1.19],0.3889347321322225
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,15679,6839,1.02 [0.98-1.05],0.3374241231725003
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,GI-bleeding,20016,1006,1.02 [0.94-1.11],0.6314258999043787
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,19793,45,0.90 [0.61-1.35],0.6223248257656393
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,15082,1041,0.95 [0.88-1.04],0.2677587323891476
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",19693,73,0.89 [0.65-1.22],0.4790696806675762
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Hernia,18727,3009,1.03 [0.99-1.09],0.1728804975905385
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Impacted teeth,20434,34,1.34 [0.87-2.08],0.1856941738578697
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Impaction of intestines,14315,37,0.83 [0.53-1.32],0.4363157088080337
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Inguinal hernia,17114,1396,1.05 [0.97-1.12],0.226247380573384
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",15883,165,1.01 [0.82-1.25],0.9186703239232558
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,14357,79,0.86 [0.63-1.17],0.3346003721190186
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Intestinal malabsorption,19097,87,1.34 [1.01-1.77],0.0419579658782272
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,14518,240,0.96 [0.81-1.14],0.6486743246088227
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,20456,319,0.95 [0.82-1.10],0.4703316743461242
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,19787,568,1.04 [0.93-1.16],0.5050913686365427
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,19970,751,1.03 [0.93-1.13],0.599022714333217
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Oesophageal obstruction,15631,185,0.98 [0.81-1.19],0.8568952742620517
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Oesophagitis,15985,539,1.08 [0.96-1.21],0.2050938267800533
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,20443,97,1.11 [0.85-1.45],0.4583399995349133
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,15779,61,1.26 [0.90-1.77],0.1818511681656953
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,15513,1235,1.03 [0.95-1.11],0.4761911123366776
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,19376,219,0.96 [0.80-1.15],0.629865456213529
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,19259,102,1.04 [0.80-1.36],0.7585418418587799
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Other diseases of intestine,15913,1635,0.99 [0.92-1.06],0.7096619866608452
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Other diseases of intestines,18934,4656,0.99 [0.95-1.03],0.5248183111070317
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,19706,158,1.14 [0.93-1.41],0.2122329719403398
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Other diseases of liver,20220,600,0.86 [0.77-0.97],0.0095997607717555
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,16066,620,0.95 [0.85-1.06],0.362322070385302
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Other diseases of pancreas,19275,118,0.96 [0.75-1.23],0.7325475089173541
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,20395,299,1.06 [0.91-1.24],0.4401803732526621
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,16122,676,0.98 [0.88-1.08],0.6604301226723044
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,20023,1013,1.02 [0.94-1.11],0.6563716699525923
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,19895,147,1.03 [0.83-1.29],0.7648456002761471
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,15624,1346,0.97 [0.91-1.05],0.4908178571081532
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),17033,1587,0.98 [0.91-1.04],0.4880100484706396
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,19701,81,0.82 [0.61-1.11],0.2028564637257734
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,19874,655,1.02 [0.92-1.14],0.6485675974510732
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",14576,298,1.00 [0.85-1.17],0.9858529174938134
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,20422,43,1.30 [0.87-1.92],0.1961043606486574
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,14684,406,0.96 [0.84-1.10],0.5580246647992431
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",19154,144,1.29 [1.04-1.61],0.0212799678659881
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Recurring oral aphthae,20478,36,0.94 [0.60-1.47],0.7873424535046543
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,19754,87,1.18 [0.89-1.56],0.2452088227340275
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Toxic colitis,19259,40,0.95 [0.61-1.46],0.8053032094049536
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,15708,262,1.05 [0.89-1.23],0.5925703859356231
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Ulcerative colitis,19344,125,1.04 [0.82-1.32],0.739925438103247
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",19323,104,0.94 [0.72-1.22],0.6362533399687649
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Umbilical hernia,16031,313,0.98 [0.84-1.14],0.8008981612048947
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,14415,137,0.90 [0.72-1.14],0.3998141934400795
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Ventral hernia,15939,221,1.19 [1.00-1.42],0.0496048678869879
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XI Diseases of the digestive system,Volvulus,14339,61,0.89 [0.63-1.26],0.5121320019562599
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,20436,274,0.89 [0.75-1.05],0.1572693620443969
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,20226,62,1.21 [0.87-1.69],0.2563180812590643
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,18818,79,0.89 [0.66-1.21],0.4492173463553479
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,19856,649,1.04 [0.93-1.15],0.5045782300990205
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",19382,175,1.03 [0.85-1.26],0.7426670617157538
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,19114,375,1.06 [0.92-1.22],0.4263578206582459
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,20240,231,1.08 [0.90-1.28],0.4128210253093625
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,20409,400,1.05 [0.92-1.20],0.4505907393051483
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,20048,39,1.25 [0.82-1.90],0.2903639701279265
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,19210,2695,1.01 [0.96-1.06],0.6876412538166385
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,20099,342,1.04 [0.90-1.20],0.6070374374876442
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,20001,244,0.99 [0.83-1.17],0.8750277941267125
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,20091,884,1.01 [0.92-1.10],0.8730157278967442
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",20482,25,1.07 [0.63-1.82],0.7983756273620478
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,18762,23,1.53 [0.90-2.58],0.1133393036627325
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,19807,50,1.09 [0.75-1.59],0.6460220348572596
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,20236,227,1.07 [0.89-1.27],0.4683785630285656
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,19148,409,0.95 [0.84-1.09],0.4981567784509754
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,18806,67,0.99 [0.71-1.38],0.9551850339241476
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,20434,69,1.14 [0.83-1.57],0.4180732085250543
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,19378,171,1.03 [0.84-1.26],0.7630774435900147
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,20344,180,1.10 [0.90-1.34],0.3368339195876353
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,20066,57,0.90 [0.62-1.29],0.5625192442887519
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,18792,53,0.85 [0.58-1.23],0.3786373036950422
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,20101,1362,1.00 [0.93-1.08],0.9042645048557916
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",19185,446,0.97 [0.85-1.10],0.5883775649443214
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,18809,70,1.02 [0.74-1.40],0.9268270585223496
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,20415,251,1.13 [0.95-1.33],0.1580567217930933
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,20055,46,1.10 [0.75-1.63],0.6300194218084268
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,20384,220,1.13 [0.95-1.35],0.1698695816443795
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,20452,290,0.88 [0.75-1.03],0.1118151791073066
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,18814,75,0.91 [0.67-1.25],0.5634224861346006
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,18968,229,0.80 [0.67-0.96],0.0153946554333034
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,20446,284,0.88 [0.75-1.03],0.1136768463821382
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",18950,211,1.12 [0.93-1.35],0.2204841991581466
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,20469,104,1.21 [0.94-1.57],0.1469397949273239
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,17685,72,0.74 [0.54-1.02],0.0667179556225622
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,18682,4065,1.06 [1.02-1.10],0.0068229031079878
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,17477,2860,1.04 [0.99-1.09],0.11808193563167
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,17678,65,0.92 [0.66-1.29],0.6380236069311496
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,18022,121,0.98 [0.77-1.25],0.89900584419822
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,18022,121,1.07 [0.84-1.37],0.559553807778125
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,20312,58,0.97 [0.68-1.37],0.8538115258693791
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",17964,63,0.80 [0.56-1.13],0.2024019991309164
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,15348,731,1.08 [0.98-1.19],0.1446263670237502
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",20385,125,0.93 [0.73-1.19],0.5604363907224275
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,18125,224,1.14 [0.96-1.36],0.1451999215341584
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,17427,5325,1.06 [1.02-1.10],0.0029898403648234
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,19600,85,0.78 [0.58-1.04],0.0912067395517477
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,17754,141,0.90 [0.72-1.13],0.3550673380396919
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,17999,386,1.06 [0.93-1.21],0.3906329777871692
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,19777,1876,1.03 [0.97-1.10],0.2879802927536626
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,17932,319,0.99 [0.85-1.15],0.8811276224474278
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,17660,47,1.66 [1.17-2.37],0.004845150629621
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,17699,86,1.02 [0.76-1.36],0.8976053439460477
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,20210,27,1.20 [0.72-2.01],0.48156103876837
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,15855,1238,1.05 [0.97-1.13],0.2130685125359166
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,15439,822,1.09 [1.00-1.20],0.0602678478126748
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",20371,809,1.10 [1.01-1.21],0.0362248725756641
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,14654,37,0.69 [0.43-1.08],0.1056532499263307
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),14686,69,1.21 [0.88-1.66],0.2321215756000621
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,17839,226,1.08 [0.91-1.29],0.3867095010220132
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,15156,539,1.07 [0.96-1.20],0.2109567061920693
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,17934,33,1.36 [0.86-2.15],0.1890550906606319
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,18341,440,1.02 [0.90-1.16],0.7776368147834711
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,18122,221,1.08 [0.90-1.29],0.3957497354639728
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,15119,502,1.03 [0.91-1.15],0.6532639610677806
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,17669,56,1.24 [0.87-1.76],0.227961647724223
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",17655,42,1.11 [0.74-1.66],0.6244423914166378
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,19593,78,1.03 [0.77-1.39],0.8290759140215146
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,20242,727,0.98 [0.89-1.08],0.6679138667563144
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,19847,332,0.97 [0.83-1.12],0.652111363041028
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",20425,253,1.13 [0.95-1.33],0.1571052537213569
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,16216,1599,1.05 [0.99-1.13],0.1220658482025703
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,14663,46,0.79 [0.53-1.18],0.2488003576189449
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,17681,68,0.92 [0.66-1.27],0.6022957100462791
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,14667,50,0.99 [0.67-1.45],0.9580958738271744
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),14655,38,0.95 [0.61-1.46],0.8047894472534303
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,19675,160,1.00 [0.81-1.23],0.979441874604753
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,19651,136,1.03 [0.82-1.30],0.810641638424466
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,20463,74,1.04 [0.76-1.41],0.8169425390745375
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",19182,1281,1.05 [0.97-1.13],0.2192459040911302
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,17670,57,1.27 [0.91-1.78],0.166069245633657
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),14652,35,1.38 [0.89-2.14],0.1537985829752015
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,18423,522,1.09 [0.97-1.23],0.1392660875620432
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,16079,1462,1.07 [1.00-1.15],0.0409511175622047
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,20230,47,1.45 [1.00-2.13],0.0524451022403332
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,20478,56,1.30 [0.92-1.84],0.1345287219825004
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,17685,72,1.09 [0.80-1.49],0.5848817356890086
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",18438,825,1.10 [1.00-1.21],0.0388737020765514
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,17692,79,0.94 [0.69-1.27],0.6889966458083254
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,15656,1039,1.09 [1.00-1.18],0.0525263065799547
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,19587,72,0.95 [0.69-1.31],0.7676033399026008
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,17651,38,1.07 [0.70-1.65],0.7461442929005678
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,17997,96,1.03 [0.78-1.35],0.8532155356654566
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,18033,420,1.01 [0.89-1.15],0.8856356329484062
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,20349,166,1.05 [0.85-1.29],0.6802344499731011
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,18312,411,1.07 [0.93-1.22],0.3404095408718034
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,20433,250,1.12 [0.95-1.32],0.1876858884703649
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,20480,34,1.29 [0.82-2.01],0.270766347463172
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,17742,129,0.99 [0.78-1.24],0.904112541192336
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,16830,488,1.15 [1.02-1.29],0.0238656021086418
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,18007,394,1.06 [0.93-1.22],0.360584290988528
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],17901,288,0.95 [0.81-1.12],0.5711050954402934
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",14643,26,1.13 [0.67-1.90],0.6513296352251541
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,16552,1935,1.09 [1.02-1.16],0.0062699693711899
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,14995,378,1.02 [0.89-1.17],0.7981064020056828
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,20322,139,0.97 [0.77-1.22],0.7768519117304333
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",20427,38,0.94 [0.61-1.46],0.7829017550075523
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",18795,36,1.32 [0.85-2.04],0.2131459926562277
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,14675,58,1.25 [0.89-1.76],0.1944306597616286
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,17979,78,1.19 [0.88-1.60],0.264551105642746
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,14877,260,1.14 [0.97-1.34],0.1234042650002144
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,17862,249,1.15 [0.97-1.36],0.105576116606624
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,18086,185,1.27 [1.05-1.53],0.0153315197992072
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,17973,72,1.07 [0.78-1.46],0.6938648406466117
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,16299,26,1.50 [0.90-2.50],0.1220867950774947
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",20481,35,1.35 [0.87-2.10],0.1789828835171641
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,18067,454,1.04 [0.92-1.18],0.4947877736817219
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],20199,16,1.48 [0.78-2.81],0.2318473969004851
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,19558,1945,1.04 [0.98-1.10],0.2056012379350347
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",17702,89,1.28 [0.97-1.69],0.0781335696195621
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,18319,418,1.11 [0.97-1.26],0.1286199205108307
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,19571,172,1.14 [0.93-1.39],0.2156579005300612
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,18020,119,1.19 [0.93-1.52],0.1669369552886812
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,19007,1106,1.05 [0.97-1.14],0.2187214959533328
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,18587,686,1.01 [0.92-1.12],0.7808941444012831
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],17647,34,1.01 [0.64-1.59],0.9739915477252878
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,20220,37,1.56 [1.03-2.36],0.0340067158481084
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,17722,109,1.33 [1.04-1.70],0.0242398065406127
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,17631,18,1.46 [0.79-2.73],0.2304921158490379
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),14668,51,0.80 [0.55-1.17],0.2572120230471212
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Acute renal failure,19738,1546,1.05 [0.98-1.13],0.1518135957690776
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,20088,343,1.01 [0.88-1.17],0.8846745377640816
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,19869,124,0.99 [0.77-1.26],0.9111199390538244
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,19345,1153,1.00 [0.92-1.08],0.9856084702383432
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,20287,51,0.81 [0.55-1.20],0.2900081432107954
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,20287,300,0.97 [0.83-1.13],0.6819024935622816
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Cystitis,18086,177,1.04 [0.85-1.27],0.7305569087435537
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Dialysis,18261,69,1.31 [0.95-1.79],0.0946314486540058
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,19418,2837,1.06 [1.01-1.11],0.0298856008565306
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,18531,4747,1.04 [1.00-1.08],0.0694365819056908
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,20311,75,1.21 [0.89-1.63],0.2197688049630975
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Hydrocele,16756,175,1.05 [0.85-1.28],0.6701884304223418
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,18261,291,1.15 [0.99-1.35],0.0740038074367547
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,18814,2233,1.05 [0.99-1.11],0.09292584089652
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),16777,196,0.86 [0.70-1.04],0.1162993444760544
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,17971,62,1.00 [0.71-1.40],0.9848571036386984
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,16678,97,0.95 [0.72-1.24],0.695763300219497
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",20485,53,0.96 [0.66-1.39],0.8138476445451316
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",20484,46,0.86 [0.58-1.29],0.4769597845770364
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,19788,1879,1.03 [0.97-1.10],0.343126260988921
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,18736,827,1.04 [0.94-1.14],0.4378952434525799
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,20435,448,1.02 [0.90-1.16],0.7494533833030945
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,16844,263,1.00 [0.85-1.18],0.9700353495670168
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,16822,241,1.08 [0.91-1.28],0.3703314210331784
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,16776,195,1.06 [0.87-1.28],0.5565557628978385
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,20482,41,1.13 [0.75-1.72],0.5499713192230411
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,19163,1254,1.05 [0.97-1.13],0.2480338953652469
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,18297,327,1.12 [0.97-1.30],0.1282304739070985
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,20133,146,1.03 [0.82-1.28],0.8202492647043692
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,20292,56,0.93 [0.65-1.34],0.7044450127759214
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",16809,228,1.11 [0.93-1.32],0.2364805163467717
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,20274,2304,1.03 [0.98-1.09],0.241519112890581
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",18026,56,1.01 [0.70-1.44],0.9747311820837492
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,18310,118,0.97 [0.76-1.25],0.8168511430513331
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,19808,63,1.14 [0.82-1.57],0.4372989246946267
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Urethral stricture,18162,253,1.08 [0.91-1.28],0.3600368428832484
+USP25,Ubiquitin carboxyl-terminal hydrolase 25,Chapter XIV Diseases of the genitourinary system,Urolithiasis,20192,447,1.00 [0.88-1.13],0.9471362328062244

@@ -1,0 +1,632 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",22755,177,1.30 [0.88-1.91],0.1845193400416193
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",23796,190,1.42 [0.98-2.05],0.0630372243618957
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",23543,1419,1.08 [0.94-1.24],0.2592247703304911
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Candidiasis,23809,382,1.05 [0.81-1.36],0.7285765087152112
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,23112,3487,1.12 [1.02-1.22],0.014674872599071
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),23068,3507,1.34 [1.23-1.46],9.713862662163976e-11
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,23597,1052,1.22 [1.04-1.43],0.0150848191887679
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,23732,81,2.17 [1.26-3.73],0.005123981938811
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,21571,1125,1.39 [1.18-1.62],4.84933843235368e-05
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,20815,1249,1.67 [1.44-1.93],1.2120285053114496e-11
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,20529,252,1.58 [1.14-2.20],0.0061552441507734
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,16755,2286,1.28 [1.15-1.43],1.1803794912049864e-05
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,20462,407,1.85 [1.43-2.39],2.5032011091330927e-06
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,23801,1256,1.18 [1.02-1.36],0.0288731311235925
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Mycoses,23898,471,1.10 [0.87-1.39],0.4380497747912746
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,23025,901,1.17 [0.98-1.39],0.0777236224847505
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,23818,1240,1.30 [1.13-1.51],0.00037375971351
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,22737,192,1.36 [0.94-1.98],0.1002790493863824
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,23937,54,1.29 [0.64-2.60],0.47191367649063
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Other septicaemia,23662,1084,1.29 [1.11-1.51],0.0012951792731545
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,23721,70,0.67 [0.36-1.25],0.20672888481178
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Other viral diseases,23874,122,1.50 [0.94-2.39],0.0854025970486241
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",23853,101,1.87 [1.13-3.10],0.0142563019034409
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,22619,495,1.00 [0.79-1.26],0.9771252197859216
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,22410,286,1.44 [1.06-1.96],0.0202787448015154
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,22634,89,1.19 [0.69-2.07],0.5314591961239759
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,23918,70,1.23 [0.67-2.26],0.5073274351770096
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,23881,145,1.37 [0.89-2.11],0.1468077100728524
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Viral warts,23789,53,1.86 [0.93-3.73],0.080990527662585
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],23787,51,0.87 [0.42-1.80],0.7138218996407888
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,Benign lipomatous neoplasm,23619,346,0.97 [0.73-1.28],0.8112553977671921
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,23865,45,0.94 [0.43-2.08],0.8856602534132506
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,23830,55,0.81 [0.39-1.66],0.5571693882256681
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,23889,130,0.97 [0.61-1.55],0.8985169523295135
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",23561,1643,1.03 [0.90-1.17],0.660587242334072
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,Benign neoplasm of meninges,23937,33,0.77 [0.31-1.92],0.5745836363594905
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,23874,65,2.62 [1.42-4.83],0.0020381691472478
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,23921,76,2.26 [1.28-3.97],0.0047235902381987
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,Benign neoplasm: Ascending colon,23912,444,1.11 [0.87-1.42],0.4128509161320666
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,Benign neoplasm: Caecum,23908,343,0.98 [0.74-1.31],0.9121338365807378
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",23806,82,0.90 [0.51-1.61],0.727706978718666
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,Benign neoplasm: Descending colon,23904,274,0.77 [0.56-1.05],0.1027061676969893
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,Benign neoplasm: Rectum,23864,423,1.06 [0.82-1.37],0.641328326033781
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,23814,728,1.18 [0.97-1.43],0.0906684364852205
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,Benign neoplasm: Transverse colon,23893,561,0.99 [0.79-1.23],0.91744931261483
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",18606,70,1.46 [0.78-2.72],0.2332047400400916
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",18607,71,1.54 [0.83-2.85],0.1673023600051532
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",23906,102,0.70 [0.41-1.18],0.178648451476376
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,"Haemangioma, any site",23906,99,0.65 [0.38-1.11],0.1179209172621959
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,Lung cancer and mesothelioma,15930,348,0.90 [0.68-1.19],0.4669034333609142
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,Lymphoid leukaemia,18601,65,1.51 [0.79-2.88],0.2081593960104343
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",18737,201,1.15 [0.79-1.68],0.4601240517210089
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",18830,294,0.95 [0.70-1.29],0.7557353097089765
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",18626,90,1.00 [0.58-1.72],0.9961278820118726
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",18679,143,1.17 [0.76-1.81],0.4821246499091113
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",18673,137,1.03 [0.66-1.60],0.8941158130242728
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",18618,82,1.52 [0.86-2.68],0.1465577942986266
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",19949,1413,1.13 [0.98-1.30],0.0950289093982384
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",18678,142,0.98 [0.63-1.52],0.9141777357852788
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",18642,106,0.71 [0.43-1.18],0.1876137222525896
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,18664,128,1.75 [1.10-2.78],0.0179525800581206
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,Melanocytic naevi,23809,172,1.41 [0.95-2.11],0.0913277780071305
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,Melanocytic naevi of trunk,23905,96,1.30 [0.76-2.23],0.3379069579902981
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,Melanoma in situ,18569,74,0.60 [0.32-1.11],0.1052706544623627
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",18635,99,1.00 [0.59-1.71],0.9926446579807936
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",18701,165,0.99 [0.66-1.49],0.9599263872383628
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",18758,222,0.70 [0.49-0.99],0.0443092803580456
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",18638,102,1.34 [0.80-2.25],0.2683800676279214
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,Other benign neoplasms of skin,23802,138,1.24 [0.79-1.93],0.3443283704986499
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",19743,1207,1.10 [0.94-1.28],0.2267489001950346
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",19821,1285,1.11 [0.96-1.29],0.1562843974258919
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,23660,308,1.05 [0.78-1.42],0.7300747181672544
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,22195,119,10.65 [7.48-15.15],1.819263854928128e-39
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,23424,72,0.63 [0.34-1.16],0.1378403277973309
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,23377,2790,1.25 [1.13-1.38],9.157535495786249e-06
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,22656,63,2.18 [1.17-4.04],0.0135911110804386
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,23511,53,1.17 [0.57-2.38],0.6661510267005868
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,23558,1482,1.33 [1.16-1.53],3.1110007316909684e-05
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,23556,1480,1.33 [1.17-1.53],3.067919847079397e-05
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,22179,103,1.71 [1.02-2.87],0.0407840854002279
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,23696,1103,1.32 [1.13-1.54],0.0005355710887289
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,23563,105,1.57 [0.95-2.59],0.0758694467004461
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,23428,76,2.18 [1.24-3.82],0.0064077370119103
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,23413,61,1.11 [0.57-2.17],0.7538720072912863
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,23772,314,1.56 [1.17-2.07],0.0023814305778723
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,23842,49,1.50 [0.72-3.13],0.2822351425723005
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",23712,254,1.74 [1.27-2.39],0.0005250936324658
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,22671,78,1.26 [0.70-2.24],0.4398255497832962
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,17639,378,1.99 [1.52-2.60],5.064280425993734e-07
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,21886,165,0.61 [0.40-0.91],0.0153317282755861
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,21909,188,0.53 [0.36-0.78],0.0013049240751789
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,17317,56,0.79 [0.38-1.61],0.5130654384336525
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,22553,65,2.11 [1.15-3.89],0.016467954334176
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,21783,223,1.02 [0.72-1.45],0.8897640054225314
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",23430,622,1.18 [0.96-1.45],0.1181893351764476
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,23050,242,0.95 [0.68-1.33],0.7762447371818468
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,22978,170,0.86 [0.58-1.29],0.4798683883249308
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,23634,1146,1.23 [1.05-1.43],0.0081901119404098
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,20473,1102,1.17 [1.00-1.37],0.0537810263328507
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",17336,75,1.69 [0.92-3.11],0.088673213043865
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",23054,40,0.52 [0.23-1.19],0.119689806563559
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,17535,274,1.68 [1.22-2.32],0.0016582656385951
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,17336,75,1.02 [0.55-1.91],0.9434664783982872
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,21162,3901,1.15 [1.06-1.26],0.0009539700798266
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,17449,188,1.26 [0.85-1.86],0.2426583821244468
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,17833,572,1.36 [1.09-1.70],0.0065977251629644
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,23878,279,2.44 [1.81-3.28],3.854671959288875e-09
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,23691,92,7.86 [5.27-11.74],6.3573311960958665e-24
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,17415,154,1.12 [0.73-1.73],0.6059897060824397
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",17327,66,2.18 [1.15-4.12],0.0166931436017004
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,23759,745,1.44 [1.20-1.74],0.0001326684965674
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,17570,309,2.86 [2.16-3.79],2.2355975677315892e-13
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,17648,387,3.73 [2.91-4.79],2.384651825994417e-25
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",17992,731,1.30 [1.06-1.58],0.0098886804669671
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,17406,145,1.61 [1.04-2.50],0.0318352893658002
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,23684,85,9.20 [6.15-13.77],3.9294094092554105e-27
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,17832,571,1.49 [1.20-1.87],0.0004163205739512
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,17654,393,0.98 [0.75-1.28],0.8664512611297593
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,21630,70,1.69 [0.91-3.13],0.0974433763597299
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,22487,5226,1.15 [1.07-1.24],0.0001389982197742
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,23034,20,6.02 [2.31-15.72],0.000244814157695
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,23036,22,0.99 [0.33-2.99],0.9818070586634642
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,23764,1784,1.05 [0.93-1.19],0.4044436222542694
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",23761,1780,1.05 [0.93-1.18],0.4656465631432517
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,23037,23,3.78 [1.44-9.92],0.006832865451562
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,23666,803,1.12 [0.93-1.35],0.2322009659454685
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",18888,1627,1.64 [1.44-1.86],6.1030363401705e-14
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,23926,269,2.64 [1.98-3.53],3.448187792755644e-11
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,22917,109,1.14 [0.70-1.87],0.5948114659215358
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,22938,75,0.52 [0.29-0.96],0.0367503746586832
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,22945,82,1.19 [0.68-2.09],0.5443474533828934
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",17326,65,2.92 [1.55-5.50],0.0009289396259343
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,21138,168,1.36 [0.91-2.02],0.1288067379503557
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,2516,125,2.00 [1.35-2.95],0.0005412905777199
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,2676,318,1.16 [0.89-1.51],0.2591000468483024
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,21071,101,1.42 [0.86-2.35],0.1731646920460565
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,2471,82,5.78 [3.82-8.76],1.2140375771946475e-16
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,23146,2176,0.88 [0.78-0.98],0.0211070926286548
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,23171,363,1.06 [0.81-1.39],0.6706815278783532
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,21804,244,1.19 [0.86-1.65],0.299022117472711
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,18066,805,1.46 [1.22-1.76],5.886707794049873e-05
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",23813,253,1.24 [0.89-1.72],0.1989338212991293
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),22704,277,1.19 [0.87-1.62],0.2798525137896392
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Angina pectoris,20994,1506,1.33 [1.16-1.52],2.7627659651756272e-05
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Aortic aneurysm,22813,386,1.11 [0.85-1.44],0.4547228465066278
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,22512,85,1.87 [1.08-3.23],0.0259147778092448
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",22675,248,2.14 [1.55-2.94],3.078660490323099e-06
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,14016,2333,1.00 [0.89-1.11],0.9624678227176842
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,AV-block,19239,628,1.09 [0.88-1.34],0.4462967095014121
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",23862,541,1.23 [0.99-1.54],0.0656897332884522
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Cardiac arrest,11935,252,1.72 [1.23-2.40],0.0014646110493451
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Cardiomyopathy,18815,204,1.27 [0.88-1.85],0.2041362344250956
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",18723,112,1.61 [0.97-2.65],0.0633229681058419
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,23939,68,1.19 [0.64-2.21],0.5782602630797822
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Conduction disorders,19985,1374,1.17 [1.01-1.35],0.0319493765785314
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,22113,2649,1.16 [1.05-1.29],0.0034884582548818
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,20161,7813,0.96 [0.90-1.02],0.1428142036283913
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,DVT of lower extremities,22702,277,1.22 [0.89-1.67],0.2083491569384294
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Endocarditis,18696,85,0.80 [0.45-1.42],0.4420972036215064
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,"Heart failure, strict",23622,1337,1.29 [1.12-1.49],0.000322701602516
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Hypertension,21362,6805,1.00 [0.94-1.07],0.961803715955273
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,"Hypertension, essential",21386,6829,1.02 [0.95-1.09],0.5952634697054539
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,"Hypertension, portal",23705,110,0.98 [0.60-1.60],0.9451546625919496
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",14743,186,1.33 [0.91-1.95],0.1446588205380092
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,14730,173,25.57 [18.88-34.62],1.4534455559102882e-97
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Hypotension,23788,1246,1.36 [1.18-1.58],2.8110114533866783e-05
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,22858,120,1.19 [0.74-1.93],0.4671520979809627
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",22255,2767,1.17 [1.06-1.29],0.0019622529193544
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",23505,660,1.08 [0.88-1.32],0.4698859470347415
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Left bundle-branch block,19032,421,1.36 [1.05-1.75],0.0187167450413442
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,23201,1075,1.24 [1.06-1.45],0.0084865748039376
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",20421,933,1.33 [1.12-1.58],0.0009594871249931
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",23773,224,1.24 [0.88-1.75],0.2243452110744771
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",23885,379,1.19 [0.91-1.55],0.2041506974189682
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Oesophageal varices,22495,70,0.75 [0.40-1.40],0.365918169420399
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Other aneurysm,22525,98,1.14 [0.67-1.93],0.6278319054586687
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Other arrhythmias,19099,488,1.23 [0.97-1.57],0.0905680530192509
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,22562,135,1.93 [1.25-2.99],0.0031521823275922
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,22709,282,1.17 [0.86-1.60],0.3061893918933364
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,18808,197,1.02 [0.69-1.49],0.938128708127298
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Other disorders of veins,22524,99,1.00 [0.60-1.68],0.9940176809080674
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,22477,52,1.43 [0.70-2.93],0.3329935396461809
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,22331,90,1.14 [0.66-1.96],0.6311277706317779
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,22532,107,1.07 [0.65-1.75],0.7840282557961816
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,19870,1259,1.20 [1.03-1.39],0.0172491150264442
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,22609,67,0.77 [0.41-1.45],0.4160650239801979
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,23003,576,1.66 [1.34-2.05],2.756502340891652e-06
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,23289,366,1.01 [0.78-1.32],0.923970002569766
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",22916,675,1.29 [1.06-1.58],0.0110547459521078
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,12068,385,1.31 [1.00-1.72],0.0525515864862718
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Peripheral artery disease,22912,534,1.53 [1.23-1.91],0.0001258944829471
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),22783,358,1.07 [0.81-1.41],0.627106531948818
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Pulmonary embolism,23426,503,1.16 [0.92-1.46],0.2182842204536852
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,23874,719,1.08 [0.89-1.31],0.4189296417024944
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Right bundle-branch block,19086,475,1.20 [0.94-1.52],0.145568619222797
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Secondary right heart disease,23287,364,0.99 [0.76-1.30],0.9565671511807988
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,22467,226,1.34 [0.95-1.88],0.0954804934109228
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",23489,751,1.07 [0.89-1.30],0.4576078216260522
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",23473,780,1.09 [0.90-1.31],0.3778092235870408
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,22835,47,1.17 [0.54-2.53],0.6946269998339394
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,22541,115,1.09 [0.67-1.80],0.7213066003783646
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Transient ischemic attack,23096,251,1.32 [0.95-1.84],0.0931030254659549
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,22444,318,1.19 [0.89-1.58],0.2501110150241374
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Varicose veins,22808,383,0.79 [0.61-1.04],0.0933982828511901
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,22445,76,1.23 [0.68-2.25],0.4951499967522785
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter IX Diseases of the circulatory system,Venous thromboembolism,23699,789,1.08 [0.90-1.30],0.4090134054822637
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",23739,498,0.70 [0.55-0.88],0.0024437902964403
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",20568,972,1.07 [0.90-1.26],0.4547029321378781
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter V Mental and behavioural disorders,Any mental disorder,23248,3652,1.03 [0.95-1.13],0.459916203167114
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",23676,588,0.68 [0.55-0.85],0.0004941408415163
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",20778,1182,1.20 [1.03-1.40],0.0194040910239637
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",19682,86,1.09 [0.62-1.91],0.7686632047804279
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter V Mental and behavioural disorders,Smoking dependency,23285,1536,0.99 [0.87-1.13],0.8750272454626404
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",21472,1876,0.92 [0.82-1.04],0.174111852488415
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter V Mental and behavioural disorders,Vascular dementia,23423,152,1.00 [0.66-1.52],0.9886992636761652
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Alzheimer disease,23936,299,1.03 [0.76-1.38],0.8693440563722694
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",15894,58,0.84 [0.42-1.68],0.61807426451185
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Bell's palsy,22558,76,0.97 [0.53-1.76],0.9114995928751806
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,22824,342,0.74 [0.56-0.98],0.0364043020844957
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Cerebral cysts,23530,239,1.11 [0.79-1.56],0.5410702774786156
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,23850,367,0.97 [0.74-1.27],0.8096259858081737
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,23423,60,0.87 [0.44-1.71],0.6854337099329377
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,23917,75,1.30 [0.72-2.35],0.3860085910960483
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",23384,93,0.56 [0.32-0.97],0.0370828561753585
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Epilepsy,22312,287,0.96 [0.70-1.32],0.8091670243865944
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,23398,1373,1.09 [0.95-1.26],0.2221680250948844
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,23901,686,0.80 [0.65-0.98],0.0273500426833412
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Falls/tendency to fall,23386,2227,1.05 [0.94-1.17],0.4233325587058282
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Generalized epilepsy,23546,60,0.59 [0.29-1.18],0.135473909512165
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Hemiplegia,23765,282,1.01 [0.74-1.38],0.93642400506291
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Hydrocephalus,23347,56,1.30 [0.65-2.60],0.4594092225048222
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,23919,60,0.97 [0.49-1.92],0.939001709655544
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,22502,20,0.61 [0.18-2.04],0.4236016347748547
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,22575,93,1.49 [0.88-2.53],0.1412518503604475
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Memory loss,23260,121,1.15 [0.72-1.85],0.5557244423505439
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Migraine,22220,195,1.52 [1.04-2.21],0.0315188404722215
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",23913,175,1.50 [1.00-2.23],0.047471195204597
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Motor neuron disease,16002,153,1.14 [0.74-1.75],0.5503497549507355
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,23826,64,1.12 [0.57-2.20],0.7335334832639497
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",23461,979,0.97 [0.82-1.15],0.7126112184127624
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Neurological diseases,22610,3689,1.03 [0.94-1.12],0.5210842958438571
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,23606,243,1.00 [0.72-1.40],0.9852310448587668
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",22879,397,0.97 [0.74-1.26],0.7938005636137497
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",23844,356,1.48 [1.14-1.94],0.0038519386558281
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,18765,627,1.03 [0.83-1.27],0.8077179725611121
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,23371,80,1.78 [1.01-3.13],0.0463139794231056
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Other disorders of nervous system,23445,154,1.26 [0.83-1.90],0.2782400279248957
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,23357,142,0.87 [0.56-1.35],0.5228790742075011
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Other facial nerve disorders,22577,95,1.01 [0.59-1.72],0.9731334337179144
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Other headache syndromes,22063,38,0.68 [0.29-1.62],0.3883310798021032
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Other neurological diseases,23817,526,1.22 [0.97-1.53],0.0823130441764931
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Other sleep disorders,22736,711,1.05 [0.87-1.27],0.6190003203998762
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Parkinson's disease,23915,536,0.75 [0.60-0.95],0.0144455961016676
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,23318,27,2.54 [0.96-6.74],0.0605000400805022
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Restless leg syndrome,23937,52,1.12 [0.54-2.31],0.7659525922431603
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Sleep apnoea,23634,642,1.04 [0.85-1.28],0.6927032361874932
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Small fibre neuropathy,23547,59,1.89 [0.98-3.65],0.0574303725775246
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,23920,179,1.08 [0.73-1.60],0.6923926213948741
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,22516,34,1.19 [0.49-2.92],0.6980704897326939
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,23936,302,1.04 [0.77-1.39],0.8195940275460217
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),23392,148,0.98 [0.64-1.49],0.9291992471082766
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,23382,87,0.91 [0.52-1.60],0.7550091469850564
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,23585,303,0.72 [0.53-0.98],0.0349502296803122
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,23736,292,1.13 [0.84-1.52],0.4305888064502774
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,23056,43,0.85 [0.38-1.86],0.676286536932313
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,23075,62,0.81 [0.41-1.60],0.5436235427284284
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",23843,44,1.05 [0.49-2.27],0.8952534849687924
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,23701,124,0.80 [0.50-1.28],0.3513783936929918
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",2475,84,5.94 [3.95-8.93],1.0816855933413978e-17
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,3015,133,2.07 [1.43-3.00],0.0001123626187593
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,23391,96,1.14 [0.67-1.95],0.6183668605243291
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,23683,1001,1.05 [0.89-1.24],0.5266939431040678
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",23631,618,0.98 [0.80-1.21],0.8775711253627423
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,23158,145,1.04 [0.68-1.60],0.8412970307288524
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",23859,577,0.88 [0.70-1.09],0.2451475426000472
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,23934,66,0.72 [0.37-1.37],0.3158429207116981
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,23789,507,0.81 [0.64-1.03],0.0839410240704944
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",23897,320,0.95 [0.71-1.27],0.7251069921085238
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,23846,151,0.92 [0.60-1.41],0.7026757417596554
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,23090,77,1.33 [0.74-2.38],0.3373433656673013
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,23098,85,0.86 [0.49-1.51],0.6013809745439797
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,23056,43,1.10 [0.50-2.42],0.8043498728562636
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,23843,687,0.89 [0.73-1.09],0.2700322944338631
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,23339,183,1.16 [0.79-1.70],0.4388268113047098
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,23312,30,0.81 [0.31-2.11],0.6682766008357627
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,23674,97,0.67 [0.39-1.14],0.139920573324264
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,23806,229,1.12 [0.79-1.57],0.5335658572701725
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,23455,173,0.97 [0.65-1.45],0.8810008275878415
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,23779,84,0.76 [0.43-1.37],0.3645989079373906
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,23620,464,0.83 [0.65-1.06],0.1407480529154121
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,23424,129,1.04 [0.66-1.63],0.8755917619609747
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,22554,1806,1.03 [0.92-1.17],0.5909042983128835
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,23775,198,1.06 [0.74-1.54],0.7400794607172239
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,23922,148,0.83 [0.54-1.28],0.4039816338695869
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,23432,419,1.02 [0.80-1.32],0.8554121424323928
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,23643,66,0.61 [0.32-1.16],0.1321191593501287
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,23923,55,0.65 [0.32-1.33],0.2391357482694347
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,23090,77,1.25 [0.70-2.24],0.4542312842198361
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,23156,143,0.91 [0.59-1.41],0.6771535294883976
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,22812,130,0.85 [0.54-1.35],0.503137287966603
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,23334,52,1.28 [0.62-2.64],0.5055293614702505
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",22747,65,0.54 [0.27-1.06],0.0721404081969838
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,23209,53,1.14 [0.56-2.33],0.7241652868968884
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",23364,208,0.93 [0.65-1.33],0.678826562800721
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,23131,118,1.32 [0.82-2.10],0.2499085243308382
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,22805,123,0.60 [0.36-0.97],0.0387567386606209
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,22777,95,1.51 [0.89-2.55],0.1244379535875304
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,22234,1486,1.08 [0.95-1.24],0.2484643908446392
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,23071,58,0.64 [0.32-1.28],0.2096886904647187
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,23687,392,1.11 [0.85-1.44],0.4368930865635079
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,23366,71,1.17 [0.63-2.16],0.6222214466032565
+MOG,Myelin-oligodendrocyte glycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),23465,170,1.47 [1.00-2.18],0.0503989386294617
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,23759,59,1.01 [0.51-2.00],0.9725725372181424
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,23894,122,0.92 [0.57-1.47],0.723914842390593
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,23801,114,1.23 [0.76-2.00],0.4050779428224482
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,23750,50,2.38 [1.17-4.82],0.0162080975259355
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,23754,54,1.10 [0.54-2.23],0.7887099350273665
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,23843,975,1.24 [1.05-1.47],0.0100384167984244
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,23589,721,1.28 [1.05-1.55],0.0128811654171966
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,22997,129,0.81 [0.51-1.29],0.3701624853274722
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,22954,86,2.11 [1.22-3.64],0.0071762893128951
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Acute pharyngitis,23722,62,1.81 [0.94-3.46],0.0737133567471472
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,23851,191,1.31 [0.90-1.90],0.156608398817781
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,23723,63,1.92 [1.03-3.58],0.0411103239390636
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,All influenza,21637,107,1.28 [0.77-2.12],0.3431181515120109
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),21634,104,1.37 [0.82-2.28],0.2334783270532634
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Allergic asthma (mode),15686,104,1.28 [0.75-2.18],0.3677836891250164
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Allergic rhinitis,23828,267,0.84 [0.60-1.16],0.2818481606851621
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",16678,1446,1.12 [0.97-1.29],0.1198079026924087
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",17001,1419,1.12 [0.97-1.29],0.1248777938438325
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),23550,149,1.84 [1.22-2.77],0.0034702693201823
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",21626,96,1.96 [1.17-3.29],0.0104575512698321
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Bronchiectasis,20814,291,0.98 [0.72-1.33],0.8930314769915952
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",20567,44,0.83 [0.38-1.80],0.6300239824591829
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,23090,2567,1.12 [1.01-1.24],0.0318467429500547
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",22487,80,1.13 [0.63-2.03],0.6842734851777055
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Chronic sinusitis,22569,162,0.87 [0.57-1.32],0.5171628256119809
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",23713,1304,1.01 [0.88-1.17],0.8409004076528555
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Deviated nasal septum,22547,140,0.80 [0.51-1.25],0.3273639540613031
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,21921,5308,1.04 [0.97-1.12],0.2662591618692856
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",22796,389,0.90 [0.69-1.18],0.4382540593810541
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Early onset COPD,22715,306,0.92 [0.68-1.24],0.5922214098830212
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Emphysema,20873,350,1.16 [0.88-1.53],0.2894171436186499
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,23002,338,0.82 [0.62-1.09],0.1753261736634601
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Influenza and pneumonia,23689,2159,1.14 [1.02-1.27],0.0222632002881248
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Interstitial lung disease,23030,366,0.83 [0.63-1.09],0.1766151517497757
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Later onset COPD,22863,998,1.04 [0.88-1.22],0.6550702620080063
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,23919,427,1.19 [0.93-1.53],0.1627247182435322
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Nasal polyp,22553,146,0.88 [0.57-1.37],0.5792161514062706
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,23665,1008,1.13 [0.96-1.33],0.1484312044746487
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Other diseases of pleura,23654,2207,1.10 [0.99-1.23],0.0793677994381003
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,23279,872,0.86 [0.72-1.03],0.1090351087629577
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Other pleural conditions,21513,66,1.46 [0.77-2.78],0.2495529326965335
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,23842,451,0.97 [0.76-1.23],0.7784465923899839
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,23812,1395,1.17 [1.02-1.34],0.0291883062587159
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Pleural effusion,22575,1128,1.18 [1.01-1.38],0.0329645097265441
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Pleural plaque,21712,265,1.06 [0.77-1.47],0.7051808426232976
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",23426,1896,1.13 [1.00-1.27],0.0452630411420139
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,23819,327,1.22 [0.92-1.63],0.1648024675475802
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Pneumothorax,21589,142,0.79 [0.51-1.24],0.3074967105215744
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Pollen allergy,23922,233,0.86 [0.61-1.22],0.4066077486608962
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Pulmonary oedema,23459,68,1.36 [0.74-2.50],0.3254437609065059
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Respiratory insufficiency,15638,56,1.45 [0.72-2.92],0.3001583587616371
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,23647,990,1.10 [0.94-1.30],0.2447821498040406
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,22676,269,0.85 [0.61-1.17],0.3138128171644511
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Viral pneumonia,21812,282,1.39 [1.02-1.90],0.0361585195569226
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",23569,239,1.36 [0.97-1.89],0.0712326609203293
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,10418,113,0.79 [0.47-1.31],0.3600749493898048
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,16712,89,0.94 [0.53-1.65],0.8290479970894854
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Acute appendicitis,23804,145,1.01 [0.65-1.57],0.9731957363184074
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Acute gastritis,18071,91,1.50 [0.87-2.59],0.1426085568106635
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Acute pancreatitis,22577,203,1.06 [0.73-1.53],0.7616791599008755
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Acute peritonitis,23572,101,1.72 [1.04-2.84],0.0348209865321378
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Alcoholic liver disease,23041,117,0.60 [0.37-0.98],0.039632505940794
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Barrett oesophagus,18512,532,1.19 [0.95-1.50],0.1300219593854326
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",22496,122,0.83 [0.51-1.32],0.4274348283762625
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",23531,122,0.82 [0.51-1.32],0.4219268029979117
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Cholecystitis,22595,221,1.20 [0.84-1.70],0.3146065509102312
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Cholelithiasis,23163,789,1.11 [0.92-1.33],0.2752438466761859
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Chronic gastritis,18249,269,1.25 [0.91-1.72],0.174208402688429
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Chronic pancreatitis,22432,58,1.10 [0.55-2.17],0.7945289602742382
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",23730,135,0.74 [0.47-1.15],0.1769205709965794
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Coeliac disease,22292,91,0.57 [0.32-1.00],0.0511112979675936
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Collagenous colitis,22487,50,1.27 [0.61-2.64],0.5255458810232312
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,23771,221,1.27 [0.90-1.80],0.1766430355959661
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Constipation,23770,1606,1.06 [0.93-1.21],0.3833984935532605
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Crohn disease,22529,92,1.55 [0.90-2.67],0.1182808504520094
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",23594,66,1.16 [0.61-2.20],0.6588947329478514
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Crohn's disease NAS,22515,78,2.02 [1.13-3.62],0.0182879152790288
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Dental caries,23286,228,1.12 [0.79-1.57],0.5283076523493013
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,20277,1952,1.10 [0.98-1.24],0.1212052392885387
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Diseases of appendix,23836,177,1.04 [0.70-1.56],0.8329955239832377
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Diseases of liver,23796,872,1.16 [0.97-1.38],0.1000632191689385
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",21931,3951,1.10 [1.01-1.19],0.0326074679595577
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",23575,517,1.00 [0.80-1.26],0.9852488629479188
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Diseases of peritoneum,23887,416,1.13 [0.88-1.46],0.3395850462836409
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,23169,111,0.78 [0.47-1.29],0.3305494130245526
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Diseases of salivary glands,23026,66,1.04 [0.54-1.98],0.9151452754143712
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Diseases of the digestive system,23617,1416,1.00 [0.87-1.15],0.9861593733351438
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Diseases of tongue,23046,110,1.73 [1.06-2.82],0.0272109512248758
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",23565,1191,1.06 [0.91-1.24],0.4319991646990155
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,19686,3063,1.06 [0.96-1.16],0.2619411023924339
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Duodenal ulcer,18248,268,1.66 [1.22-2.28],0.001498193280161
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",23823,210,1.41 [0.99-2.00],0.0576667693281966
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,23862,47,0.51 [0.23-1.12],0.0938263636282401
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,23082,158,0.82 [0.55-1.23],0.3427990598931559
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,16804,181,1.31 [0.89-1.95],0.1736157359063841
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Functional dyspepsia,18406,426,1.23 [0.95-1.59],0.1170515657124675
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Gastric ulcer,18349,369,1.28 [0.98-1.67],0.0731677997966427
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,20146,2166,1.07 [0.95-1.20],0.2417186633226439
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,18581,601,1.34 [1.08-1.65],0.0071693959106363
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,18303,8020,0.99 [0.93-1.05],0.8055865945580981
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,GI-bleeding,23380,1179,1.09 [0.93-1.26],0.2829757557654013
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,23103,45,1.01 [0.46-2.22],0.9724218008064868
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,17593,1242,1.13 [0.97-1.32],0.1101958525328964
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",23010,86,1.22 [0.70-2.12],0.4864402839416525
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Hernia,21879,3554,0.96 [0.87-1.05],0.3274450713158536
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Impacted teeth,23865,44,0.44 [0.20-1.00],0.0496223586682135
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Impaction of intestines,16669,46,1.52 [0.70-3.28],0.2911834585242555
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Inguinal hernia,19967,1642,0.89 [0.78-1.02],0.0830542450412644
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",18525,200,0.79 [0.54-1.16],0.2253789191688695
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,16713,90,1.10 [0.63-1.94],0.7316323450102344
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Intestinal malabsorption,22305,104,0.60 [0.35-1.01],0.0564097178732161
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,16897,274,0.94 [0.68-1.30],0.713444259647472
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,23895,380,1.25 [0.96-1.63],0.0980322920021204
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,23119,682,1.18 [0.97-1.45],0.098588446428251
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,23331,894,1.15 [0.97-1.37],0.1125542253113902
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Oesophageal obstruction,18193,213,1.14 [0.79-1.64],0.4732607012011555
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Oesophagitis,18610,630,1.28 [1.04-1.58],0.0206337637001927
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,23884,113,1.01 [0.62-1.65],0.9703281353798604
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,18402,77,1.09 [0.60-1.99],0.767870307320506
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,18061,1438,1.15 [1.00-1.32],0.0578572697350586
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,22633,259,0.91 [0.66-1.26],0.5813544671404096
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,22496,122,1.13 [0.70-1.81],0.6217539453285316
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Other diseases of intestine,18514,1891,1.05 [0.93-1.19],0.4135481844890497
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Other diseases of intestines,22111,5488,1.05 [0.97-1.12],0.2109719807986004
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,23008,180,1.00 [0.68-1.48],0.9968881045387772
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Other diseases of liver,23619,695,1.13 [0.93-1.38],0.2133652668168684
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,18721,741,1.15 [0.95-1.40],0.1505399116014911
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Other diseases of pancreas,22517,143,1.49 [0.97-2.28],0.0703077622110689
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,23813,342,0.99 [0.75-1.32],0.963349654999287
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,18789,809,1.26 [1.05-1.52],0.0132508319985398
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,23392,1191,1.09 [0.93-1.26],0.2808917509564206
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,23237,179,1.16 [0.79-1.70],0.451019996339065
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,18267,1644,1.09 [0.96-1.24],0.2005892120135303
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),19857,1877,1.16 [1.03-1.31],0.0148998390582425
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,23022,98,0.81 [0.48-1.36],0.4213354012740294
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,23219,782,1.19 [0.99-1.44],0.0641613768842351
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",16977,354,1.10 [0.83-1.46],0.5123069227393817
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,23854,57,0.57 [0.28-1.16],0.1204102310446581
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,17103,480,1.20 [0.94-1.52],0.149991991170207
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",22367,166,0.88 [0.58-1.33],0.5450422883755635
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Recurring oral aphthae,23923,43,1.14 [0.52-2.52],0.7463545912691221
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,23067,107,1.16 [0.70-1.93],0.5590434675947444
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Toxic colitis,22484,47,1.43 [0.68-3.04],0.3470470572555828
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,18279,299,1.29 [0.95-1.75],0.1031940542896555
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Ulcerative colitis,22586,149,0.74 [0.48-1.15],0.1780594712985913
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",22562,125,0.84 [0.52-1.36],0.4841280275540379
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Umbilical hernia,18698,373,1.07 [0.82-1.41],0.6098120076688369
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,16783,160,1.26 [0.83-1.91],0.281686778626307
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Ventral hernia,18590,265,0.67 [0.49-0.93],0.0173214875665609
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XI Diseases of the digestive system,Volvulus,16697,74,1.11 [0.59-2.08],0.7421071742021652
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,23861,331,1.01 [0.75-1.35],0.95277527431442
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,23613,69,1.11 [0.59-2.06],0.7510282091717908
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,21936,97,1.41 [0.83-2.40],0.2098918083221888
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,23198,764,0.98 [0.81-1.18],0.8073171802765755
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",22637,203,0.92 [0.63-1.32],0.6407546321080695
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,22309,470,1.12 [0.88-1.41],0.357554756539472
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,23642,269,0.94 [0.68-1.30],0.7103699686517493
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,23847,474,1.04 [0.82-1.33],0.7196722151249605
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,23418,45,0.92 [0.42-2.02],0.8295332413589638
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,22450,3202,0.97 [0.88-1.06],0.4825407603410723
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,23490,412,0.84 [0.65-1.09],0.1905079133236092
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,23376,298,0.87 [0.64-1.18],0.3596792492194649
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,23472,1038,0.97 [0.83-1.14],0.7341341598228113
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",23927,30,1.86 [0.74-4.63],0.1845858210799789
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,21862,23,2.98 [1.03-8.62],0.0434414473241742
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,23136,58,0.71 [0.36-1.38],0.3110457096814769
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,23637,264,0.90 [0.65-1.24],0.5213829435724331
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,22324,485,0.96 [0.75-1.22],0.7118129970775775
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,21919,80,1.50 [0.84-2.66],0.1701700161582823
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,23870,81,1.33 [0.75-2.34],0.3321133422587338
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,22649,215,1.13 [0.79-1.60],0.5015574244219975
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,23765,221,0.72 [0.51-1.03],0.0735983521822195
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,23445,72,1.56 [0.86-2.81],0.1423270655619172
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,21906,67,1.48 [0.78-2.81],0.2313931539511247
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,23482,1643,1.05 [0.93-1.20],0.4188956545905953
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",22365,526,0.96 [0.76-1.20],0.6979690712693167
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,21922,83,1.47 [0.83-2.59],0.1830108415243957
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,23846,302,0.86 [0.63-1.16],0.3170809645898217
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,23428,55,0.87 [0.43-1.75],0.6986681524916829
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,23809,265,0.79 [0.57-1.08],0.1424507177048473
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,23881,351,0.97 [0.73-1.28],0.8108199339691359
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,21929,90,1.53 [0.88-2.65],0.1330232362427809
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,22111,272,0.97 [0.70-1.34],0.853561720622068
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,23874,344,0.98 [0.74-1.30],0.8943868032069012
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",22110,271,1.00 [0.73-1.36],0.9801008471331002
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,23911,122,1.24 [0.78-1.98],0.3659779188970052
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,20670,92,0.75 [0.44-1.30],0.3069804873653649
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,21842,4799,1.01 [0.94-1.09],0.7773856323595588
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,20434,3391,0.94 [0.86-1.03],0.1654223899642279
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,20651,73,1.20 [0.65-2.23],0.564841811685523
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,21014,153,0.89 [0.58-1.36],0.5939135535391055
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,21004,143,1.06 [0.69-1.64],0.7768848571051035
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,23731,67,1.50 [0.80-2.83],0.2042233250772349
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",20940,79,0.81 [0.45-1.46],0.4804124187341143
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,17917,874,0.88 [0.73-1.05],0.1624175478507212
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",23817,152,0.90 [0.59-1.38],0.6351671252603126
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,21135,274,0.89 [0.64-1.22],0.4512752103463767
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,20366,6285,0.98 [0.91-1.04],0.4696425082775479
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,22872,92,1.23 [0.71-2.12],0.45623110477346
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,20746,168,1.38 [0.93-2.06],0.1087147968155699
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,21016,438,1.05 [0.82-1.36],0.6945553782198994
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,23110,2249,0.98 [0.88-1.10],0.7832186953206755
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,20944,366,0.86 [0.65-1.14],0.289450199841458
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,20631,53,1.12 [0.54-2.30],0.7642651670447214
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,20671,93,0.85 [0.49-1.48],0.561339344862537
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,23620,29,1.72 [0.68-4.36],0.256216595804741
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,18518,1475,0.85 [0.74-0.98],0.0238966361075212
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,18029,986,2.02 [1.72-2.37],6.719436317541847e-18
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",23796,972,2.10 [1.78-2.47],2.948113663280812e-19
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,17092,49,0.79 [0.37-1.71],0.5513871258552772
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),17122,79,0.63 [0.34-1.16],0.1379944176589771
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,20850,272,1.00 [0.73-1.38],0.9925500729457672
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,17675,632,0.91 [0.74-1.13],0.4083712168922297
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,20904,43,1.59 [0.73-3.45],0.2426870565673623
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,21394,533,1.11 [0.89-1.40],0.3504601350374147
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,21134,273,0.94 [0.68-1.29],0.682256295037204
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,17634,591,0.85 [0.68-1.06],0.1524799858064407
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,20644,66,0.85 [0.45-1.63],0.6304939840742867
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",20632,54,1.55 [0.77-3.11],0.216823137265608
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,22874,94,1.13 [0.67-1.91],0.6417665374400587
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,23645,865,1.01 [0.85-1.21],0.912204915664403
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,23180,400,1.06 [0.81-1.37],0.6834970426216264
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",23853,291,0.92 [0.68-1.24],0.5694905059512675
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,18933,1890,1.08 [0.96-1.22],0.2196382464872112
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,17095,52,0.97 [0.46-2.08],0.9435593020040424
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,20662,84,0.78 [0.43-1.39],0.3963035266792073
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,17099,56,1.24 [0.61-2.51],0.5547135664579538
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),17089,46,0.82 [0.37-1.82],0.6221040988755577
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,22967,187,1.06 [0.72-1.55],0.7770832005905695
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,22941,161,0.93 [0.61-1.41],0.7277210478826173
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,23901,85,0.78 [0.44-1.38],0.3942647332363559
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",22396,1535,1.06 [0.93-1.21],0.3790683334405664
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,20645,67,1.93 [1.02-3.62],0.0420104737581539
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),17082,39,0.71 [0.45-1.13],0.1513300971760132
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,21480,619,0.97 [0.79-1.20],0.791205574006013
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,18763,1720,1.00 [0.88-1.14],0.9474879188231596
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,23645,54,2.87 [1.49-5.54],0.0016674860446687
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,23919,63,1.23 [0.65-2.35],0.5275968239156308
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,20659,81,0.67 [0.37-1.22],0.1913244191419565
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",21567,989,0.98 [0.83-1.16],0.8525122015350921
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,20674,96,1.58 [0.94-2.67],0.085370383899734
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,18256,1213,0.92 [0.79-1.07],0.2894641060033959
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,22866,86,1.08 [0.61-1.91],0.7839598322089911
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,20623,45,1.54 [0.70-3.40],0.2793919505140845
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,20972,111,0.89 [0.55-1.46],0.6564635915132375
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,21084,506,1.05 [0.83-1.32],0.686218291659032
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,23782,191,1.01 [0.69-1.47],0.9654277000116882
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,21349,488,1.14 [0.90-1.45],0.262710574866554
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,23862,285,0.86 [0.63-1.17],0.3346013868563833
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,23922,39,0.80 [0.35-1.86],0.6074109280610727
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,20732,154,1.41 [0.93-2.15],0.1054474314766665
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,19624,579,1.21 [0.98-1.50],0.0773129776340866
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,21063,485,0.92 [0.73-1.17],0.5121750522070818
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],20910,332,0.79 [0.59-1.07],0.1258272912389999
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",17074,31,0.74 [0.28-1.92],0.5341302628530311
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,19326,2283,1.20 [1.08-1.34],0.0008237772294157
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,17495,452,1.12 [0.87-1.43],0.3757677550079878
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,23752,161,0.98 [0.65-1.47],0.90644097834147
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",23863,47,0.77 [0.36-1.67],0.5075790031273812
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",21939,46,0.96 [0.45-2.04],0.918342893731617
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,17108,65,1.29 [0.67-2.48],0.4522229909785369
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,20951,90,0.96 [0.55-1.66],0.8756951245315386
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,17342,299,0.94 [0.69-1.27],0.6696500135791545
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,20857,279,0.88 [0.64-1.20],0.4112114764251465
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,21078,217,1.43 [1.01-2.03],0.0442091462757184
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,20955,94,0.84 [0.48-1.44],0.5170289726039932
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,19006,31,0.83 [0.32-2.14],0.7004166763365292
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",23923,40,0.88 [0.39-2.01],0.7616999177157417
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,21110,532,0.87 [0.69-1.09],0.2303542737899584
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],23610,19,0.61 [0.18-2.01],0.4138917693283213
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,22859,2281,0.97 [0.87-1.08],0.5394773814217113
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",20684,106,0.66 [0.39-1.11],0.1148511442691806
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,21372,511,0.85 [0.68-1.08],0.1825172346445631
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,22870,196,0.61 [0.42-0.88],0.0090618650581843
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,20992,131,0.92 [0.59-1.45],0.7260559676183116
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,22185,1324,0.96 [0.83-1.11],0.555960550068088
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,21690,829,1.14 [0.96-1.37],0.1413372364109774
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],20621,43,0.55 [0.24-1.24],0.1488382768275142
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,23630,39,3.35 [1.54-7.30],0.0023121285752819
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,20698,120,0.81 [0.50-1.32],0.4044639689000711
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,20600,22,1.20 [0.40-3.55],0.7445009752531939
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),17103,60,0.70 [0.35-1.41],0.3216162536898385
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Acute renal failure,22928,1879,2.12 [1.87-2.39],1.1214531171860113e-33
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,23462,410,1.08 [0.84-1.40],0.5484213115839323
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,23192,140,0.77 [0.49-1.20],0.2544128540292711
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,22599,1550,5.18 [4.55-5.89],6.976855647022773e-138
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,23680,86,15.75 [11.31-21.95],1.291618534148514e-59
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,23652,360,1.57 [1.20-2.06],0.0010055265814727
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Cystitis,21045,211,0.97 [0.67-1.39],0.8536533496946155
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Dialysis,21157,108,5.84 [4.40-7.76],3.807043139998477e-34
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,22643,3347,0.98 [0.89-1.07],0.6697869120551928
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,21544,5612,1.23 [1.14-1.32],1.930327101016145e-08
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,23698,104,6.76 [4.55-10.04],3.173214152377304e-21
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Hydrocele,19501,205,1.20 [0.83-1.73],0.3294788295114522
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,21155,371,2.35 [1.77-3.12],2.796235215350628e-09
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,21929,2633,0.99 [0.89-1.10],0.8549038650728337
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),19531,235,1.13 [0.80-1.60],0.4739440770290194
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,20914,80,1.26 [0.70-2.27],0.4389909569456167
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,19405,109,0.86 [0.52-1.42],0.5496096061527342
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",23925,60,1.14 [0.59-2.21],0.6996377367675468
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",23931,57,0.87 [0.43-1.75],0.6965538391002297
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,23100,2266,1.08 [0.97-1.21],0.1657306520617207
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,21786,952,1.00 [0.84-1.19],0.9918268333928228
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,23861,569,2.12 [1.72-2.62],2.704220221622379e-12
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,19608,312,1.14 [0.84-1.54],0.3947449197288838
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,19580,284,0.94 [0.68-1.28],0.6744551677153636
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,19525,229,0.80 [0.57-1.14],0.21822997749283
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,23920,49,3.77 [1.96-7.23],6.717830803836925e-05
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,22382,1548,1.14 [1.00-1.30],0.0568415676187698
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,21201,417,2.42 [1.86-3.15],5.0360868979016966e-11
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,23483,191,2.79 [1.95-3.98],1.6306611682248547e-08
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,23654,60,4.20 [2.27-7.79],5.164742740988167e-06
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",19564,268,0.98 [0.71-1.34],0.8799820808811817
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,23629,2845,2.33 [2.11-2.57],2.0612777261173305e-62
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",20859,75,3.06 [1.64-5.69],0.0004271668331562
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,21208,159,4.14 [2.71-6.31],4.304100695602821e-11
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,23129,77,1.94 [1.08-3.47],0.0256046276769019
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Urethral stricture,21131,297,1.30 [0.96-1.76],0.0933221127801385
+MOG,Myelin-oligodendrocyte glycoprotein,Chapter XIV Diseases of the genitourinary system,Urolithiasis,23579,527,1.07 [0.85-1.34],0.5638482203154024

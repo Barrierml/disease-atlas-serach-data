@@ -1,0 +1,92 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+SPARC,SPARC,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",28013,1005,1.09 [1.01-1.18],0.0369080650649799
+SPARC,SPARC,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,27506,2786,1.09 [1.04-1.15],0.0002516994125699
+SPARC,SPARC,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),27757,2102,1.09 [1.03-1.15],0.0028101834032788
+SPARC,SPARC,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,28087,1006,1.10 [1.02-1.20],0.0147376201142806
+SPARC,SPARC,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,27021,647,1.14 [1.04-1.27],0.0079976405083596
+SPARC,SPARC,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,26129,624,1.16 [1.04-1.28],0.005321999037612
+SPARC,SPARC,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,26379,175,1.30 [1.07-1.59],0.0085877508697207
+SPARC,SPARC,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,21088,1221,1.15 [1.07-1.24],0.0001458047335792
+SPARC,SPARC,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,28255,1174,1.10 [1.03-1.19],0.0085697828767679
+SPARC,SPARC,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,27618,610,1.18 [1.06-1.31],0.001722026615836
+SPARC,SPARC,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,28301,714,1.14 [1.04-1.26],0.0059715575412622
+SPARC,SPARC,Chapter I Certain infectious and parasitic diseases,Other septicaemia,28212,625,1.13 [1.02-1.25],0.019604801451439
+SPARC,SPARC,Chapter II Neoplasms,Benign neoplasm: Ascending colon,28398,282,0.86 [0.74-0.99],0.0306503869443609
+SPARC,SPARC,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",28335,59,0.68 [0.51-0.91],0.0088929186312169
+SPARC,SPARC,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",24535,32,0.68 [0.46-0.99],0.0466594290418124
+SPARC,SPARC,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,27908,70,1.78 [1.27-2.49],0.0008202481075893
+SPARC,SPARC,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,27585,2291,1.06 [1.01-1.12],0.020680173896834
+SPARC,SPARC,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,27948,1059,1.11 [1.03-1.20],0.0094402350783373
+SPARC,SPARC,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,27948,1059,1.11 [1.03-1.20],0.0094402350783373
+SPARC,SPARC,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,28115,957,1.10 [1.02-1.20],0.017082672299702
+SPARC,SPARC,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,28205,196,0.84 [0.71-1.00],0.0462474769042026
+SPARC,SPARC,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",28174,165,0.80 [0.67-0.95],0.013462809520527
+SPARC,SPARC,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,26447,142,1.60 [1.27-2.02],6.998996041034177e-05
+SPARC,SPARC,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,26651,2449,1.14 [1.08-1.20],7.809539240228367e-07
+SPARC,SPARC,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,28136,113,1.30 [1.02-1.66],0.0376195305064866
+SPARC,SPARC,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",24241,39,1.97 [1.24-3.12],0.0038254001668905
+SPARC,SPARC,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,27967,1338,1.11 [1.04-1.19],0.0029875896420799
+SPARC,SPARC,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,24507,305,1.17 [1.01-1.35],0.0386061041735266
+SPARC,SPARC,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,27706,3504,1.11 [1.06-1.16],1.9051107963178927e-06
+SPARC,SPARC,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",24336,134,1.46 [1.16-1.83],0.0014304011290119
+SPARC,SPARC,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,1713,37,1.64 [1.03-2.61],0.0352247254911674
+SPARC,SPARC,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,27974,1526,1.14 [1.07-1.22],4.758756948175733e-05
+SPARC,SPARC,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,27631,29,1.82 [1.07-3.10],0.0279409184441817
+SPARC,SPARC,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,20279,958,1.12 [1.03-1.21],0.0076213471853729
+SPARC,SPARC,Chapter IX Diseases of the circulatory system,Cardiac arrest,19438,117,1.39 [1.09-1.78],0.008568104143469
+SPARC,SPARC,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,27671,1390,1.19 [1.11-1.27],9.854228578883804e-07
+SPARC,SPARC,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,26426,6178,1.11 [1.07-1.14],9.572604185915338e-10
+SPARC,SPARC,Chapter IX Diseases of the circulatory system,"Heart failure, strict",28288,523,1.22 [1.09-1.37],0.0005889433751688
+SPARC,SPARC,Chapter IX Diseases of the circulatory system,Hypertension,27009,5027,1.10 [1.06-1.14],1.2903150295748565e-07
+SPARC,SPARC,Chapter IX Diseases of the circulatory system,"Hypertension, essential",27024,5042,1.10 [1.06-1.14],1.882493740851861e-07
+SPARC,SPARC,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",27838,1546,1.15 [1.08-1.23],1.5409211972281458e-05
+SPARC,SPARC,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,28143,609,1.14 [1.02-1.26],0.0154134846645977
+SPARC,SPARC,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",26788,496,1.19 [1.06-1.34],0.0033240997204756
+SPARC,SPARC,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,27666,64,1.52 [1.08-2.15],0.0155865879228797
+SPARC,SPARC,Chapter IX Diseases of the circulatory system,Pulmonary embolism,28137,348,1.22 [1.06-1.40],0.004608440107578
+SPARC,SPARC,Chapter IX Diseases of the circulatory system,Venous thromboembolism,28230,544,1.18 [1.05-1.31],0.0036513769727567
+SPARC,SPARC,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",28243,381,1.29 [1.13-1.48],0.0001917066038602
+SPARC,SPARC,Chapter V Mental and behavioural disorders,Any mental disorder,27631,3764,1.07 [1.03-1.12],0.0007695729671514
+SPARC,SPARC,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",28178,450,1.26 [1.11-1.42],0.0002684913182501
+SPARC,SPARC,Chapter V Mental and behavioural disorders,Smoking dependency,27858,1561,1.13 [1.05-1.20],0.0003364299526402
+SPARC,SPARC,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",25671,1804,1.16 [1.09-1.24],1.010147288834048e-06
+SPARC,SPARC,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",27783,1148,1.08 [1.00-1.16],0.0485211753161291
+SPARC,SPARC,Chapter VI Diseases of the nervous system,Neurological diseases,26942,3145,1.06 [1.01-1.10],0.0180611436205511
+SPARC,SPARC,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",28334,239,1.20 [1.02-1.42],0.0303961673518388
+SPARC,SPARC,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",1720,44,1.75 [1.14-2.68],0.0105963149487825
+SPARC,SPARC,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,28394,55,0.73 [0.54-0.99],0.0458823542285317
+SPARC,SPARC,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,28342,129,0.81 [0.66-0.99],0.0367879331701531
+SPARC,SPARC,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,28377,38,0.69 [0.48-0.98],0.0389280473216433
+SPARC,SPARC,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,27885,59,1.43 [1.01-2.03],0.0457861153856658
+SPARC,SPARC,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",27696,52,0.59 [0.44-0.79],0.0003841888511374
+SPARC,SPARC,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,26448,4376,1.06 [1.02-1.10],0.0017226707388838
+SPARC,SPARC,Chapter X Diseases of the respiratory system,Influenza and pneumonia,28218,1236,1.08 [1.00-1.15],0.0459398932157859
+SPARC,SPARC,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,28194,631,1.11 [1.01-1.23],0.0392480487163535
+SPARC,SPARC,Chapter X Diseases of the respiratory system,Other diseases of pleura,28230,1280,1.14 [1.07-1.23],0.0001944170763583
+SPARC,SPARC,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,27739,912,1.10 [1.01-1.20],0.0246575937232134
+SPARC,SPARC,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,28323,872,1.17 [1.07-1.27],0.0004077209903822
+SPARC,SPARC,Chapter X Diseases of the respiratory system,Pleural effusion,27559,609,1.20 [1.08-1.33],0.000719983891804
+SPARC,SPARC,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",28005,1023,1.09 [1.01-1.18],0.0354245323766414
+SPARC,SPARC,Chapter XI Diseases of the digestive system,Acute gastritis,22696,76,0.76 [0.59-0.99],0.0427217595264844
+SPARC,SPARC,Chapter XI Diseases of the digestive system,Coeliac disease,26937,121,1.41 [1.10-1.79],0.0059169408636859
+SPARC,SPARC,Chapter XI Diseases of the digestive system,Diseases of liver,28285,762,1.18 [1.08-1.30],0.0003858991640054
+SPARC,SPARC,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",27902,632,1.11 [1.01-1.23],0.0363441319218113
+SPARC,SPARC,Chapter XI Diseases of the digestive system,Diseases of the digestive system,28122,1306,1.07 [1.00-1.15],0.0407233154742799
+SPARC,SPARC,Chapter XI Diseases of the digestive system,Intestinal malabsorption,26957,141,1.45 [1.15-1.81],0.0013499746129902
+SPARC,SPARC,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,28383,399,1.21 [1.06-1.37],0.0044114641637477
+SPARC,SPARC,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",21931,238,1.22 [1.04-1.45],0.0177601670109159
+SPARC,SPARC,Chapter XI Diseases of the digestive system,Ulcerative colitis,26888,152,1.37 [1.11-1.70],0.0039268257600039
+SPARC,SPARC,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",26868,132,1.29 [1.02-1.61],0.0303036528525542
+SPARC,SPARC,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,26909,180,1.22 [1.01-1.48],0.0402417753485651
+SPARC,SPARC,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,27955,49,1.50 [1.02-2.21],0.0409037334206989
+SPARC,SPARC,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,24942,138,1.25 [1.00-1.56],0.0491453026783679
+SPARC,SPARC,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,26528,4782,1.04 [1.01-1.08],0.023850428314807
+SPARC,SPARC,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,25497,155,1.26 [1.02-1.56],0.0302380138394567
+SPARC,SPARC,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,26948,58,1.49 [1.04-2.12],0.0297289330397921
+SPARC,SPARC,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,27927,87,1.44 [1.08-1.92],0.0133699782656319
+SPARC,SPARC,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,24864,60,0.71 [0.53-0.94],0.0179333418108024
+SPARC,SPARC,Chapter XIV Diseases of the genitourinary system,Acute renal failure,27829,881,1.14 [1.05-1.25],0.00201892393413
+SPARC,SPARC,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,28252,71,1.48 [1.08-2.04],0.0163162209429503
+SPARC,SPARC,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,15338,68,0.72 [0.55-0.94],0.0171100166161412
+SPARC,SPARC,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,28200,1574,1.08 [1.02-1.15],0.0144155846829129
+SPARC,SPARC,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,27028,80,0.70 [0.54-0.90],0.0046531605174611

@@ -1,0 +1,658 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",21745,195,1.00 [0.76-1.31],0.9837046980124412
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",22958,253,1.07 [0.85-1.36],0.5610702867559321
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",22681,1757,1.01 [0.92-1.11],0.8368400707902339
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Candidiasis,22961,553,1.00 [0.85-1.18],0.9557690410785245
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,22208,4225,1.00 [0.94-1.06],0.9786296805252448
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),22150,4283,1.00 [0.94-1.06],0.9393919223851
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,22673,1424,0.95 [0.86-1.05],0.3232977010151565
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,22865,130,1.12 [0.81-1.56],0.4915106242039104
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,20159,1300,0.96 [0.86-1.06],0.4063003656578695
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,19447,1582,0.96 [0.87-1.06],0.3909752109588595
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,18945,343,1.05 [0.85-1.28],0.6667346886738716
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,14933,2735,1.00 [0.93-1.07],0.9779767069962368
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,18886,499,1.08 [0.91-1.28],0.3942321904737298
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,22941,1692,0.95 [0.87-1.04],0.2883377414288737
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Mycoses,23057,649,1.07 [0.92-1.24],0.3650978643658201
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,22168,1244,0.96 [0.86-1.07],0.4493616251881138
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,22985,1435,0.95 [0.86-1.06],0.3682557363786213
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,21502,253,1.07 [0.85-1.36],0.5661568520282718
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,23117,65,1.16 [0.73-1.84],0.5264103969170186
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Other septicaemia,22804,1254,0.94 [0.85-1.05],0.2721068500960647
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,22817,82,1.24 [0.83-1.87],0.2946364718361657
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Other viral diseases,23052,143,1.16 [0.85-1.58],0.364218507178118
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",23029,120,1.22 [0.87-1.72],0.2417051615044082
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,21427,503,1.22 [1.04-1.45],0.017526718057143
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,21235,311,0.96 [0.77-1.19],0.7179764003882604
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,21385,136,1.08 [0.78-1.50],0.6304440782001446
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,23102,52,0.80 [0.47-1.36],0.4140659336296477
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,23048,175,1.06 [0.80-1.42],0.6655212652006484
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Viral warts,22930,57,1.72 [1.08-2.73],0.0227434116762266
+PLXNB3,Plexin-B3,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],22952,79,0.83 [0.54-1.28],0.4010945861724182
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Benign lipomatous neoplasm,22824,262,0.80 [0.63-1.01],0.0604645723686652
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,23035,39,0.89 [0.48-1.64],0.7000714997947883
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,23016,42,0.96 [0.54-1.73],0.903057307800841
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,11009,84,0.67 [0.44-1.02],0.0606810355671958
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",22653,1666,1.06 [0.97-1.16],0.2131905743501589
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Benign neoplasm of meninges,23103,65,1.11 [0.70-1.76],0.6662408511412248
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,23020,81,1.10 [0.72-1.66],0.6597281917114368
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,23090,118,0.89 [0.63-1.27],0.5274157533324364
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Benign neoplasm of ovary,12038,79,0.98 [0.64-1.50],0.915072974159978
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Benign neoplasm: Ascending colon,23077,439,1.03 [0.86-1.23],0.7837817395218669
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Benign neoplasm: Caecum,23082,382,0.94 [0.77-1.14],0.511171917538473
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",22968,88,0.78 [0.52-1.18],0.2452295742829923
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Benign neoplasm: Descending colon,23074,253,1.12 [0.88-1.41],0.3600698154694701
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Benign neoplasm: Rectum,23033,401,0.95 [0.79-1.15],0.6214369473645769
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,22965,672,1.12 [0.97-1.29],0.1224453480235458
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Benign neoplasm: Transverse colon,23059,543,1.10 [0.94-1.29],0.2502862434854229
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Carcinoma in situ of breast,9043,49,0.84 [0.48-1.46],0.535185488143284
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",9085,65,1.15 [0.72-1.83],0.5573338252428932
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",16475,72,0.70 [0.45-1.10],0.1226146857756702
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",16500,97,0.94 [0.64-1.39],0.7672886348465275
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",23060,125,0.79 [0.56-1.11],0.1707289991669829
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Haemangioma, any site",23061,122,0.78 [0.55-1.11],0.1747220773722379
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Leiomyoma of uterus,11769,169,0.89 [0.66-1.19],0.4227505603528959
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Lung cancer and mesothelioma,14612,477,0.97 [0.82-1.16],0.7512628915193784
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Lymphoid leukaemia,16476,73,0.67 [0.43-1.03],0.069193387289095
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",16628,225,1.04 [0.81-1.33],0.7826704728232078
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",16724,321,1.02 [0.83-1.26],0.8574639156623556
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",9164,103,0.80 [0.54-1.18],0.2513353122067946
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",16515,112,1.07 [0.75-1.53],0.7021020273843093
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",16548,145,1.16 [0.85-1.58],0.3377092827505449
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",16528,125,0.86 [0.61-1.22],0.3995082532465237
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",9149,88,0.74 [0.49-1.13],0.1668271758101757
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",16531,128,0.96 [0.69-1.35],0.835645259726387
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",8314,972,0.94 [0.83-1.06],0.3011020697330594
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",16542,139,0.90 [0.65-1.24],0.5261120923816234
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",16495,92,1.46 [1.00-2.13],0.0493111700087345
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,16549,146,0.90 [0.66-1.23],0.5111707061505663
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Melanocytic naevi,22969,185,1.06 [0.81-1.40],0.6666114760369846
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Melanocytic naevi of trunk,23088,79,1.46 [0.98-2.18],0.0659021627075676
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Melanoma in situ,16455,110,1.34 [0.94-1.91],0.1030195664557131
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",16523,120,0.91 [0.64-1.29],0.5884940328874082
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",16602,199,0.96 [0.74-1.26],0.7867547117238947
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",16728,325,0.79 [0.64-0.98],0.0330374754251616
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",16531,128,0.96 [0.69-1.35],0.8307356047155963
+PLXNB3,Plexin-B3,Chapter II Neoplasms,Other benign neoplasms of skin,22944,165,0.92 [0.68-1.24],0.5801567675454256
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",17899,1496,0.96 [0.87-1.05],0.3679207152366583
+PLXNB3,Plexin-B3,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",17983,1580,0.97 [0.88-1.07],0.5314821538028094
+PLXNB3,Plexin-B3,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,22806,400,0.78 [0.64-0.95],0.0126912937037572
+PLXNB3,Plexin-B3,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,20791,165,1.01 [0.75-1.36],0.9361005422072136
+PLXNB3,Plexin-B3,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,22477,71,1.06 [0.68-1.66],0.7967785369458928
+PLXNB3,Plexin-B3,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,22351,3510,1.06 [0.99-1.13],0.0833248185691161
+PLXNB3,Plexin-B3,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,21388,73,1.60 [1.05-2.44],0.0289144165563739
+PLXNB3,Plexin-B3,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,22643,61,1.11 [0.69-1.79],0.6720270856008052
+PLXNB3,Plexin-B3,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,22605,1979,1.06 [0.97-1.15],0.1847148266165692
+PLXNB3,Plexin-B3,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,22603,1977,1.06 [0.97-1.15],0.1970218420776406
+PLXNB3,Plexin-B3,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,20742,116,0.58 [0.40-0.83],0.0027017636893445
+PLXNB3,Plexin-B3,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,22749,1434,1.30 [1.18-1.44],1.0015579668626909e-07
+PLXNB3,Plexin-B3,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,22692,110,0.77 [0.53-1.12],0.1735603209581199
+PLXNB3,Plexin-B3,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,22482,76,1.51 [0.99-2.29],0.0544148660157303
+PLXNB3,Plexin-B3,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,22483,77,1.08 [0.70-1.65],0.7382934826832422
+PLXNB3,Plexin-B3,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,22937,355,0.65 [0.53-0.81],5.799110641661369e-05
+PLXNB3,Plexin-B3,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,22985,39,0.65 [0.35-1.21],0.1787052106349551
+PLXNB3,Plexin-B3,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",22873,291,0.53 [0.43-0.67],5.050871075483814e-08
+PLXNB3,Plexin-B3,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,21452,137,1.23 [0.90-1.70],0.193800469081356
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,15435,421,1.00 [0.83-1.21],0.9824775307067392
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,21612,103,1.03 [0.70-1.50],0.8840947048670593
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,21622,113,1.11 [0.78-1.59],0.5547138916376565
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,15085,71,1.00 [0.64-1.57],0.9966886172616162
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,21476,65,0.71 [0.44-1.15],0.1645087455477232
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,20690,317,0.93 [0.75-1.16],0.521168063059972
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",22317,956,0.91 [0.81-1.03],0.1498086919637172
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,21843,482,0.93 [0.78-1.11],0.411232289745334
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,21579,218,1.18 [0.92-1.52],0.1992288910269894
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,22829,1418,1.10 [1.00-1.22],0.0587959642733834
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,19442,1373,1.11 [1.00-1.23],0.0431994672924353
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",15105,91,0.71 [0.47-1.06],0.0971318218767679
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",20808,100,1.06 [0.72-1.54],0.7722497429836337
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,15379,365,0.88 [0.72-1.08],0.2286287857547015
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,15071,57,1.42 [0.88-2.30],0.1479072194612292
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,19619,4605,1.04 [0.98-1.10],0.1826340066039635
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,15282,268,0.97 [0.77-1.23],0.795345794485144
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,15730,716,0.99 [0.85-1.14],0.8466417453640506
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,23059,372,1.12 [0.92-1.36],0.262090604978546
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,22848,161,0.76 [0.56-1.04],0.0863380598134638
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,15171,157,1.03 [0.76-1.39],0.8707152273321981
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",15097,83,0.87 [0.57-1.33],0.5155852324554882
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,22472,1764,1.03 [0.95-1.13],0.4578062029157499
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,15406,392,1.00 [0.82-1.21],0.9864196483801524
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,15446,432,0.98 [0.82-1.18],0.8323109833774112
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",15887,873,1.05 [0.92-1.19],0.477404563346938
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,15190,176,0.78 [0.58-1.04],0.0937223958269309
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,22838,151,0.76 [0.55-1.04],0.0839701002752148
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,15920,906,1.02 [0.90-1.16],0.7289859156878546
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,15673,659,0.92 [0.79-1.07],0.2571545648764449
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,20452,79,0.84 [0.54-1.28],0.4106598675514078
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,21462,6448,1.02 [0.97-1.07],0.5008364950186364
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,20768,60,0.87 [0.53-1.43],0.5782878258886571
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,20758,50,0.78 [0.45-1.35],0.3681736431651907
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,22933,1908,0.95 [0.87-1.04],0.2590471741144291
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",22931,1906,0.95 [0.87-1.04],0.2879344517343409
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,20774,66,1.26 [0.80-1.99],0.3112152133505577
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,22760,1130,1.04 [0.93-1.17],0.4758200744870056
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",17273,2259,0.97 [0.90-1.05],0.4692158659528026
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,23101,317,0.96 [0.78-1.19],0.7257094240003314
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,21493,132,1.06 [0.76-1.47],0.7475216772193816
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,21747,117,0.85 [0.59-1.22],0.3721106842618393
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,21796,166,1.46 [1.10-1.94],0.0082832749215591
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",15210,196,1.17 [0.90-1.53],0.2392657388265945
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,20319,180,1.30 [0.99-1.71],0.0582757995685251
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,2472,100,0.97 [0.65-1.44],0.8744172228266357
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,2638,308,0.93 [0.74-1.16],0.5216936440395478
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,20224,85,1.10 [0.74-1.66],0.6308997454918825
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,2446,77,0.62 [0.39-0.98],0.0413517889984724
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,22271,2132,1.15 [1.06-1.24],0.0008681308213089
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,21985,624,0.84 [0.72-0.99],0.0339893224623404
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,20822,449,1.02 [0.85-1.22],0.8368939938516534
+PLXNB3,Plexin-B3,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,16142,1128,0.99 [0.89-1.11],0.8874664312314404
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",22980,308,0.93 [0.75-1.15],0.4971205094557895
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),21607,270,0.88 [0.69-1.11],0.2665477007008322
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Angina pectoris,19959,1579,0.96 [0.88-1.06],0.4484299460515423
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Aortic aneurysm,21713,376,0.86 [0.71-1.05],0.1326605564370949
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,21427,90,1.21 [0.82-1.80],0.3336010499265871
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",21628,291,1.01 [0.81-1.26],0.9134521093515172
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,11678,2844,0.91 [0.85-0.98],0.0101537455451706
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,AV-block,17543,676,1.01 [0.87-1.16],0.9411793761614716
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",23033,575,0.78 [0.67-0.92],0.0028542438283224
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Cardiac arrest,9098,264,1.18 [0.94-1.48],0.1600389595394286
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Cardiomyopathy,17072,205,0.67 [0.51-0.88],0.0034558483710318
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",16979,112,0.82 [0.57-1.17],0.2731721855055873
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,23111,83,1.15 [0.76-1.74],0.5047786884118294
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Conduction disorders,18430,1563,0.98 [0.89-1.08],0.6350879263327398
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,21111,2755,0.97 [0.90-1.04],0.4418704196510531
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,18526,8896,1.02 [0.98-1.06],0.3907172820635709
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,DVT of lower extremities,21540,339,0.95 [0.77-1.17],0.6065735506448944
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Endocarditis,16970,103,1.25 [0.87-1.80],0.231546068850821
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,"Heart failure, strict",22823,1670,1.00 [0.91-1.09],0.9182741398651264
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Hypertension,19766,7916,1.03 [0.99-1.07],0.1951146564810378
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,"Hypertension, essential",19785,7935,1.03 [0.98-1.07],0.2400355631520897
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,"Hypertension, portal",22944,99,1.00 [0.68-1.46],0.9896290879187776
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",12117,267,1.01 [0.80-1.28],0.9184364490375996
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,12058,208,1.23 [0.95-1.59],0.1178718396097789
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Hypotension,22932,1646,0.99 [0.90-1.08],0.7842367840630952
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,21815,148,0.82 [0.59-1.12],0.2117507328169921
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",21287,2907,0.97 [0.91-1.04],0.4342494199460818
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",22598,805,1.07 [0.93-1.22],0.3343264760372194
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Left bundle-branch block,17398,531,0.96 [0.82-1.14],0.655424418039961
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,22421,1060,0.99 [0.88-1.12],0.8996613009420356
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",19291,911,1.00 [0.88-1.13],0.9846037021764628
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",22986,186,1.34 [1.03-1.75],0.0315980676633809
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",23071,409,0.90 [0.74-1.08],0.2578428094237445
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Oesophageal varices,21270,69,1.14 [0.73-1.80],0.5618742724813285
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Other aneurysm,21441,104,1.07 [0.74-1.54],0.7199016771426783
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Other arrhythmias,17468,601,0.99 [0.84-1.15],0.8521385778612725
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,21476,139,1.11 [0.81-1.52],0.5288613152127847
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,21670,333,0.88 [0.72-1.09],0.2506619390048148
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,17090,223,0.87 [0.67-1.12],0.2836603449457856
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Other disorders of veins,21321,120,1.02 [0.72-1.44],0.9088182020874584
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,21247,46,0.95 [0.54-1.66],0.8583526799560419
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,21052,91,0.76 [0.50-1.14],0.1801960520080587
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,21380,179,0.99 [0.74-1.32],0.9603506764743592
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,18333,1466,0.91 [0.82-1.01],0.0637291690836688
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,21348,62,0.90 [0.55-1.47],0.6756305581640576
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,22072,735,0.94 [0.81-1.08],0.3531125776009691
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,22341,536,1.03 [0.88-1.22],0.7060146512846479
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",21938,977,0.96 [0.85-1.08],0.4690663208822151
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,9254,420,0.88 [0.73-1.07],0.1964410108789371
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Peripheral artery disease,21897,596,0.93 [0.79-1.09],0.3504879530826134
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),21627,426,0.94 [0.78-1.13],0.4858584029452526
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Pulmonary embolism,22411,606,0.99 [0.85-1.16],0.9256394477751158
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,23014,980,0.91 [0.81-1.03],0.1495494842496355
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Right bundle-branch block,17386,519,0.98 [0.83-1.16],0.8533016833206509
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Secondary right heart disease,22334,529,1.03 [0.88-1.22],0.7036326221659833
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,21225,264,0.95 [0.75-1.20],0.6674174905534109
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",22584,917,1.04 [0.92-1.18],0.5364994357669759
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",22569,957,1.03 [0.91-1.17],0.5912788477200721
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,21782,63,0.82 [0.50-1.33],0.416388467433178
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,21443,106,0.94 [0.65-1.36],0.7561824252880007
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Transient ischemic attack,22119,326,0.92 [0.74-1.13],0.4163479679419783
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,21697,336,1.10 [0.90-1.35],0.3583199484587066
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Varicose veins,21720,519,1.09 [0.92-1.28],0.3313234854789474
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,21358,124,0.79 [0.56-1.12],0.1936033845812306
+PLXNB3,Plexin-B3,Chapter IX Diseases of the circulatory system,Venous thromboembolism,22838,955,0.97 [0.86-1.10],0.672596366137842
+PLXNB3,Plexin-B3,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",23033,334,1.12 [0.91-1.37],0.292841717704159
+PLXNB3,Plexin-B3,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",19746,1378,1.08 [0.97-1.19],0.1521557256444803
+PLXNB3,Plexin-B3,Chapter V Mental and behavioural disorders,Any mental disorder,22579,4211,1.04 [0.98-1.10],0.1972190886866325
+PLXNB3,Plexin-B3,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",23005,393,1.11 [0.91-1.34],0.2990674440765268
+PLXNB3,Plexin-B3,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",19813,1445,1.11 [1.00-1.22],0.0446734633689972
+PLXNB3,Plexin-B3,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",18455,87,1.12 [0.75-1.67],0.5930929148121842
+PLXNB3,Plexin-B3,Chapter V Mental and behavioural disorders,Smoking dependency,22601,1177,1.02 [0.91-1.14],0.7388122694643178
+PLXNB3,Plexin-B3,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",19817,1449,1.02 [0.92-1.13],0.6813472499061948
+PLXNB3,Plexin-B3,Chapter V Mental and behavioural disorders,Vascular dementia,22216,231,0.82 [0.64-1.07],0.1396191125379445
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Alzheimer disease,23113,591,0.98 [0.84-1.15],0.829589633902424
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",14153,110,1.05 [0.73-1.51],0.7950519565206995
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Bell's palsy,21257,86,1.09 [0.73-1.62],0.6844454098629571
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,21662,491,1.06 [0.90-1.26],0.4791886432732307
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Cerebral cysts,22666,250,1.17 [0.93-1.48],0.1861767368928848
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,23039,412,0.91 [0.75-1.09],0.309239818998837
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,22258,76,1.22 [0.80-1.87],0.3476117936056919
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,23095,69,0.78 [0.49-1.23],0.2834518876200544
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",22503,87,1.14 [0.76-1.71],0.5182176200658353
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Epilepsy,21596,306,0.92 [0.74-1.14],0.4465439244337638
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,22647,1357,0.97 [0.88-1.08],0.6199919913119798
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,23062,927,1.00 [0.88-1.13],0.975019060602205
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Falls/tendency to fall,22452,3454,0.95 [0.89-1.01],0.1215423451455883
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Generalized epilepsy,22731,54,1.34 [0.81-2.21],0.2555493491300096
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Hemiplegia,22964,337,0.99 [0.80-1.21],0.8964058071650645
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Hydrocephalus,22489,73,0.92 [0.59-1.44],0.7256405789761831
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,23101,72,1.52 [0.99-2.31],0.0542604765880637
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,21236,65,0.93 [0.58-1.49],0.7521425231806036
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,21242,71,0.94 [0.60-1.47],0.7744696809562399
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Memory loss,21963,140,0.91 [0.66-1.26],0.5630701916548122
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Migraine,21573,283,1.03 [0.82-1.28],0.8220378169641179
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",23065,259,1.01 [0.80-1.28],0.9249113095053716
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Motor neuron disease,14237,171,1.02 [0.76-1.37],0.8857265159326627
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,22983,58,0.88 [0.53-1.45],0.6119642183976727
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",22401,1230,1.03 [0.93-1.15],0.577759457573221
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Neurological diseases,21627,4362,0.99 [0.94-1.05],0.7874896600877992
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,22508,326,0.89 [0.72-1.10],0.2966649361600405
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",21599,428,1.13 [0.95-1.36],0.1707737340239767
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",23033,353,1.01 [0.83-1.24],0.8972321107519353
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,17284,978,0.98 [0.86-1.11],0.7242787576827989
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,22502,86,1.16 [0.78-1.73],0.4700696473665569
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Other disorders of nervous system,22578,162,0.82 [0.61-1.12],0.2099630269904952
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,22370,235,0.99 [0.78-1.27],0.961281127126266
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Other facial nerve disorders,21268,97,1.11 [0.76-1.62],0.5743444849317103
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Other headache syndromes,21343,53,0.62 [0.36-1.07],0.0857388538792293
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Other neurological diseases,23001,585,1.02 [0.87-1.19],0.791319739571968
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Other sleep disorders,21805,515,0.99 [0.84-1.17],0.922062145599822
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Parkinson's disease,23082,687,0.97 [0.84-1.12],0.6833648833287111
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,22462,46,1.45 [0.85-2.47],0.1683378350084967
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Restless leg syndrome,23114,107,1.01 [0.70-1.47],0.9394797591540917
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Sleep apnoea,22878,435,1.00 [0.83-1.20],0.9858231329971664
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Small fibre neuropathy,22742,62,0.75 [0.46-1.23],0.2561130045971663
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,23102,199,0.96 [0.74-1.26],0.7940334652174823
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,21240,69,0.80 [0.50-1.28],0.3534841999992267
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,23113,597,0.98 [0.83-1.14],0.7698462816790712
+PLXNB3,Plexin-B3,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),22154,225,0.82 [0.63-1.06],0.1253366720857604
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,22465,155,1.08 [0.79-1.46],0.6373853136168948
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,22650,561,0.94 [0.80-1.11],0.4666103061445865
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,22856,265,1.00 [0.79-1.27],0.9775351821636374
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,21877,68,0.93 [0.59-1.49],0.7741619503236702
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,21846,37,1.90 [1.07-3.36],0.0280081233167676
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",22990,73,1.24 [0.80-1.91],0.3396534437582115
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,22798,224,0.95 [0.74-1.23],0.7194531083101088
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",2450,78,0.61 [0.38-0.97],0.0350372300411979
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,3021,114,0.93 [0.64-1.34],0.6956647404346954
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,22416,106,1.15 [0.80-1.64],0.4588656808854194
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,22808,1428,1.00 [0.90-1.11],0.9990649824271948
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",22697,888,1.04 [0.92-1.18],0.5458499132630488
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,22114,305,1.13 [0.91-1.40],0.2785630249156406
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",23038,949,0.96 [0.85-1.08],0.50107571791245
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,23108,81,1.86 [1.27-2.74],0.001608663606584
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,22965,876,0.96 [0.84-1.09],0.4848335168975404
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",23074,500,0.99 [0.83-1.17],0.8687596471532658
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,22991,228,1.22 [0.95-1.56],0.1138312475903606
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,21910,101,1.05 [0.72-1.53],0.8075502367536996
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,21916,107,0.89 [0.61-1.29],0.5273488152086983
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,21885,76,1.04 [0.67-1.60],0.8689257229465355
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,22974,1006,1.02 [0.91-1.15],0.7023807433399452
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,22235,267,1.06 [0.84-1.34],0.6068332756788498
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,22160,71,0.67 [0.42-1.07],0.0939709561605295
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,22697,123,0.94 [0.67-1.32],0.7130578380705943
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,22965,391,0.98 [0.81-1.18],0.8173621261591512
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,22312,223,1.02 [0.79-1.31],0.8716965485929631
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,22907,144,1.11 [0.81-1.51],0.5194650252917339
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,22639,671,1.03 [0.89-1.20],0.6617017426755033
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,22471,161,0.87 [0.65-1.18],0.3835119433071998
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,20669,3255,1.05 [0.99-1.12],0.1295954356108344
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,22920,346,0.97 [0.79-1.19],0.7931558193954467
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,23099,193,1.02 [0.78-1.34],0.8910286441889023
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,22355,546,0.97 [0.83-1.15],0.7507725138392539
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,22664,90,0.93 [0.62-1.39],0.7249384742398131
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,23099,72,1.83 [1.21-2.76],0.0040186765190899
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,21937,128,0.96 [0.68-1.34],0.7917673084765151
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,21984,175,0.83 [0.62-1.12],0.2252685346895293
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,21546,166,1.09 [0.82-1.46],0.5544927671329487
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,22152,63,0.86 [0.53-1.39],0.5405300615494948
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",21454,74,0.59 [0.38-0.94],0.0263230340962291
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,22082,114,0.82 [0.57-1.18],0.2930790825995482
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",22263,295,1.28 [1.04-1.59],0.0228772302926134
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,21970,161,0.97 [0.72-1.31],0.8432152740828643
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,21478,98,1.31 [0.91-1.90],0.1460517055307955
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,21515,135,0.94 [0.68-1.31],0.7222848401195952
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,20156,2742,1.00 [0.93-1.07],0.9115461874352406
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,21899,90,1.04 [0.70-1.55],0.836252639699549
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,22817,507,1.05 [0.88-1.24],0.6045733291279392
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,22391,81,1.23 [0.81-1.85],0.3319861598247865
+PLXNB3,Plexin-B3,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),22522,212,1.09 [0.84-1.41],0.5301799749784804
+PLXNB3,Plexin-B3,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,22896,113,0.82 [0.57-1.18],0.2919504934101058
+PLXNB3,Plexin-B3,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,23067,138,1.02 [0.74-1.40],0.9152729360241278
+PLXNB3,Plexin-B3,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,22974,118,1.26 [0.90-1.77],0.1825486383500709
+PLXNB3,Plexin-B3,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,22848,65,0.86 [0.53-1.39],0.541448737084016
+PLXNB3,Plexin-B3,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,22851,68,0.90 [0.57-1.43],0.6635115052725653
+PLXNB3,Plexin-B3,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,23007,1250,0.96 [0.86-1.07],0.43803000020176
+PLXNB3,Plexin-B3,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,22704,947,1.00 [0.88-1.13],0.9896349662643006
+PLXNB3,Plexin-B3,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,21910,153,0.64 [0.46-0.87],0.0045971129023772
+PLXNB3,Plexin-B3,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,21847,90,0.99 [0.66-1.47],0.9532000384652428
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Acute pharyngitis,22923,65,0.99 [0.62-1.59],0.9730482820156324
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,23043,185,1.02 [0.77-1.35],0.8872955782351285
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,22921,63,1.15 [0.72-1.83],0.565459511498086
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,All influenza,20428,159,1.06 [0.79-1.43],0.6917804007283184
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),20425,156,1.09 [0.81-1.48],0.5593581021843553
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Allergic asthma (mode),14238,103,1.33 [0.92-1.92],0.1241040651382643
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Allergic rhinitis,23004,240,0.97 [0.76-1.23],0.7982887900361526
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",15460,1715,1.04 [0.95-1.14],0.4112108720692119
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",15828,1693,1.04 [0.94-1.14],0.4624151682553152
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),22592,180,1.05 [0.80-1.40],0.7119027145219077
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",20374,105,1.07 [0.74-1.54],0.724319291685454
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Bronchiectasis,19371,519,1.25 [1.06-1.47],0.0080982083549236
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",18927,75,1.94 [1.30-2.90],0.0012789279787922
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,21985,3133,1.07 [1.00-1.14],0.0502291196052483
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",21895,72,1.26 [0.81-1.94],0.3028120169389627
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Chronic sinusitis,21958,135,0.99 [0.71-1.37],0.9528914571729452
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",22829,1633,1.09 [1.00-1.20],0.060444576782366
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Deviated nasal septum,21900,77,1.00 [0.65-1.54],0.9930902427208862
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,20960,6101,1.06 [1.01-1.11],0.0237253372979961
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",22154,331,0.99 [0.81-1.22],0.9423342048567938
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Early onset COPD,21304,108,0.99 [0.69-1.42],0.9548702793922637
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Emphysema,19291,439,1.17 [0.98-1.39],0.0909604703877309
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,21813,456,1.10 [0.92-1.31],0.2960946697194775
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Influenza and pneumonia,22862,2593,1.03 [0.96-1.11],0.3795188189603523
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Interstitial lung disease,21858,501,1.11 [0.94-1.31],0.216256068635683
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Later onset COPD,22601,1525,1.10 [1.00-1.21],0.0469984456729361
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,23098,498,1.10 [0.93-1.31],0.2473819303916207
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Nasal polyp,21919,96,0.95 [0.64-1.40],0.7902278787465356
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,22830,1300,1.04 [0.94-1.16],0.4310445915406377
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Other diseases of pleura,22821,2693,1.02 [0.95-1.10],0.6259311461096361
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,22571,748,1.01 [0.88-1.16],0.8819620123038276
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Other pleural conditions,20197,69,0.78 [0.49-1.24],0.2896621127039425
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,22992,600,1.10 [0.95-1.29],0.2102706418944743
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,22986,1723,1.06 [0.97-1.16],0.1920944844039516
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Pleural effusion,21497,1369,1.00 [0.90-1.11],0.9867016263616016
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Pleural plaque,20381,253,1.04 [0.82-1.32],0.7185794337781745
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",22573,2304,1.04 [0.96-1.12],0.3388317301625834
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,22988,388,1.11 [0.92-1.34],0.2863306650121
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Pneumothorax,20298,170,0.81 [0.60-1.09],0.1608957621206266
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Pollen allergy,23102,205,1.04 [0.80-1.35],0.7837628603242667
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Pulmonary oedema,22487,95,0.96 [0.65-1.42],0.838782772670484
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Respiratory insufficiency,14205,70,1.53 [0.98-2.38],0.0638367363862576
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,22807,1277,1.04 [0.94-1.16],0.4425805199500359
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,22065,242,0.98 [0.77-1.25],0.8811352070562521
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Viral pneumonia,20572,303,1.04 [0.83-1.29],0.7511193087387555
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",22601,242,0.99 [0.78-1.27],0.9516201498911134
+PLXNB3,Plexin-B3,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,7367,119,1.04 [0.73-1.48],0.8225511781675264
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,14638,61,1.18 [0.73-1.90],0.5002343794914015
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Acute appendicitis,23000,125,1.12 [0.80-1.57],0.4922841778620082
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Acute gastritis,16046,107,1.14 [0.79-1.63],0.4869080599852595
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Acute pancreatitis,21049,197,1.32 [1.02-1.72],0.0352207867755857
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Acute peritonitis,22620,110,1.31 [0.92-1.86],0.1282516758628529
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Alcoholic liver disease,22130,65,1.16 [0.73-1.84],0.5307674825051227
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Barrett oesophagus,16449,510,0.95 [0.81-1.13],0.5842416970922606
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",21001,149,1.16 [0.86-1.58],0.3268887850871589
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",22694,149,1.15 [0.85-1.56],0.3736557142501043
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Cholecystitis,21075,223,0.98 [0.76-1.26],0.8462642843411712
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Cholelithiasis,21909,1057,1.12 [1.00-1.25],0.0586616491697539
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Chronic gastritis,16288,349,0.99 [0.81-1.21],0.9414589349087612
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Chronic pancreatitis,20907,55,1.03 [0.62-1.71],0.9184639301013532
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",22976,131,0.97 [0.69-1.35],0.8531874614475295
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Coeliac disease,21377,127,1.14 [0.82-1.58],0.4462852920875548
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Collagenous colitis,21373,100,0.94 [0.64-1.38],0.7552510604059282
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,22996,157,0.92 [0.68-1.25],0.6063179284209068
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Constipation,22825,2136,0.97 [0.89-1.05],0.4488767651687242
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Crohn disease,21362,89,1.25 [0.84-1.85],0.2652730695770248
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",22764,68,1.08 [0.69-1.71],0.7327326492853566
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Crohn's disease NAS,21354,81,1.37 [0.91-2.06],0.1305172831810531
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Dental caries,22493,184,1.05 [0.79-1.38],0.7483811389555484
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,19948,2564,0.99 [0.91-1.06],0.6995130796839687
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Diseases of appendix,23029,154,1.00 [0.74-1.36],0.98466401491883
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Diseases of liver,22993,928,0.94 [0.83-1.07],0.368423445566008
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",20533,4594,1.01 [0.95-1.06],0.8192094390051412
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",22782,473,1.00 [0.84-1.19],0.9943192548034758
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Diseases of peritoneum,23023,513,1.00 [0.84-1.18],0.9662226543147582
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,22402,93,0.85 [0.57-1.26],0.4106241742099841
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Diseases of salivary glands,22274,60,1.20 [0.74-1.93],0.4591105303650975
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Diseases of the digestive system,22774,1524,0.99 [0.90-1.09],0.8175718144030336
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Diseases of tongue,22292,94,1.09 [0.75-1.61],0.6463954800916588
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",22386,1534,1.13 [1.03-1.24],0.011607481507209
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,18357,3780,0.98 [0.92-1.04],0.5458912577063937
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Duodenal ulcer,16188,249,0.94 [0.74-1.20],0.6328734903429178
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",23020,203,1.01 [0.78-1.32],0.9402363777045888
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,23077,28,1.76 [0.91-3.41],0.092437792900921
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,22218,153,0.98 [0.72-1.33],0.9028280102221992
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,14683,106,1.21 [0.84-1.73],0.3026538514663936
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Functional dyspepsia,16504,565,1.07 [0.92-1.25],0.392744483802931
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Gastric ulcer,16373,434,1.12 [0.93-1.33],0.2257431730285726
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,18610,2671,0.97 [0.90-1.04],0.3491427774173071
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,16598,659,1.07 [0.93-1.24],0.3611561127936284
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,16656,8194,0.98 [0.94-1.02],0.3252602819056154
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,GI-bleeding,22516,1266,0.96 [0.87-1.07],0.4875768078469671
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,22353,44,0.71 [0.39-1.28],0.2575717155128317
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,15564,1178,0.86 [0.77-0.96],0.0078964775047434
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",22134,69,0.78 [0.49-1.25],0.3021413941603802
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Hernia,21046,3662,0.98 [0.92-1.04],0.5550519437110575
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Impacted teeth,23081,26,2.07 [1.06-4.03],0.0320734521331732
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Impaction of intestines,14655,78,0.95 [0.62-1.47],0.8273717647987808
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Inguinal hernia,18488,1104,0.95 [0.85-1.06],0.3731817273234167
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",17507,123,0.98 [0.70-1.37],0.8990930955088128
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,14693,116,0.98 [0.69-1.40],0.9158841627800468
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Intestinal malabsorption,21396,146,1.05 [0.77-1.43],0.7633535104803967
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,15092,515,1.01 [0.85-1.19],0.944445436800182
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,23081,340,1.11 [0.91-1.36],0.3147057644315409
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,22056,783,1.15 [1.01-1.32],0.0386502769352372
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,22356,1083,1.08 [0.96-1.21],0.2058830307535628
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Oesophageal obstruction,16158,219,0.92 [0.71-1.18],0.5007576750516776
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Oesophagitis,16641,702,1.02 [0.89-1.18],0.743813939178616
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,23057,134,1.09 [0.79-1.50],0.6174466875278457
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,17472,88,0.88 [0.59-1.32],0.5409259267653397
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,15953,1376,0.99 [0.90-1.10],0.9236932195945108
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,21217,365,1.06 [0.87-1.30],0.5435618474559325
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,20999,147,1.03 [0.75-1.41],0.8509838711591745
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Other diseases of intestine,16512,1935,0.93 [0.85-1.01],0.0955703541971522
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Other diseases of intestines,20787,6210,0.98 [0.94-1.03],0.4514865180246553
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,22252,209,1.10 [0.85-1.42],0.4882383716656661
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Other diseases of liver,22836,771,0.95 [0.83-1.09],0.4822734357017484
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,16711,772,0.93 [0.81-1.07],0.3195512141534482
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Other diseases of pancreas,21069,217,0.92 [0.71-1.20],0.5524268076817602
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,22946,436,0.94 [0.78-1.13],0.5048941581261359
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,17037,1098,1.02 [0.91-1.14],0.7317087328056141
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,22533,1283,0.97 [0.87-1.08],0.6064445900186206
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,22487,178,0.95 [0.71-1.26],0.6990550339619961
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,16759,2182,0.97 [0.89-1.05],0.4820472800512109
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),18109,2170,0.97 [0.89-1.05],0.4155184404244894
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,22181,116,1.01 [0.71-1.44],0.9376496130531398
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,22227,954,1.09 [0.97-1.23],0.1500328012805564
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",15026,449,0.93 [0.78-1.12],0.4599227441580134
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,23073,32,1.91 [1.04-3.52],0.0369885308077217
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,15196,619,0.93 [0.80-1.09],0.3725583587934544
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",21406,156,1.01 [0.75-1.37],0.9320228433027076
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Recurring oral aphthae,23102,54,0.72 [0.42-1.23],0.2266121603288831
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,22303,105,0.98 [0.68-1.42],0.931497165030827
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Toxic colitis,21354,81,0.78 [0.50-1.20],0.2564937460541057
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,16286,347,1.03 [0.84-1.27],0.7512200709464635
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Ulcerative colitis,21442,169,1.18 [0.89-1.57],0.2590300110858854
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",21408,135,1.15 [0.84-1.59],0.3803922106787597
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Umbilical hernia,17641,257,0.97 [0.76-1.22],0.7838223852213748
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,14825,248,0.84 [0.66-1.08],0.1772045539908917
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Ventral hernia,17678,294,1.01 [0.81-1.26],0.9283456882372788
+PLXNB3,Plexin-B3,Chapter XI Diseases of the digestive system,Volvulus,14671,94,0.82 [0.55-1.22],0.3338934099836312
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,23005,422,1.01 [0.84-1.21],0.955240831651778
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,22753,66,1.15 [0.73-1.82],0.5444583750986058
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,20548,165,1.04 [0.77-1.39],0.7975293862645877
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,22479,826,1.00 [0.87-1.14],0.9791098299984908
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",21795,142,0.98 [0.71-1.34],0.8825834106547256
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,21016,633,0.82 [0.71-0.96],0.0133431461356981
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,22771,321,1.15 [0.93-1.41],0.1950600042265557
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,23012,562,1.07 [0.91-1.25],0.4305449577868793
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,22496,46,1.00 [0.57-1.74],0.9929541060201452
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,21507,3739,0.97 [0.91-1.04],0.3939435449694826
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,22679,441,1.05 [0.88-1.25],0.6152054094574401
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,22543,305,1.15 [0.93-1.43],0.1904368353501855
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,22730,1077,0.97 [0.86-1.09],0.6036137030912637
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",23094,62,0.98 [0.61-1.59],0.9407381829871018
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,20439,56,0.83 [0.49-1.39],0.4724715784020469
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,22302,64,0.69 [0.42-1.12],0.1296640860111722
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,22758,308,1.11 [0.90-1.38],0.326441701877695
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,20988,605,0.95 [0.81-1.11],0.5071714822618636
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,20473,90,0.80 [0.53-1.20],0.2761840709367071
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,23026,95,0.69 [0.46-1.03],0.0725815529595721
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,21895,242,1.06 [0.83-1.35],0.6340661525534653
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,22908,221,0.98 [0.76-1.26],0.8461088198437723
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,22544,94,0.90 [0.61-1.34],0.6166752573029373
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,20461,78,0.85 [0.55-1.31],0.4610369694366136
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,22499,2116,0.93 [0.86-1.01],0.1020304307396373
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",21033,650,0.94 [0.81-1.09],0.3854507129151121
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,20477,94,0.75 [0.51-1.12],0.1633799582671478
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,23021,334,1.03 [0.83-1.26],0.8118180254292962
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,22526,76,1.08 [0.70-1.66],0.7284838116331758
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,22958,271,1.04 [0.83-1.31],0.7050669009732843
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,23038,455,0.95 [0.80-1.14],0.5744206186272762
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,20506,123,0.98 [0.70-1.38],0.9187227118704544
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,20725,342,0.80 [0.65-0.99],0.0358326338778213
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,23026,443,0.97 [0.81-1.16],0.725615382342133
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",20721,338,1.02 [0.83-1.26],0.836951191984438
+PLXNB3,Plexin-B3,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,23087,156,0.73 [0.54-1.00],0.0523832668857421
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,19257,81,1.07 [0.70-1.62],0.7613318756193133
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,20367,6450,1.04 [0.99-1.09],0.0884189131251343
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,18958,5041,1.05 [1.00-1.11],0.0594865832796129
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,19228,52,0.73 [0.43-1.24],0.2471723924395431
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,19156,146,0.97 [0.71-1.33],0.8528410242290012
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,19205,195,0.91 [0.69-1.19],0.488498399576167
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,22854,65,1.10 [0.69-1.74],0.6955366900739649
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",19162,152,0.87 [0.63-1.18],0.3657036473513204
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,15396,1479,1.06 [0.96-1.17],0.2467172715803148
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",22902,245,1.13 [0.89-1.44],0.315276242659436
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,19597,587,0.98 [0.84-1.15],0.8144597644187112
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,18693,8042,1.03 [0.99-1.07],0.1627003900451126
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,20581,123,0.72 [0.50-1.02],0.0662244110644709
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,19356,180,0.88 [0.66-1.17],0.3718952656627595
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,19684,508,1.07 [0.90-1.26],0.4599029505917702
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,22171,3161,1.01 [0.94-1.08],0.8560067512340312
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,19488,312,0.76 [0.61-0.95],0.0160974265676315
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,19328,152,1.36 [1.01-1.83],0.0410944367594495
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,19293,117,1.15 [0.82-1.62],0.4220447088217667
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,22357,102,1.20 [0.83-1.74],0.3354441804800758
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,15945,2028,1.05 [0.97-1.14],0.2384184042440984
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,14716,799,1.12 [0.98-1.28],0.0999884447656066
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",23014,792,1.11 [0.97-1.27],0.1312858365586378
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,13993,76,1.47 [0.97-2.22],0.0691999660210109
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),14221,304,1.05 [0.84-1.30],0.6802198142756293
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,19440,264,0.94 [0.74-1.19],0.5973920183536403
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,14399,482,1.02 [0.86-1.21],0.8576890615024045
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,19092,82,1.43 [0.96-2.13],0.0822582282281288
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,19699,689,0.99 [0.86-1.15],0.9316227897975552
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,19328,318,1.12 [0.91-1.38],0.2764659600940834
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,14369,452,1.00 [0.84-1.19],0.9794787325947508
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,19247,71,0.99 [0.63-1.56],0.9705692898568212
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",19236,60,1.19 [0.74-1.92],0.4779580828494566
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,20545,87,0.98 [0.65-1.47],0.9133140270215616
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,22684,2226,0.95 [0.87-1.03],0.1965377998499812
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,22015,1557,0.97 [0.88-1.06],0.4814174963117396
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",22945,537,1.12 [0.95-1.32],0.1652444267509117
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,17057,3140,1.07 [1.00-1.15],0.0367786564874993
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,13959,42,0.82 [0.45-1.49],0.5142979841958578
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,19282,106,1.30 [0.91-1.86],0.1499997048141876
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,13989,72,1.15 [0.74-1.79],0.5375387095264694
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),14053,136,1.07 [0.77-1.48],0.6957144827255901
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,20698,240,1.01 [0.79-1.29],0.9227636543335098
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,20969,511,0.87 [0.74-1.03],0.1165118398338447
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,23090,111,1.21 [0.85-1.72],0.2926980314109411
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",21012,2002,1.01 [0.92-1.09],0.8901964450094708
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,19255,79,1.42 [0.95-2.14],0.0882557012135315
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),14073,156,1.22 [0.90-1.64],0.1936051780427389
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,19812,802,1.09 [0.96-1.24],0.1972147508172185
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,16107,2190,1.02 [0.94-1.11],0.6088770496666804
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,22384,129,1.19 [0.86-1.65],0.2983010402978405
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,23103,63,1.19 [0.75-1.90],0.4591498870131869
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,19253,77,0.89 [0.58-1.39],0.6162874718199506
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",20536,1360,1.07 [0.97-1.19],0.1858645101391479
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,19279,103,0.88 [0.60-1.29],0.5143872792552766
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,16005,2088,1.05 [0.97-1.14],0.2510088402633247
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,20573,115,0.96 [0.67-1.37],0.8147614551391852
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,19214,38,0.84 [0.45-1.57],0.57885477051867
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,19206,196,0.68 [0.51-0.90],0.0073628938697793
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,19867,691,1.02 [0.88-1.18],0.7847266034967342
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,22750,495,1.16 [0.98-1.38],0.0814793992338386
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,19673,663,0.97 [0.83-1.12],0.6588104442346276
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,22959,530,1.12 [0.95-1.31],0.1779036004937094
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,23087,69,1.45 [0.94-2.23],0.0951640543678499
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,19341,165,0.83 [0.62-1.13],0.2402032753363281
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,17949,883,0.95 [0.84-1.08],0.4522744885491794
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,19823,647,1.07 [0.93-1.25],0.341551692562709
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],19456,280,0.77 [0.61-0.97],0.0246582580337318
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",13986,69,1.28 [0.82-2.00],0.2730991625417178
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,17053,3136,1.07 [1.00-1.14],0.0479645374911796
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,14764,847,1.01 [0.88-1.15],0.9284534823901932
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,22632,377,1.10 [0.90-1.33],0.3479111312731358
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",23059,80,1.02 [0.67-1.56],0.93135921032767
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",20436,71,1.15 [0.74-1.78],0.5390184574172997
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,13981,64,1.18 [0.74-1.87],0.486360709703985
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,19116,106,0.98 [0.68-1.41],0.8979172725429225
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,14461,544,1.13 [0.96-1.32],0.138049633135743
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,19509,333,1.00 [0.81-1.23],0.9764803429518026
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,19299,289,1.14 [0.92-1.42],0.2342854616691915
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,19277,267,1.02 [0.81-1.29],0.8503970481220902
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,16209,66,1.38 [0.88-2.16],0.1557680498988881
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",23092,74,1.33 [0.87-2.04],0.1823353937183087
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,19725,549,1.02 [0.87-1.20],0.7649719502205914
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],22349,94,1.23 [0.84-1.80],0.2828441452900979
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,21819,2643,1.04 [0.97-1.12],0.2442164071494281
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",19326,150,1.00 [0.73-1.36],0.9968386639684464
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,19733,723,1.00 [0.87-1.15],0.9741710085577928
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,21746,274,0.70 [0.55-0.88],0.0026194169898099
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,19267,257,0.89 [0.70-1.13],0.3378493439379034
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,21030,2020,0.97 [0.89-1.06],0.5244968109879182
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,20325,1315,1.02 [0.92-1.13],0.7561536164091048
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],19240,64,1.24 [0.78-1.96],0.3667833901218233
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,22374,119,0.94 [0.67-1.34],0.7486404999899714
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,19337,161,1.24 [0.92-1.66],0.1528292942302678
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,19267,91,0.81 [0.54-1.22],0.3159109616971986
+PLXNB3,Plexin-B3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),13994,77,0.98 [0.64-1.50],0.9167227024887652
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Acute renal failure,21593,2262,1.00 [0.92-1.09],0.9530787311472636
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),9257,26,1.77 [0.89-3.54],0.1034083487035452
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,11746,34,1.51 [0.81-2.80],0.1911313978409182
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,22782,309,1.30 [1.05-1.60],0.0141235729471434
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,22576,103,0.94 [0.65-1.36],0.736182549149859
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,21677,2346,0.94 [0.87-1.02],0.1444755184689035
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,22880,131,1.06 [0.76-1.47],0.7458277022814327
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,22801,407,1.00 [0.83-1.21],0.9845248484146892
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Cystitis,19250,301,0.91 [0.73-1.14],0.4229993961779372
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Dialysis,19427,96,0.88 [0.59-1.30],0.5172473768528896
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,10183,2137,1.01 [0.93-1.09],0.8754332988728512
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Disorders of breast,11847,135,1.26 [0.92-1.74],0.1513992151757178
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Endometriosis,9271,40,1.49 [0.84-2.65],0.1680134066043986
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,9811,580,0.95 [0.81-1.11],0.5296666541069348
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,19024,6290,0.99 [0.95-1.04],0.7301158142130182
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,22848,99,0.84 [0.57-1.23],0.366333628312075
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Hydrocele,8164,118,0.74 [0.52-1.05],0.0893790247764838
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,19403,351,1.08 [0.88-1.32],0.4421939270925425
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,9862,1816,1.01 [0.92-1.10],0.8666187502777886
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,11909,160,1.05 [0.78-1.42],0.7560155733484277
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),8174,128,0.82 [0.58-1.15],0.2449372180033003
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,19039,90,1.21 [0.81-1.79],0.3502958044158282
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,10257,1026,0.93 [0.83-1.05],0.2659064888067354
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,8105,59,0.54 [0.33-0.88],0.0125703966387356
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,9271,40,0.58 [0.30-1.10],0.097608051733156
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",23099,89,1.05 [0.71-1.56],0.8039356547960314
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",23101,86,0.63 [0.41-0.96],0.0298488575982111
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,21908,2959,0.96 [0.89-1.03],0.2179309373055006
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,19896,947,0.92 [0.82-1.05],0.2134267240658519
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,11762,50,1.22 [0.72-2.05],0.4591264141391358
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,23025,631,1.01 [0.87-1.18],0.8862738760321532
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,8199,153,1.06 [0.78-1.43],0.7279616254724783
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,8209,163,1.07 [0.80-1.44],0.6308909264494988
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,8200,154,0.80 [0.59-1.09],0.1621419553426811
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,23071,85,0.89 [0.58-1.34],0.5709678230974219
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,21300,2351,0.98 [0.91-1.06],0.6540771413331199
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,11832,83,1.00 [0.66-1.52],0.9963472976903506
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,9296,65,1.24 [0.78-1.95],0.3663317242823786
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",9369,138,0.87 [0.62-1.20],0.3902633139890344
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,9284,53,0.84 [0.49-1.44],0.5315326306244001
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,9331,100,0.83 [0.56-1.23],0.3585253517623172
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,19463,411,1.05 [0.87-1.26],0.6155965138506561
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,22595,201,1.00 [0.76-1.30],0.9791491336536626
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,9354,123,1.05 [0.75-1.48],0.7622568985489372
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,9256,25,0.93 [0.43-2.01],0.8537905427735127
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,9441,210,0.94 [0.72-1.23],0.6672382312982146
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,9323,92,1.22 [0.83-1.80],0.31171258691993
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,9437,206,0.88 [0.67-1.16],0.3686918928403982
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,22796,47,0.66 [0.37-1.17],0.1529514253147225
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",8199,153,0.88 [0.64-1.20],0.4029726612410427
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,22820,3768,0.98 [0.92-1.05],0.6220335427857796
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",19144,92,0.93 [0.63-1.39],0.7386765414487058
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,19516,185,1.02 [0.77-1.34],0.9114999708678324
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,22509,36,0.98 [0.52-1.83],0.942113945698496
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Urethral stricture,19221,272,1.01 [0.80-1.27],0.9320666554965656
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Urolithiasis,22865,392,1.21 [1.01-1.46],0.042704938454788
+PLXNB3,Plexin-B3,Chapter XIV Diseases of the genitourinary system,Uterine polyps,9267,36,0.92 [0.49-1.75],0.810413915008646

@@ -1,0 +1,661 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",41642,226,1.09 [0.84-1.42],0.5276748328843022
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",43076,323,1.02 [0.81-1.29],0.8506580405916572
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",42641,2260,1.04 [0.95-1.13],0.3965368500110715
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Candidiasis,43107,697,1.11 [0.96-1.28],0.1776056633965701
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,41796,5745,1.03 [0.98-1.09],0.2337778265149803
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),42001,5230,1.08 [1.02-1.14],0.0064939058347704
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,42697,1995,1.06 [0.97-1.16],0.2121332457725084
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,42960,142,1.08 [0.78-1.50],0.653827465615791
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,39755,1551,1.04 [0.93-1.16],0.5094415847609208
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,38386,1738,1.12 [1.02-1.23],0.0171912822776335
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,38247,406,1.11 [0.92-1.35],0.2818249250206942
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,30235,3204,1.10 [1.02-1.18],0.0117135184294158
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,38007,641,1.15 [0.99-1.33],0.0743958852198715
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,43048,2346,1.07 [0.98-1.16],0.128296318125155
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Mycoses,43230,820,1.09 [0.95-1.25],0.206732712078626
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,41890,1509,1.04 [0.94-1.16],0.4212447726602583
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,43123,1707,1.03 [0.93-1.14],0.5228996776923306
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,41027,325,1.01 [0.80-1.29],0.9041584995731342
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,43321,77,1.21 [0.82-1.79],0.3384371064193993
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Other septicaemia,42913,1497,1.03 [0.92-1.15],0.6364033461015774
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,42943,125,0.85 [0.55-1.34],0.4924072447342956
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Other viral diseases,43180,260,0.99 [0.76-1.30],0.9540353002441342
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",43152,232,0.94 [0.70-1.28],0.7118875608221671
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,41053,672,1.00 [0.84-1.18],0.9772934359901928
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,40838,457,1.17 [0.98-1.39],0.0818997418972044
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,40871,169,1.11 [0.82-1.49],0.5016835946054378
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,43280,88,1.11 [0.73-1.69],0.6258143074868011
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,43206,263,1.03 [0.79-1.33],0.8292571635631228
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Viral warts,43028,85,1.07 [0.68-1.66],0.7812880466289541
+ENPEP,Glutamyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],43058,115,1.02 [0.69-1.52],0.9021635293921808
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Benign lipomatous neoplasm,42819,489,1.07 [0.88-1.28],0.5049807658924321
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,43171,98,1.28 [0.92-1.77],0.1371950989048373
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,43132,107,0.92 [0.58-1.45],0.7251396971629105
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,19825,107,1.20 [0.84-1.71],0.3213906877518719
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",42757,2391,0.96 [0.87-1.05],0.3705694403057781
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Benign neoplasm of meninges,43296,99,1.05 [0.69-1.59],0.8169032434947162
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,43213,114,0.98 [0.65-1.48],0.9269401970488692
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,43278,179,1.16 [0.88-1.53],0.2785271574774141
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Benign neoplasm of ovary,23387,148,0.86 [0.58-1.28],0.4537919847802577
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Benign neoplasm: Ascending colon,43279,610,0.90 [0.75-1.10],0.3037869369175844
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Benign neoplasm: Caecum,43288,499,1.03 [0.86-1.25],0.7240376635286123
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",43132,118,0.96 [0.64-1.45],0.8478476669357075
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Benign neoplasm: Descending colon,43282,371,0.98 [0.78-1.24],0.8946234328129238
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Benign neoplasm: Rectum,43206,584,0.80 [0.64-0.99],0.0432201899764776
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,43118,1044,0.99 [0.86-1.13],0.8741048422661682
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Benign neoplasm: Transverse colon,43272,704,1.02 [0.87-1.20],0.8175179057045117
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Carcinoma in situ of breast,19003,118,0.87 [0.56-1.36],0.5391200200150523
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",19073,136,0.82 [0.53-1.26],0.3576814289772678
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",34555,92,0.85 [0.50-1.44],0.5365063732825079
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",34577,114,0.68 [0.40-1.16],0.1586024998166972
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",43233,202,1.12 [0.85-1.46],0.4263487229000334
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Haemangioma, any site",43234,197,1.13 [0.86-1.48],0.3724073513732963
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Leiomyoma of uterus,22605,487,0.94 [0.76-1.15],0.5391436013881116
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Lung cancer and mesothelioma,30092,568,1.22 [1.05-1.42],0.0081843190624028
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Lymphoid leukaemia,34552,89,0.89 [0.53-1.49],0.6510444209367671
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",34776,313,0.67 [0.49-0.93],0.017203777949741
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",34795,332,0.63 [0.45-0.87],0.0051003745976244
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",19204,165,0.84 [0.57-1.24],0.3722691352035201
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",34599,136,1.01 [0.70-1.46],0.944372159471924
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",34630,167,0.70 [0.46-1.09],0.1143140806180398
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",34633,170,1.14 [0.85-1.53],0.3756198394681831
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",19161,122,1.21 [0.89-1.63],0.2203018981273213
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",34622,159,0.90 [0.61-1.31],0.5761036932020559
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",16567,1143,0.99 [0.87-1.14],0.9382701772556152
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",34661,198,0.78 [0.53-1.14],0.1980269426635441
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",34586,123,1.01 [0.68-1.50],0.9564003473896088
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,34635,172,1.15 [0.86-1.53],0.3525407717241776
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Melanocytic naevi,42996,349,0.86 [0.66-1.12],0.2722122552778065
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Melanocytic naevi of trunk,43259,154,0.74 [0.48-1.16],0.189214861973366
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Melanoma in situ,34518,137,0.84 [0.55-1.29],0.4253237514205045
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",34617,154,0.73 [0.47-1.14],0.1650010604608948
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",34731,268,0.77 [0.55-1.06],0.1115748082963633
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",34856,393,1.23 [1.05-1.46],0.0125502205346366
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",34629,166,0.77 [0.51-1.17],0.222167889275748
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,Other benign neoplasms of skin,43017,272,1.17 [0.94-1.46],0.1587209396866155
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",36238,1775,1.00 [0.90-1.11],0.9612380831912056
+ENPEP,Glutamyl aminopeptidase,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",36334,1871,1.00 [0.90-1.10],0.9600048585269813
+ENPEP,Glutamyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,42820,573,1.06 [0.89-1.26],0.5058212947924265
+ENPEP,Glutamyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,40220,146,1.17 [0.87-1.58],0.2858785359906677
+ENPEP,Glutamyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,42372,125,1.10 [0.78-1.57],0.5775490574724061
+ENPEP,Glutamyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,42023,4768,1.02 [0.96-1.08],0.6044006734196806
+ENPEP,Glutamyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,40940,78,1.19 [0.79-1.78],0.4140280903714367
+ENPEP,Glutamyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,42632,85,0.43 [0.21-0.89],0.0236323841652537
+ENPEP,Glutamyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,42546,2472,0.96 [0.87-1.05],0.3440977235308681
+ENPEP,Glutamyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,42544,2470,0.96 [0.87-1.05],0.3383380263539511
+ENPEP,Glutamyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,40217,143,1.39 [1.10-1.75],0.0051957413377502
+ENPEP,Glutamyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,42786,1924,0.98 [0.88-1.08],0.6496052446179826
+ENPEP,Glutamyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,42737,190,1.14 [0.87-1.50],0.355999900359403
+ENPEP,Glutamyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,42350,103,1.36 [1.02-1.83],0.0369660778497033
+ENPEP,Glutamyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,42354,107,1.24 [0.89-1.72],0.2057859813763471
+ENPEP,Glutamyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,42998,451,0.95 [0.77-1.18],0.6362594703952933
+ENPEP,Glutamyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,43145,91,1.24 [0.86-1.78],0.2450466338536822
+ENPEP,Glutamyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",42922,375,1.01 [0.80-1.26],0.95843318695077
+ENPEP,Glutamyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,41033,171,1.07 [0.79-1.45],0.6676844170709522
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,33618,504,1.28 [1.11-1.48],0.0008703812704478
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,40395,191,1.36 [1.08-1.70],0.007997535425944
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,40415,211,1.40 [1.16-1.69],0.0005243562799837
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,33205,91,1.33 [0.96-1.83],0.0872552606807001
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,40273,106,0.87 [0.54-1.40],0.5592189527535181
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,39354,387,0.86 [0.68-1.11],0.2457092989738468
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",42568,876,1.12 [0.98-1.27],0.0878102433894496
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,42136,444,1.17 [1.00-1.38],0.0556784734534567
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,41864,172,0.91 [0.64-1.31],0.6183099765382862
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,42747,2580,1.01 [0.93-1.10],0.7543665953149775
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,37829,2511,1.03 [0.94-1.12],0.5294208800548756
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",33222,108,0.93 [0.58-1.48],0.7455113582224647
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",40025,137,1.03 [0.71-1.48],0.8807830410479714
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,33575,461,1.03 [0.85-1.26],0.735344854552765
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,33216,102,1.09 [0.73-1.64],0.6723751138623616
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,38997,5883,1.02 [0.96-1.08],0.5727897943213061
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,33447,333,1.04 [0.83-1.31],0.7282514198736827
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,34041,927,1.05 [0.92-1.21],0.462433247229006
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,43193,524,1.05 [0.88-1.26],0.5652942525470426
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,42878,209,1.17 [0.91-1.50],0.2335042147896816
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,33327,213,0.97 [0.70-1.33],0.835609436421393
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",33216,102,1.20 [0.84-1.72],0.3059761829555585
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,42423,2535,1.15 [1.07-1.24],0.0002626549971686
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,33521,407,1.13 [0.93-1.38],0.2147166917675166
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,33560,446,1.24 [1.05-1.47],0.0129000366987293
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",34167,1053,1.05 [0.91-1.19],0.5160271344360498
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,33295,181,1.24 [0.95-1.60],0.1126071035574033
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,42867,198,1.13 [0.86-1.47],0.3833845282082472
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,34115,1001,1.11 [0.98-1.26],0.1010761701302923
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,33912,798,1.03 [0.89-1.20],0.6662986263624853
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,39074,107,0.85 [0.52-1.37],0.5051435850414145
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,41424,8310,1.05 [1.00-1.10],0.0310521355012522
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,39961,73,0.95 [0.55-1.63],0.8451513395715782
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,39985,97,1.06 [0.70-1.62],0.7804549401472817
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,43022,3209,0.99 [0.92-1.07],0.8471498234883571
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",43022,3203,0.99 [0.92-1.07],0.8468371217350822
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,39970,82,1.28 [0.89-1.84],0.1907493715326868
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,42743,2022,1.10 [1.00-1.19],0.0414681715132938
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",35700,2586,1.14 [1.06-1.23],0.0005978606097585
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,43304,347,1.07 [0.86-1.33],0.5453107045971088
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,41815,123,0.99 [0.67-1.47],0.9564651416109528
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,40898,177,1.12 [0.84-1.50],0.4234620349704074
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,40963,242,1.13 [0.88-1.45],0.3333094675673946
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",33382,268,1.20 [0.97-1.49],0.0913870670682123
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,39436,255,1.18 [0.94-1.48],0.160642637047198
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,3553,138,1.08 [0.78-1.50],0.650300948840528
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,3783,414,1.13 [0.94-1.35],0.1996773920847593
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,39283,102,1.06 [0.73-1.55],0.7454766626628229
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,3492,78,0.89 [0.53-1.48],0.646713521713431
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,42287,3106,1.04 [0.96-1.12],0.2972771416134894
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,42243,551,1.13 [0.97-1.33],0.1152561929405322
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,39574,607,1.06 [0.90-1.25],0.4970888734234504
+ENPEP,Glutamyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,34339,1225,1.20 [1.09-1.33],0.0002609478026183
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",43126,407,1.07 [0.88-1.30],0.5121866643231543
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),41441,276,1.22 [0.98-1.51],0.0759861115738122
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Angina pectoris,39633,1952,1.00 [0.90-1.10],0.945609991907294
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Aortic aneurysm,41572,407,1.09 [0.89-1.34],0.3923472245674515
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,41260,95,1.31 [0.95-1.82],0.1007556491433899
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",41491,326,1.40 [1.20-1.64],3.040172654609353e-05
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,26873,3107,1.05 [0.98-1.13],0.1737177959875958
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,AV-block,36646,703,1.01 [0.86-1.19],0.8597928747363037
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",43220,689,1.09 [0.94-1.27],0.2619092310217794
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Cardiac arrest,24077,311,1.23 [1.03-1.47],0.0197507069301881
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Cardiomyopathy,36228,285,0.96 [0.74-1.26],0.7933183865039171
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",36104,161,0.64 [0.40-1.02],0.0597869900284513
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,43319,74,1.19 [0.79-1.80],0.4119165462455733
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Conduction disorders,37673,1730,1.08 [0.98-1.19],0.1180053698096308
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,41082,3429,0.98 [0.91-1.06],0.6081804655860729
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,37920,12700,1.02 [0.98-1.06],0.2974293526325366
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,DVT of lower extremities,41027,439,1.12 [0.93-1.35],0.2173088898288869
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Endocarditis,36058,115,0.69 [0.40-1.17],0.1692449999630521
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Heart failure, strict",42976,1787,1.08 [0.99-1.19],0.089702650697861
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Hypertension,39439,10868,1.02 [0.98-1.06],0.3992393940830391
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Hypertension, essential",39453,10882,1.02 [0.98-1.06],0.4020630780281607
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Hypertension, portal",43034,131,1.41 [1.12-1.79],0.003691515483232
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",28883,312,1.20 [0.99-1.45],0.0584843213723016
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,28728,157,0.96 [0.68-1.36],0.8379911016445456
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Hypotension,43087,1878,0.96 [0.87-1.07],0.4876840303184194
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,41818,176,1.21 [0.93-1.57],0.1607321265518158
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",41366,3685,0.99 [0.92-1.07],0.7969481776850165
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",42720,921,1.03 [0.90-1.18],0.649622494382303
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Left bundle-branch block,36547,604,1.17 [1.01-1.36],0.0333838362486756
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,42549,1402,1.03 [0.92-1.15],0.6096428257869067
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",38862,1181,1.07 [0.95-1.20],0.2530181103563353
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",43161,263,1.08 [0.85-1.39],0.5254457728114806
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",43270,525,1.01 [0.84-1.22],0.9283326490958964
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Oesophageal varices,40677,89,1.39 [1.03-1.87],0.0295893255070772
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other aneurysm,41286,121,1.04 [0.71-1.53],0.8401611538431117
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other arrhythmias,36651,708,1.08 [0.93-1.25],0.3407428403075188
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,41333,168,1.29 [1.01-1.66],0.0435994111738655
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,41563,398,1.14 [0.95-1.38],0.165214470129269
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,36239,296,1.06 [0.83-1.34],0.6565103801924166
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other disorders of veins,40735,147,1.20 [0.89-1.61],0.2232091164211967
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,40670,82,1.11 [0.72-1.71],0.6346207229718566
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,40973,107,0.89 [0.56-1.42],0.631764408356923
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,40804,216,1.11 [0.86-1.45],0.4248069863940448
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,37626,1683,1.11 [1.01-1.22],0.0284529095197384
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,41299,90,1.24 [0.87-1.76],0.237396307586916
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,42061,896,1.12 [0.98-1.27],0.0879687095152413
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,42286,585,1.16 [1.00-1.34],0.0574127598768272
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",41859,993,0.99 [0.87-1.14],0.9403462584846496
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,24319,553,1.09 [0.93-1.29],0.2981790273994966
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Peripheral artery disease,41773,658,1.23 [1.07-1.41],0.0026080028766936
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),41157,569,1.13 [0.97-1.33],0.1195174810384706
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Pulmonary embolism,42484,783,1.06 [0.91-1.22],0.473538224213517
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,43199,1067,1.12 [0.99-1.26],0.0621081709537725
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Right bundle-branch block,36517,574,1.08 [0.91-1.27],0.378021276270809
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Secondary right heart disease,42279,578,1.17 [1.01-1.35],0.0403833555259146
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,41175,309,1.03 [0.81-1.31],0.81762272820379
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",42698,1056,1.05 [0.93-1.20],0.4139895183244961
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",42665,1121,1.03 [0.91-1.17],0.59993126441181
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,41776,100,0.88 [0.54-1.42],0.5918864938880348
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,41296,132,0.79 [0.49-1.25],0.3089450481097015
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Transient ischemic attack,42170,371,1.13 [0.93-1.37],0.2345618813734002
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,41578,431,0.93 [0.75-1.17],0.5441033359851379
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Varicose veins,41274,686,1.08 [0.93-1.26],0.3316990577975165
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,41191,143,1.03 [0.73-1.45],0.8775148289920791
+ENPEP,Glutamyl aminopeptidase,Chapter IX Diseases of the circulatory system,Venous thromboembolism,42928,1232,1.08 [0.97-1.21],0.1631081623874506
+ENPEP,Glutamyl aminopeptidase,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",43112,597,1.24 [1.08-1.42],0.0019143895747534
+ENPEP,Glutamyl aminopeptidase,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",37982,2390,1.09 [1.01-1.18],0.030103632908179
+ENPEP,Glutamyl aminopeptidase,Chapter V Mental and behavioural disorders,Any mental disorder,42235,6643,1.04 [0.99-1.10],0.0901899933128651
+ENPEP,Glutamyl aminopeptidase,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",43033,698,1.23 [1.09-1.40],0.0012355700849989
+ENPEP,Glutamyl aminopeptidase,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",38223,2631,1.02 [0.93-1.11],0.7028655883836816
+ENPEP,Glutamyl aminopeptidase,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",35733,141,0.75 [0.47-1.19],0.2172967126702404
+ENPEP,Glutamyl aminopeptidase,Chapter V Mental and behavioural disorders,Smoking dependency,42422,2302,1.07 [0.98-1.17],0.1186633996225376
+ENPEP,Glutamyl aminopeptidase,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",38317,2725,1.09 [1.01-1.18],0.0197286251864748
+ENPEP,Glutamyl aminopeptidase,Chapter V Mental and behavioural disorders,Vascular dementia,42529,209,1.11 [0.86-1.45],0.424747318540268
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Alzheimer disease,43319,555,1.21 [1.05-1.40],0.0075116642118291
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",29374,97,1.29 [0.92-1.80],0.1411881516510488
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Bell's palsy,40356,139,0.74 [0.47-1.18],0.2114767055985306
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,41045,828,1.07 [0.93-1.23],0.3641509333750305
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Cerebral cysts,42645,382,1.09 [0.89-1.34],0.4140514391782582
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,43183,504,1.17 [1.00-1.38],0.0513905952658518
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,42509,91,0.83 [0.48-1.41],0.4824885262615709
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,43293,109,1.14 [0.80-1.64],0.462108895254039
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",42384,121,1.12 [0.79-1.60],0.5248279167872336
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Epilepsy,40751,464,1.01 [0.82-1.23],0.9441811305571912
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,42523,2236,1.07 [0.98-1.17],0.1128850638455821
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,43244,692,1.02 [0.87-1.20],0.8336907370540687
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Falls/tendency to fall,42329,4209,1.04 [0.98-1.11],0.1708078363857399
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Generalized epilepsy,42698,88,1.23 [0.86-1.76],0.2661954970364394
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Hemiplegia,43075,396,1.07 [0.87-1.31],0.5232566851553674
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Hydrocephalus,42367,104,1.11 [0.76-1.62],0.5780349578128564
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,43286,116,1.09 [0.75-1.57],0.6589063655921596
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,40343,126,0.92 [0.61-1.38],0.6809667647666817
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,40351,134,1.16 [0.85-1.60],0.3527731317922385
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Memory loss,42288,194,0.99 [0.73-1.36],0.9605863999764688
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Migraine,40881,594,1.15 [0.99-1.34],0.0637016436731503
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",43203,539,1.18 [1.02-1.38],0.031441983312778
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Motor neuron disease,29562,249,1.04 [0.79-1.37],0.7859130832669026
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,43029,178,1.38 [1.12-1.69],0.0023097962192111
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",42208,1991,1.08 [0.99-1.18],0.0860280185587432
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Neurological diseases,40832,6070,1.09 [1.03-1.14],0.001449796201063
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,42721,303,1.13 [0.91-1.41],0.2625559156150904
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",40882,665,1.02 [0.87-1.21],0.7769842577116021
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",43198,483,1.20 [1.03-1.41],0.0217991098924396
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,34668,1062,1.21 [1.08-1.34],0.000537696141916
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,42383,120,1.06 [0.73-1.55],0.7661287063051947
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Other disorders of nervous system,42494,231,1.21 [0.96-1.53],0.1061831902631148
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,42800,248,0.98 [0.74-1.29],0.8758267535914029
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Other facial nerve disorders,40381,164,0.79 [0.52-1.19],0.2587387420445088
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Other headache syndromes,40389,102,0.94 [0.60-1.49],0.8084951310779789
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Other neurological diseases,43120,857,1.16 [1.02-1.32],0.0194834377882093
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Other sleep disorders,41201,914,1.05 [0.92-1.21],0.4476165258658213
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Parkinson's disease,43276,405,1.11 [0.92-1.35],0.2794047989431293
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,42356,93,1.26 [0.90-1.77],0.1744295194839187
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Restless leg syndrome,43317,110,0.88 [0.56-1.39],0.5901712366736251
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Sleep apnoea,42928,796,1.09 [0.95-1.25],0.2378694257312752
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Small fibre neuropathy,42795,80,1.42 [1.06-1.90],0.0177536310173225
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,43292,293,0.94 [0.72-1.22],0.6288497823483259
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,40302,85,0.88 [0.53-1.48],0.6391088775131943
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,43319,561,1.21 [1.05-1.39],0.0096113140128434
+ENPEP,Glutamyl aminopeptidase,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),42463,202,1.11 [0.85-1.45],0.4578827137291681
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,42364,160,1.00 [0.72-1.40],0.9845558423452816
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,42642,663,1.15 [1.00-1.33],0.0491013681575452
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,43045,387,1.21 [1.01-1.45],0.0374117017907488
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,41634,85,0.88 [0.52-1.48],0.6372845924721808
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,41648,99,1.07 [0.71-1.62],0.7394911751397222
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",43134,90,1.01 [0.65-1.58],0.9560764572725836
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,42890,250,1.24 [1.00-1.53],0.048410090476569
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",3499,84,0.97 [0.61-1.54],0.8949782803945605
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,4238,160,1.24 [0.95-1.63],0.1150262771952121
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,42368,164,0.82 [0.55-1.22],0.3281870689370147
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,42980,1721,1.13 [1.03-1.24],0.0084065235207648
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",42694,1145,1.01 [0.89-1.14],0.9155989007711082
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,41922,373,0.89 [0.69-1.14],0.3438731304779382
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",43183,1204,1.12 [1.00-1.25],0.0439578514726254
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,43305,116,1.32 [0.98-1.76],0.0641210457036781
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,43068,1089,1.15 [1.03-1.29],0.0118278301943487
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",43251,611,1.12 [0.96-1.31],0.1330548844458858
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,43166,304,1.11 [0.89-1.38],0.3595283500963396
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,41651,102,1.04 [0.69-1.57],0.8440689311809157
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,41661,112,1.13 [0.80-1.61],0.4818740273190728
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,41644,95,0.99 [0.64-1.54],0.974926314372003
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,43168,1180,1.00 [0.89-1.14],0.941409171951448
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,42303,315,0.98 [0.76-1.25],0.8472695815181666
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,42054,75,1.01 [0.61-1.66],0.9662896728472804
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,42804,164,1.14 [0.85-1.53],0.3924002424475352
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,43100,460,1.13 [0.95-1.35],0.1690036961991296
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,42309,330,1.02 [0.81-1.29],0.8700330486209173
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,43045,183,1.03 [0.75-1.40],0.8558557242177822
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,42755,767,1.01 [0.86-1.17],0.9420917085433168
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,42434,230,1.02 [0.77-1.36],0.8637003120902002
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,40674,3641,1.06 [0.99-1.13],0.0915536468748777
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,43042,402,1.15 [0.96-1.39],0.127200448220687
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,43282,256,1.12 [0.88-1.42],0.3461987687316152
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,42228,679,1.05 [0.90-1.23],0.5451870802977419
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,42752,112,1.29 [0.97-1.73],0.0845361188012991
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,43282,93,1.39 [1.04-1.87],0.0265888118498295
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,41691,142,0.91 [0.62-1.35],0.6472786479797104
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,41801,252,1.01 [0.77-1.32],0.964974338993932
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,41450,191,0.91 [0.64-1.28],0.5837645876717604
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,42070,91,0.66 [0.36-1.22],0.1848455989804558
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",41363,104,0.97 [0.62-1.50],0.8864466991504161
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,42131,143,1.15 [0.85-1.55],0.3628624301265049
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",42312,324,0.89 [0.68-1.16],0.3962586908901807
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,41748,199,1.12 [0.85-1.46],0.4236093323565155
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,41440,181,1.22 [0.94-1.58],0.1304399750048502
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,41392,133,0.78 [0.49-1.24],0.2903459467985674
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,40005,2972,1.05 [0.97-1.13],0.1980234007024262
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,41672,123,1.07 [0.75-1.53],0.7212646472802191
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,42887,683,1.00 [0.85-1.18],0.9698470116348036
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,42299,95,1.08 [0.71-1.63],0.7262532360670648
+ENPEP,Glutamyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),42474,270,1.04 [0.81-1.34],0.7377772256181773
+ENPEP,Glutamyl aminopeptidase,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,42947,149,0.78 [0.51-1.21],0.2670154563818653
+ENPEP,Glutamyl aminopeptidase,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,43243,198,0.84 [0.59-1.20],0.3310025820843926
+ENPEP,Glutamyl aminopeptidase,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,43102,217,1.12 [0.87-1.45],0.3737134245761329
+ENPEP,Glutamyl aminopeptidase,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,42904,106,1.08 [0.74-1.59],0.6888855963232196
+ENPEP,Glutamyl aminopeptidase,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,42909,111,1.42 [1.10-1.83],0.0074297226365052
+ENPEP,Glutamyl aminopeptidase,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,43144,1444,1.03 [0.92-1.15],0.6178568109549565
+ENPEP,Glutamyl aminopeptidase,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,42737,1037,1.03 [0.91-1.18],0.6102985156198306
+ENPEP,Glutamyl aminopeptidase,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,41907,207,0.89 [0.64-1.24],0.4841697562434741
+ENPEP,Glutamyl aminopeptidase,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,41838,138,1.00 [0.69-1.44],0.9837864467041842
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Acute pharyngitis,42898,121,1.09 [0.76-1.57],0.632958971885234
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,43137,360,0.96 [0.76-1.22],0.7604021961823048
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,42882,105,1.10 [0.75-1.62],0.6115639119464922
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,All influenza,40036,191,1.14 [0.87-1.50],0.3530255791689305
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),40032,187,1.13 [0.85-1.49],0.407711556641922
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Allergic asthma (mode),29722,198,1.00 [0.73-1.36],0.98682155939011
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Allergic rhinitis,43108,470,0.97 [0.79-1.19],0.7675834590488324
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",32071,2989,1.03 [0.95-1.11],0.4734079464670635
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",32471,2947,1.02 [0.95-1.11],0.5444136362579155
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),42645,233,1.23 [0.98-1.54],0.0691661224563385
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",39978,133,1.27 [0.96-1.69],0.0993141385683815
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Bronchiectasis,37509,583,0.95 [0.78-1.14],0.5594472628483883
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",37019,93,1.25 [0.88-1.76],0.2094416433502859
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,41614,4688,1.03 [0.96-1.09],0.4135293200134471
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",41007,124,1.05 [0.72-1.52],0.8026643419734647
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Chronic sinusitis,41137,254,1.10 [0.86-1.41],0.4433143233487242
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",42986,1966,1.00 [0.91-1.10],0.9996130656022918
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Deviated nasal septum,41073,190,1.02 [0.75-1.40],0.877988877337918
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,39831,8736,1.05 [1.01-1.10],0.0291752915034162
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",41509,626,1.13 [0.97-1.31],0.1282077761994261
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Early onset COPD,41557,537,0.89 [0.72-1.10],0.2687677312865659
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Emphysema,37452,526,1.07 [0.90-1.27],0.4369182845553924
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,41089,492,1.05 [0.88-1.26],0.5932761693868277
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Influenza and pneumonia,42939,3094,1.14 [1.07-1.22],9.111241170014044e-05
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Interstitial lung disease,41143,546,1.06 [0.89-1.25],0.5436732686380377
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Later onset COPD,41613,1429,1.03 [0.93-1.15],0.5459802423545741
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,43297,504,1.02 [0.85-1.23],0.8345447179284938
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Nasal polyp,41069,186,1.21 [0.94-1.57],0.1402338963672206
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,42887,1589,1.08 [0.98-1.19],0.134698927500812
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Other diseases of pleura,42924,3297,1.10 [1.03-1.18],0.0036950934996471
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,42292,1409,1.04 [0.93-1.17],0.4583966237805829
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Other pleural conditions,39710,83,1.00 [0.62-1.61],0.9988604167351636
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,43151,680,1.04 [0.89-1.22],0.5949363024957586
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,43138,2159,1.11 [1.03-1.21],0.0104581841694795
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Pleural effusion,41244,1617,1.17 [1.07-1.28],0.0006569719230612
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Pleural plaque,39890,263,1.04 [0.81-1.35],0.746635199952474
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",42519,2674,1.12 [1.04-1.21],0.0019785212430331
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,43186,393,1.05 [0.86-1.30],0.6105825825891161
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Pneumothorax,39832,205,1.20 [0.95-1.53],0.131101733114351
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Pollen allergy,43279,398,1.01 [0.81-1.26],0.9258648793539068
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Pulmonary oedema,42583,112,0.91 [0.59-1.41],0.6727019630114683
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Respiratory insufficiency,29613,89,1.24 [0.87-1.77],0.2327177555398385
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,42853,1555,1.09 [0.98-1.20],0.1114481516796795
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,41354,471,0.97 [0.79-1.20],0.8033623360811742
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Viral pneumonia,40254,409,1.30 [1.11-1.52],0.0012355711686273
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",42674,338,1.30 [1.10-1.55],0.0027496389151417
+ENPEP,Glutamyl aminopeptidase,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,20022,179,1.26 [0.99-1.61],0.0641647473986554
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,30688,109,1.15 [0.80-1.66],0.4569456811846696
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Acute appendicitis,43043,242,0.97 [0.73-1.30],0.8615416749589389
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Acute gastritis,32670,142,0.87 [0.58-1.31],0.5112623605616649
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Acute pancreatitis,40237,312,0.94 [0.72-1.22],0.6288096874279363
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Acute peritonitis,42540,150,1.11 [0.81-1.52],0.530254497393667
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Alcoholic liver disease,41817,121,1.40 [1.09-1.80],0.0091068530815557
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Barrett oesophagus,33252,724,1.02 [0.87-1.19],0.7947783219264613
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",40095,170,1.17 [0.89-1.55],0.2540395955551511
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",42623,170,1.17 [0.89-1.55],0.266158066962825
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Cholecystitis,40257,332,0.99 [0.78-1.26],0.9587951740785358
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Cholelithiasis,41609,1684,1.13 [1.04-1.24],0.0065338644046563
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Chronic gastritis,33029,501,1.06 [0.89-1.27],0.52168420693023
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Chronic pancreatitis,40007,82,1.14 [0.75-1.72],0.5347418470215712
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",43081,178,1.35 [1.08-1.68],0.0081947788647794
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Coeliac disease,40633,200,0.97 [0.71-1.33],0.8698035536399096
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Collagenous colitis,40499,136,1.15 [0.85-1.57],0.3632161416764595
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,43050,319,1.03 [0.81-1.31],0.8023532094779842
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Constipation,42899,2723,1.03 [0.95-1.12],0.416223932391347
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Crohn disease,40509,146,1.02 [0.72-1.45],0.91644862064705
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",42724,105,0.94 [0.60-1.48],0.8003900418920176
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Crohn's disease NAS,40501,138,0.92 [0.62-1.37],0.6890989950247629
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Dental caries,42077,386,1.10 [0.90-1.35],0.3574638678760712
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,38913,3688,0.97 [0.90-1.04],0.3973079308156048
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Diseases of appendix,43107,306,1.10 [0.88-1.38],0.3915132200888467
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Diseases of liver,43120,1424,1.16 [1.05-1.28],0.0023985305787528
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",39681,7153,0.99 [0.94-1.05],0.8199329962374478
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",42618,927,1.01 [0.87-1.16],0.91966786145955
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Diseases of peritoneum,43175,785,1.13 [0.99-1.29],0.0752436937731041
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,41881,190,0.72 [0.48-1.08],0.1119733938408631
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Diseases of salivary glands,41642,106,1.00 [0.65-1.53],0.9924276438189186
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Diseases of the digestive system,42804,2371,1.03 [0.94-1.12],0.5084552106183995
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Diseases of tongue,41658,184,1.05 [0.77-1.42],0.7756908230881555
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",42288,2363,1.08 [1.00-1.18],0.0524819685694538
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,35872,5293,0.97 [0.91-1.03],0.3740880798238801
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Duodenal ulcer,32857,329,1.05 [0.84-1.32],0.6776389943765679
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",43173,261,1.01 [0.78-1.32],0.9185141432346706
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,43173,92,0.93 [0.57-1.52],0.7755852585650354
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,41910,214,1.27 [1.02-1.58],0.0325193448684103
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,30826,247,1.05 [0.80-1.39],0.7048269807175447
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Functional dyspepsia,33448,920,0.98 [0.85-1.13],0.7843429780002813
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Gastric ulcer,33134,606,1.06 [0.90-1.25],0.4595873240857618
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,36681,4153,1.01 [0.94-1.08],0.7936615436667258
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,33427,899,1.05 [0.92-1.20],0.4706452838760173
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,33551,13827,1.01 [0.97-1.04],0.7554567898176079
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,GI-bleeding,42354,1921,1.06 [0.96-1.16],0.2516789122591082
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,41795,104,1.09 [0.74-1.61],0.6708113328563755
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,32181,2082,0.93 [0.84-1.03],0.1806367692480044
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",41798,102,1.22 [0.87-1.72],0.2538925162474794
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Hernia,40597,5372,1.00 [0.94-1.06],0.9089739639553944
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Impacted teeth,43184,86,0.97 [0.59-1.58],0.8879823488754833
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Impaction of intestines,30671,92,1.13 [0.77-1.68],0.5300159770294185
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Inguinal hernia,36733,1508,1.06 [0.95-1.18],0.2976317885598136
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",35391,166,1.13 [0.84-1.53],0.4230288440619786
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,30741,162,1.08 [0.79-1.48],0.6179716318282611
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Intestinal malabsorption,40671,238,0.97 [0.73-1.30],0.8623650335938985
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,31510,931,1.02 [0.89-1.17],0.7829577294749177
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,43272,611,1.25 [1.09-1.43],0.0013887126465192
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,41624,1261,1.07 [0.96-1.20],0.2441151277667731
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,42038,1675,1.04 [0.94-1.15],0.4660661715314493
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Oesophageal obstruction,32836,308,1.23 [1.03-1.49],0.0262664136998861
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Oesophagitis,33541,1013,1.03 [0.90-1.17],0.6592639831422057
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,43234,229,1.02 [0.77-1.35],0.8853277853813954
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,35338,113,1.16 [0.82-1.62],0.4056392685311832
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,32869,2290,1.03 [0.95-1.13],0.4606473636824921
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,40390,465,1.13 [0.95-1.34],0.170991472022382
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,40185,260,1.01 [0.78-1.32],0.9121726312789178
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of intestine,33508,2929,1.06 [0.98-1.14],0.1338315279866387
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of intestines,39952,9373,1.01 [0.97-1.06],0.6124068589490458
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,41633,348,0.97 [0.77-1.23],0.8190273701663797
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of liver,42857,1161,1.18 [1.06-1.31],0.0020488036361516
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,33636,1108,1.08 [0.96-1.22],0.1829576992023162
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of pancreas,40171,246,1.00 [0.76-1.32],0.9902307864239684
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,43065,675,1.12 [0.97-1.30],0.1172164605593215
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,34118,1590,0.97 [0.87-1.09],0.6298481276434058
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,42379,1946,1.05 [0.96-1.16],0.2690743662539137
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,41986,295,1.13 [0.90-1.41],0.2945928473323758
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,33381,2802,1.05 [0.97-1.13],0.2483427274338465
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),35852,3324,1.00 [0.93-1.08],0.96914947924285
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,41863,167,1.04 [0.75-1.43],0.809590105113267
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,41837,1474,1.04 [0.93-1.16],0.480185736173057
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",31147,568,1.01 [0.84-1.21],0.92524627547084
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,43156,109,0.97 [0.63-1.49],0.8799188680403403
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,31394,815,1.01 [0.87-1.18],0.8850432885416407
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",40695,262,0.81 [0.59-1.11],0.1901465916527922
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Recurring oral aphthae,43298,98,0.74 [0.43-1.28],0.2847758802741482
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,41699,200,1.04 [0.77-1.39],0.8066381443229222
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Toxic colitis,40453,90,0.80 [0.46-1.37],0.4128592208266811
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,32986,458,1.00 [0.82-1.22],0.9867348971955066
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Ulcerative colitis,40626,263,1.22 [0.99-1.50],0.0647880385894663
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",40581,218,1.19 [0.94-1.50],0.154677399373168
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Umbilical hernia,35666,441,1.15 [0.96-1.38],0.1211452069150787
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,30873,294,1.09 [0.86-1.37],0.4804069926939456
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Ventral hernia,35650,425,1.04 [0.85-1.27],0.7245358210949902
+ENPEP,Glutamyl aminopeptidase,Chapter XI Diseases of the digestive system,Volvulus,30712,133,0.85 [0.55-1.32],0.4666143134167917
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,43192,476,0.94 [0.76-1.16],0.5550106283639553
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,42785,133,1.04 [0.72-1.49],0.8363690993332793
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,39948,273,0.96 [0.73-1.26],0.7607312815484998
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,42241,1165,1.04 [0.92-1.18],0.517302883180887
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",41372,296,1.03 [0.80-1.32],0.8452141381583654
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,40304,629,1.32 [1.17-1.49],7.952455222019976e-06
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,42804,461,0.76 [0.59-0.98],0.0317457805469952
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,43142,799,0.81 [0.68-0.97],0.0239398398144907
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,42422,79,0.99 [0.61-1.62],0.9705520765451152
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,40691,5298,1.04 [0.98-1.10],0.1980568353068857
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,42549,738,1.01 [0.87-1.19],0.8563522912268922
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,42325,514,0.93 [0.75-1.14],0.4704331290082495
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,42648,1572,1.02 [0.91-1.14],0.724715514534418
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",43290,91,0.66 [0.36-1.21],0.1754313676475258
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,39784,109,1.22 [0.88-1.70],0.2354114927398283
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,41901,90,1.24 [0.87-1.75],0.2293156358066408
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,42786,443,0.74 [0.57-0.96],0.0224982065260575
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,40431,756,1.17 [1.02-1.33],0.0239962297900533
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,39788,113,1.12 [0.78-1.61],0.534428443273658
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,43180,134,0.58 [0.34-0.98],0.0400451010235519
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,41367,291,1.02 [0.79-1.31],0.9070667443109248
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,42973,321,1.16 [0.95-1.42],0.143355265716751
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,42439,96,1.13 [0.77-1.67],0.5199434517359326
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,39781,106,0.53 [0.29-0.98],0.0426775323625543
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,42351,2676,1.10 [1.02-1.19],0.0130148690705497
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",40499,824,1.14 [1.00-1.30],0.0450586274175686
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,39793,118,1.11 [0.78-1.59],0.5672746894381795
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,43170,518,1.12 [0.95-1.32],0.1811002086902227
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,42463,120,0.77 [0.47-1.25],0.2901759547567544
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,43076,424,1.13 [0.94-1.35],0.2016287442164777
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,43233,517,0.96 [0.78-1.16],0.6508755495467546
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,39892,217,0.96 [0.70-1.30],0.7809964385228931
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,40117,442,0.94 [0.75-1.17],0.5556413182430484
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,43217,501,0.94 [0.77-1.15],0.5568978903364271
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",40047,372,1.07 [0.86-1.33],0.5355107124970658
+ENPEP,Glutamyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,43269,223,0.72 [0.50-1.04],0.082568197717965
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,37135,183,0.84 [0.58-1.22],0.3668327561358699
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,39418,9402,1.02 [0.98-1.07],0.2797874254918647
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,37079,7063,1.03 [0.98-1.08],0.3141504765892225
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,37082,130,0.95 [0.64-1.43],0.8224583846571424
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,37592,253,1.00 [0.75-1.32],0.9799479851588112
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,37638,299,0.99 [0.77-1.28],0.9338354018497822
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,42900,151,1.16 [0.85-1.57],0.3594188420594014
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",37506,167,1.11 [0.83-1.49],0.4752619244043115
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,31930,1914,1.05 [0.95-1.15],0.3387341899758768
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",43079,323,0.96 [0.75-1.23],0.7537239787166292
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,38054,715,1.07 [0.93-1.25],0.3510385008774097
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,36605,12117,1.05 [1.01-1.09],0.0158755210474186
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,40033,194,1.34 [1.09-1.66],0.0064783653607114
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,37201,249,1.11 [0.87-1.42],0.4038380630379183
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,37920,968,1.04 [0.90-1.18],0.6135675650253527
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,41747,4408,1.06 [1.00-1.13],0.0544656594000152
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,37420,468,1.11 [0.93-1.33],0.2535308057928968
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,37333,381,0.94 [0.74-1.18],0.5867616848963499
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,37186,234,0.98 [0.74-1.31],0.9048804669694857
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,42201,121,0.96 [0.64-1.44],0.8556338583704848
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,32826,2810,0.96 [0.88-1.05],0.4012353742620079
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,30988,972,0.94 [0.81-1.09],0.4043266003678089
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",43193,956,0.96 [0.83-1.11],0.5693342833146918
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,30142,126,0.98 [0.65-1.46],0.9116919517120948
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),30579,563,1.04 [0.87-1.24],0.6461964959210587
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,37464,512,1.24 [1.07-1.44],0.004824403307519
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,31085,1069,1.02 [0.90-1.17],0.7250831248913008
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,37427,88,1.02 [0.65-1.59],0.9340469135358286
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,38386,1047,1.10 [0.98-1.25],0.1179110615224474
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,37841,502,0.99 [0.81-1.20],0.886984771712895
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,31012,996,1.01 [0.88-1.16],0.8702790618328735
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,37080,128,1.28 [0.96-1.70],0.0918072348167946
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",37053,101,1.38 [1.04-1.83],0.0266538392718822
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,39954,115,1.39 [1.07-1.80],0.0146522803175306
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,42673,2834,1.06 [0.99-1.15],0.1015375965702458
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,41701,1862,1.01 [0.92-1.11],0.8755656726511218
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",43072,753,1.01 [0.86-1.18],0.900348534459204
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,34170,4154,1.06 [1.00-1.13],0.0631504843760106
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,30118,102,0.81 [0.48-1.36],0.4272809628710762
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,37104,152,1.18 [0.88-1.59],0.2549332228195144
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,30107,91,1.05 [0.69-1.61],0.8078666770325211
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),30226,210,1.02 [0.76-1.37],0.8940546003895526
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,40246,407,1.09 [0.90-1.33],0.3822527351238369
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,40451,612,1.03 [0.88-1.22],0.7053784398981557
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,43266,162,1.05 [0.76-1.45],0.7820793993179238
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",40332,2993,1.09 [1.01-1.17],0.0200273454184883
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,37118,166,1.14 [0.85-1.53],0.3683095589718017
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),30250,234,1.00 [0.75-1.34],0.9956454373893302
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,38549,1210,1.04 [0.92-1.17],0.5178120842299263
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,33608,3592,1.00 [0.93-1.08],0.96328440580505
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,42237,157,1.04 [0.75-1.45],0.7982197220022906
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,43288,127,1.08 [0.76-1.54],0.6821245498550995
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,37088,136,1.34 [1.04-1.73],0.0253049624426414
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",39028,2076,1.05 [0.96-1.15],0.2741119150007793
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,37096,144,1.10 [0.79-1.53],0.5638733478100255
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,32719,2703,1.05 [0.97-1.13],0.2607627285671062
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,40034,195,1.07 [0.80-1.43],0.6471838527652511
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,37038,86,1.05 [0.67-1.64],0.8433631018040546
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,37604,265,0.85 [0.62-1.15],0.2831247438060799
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,37852,900,1.08 [0.94-1.23],0.2712877647076638
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,42688,608,0.87 [0.71-1.06],0.1608229375812779
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,38294,955,1.11 [0.98-1.26],0.1078041685579142
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,43092,733,1.03 [0.88-1.20],0.7430830929408998
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,43284,90,0.78 [0.45-1.36],0.3776846352048935
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,37272,320,1.02 [0.81-1.30],0.8509181740702721
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,34267,1250,0.96 [0.84-1.09],0.5121460062958734
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,37917,965,1.00 [0.87-1.15],0.9569719607334236
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],37342,390,1.15 [0.95-1.39],0.1481685039991139
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",30112,96,1.22 [0.85-1.75],0.2727102995584494
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,34151,4135,1.02 [0.95-1.09],0.574905010077265
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,31105,1089,0.93 [0.81-1.07],0.3179166344061577
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,42469,389,0.92 [0.73-1.17],0.4908373730858961
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",43206,102,1.07 [0.73-1.59],0.7178061424103197
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",39710,82,1.00 [0.62-1.62],0.9906227710164576
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,30146,130,1.07 [0.75-1.53],0.6970801178865533
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,37506,167,1.26 [0.97-1.63],0.0819012970248966
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,30779,763,1.01 [0.86-1.18],0.9402392693341366
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,37470,518,1.16 [0.99-1.36],0.0704540378496488
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,37762,423,1.09 [0.90-1.33],0.3721804210187295
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,37643,304,1.12 [0.90-1.38],0.3127174991246133
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,33881,101,1.28 [0.92-1.77],0.1371514319841658
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",43290,96,0.86 [0.52-1.41],0.5509336827726468
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,37942,990,1.11 [0.99-1.26],0.0835014254927476
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],42242,162,0.91 [0.63-1.31],0.6043429365033804
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,41278,4326,1.07 [1.00-1.13],0.041931109006141
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",37174,222,1.03 [0.77-1.36],0.8555482025653742
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,38226,887,1.16 [1.03-1.32],0.0170935239173476
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,40926,388,0.87 [0.67-1.11],0.2579044736025291
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,37667,328,1.05 [0.83-1.31],0.6943862740337677
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,39901,2562,1.07 [0.98-1.16],0.1182772782000234
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,39011,1672,1.06 [0.95-1.17],0.2946069255551901
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],37039,87,1.13 [0.75-1.71],0.5488997932129509
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,42321,241,1.09 [0.85-1.40],0.4921308786465439
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,37231,279,1.17 [0.94-1.45],0.1615748198552122
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,37082,130,0.95 [0.64-1.41],0.7993505628705696
+ENPEP,Glutamyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),30108,92,0.77 [0.44-1.35],0.3659902763703784
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Acute renal failure,41760,2508,1.16 [1.07-1.25],0.0001568597504721
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),17527,85,0.50 [0.25-0.99],0.0479806291272158
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,22857,97,1.18 [0.83-1.68],0.3468752609272844
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,42786,528,1.11 [0.94-1.31],0.234589023489694
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,42404,146,1.15 [0.84-1.56],0.387463947532765
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,41510,2258,1.10 [1.01-1.20],0.0244007826384226
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,42986,103,1.12 [0.77-1.62],0.5583246771826831
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,42956,482,1.10 [0.91-1.31],0.3221670036153025
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Cystitis,38237,380,1.14 [0.94-1.38],0.1836943553968762
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Dialysis,39360,108,0.93 [0.58-1.48],0.756198672920345
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,18818,2749,0.99 [0.91-1.08],0.8570029449954415
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Disorders of breast,23040,280,1.11 [0.88-1.39],0.3695305182590299
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Endometriosis,17590,148,0.60 [0.36-0.98],0.0423688334938196
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",17776,334,1.03 [0.81-1.31],0.8097158015447505
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,18302,860,0.99 [0.86-1.15],0.9069059652504624
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,36152,8835,1.06 [1.01-1.11],0.0112093719999676
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,43004,121,1.01 [0.68-1.49],0.9725102480455914
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Hydrocele,16244,175,0.83 [0.56-1.23],0.3502263669151483
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,39210,464,1.08 [0.89-1.31],0.4341937213971922
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,18218,2149,1.03 [0.94-1.13],0.5228526817782488
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,22978,339,1.00 [0.79-1.26],0.9890488623533004
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),16266,197,0.88 [0.62-1.26],0.4887161699470621
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Irregular menses,23056,107,1.08 [0.73-1.60],0.6994477368702716
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Menorrhagia,17705,263,1.00 [0.75-1.33],0.9810210912178418
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,37984,127,1.27 [0.95-1.69],0.1027401959487058
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,19514,2072,1.05 [0.96-1.15],0.2857215264236525
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,16168,99,1.10 [0.73-1.65],0.6601425996092621
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,17557,115,0.74 [0.44-1.23],0.2401906359506768
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",43304,108,1.23 [0.89-1.70],0.2166556801200196
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",43304,106,0.87 [0.54-1.39],0.5576207737394345
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,41559,3702,1.05 [0.98-1.12],0.1742133548081727
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,39062,1205,1.04 [0.92-1.18],0.4954320250851346
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,22858,98,0.89 [0.56-1.43],0.6433582936034794
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,43218,744,1.14 [0.99-1.31],0.06396819680732
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,16327,258,0.92 [0.68-1.24],0.5743450809568571
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,16306,237,0.96 [0.71-1.30],0.8159238937660049
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,16257,188,1.14 [0.87-1.50],0.3532198661919061
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,43259,117,1.21 [0.88-1.66],0.2390601949823732
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,40677,2820,1.07 [1.00-1.16],0.0631345942210125
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,22814,175,0.95 [0.67-1.33],0.757247399458306
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,17577,135,0.66 [0.40-1.08],0.0960404585057876
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",17773,331,1.22 [1.01-1.48],0.0392299447675796
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,17539,97,0.95 [0.60-1.50],0.8233869923708773
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,17616,174,0.98 [0.70-1.37],0.8847552981346273
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,39287,541,1.08 [0.90-1.29],0.3963980211031183
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,42720,246,1.15 [0.91-1.46],0.2412203756060582
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,17702,260,1.18 [0.94-1.48],0.1458000406536183
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,17532,90,1.09 [0.72-1.66],0.67842861041278
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,17979,537,1.06 [0.89-1.27],0.4983421781109646
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,17579,137,0.83 [0.54-1.28],0.3991764031557779
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,17937,495,1.28 [1.11-1.48],0.0008653381963206
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,42970,87,0.96 [0.59-1.56],0.8707360444012374
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",16289,220,0.90 [0.65-1.25],0.5452653909227575
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,42966,4220,1.12 [1.05-1.18],0.0002938167687078
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",38941,195,0.93 [0.67-1.30],0.6784419905463864
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,39439,187,1.05 [0.77-1.43],0.7708209102240791
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,42352,94,0.83 [0.48-1.41],0.4831668484896292
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Urethral stricture,38231,374,1.09 [0.88-1.34],0.4372918023922106
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Urolithiasis,42921,663,1.12 [0.96-1.30],0.1533440381079661
+ENPEP,Glutamyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Uterine polyps,17560,118,1.09 [0.75-1.58],0.649100796375655

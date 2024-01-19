@@ -1,0 +1,632 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",22559,178,0.98 [0.82-1.17],0.7861102605069032
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",23590,193,1.23 [1.05-1.44],0.0107008987661945
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",23341,1403,1.08 [1.01-1.14],0.0180275679151339
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Candidiasis,23601,381,1.20 [1.07-1.34],0.0016842277067669
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,22914,3459,1.11 [1.07-1.15],2.2767636402622642e-07
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),22873,3464,1.09 [1.05-1.14],9.720314798408234e-06
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,23389,1045,1.09 [1.01-1.17],0.0179281038962459
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,23525,82,1.32 [1.04-1.68],0.0237736389686414
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,21401,1116,1.16 [1.09-1.25],1.3048046944906002e-05
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,20651,1234,1.16 [1.09-1.24],3.1128876449702025e-06
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,20368,252,1.22 [1.06-1.40],0.0067873222705966
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,16599,2251,1.13 [1.08-1.18],9.053033317749876e-07
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,20297,404,1.23 [1.10-1.38],0.0002269412036738
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,23594,1250,1.12 [1.05-1.19],0.0006748635862794
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Mycoses,23691,471,1.15 [1.03-1.27],0.0102619675712799
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,22827,889,1.04 [0.96-1.13],0.2914518030011817
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,23614,1233,1.14 [1.07-1.22],6.792678947604906e-05
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,22539,195,1.22 [1.04-1.43],0.0150394115507459
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,23730,51,1.07 [0.77-1.49],0.6758066423271607
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Other septicaemia,23456,1075,1.14 [1.06-1.22],0.0002260116135039
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,23515,72,1.17 [0.90-1.52],0.2366650260460081
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Other viral diseases,23668,121,1.36 [1.12-1.65],0.0017451533732249
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",23647,100,1.40 [1.13-1.73],0.0017811326936601
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,22428,490,1.13 [1.02-1.25],0.0206566813347574
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,22225,287,1.23 [1.08-1.40],0.002275050908417
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,22433,89,1.39 [1.11-1.75],0.0040654756619881
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,23711,69,1.37 [1.06-1.76],0.0161161080064451
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,23676,142,1.04 [0.86-1.27],0.6868104175939717
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Viral warts,23586,52,1.01 [0.73-1.40],0.9525127392652312
+AGXT,Serine--pyruvate aminotransferase,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],23584,50,1.02 [0.73-1.43],0.9138207559688872
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,Benign lipomatous neoplasm,23411,340,0.96 [0.84-1.09],0.4892554366528608
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,23658,44,1.06 [0.75-1.49],0.7479909496947648
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,23625,53,0.86 [0.62-1.20],0.3825329122783514
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,23680,129,1.01 [0.82-1.25],0.9222268240213304
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",23357,1636,1.06 [1.00-1.12],0.0499570254793183
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,Benign neoplasm of meninges,23730,32,0.81 [0.52-1.26],0.3572106440819238
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,23667,67,1.08 [0.82-1.43],0.5735220516456968
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,23714,78,0.94 [0.72-1.23],0.6694930485224544
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,Benign neoplasm: Ascending colon,23705,442,1.15 [1.03-1.28],0.0096913167165559
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,Benign neoplasm: Caecum,23700,338,1.07 [0.95-1.22],0.2614239228589289
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",23601,83,0.72 [0.55-0.96],0.0229731622038634
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,Benign neoplasm: Descending colon,23697,279,1.19 [1.04-1.36],0.0096484174592047
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,Benign neoplasm: Rectum,23657,421,1.03 [0.92-1.15],0.6598427162279259
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,23608,727,1.03 [0.95-1.13],0.4717123441161309
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,Benign neoplasm: Transverse colon,23686,558,1.09 [0.99-1.20],0.0716315116579732
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",18432,70,0.98 [0.74-1.31],0.9092984023110446
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",18430,68,1.28 [0.98-1.68],0.0694769990635758
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",23699,100,1.17 [0.94-1.47],0.1629522861183389
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,"Haemangioma, any site",23699,97,1.18 [0.94-1.48],0.1475006110524669
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,Lung cancer and mesothelioma,15787,343,1.05 [0.92-1.19],0.4783943821099888
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,Lymphoid leukaemia,18426,64,1.00 [0.74-1.34],0.9739453030564068
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",18563,201,0.96 [0.81-1.14],0.6711828485053645
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",18653,291,0.99 [0.86-1.14],0.9002976930874234
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",18452,90,1.70 [1.38-2.10],6.58609114574096e-07
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",18504,142,0.88 [0.72-1.08],0.2326724006043042
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",18502,140,0.94 [0.77-1.15],0.5263128607228272
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",18445,83,0.95 [0.73-1.24],0.7074371422112264
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",19750,1388,0.99 [0.92-1.05],0.6853444735063168
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",18507,145,0.95 [0.78-1.16],0.6409888052581205
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",18468,106,1.00 [0.79-1.25],0.9864223176510182
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,18492,130,0.87 [0.70-1.09],0.2357835020818725
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,Melanocytic naevi,23603,170,0.98 [0.82-1.18],0.8430344340201814
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,Melanocytic naevi of trunk,23698,95,0.93 [0.73-1.20],0.593192322317666
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,Melanoma in situ,18395,74,0.93 [0.70-1.24],0.6403067750871396
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",18460,98,1.05 [0.83-1.33],0.702327287075887
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",18528,166,1.08 [0.90-1.30],0.3839823245827801
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",18579,217,1.03 [0.88-1.21],0.6814027134107886
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",18463,101,1.08 [0.85-1.36],0.5382856207125415
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,Other benign neoplasms of skin,23597,137,1.02 [0.83-1.24],0.8587266923698872
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",19558,1196,1.01 [0.94-1.08],0.7963612357139311
+AGXT,Serine--pyruvate aminotransferase,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",19634,1272,1.01 [0.95-1.08],0.7303099513884512
+AGXT,Serine--pyruvate aminotransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,23455,310,1.02 [0.89-1.16],0.8149319641712666
+AGXT,Serine--pyruvate aminotransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,22002,118,0.92 [0.74-1.15],0.4859837289365903
+AGXT,Serine--pyruvate aminotransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,23217,72,1.21 [0.93-1.56],0.1550339778622421
+AGXT,Serine--pyruvate aminotransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,23178,2784,1.09 [1.04-1.14],0.0001221390755531
+AGXT,Serine--pyruvate aminotransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,22448,61,1.10 [0.82-1.48],0.5238079108730453
+AGXT,Serine--pyruvate aminotransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,23310,53,1.06 [0.77-1.45],0.7336631181087774
+AGXT,Serine--pyruvate aminotransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,23358,1474,1.07 [1.00-1.13],0.0358432654475531
+AGXT,Serine--pyruvate aminotransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,23356,1472,1.06 [1.00-1.13],0.0422866734746025
+AGXT,Serine--pyruvate aminotransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,21988,104,1.16 [0.93-1.45],0.1924000352713161
+AGXT,Serine--pyruvate aminotransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,23491,1104,1.11 [1.04-1.19],0.0031824127101205
+AGXT,Serine--pyruvate aminotransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,23360,103,1.16 [0.93-1.45],0.1914940303113649
+AGXT,Serine--pyruvate aminotransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,23222,77,1.30 [1.01-1.66],0.0409413310028273
+AGXT,Serine--pyruvate aminotransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,23206,61,0.86 [0.62-1.18],0.3443980327843944
+AGXT,Serine--pyruvate aminotransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,23569,312,1.36 [1.20-1.54],7.87807096038769e-07
+AGXT,Serine--pyruvate aminotransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,23634,48,1.13 [0.82-1.56],0.4672811983039717
+AGXT,Serine--pyruvate aminotransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",23509,252,1.41 [1.24-1.62],4.126512106458729e-07
+AGXT,Serine--pyruvate aminotransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,22464,77,1.41 [1.11-1.80],0.0052084440624316
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,17471,378,1.25 [1.11-1.40],0.0001675687189579
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,21702,164,1.48 [1.26-1.74],2.716527727899594e-06
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,21729,191,2.11 [1.84-2.42],3.295961083360817e-26
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,17149,56,1.41 [1.06-1.89],0.0191590923151185
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,22355,65,0.72 [0.53-0.99],0.0439963817839765
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,21589,225,1.15 [0.99-1.34],0.0660240964327997
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",23225,612,1.05 [0.95-1.15],0.3421511616317707
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,22855,242,0.97 [0.83-1.13],0.6836722987760963
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,22779,166,0.90 [0.74-1.09],0.2857533381897322
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,23429,1139,1.13 [1.06-1.21],0.0002828875461527
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,20306,1097,1.16 [1.08-1.24],2.4145827551292446e-05
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",17166,73,1.38 [1.07-1.79],0.0129992179240461
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",22853,39,0.96 [0.66-1.41],0.838639335192513
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,17365,272,1.27 [1.11-1.46],0.000441438848273
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,17169,76,2.56 [2.05-3.20],7.478395179106332e-17
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,20969,3876,1.12 [1.08-1.17],8.131614584977808e-10
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,17280,187,1.57 [1.35-1.83],8.105559091853293e-09
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,17666,573,1.46 [1.33-1.60],1.0590796293355571e-16
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,23672,280,1.04 [0.90-1.19],0.5902975851688053
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,23484,92,1.03 [0.81-1.31],0.8217104382363319
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,17248,155,1.32 [1.11-1.58],0.0020041502372557
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",17158,65,1.86 [1.44-2.40],1.7901155726580556e-06
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,23553,739,1.03 [0.95-1.12],0.4715128978812739
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,17404,311,1.18 [1.04-1.35],0.0092022686474581
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,17475,382,1.38 [1.24-1.54],1.2066744776501446e-08
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",17829,736,1.22 [1.13-1.33],1.9522038258667573e-06
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,17236,143,1.11 [0.91-1.35],0.2939250343836674
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,23477,85,1.00 [0.77-1.28],0.976110476128258
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,17662,569,1.23 [1.12-1.35],2.420133937016904e-05
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,17486,393,1.23 [1.10-1.38],0.0002818863112447
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,21433,69,1.16 [0.89-1.53],0.2763594680649429
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,22292,5199,1.14 [1.10-1.18],1.2503471905582076e-15
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,22834,20,0.77 [0.44-1.36],0.3709352635400121
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,22835,21,1.19 [0.73-1.93],0.4934062544724498
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,23559,1779,1.07 [1.02-1.13],0.0103637144304823
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",23556,1775,1.07 [1.01-1.13],0.0128473024169762
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,22836,22,1.45 [0.94-2.25],0.0933017453844081
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,23457,789,1.08 [1.00-1.17],0.0567193964585691
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",18718,1625,1.22 [1.15-1.29],2.787029711513547e-12
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,23719,266,1.37 [1.20-1.56],2.8612978560257463e-06
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,22722,109,1.13 [0.91-1.40],0.2840893358492283
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,22743,75,1.17 [0.90-1.52],0.2348916705787346
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,22752,84,0.93 [0.71-1.21],0.5753246314927757
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",17156,63,0.88 [0.64-1.21],0.437439750010373
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,20942,159,1.38 [1.16-1.63],0.000284038264617
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,2498,123,1.05 [0.86-1.27],0.6496014436141462
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,2658,316,1.05 [0.93-1.19],0.3899703009111992
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,20881,98,1.70 [1.38-2.11],1.0420167167432964e-06
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,2453,80,1.24 [0.99-1.56],0.0620990027322457
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,22943,2160,1.44 [1.37-1.50],1.1214973404027448e-54
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,22967,354,0.94 [0.82-1.07],0.3242242471959921
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,21604,240,1.26 [1.10-1.46],0.0011937429730113
+AGXT,Serine--pyruvate aminotransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,17897,804,1.22 [1.13-1.32],1.0939350176350154e-06
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",23606,253,0.90 [0.77-1.05],0.1849333632004722
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),22499,272,0.88 [0.76-1.02],0.1017151926346775
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Angina pectoris,20815,1493,1.10 [1.03-1.16],0.0026555999341635
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Aortic aneurysm,22608,381,0.93 [0.82-1.06],0.2712971651609176
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,22312,85,1.27 [1.01-1.61],0.0423747864491278
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",22473,246,1.32 [1.15-1.51],8.881433740996238e-05
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,13884,2316,1.07 [1.02-1.13],0.0061865146807511
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,AV-block,19063,621,1.14 [1.04-1.25],0.0051904693035774
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",23656,535,0.98 [0.88-1.09],0.7118388503390742
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Cardiac arrest,11819,251,1.27 [1.11-1.47],0.0008480368407072
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Cardiomyopathy,18647,205,1.09 [0.92-1.28],0.3127417249130093
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",18555,113,1.16 [0.94-1.44],0.1765170485127698
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,23731,69,1.31 [1.02-1.70],0.0375742507109205
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Conduction disorders,19812,1370,1.11 [1.04-1.18],0.0010649141462077
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,21920,2621,1.07 [1.02-1.12],0.0043324863280907
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,19966,7737,1.07 [1.04-1.10],2.607804258897816e-06
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,DVT of lower extremities,22505,277,0.87 [0.75-1.01],0.0662103163402788
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Endocarditis,18528,86,1.16 [0.90-1.48],0.2455564577977145
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,"Heart failure, strict",23421,1328,1.08 [1.02-1.15],0.0128560376604954
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Hypertension,21168,6742,1.11 [1.08-1.14],7.888026117718989e-13
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,"Hypertension, essential",21191,6765,1.11 [1.08-1.14],2.4841597273332063e-12
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,"Hypertension, portal",23504,113,3.19 [2.69-3.79],1.3753727743819951e-40
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",14610,184,1.26 [1.07-1.49],0.0050067564893182
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,14595,169,1.02 [0.85-1.22],0.8288089066940405
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Hypotension,23583,1228,1.09 [1.02-1.17],0.0082075866602284
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,22661,119,1.08 [0.88-1.34],0.4685916026967294
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",22058,2736,1.05 [1.00-1.10],0.0363188185395959
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",23297,652,1.17 [1.07-1.28],0.0003971790629784
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Left bundle-branch block,18867,425,1.12 [1.00-1.25],0.0457104422697042
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,22997,1058,1.02 [0.95-1.09],0.6268106928909511
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",20239,917,1.02 [0.94-1.10],0.6868227161487628
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",23569,221,0.86 [0.73-1.02],0.0816406949249062
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",23678,370,1.02 [0.91-1.16],0.7042608671665405
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Oesophageal varices,22299,71,3.67 [2.97-4.54],3.113909905498082e-33
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Other aneurysm,22324,97,0.89 [0.69-1.14],0.3557980918372657
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Other arrhythmias,18926,484,1.04 [0.93-1.16],0.4703825247875717
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,22363,136,1.21 [1.01-1.47],0.0423424466091658
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,22511,284,1.32 [1.16-1.50],1.657160566925209e-05
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,18638,196,1.06 [0.90-1.26],0.4688713055471524
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Other disorders of veins,22325,97,1.01 [0.80-1.27],0.9489250459902286
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,22279,51,0.87 [0.61-1.22],0.4077367259503256
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,22139,91,1.13 [0.88-1.43],0.3369259827126294
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,22336,108,0.82 [0.65-1.04],0.1078540920890221
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,19690,1248,1.11 [1.04-1.18],0.002613724115768
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,22422,67,3.13 [2.50-3.91],9.449318518413828e-24
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,22799,572,1.05 [0.96-1.16],0.2867965533212425
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,23084,362,1.14 [1.02-1.29],0.0249420915044074
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",22722,674,0.99 [0.90-1.08],0.7575200451752376
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,11950,382,1.17 [1.04-1.32],0.0108262839932861
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Peripheral artery disease,22706,527,1.13 [1.03-1.25],0.0119485974968345
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),22584,356,0.90 [0.79-1.02],0.1039627116259439
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Pulmonary embolism,23221,499,0.88 [0.79-0.99],0.0271843287728626
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,23668,722,1.18 [1.09-1.29],0.0001006762772607
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Right bundle-branch block,18916,474,1.14 [1.03-1.27],0.0155460835283562
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Secondary right heart disease,23082,360,1.15 [1.02-1.29],0.0240784698621583
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,22270,222,1.20 [1.03-1.39],0.0169443084546324
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",23284,742,1.15 [1.06-1.25],0.0008932724977312
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",23268,772,1.17 [1.08-1.26],0.0002044859756332
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,22635,48,1.29 [0.95-1.77],0.107810937094652
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,22340,114,1.02 [0.82-1.28],0.8405234424797062
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Transient ischemic attack,22897,252,1.10 [0.95-1.28],0.1842071344871469
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,22253,314,1.13 [1.00-1.29],0.0527885929837952
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Varicose veins,22606,378,0.91 [0.80-1.03],0.1290254884312899
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,22245,76,1.11 [0.85-1.44],0.4575686964175689
+AGXT,Serine--pyruvate aminotransferase,Chapter IX Diseases of the circulatory system,Venous thromboembolism,23493,785,0.89 [0.81-0.97],0.006799706799243
+AGXT,Serine--pyruvate aminotransferase,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",23534,498,1.70 [1.55-1.86],1.0150681117180396e-30
+AGXT,Serine--pyruvate aminotransferase,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",20389,960,1.10 [1.03-1.19],0.0087194458398897
+AGXT,Serine--pyruvate aminotransferase,Chapter V Mental and behavioural disorders,Any mental disorder,23046,3617,1.10 [1.06-1.15],4.078556071903833e-07
+AGXT,Serine--pyruvate aminotransferase,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",23476,589,1.59 [1.46-1.73],3.780838559239079e-27
+AGXT,Serine--pyruvate aminotransferase,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",20604,1175,1.14 [1.07-1.22],0.0001275462900222
+AGXT,Serine--pyruvate aminotransferase,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",19514,85,0.95 [0.73-1.24],0.7166461876469101
+AGXT,Serine--pyruvate aminotransferase,Chapter V Mental and behavioural disorders,Smoking dependency,23084,1520,1.07 [1.01-1.13],0.03323032583964
+AGXT,Serine--pyruvate aminotransferase,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",21289,1860,1.16 [1.10-1.23],2.60335210329976e-08
+AGXT,Serine--pyruvate aminotransferase,Chapter V Mental and behavioural disorders,Vascular dementia,23223,150,1.13 [0.93-1.36],0.2083013779257342
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Alzheimer disease,23729,298,0.97 [0.84-1.12],0.6943129903327248
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",15758,58,1.27 [0.94-1.72],0.1199411435826514
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Bell's palsy,22365,78,1.25 [0.97-1.60],0.0784963576414018
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,22619,332,0.94 [0.82-1.07],0.3193156747569849
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Cerebral cysts,23331,237,1.26 [1.10-1.46],0.0012950792406494
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,23644,364,1.11 [0.98-1.25],0.093455104934243
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,23219,58,0.93 [0.67-1.28],0.6497781909703063
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,23710,75,0.94 [0.72-1.24],0.6808667652094282
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",23187,93,1.16 [0.92-1.46],0.2101398394775786
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Epilepsy,22109,286,1.18 [1.04-1.35],0.0125328862877116
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,23191,1368,1.06 [1.00-1.13],0.0580737316290614
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,23694,678,1.02 [0.93-1.11],0.7473604045745298
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Falls/tendency to fall,23187,2196,1.09 [1.04-1.14],0.0007449963021515
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Generalized epilepsy,23342,60,1.10 [0.82-1.47],0.5188560080748814
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Hemiplegia,23561,281,1.18 [1.03-1.35],0.0144943869817831
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Hydrocephalus,23150,56,1.26 [0.94-1.69],0.124633914194664
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,23713,61,1.09 [0.82-1.46],0.5610877628455888
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,22307,20,0.69 [0.39-1.24],0.2189419389018682
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,22379,92,1.03 [0.81-1.31],0.799014151298683
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Memory loss,23061,119,1.09 [0.88-1.34],0.4478340738609268
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Migraine,22020,197,1.06 [0.90-1.26],0.4588966673646776
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",23706,177,1.09 [0.92-1.30],0.3164472165721967
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Motor neuron disease,15860,147,0.97 [0.79-1.18],0.7382795941170512
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,23620,64,0.87 [0.64-1.18],0.3833397390103874
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",23260,973,1.04 [0.96-1.12],0.3576313776792665
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Neurological diseases,22418,3666,1.05 [1.01-1.09],0.022613329292151
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,23403,242,1.08 [0.93-1.26],0.295245815996678
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",22681,394,0.97 [0.86-1.09],0.6191650325084779
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",23634,356,1.16 [1.03-1.31],0.012713016229297
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,18603,623,1.06 [0.96-1.16],0.2385320277410443
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,23171,77,1.00 [0.77-1.31],0.985352731455666
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Other disorders of nervous system,23245,151,1.18 [0.98-1.42],0.0731812592244624
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,23154,138,1.10 [0.90-1.33],0.3544994359132827
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Other facial nerve disorders,22384,97,1.26 [1.01-1.57],0.0393531801274615
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Other headache syndromes,21862,39,0.99 [0.68-1.43],0.943131239545332
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Other neurological diseases,23613,519,1.15 [1.04-1.27],0.0047746938097194
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Other sleep disorders,22526,703,1.03 [0.95-1.12],0.4768698778494209
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Parkinson's disease,23708,531,1.00 [0.91-1.11],0.9368319010780288
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,23121,27,1.20 [0.78-1.85],0.4028005004568935
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Restless leg syndrome,23730,49,1.08 [0.78-1.50],0.6414521751048455
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Sleep apnoea,23424,633,1.04 [0.95-1.14],0.3716035828619588
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Small fibre neuropathy,23336,58,1.11 [0.82-1.50],0.4994428643123976
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,23713,172,0.98 [0.81-1.17],0.7912069330544186
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,22320,33,1.02 [0.67-1.54],0.9354974102025206
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,23729,301,0.97 [0.84-1.12],0.6943351948889949
+AGXT,Serine--pyruvate aminotransferase,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),23192,146,1.15 [0.95-1.39],0.1459182757914714
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,23183,86,1.01 [0.78-1.31],0.918365217637372
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,23384,299,1.03 [0.89-1.18],0.707832315800339
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,23528,289,1.34 [1.18-1.52],4.033180397938084e-06
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,22858,42,0.83 [0.56-1.22],0.3381860545190954
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,22878,62,0.95 [0.71-1.28],0.7543833192839053
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",23638,46,0.98 [0.69-1.39],0.914795985755034
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,23501,121,0.92 [0.73-1.15],0.443439651154963
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",2457,82,1.27 [1.02-1.59],0.0364080978065903
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,2994,130,1.05 [0.87-1.26],0.6195374611221853
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,23190,93,1.02 [0.80-1.30],0.8623065879203177
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,23479,988,1.09 [1.02-1.18],0.0163471781408339
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",23429,613,0.99 [0.90-1.09],0.8966106630899312
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,22960,144,0.99 [0.81-1.20],0.8903296154245197
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",23654,569,1.03 [0.93-1.14],0.5618064545021266
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,23727,66,1.21 [0.92-1.59],0.1834911991320263
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,23584,499,1.01 [0.91-1.12],0.890036919405637
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",23691,311,1.06 [0.92-1.21],0.423032190885898
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,23640,150,0.97 [0.80-1.18],0.7681950144748542
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,22893,77,1.08 [0.83-1.40],0.5890596563653254
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,22902,86,0.85 [0.65-1.11],0.2246844916710831
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,22859,43,1.07 [0.75-1.53],0.6942007474420157
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,23634,675,0.99 [0.90-1.09],0.8402832987083206
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,23140,181,0.95 [0.80-1.14],0.6085321922923917
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,23113,28,0.89 [0.56-1.42],0.6179143841620734
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,23473,93,1.16 [0.92-1.47],0.2117314951876763
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,23603,223,0.99 [0.85-1.17],0.9456783414699091
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,23255,170,0.96 [0.79-1.15],0.6264309707141955
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,23574,84,0.91 [0.70-1.19],0.4974171243689856
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,23415,456,1.04 [0.93-1.15],0.5372662869539494
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,23227,130,1.05 [0.86-1.29],0.6349892063060256
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,22367,1786,1.06 [1.00-1.12],0.0439625737523167
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,23574,194,1.00 [0.84-1.19],0.9857181193521632
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,23715,147,1.03 [0.85-1.25],0.7863269361911753
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,23232,416,0.99 [0.88-1.11],0.8692387150988001
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,23443,63,1.19 [0.89-1.58],0.232680312920791
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,23716,55,1.22 [0.90-1.65],0.197101103439961
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,22892,76,1.15 [0.89-1.49],0.2914824620282961
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,22956,140,1.07 [0.88-1.30],0.4818724769402229
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,22619,128,1.16 [0.95-1.42],0.1411143361808807
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,23137,52,1.15 [0.84-1.57],0.3790861546312952
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",22554,63,1.24 [0.94-1.64],0.1286434632713812
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,23009,50,0.87 [0.61-1.23],0.43192105038823
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",23167,208,0.92 [0.78-1.09],0.3314357851341644
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,22933,117,0.95 [0.76-1.18],0.6286211964696202
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,22613,122,1.09 [0.88-1.34],0.4369114253207081
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,22586,95,1.16 [0.92-1.46],0.2209658371015098
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,22045,1464,1.02 [0.96-1.09],0.4504552246948042
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,22874,58,1.11 [0.82-1.50],0.4853846709245181
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,23486,389,1.07 [0.95-1.20],0.2722497802040795
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,23166,69,1.33 [1.02-1.72],0.0331695811721209
+AGXT,Serine--pyruvate aminotransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),23267,170,1.16 [0.98-1.38],0.0870935403868514
+AGXT,Serine--pyruvate aminotransferase,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,23556,58,1.31 [0.98-1.75],0.0675470038721177
+AGXT,Serine--pyruvate aminotransferase,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,23687,120,1.00 [0.80-1.24],0.9818390418600818
+AGXT,Serine--pyruvate aminotransferase,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,23595,112,1.42 [1.17-1.73],0.000458194365408
+AGXT,Serine--pyruvate aminotransferase,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,23548,50,1.25 [0.92-1.70],0.1616436859916766
+AGXT,Serine--pyruvate aminotransferase,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,23552,54,0.91 [0.65-1.27],0.5763705144802491
+AGXT,Serine--pyruvate aminotransferase,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,23636,972,1.02 [0.94-1.10],0.6983141276918567
+AGXT,Serine--pyruvate aminotransferase,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,23384,720,1.02 [0.93-1.11],0.7035844282683588
+AGXT,Serine--pyruvate aminotransferase,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,22793,129,0.87 [0.70-1.08],0.1999594663230962
+AGXT,Serine--pyruvate aminotransferase,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,22750,86,1.16 [0.91-1.48],0.2329874478759349
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Acute pharyngitis,23517,63,1.32 [1.01-1.73],0.0456732154343991
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,23645,191,1.08 [0.92-1.28],0.3357086295995672
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,23517,63,1.16 [0.87-1.53],0.3103761802463913
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,All influenza,21448,108,1.28 [1.04-1.59],0.0213282545349626
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),21445,105,1.30 [1.05-1.61],0.0168584460370705
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Allergic asthma (mode),15548,104,1.06 [0.84-1.33],0.6349315617790554
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Allergic rhinitis,23623,267,1.05 [0.91-1.22],0.4622608134981346
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",16531,1430,1.00 [0.94-1.07],0.90342996076946
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",16848,1404,0.99 [0.93-1.06],0.8450376953666778
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),23346,152,0.94 [0.77-1.14],0.5114158148533006
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",21436,96,0.90 [0.70-1.16],0.4213444609679769
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Bronchiectasis,20621,291,1.06 [0.93-1.22],0.3773264517707946
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",20376,46,1.05 [0.75-1.48],0.7611819744407631
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,22877,2547,1.01 [0.96-1.05],0.8253440353548481
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",22290,79,1.18 [0.91-1.52],0.208329241154004
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Chronic sinusitis,22371,160,1.11 [0.93-1.33],0.2557763195588737
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",23510,1296,1.02 [0.96-1.09],0.4537070657005432
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Deviated nasal septum,22348,137,0.80 [0.65-0.99],0.0412917830367388
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,21724,5262,1.04 [1.01-1.08],0.0082320583102735
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",22602,391,0.93 [0.82-1.05],0.2315677249316616
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Early onset COPD,22516,302,1.03 [0.90-1.17],0.7090156604790039
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Emphysema,20680,350,0.96 [0.84-1.09],0.5247655085815854
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,22809,341,0.97 [0.86-1.11],0.6891037727558238
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Influenza and pneumonia,23488,2148,1.08 [1.03-1.13],0.0028727526237927
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Interstitial lung disease,22838,370,0.97 [0.86-1.10],0.6198048598824191
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Later onset COPD,22671,994,1.03 [0.96-1.11],0.4338775284302522
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,23713,428,1.06 [0.95-1.19],0.3165411072139286
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Nasal polyp,22354,143,1.16 [0.96-1.40],0.1174512017618192
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,23461,1001,1.11 [1.04-1.20],0.0032597037281291
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Other diseases of pleura,23449,2192,1.07 [1.01-1.12],0.0124005495593171
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,23079,868,1.03 [0.95-1.12],0.4359425228686723
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Other pleural conditions,21324,67,1.23 [0.94-1.62],0.1334069775843347
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,23636,452,1.03 [0.93-1.15],0.5617087362890862
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,23610,1388,1.04 [0.97-1.10],0.2561777690967927
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Pleural effusion,22379,1122,1.11 [1.04-1.19],0.0024437051181967
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Pleural plaque,21520,263,1.17 [1.02-1.34],0.028897410334128
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",23225,1885,1.06 [1.00-1.11],0.0443287036332417
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,23613,328,1.08 [0.95-1.23],0.2460194418347227
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Pneumothorax,21399,142,0.97 [0.79-1.18],0.7450922348644016
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Pollen allergy,23715,233,1.01 [0.87-1.18],0.8930900523539322
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Pulmonary oedema,23252,68,1.25 [0.96-1.63],0.0981682074979085
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Respiratory insufficiency,15499,55,0.74 [0.52-1.05],0.0885409084141158
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,23444,984,1.12 [1.04-1.20],0.0025548745830991
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,22480,269,1.07 [0.93-1.23],0.3679389319086685
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Viral pneumonia,21620,280,1.21 [1.06-1.38],0.0051854579053349
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",23361,238,1.24 [1.07-1.43],0.003831024852397
+AGXT,Serine--pyruvate aminotransferase,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,10326,119,1.11 [0.90-1.38],0.3286595803003182
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,16572,89,0.98 [0.76-1.25],0.8454940054052644
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Acute appendicitis,23599,141,0.98 [0.80-1.20],0.8539168890285088
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Acute gastritis,17904,89,1.19 [0.93-1.51],0.1683088641011634
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Acute pancreatitis,22372,203,1.32 [1.14-1.54],0.0002862775860132
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Acute peritonitis,23371,98,1.44 [1.16-1.78],0.0008394002664977
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Alcoholic liver disease,22842,115,3.24 [2.73-3.85],1.1347739503644963e-40
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Barrett oesophagus,18341,526,1.14 [1.04-1.27],0.0084158860898476
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",22292,123,1.32 [1.08-1.61],0.0056223906283815
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",23327,123,1.31 [1.07-1.59],0.0074407712725265
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Cholecystitis,22389,220,1.07 [0.92-1.25],0.3882638841077124
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Cholelithiasis,22954,785,1.23 [1.14-1.33],2.103671385116933e-07
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Chronic gastritis,18082,267,1.20 [1.04-1.38],0.0100433795783745
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Chronic pancreatitis,22225,56,1.68 [1.29-2.20],0.00013518552296
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",23527,136,3.04 [2.60-3.55],3.557385630765996e-44
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Coeliac disease,22107,95,1.26 [1.01-1.59],0.0431774391537738
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Collagenous colitis,22295,49,0.91 [0.64-1.28],0.5833096202637286
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,23564,222,1.07 [0.92-1.24],0.3850972384437767
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Constipation,23564,1597,1.03 [0.97-1.10],0.27841447145442
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Crohn disease,22336,90,1.22 [0.97-1.55],0.0882813045067444
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",23388,65,1.13 [0.85-1.49],0.404537339319832
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Crohn's disease NAS,22322,76,1.24 [0.97-1.60],0.0922155585249926
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Dental caries,23082,222,1.12 [0.96-1.30],0.1528009232992498
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,20087,1938,1.05 [1.00-1.11],0.0577479658831178
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Diseases of appendix,23629,171,0.99 [0.82-1.18],0.8853434316187994
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Diseases of liver,23592,865,1.73 [1.62-1.86],8.593262094549319e-55
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",21733,3918,1.12 [1.08-1.16],4.2273078952496855e-09
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",23370,510,1.17 [1.06-1.29],0.002238385818527
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Diseases of peritoneum,23681,408,1.14 [1.02-1.27],0.0245132641025666
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,22969,109,1.17 [0.94-1.44],0.1534891757493878
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Diseases of salivary glands,22828,67,0.86 [0.64-1.16],0.3261562632531453
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Diseases of the digestive system,23410,1398,1.15 [1.09-1.23],2.7088720989396927e-06
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Diseases of tongue,22848,107,1.12 [0.90-1.40],0.2940083516949958
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",23361,1192,1.24 [1.16-1.32],5.828472170380829e-11
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,19520,3037,1.08 [1.03-1.12],0.00067344502361
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Duodenal ulcer,18079,264,1.32 [1.15-1.51],6.108881825333459e-05
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",23615,209,1.29 [1.11-1.50],0.0009429057097587
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,23655,46,1.00 [0.71-1.40],0.9781164602003984
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,22886,159,3.00 [2.59-3.47],9.050892731578475e-49
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,16663,180,1.08 [0.91-1.28],0.3815251853841493
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Functional dyspepsia,18235,420,1.07 [0.95-1.20],0.2719548890619251
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Gastric ulcer,18183,368,1.27 [1.13-1.42],6.50736916110616e-05
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,19967,2152,1.09 [1.04-1.15],0.000566286881597
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,18411,596,1.28 [1.17-1.41],5.627331863497194e-08
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,18131,7946,1.07 [1.04-1.10],7.879504021737288e-07
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,GI-bleeding,23173,1161,1.17 [1.09-1.25],4.72791970733151e-06
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,22903,43,1.16 [0.83-1.62],0.3982081568657623
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,17441,1226,1.03 [0.96-1.10],0.4720548831843063
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",22811,84,2.52 [2.05-3.09],9.335280866684253e-19
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Hernia,21680,3531,1.01 [0.97-1.05],0.5201778055426033
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Impacted teeth,23658,43,1.01 [0.71-1.44],0.9586007002767964
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Impaction of intestines,16530,47,1.18 [0.84-1.64],0.3389582308760485
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Inguinal hernia,19780,1631,0.94 [0.88-0.99],0.0322795888048716
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",18345,196,0.91 [0.76-1.08],0.2861341041339535
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,16571,88,1.26 [0.99-1.59],0.0573128281628588
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Intestinal malabsorption,22120,108,1.29 [1.04-1.59],0.0181834806426976
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,16755,272,1.05 [0.92-1.22],0.4591964525121147
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,23688,375,1.85 [1.67-2.05],4.6705973405934445e-32
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,22927,681,1.02 [0.94-1.12],0.5944638388319063
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,23134,888,1.03 [0.96-1.12],0.4226638306390874
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Oesophageal obstruction,18028,213,1.35 [1.16-1.56],0.0001043052579114
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Oesophagitis,18443,628,1.23 [1.12-1.34],8.63885951111003e-06
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,23678,115,0.91 [0.73-1.14],0.4136540809357527
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,18228,79,0.98 [0.75-1.29],0.8916405266234141
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,17901,1418,1.06 [0.99-1.12],0.080360262913804
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,22429,260,1.28 [1.12-1.47],0.0003545305074833
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,22292,123,1.11 [0.91-1.37],0.3075282121195278
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Other diseases of intestine,18354,1871,1.10 [1.05-1.16],0.0002980444100644
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Other diseases of intestines,21922,5439,1.06 [1.02-1.09],0.0006095880126955
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,22812,182,0.94 [0.79-1.13],0.518156980903493
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Other diseases of liver,23420,693,1.74 [1.61-1.88],1.5917674212243997e-44
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,18547,732,1.16 [1.07-1.27],0.0004516626735072
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Other diseases of pancreas,22310,141,1.14 [0.94-1.39],0.1677189964271992
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,23609,336,1.06 [0.94-1.21],0.3317678739691737
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,18620,805,1.24 [1.15-1.34],1.0956402856897128e-07
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,23185,1173,1.16 [1.08-1.23],1.415260456554826e-05
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,23038,178,1.18 [1.00-1.40],0.0469324957070046
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,18117,1634,1.05 [0.99-1.12],0.0846563245984855
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),19676,1861,1.20 [1.14-1.26],1.6099071777171898e-11
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,22823,96,2.24 [1.84-2.73],1.255097218616827e-15
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,23024,778,1.01 [0.93-1.10],0.8030068216391895
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",16834,351,1.19 [1.06-1.35],0.003889419482041
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,23646,56,1.03 [0.76-1.40],0.8459715096509869
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,16958,475,1.16 [1.05-1.29],0.0046386047921762
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",22174,162,1.11 [0.93-1.33],0.257687615611941
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Recurring oral aphthae,23717,43,0.90 [0.62-1.30],0.5701335242652723
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,22869,106,1.03 [0.82-1.29],0.8004219230255283
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Toxic colitis,22292,46,0.88 [0.61-1.27],0.5005164133369462
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,18114,299,1.24 [1.09-1.41],0.0011030746994418
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Ulcerative colitis,22396,150,1.03 [0.85-1.25],0.7370878458938279
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",22371,125,0.91 [0.74-1.13],0.4096554314511409
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Umbilical hernia,18521,372,1.02 [0.91-1.15],0.7158772337783605
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,16643,160,1.27 [1.06-1.51],0.0089791879642121
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Ventral hernia,18413,264,1.08 [0.94-1.24],0.2969402378587319
+AGXT,Serine--pyruvate aminotransferase,Chapter XI Diseases of the digestive system,Volvulus,16555,72,1.06 [0.80-1.40],0.6792503263807981
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,23654,322,0.99 [0.86-1.13],0.8461660980468888
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,23417,68,1.16 [0.89-1.52],0.2768475721048417
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,21739,96,1.01 [0.79-1.29],0.949993649217768
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,22994,751,1.11 [1.02-1.20],0.0158043634279427
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",22443,200,1.06 [0.90-1.24],0.5036670990411692
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,22112,469,1.11 [1.00-1.23],0.0551632420969983
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,23438,271,1.19 [1.04-1.37],0.0111309896808882
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,23639,472,1.15 [1.03-1.27],0.0102767009445034
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,23210,43,0.84 [0.58-1.23],0.375024825595928
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,22241,3163,1.02 [0.98-1.07],0.2704449803029225
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,23282,409,1.02 [0.91-1.15],0.7054747495778669
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,23169,296,1.03 [0.90-1.18],0.6594030295210993
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,23270,1027,1.10 [1.03-1.18],0.0067695915566961
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",23721,31,0.99 [0.65-1.51],0.952885869461652
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,21665,22,1.34 [0.85-2.10],0.2082775090503044
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,22931,58,0.99 [0.72-1.34],0.9322161486778808
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,23434,267,1.22 [1.06-1.40],0.0044470195296244
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,22124,481,0.94 [0.84-1.05],0.2397587547668134
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,21723,80,0.99 [0.76-1.30],0.9392837129724456
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,23663,81,0.96 [0.74-1.25],0.7867972159036161
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,22464,221,1.15 [0.98-1.33],0.0786759388140762
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,23562,213,1.10 [0.94-1.29],0.2226434739467473
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,23236,69,1.17 [0.89-1.53],0.2602188401652484
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,21709,66,0.91 [0.67-1.23],0.5423227025481833
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,23272,1629,0.99 [0.94-1.06],0.8631986274962002
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",22164,521,0.95 [0.85-1.05],0.3212250443513246
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,21726,83,1.03 [0.79-1.34],0.82459501755746
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,23641,292,1.08 [0.95-1.24],0.2547174547629757
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,23222,55,1.30 [0.97-1.74],0.0820643489892824
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,23604,255,1.09 [0.94-1.25],0.2589959645704807
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,23674,342,0.96 [0.84-1.10],0.5548870718662533
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,21732,89,0.99 [0.77-1.28],0.9631442320955018
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,21911,268,0.90 [0.78-1.05],0.1821629441806693
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,23667,335,0.98 [0.86-1.11],0.720311193278008
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",21909,266,1.06 [0.92-1.22],0.4038867060144833
+AGXT,Serine--pyruvate aminotransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,23705,123,0.95 [0.76-1.17],0.6246149710458118
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,20484,92,1.32 [1.06-1.65],0.0146698893420155
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,21650,4765,1.04 [1.00-1.08],0.0250402487266327
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,20239,3354,1.00 [0.96-1.04],0.9558470071505996
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,20463,71,0.91 [0.68-1.20],0.4973858688550895
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,20828,148,1.12 [0.93-1.35],0.2352947124474557
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,20826,146,1.03 [0.85-1.25],0.7644802432214742
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,23530,69,0.95 [0.72-1.26],0.7360802768742984
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",20761,81,1.25 [0.98-1.60],0.0761311361362354
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,17743,858,0.95 [0.88-1.03],0.2376279690799531
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",23612,150,0.97 [0.80-1.18],0.7638347141619285
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,20951,271,0.88 [0.75-1.02],0.0847440861773742
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,20187,6250,1.02 [0.99-1.05],0.1268100375277268
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,22675,93,1.14 [0.91-1.44],0.2563266917308255
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,20558,166,1.07 [0.90-1.28],0.4586944110214098
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,20829,437,1.06 [0.95-1.18],0.3031418801921968
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,22908,2228,1.02 [0.97-1.07],0.5157468814347043
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,20758,366,1.06 [0.94-1.19],0.3713938680547357
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,20444,52,1.41 [1.05-1.89],0.023054006567296
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,20488,96,0.94 [0.74-1.20],0.6367620787162114
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,23414,31,0.97 [0.64-1.49],0.9066244824213792
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,18346,1461,0.95 [0.89-1.01],0.1090921124453304
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,17860,975,1.21 [1.13-1.30],9.514667080627612e-08
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",23589,961,1.24 [1.16-1.33],2.646362035615621e-09
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,16932,47,1.08 [0.77-1.51],0.6691919264299562
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),16963,78,1.06 [0.81-1.38],0.666846682634145
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,20660,268,1.22 [1.07-1.40],0.0032426183528874
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,17513,628,0.94 [0.86-1.04],0.2386339459343861
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,20722,42,0.92 [0.63-1.34],0.6476458491257524
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,21210,530,1.03 [0.94-1.14],0.5078498645138663
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,20947,267,0.90 [0.78-1.05],0.1699700413376628
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,17471,586,0.94 [0.85-1.04],0.2327609193555697
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,20456,64,1.15 [0.87-1.52],0.324075335142697
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",20446,54,0.98 [0.71-1.35],0.8891196762465701
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,22675,93,1.33 [1.06-1.66],0.0119946041390998
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,23445,863,1.09 [1.01-1.18],0.0245022830991863
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,22984,402,1.06 [0.94-1.19],0.3163665798952506
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",23651,286,0.97 [0.85-1.12],0.7124622525321415
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,18760,1875,1.02 [0.97-1.08],0.4951917691409987
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,16937,52,1.14 [0.84-1.56],0.3988558210997698
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,20476,84,0.89 [0.68-1.17],0.4085524255535998
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,16940,55,0.90 [0.64-1.25],0.5160865435194106
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),16931,46,1.10 [0.78-1.54],0.5816569287425385
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,22766,184,1.05 [0.89-1.25],0.5651618784193431
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,22745,163,1.15 [0.96-1.38],0.1283176144547652
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,23694,84,0.81 [0.62-1.07],0.1390934080052332
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",22203,1523,1.04 [0.98-1.10],0.2048930758873682
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,20458,66,0.86 [0.63-1.16],0.3119317458729737
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),16924,39,0.85 [0.57-1.27],0.4340868815251192
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,21303,623,1.01 [0.92-1.11],0.7734924275404402
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,18591,1706,1.03 [0.98-1.09],0.2576763133583871
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,23439,56,0.91 [0.66-1.26],0.5569314869639113
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,23713,62,1.17 [0.89-1.55],0.2606257763398735
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,20472,80,1.03 [0.80-1.33],0.81670559961602
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",21376,984,0.97 [0.90-1.04],0.3857697028759815
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,20485,93,0.98 [0.76-1.25],0.842990599483112
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,18092,1207,1.04 [0.97-1.11],0.2958906114601768
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,22665,83,1.01 [0.78-1.31],0.9166188150166606
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,20437,45,0.92 [0.64-1.31],0.6448126505848855
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,20789,109,1.03 [0.82-1.29],0.7871624421232001
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,20899,507,0.93 [0.84-1.04],0.1854604033799942
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,23577,194,0.99 [0.83-1.17],0.8847668765969178
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,21158,478,1.05 [0.94-1.16],0.3920888809780483
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,23659,279,0.92 [0.80-1.06],0.2556876506058338
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,23715,38,0.97 [0.66-1.42],0.8584812084187932
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,20542,150,1.19 [0.99-1.43],0.057577531482847
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,19447,570,1.13 [1.03-1.24],0.0098302998950055
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,20871,479,0.93 [0.84-1.04],0.2194292753520377
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],20722,330,1.06 [0.93-1.21],0.3651173805019153
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",16914,29,1.22 [0.80-1.86],0.3469851172646333
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,19148,2263,1.09 [1.04-1.14],0.0005276413211338
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,17340,455,1.05 [0.94-1.18],0.3442677038244399
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,23546,163,0.99 [0.82-1.20],0.9473910124521236
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",23656,46,0.80 [0.55-1.16],0.2347324858171077
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",21748,46,0.66 [0.45-0.96],0.029351944792123
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,16949,64,1.19 [0.90-1.57],0.2211341270526639
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,20764,84,0.92 [0.71-1.20],0.5292247880817699
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,17178,293,0.97 [0.85-1.12],0.7179828352864781
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,20663,271,1.04 [0.90-1.20],0.6009220943416187
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,20894,214,1.13 [0.97-1.32],0.1099923173423179
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,20774,94,1.04 [0.82-1.33],0.7432579395847305
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,18835,30,1.25 [0.83-1.87],0.2833215308089822
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",23716,39,0.92 [0.62-1.35],0.6586151186857692
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,20916,524,1.09 [0.99-1.21],0.0840022753997931
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],23404,21,0.73 [0.42-1.29],0.283701831067872
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,22662,2270,1.02 [0.97-1.07],0.3769756243287507
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",20499,107,1.01 [0.81-1.27],0.8986110922466664
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,21191,511,1.01 [0.91-1.12],0.900748457364821
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,22676,194,1.08 [0.92-1.28],0.3567327455540448
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,20808,128,0.83 [0.67-1.04],0.1077731792224546
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,21995,1315,1.01 [0.95-1.08],0.7444982807049384
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,21499,819,0.97 [0.89-1.06],0.5055889503841543
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],20436,44,0.81 [0.56-1.19],0.2842111772230168
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,23423,40,1.65 [1.21-2.26],0.0017051030398421
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,20510,118,1.00 [0.80-1.24],0.9780081021710334
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,20415,23,0.96 [0.59-1.56],0.8755404758386649
+AGXT,Serine--pyruvate aminotransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),16945,60,0.98 [0.72-1.34],0.9209705702844088
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Acute renal failure,22723,1859,1.16 [1.10-1.22],2.6517277878133586e-08
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,23256,406,1.06 [0.94-1.19],0.3265581332983546
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,22988,138,1.00 [0.82-1.23],0.9664973186349832
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,22410,1546,1.08 [1.02-1.15],0.0070517252560776
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,23480,85,1.02 [0.80-1.31],0.847234339357905
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,23447,353,1.01 [0.89-1.14],0.8808930860095847
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Cystitis,20880,213,1.04 [0.89-1.22],0.6289289598775298
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Dialysis,20969,105,0.82 [0.64-1.05],0.1107353790086677
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,22456,3298,0.96 [0.92-1.00],0.0504979671506688
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,21364,5551,1.03 [0.99-1.06],0.1056220617022519
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,23496,101,1.42 [1.15-1.75],0.0009777797402271
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Hydrocele,19364,206,0.95 [0.80-1.12],0.5153497235323574
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,20966,367,1.05 [0.93-1.19],0.4165573044867744
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,21744,2586,0.95 [0.91-1.00],0.0363921635496928
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),19393,235,1.04 [0.89-1.21],0.6111672912552935
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,20747,80,0.70 [0.53-0.94],0.0173912328951512
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,19266,108,1.17 [0.94-1.45],0.1573386105858395
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",23719,62,1.29 [0.98-1.71],0.0688150591024844
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",23723,57,0.91 [0.65-1.26],0.5595197492746548
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,22894,2227,1.01 [0.96-1.06],0.7502716257774071
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,21614,947,1.00 [0.92-1.08],0.9554689211143432
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,23654,560,0.95 [0.86-1.05],0.3192037148909434
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,19465,307,0.94 [0.82-1.08],0.4006944731383706
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,19443,285,1.02 [0.89-1.17],0.7978784606798239
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,19390,232,0.87 [0.74-1.02],0.0785959906359153
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,23714,48,0.91 [0.65-1.30],0.6155518313675772
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,22181,1514,1.04 [0.98-1.11],0.1739278962240147
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,21008,409,1.06 [0.94-1.19],0.348992432888605
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,23283,189,0.90 [0.75-1.07],0.2185544657639852
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,23453,58,0.95 [0.69-1.29],0.7250367231418589
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",19421,263,1.09 [0.95-1.26],0.2222066975684316
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,23426,2827,1.11 [1.06-1.16],2.8766919363123734e-06
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",20670,71,1.09 [0.83-1.44],0.5205794057890387
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,21023,159,1.25 [1.05-1.49],0.0116161821063165
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,22924,74,1.15 [0.89-1.49],0.2833641787672415
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Urethral stricture,20961,294,1.02 [0.89-1.17],0.7995373961658883
+AGXT,Serine--pyruvate aminotransferase,Chapter XIV Diseases of the genitourinary system,Urolithiasis,23371,521,1.06 [0.96-1.18],0.223015274009587

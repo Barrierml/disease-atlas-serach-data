@@ -1,0 +1,658 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",21833,195,1.00 [0.90-1.11],0.9591418812322487
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",23046,252,0.98 [0.90-1.08],0.70958188727585
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",22771,1752,1.04 [1.00-1.08],0.0318093934167113
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Candidiasis,23052,551,1.04 [0.98-1.11],0.1668398078577478
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,22294,4233,1.03 [1.00-1.05],0.0252868592394568
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),22240,4315,1.01 [0.99-1.04],0.22417827844155
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,22756,1428,1.01 [0.97-1.05],0.54207168188695
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,22953,130,1.00 [0.88-1.14],0.9834807844696764
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,20228,1302,1.02 [0.98-1.06],0.290356318975513
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,19517,1585,1.02 [0.98-1.06],0.3562007149134224
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,19010,341,1.03 [0.95-1.12],0.4289164608111427
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,14976,2750,1.00 [0.98-1.03],0.7444966759107843
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,18944,495,1.05 [0.98-1.12],0.1755838515650659
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,23028,1700,1.00 [0.97-1.04],0.8572851468136388
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Mycoses,23147,646,1.05 [0.99-1.11],0.1013523742686563
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,22263,1244,1.02 [0.98-1.07],0.2752464654685371
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,23075,1437,1.02 [0.98-1.06],0.3764238760670156
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,21580,252,0.98 [0.90-1.08],0.7334089584303527
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,23207,67,1.09 [0.91-1.30],0.3580069829209391
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Other septicaemia,22892,1254,1.02 [0.97-1.06],0.4639533532252096
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,22904,81,1.06 [0.90-1.25],0.4966195227489225
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Other viral diseases,23142,144,1.12 [0.99-1.27],0.0649371908454976
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",23120,122,1.13 [0.99-1.29],0.0705742881001652
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,21515,496,1.11 [1.04-1.18],0.0020905075039232
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,21326,307,1.02 [0.93-1.10],0.7243731635953973
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,21467,139,1.06 [0.94-1.20],0.3560795165377457
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,23192,51,0.89 [0.73-1.10],0.2818263433352896
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,23138,176,1.05 [0.94-1.17],0.418737141542912
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Viral warts,23018,56,1.25 [1.03-1.52],0.0223220839196111
+MESD,LRP chaperone MESD,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],23043,81,0.98 [0.83-1.15],0.791832914524208
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Benign lipomatous neoplasm,22913,267,0.90 [0.82-0.99],0.0225446099919351
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,23124,39,0.86 [0.68-1.09],0.2244308889010468
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,23107,44,0.96 [0.77-1.20],0.7190461115020481
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,11060,86,0.90 [0.77-1.05],0.1779400150901676
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",22740,1680,1.02 [0.98-1.06],0.3177937793851512
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Benign neoplasm of meninges,23191,64,1.12 [0.93-1.35],0.2263271894853698
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,23111,78,1.04 [0.88-1.22],0.6780483327928521
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,23179,120,0.96 [0.84-1.10],0.573650152765034
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Benign neoplasm of ovary,12076,80,1.05 [0.90-1.24],0.5272434937130923
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Benign neoplasm: Ascending colon,23168,446,1.02 [0.96-1.10],0.4970530359503298
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Benign neoplasm: Caecum,23173,387,1.00 [0.92-1.07],0.9216001676608184
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",23058,86,0.90 [0.77-1.06],0.2148333142726479
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Benign neoplasm: Descending colon,23163,255,1.00 [0.91-1.10],0.995543205393412
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Benign neoplasm: Rectum,23122,406,0.97 [0.90-1.04],0.4076989265639437
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,23050,680,1.03 [0.97-1.09],0.3176972235261676
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Benign neoplasm: Transverse colon,23150,541,1.05 [0.98-1.12],0.1471946662114416
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Carcinoma in situ of breast,9075,49,0.93 [0.75-1.15],0.4944351964502914
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",9118,65,1.13 [0.94-1.35],0.2078797881395048
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",16551,73,0.92 [0.77-1.09],0.3191169843894848
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",16578,100,0.97 [0.84-1.13],0.701499778441
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",23150,126,0.87 [0.76-0.99],0.0394649240450797
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Haemangioma, any site",23151,123,0.88 [0.77-1.00],0.0587573871242096
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Leiomyoma of uterus,11808,165,0.99 [0.88-1.11],0.815117942173486
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Lung cancer and mesothelioma,14669,483,0.98 [0.92-1.05],0.5458660787577434
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Lymphoid leukaemia,16552,74,0.92 [0.78-1.09],0.3472003317409229
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",16701,223,1.02 [0.93-1.13],0.6436069575679364
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",16799,321,0.95 [0.88-1.04],0.2672248987001225
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",9199,105,0.85 [0.73-0.98],0.0232964881100576
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",16588,110,1.01 [0.88-1.16],0.9039910580475262
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",16620,142,1.04 [0.92-1.17],0.569771247485032
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",16602,124,0.98 [0.86-1.12],0.7412981314801241
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",9182,88,0.96 [0.82-1.12],0.5790647973804921
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",16607,129,0.96 [0.84-1.09],0.531923206065706
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",8360,976,0.95 [0.91-1.00],0.0370304616372334
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",16615,137,0.92 [0.82-1.05],0.2218813474613952
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",16569,91,1.17 [1.01-1.37],0.0392683332734563
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,16623,145,0.97 [0.86-1.10],0.6578724659487103
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Melanocytic naevi,23061,184,1.03 [0.92-1.14],0.6369745305655292
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Melanocytic naevi of trunk,23179,76,1.15 [0.97-1.36],0.1074193199781277
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Melanoma in situ,16531,111,1.04 [0.91-1.20],0.5666863004845825
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",16601,123,0.98 [0.86-1.12],0.7711771245812308
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",16682,204,0.99 [0.89-1.10],0.8327575949049313
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",16807,329,0.90 [0.83-0.98],0.0105237178079651
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",16608,130,1.03 [0.90-1.17],0.6696199748990737
+MESD,LRP chaperone MESD,Chapter II Neoplasms,Other benign neoplasms of skin,23033,164,0.94 [0.84-1.05],0.2677429099392761
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",17972,1494,0.98 [0.94-1.01],0.2226639229013901
+MESD,LRP chaperone MESD,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",18057,1579,0.98 [0.95-1.02],0.340332814435954
+MESD,LRP chaperone MESD,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,22896,395,0.94 [0.88-1.02],0.1322117749201904
+MESD,LRP chaperone MESD,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,20875,163,1.03 [0.92-1.15],0.6401643944115233
+MESD,LRP chaperone MESD,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,22572,71,1.00 [0.84-1.19],0.9981823239841606
+MESD,LRP chaperone MESD,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,22443,3526,1.02 [1.00-1.05],0.0964528295516173
+MESD,LRP chaperone MESD,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,21473,74,1.26 [1.07-1.50],0.0069749690301626
+MESD,LRP chaperone MESD,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,22733,66,0.91 [0.76-1.09],0.29418878035617
+MESD,LRP chaperone MESD,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,22692,1980,1.04 [1.00-1.07],0.0338493008048312
+MESD,LRP chaperone MESD,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,22690,1978,1.04 [1.00-1.07],0.0364366860412225
+MESD,LRP chaperone MESD,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,20828,116,0.92 [0.80-1.05],0.2022250010486333
+MESD,LRP chaperone MESD,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,22843,1444,1.09 [1.05-1.14],4.018828691343568e-06
+MESD,LRP chaperone MESD,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,22782,115,0.97 [0.84-1.11],0.6385375020340188
+MESD,LRP chaperone MESD,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,22577,76,0.94 [0.79-1.11],0.4506861903656143
+MESD,LRP chaperone MESD,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,22577,76,1.00 [0.85-1.18],0.9964922946198734
+MESD,LRP chaperone MESD,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,23026,359,0.84 [0.78-0.91],1.5536249062614447e-05
+MESD,LRP chaperone MESD,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,23076,41,0.90 [0.72-1.13],0.3792111076453299
+MESD,LRP chaperone MESD,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",22962,295,0.77 [0.71-0.84],4.4908654847234014e-09
+MESD,LRP chaperone MESD,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,21536,137,1.04 [0.92-1.18],0.5297788584777131
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,15488,419,1.02 [0.95-1.10],0.5472748634444894
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,21688,103,1.10 [0.94-1.27],0.2317429422610217
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,21699,114,1.13 [0.99-1.30],0.0721823730030962
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,15140,71,1.01 [0.85-1.20],0.9096428563996976
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,21553,65,0.91 [0.76-1.09],0.3194245030133737
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,20763,318,0.93 [0.86-1.01],0.0899376212055343
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",22408,961,0.99 [0.95-1.04],0.7653263673168141
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,21931,484,0.98 [0.91-1.05],0.514680543108087
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,21666,219,1.08 [0.97-1.19],0.1450239706641832
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,22920,1432,1.06 [1.02-1.11],0.0014440832178815
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,19517,1387,1.07 [1.03-1.11],0.0008928994322032
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",15163,94,0.91 [0.78-1.06],0.235787712934752
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",20898,102,1.07 [0.92-1.24],0.3741200662205999
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,15440,371,1.00 [0.93-1.08],0.906713373397076
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,15125,56,1.07 [0.88-1.30],0.4979887341248639
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,19706,4637,1.02 [1.00-1.05],0.0350995666735456
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,15335,266,1.00 [0.91-1.09],0.9571813433051296
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,15784,715,1.02 [0.96-1.07],0.5501326639848529
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,23146,371,1.04 [0.96-1.12],0.3374223272199166
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,22938,163,0.93 [0.83-1.04],0.2155575988078953
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,15224,155,1.01 [0.90-1.14],0.863565414137314
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",15151,82,1.01 [0.86-1.18],0.9254768790525388
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,22562,1766,1.00 [0.97-1.04],0.9199878861174038
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,15458,389,1.04 [0.96-1.12],0.3496313949417846
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,15497,428,0.97 [0.90-1.04],0.3543341191161582
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",15936,867,1.06 [1.01-1.12],0.0150111071797457
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,15248,179,0.95 [0.85-1.06],0.3169092486028755
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,22928,153,0.92 [0.82-1.03],0.162968832721933
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,15968,899,1.04 [0.99-1.09],0.1338923709271981
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,15730,661,1.01 [0.95-1.07],0.7466072353164951
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,20524,79,0.98 [0.83-1.16],0.8126579809803444
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,21555,6486,1.02 [1.00-1.03],0.0991559578021805
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,20857,61,0.95 [0.79-1.15],0.621236422696721
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,20847,51,0.93 [0.76-1.14],0.497485118663336
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,23020,1913,0.98 [0.95-1.01],0.2545672932289433
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",23018,1911,0.98 [0.95-1.02],0.2959006079268962
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,20862,66,1.12 [0.94-1.35],0.2067598700341531
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,22853,1139,1.02 [0.97-1.06],0.4803390590340131
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",17323,2254,1.01 [0.98-1.04],0.5258843386670713
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,23191,317,1.00 [0.92-1.09],0.9943114578118364
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,21578,131,1.08 [0.95-1.22],0.2527583740489544
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,21831,117,0.94 [0.82-1.08],0.3937569966877293
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,21879,165,1.10 [0.98-1.23],0.111418332019951
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",15272,203,1.04 [0.94-1.16],0.4375660706159879
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,20394,186,0.98 [0.88-1.09],0.6552432825399005
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,2490,100,1.02 [0.87-1.18],0.8427687205941877
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,2661,313,0.99 [0.91-1.08],0.8247045675024534
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,20294,86,1.09 [0.94-1.28],0.2555417662614637
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,2463,76,0.86 [0.72-1.03],0.0947604991820403
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,22355,2147,1.03 [0.99-1.06],0.1098982455064089
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,22079,632,0.95 [0.90-1.01],0.0787279827239432
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,20897,452,1.03 [0.96-1.11],0.3512018954654969
+MESD,LRP chaperone MESD,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,16192,1123,1.02 [0.97-1.06],0.4471446718153352
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",23070,303,0.93 [0.85-1.01],0.0715454820745774
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),21699,269,0.92 [0.84-1.01],0.0695761531814107
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Angina pectoris,20031,1576,1.00 [0.96-1.04],0.9619059483979382
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Aortic aneurysm,21806,376,0.91 [0.85-0.98],0.0178472941343287
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,21519,89,1.06 [0.91-1.24],0.4516958645838591
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",21723,293,1.06 [0.97-1.15],0.1790646045335491
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,11738,2856,0.98 [0.95-1.00],0.0927639607586642
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,AV-block,17611,674,1.01 [0.96-1.07],0.623113644988377
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",23125,579,0.95 [0.89-1.01],0.0738570038641091
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Cardiac arrest,9147,265,1.09 [1.00-1.20],0.0500702913460537
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Cardiomyopathy,17140,203,0.86 [0.78-0.96],0.0053809974657648
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",17046,109,0.96 [0.83-1.10],0.5275693479152579
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,23202,78,1.17 [0.99-1.38],0.0665228272011114
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Conduction disorders,18499,1562,1.00 [0.97-1.04],0.8107071220509185
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,21198,2768,1.00 [0.97-1.03],0.9673176282144406
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,18617,8935,1.00 [0.99-1.02],0.5583036200517038
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,DVT of lower extremities,21619,334,0.94 [0.87-1.02],0.1444340589828558
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Endocarditis,17040,103,1.19 [1.03-1.37],0.0186638404765926
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,"Heart failure, strict",22913,1677,1.02 [0.99-1.06],0.2136004510403473
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Hypertension,19863,7953,1.01 [0.99-1.03],0.1977474328042729
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,"Hypertension, essential",19884,7974,1.01 [0.99-1.03],0.2401792499330259
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,"Hypertension, portal",23034,96,0.95 [0.82-1.10],0.4906354018304039
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",12174,264,1.03 [0.94-1.13],0.4715338711257939
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,12115,205,1.16 [1.04-1.28],0.005200689055506
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Hypotension,23024,1651,1.01 [0.98-1.05],0.4857341501629277
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,21902,149,0.94 [0.83-1.06],0.3199953794422897
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",21370,2915,1.00 [0.98-1.03],0.7611276512596935
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",22689,808,1.05 [0.99-1.10],0.0885704390116418
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Left bundle-branch block,17465,528,0.99 [0.92-1.05],0.6596190270335422
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,22505,1070,1.00 [0.96-1.05],0.869652427719315
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",19377,922,1.02 [0.97-1.07],0.3809128890323908
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",23075,189,1.14 [1.03-1.27],0.0131911577810172
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",23162,414,0.98 [0.91-1.05],0.5551633093181711
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Oesophageal varices,21353,68,1.02 [0.85-1.22],0.8087733606672968
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Other aneurysm,21534,104,1.01 [0.87-1.16],0.9343574008638365
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Other arrhythmias,17536,599,1.03 [0.97-1.09],0.3285616255537272
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,21567,137,1.06 [0.94-1.20],0.3222037420547302
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,21765,335,0.99 [0.91-1.07],0.787110315554147
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,17160,223,1.00 [0.91-1.11],0.9311667746827896
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Other disorders of veins,21407,122,1.05 [0.92-1.20],0.4762386658053665
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,21330,45,1.13 [0.91-1.41],0.256577979488678
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,21128,90,0.93 [0.80-1.09],0.363971056055438
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,21468,183,1.01 [0.91-1.13],0.8011051071547932
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,18413,1476,0.97 [0.94-1.01],0.1460239604352216
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,21436,63,1.00 [0.83-1.20],0.996197593672144
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,22161,731,1.01 [0.96-1.07],0.7218983415143567
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,22429,529,1.04 [0.97-1.10],0.2659690076112708
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",22025,987,1.01 [0.96-1.06],0.6955080553177606
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,9302,420,0.97 [0.90-1.04],0.3814441695520096
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Peripheral artery disease,21990,595,1.01 [0.95-1.08],0.6757627001081552
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),21707,422,0.94 [0.88-1.01],0.1081701438546257
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Pulmonary embolism,22506,606,0.98 [0.92-1.04],0.4520738500947162
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,23105,983,0.98 [0.94-1.03],0.4893495337363287
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Right bundle-branch block,17456,519,1.03 [0.96-1.10],0.3912362644862629
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Secondary right heart disease,22422,522,1.04 [0.98-1.11],0.2288038271960936
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,21306,268,0.98 [0.90-1.07],0.6546088762626667
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",22673,920,1.04 [0.99-1.09],0.1246619860622728
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",22658,961,1.04 [0.99-1.09],0.1449453343664424
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,21870,63,0.96 [0.80-1.16],0.6844179057237146
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,21537,107,0.90 [0.78-1.04],0.1531708050333268
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Transient ischemic attack,22206,325,1.06 [0.97-1.15],0.1822604370769605
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,21770,335,1.00 [0.92-1.08],0.9844389977453908
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Varicose veins,21809,524,1.04 [0.97-1.11],0.2543078911720854
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,21447,120,0.95 [0.83-1.09],0.4538776852988825
+MESD,LRP chaperone MESD,Chapter IX Diseases of the circulatory system,Venous thromboembolism,22928,952,0.96 [0.92-1.01],0.0978381138384042
+MESD,LRP chaperone MESD,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",23125,336,1.11 [1.02-1.20],0.0116199709309008
+MESD,LRP chaperone MESD,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",19810,1385,1.02 [0.98-1.06],0.3313205007689077
+MESD,LRP chaperone MESD,Chapter V Mental and behavioural disorders,Any mental disorder,22670,4245,1.02 [0.99-1.04],0.1392831731174183
+MESD,LRP chaperone MESD,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",23096,396,1.10 [1.02-1.18],0.0099275182414344
+MESD,LRP chaperone MESD,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",19884,1459,1.07 [1.03-1.11],0.0008641250617736
+MESD,LRP chaperone MESD,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",18512,87,1.11 [0.95-1.30],0.19672285922551
+MESD,LRP chaperone MESD,Chapter V Mental and behavioural disorders,Smoking dependency,22687,1189,1.00 [0.96-1.05],0.9083278495893798
+MESD,LRP chaperone MESD,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",19888,1463,1.02 [0.98-1.05],0.4396597057310553
+MESD,LRP chaperone MESD,Chapter V Mental and behavioural disorders,Vascular dementia,22297,231,0.93 [0.84-1.02],0.1180955766586764
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Alzheimer disease,23204,594,1.00 [0.94-1.06],0.9388250497122158
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",14192,111,1.03 [0.90-1.19],0.6298982580708703
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Bell's palsy,21347,84,0.99 [0.85-1.16],0.9192120033213428
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,21753,490,1.02 [0.96-1.09],0.4787335925869611
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Cerebral cysts,22749,250,1.03 [0.94-1.13],0.5355175414997005
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,23129,417,0.97 [0.91-1.05],0.4802025783092672
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,22347,76,1.05 [0.89-1.24],0.5734983898438815
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,23185,68,0.92 [0.77-1.10],0.3782646173896752
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",22586,87,1.03 [0.88-1.20],0.7152870623333503
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Epilepsy,21684,306,0.98 [0.90-1.07],0.6739624119726673
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,22737,1359,1.01 [0.97-1.05],0.5326780177958268
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,23149,924,1.01 [0.96-1.06],0.6284593750909838
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Falls/tendency to fall,22543,3474,0.99 [0.97-1.02],0.5309882132336532
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Generalized epilepsy,22822,54,1.08 [0.88-1.31],0.4654714648292536
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Hemiplegia,23053,341,1.02 [0.94-1.11],0.5887445998825582
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Hydrocephalus,22573,74,0.88 [0.75-1.05],0.1548494051390541
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,23191,74,1.10 [0.93-1.31],0.2614502354500735
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,21330,67,0.95 [0.79-1.13],0.5364046447589508
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,21336,73,0.92 [0.77-1.09],0.3320731606918632
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Memory loss,22047,143,0.98 [0.86-1.10],0.7139493790003466
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Migraine,21656,278,0.99 [0.90-1.08],0.7869624811307545
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",23157,257,0.99 [0.91-1.09],0.8829855863136123
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Motor neuron disease,14279,175,1.02 [0.91-1.13],0.7867853014622633
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,23071,62,0.98 [0.82-1.18],0.8438505032482215
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",22494,1231,1.01 [0.97-1.05],0.7150872450184299
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Neurological diseases,21707,4376,1.01 [0.98-1.03],0.6147641026063781
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,22599,328,0.99 [0.92-1.08],0.8555633785215043
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",21694,431,1.04 [0.97-1.12],0.2258807054764351
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",23123,355,1.03 [0.96-1.12],0.4232359960878034
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,17343,984,1.01 [0.97-1.06],0.6331470102659497
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,22585,86,0.92 [0.79-1.08],0.3078848029344426
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Other disorders of nervous system,22661,162,0.93 [0.83-1.04],0.2141942228674823
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,22461,236,1.04 [0.94-1.14],0.4579090865390705
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Other facial nerve disorders,21359,96,1.00 [0.86-1.16],0.9994718277104384
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Other headache syndromes,21430,52,0.96 [0.78-1.17],0.6790533194279751
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Other neurological diseases,23086,587,0.98 [0.92-1.04],0.5502099799422784
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Other sleep disorders,21898,520,1.02 [0.95-1.08],0.6340915440145971
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Parkinson's disease,23170,684,1.01 [0.95-1.06],0.8526952889074797
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,22545,46,1.13 [0.91-1.40],0.2666790970851492
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Restless leg syndrome,23204,107,1.04 [0.90-1.19],0.6277895431813915
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Sleep apnoea,22969,442,1.01 [0.94-1.08],0.8657665120421832
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Small fibre neuropathy,22830,62,1.00 [0.83-1.20],0.9666540857077734
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,23193,202,1.00 [0.90-1.11],0.993116709090591
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,21334,71,0.99 [0.83-1.18],0.917896703289912
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,23204,600,1.00 [0.94-1.06],0.9001955143039554
+MESD,LRP chaperone MESD,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),22236,225,0.92 [0.84-1.02],0.1119528104577963
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,22555,154,1.04 [0.92-1.16],0.5574206676731728
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,22750,572,1.00 [0.94-1.07],0.935463552462407
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,22948,270,0.98 [0.90-1.07],0.6475685061971379
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,21970,68,1.03 [0.86-1.23],0.7203850535585261
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,21938,36,1.31 [1.03-1.68],0.0304416357948464
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",23079,73,1.14 [0.96-1.35],0.1335698712695513
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,22891,229,1.01 [0.92-1.11],0.8650654983786062
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",2467,77,0.85 [0.71-1.01],0.0596622796552565
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,3043,114,1.00 [0.87-1.15],0.9580887472706714
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,22508,107,1.10 [0.95-1.26],0.205452123362261
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,22907,1430,1.02 [0.98-1.06],0.3722592855451563
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",22785,883,1.00 [0.96-1.05],0.8776619683320386
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,22203,301,1.05 [0.97-1.14],0.2397940180841208
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",23131,953,0.99 [0.94-1.04],0.6562056219214244
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,23198,81,1.23 [1.04-1.44],0.0135376912382387
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,23058,880,0.99 [0.94-1.04],0.6468919062037026
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",23161,499,1.00 [0.93-1.06],0.915051618869266
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,23083,226,1.05 [0.96-1.16],0.2851455250392978
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,22001,99,1.02 [0.88-1.18],0.8071768558808365
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,22007,105,0.95 [0.83-1.10],0.4961514616949333
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,21980,78,1.12 [0.95-1.33],0.1709718213995564
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,23066,1013,1.00 [0.96-1.05],0.8911385901654524
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,22314,261,1.01 [0.92-1.11],0.841349080720319
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,22247,69,0.82 [0.69-0.98],0.0308230510508283
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,22783,121,0.92 [0.81-1.05],0.2360353357324524
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,23055,393,1.00 [0.93-1.08],0.9997383908970452
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,22398,220,1.00 [0.90-1.10],0.9284070042071886
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,22998,141,1.00 [0.89-1.13],0.9626930248997576
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,22734,681,1.01 [0.96-1.07],0.7203447541175145
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,22561,160,0.96 [0.86-1.08],0.5460320469576521
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,20746,3255,1.02 [0.99-1.04],0.2107349893235213
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,23009,347,0.99 [0.92-1.08],0.8780927396606233
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,23189,190,1.07 [0.96-1.19],0.2218578629348164
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,22446,544,0.98 [0.92-1.04],0.4384725240018848
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,22751,89,0.94 [0.80-1.10],0.4276144291406496
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,23189,72,1.19 [1.00-1.42],0.0452098263391962
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,22028,126,0.89 [0.78-1.02],0.0935864764409642
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,22079,177,0.94 [0.84-1.05],0.2408690738589642
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,21644,167,1.09 [0.97-1.22],0.1468516614423015
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,22241,63,0.90 [0.75-1.08],0.252800182721189
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",21550,73,0.83 [0.70-0.99],0.0408798133790775
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,22165,112,0.90 [0.79-1.04],0.152312369828942
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",22349,296,1.04 [0.95-1.13],0.4088279875507122
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,22061,159,0.98 [0.87-1.10],0.736933716036079
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,21571,94,1.10 [0.95-1.28],0.2068351802537019
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,21611,134,1.04 [0.92-1.18],0.5218070737199292
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,20235,2744,1.00 [0.97-1.03],0.9679790504351348
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,21995,93,1.08 [0.93-1.26],0.2987164053668726
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,22907,506,1.04 [0.97-1.11],0.2885482002366297
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,22481,80,1.07 [0.91-1.25],0.4472238522252892
+MESD,LRP chaperone MESD,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),22610,209,1.09 [0.98-1.20],0.1052242385137049
+MESD,LRP chaperone MESD,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,22978,114,1.01 [0.88-1.15],0.9309500240748422
+MESD,LRP chaperone MESD,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,23156,140,1.01 [0.89-1.14],0.8966567518522074
+MESD,LRP chaperone MESD,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,23067,120,1.13 [0.99-1.30],0.063299473414762
+MESD,LRP chaperone MESD,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,22930,66,1.00 [0.84-1.20],0.9774345273317856
+MESD,LRP chaperone MESD,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,22933,69,1.01 [0.85-1.21],0.9076741447074612
+MESD,LRP chaperone MESD,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,23099,1245,0.99 [0.95-1.04],0.7493753756545191
+MESD,LRP chaperone MESD,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,22795,941,1.01 [0.96-1.05],0.811409903441944
+MESD,LRP chaperone MESD,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,22007,153,0.86 [0.76-0.97],0.011555603388017
+MESD,LRP chaperone MESD,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,21943,89,1.02 [0.87-1.19],0.8285544569810565
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Acute pharyngitis,23010,66,0.97 [0.81-1.16],0.7395167575333739
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,23131,187,0.96 [0.86-1.07],0.4693635357933791
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,23007,63,0.96 [0.80-1.15],0.6610425169289811
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,All influenza,20509,157,1.03 [0.91-1.15],0.6583203445024493
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),20506,154,1.04 [0.93-1.17],0.5080024810157513
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Allergic asthma (mode),14291,105,1.16 [1.01-1.34],0.0417830900277059
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Allergic rhinitis,23095,239,1.02 [0.92-1.12],0.7573573053099101
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",15505,1716,1.05 [1.02-1.09],0.0045708986429373
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",15881,1695,1.05 [1.01-1.09],0.010125771369254
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),22685,179,1.03 [0.93-1.15],0.5497768714295539
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",20456,104,1.05 [0.91-1.21],0.5056822130058123
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Bronchiectasis,19456,523,1.09 [1.02-1.16],0.0090971570721136
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",19005,72,1.15 [0.97-1.37],0.1020217728282364
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,22070,3137,1.04 [1.02-1.07],0.0009938751670364
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",21973,72,1.02 [0.86-1.21],0.8274142206020995
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Chronic sinusitis,22034,133,1.01 [0.89-1.15],0.8678580417010959
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",22907,1641,1.04 [1.00-1.08],0.0394075851502954
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Deviated nasal septum,21982,81,0.98 [0.83-1.15],0.8224751038693275
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,21044,6134,1.04 [1.02-1.06],0.0001845962063962
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",22241,340,1.01 [0.94-1.10],0.7212840973151968
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Early onset COPD,21377,111,0.97 [0.84-1.11],0.6374512920193782
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Emphysema,19368,435,1.10 [1.02-1.17],0.0099382636419132
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,21891,456,1.04 [0.97-1.11],0.2803479467999016
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Influenza and pneumonia,22944,2592,1.03 [1.00-1.06],0.0548873246191601
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Interstitial lung disease,21935,500,1.04 [0.98-1.11],0.2124893670986009
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Later onset COPD,22675,1530,1.04 [1.01-1.08],0.0238945198528613
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,23187,498,1.06 [0.99-1.13],0.1047853743261332
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Nasal polyp,21998,97,1.01 [0.87-1.18],0.8652848634367684
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,22922,1311,1.02 [0.98-1.06],0.4133601397989078
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Other diseases of pleura,22912,2700,1.04 [1.01-1.07],0.0117830458877442
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,22657,756,1.03 [0.97-1.08],0.3253441876838836
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Other pleural conditions,20281,69,0.92 [0.77-1.09],0.3236927217179558
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,23082,596,1.05 [0.99-1.11],0.1069142760656652
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,23073,1720,1.05 [1.01-1.09],0.0089310636462419
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Pleural effusion,21582,1370,1.03 [0.99-1.07],0.1546374952734157
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Pleural plaque,20467,255,1.05 [0.96-1.15],0.3140502668789368
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",22655,2303,1.03 [1.00-1.06],0.0714111043703305
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,23077,388,1.06 [0.98-1.14],0.123683252986605
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Pneumothorax,20381,169,0.92 [0.82-1.03],0.1277068732925654
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Pollen allergy,23192,203,1.05 [0.95-1.16],0.3629654566638026
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Pulmonary oedema,22576,90,1.08 [0.93-1.26],0.3041558783399559
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Respiratory insufficiency,14257,71,1.24 [1.04-1.47],0.0162703672251577
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,22898,1287,1.02 [0.98-1.06],0.4431681225099062
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,22142,241,1.02 [0.93-1.12],0.6526376156363
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Viral pneumonia,20654,302,1.01 [0.93-1.10],0.7420568801128911
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",22696,241,1.00 [0.91-1.09],0.9234411714288154
+MESD,LRP chaperone MESD,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,7383,122,1.04 [0.91-1.19],0.5407325838560646
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,14681,62,1.11 [0.92-1.34],0.2727730748271686
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Acute appendicitis,23088,127,1.02 [0.90-1.17],0.7226176092422598
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Acute gastritis,16121,103,1.11 [0.96-1.28],0.1717607917592147
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Acute pancreatitis,21151,198,1.08 [0.98-1.20],0.1304287609419112
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Acute peritonitis,22705,113,1.04 [0.90-1.19],0.6095973749497278
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Alcoholic liver disease,22228,65,1.09 [0.91-1.31],0.3384058324467842
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Barrett oesophagus,16529,511,0.99 [0.93-1.05],0.6984841087499847
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",21099,146,1.05 [0.93-1.18],0.4488016894399036
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",22779,146,1.04 [0.92-1.18],0.4857948594064948
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Cholecystitis,21175,222,0.96 [0.87-1.05],0.3591062597819836
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Cholelithiasis,22013,1060,1.03 [0.98-1.08],0.2203940704296504
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Chronic gastritis,16364,346,1.03 [0.95-1.11],0.5132806157037508
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Chronic pancreatitis,21007,54,1.05 [0.86-1.28],0.6284989032957665
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",23065,127,1.01 [0.89-1.15],0.8818258071225411
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Coeliac disease,21453,128,1.09 [0.96-1.24],0.1933561679589007
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Collagenous colitis,21444,103,0.97 [0.84-1.12],0.6655867730113794
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,23086,158,0.99 [0.88-1.11],0.8629873217281705
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Constipation,22918,2145,0.99 [0.96-1.02],0.6609208721408801
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Crohn disease,21431,90,1.08 [0.93-1.26],0.328085035244641
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",22850,69,1.05 [0.88-1.26],0.5557962618288457
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Crohn's disease NAS,21423,82,1.10 [0.94-1.30],0.2286704235162595
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Dental caries,22581,188,1.08 [0.97-1.20],0.1490889376546976
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,20038,2576,1.00 [0.98-1.03],0.7582946911523429
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Diseases of appendix,23119,158,0.99 [0.88-1.11],0.8889570031472646
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Diseases of liver,23085,922,1.01 [0.96-1.06],0.7749973994781792
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",20640,4622,1.01 [0.99-1.03],0.4427659390125902
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",22870,477,1.04 [0.98-1.12],0.2190307953663578
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Diseases of peritoneum,23110,518,1.00 [0.94-1.06],0.9412726252612912
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,22486,93,0.95 [0.82-1.11],0.5376738119426379
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Diseases of salivary glands,22357,58,1.06 [0.88-1.29],0.5254024910014115
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Diseases of the digestive system,22863,1538,0.99 [0.95-1.03],0.5620808091609998
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Diseases of tongue,22376,98,1.02 [0.88-1.19],0.7448120985454199
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",22482,1529,1.04 [1.00-1.08],0.0512880340088466
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,18427,3808,1.00 [0.97-1.02],0.7646614805924521
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Duodenal ulcer,16270,252,1.03 [0.94-1.13],0.5701862119794696
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",23110,205,1.05 [0.95-1.16],0.364192173742774
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,23165,27,1.30 [0.98-1.73],0.066114012741962
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,22311,148,1.01 [0.90-1.14],0.8616600185651346
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,14726,107,1.07 [0.93-1.24],0.324335982256237
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Functional dyspepsia,16582,564,1.02 [0.96-1.09],0.4888418566596423
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Gastric ulcer,16450,432,1.06 [0.99-1.14],0.0917361585274022
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,18705,2687,1.00 [0.97-1.03],0.9893719963557668
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,16678,660,1.04 [0.99-1.11],0.1307388683699851
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,16750,8264,1.01 [0.99-1.02],0.4862942798314802
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,GI-bleeding,22603,1278,0.98 [0.94-1.02],0.3151944153347205
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,22438,45,0.96 [0.77-1.20],0.735367274591674
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,15614,1187,0.95 [0.91-0.99],0.0106289960748589
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",22234,71,0.98 [0.82-1.17],0.8213297788340592
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Hernia,21135,3673,1.00 [0.98-1.02],0.9828852521518344
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Impacted teeth,23169,25,1.44 [1.07-1.93],0.0159455012099422
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Impaction of intestines,14695,76,0.88 [0.75-1.05],0.1571226726961571
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Inguinal hernia,18572,1110,0.98 [0.94-1.03],0.4906597362870055
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",17587,125,0.96 [0.85-1.10],0.5805192276395957
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,14737,118,1.02 [0.89-1.17],0.7465728363587558
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Intestinal malabsorption,21472,147,1.03 [0.91-1.16],0.6742388343177134
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,15136,517,1.00 [0.94-1.07],0.9448111044076836
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,23172,337,1.10 [1.01-1.19],0.0208194709949725
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,22132,791,1.05 [1.00-1.11],0.0441095600648744
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,22441,1100,1.03 [0.98-1.07],0.2132674247600179
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Oesophageal obstruction,16239,221,0.96 [0.87-1.06],0.4170787077317541
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Oesophagitis,16714,696,1.02 [0.97-1.08],0.4530694433473214
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,23150,135,1.08 [0.95-1.22],0.2482812792371069
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,17549,87,1.05 [0.89-1.22],0.5759303837853964
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,16003,1384,1.00 [0.96-1.04],0.8747614193512073
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,21313,360,1.03 [0.95-1.11],0.4783336292526646
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,21098,145,0.99 [0.88-1.12],0.9143169593441528
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Other diseases of intestine,16567,1948,0.99 [0.95-1.02],0.4363906369621624
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Other diseases of intestines,20873,6254,0.99 [0.97-1.01],0.29819579592566
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,22339,210,1.10 [0.99-1.22],0.0653080131791344
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Other diseases of liver,22923,760,1.00 [0.95-1.05],0.9769034607811008
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,16794,776,0.99 [0.94-1.04],0.6410157878497582
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Other diseases of pancreas,21170,217,0.96 [0.87-1.06],0.4207952494484059
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,23031,439,0.99 [0.92-1.06],0.7495326315366583
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,17121,1103,1.01 [0.97-1.06],0.6307360086625984
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,22620,1295,0.98 [0.94-1.02],0.3526698909044785
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,22574,181,1.03 [0.93-1.15],0.5698816226946652
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,16811,2192,0.99 [0.96-1.02],0.5557782081044769
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),18200,2182,1.00 [0.97-1.03],0.9319650002407596
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,22276,113,0.98 [0.85-1.12],0.7335736808951941
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,22310,969,1.03 [0.99-1.08],0.1527644652712085
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",15069,450,0.95 [0.88-1.02],0.1261504993916048
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,23161,31,1.38 [1.06-1.80],0.0166355772334598
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,15240,621,0.95 [0.90-1.01],0.126453805060111
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",21483,158,1.02 [0.91-1.15],0.6883822395631423
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Recurring oral aphthae,23191,51,0.90 [0.73-1.10],0.3084928542669695
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,22386,100,1.00 [0.87-1.16],0.969311101199888
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Toxic colitis,21421,80,0.98 [0.83-1.15],0.8038268592745991
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,16360,342,1.03 [0.95-1.11],0.4880356330530989
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Ulcerative colitis,21509,168,1.00 [0.89-1.12],0.9799356297740868
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",21476,135,0.99 [0.87-1.12],0.8316587749315097
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Umbilical hernia,17720,258,0.98 [0.89-1.07],0.6641255603072165
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,14862,243,0.95 [0.87-1.05],0.3217805298762205
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Ventral hernia,17753,291,0.96 [0.88-1.05],0.3774582924039423
+MESD,LRP chaperone MESD,Chapter XI Diseases of the digestive system,Volvulus,14713,94,0.90 [0.77-1.04],0.1586337529638271
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,23097,427,1.01 [0.94-1.08],0.8465804074822172
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,22837,66,1.09 [0.91-1.31],0.3456850126585761
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,20641,169,0.97 [0.86-1.08],0.5502870760677541
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,22569,837,1.02 [0.97-1.07],0.5225666118534926
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",21878,146,1.01 [0.89-1.13],0.9315461201273496
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,21110,638,0.98 [0.92-1.04],0.4389870012442954
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,22859,316,1.03 [0.95-1.12],0.5061020777208972
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,23103,560,1.01 [0.95-1.08],0.6951253254287868
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,22590,47,0.95 [0.76-1.17],0.6113664310316674
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,21596,3745,0.99 [0.97-1.02],0.5368881198866207
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,22766,438,1.00 [0.93-1.07],0.983200563978424
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,22632,304,1.00 [0.92-1.09],0.9722936201616236
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,22816,1084,1.00 [0.96-1.05],0.88412181250676
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",23183,60,0.94 [0.78-1.14],0.5335798069341603
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,20529,57,0.93 [0.77-1.13],0.466909409338484
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,22391,63,1.02 [0.85-1.22],0.8614562848923526
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,22846,303,1.01 [0.93-1.10],0.7836086033440294
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,21080,608,0.97 [0.91-1.03],0.2925250647954583
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,20562,90,0.90 [0.77-1.05],0.193877091845059
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,23114,95,0.93 [0.80-1.08],0.3656376947521227
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,21968,236,1.05 [0.95-1.15],0.3326311468437575
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,22997,226,1.01 [0.92-1.12],0.7676842248491906
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,22639,96,1.04 [0.89-1.20],0.6260824596909063
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,20549,77,0.92 [0.78-1.09],0.3586722347865222
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,22591,2119,0.99 [0.95-1.02],0.3543809103419895
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",21125,653,0.97 [0.91-1.02],0.2514422370220218
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,20566,94,0.88 [0.76-1.03],0.1032345494794678
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,23111,340,1.02 [0.94-1.10],0.6155861147269043
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,22619,76,1.04 [0.88-1.23],0.6493299668481718
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,23049,278,1.04 [0.95-1.13],0.384541176876072
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,23129,459,1.00 [0.93-1.07],0.903109510694078
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,20598,126,0.94 [0.82-1.07],0.3519395881206274
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,20811,339,0.90 [0.83-0.98],0.0104011224473328
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,23118,448,1.00 [0.93-1.07],0.9019724338226736
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",20813,341,1.05 [0.97-1.14],0.2160204022495662
+MESD,LRP chaperone MESD,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,23176,157,0.94 [0.84-1.06],0.3429984075466379
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,19341,83,1.01 [0.86-1.19],0.8704189295872907
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,20433,6471,1.02 [1.00-1.04],0.026691940789689
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,19015,5053,1.03 [1.00-1.05],0.0152670719896641
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,19312,54,0.99 [0.81-1.21],0.9437005854172212
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,19252,148,1.01 [0.90-1.14],0.8429052015284813
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,19297,193,0.99 [0.89-1.10],0.8995579840794421
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,22937,65,0.95 [0.79-1.14],0.5577011602318062
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",19257,153,0.99 [0.88-1.11],0.8474011692467822
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,15454,1492,1.05 [1.01-1.09],0.0151714128289047
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",22992,247,1.07 [0.98-1.18],0.1366110199795426
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,19698,594,1.05 [0.99-1.12],0.0842214463745631
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,18762,8067,1.01 [1.00-1.03],0.0882323687204988
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,20640,122,0.89 [0.78-1.02],0.0886191610248605
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,19443,185,0.99 [0.89-1.11],0.911420751229709
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,19760,502,0.99 [0.93-1.06],0.7851340464037148
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,22264,3160,1.02 [0.99-1.05],0.1650586484419739
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,19571,313,0.89 [0.82-0.97],0.00797600586733
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,19409,151,1.16 [1.03-1.31],0.0156690244224024
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,19371,113,0.98 [0.86-1.13],0.7926576419214364
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,22451,103,1.00 [0.87-1.16],0.9983063984919356
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,15985,2023,1.03 [0.99-1.06],0.1247124608550808
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,14767,805,1.06 [1.01-1.12],0.0226817373187946
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",23105,798,1.05 [0.99-1.10],0.0795049779803787
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,14038,76,1.09 [0.92-1.29],0.307643359082091
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),14265,303,0.98 [0.90-1.06],0.6124415683890861
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,19523,265,0.99 [0.91-1.09],0.8799073321819902
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,14446,484,1.02 [0.96-1.09],0.5205435744190576
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,19186,82,1.25 [1.07-1.48],0.0062398912988244
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,19796,692,1.01 [0.96-1.07],0.6374614113015666
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,19426,322,1.03 [0.95-1.12],0.484555882073008
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,14415,453,1.01 [0.94-1.08],0.7540194451274528
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,19330,72,1.12 [0.94-1.33],0.2073393679433547
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",19317,59,1.15 [0.95-1.39],0.1511047994283245
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,20604,86,1.00 [0.85-1.17],0.9737180061462264
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,22769,2251,0.98 [0.95-1.01],0.1717339308274947
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,22093,1575,0.98 [0.94-1.01],0.1795177714238005
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",23028,546,1.06 [0.99-1.12],0.0935191996354298
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,17110,3148,1.04 [1.01-1.06],0.0082540876666692
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,14005,43,0.93 [0.74-1.16],0.496915283577478
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,19363,105,1.16 [1.00-1.34],0.0448639135277531
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,14034,72,1.05 [0.88-1.25],0.5843840552199224
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),14100,138,1.04 [0.92-1.18],0.5221753899227123
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,20765,247,1.00 [0.91-1.10],0.9780040445282986
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,21033,515,0.97 [0.91-1.04],0.4051471191501895
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,23180,115,1.13 [0.99-1.30],0.0718548182340867
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",21107,2003,1.01 [0.98-1.05],0.4710772058861996
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,19335,77,1.11 [0.94-1.31],0.2184815364907081
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),14115,153,1.03 [0.91-1.16],0.643715522161049
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,19909,805,1.04 [0.99-1.10],0.1296277649189344
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,16158,2196,1.02 [0.99-1.05],0.3091440054136088
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,22478,130,1.01 [0.89-1.15],0.8337125263042068
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,23192,63,1.12 [0.93-1.35],0.231808994561332
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,19336,78,0.99 [0.84-1.17],0.9399134123507444
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",20619,1361,1.06 [1.02-1.10],0.0056459060705316
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,19368,110,0.98 [0.85-1.13],0.7641702769802492
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,16035,2073,1.02 [0.99-1.06],0.1442103162701574
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,20638,120,1.02 [0.89-1.16],0.8070338998116622
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,19295,37,1.00 [0.79-1.28],0.9732683884080382
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,19299,195,0.92 [0.82-1.02],0.1012964319519291
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,19949,691,1.04 [0.98-1.10],0.2085185493952395
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,22840,492,1.09 [1.02-1.17],0.0092887427713803
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,19768,664,1.00 [0.95-1.06],0.9802608850777484
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,23043,540,1.05 [0.99-1.12],0.1047311944970571
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,23177,69,1.22 [1.02-1.45],0.0272798880109872
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,19425,167,0.89 [0.79-0.99],0.0367865228823417
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,18042,895,1.01 [0.97-1.07],0.5709422436803445
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,19907,649,1.03 [0.97-1.09],0.2826868492414054
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],19539,281,0.90 [0.82-0.98],0.0144470940124147
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",14034,72,1.13 [0.95-1.34],0.1758602219982225
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,17098,3136,1.03 [1.01-1.06],0.0123607720770729
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,14808,846,1.02 [0.97-1.07],0.4130957056760137
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,22722,374,1.07 [0.99-1.16],0.0731203062065328
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",23147,82,1.04 [0.88-1.22],0.6718678832098676
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",20524,72,1.01 [0.85-1.20],0.8964180697147055
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,14026,64,1.12 [0.93-1.34],0.2274187652105883
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,19210,106,1.05 [0.91-1.21],0.48713409246937
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,14516,554,1.06 [1.00-1.13],0.0524762414546868
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,19598,340,1.04 [0.96-1.12],0.3877256081103122
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,19390,286,1.10 [1.01-1.20],0.0294655667977277
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,19376,272,1.03 [0.94-1.12],0.534382225552937
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,16284,68,1.16 [0.97-1.38],0.0999228490439517
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",23182,74,1.16 [0.98-1.37],0.0892268714035113
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,19816,558,1.02 [0.96-1.09],0.5163400797967008
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],22444,96,1.12 [0.96-1.30],0.1446924570743994
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,21911,2653,1.02 [0.99-1.05],0.1093940976699159
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",19408,150,1.03 [0.91-1.16],0.6240829897612813
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,19823,719,1.03 [0.97-1.09],0.310544213379169
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,21818,274,0.91 [0.83-1.00],0.0414589766298499
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,19362,258,1.04 [0.95-1.14],0.3997815624987082
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,21119,2015,1.02 [0.99-1.06],0.1966495412884979
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,20417,1313,1.04 [1.00-1.08],0.0563875144411666
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],19321,63,1.09 [0.90-1.31],0.3848892940046607
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,22466,118,1.02 [0.89-1.16],0.8200155271332749
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,19420,162,1.10 [0.98-1.23],0.116506880748428
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,19350,92,1.00 [0.86-1.17],0.9997354791542852
+MESD,LRP chaperone MESD,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),14040,78,1.09 [0.93-1.29],0.2985299405308775
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Acute renal failure,21684,2271,1.02 [0.98-1.05],0.3383292001089355
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),9291,25,1.15 [0.86-1.54],0.3576484501480053
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,11782,33,1.10 [0.85-1.43],0.4558261093351025
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,22868,309,1.06 [0.97-1.15],0.1894844102856548
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,22663,104,0.98 [0.85-1.13],0.8161945818790853
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,21759,2346,0.99 [0.96-1.02],0.5563528635379942
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,22970,131,1.01 [0.89-1.15],0.8340064535068255
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,22896,409,1.00 [0.93-1.07],0.905714098240122
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Cystitis,19307,300,1.04 [0.96-1.13],0.3337817971719357
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Dialysis,19509,96,1.03 [0.88-1.20],0.712543566500937
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,10227,2146,1.01 [0.98-1.04],0.6761959492032993
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Disorders of breast,11882,133,1.08 [0.95-1.23],0.2282472549273645
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Endometriosis,9305,39,1.07 [0.84-1.35],0.5899489713621296
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,9849,583,1.00 [0.94-1.06],0.9701732645699224
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,19105,6319,0.99 [0.98-1.01],0.5687778765591894
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,22936,97,0.96 [0.83-1.11],0.5951031433889229
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Hydrocele,8198,117,0.91 [0.79-1.04],0.1723168742307324
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,19485,350,1.00 [0.93-1.08],0.9805562955418304
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,9913,1832,1.00 [0.97-1.03],0.9704948667442757
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,11949,159,1.00 [0.89-1.12],0.9360680282459862
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),8208,127,0.93 [0.81-1.05],0.245963007181343
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,19097,90,1.05 [0.90-1.22],0.5686682423058835
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,10301,1035,0.99 [0.94-1.03],0.5277103248531805
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,8140,59,0.84 [0.70-1.02],0.0800589969219941
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,9306,40,0.91 [0.72-1.15],0.4247862088440134
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",23189,90,1.06 [0.91-1.24],0.440436813772576
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",23192,86,0.92 [0.78-1.07],0.2720848424650617
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,21986,2979,0.99 [0.96-1.01],0.3715352212911933
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,19960,953,0.96 [0.91-1.01],0.0843358307765793
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,11800,51,1.05 [0.86-1.29],0.6455095074594139
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,23118,631,0.99 [0.93-1.05],0.690293607901352
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,8233,152,1.01 [0.90-1.14],0.8821246363775147
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,8238,157,1.05 [0.93-1.17],0.4555282091481661
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,8234,153,0.92 [0.82-1.04],0.1823371093199355
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,23163,86,0.93 [0.79-1.09],0.3457404295414019
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,21379,2372,1.00 [0.97-1.03],0.7972812924358472
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,11872,82,1.01 [0.86-1.18],0.9414043628354848
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,9333,67,1.10 [0.92-1.32],0.3019007433433647
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",9406,140,0.97 [0.85-1.09],0.5815399051525348
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,9318,52,0.91 [0.74-1.12],0.3823704167282306
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,9368,102,0.94 [0.81-1.09],0.4219228413104494
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,19547,412,0.99 [0.93-1.07],0.889557572663554
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,22688,201,0.99 [0.89-1.10],0.8819304156214305
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,9393,127,1.03 [0.91-1.18],0.6334720608773882
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,9291,25,0.82 [0.61-1.10],0.1795283364350514
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,9477,211,0.98 [0.89-1.09],0.7219923752321029
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,9359,93,1.03 [0.89-1.20],0.6633572847409359
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,9476,210,0.95 [0.86-1.05],0.3479699576086351
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,22887,48,0.89 [0.72-1.10],0.2949371048153132
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",8235,154,0.98 [0.87-1.10],0.6801232873415235
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,22911,3776,1.00 [0.97-1.02],0.8714228267892589
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",19229,94,1.01 [0.87-1.17],0.9317505297004738
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,19592,179,0.95 [0.86-1.07],0.4102489384376616
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,22600,41,0.97 [0.77-1.23],0.824604377532512
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Urethral stricture,19278,271,0.95 [0.87-1.04],0.2959257554343955
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Urolithiasis,22956,397,1.03 [0.96-1.11],0.3736278227928116
+MESD,LRP chaperone MESD,Chapter XIV Diseases of the genitourinary system,Uterine polyps,9301,35,0.96 [0.75-1.23],0.7413797898104237

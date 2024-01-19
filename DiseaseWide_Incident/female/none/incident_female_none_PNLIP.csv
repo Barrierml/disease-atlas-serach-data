@@ -1,0 +1,649 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",23457,95,0.90 [0.66-1.24],0.5209461357957006
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",24098,180,1.12 [0.89-1.40],0.3380511242110577
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",23863,1166,0.95 [0.86-1.03],0.2227841208056022
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Candidiasis,24126,417,0.86 [0.74-1.00],0.0551205266460858
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,23375,3054,0.95 [0.90-1.00],0.065352942678306
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),23586,2490,0.94 [0.88-1.00],0.0422718338488202
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,23875,1179,0.96 [0.88-1.05],0.4153298429998699
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,24029,81,1.09 [0.78-1.53],0.6218526523094581
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,22533,706,0.95 [0.84-1.06],0.3595633816347022
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,21768,803,1.05 [0.94-1.17],0.4034029583719046
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,21816,222,0.73 [0.59-0.90],0.0037792691555061
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,16919,1434,0.94 [0.87-1.03],0.1725377831264882
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,21619,320,1.07 [0.90-1.27],0.4286122725697419
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,24066,1370,0.97 [0.89-1.06],0.5140513508291575
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Mycoses,24180,471,0.82 [0.71-0.95],0.007705681024618
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,23525,828,0.90 [0.81-1.00],0.0521457370070073
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,24134,772,0.96 [0.86-1.07],0.4323794697976302
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,22876,180,1.12 [0.89-1.41],0.3337129324520053
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,24238,39,0.89 [0.54-1.46],0.6478305798980337
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Other septicaemia,24048,686,0.96 [0.86-1.08],0.5387295344225089
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,24022,74,1.18 [0.83-1.68],0.3602368146988037
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Other viral diseases,24154,169,0.93 [0.73-1.18],0.5470624706711553
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",24139,154,0.95 [0.74-1.22],0.693656396577806
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,22993,296,1.02 [0.86-1.23],0.7910847690420434
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,22923,226,0.90 [0.73-1.11],0.3292330985286733
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,22798,102,0.99 [0.73-1.35],0.9713702516657432
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,24216,35,1.33 [0.81-2.19],0.2622811118383105
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,24169,143,1.01 [0.78-1.31],0.9568258812843392
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Viral warts,24069,43,1.02 [0.63-1.64],0.9434570446132822
+PNLIP,Pancreatic triacylglycerol lipase,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],24097,71,0.96 [0.66-1.39],0.8367207755196964
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Benign lipomatous neoplasm,23991,209,0.99 [0.80-1.23],0.9158300204989692
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,24145,62,1.04 [0.70-1.55],0.8381552889960864
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,24138,60,0.84 [0.56-1.26],0.3949780203934504
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",23980,1070,1.10 [1.00-1.21],0.0449045684341117
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Benign neoplasm of meninges,24213,75,0.95 [0.66-1.36],0.7782804899251218
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,24177,60,0.68 [0.45-1.02],0.0605118476581352
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,24206,115,0.86 [0.65-1.15],0.3043495779921769
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Benign neoplasm of ovary,24167,150,0.98 [0.76-1.27],0.8988874374476483
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Benign neoplasm: Ascending colon,24218,243,1.06 [0.87-1.29],0.5866204209848394
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Benign neoplasm: Caecum,24224,224,1.10 [0.89-1.35],0.3860360311786845
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",24158,60,1.00 [0.67-1.48],0.9986041129981664
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Benign neoplasm: Descending colon,24222,133,1.18 [0.91-1.53],0.2134582148723327
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Benign neoplasm: Rectum,24183,245,1.03 [0.84-1.25],0.793990410327228
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,24136,450,1.18 [1.03-1.37],0.0211938689964322
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Benign neoplasm: Transverse colon,24223,256,1.11 [0.92-1.35],0.2755726896511613
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Carcinoma in situ of breast,19605,119,0.85 [0.63-1.14],0.2860983947043921
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",19678,139,0.83 [0.63-1.09],0.1847229435810334
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",19671,31,1.01 [0.57-1.79],0.975304938712196
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",19697,57,0.99 [0.65-1.49],0.9494129837094538
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",24175,127,1.18 [0.90-1.55],0.2251394459964502
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Haemangioma, any site",24176,125,1.18 [0.89-1.55],0.2466913146875342
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Leiomyoma of uterus,23354,511,0.97 [0.85-1.12],0.722793350156463
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Lung cancer and mesothelioma,17405,288,0.90 [0.76-1.08],0.2621419315542979
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Lymphoid leukaemia,19675,35,0.86 [0.50-1.47],0.5830730736207657
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",19794,154,1.27 [0.99-1.63],0.0636541979736235
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",19739,99,0.98 [0.72-1.33],0.8850500667885698
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",19809,169,1.17 [0.93-1.49],0.1798029480664019
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",19703,63,1.02 [0.68-1.51],0.9406855744352708
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",19704,64,0.95 [0.64-1.39],0.7771451704364897
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",19689,49,1.06 [0.69-1.64],0.7938579602218401
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",19769,129,1.06 [0.81-1.39],0.6855281363011376
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",19734,94,1.02 [0.74-1.40],0.9186453866675528
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",19715,75,0.82 [0.57-1.19],0.3001636807984916
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",19676,36,0.83 [0.49-1.41],0.4944944299809366
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,19711,71,0.94 [0.65-1.37],0.7499829159388844
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Melanocytic naevi,24003,207,1.10 [0.88-1.37],0.4212736319095528
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Melanocytic naevi of trunk,24198,70,1.66 [1.17-2.35],0.0042939295339044
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Melanoma in situ,19669,77,1.14 [0.80-1.62],0.4824390456658441
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",19712,72,1.14 [0.79-1.63],0.4921407223442999
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",19775,135,1.07 [0.82-1.39],0.6375246426619349
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",19850,210,0.95 [0.78-1.17],0.6369174013483123
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",19723,83,0.94 [0.67-1.33],0.7373857176738277
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,Other benign neoplasms of skin,24040,154,0.87 [0.68-1.13],0.3005666318234467
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",20457,817,1.04 [0.93-1.16],0.4707469399559479
+PNLIP,Pancreatic triacylglycerol lipase,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",20493,853,1.04 [0.94-1.16],0.4533098955586425
+PNLIP,Pancreatic triacylglycerol lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,23953,343,0.96 [0.81-1.14],0.6479097134383585
+PNLIP,Pancreatic triacylglycerol lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,22477,86,1.22 [0.88-1.69],0.2332624761608895
+PNLIP,Pancreatic triacylglycerol lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,23681,71,1.21 [0.85-1.74],0.2883705472836882
+PNLIP,Pancreatic triacylglycerol lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,23341,2607,0.98 [0.92-1.04],0.5021577231461668
+PNLIP,Pancreatic triacylglycerol lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,22812,28,0.89 [0.50-1.60],0.6989693579142549
+PNLIP,Pancreatic triacylglycerol lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,23887,46,1.26 [0.81-1.96],0.3022745159366314
+PNLIP,Pancreatic triacylglycerol lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,23722,1331,0.95 [0.87-1.03],0.2293662635977941
+PNLIP,Pancreatic triacylglycerol lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,23722,1331,0.95 [0.87-1.03],0.2293662635977941
+PNLIP,Pancreatic triacylglycerol lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,22458,67,1.68 [1.20-2.34],0.0023082762671182
+PNLIP,Pancreatic triacylglycerol lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,23871,1087,1.07 [0.97-1.17],0.1734803763774684
+PNLIP,Pancreatic triacylglycerol lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,23943,102,1.13 [0.84-1.53],0.4250645392820565
+PNLIP,Pancreatic triacylglycerol lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,23656,46,0.75 [0.48-1.18],0.2142522994442288
+PNLIP,Pancreatic triacylglycerol lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,23664,54,0.61 [0.41-0.92],0.0172448585272989
+PNLIP,Pancreatic triacylglycerol lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,24050,209,1.11 [0.90-1.37],0.3414476478731231
+PNLIP,Pancreatic triacylglycerol lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,24141,53,1.50 [1.00-2.24],0.0477693257930719
+PNLIP,Pancreatic triacylglycerol lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",24019,178,1.16 [0.92-1.46],0.1983712952120014
+PNLIP,Pancreatic triacylglycerol lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,22898,114,1.05 [0.78-1.39],0.7643833885462321
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,19550,212,0.80 [0.65-0.99],0.0374868927354077
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,22980,60,0.95 [0.64-1.40],0.7938145618341461
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,22977,57,0.92 [0.62-1.36],0.6625878997759725
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,19381,43,0.91 [0.56-1.48],0.7062243548964193
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,22231,55,1.07 [0.71-1.62],0.7348924918111425
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,21939,207,0.98 [0.79-1.21],0.843570893940345
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",23850,421,0.77 [0.67-0.90],0.0008127098834902
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,23690,261,0.88 [0.73-1.07],0.1987971455205538
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,23489,60,0.78 [0.52-1.16],0.2200064994101464
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,23897,1721,0.97 [0.90-1.04],0.3988565861870063
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,21497,1684,0.96 [0.89-1.03],0.2688282833817959
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",19385,47,1.34 [0.87-2.05],0.1830576970188778
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",21549,103,0.93 [0.68-1.26],0.6328317553001324
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,19590,252,1.06 [0.87-1.28],0.583093863853073
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,19381,43,1.11 [0.69-1.79],0.6613611305834519
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,22099,2761,1.05 [0.99-1.11],0.1216017195807166
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,19524,186,0.84 [0.67-1.05],0.1273108929579307
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,19822,484,0.97 [0.85-1.12],0.7209701492841964
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,24149,314,1.12 [0.94-1.33],0.2052086599103604
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,23981,146,1.27 [0.99-1.63],0.0572423894798586
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,19429,91,0.89 [0.64-1.23],0.4727549567873397
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",19387,49,0.74 [0.47-1.15],0.1747616145112105
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,23466,2020,0.97 [0.91-1.04],0.4080473545971146
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,19516,178,1.05 [0.83-1.32],0.6796006695165652
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,19511,173,1.15 [0.91-1.44],0.2387634564376509
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",19806,468,1.15 [1.00-1.32],0.052302982645107
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,19409,71,0.60 [0.43-0.85],0.0041223281445888
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,23975,140,1.28 [1.00-1.65],0.0522821989495871
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,19880,542,0.93 [0.81-1.06],0.2893026654097785
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,19824,486,0.71 [0.62-0.81],1.116200859184155e-06
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,21796,64,1.27 [0.88-1.85],0.2067663239923065
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,23464,4126,0.99 [0.95-1.04],0.8242398690148696
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,21512,66,0.78 [0.53-1.14],0.1942868393295798
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,21525,79,0.88 [0.61-1.26],0.4770609181527279
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,24068,1804,0.94 [0.88-1.01],0.1088710814599023
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",24072,1803,0.94 [0.88-1.01],0.1168888132053761
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,21519,73,0.76 [0.53-1.09],0.1309349651553218
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,23874,1394,0.97 [0.89-1.06],0.5116554674636451
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",20648,1310,0.88 [0.81-0.96],0.0026605086715591
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,24227,157,0.75 [0.59-0.96],0.0197170555741325
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,23469,40,0.71 [0.44-1.15],0.1685161432699442
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,22600,120,0.79 [0.59-1.05],0.1049808855085584
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,22651,171,0.82 [0.65-1.05],0.1132298786999415
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",19555,217,0.99 [0.80-1.22],0.8978825661711441
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,22620,121,0.75 [0.57-1.00],0.0464089180979205
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,1511,38,0.83 [0.53-1.31],0.4260941885468714
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,1606,152,1.05 [0.84-1.30],0.6941712831825873
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,22523,24,0.92 [0.50-1.72],0.8050441325919143
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,1495,23,1.25 [0.71-2.19],0.4421512358697397
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,23816,1317,1.06 [0.97-1.15],0.2102279750133707
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,23723,294,0.75 [0.63-0.90],0.0019116549637973
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,22153,421,0.84 [0.72-0.98],0.0245153718175234
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,19966,628,0.83 [0.74-0.94],0.0035872383457531
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",24149,208,0.97 [0.78-1.20],0.7727094104337526
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),23335,45,0.98 [0.62-1.54],0.9299878005380882
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Angina pectoris,22892,762,0.95 [0.85-1.06],0.3264461717970513
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Aortic aneurysm,23371,81,1.12 [0.80-1.57],0.500640239465798
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,23320,30,1.01 [0.58-1.74],0.9851930466633227
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",23429,139,1.21 [0.94-1.55],0.1372745546697671
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,15743,1279,0.90 [0.82-0.98],0.0115580868556386
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,AV-block,21261,213,0.88 [0.71-1.09],0.2278053034859593
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",24196,266,0.96 [0.80-1.16],0.6938304480816726
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Cardiac arrest,14573,109,0.99 [0.73-1.33],0.9213143682783796
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Cardiomyopathy,21167,119,1.27 [0.97-1.67],0.0874430449919587
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",21119,71,1.31 [0.92-1.87],0.1305091841153474
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,24234,28,1.34 [0.78-2.29],0.29242509350586
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Conduction disorders,21688,640,0.97 [0.86-1.10],0.6228326488886573
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,23429,1309,0.95 [0.87-1.03],0.2106224088340618
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,21810,6424,0.94 [0.90-0.97],0.0010217126739647
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,DVT of lower extremities,22920,221,0.96 [0.78-1.18],0.7021288855423795
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Endocarditis,21095,47,1.01 [0.64-1.60],0.960694817771166
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,"Heart failure, strict",24154,733,0.96 [0.86-1.07],0.4706848772090619
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Hypertension,22361,5404,0.95 [0.91-1.00],0.0306920005745775
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,"Hypertension, essential",22369,5412,0.96 [0.92-1.00],0.0399943751849296
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,"Hypertension, portal",24133,37,1.90 [1.23-2.92],0.0036916881729644
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",17112,155,0.86 [0.67-1.10],0.2265241821295799
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,17024,67,2.16 [1.64-2.84],3.43280230255317e-08
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Hypotension,24118,933,0.97 [0.88-1.08],0.6077063648210299
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,23568,85,0.85 [0.60-1.19],0.3347880652072811
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",23611,1481,0.93 [0.86-1.01],0.0865227547641834
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",23959,403,0.79 [0.68-0.92],0.0024551967243846
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Left bundle-branch block,21318,270,1.03 [0.85-1.24],0.7794687607122975
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,24044,535,0.96 [0.84-1.10],0.5446830835689717
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",22558,428,0.97 [0.83-1.12],0.6710503863706303
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",24213,77,1.15 [0.82-1.63],0.4172406423277262
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",24230,211,0.89 [0.72-1.11],0.3003408908259544
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Oesophageal varices,22734,35,2.04 [1.32-3.16],0.0013226919521262
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Other aneurysm,23339,49,0.68 [0.44-1.06],0.0913897627666407
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Other arrhythmias,21366,318,0.83 [0.70-0.99],0.0426209824912955
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,23351,61,1.03 [0.70-1.52],0.8700680095461224
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,23464,174,1.04 [0.82-1.31],0.7408374243593803
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,21196,148,1.32 [1.04-1.69],0.0246153998063995
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Other disorders of veins,22775,76,0.77 [0.54-1.10],0.1564558413759108
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,22741,42,0.57 [0.36-0.92],0.0210644465648596
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,23136,32,1.10 [0.64-1.90],0.7257180139248726
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,22836,137,0.78 [0.60-1.02],0.0695268532981691
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,21729,681,0.98 [0.87-1.10],0.7564370389736115
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,23223,38,1.27 [0.78-2.06],0.3386197425994668
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,23740,450,0.87 [0.76-1.01],0.0712815969017235
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,23723,292,0.90 [0.75-1.07],0.2412364496169939
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",23575,471,0.79 [0.69-0.91],0.0013723753988462
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,14716,252,0.94 [0.77-1.14],0.5083697478679758
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Peripheral artery disease,23524,245,0.88 [0.72-1.07],0.2082723500642498
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),22988,289,0.95 [0.79-1.14],0.5742977361911118
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Pulmonary embolism,23822,391,0.91 [0.77-1.06],0.2142473932924382
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,24165,506,0.87 [0.76-0.99],0.0421264415701211
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Right bundle-branch block,21237,189,0.85 [0.67-1.07],0.1598705252704661
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Secondary right heart disease,23716,285,0.92 [0.77-1.10],0.3504991876765961
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,23239,135,0.79 [0.61-1.03],0.0852092316184361
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",23950,467,0.82 [0.71-0.95],0.0068286964138652
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",23926,509,0.85 [0.74-0.98],0.0203105347499152
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,23537,64,1.26 [0.87-1.82],0.2186548434254049
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,23326,36,1.40 [0.86-2.29],0.1734513689516482
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Transient ischemic attack,23744,188,0.85 [0.68-1.07],0.1750494266979385
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,23687,178,1.01 [0.80-1.27],0.9470474656387344
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Varicose veins,23086,387,1.07 [0.91-1.25],0.4130863676624758
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,23299,83,0.74 [0.53-1.04],0.0808091972106822
+PNLIP,Pancreatic triacylglycerol lipase,Chapter IX Diseases of the circulatory system,Venous thromboembolism,24050,617,0.93 [0.82-1.05],0.2629347728375006
+PNLIP,Pancreatic triacylglycerol lipase,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",24200,199,0.80 [0.64-1.01],0.0561810316239019
+PNLIP,Pancreatic triacylglycerol lipase,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",21552,1627,0.93 [0.86-1.00],0.0511756474689939
+PNLIP,Pancreatic triacylglycerol lipase,Chapter V Mental and behavioural disorders,Any mental disorder,23710,3785,0.93 [0.88-0.98],0.0040812359100166
+PNLIP,Pancreatic triacylglycerol lipase,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",24174,237,0.86 [0.70-1.05],0.1360045134122259
+PNLIP,Pancreatic triacylglycerol lipase,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",21665,1740,0.96 [0.89-1.04],0.3127452467537492
+PNLIP,Pancreatic triacylglycerol lipase,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",20003,78,0.81 [0.57-1.15],0.2399735430715076
+PNLIP,Pancreatic triacylglycerol lipase,Chapter V Mental and behavioural disorders,Smoking dependency,23875,1049,0.88 [0.80-0.96],0.0054070189322161
+PNLIP,Pancreatic triacylglycerol lipase,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",21143,1218,0.89 [0.81-0.97],0.0066328712010772
+PNLIP,Pancreatic triacylglycerol lipase,Chapter V Mental and behavioural disorders,Vascular dementia,23811,94,0.93 [0.68-1.28],0.6547391886373735
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Alzheimer disease,24236,322,0.89 [0.75-1.05],0.1688903875659023
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",16610,51,0.61 [0.40-0.93],0.0212148058218108
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Bell's palsy,22344,71,1.30 [0.91-1.86],0.1449483277050371
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,22832,559,0.92 [0.81-1.06],0.2427840670680147
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Cerebral cysts,23886,191,1.05 [0.84-1.32],0.6428529648023076
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,24170,240,0.84 [0.69-1.03],0.0960482195638393
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,23814,38,1.17 [0.72-1.92],0.5299917824410709
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,24225,44,0.90 [0.56-1.45],0.6703270712771898
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",23740,45,1.60 [1.05-2.45],0.0294983360807563
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Epilepsy,22953,247,0.84 [0.68-1.02],0.0830338967282571
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,23866,1160,0.99 [0.91-1.09],0.9013080571764592
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,24193,309,0.78 [0.66-0.94],0.0068071435380941
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Falls/tendency to fall,23690,2539,0.90 [0.85-0.96],0.0014313031791026
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Generalized epilepsy,23914,41,0.81 [0.50-1.31],0.3871553886211465
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Hemiplegia,24122,192,0.89 [0.71-1.11],0.2904081128866654
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Hydrocephalus,23751,56,0.95 [0.63-1.44],0.8034644810662975
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,24218,67,0.84 [0.57-1.24],0.3834993899275621
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,22386,113,1.06 [0.79-1.42],0.709566568617565
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,22327,54,0.90 [0.59-1.38],0.6298912904268787
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Memory loss,23699,95,0.85 [0.62-1.17],0.3134311234943813
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Migraine,23147,441,1.15 [0.99-1.34],0.0612294106642448
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",24135,399,1.12 [0.96-1.31],0.1635331858562828
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Motor neuron disease,16700,116,0.87 [0.65-1.18],0.3750352103631376
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,24034,129,0.94 [0.71-1.24],0.6424488065343179
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",23501,1228,1.04 [0.95-1.14],0.3587280682239088
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Neurological diseases,22810,3259,0.95 [0.90-1.00],0.0636265549123479
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,23900,124,0.66 [0.51-0.87],0.0026880010072762
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",22650,377,1.11 [0.95-1.30],0.2021380488356396
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",24185,199,0.82 [0.66-1.03],0.0851608698765329
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,19606,581,0.81 [0.71-0.92],0.0012977060441189
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,23755,60,0.99 [0.66-1.48],0.9580322675090474
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Other disorders of nervous system,23806,111,0.83 [0.62-1.12],0.2236750059506097
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,24026,142,0.71 [0.55-0.91],0.0084127513862683
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Other facial nerve disorders,22352,79,1.28 [0.91-1.80],0.1557860485221721
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Other headache syndromes,22772,66,0.80 [0.54-1.17],0.2430420886882545
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Other neurological diseases,24136,441,0.94 [0.81-1.09],0.4240454558800918
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Other sleep disorders,23057,351,0.86 [0.73-1.01],0.0715601162584258
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Parkinson's disease,24213,146,0.87 [0.68-1.13],0.3043737741617269
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,23768,73,1.05 [0.73-1.52],0.7826661262541839
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Restless leg syndrome,24235,76,0.61 [0.43-0.86],0.0050890587928695
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Sleep apnoea,24080,281,0.87 [0.72-1.05],0.1380384186608312
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Small fibre neuropathy,24020,34,0.87 [0.51-1.50],0.6159942690105538
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,24226,140,0.79 [0.60-1.03],0.0763646349041903
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,22335,62,1.24 [0.85-1.82],0.2642671263545224
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,24236,325,0.89 [0.75-1.06],0.1928709516643657
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),23772,91,0.94 [0.68-1.29],0.6998615777944908
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,23717,94,0.98 [0.71-1.35],0.9202981465500756
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,23834,427,0.96 [0.82-1.11],0.5689894625754679
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,24109,143,0.99 [0.77-1.27],0.935369075794779
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,23258,53,0.78 [0.51-1.20],0.2600473898321298
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,23253,48,0.87 [0.54-1.38],0.5411301901689682
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",24125,58,0.75 [0.50-1.13],0.1670317256616799
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,23982,147,0.93 [0.72-1.19],0.5545675050478212
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",1502,29,0.76 [0.46-1.27],0.2966030559707098
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,1795,56,0.63 [0.45-0.90],0.0113585679519805
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,23707,84,0.90 [0.64-1.27],0.5393595026616782
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,24086,927,1.00 [0.91-1.11],0.9700663273244914
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",23863,658,0.96 [0.85-1.08],0.4725780031304556
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,23471,266,0.96 [0.80-1.17],0.7101742027576338
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",24161,754,0.95 [0.85-1.06],0.3606753046456591
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,24225,63,1.05 [0.71-1.55],0.8193113421209377
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,24093,686,0.94 [0.84-1.06],0.3418740021402167
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",24197,362,1.04 [0.88-1.22],0.6652918620341546
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,24151,185,0.76 [0.60-0.95],0.016058585186298
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,23243,38,0.77 [0.47-1.26],0.3019311762568367
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,23248,43,0.95 [0.59-1.54],0.8471317941424699
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,23266,61,1.08 [0.72-1.61],0.7133329802647036
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,24157,627,1.00 [0.89-1.13],0.9799396062038884
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,23684,154,0.92 [0.72-1.19],0.5278730848578469
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,23465,58,0.82 [0.55-1.23],0.3473547851294857
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,23926,91,0.98 [0.71-1.36],0.907157916645924
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,24115,280,1.05 [0.87-1.26],0.6216596771194026
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,23591,184,0.89 [0.71-1.12],0.3216059030775065
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,24086,120,0.78 [0.59-1.03],0.0831362479326468
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,23938,408,0.97 [0.83-1.13],0.6525345715641835
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,23760,137,1.00 [0.76-1.30],0.9742755892897192
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,22654,2240,0.95 [0.89-1.01],0.1053794401980175
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,24080,245,1.10 [0.90-1.34],0.3404065031397938
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,24215,144,0.96 [0.74-1.24],0.740744874444228
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,23543,338,0.93 [0.78-1.10],0.3700755550202831
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,23894,59,1.18 [0.80-1.76],0.4001132945615399
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,24212,50,1.25 [0.82-1.91],0.3072446930162129
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,23288,83,1.26 [0.90-1.75],0.1766781171596104
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,23335,130,1.00 [0.76-1.31],0.984605422351819
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,23253,94,1.06 [0.78-1.46],0.6995606208794565
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,23465,58,0.97 [0.64-1.46],0.876476858661063
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",23218,59,0.68 [0.45-1.03],0.0657434621962826
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,23635,105,1.01 [0.74-1.37],0.9578734246691664
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",23687,157,1.02 [0.80-1.31],0.8496443837636601
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,23316,111,1.10 [0.82-1.48],0.5126569248258518
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,23243,84,1.03 [0.72-1.46],0.8677723688455392
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,23220,61,1.08 [0.73-1.60],0.7087406649937957
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,22249,1835,0.97 [0.90-1.04],0.3949146190707516
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,23283,78,0.84 [0.59-1.20],0.3348946047171365
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,24004,381,0.91 [0.77-1.07],0.2353926383543083
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,23663,40,0.76 [0.47-1.24],0.2756544495254135
+PNLIP,Pancreatic triacylglycerol lipase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),23771,148,1.01 [0.78-1.30],0.9412650629551068
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,24008,102,1.18 [0.87-1.59],0.2877521526575987
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,24194,95,0.91 [0.65-1.26],0.5603828412252245
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,24125,128,1.08 [0.82-1.42],0.5808737126962595
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,23971,65,0.65 [0.44-0.96],0.0298120827229597
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,23973,67,0.92 [0.63-1.36],0.6875941715130334
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,24141,707,0.94 [0.84-1.06],0.3081985578111851
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,23917,483,0.88 [0.76-1.01],0.0680671504372777
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,23535,101,1.21 [0.90-1.63],0.213263928368871
+PNLIP,Pancreatic triacylglycerol lipase,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,23511,77,0.98 [0.69-1.39],0.906581166884354
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Acute pharyngitis,23986,75,0.82 [0.57-1.18],0.2863188814611346
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,24122,211,0.99 [0.80-1.23],0.9206209005266542
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,23969,58,1.25 [0.84-1.86],0.266654510349583
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,All influenza,22735,114,1.09 [0.82-1.45],0.5617082172535088
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),22734,113,1.07 [0.81-1.43],0.6287048363275436
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Allergic asthma (mode),17231,114,0.87 [0.64-1.18],0.3703201886777212
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Allergic rhinitis,24113,250,1.08 [0.88-1.31],0.4719577888523286
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",18800,1845,0.89 [0.83-0.96],0.002263726379169
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",18938,1821,0.89 [0.82-0.96],0.0016868420337303
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),23872,116,0.94 [0.71-1.26],0.6893694826577086
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",22683,62,0.77 [0.52-1.14],0.1977502583903324
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Bronchiectasis,20934,356,0.83 [0.71-0.98],0.0313825727123526
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",20640,62,0.69 [0.47-1.03],0.0675362566235917
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,23214,2636,0.88 [0.82-0.93],1.970811960818313e-05
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",23109,58,0.66 [0.44-0.99],0.0468448372440159
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Chronic sinusitis,23179,128,0.78 [0.59-1.04],0.0900105343773146
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",24082,913,0.81 [0.73-0.90],7.467713907770355e-05
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Deviated nasal septum,23118,67,0.94 [0.64-1.39],0.7703559678784075
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,22378,4538,0.93 [0.89-0.97],0.0021784235165023
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",23351,300,1.02 [0.85-1.22],0.8236222903905319
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Early onset COPD,23454,285,0.78 [0.65-0.93],0.006340946410594
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Emphysema,20812,234,0.81 [0.66-0.99],0.043405078947348
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,22747,207,0.85 [0.69-1.05],0.1364103653272282
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Influenza and pneumonia,24056,1435,0.89 [0.82-0.96],0.0036118067782234
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Interstitial lung disease,22784,244,0.87 [0.72-1.06],0.1725881819113693
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Later onset COPD,23410,628,0.85 [0.75-0.96],0.0082951991482825
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,24230,192,0.87 [0.70-1.09],0.2347433828682293
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Nasal polyp,23112,61,0.98 [0.65-1.47],0.912392935301815
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,24028,827,0.90 [0.81-1.00],0.0586068271258532
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Other diseases of pleura,24065,1539,0.90 [0.83-0.97],0.0065983550310223
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,23747,696,1.01 [0.89-1.13],0.9333522187707572
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Other pleural conditions,22561,35,0.76 [0.44-1.29],0.308373300411049
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,24160,308,0.91 [0.77-1.09],0.2988334061816307
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,24155,1049,0.91 [0.83-1.00],0.0466728949472243
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Pleural effusion,23258,732,0.85 [0.76-0.96],0.0073034829464985
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Pleural plaque,22567,41,0.88 [0.54-1.42],0.6035875597739149
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",23840,1219,0.88 [0.80-0.96],0.0041425088712819
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,24202,164,0.82 [0.65-1.05],0.1127986389545842
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Pneumothorax,22614,88,0.75 [0.54-1.04],0.0883534312076305
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Pollen allergy,24216,211,1.03 [0.83-1.28],0.7881410567374741
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Pulmonary oedema,23906,54,1.18 [0.79-1.77],0.4276801720499532
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Respiratory insufficiency,17161,44,0.57 [0.37-0.87],0.0092847886921207
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,24009,808,0.90 [0.80-1.00],0.0448892884940864
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,23301,250,1.07 [0.88-1.31],0.4772270532513022
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Viral pneumonia,22807,186,0.86 [0.69-1.08],0.1951353491439081
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",23879,146,0.84 [0.65-1.09],0.1850059821896345
+PNLIP,Pancreatic triacylglycerol lipase,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,11682,91,1.06 [0.76-1.47],0.731626790106477
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,17342,35,1.19 [0.71-2.00],0.5087599454495273
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Acute appendicitis,24063,123,0.96 [0.72-1.28],0.7622586117385473
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Acute gastritis,18198,74,1.25 [0.88-1.77],0.2204303206381868
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Acute pancreatitis,22212,143,1.13 [0.87-1.46],0.351155468254112
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Acute peritonitis,23725,74,1.29 [0.91-1.82],0.1509033943540363
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Alcoholic liver disease,23470,33,0.79 [0.46-1.36],0.3929765994049561
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Barrett oesophagus,18432,308,0.95 [0.79-1.14],0.5777105499870172
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",22142,73,1.14 [0.80-1.62],0.4717651284512972
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",23860,73,1.15 [0.81-1.63],0.4451903658119508
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Cholecystitis,22227,158,0.86 [0.67-1.11],0.2443713033946974
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Cholelithiasis,23126,1057,0.88 [0.80-0.97],0.0118599101434866
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Chronic gastritis,18420,296,0.98 [0.81-1.17],0.7863236111758052
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Chronic pancreatitis,22105,36,1.05 [0.63-1.76],0.8530665641562685
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",24164,68,1.35 [0.95-1.92],0.0993194161071894
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Coeliac disease,22883,128,0.78 [0.59-1.04],0.0959237718685476
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Collagenous colitis,22557,95,0.89 [0.64-1.24],0.4904812884283179
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,24111,142,1.23 [0.95-1.59],0.1119891428184082
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Constipation,23939,1494,0.88 [0.81-0.96],0.0022746943413875
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Crohn disease,22536,74,1.58 [1.13-2.21],0.0069314633516742
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",23912,51,1.48 [0.99-2.22],0.0576337072122241
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Crohn's disease NAS,22538,76,1.39 [0.99-1.96],0.0594423024491771
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Dental caries,23506,203,0.74 [0.60-0.92],0.0077163185198425
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,22787,2147,0.97 [0.91-1.04],0.4399201085092987
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Diseases of appendix,24102,162,0.90 [0.70-1.17],0.4394053643279039
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Diseases of liver,24148,711,1.03 [0.92-1.16],0.594999383287922
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",22201,4077,1.01 [0.97-1.07],0.5715589168625211
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",23823,520,0.92 [0.80-1.05],0.2279397930444045
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Diseases of peritoneum,24125,474,0.90 [0.78-1.04],0.1555780972291653
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,23407,104,0.71 [0.52-0.97],0.0312085753199249
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Diseases of salivary glands,23277,57,1.24 [0.83-1.84],0.2967115762498201
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Diseases of the digestive system,23976,1221,1.02 [0.93-1.11],0.7211054323379769
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Diseases of tongue,23279,93,1.27 [0.92-1.74],0.1421701601326574
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",23479,1410,0.91 [0.84-0.99],0.030464644985221
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,20128,2821,0.94 [0.89-1.00],0.0423644061681806
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Duodenal ulcer,18243,119,0.96 [0.72-1.27],0.762534849357698
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",24187,99,0.98 [0.72-1.34],0.8916369570400274
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,24151,57,0.89 [0.58-1.38],0.6131495929485179
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,23522,85,1.48 [1.09-2.02],0.0129315461761226
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,17411,104,1.19 [0.87-1.62],0.2691064166561961
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Functional dyspepsia,18712,588,1.06 [0.93-1.21],0.3504761632228762
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Gastric ulcer,18433,309,1.00 [0.84-1.19],0.9785653804982208
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,20578,2454,0.99 [0.93-1.06],0.8060310003695388
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,18548,424,0.97 [0.84-1.13],0.7192322946403722
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,18953,7415,0.97 [0.93-1.00],0.0751278283776964
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,GI-bleeding,23730,975,1.04 [0.94-1.14],0.4819920398545211
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,23364,61,0.59 [0.40-0.86],0.0063926094524918
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,18164,1116,0.98 [0.89-1.08],0.6802293743400722
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",23471,34,1.13 [0.68-1.89],0.6381303981654687
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Hernia,23178,2538,0.97 [0.91-1.03],0.3053502106442087
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Impacted teeth,24159,52,0.97 [0.61-1.52],0.8815154281693532
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Impaction of intestines,17366,59,1.00 [0.67-1.50],0.9883831429313946
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Inguinal hernia,20794,154,0.91 [0.70-1.17],0.4518993605190491
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,17393,86,0.71 [0.51-1.00],0.0482391494970132
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Intestinal malabsorption,22910,155,0.82 [0.63-1.06],0.1226572494957202
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,18020,713,0.88 [0.78-1.00],0.0433044007582404
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,24225,306,1.02 [0.86-1.22],0.801804707992001
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,23185,723,0.93 [0.82-1.04],0.1966244534872943
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,23427,965,0.96 [0.87-1.06],0.4290807982697283
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Oesophageal obstruction,18258,134,1.12 [0.86-1.46],0.418921261141742
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Oesophagitis,18634,510,1.06 [0.93-1.22],0.3893231409055996
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,24194,142,0.78 [0.60-1.01],0.0610577177140554
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,20694,54,0.67 [0.44-1.03],0.0703935183255295
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,18415,1108,0.96 [0.87-1.06],0.4301366125446867
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,22332,263,0.94 [0.78-1.13],0.504910660995785
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,22236,167,0.84 [0.66-1.07],0.1469406475464924
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Other diseases of intestine,18701,1394,1.02 [0.94-1.11],0.5972134501267659
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Other diseases of intestines,22319,5012,0.96 [0.91-1.00],0.0462508798263737
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,23278,205,0.78 [0.63-0.97],0.0269475792305083
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Other diseases of liver,24028,591,1.01 [0.89-1.15],0.8496356681345911
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,18653,529,0.93 [0.81-1.07],0.3282484243235338
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Other diseases of pancreas,22206,137,0.93 [0.72-1.22],0.6156464596214822
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,24068,417,0.84 [0.72-0.98],0.028780441139781
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,19075,951,1.02 [0.92-1.13],0.6880504596348892
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,23746,991,1.03 [0.94-1.14],0.501278253381827
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,23459,156,1.02 [0.80-1.32],0.8506544806523284
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,18853,1546,0.89 [0.82-0.97],0.004823157238336
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),19973,1849,0.99 [0.92-1.06],0.7108565610720615
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,23530,93,1.66 [1.24-2.21],0.0005547766007839
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,23315,853,0.92 [0.82-1.02],0.1197762622532403
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",17601,294,0.93 [0.77-1.11],0.4236678067522755
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,24142,66,0.96 [0.64-1.45],0.8612288774379515
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,17743,436,0.87 [0.75-1.01],0.0640021929412754
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",22877,122,1.03 [0.78-1.36],0.8375040129930974
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Recurring oral aphthae,24228,65,1.36 [0.94-1.96],0.1066171721887785
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,23305,118,1.16 [0.87-1.54],0.3091005153261912
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Toxic colitis,22517,55,0.92 [0.60-1.40],0.6861890941156553
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,18335,211,1.15 [0.94-1.42],0.1787181934167026
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Ulcerative colitis,22613,151,0.87 [0.67-1.13],0.2843779235713408
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",22590,128,0.92 [0.69-1.22],0.5577745159604417
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Umbilical hernia,20794,154,0.90 [0.70-1.16],0.4295007298517628
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,17476,169,0.90 [0.71-1.15],0.41147794983301
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Ventral hernia,20864,224,1.04 [0.85-1.28],0.7115488699694379
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XI Diseases of the digestive system,Volvulus,17381,74,0.82 [0.56-1.18],0.2806329108261457
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,24161,221,0.92 [0.75-1.14],0.4607033445626829
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,23950,76,0.94 [0.66-1.35],0.7404469796192829
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,22412,196,1.11 [0.89-1.39],0.3621907906811072
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,23756,554,0.83 [0.73-0.95],0.0067580948483772
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",23336,134,1.09 [0.84-1.43],0.5081928218649396
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,22501,285,0.81 [0.67-0.97],0.0225340796511338
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,23955,249,1.11 [0.91-1.35],0.2964597870195111
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,24136,430,1.02 [0.88-1.18],0.8071695638377089
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,23752,46,1.10 [0.69-1.74],0.6948513597924396
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,22819,2804,0.98 [0.92-1.04],0.5343797783752975
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,23838,413,0.98 [0.84-1.14],0.7773150676592829
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,23709,284,0.98 [0.82-1.19],0.862865617130768
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,23950,748,0.93 [0.83-1.04],0.1811079523720421
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",24217,68,0.95 [0.65-1.40],0.8144330881026667
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,22304,88,0.85 [0.61-1.18],0.3265827601783163
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,23464,39,0.69 [0.42-1.13],0.1385127707795007
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,23941,235,1.10 [0.90-1.35],0.3550828757301455
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,22591,375,1.15 [0.98-1.35],0.0937170096083827
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,22264,48,1.36 [0.88-2.10],0.1627204876916763
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,24144,69,0.81 [0.56-1.17],0.2620198513530947
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,23336,134,0.98 [0.75-1.27],0.8558934533224514
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,24025,151,1.16 [0.90-1.48],0.2461274446719905
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,23750,44,0.89 [0.56-1.41],0.6172505435364322
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,22274,58,0.96 [0.63-1.45],0.8328105864649352
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,23635,1419,1.01 [0.93-1.10],0.800663867236479
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",22622,406,1.09 [0.94-1.28],0.2604418563497757
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,22268,52,1.23 [0.80-1.88],0.3399916532374979
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,24159,285,1.09 [0.91-1.31],0.3706747440748543
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,23781,75,0.73 [0.51-1.04],0.0820445005115218
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,24094,220,1.10 [0.89-1.36],0.360844954032644
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,24188,248,0.97 [0.80-1.19],0.7860008657759374
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,22358,142,1.10 [0.84-1.44],0.4744961244936524
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,22450,234,1.18 [0.97-1.45],0.1030236073090794
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,24176,236,0.95 [0.77-1.17],0.622829560923464
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",22394,178,0.66 [0.52-0.82],0.0002255604237525
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,24203,128,0.78 [0.59-1.02],0.0739616909389843
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,20688,119,0.62 [0.46-0.83],0.00123902590032
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,22014,5643,0.95 [0.91-0.99],0.0088310693621999
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,20780,4409,0.93 [0.89-0.98],0.0054954587911085
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,20635,66,0.65 [0.44-0.97],0.0326462670865779
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,20789,139,0.98 [0.75-1.27],0.8548866493678757
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,20835,185,0.84 [0.67-1.06],0.1505342086075934
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,23984,102,1.24 [0.92-1.68],0.1591448658884338
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",20754,104,0.78 [0.57-1.06],0.1107167150257288
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,17592,1221,0.88 [0.80-0.97],0.0068133801576337
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",24095,201,0.86 [0.69-1.07],0.1816887509399611
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,21169,519,0.83 [0.72-0.95],0.0084744350817004
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,20368,7194,0.96 [0.93-1.00],0.0576247030414342
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,21702,124,0.99 [0.74-1.31],0.9191664066991844
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,20690,121,0.91 [0.68-1.21],0.5048948690921398
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,21179,610,0.94 [0.83-1.07],0.3410089015211567
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,23327,2677,0.97 [0.92-1.03],0.3804041135887831
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,20727,158,0.86 [0.67-1.11],0.2572391849608936
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,20913,344,0.85 [0.72-1.01],0.0670979010370752
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,20724,155,0.92 [0.71-1.20],0.5500795870056305
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,23358,93,0.92 [0.66-1.27],0.6033482244306527
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,18029,1658,0.86 [0.80-0.93],0.0002233236818796
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,16555,184,1.17 [0.94-1.47],0.1601991597623757
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",24223,181,1.23 [0.98-1.53],0.0680858877290552
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,16466,95,0.92 [0.66-1.28],0.6219024360746412
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),16883,512,0.98 [0.85-1.13],0.8012408838091153
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,20868,299,0.82 [0.68-0.98],0.0302292434521248
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,16927,556,0.93 [0.81-1.06],0.2777808703355626
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,20709,59,0.56 [0.38-0.83],0.0039495646412795
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,21284,634,0.97 [0.86-1.10],0.6546441151672489
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,20946,296,0.98 [0.82-1.18],0.8628125212229203
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,16888,517,0.91 [0.79-1.05],0.1844712723150941
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,20643,74,0.84 [0.59-1.22],0.368868912940364
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",20631,62,0.80 [0.53-1.20],0.2742364117124478
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,21624,46,0.81 [0.51-1.28],0.3646178032040634
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,23819,2241,0.95 [0.89-1.02],0.1401034969325394
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,23191,1613,0.93 [0.86-1.00],0.0546518103251313
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",24051,526,0.99 [0.87-1.13],0.8936258917163271
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,19063,2692,0.93 [0.87-0.99],0.0186497238989033
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,16432,61,0.64 [0.42-0.97],0.0343872602767662
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,20661,92,0.95 [0.69-1.32],0.7764281697642631
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,16413,42,0.70 [0.43-1.14],0.1557276946779029
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),16554,183,0.91 [0.72-1.15],0.4335033762779517
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,21841,263,1.09 [0.90-1.33],0.3554061201727048
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,22084,506,0.97 [0.85-1.12],0.7012312770167135
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,24212,97,0.87 [0.64-1.20],0.4089400230680587
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",22454,1804,0.93 [0.87-1.01],0.0687107363575853
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,20683,114,0.79 [0.58-1.06],0.1160734315597234
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),16579,208,0.76 [0.61-0.95],0.0157830356854058
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,21366,716,0.96 [0.85-1.08],0.4566764292061043
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,18624,2253,0.90 [0.84-0.97],0.0029240578120257
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,23380,115,1.05 [0.79-1.40],0.7361781786854489
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,24218,75,0.93 [0.65-1.34],0.7056190371347091
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,20637,68,1.05 [0.72-1.52],0.8064916602757427
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",21875,1306,0.88 [0.81-0.96],0.0050751330977576
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,20642,73,0.89 [0.62-1.28],0.5255669717809022
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,18139,1768,0.89 [0.83-0.96],0.00273429883788
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,21708,130,1.06 [0.81-1.40],0.6682039851433075
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,20619,50,1.06 [0.68-1.67],0.7893544043906142
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,20827,177,0.88 [0.70-1.12],0.3084969823107804
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,21080,511,0.93 [0.81-1.07],0.3002423122318458
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,23717,452,0.99 [0.85-1.14],0.8677530189964983
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,21219,569,0.81 [0.71-0.92],0.0012579664489331
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,24063,509,1.00 [0.87-1.14],0.9594893780064202
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,24211,59,1.14 [0.77-1.70],0.507046019963183
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,20766,197,0.87 [0.69-1.09],0.2350948566983101
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,18583,809,0.90 [0.81-1.01],0.0762443335162314
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,21160,591,0.84 [0.74-0.96],0.0085461749942832
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],20679,110,0.89 [0.65-1.21],0.4455149450941991
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",16446,75,0.69 [0.48-0.99],0.0436908322722897
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,18717,2346,0.91 [0.85-0.97],0.0051160278422318
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,17111,740,0.85 [0.76-0.96],0.00790384162652
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,23525,260,0.96 [0.79-1.17],0.7040027931273891
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",24186,71,0.95 [0.66-1.38],0.7892909855009377
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",22214,49,0.77 [0.50-1.18],0.2259068501604273
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,16447,76,0.88 [0.61-1.27],0.4988137333051158
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,20750,100,1.02 [0.74-1.39],0.9055974296730188
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,16901,530,0.96 [0.84-1.11],0.602851645579417
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,20855,286,1.01 [0.84-1.22],0.8920807751551024
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,20904,254,1.04 [0.85-1.26],0.7163560637685754
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,20896,246,0.88 [0.72-1.08],0.2194561783474955
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,18691,78,0.86 [0.60-1.24],0.4325263832624354
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",24217,65,1.21 [0.83-1.76],0.3254283819236765
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,21134,565,0.82 [0.72-0.94],0.0034761774988772
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],23412,147,0.95 [0.73-1.23],0.6757234038463373
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,23070,2501,0.92 [0.87-0.98],0.0150518686621144
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",20709,140,1.06 [0.82-1.38],0.6596102523931583
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,21141,491,1.00 [0.87-1.15],0.9512933755623786
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,22674,230,0.89 [0.73-1.10],0.2827377512669592
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,20871,221,0.82 [0.66-1.01],0.0671679903588274
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,22183,1533,0.97 [0.90-1.06],0.5254925134758363
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,21692,1042,0.99 [0.90-1.09],0.9066616327326078
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],20626,57,0.98 [0.65-1.48],0.9340196255590694
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,23482,217,0.89 [0.72-1.10],0.2760964937720556
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,20746,177,1.11 [0.87-1.40],0.4025781560115821
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,20687,118,1.00 [0.75-1.34],0.98892714743828
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),16417,46,0.66 [0.42-1.05],0.0789566264037135
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Acute renal failure,23379,1049,1.06 [0.96-1.16],0.2277080123733327
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),18118,87,0.94 [0.66-1.32],0.7114053220679302
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,23622,100,1.13 [0.82-1.55],0.454509996534578
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,24094,201,0.90 [0.72-1.12],0.3318976686264347
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,23915,22,1.05 [0.55-2.04],0.8739812550612037
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,23505,1175,1.31 [1.20-1.43],1.1888785597952068e-09
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,24092,60,1.39 [0.96-2.02],0.0853493416248825
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,24061,207,0.98 [0.79-1.21],0.8387616498625523
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Cystitis,21409,221,0.85 [0.69-1.05],0.1342624708131218
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Dialysis,22375,45,2.48 [1.75-3.51],2.978820469693167e-07
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Disorders of breast,23811,289,1.15 [0.96-1.38],0.1381757976134683
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Endometriosis,18182,151,0.96 [0.73-1.24],0.7358772986463769
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",18376,345,1.09 [0.91-1.30],0.3731912557594121
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,18912,881,0.90 [0.81-1.00],0.0444684511989973
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,18825,4369,0.97 [0.92-1.01],0.1753007148003075
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,24085,53,1.12 [0.73-1.70],0.6103800578080406
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,22206,182,0.98 [0.77-1.24],0.8489390172944915
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,23747,350,0.91 [0.77-1.08],0.2976326069871662
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Irregular menses,23824,110,1.09 [0.80-1.49],0.578404440591719
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Menorrhagia,18301,270,1.03 [0.84-1.27],0.7651706257504381
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,21256,68,0.95 [0.65-1.40],0.8076525387458475
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,20185,2154,0.93 [0.87-1.00],0.0468721677454327
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,18153,122,0.85 [0.63-1.14],0.2730445310536811
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",24227,57,1.25 [0.84-1.86],0.2707528684276616
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",24227,72,0.79 [0.55-1.14],0.2102053788360961
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,23134,1946,0.91 [0.85-0.98],0.014114579976889
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,21606,418,0.83 [0.71-0.96],0.0157178914317674
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,23624,102,1.09 [0.80-1.49],0.5783803604306534
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,24184,330,1.12 [0.95-1.33],0.1688315512111442
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,24183,79,0.89 [0.62-1.27],0.511128236138028
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,22856,1668,0.91 [0.85-0.99],0.0209356929892158
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,23577,180,0.96 [0.76-1.22],0.7497620293372386
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,18168,137,1.01 [0.77-1.32],0.9645056734263262
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",18377,346,0.90 [0.76-1.07],0.2469128395081904
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,18134,103,0.86 [0.63-1.18],0.3649078672949589
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,18214,183,0.85 [0.68-1.08],0.1809440659689451
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,22253,229,1.06 [0.86-1.31],0.5585719978818836
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,23963,109,1.30 [0.98-1.73],0.0665841295662465
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,18294,263,0.88 [0.72-1.07],0.1942503041081217
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,18124,93,1.11 [0.79-1.54],0.5455615306405128
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,18599,568,1.01 [0.88-1.15],0.9078699168275348
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,18172,141,1.15 [0.89-1.49],0.2922034244271561
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,18554,523,1.03 [0.90-1.18],0.6671687472169794
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,24066,34,1.52 [0.93-2.47],0.0913162938057043
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,24079,2055,1.12 [1.05-1.20],0.0007215449708632
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",22171,147,1.11 [0.86-1.44],0.4312306471372809
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,22414,84,0.85 [0.61-1.21],0.3712163191468708
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,23925,32,0.91 [0.52-1.59],0.7417749145081192
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Urethral stricture,21317,129,0.94 [0.71-1.24],0.6494447201750067
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Urolithiasis,24125,232,0.91 [0.74-1.11],0.3444864604989524
+PNLIP,Pancreatic triacylglycerol lipase,Chapter XIV Diseases of the genitourinary system,Uterine polyps,18154,123,1.00 [0.75-1.33],0.9933933870144552

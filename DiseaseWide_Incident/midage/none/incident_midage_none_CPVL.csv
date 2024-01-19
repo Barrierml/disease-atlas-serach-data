@@ -1,0 +1,660 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",27817,107,1.50 [0.97-2.31],0.0695825103194237
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",28404,149,1.05 [0.74-1.51],0.774143377217506
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",28146,1020,1.06 [0.93-1.22],0.3831626886746438
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Candidiasis,28439,312,1.17 [0.91-1.50],0.2272584878431747
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,27633,2795,1.14 [1.05-1.24],0.0023772288493357
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),27886,2110,1.20 [1.09-1.32],0.0002614153133819
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,28219,1005,1.15 [1.00-1.32],0.0479372769391089
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,28348,45,1.36 [0.70-2.64],0.3689895308302676
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,27150,655,1.43 [1.20-1.70],6.564076906051203e-05
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,26245,629,1.31 [1.09-1.56],0.0033621838525099
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,26496,175,1.16 [0.83-1.62],0.394952118629134
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,21187,1228,1.24 [1.09-1.40],0.0010854070194473
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,26250,286,1.27 [0.97-1.65],0.0801684360987144
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,28387,1173,1.14 [1.00-1.29],0.049834962736221
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Mycoses,28500,373,1.09 [0.87-1.37],0.4666998210320776
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,27746,620,1.21 [1.01-1.45],0.0367328246868669
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,28432,722,1.37 [1.16-1.62],0.000192496058806
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,27365,151,1.07 [0.75-1.54],0.6959149323957927
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,28540,33,1.54 [0.70-3.37],0.2816464347129945
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Other septicaemia,28343,633,1.42 [1.19-1.69],0.000115912265966
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,28377,74,1.37 [0.81-2.31],0.2431575742669384
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Other viral diseases,28442,172,1.32 [0.94-1.86],0.106489395075068
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",28427,157,1.41 [0.99-2.02],0.0575021470226123
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,27467,341,1.09 [0.86-1.39],0.4582234795101307
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,27372,246,0.88 [0.67-1.15],0.3466344444894665
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,27297,83,1.07 [0.66-1.73],0.7919855308580468
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,28511,54,2.05 [1.09-3.84],0.0254840148196191
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,28477,131,0.74 [0.52-1.06],0.1002337283750419
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Viral warts,28391,45,0.83 [0.44-1.54],0.5483694463032454
+CPVL,Probable serine carboxypeptidase CPVL,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],28396,50,0.79 [0.44-1.41],0.420915466185721
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Benign lipomatous neoplasm,28243,323,1.14 [0.89-1.45],0.3090890931605899
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,28447,76,1.00 [0.61-1.65],0.988933579045366
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,28424,82,0.83 [0.52-1.32],0.4239972317895071
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,12721,45,1.54 [0.79-2.98],0.2039987101784487
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",28343,1210,1.04 [0.92-1.18],0.5200171410151684
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Benign neoplasm of meninges,28528,49,0.65 [0.38-1.13],0.1290484330409092
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,28504,52,1.01 [0.55-1.85],0.9668573974900592
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,28518,95,1.19 [0.75-1.88],0.4530428169515743
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Benign neoplasm of ovary,15756,101,0.82 [0.54-1.24],0.3496039606492263
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Benign neoplasm: Ascending colon,28534,282,1.11 [0.86-1.45],0.4136650346486207
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Benign neoplasm: Caecum,28530,209,0.94 [0.70-1.26],0.6663327838796345
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",28470,61,1.31 [0.74-2.32],0.3512085778680641
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Benign neoplasm: Descending colon,28532,178,1.01 [0.73-1.40],0.9481000483806444
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Benign neoplasm: Rectum,28495,298,1.14 [0.88-1.46],0.3268607684964246
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,28465,555,1.09 [0.90-1.31],0.3788592302380533
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Benign neoplasm: Transverse colon,28533,320,1.10 [0.86-1.41],0.4267538527787081
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Carcinoma in situ of breast,13552,87,0.82 [0.53-1.28],0.3929114663054474
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",13601,100,0.95 [0.62-1.46],0.8301412536160844
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",24662,30,1.70 [0.75-3.87],0.2040931960166847
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",24672,40,2.29 [1.12-4.69],0.0232161052322469
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",28497,114,1.19 [0.79-1.80],0.4065089511503035
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Haemangioma, any site",28497,112,1.12 [0.74-1.70],0.5810382359608588
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Leiomyoma of uterus,15102,428,1.10 [0.89-1.36],0.3880109478906463
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Lung cancer and mesothelioma,21208,179,1.16 [0.83-1.62],0.3749055817691338
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Lymphoid leukaemia,24661,29,2.12 [0.92-4.91],0.0775574239179074
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",24783,151,0.94 [0.67-1.33],0.7340412958371725
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",24718,86,1.46 [0.91-2.37],0.1192935235071116
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",13656,85,1.01 [0.62-1.62],0.982776763905267
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",24686,54,3.89 [2.14-7.05],8.155203229011782e-06
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",24702,70,0.95 [0.57-1.59],0.845283962733228
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",24703,71,1.35 [0.80-2.29],0.2567678165763663
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",13627,56,1.26 [0.70-2.29],0.4398068642387671
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",24690,58,0.72 [0.42-1.24],0.2368197614254
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",11487,426,0.95 [0.77-1.17],0.6563426446940838
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",24722,90,0.89 [0.57-1.39],0.6201631270752546
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",24688,56,1.82 [1.00-3.31],0.0504108684947617
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,24697,65,1.32 [0.76-2.28],0.3193496180951998
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Melanocytic naevi,28294,221,1.24 [0.92-1.66],0.1542439750787247
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Melanocytic naevi of trunk,28489,100,1.07 [0.69-1.65],0.76272843783875
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Melanoma in situ,24646,51,0.61 [0.36-1.05],0.0726367430837417
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",24692,60,1.66 [0.93-2.98],0.0868355017101197
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",24753,121,1.38 [0.92-2.06],0.1227712499958463
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",24754,122,0.96 [0.65-1.43],0.8472130879103461
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",24702,70,1.17 [0.69-1.98],0.5521582242171139
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,Other benign neoplasms of skin,28352,144,0.89 [0.63-1.27],0.5282208211660595
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",25296,664,0.99 [0.84-1.17],0.929155897276984
+CPVL,Probable serine carboxypeptidase CPVL,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",25328,696,1.01 [0.86-1.19],0.9138020007811436
+CPVL,Probable serine carboxypeptidase CPVL,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,28258,293,1.72 [1.32-2.24],5.2958699209613e-05
+CPVL,Probable serine carboxypeptidase CPVL,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,27075,59,1.42 [0.80-2.54],0.2320740448377612
+CPVL,Probable serine carboxypeptidase CPVL,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,28037,72,1.97 [1.15-3.36],0.0135438402317721
+CPVL,Probable serine carboxypeptidase CPVL,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,27715,2300,1.29 [1.18-1.42],8.097000178614845e-08
+CPVL,Probable serine carboxypeptidase CPVL,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,27314,25,1.44 [0.59-3.49],0.4223438688393235
+CPVL,Probable serine carboxypeptidase CPVL,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,28178,37,2.25 [1.06-4.78],0.0342114863252037
+CPVL,Probable serine carboxypeptidase CPVL,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,28081,1065,1.26 [1.10-1.45],0.0008317098424384
+CPVL,Probable serine carboxypeptidase CPVL,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,28081,1065,1.26 [1.10-1.45],0.0008317098424384
+CPVL,Probable serine carboxypeptidase CPVL,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,27076,60,1.12 [0.63-1.97],0.6996492984362173
+CPVL,Probable serine carboxypeptidase CPVL,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,28246,957,1.35 [1.17-1.57],4.0419545040726026e-05
+CPVL,Probable serine carboxypeptidase CPVL,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,28254,113,1.19 [0.78-1.80],0.4161343026689286
+CPVL,Probable serine carboxypeptidase CPVL,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,28020,55,1.35 [0.74-2.47],0.3283387288490364
+CPVL,Probable serine carboxypeptidase CPVL,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,28008,43,1.31 [0.66-2.60],0.4349665576391528
+CPVL,Probable serine carboxypeptidase CPVL,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,28340,199,2.34 [1.70-3.23],1.904142556340256e-07
+CPVL,Probable serine carboxypeptidase CPVL,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,28460,71,1.16 [0.69-1.97],0.5764209388895657
+CPVL,Probable serine carboxypeptidase CPVL,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",28307,166,2.34 [1.65-3.32],1.9020353613942384e-06
+CPVL,Probable serine carboxypeptidase CPVL,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,27365,76,1.16 [0.70-1.92],0.5722620412213153
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,24529,219,1.57 [1.16-2.13],0.0037258568541896
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,26559,129,1.13 [0.77-1.66],0.5298852929921214
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,26572,142,1.41 [0.98-2.04],0.0672920519090813
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,24348,38,2.42 [1.16-5.02],0.0180713454389658
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,26502,73,1.22 [0.72-2.06],0.4607712562957905
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,26156,153,0.82 [0.58-1.15],0.2557181402086793
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",28390,177,1.17 [0.84-1.63],0.3574982900366422
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,28261,48,0.61 [0.35-1.07],0.0842660227684506
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,28251,38,0.65 [0.34-1.26],0.2058833977065268
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,28116,1687,1.08 [0.97-1.20],0.1748532645135246
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,25567,1636,1.10 [0.99-1.23],0.0857464013876421
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",24352,42,1.50 [0.75-3.00],0.2530259222693211
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",26802,59,1.64 [0.90-2.97],0.1038349128302181
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,24504,194,1.32 [0.96-1.82],0.0896512784840143
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,24377,67,1.40 [0.81-2.41],0.2253029517072224
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,26769,2459,1.11 [1.02-1.21],0.021167959149496
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,24436,126,1.05 [0.71-1.56],0.7968658737581368
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,24713,403,1.21 [0.97-1.51],0.0871778385125501
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,28436,282,0.99 [0.77-1.29],0.9587886224735876
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,28268,114,0.80 [0.54-1.19],0.2691175900789448
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,24410,100,1.31 [0.84-2.04],0.2378402781410108
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",24350,40,3.06 [1.51-6.21],0.0019853065739542
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,28095,1352,1.17 [1.04-1.32],0.0107817598677161
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,24441,131,1.35 [0.92-2.00],0.1282183532562097
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,24483,173,1.35 [0.96-1.89],0.084306772048224
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",24709,399,1.49 [1.19-1.87],0.0004741675921221
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,24370,60,1.44 [0.81-2.57],0.2188256440929289
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,28261,107,0.77 [0.52-1.16],0.2109251628849453
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,24618,308,1.10 [0.85-1.41],0.4788694321664478
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,24613,303,1.33 [1.03-1.72],0.0299371590345025
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,26064,61,1.74 [0.97-3.10],0.0628679933938426
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,27831,3521,1.14 [1.06-1.23],0.0005230744524343
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,26781,38,0.90 [0.45-1.82],0.7759749201530218
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,26805,62,1.12 [0.64-1.97],0.689748763033874
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,28352,1981,1.05 [0.95-1.16],0.3082467387746987
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",28356,1978,1.05 [0.95-1.16],0.3084592381733597
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,26782,39,0.87 [0.44-1.75],0.7060507337244719
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,28208,1276,0.97 [0.86-1.09],0.5783999257893897
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",25233,923,1.27 [1.10-1.48],0.0012363093632633
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,28530,141,1.78 [1.21-2.60],0.0031763444919998
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,28248,35,1.20 [0.57-2.55],0.6333873111450228
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,27022,90,0.77 [0.50-1.18],0.2308633660443932
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,27051,119,1.14 [0.75-1.71],0.5414116837106111
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",24445,135,1.12 [0.77-1.64],0.5514033567874224
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,26689,125,1.70 [1.13-2.56],0.0103460350765987
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,1763,72,1.29 [0.77-2.16],0.3244568535453236
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,1872,196,1.31 [0.95-1.80],0.1013056116469717
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,26606,42,1.76 [0.90-3.43],0.0959887682607817
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,1729,38,2.00 [1.01-3.97],0.0472928118128975
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,28107,1543,1.38 [1.23-1.55],4.77874642619533e-08
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,28286,73,1.51 [0.89-2.56],0.1227166176765871
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,26284,281,1.11 [0.85-1.45],0.4555129606144994
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,24736,426,1.33 [1.07-1.65],0.0098121263235104
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",28450,182,0.88 [0.64-1.20],0.4238250596777441
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),27788,58,1.49 [0.83-2.67],0.1812215241441437
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Angina pectoris,27224,812,1.29 [1.11-1.51],0.0011992089876348
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Aortic aneurysm,27833,103,1.13 [0.73-1.73],0.5882733195836598
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,27761,31,1.55 [0.69-3.51],0.2909430564691995
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",27838,108,1.21 [0.79-1.85],0.3908332249610921
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,20364,969,1.04 [0.91-1.20],0.5635766775936248
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,AV-block,25980,187,0.99 [0.72-1.35],0.9384107611618544
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",28506,270,1.09 [0.83-1.42],0.536053555584598
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Cardiac arrest,19513,118,1.60 [1.06-2.41],0.0252601581786392
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Cardiomyopathy,25931,138,0.92 [0.64-1.32],0.6398303665201708
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",25875,82,1.41 [0.86-2.30],0.1720437554616143
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,28542,20,1.26 [0.47-3.41],0.6427809536223956
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Conduction disorders,26334,541,1.02 [0.85-1.23],0.7989395721845011
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,27801,1400,1.25 [1.11-1.40],0.000264795959942
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,26547,6223,1.09 [1.03-1.15],0.0027764041622228
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,DVT of lower extremities,27343,191,0.90 [0.66-1.22],0.4888771921214121
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Endocarditis,25839,46,1.15 [0.60-2.20],0.673420965247455
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,"Heart failure, strict",28421,528,1.17 [0.97-1.42],0.1071287111613021
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Hypertension,27140,5068,1.07 [1.00-1.14],0.036209157991716
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,"Hypertension, essential",27157,5085,1.06 [1.00-1.13],0.0591373289568933
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,"Hypertension, portal",28367,60,4.45 [2.56-7.73],1.1203385463888305e-07
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",22162,90,0.99 [0.63-1.57],0.976620338720582
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,22138,66,0.58 [0.36-0.93],0.0244818985529333
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Hypotension,28434,714,1.13 [0.96-1.33],0.1436048423481262
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,27996,65,1.34 [0.78-2.33],0.2924461017639053
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",27966,1554,1.22 [1.09-1.36],0.0006438266831937
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",28306,315,1.14 [0.89-1.47],0.286398832862678
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Left bundle-branch block,25989,196,0.95 [0.70-1.30],0.7590489847351771
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,28277,620,1.14 [0.95-1.35],0.1569696872906284
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",26918,506,1.07 [0.88-1.30],0.4705454730644791
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",28483,123,1.35 [0.90-2.01],0.1423335697683061
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",28525,211,1.08 [0.80-1.45],0.6327968623217515
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Oesophageal varices,27194,42,4.55 [2.44-8.49],1.9474386488652427e-06
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Other aneurysm,27781,51,0.67 [0.39-1.17],0.1601242602740736
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Other arrhythmias,26043,250,1.01 [0.77-1.32],0.9602015644692096
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,27795,65,1.22 [0.70-2.12],0.485876019140556
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,27876,146,1.28 [0.88-1.85],0.192521946254051
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,25924,131,1.25 [0.85-1.85],0.251400252733869
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Other disorders of veins,27228,76,0.88 [0.54-1.43],0.6095240324012494
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,27202,50,1.84 [0.97-3.49],0.0606926989673689
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,27737,38,1.92 [0.93-3.98],0.0781532757897841
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,27246,94,1.10 [0.70-1.73],0.6898136489536902
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,26396,603,1.09 [0.91-1.30],0.3669359542558964
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,27768,48,2.49 [1.30-4.75],0.0058044674312125
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,28081,351,1.32 [1.04-1.67],0.0238006790968328
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,28081,161,1.38 [0.97-1.96],0.0742631585208501
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",27942,243,1.38 [1.04-1.84],0.0263905992279516
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,19652,257,1.35 [1.02-1.79],0.0335160457046168
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Peripheral artery disease,27916,213,1.30 [0.95-1.76],0.0978417981824524
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),27416,264,0.80 [0.62-1.04],0.0907439500345651
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Pulmonary embolism,28270,350,0.96 [0.77-1.21],0.7557953061489308
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,28499,341,1.09 [0.86-1.39],0.4601414780837529
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Right bundle-branch block,25973,180,1.04 [0.75-1.44],0.8114281083354096
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Secondary right heart disease,28077,157,1.36 [0.95-1.94],0.092088593877837
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,27819,120,1.20 [0.80-1.80],0.3701749563127416
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",28299,368,1.17 [0.93-1.47],0.1761712617785997
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",28272,405,1.07 [0.86-1.33],0.5302172505535852
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,27972,56,0.60 [0.40-0.89],0.0112978004034175
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,27783,54,1.20 [0.66-2.18],0.542720546526858
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Transient ischemic attack,28137,146,1.41 [0.98-2.04],0.0653656739990444
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,27843,186,1.29 [0.93-1.78],0.130955394504584
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Varicose veins,27478,326,0.92 [0.73-1.17],0.4887108007215059
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,27739,49,1.19 [0.63-2.24],0.5855943354908586
+CPVL,Probable serine carboxypeptidase CPVL,Chapter IX Diseases of the circulatory system,Venous thromboembolism,28363,551,0.90 [0.75-1.08],0.2762681792154856
+CPVL,Probable serine carboxypeptidase CPVL,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",28378,386,1.13 [0.90-1.41],0.2936697068913667
+CPVL,Probable serine carboxypeptidase CPVL,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",25456,1466,1.02 [0.91-1.14],0.7291623500365837
+CPVL,Probable serine carboxypeptidase CPVL,Chapter V Mental and behavioural disorders,Any mental disorder,27767,3777,1.09 [1.01-1.17],0.0225883098430714
+CPVL,Probable serine carboxypeptidase CPVL,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",28312,457,1.10 [0.90-1.34],0.3722385970387903
+CPVL,Probable serine carboxypeptidase CPVL,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",25708,1718,1.11 [0.99-1.23],0.0634194917945669
+CPVL,Probable serine carboxypeptidase CPVL,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",24085,95,1.07 [0.68-1.68],0.7648156019477588
+CPVL,Probable serine carboxypeptidase CPVL,Chapter V Mental and behavioural disorders,Smoking dependency,27985,1560,1.23 [1.10-1.38],0.0002559328860477
+CPVL,Probable serine carboxypeptidase CPVL,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",25802,1812,1.21 [1.09-1.34],0.0004242659889828
+CPVL,Probable serine carboxypeptidase CPVL,Chapter V Mental and behavioural disorders,Vascular dementia,28423,22,1.72 [0.68-4.35],0.2524923631244773
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Alzheimer disease,28542,67,0.68 [0.42-1.10],0.1150044589291826
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Bell's palsy,26834,77,1.45 [0.87-2.42],0.1540639643026163
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,27245,488,0.98 [0.81-1.20],0.8648696625012049
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Cerebral cysts,28176,212,1.36 [1.00-1.85],0.0474848432726519
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,28457,235,1.07 [0.80-1.42],0.6505907644779143
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,28396,24,0.76 [0.33-1.76],0.5196645949604508
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,28527,53,1.09 [0.60-1.97],0.7870182473536058
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",28025,61,1.34 [0.76-2.36],0.3183610489733571
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Epilepsy,26930,268,1.29 [0.99-1.70],0.0635520429263564
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,28044,1382,1.07 [0.95-1.20],0.2587400530282946
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,28512,277,1.13 [0.87-1.47],0.371126004020616
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Falls/tendency to fall,28005,1697,1.12 [1.00-1.24],0.0425808585899355
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Generalized epilepsy,28157,54,1.19 [0.65-2.16],0.5795044326197895
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Hemiplegia,28391,169,1.09 [0.78-1.53],0.6088171361201691
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Hydrocephalus,28011,47,1.11 [0.59-2.10],0.7499535804221011
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,28518,64,0.91 [0.53-1.56],0.7404529405336144
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,26837,80,1.20 [0.74-1.97],0.4626143195376044
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,26845,88,1.04 [0.66-1.66],0.8556642942488775
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Memory loss,28387,77,0.82 [0.51-1.31],0.3959918291764874
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Migraine,27096,434,1.02 [0.83-1.25],0.8714076428112629
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",28450,385,0.99 [0.79-1.23],0.9065515967134667
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Motor neuron disease,20798,98,1.34 [0.85-2.10],0.2049496595401483
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,28339,148,1.09 [0.76-1.56],0.631307672546848
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",27914,1157,1.04 [0.92-1.18],0.5324943333451879
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Neurological diseases,27069,3158,1.07 [0.99-1.16],0.0857531465072557
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,28448,76,1.21 [0.73-2.01],0.4537886646759661
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",27154,397,0.96 [0.77-1.19],0.6788645038857359
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",28469,240,1.47 [1.10-1.96],0.0091620596094977
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,23822,315,1.03 [0.81-1.32],0.8073227398476727
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,28026,62,0.79 [0.46-1.33],0.3704902536749777
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Other disorders of nervous system,28083,119,1.06 [0.71-1.58],0.7777645196226257
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,28327,92,1.26 [0.79-2.00],0.3306788885290632
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Other facial nerve disorders,26852,95,1.39 [0.88-2.20],0.1619657621806108
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Other headache syndromes,26723,61,1.15 [0.65-2.04],0.6232723874278869
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Other neurological diseases,28416,452,1.21 [0.98-1.49],0.0714354682592806
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Other sleep disorders,27260,598,0.96 [0.80-1.15],0.6576208846033591
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Parkinson's disease,28529,163,1.17 [0.83-1.65],0.3601274054339879
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,28030,66,1.00 [0.59-1.71],0.995917797720455
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Restless leg syndrome,28541,47,1.27 [0.67-2.43],0.4662690703250691
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Sleep apnoea,28289,520,0.94 [0.77-1.13],0.4985561839224507
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Small fibre neuropathy,28266,37,1.57 [0.76-3.27],0.2266509559081482
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,28526,125,1.23 [0.83-1.82],0.3043765755598976
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,26790,33,2.04 [0.93-4.50],0.0752172595674767
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,28542,68,0.69 [0.43-1.13],0.1418850486756027
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),28410,21,1.84 [0.71-4.76],0.2098903002591318
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,28049,43,1.16 [0.60-2.27],0.6588988533903783
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,28179,226,0.99 [0.74-1.32],0.9433024448878872
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,28450,199,1.96 [1.42-2.70],3.851071123118148e-05
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,27771,38,1.30 [0.63-2.67],0.4777436543812253
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,27810,77,1.50 [0.90-2.50],0.1187850969723482
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",28449,32,1.35 [0.61-2.99],0.4600732388254271
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,28335,67,0.73 [0.44-1.22],0.2315958084151711
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",1736,45,2.29 [1.21-4.33],0.0107217552540937
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,2049,89,1.25 [0.79-1.98],0.3461595168119804
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,28085,79,1.37 [0.83-2.26],0.2209681102898334
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,28410,639,1.21 [1.01-1.44],0.0341814299566943
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",28228,495,1.04 [0.85-1.26],0.7125796426422577
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,27873,140,1.06 [0.73-1.54],0.7482721641917653
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",28446,493,0.93 [0.77-1.13],0.4656992903039715
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,28529,54,1.72 [0.93-3.18],0.0828527151696281
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,28371,418,0.89 [0.73-1.10],0.2920563858051372
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",28497,229,1.20 [0.90-1.61],0.2156184461473179
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,28476,133,1.34 [0.91-1.97],0.1451079415249222
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,27750,17,1.10 [0.38-3.13],0.8613468345305253
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,27763,30,0.92 [0.42-2.00],0.8319193425002999
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,27765,32,1.36 [0.61-3.01],0.4487262952968364
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,28491,397,0.95 [0.77-1.19],0.669581296722882
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,28198,104,1.09 [0.71-1.68],0.7029757300601963
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,27980,27,1.42 [0.60-3.36],0.4230858486320201
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,28345,77,1.84 [1.10-3.09],0.0201713804611136
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,28421,153,0.99 [0.70-1.40],0.9405872710929808
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,28119,166,0.89 [0.64-1.24],0.4948465718221971
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,28421,78,1.27 [0.77-2.10],0.3522613830387026
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,28355,261,1.03 [0.79-1.35],0.8218009579452522
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,28127,121,1.55 [1.03-2.34],0.0366937812315517
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,27806,1096,1.20 [1.05-1.37],0.0082627129150349
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,28394,126,0.89 [0.61-1.30],0.5301952845821327
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,28515,115,1.12 [0.74-1.69],0.5836667577832061
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,28007,274,0.97 [0.75-1.26],0.8313971838511754
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,28307,39,2.25 [1.09-4.66],0.029246937256588
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,28512,37,3.18 [1.53-6.62],0.0020122645958136
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,27774,41,1.37 [0.68-2.75],0.3770754219303286
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,27855,122,0.98 [0.67-1.45],0.9340327995105396
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,27843,72,1.49 [0.88-2.53],0.1410063806461808
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,28013,60,1.32 [0.75-2.34],0.3353325952459984
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",27822,51,1.12 [0.61-2.07],0.7179226701476911
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,28153,59,0.75 [0.44-1.29],0.2984972510906394
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",28189,95,0.90 [0.58-1.40],0.6505031278943798
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,27827,94,1.16 [0.74-1.84],0.5183513704431286
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,27897,126,0.94 [0.64-1.37],0.7436579431843461
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,27808,37,0.67 [0.35-1.31],0.2423790605909401
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,27573,863,1.09 [0.94-1.26],0.271128677119159
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,27783,50,0.63 [0.36-1.09],0.1010008797459044
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,28321,315,1.37 [1.06-1.76],0.0150710762620766
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,28045,39,1.83 [0.89-3.78],0.1026321380965628
+CPVL,Probable serine carboxypeptidase CPVL,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),28137,131,1.36 [0.92-2.00],0.1271022185903801
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,28342,62,0.79 [0.46-1.35],0.3840494446301556
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,28499,100,0.66 [0.46-0.94],0.0230574281926279
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,28416,141,0.92 [0.64-1.31],0.6351605337947352
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,28333,53,0.81 [0.46-1.43],0.4673096652926676
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,28335,55,1.19 [0.66-2.16],0.5591720471398622
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,28452,545,1.14 [0.94-1.37],0.1736353798644538
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,28244,337,1.27 [1.00-1.61],0.0513799587688788
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,28005,98,0.89 [0.58-1.38],0.616486795655897
+CPVL,Probable serine carboxypeptidase CPVL,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,27990,83,1.46 [0.89-2.38],0.1310897378728018
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Acute pharyngitis,28246,84,1.12 [0.69-1.82],0.6380628405329027
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,28401,239,1.21 [0.91-1.61],0.2003586301863524
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,28226,64,1.75 [0.99-3.08],0.0540171026718041
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,All influenza,27188,77,1.18 [0.71-1.96],0.5222921753803886
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),27186,75,1.26 [0.75-2.12],0.3774096488555885
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Allergic asthma (mode),21156,127,0.72 [0.51-1.03],0.0749322399938481
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Allergic rhinitis,28384,321,0.93 [0.73-1.18],0.5447585353302642
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",22694,1813,1.04 [0.93-1.15],0.5095396716150403
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",22810,1781,1.04 [0.94-1.16],0.4216989673432302
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),28249,97,1.00 [0.64-1.55],0.9848017562081174
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",27170,59,0.99 [0.56-1.76],0.9788013102686548
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Bronchiectasis,25416,190,0.87 [0.64-1.18],0.377095619077987
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",25270,44,1.17 [0.60-2.29],0.6357343751929866
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,27652,2426,1.05 [0.96-1.15],0.291807175803624
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",27017,68,0.81 [0.49-1.34],0.4153645702120206
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Chronic sinusitis,27123,174,0.93 [0.68-1.29],0.6816815772628249
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",28435,739,1.14 [0.96-1.34],0.1266049446197657
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Deviated nasal septum,27084,135,0.85 [0.59-1.23],0.3880935711619285
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,26564,4399,1.04 [0.97-1.11],0.2865826260665552
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",27340,391,1.01 [0.81-1.26],0.9081954818345656
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Early onset COPD,28215,519,1.16 [0.96-1.41],0.1335504193508806
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Emphysema,25416,190,1.07 [0.78-1.47],0.6855654057498419
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,27250,117,1.23 [0.82-1.86],0.3145823041961368
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Influenza and pneumonia,28352,1241,1.14 [1.01-1.30],0.0342273390373817
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Interstitial lung disease,27276,143,1.27 [0.88-1.84],0.2080723179830626
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Later onset COPD,27060,220,1.09 [0.82-1.47],0.5472326223622461
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,28533,160,1.72 [1.20-2.45],0.0029705090449106
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Nasal polyp,27067,118,0.86 [0.58-1.26],0.4357629412515179
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,28330,637,1.12 [0.94-1.34],0.1881113407286279
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Other diseases of pleura,28360,1283,1.21 [1.07-1.37],0.0020663799019586
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,27865,916,0.94 [0.81-1.08],0.378398322739398
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Other pleural conditions,27112,35,1.00 [0.48-2.08],0.990484447048737
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,28486,206,1.20 [0.88-1.64],0.2434130515093722
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,28457,872,1.23 [1.06-1.43],0.0060767753734788
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Pleural effusion,27692,615,1.29 [1.08-1.54],0.0057396057285063
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Pleural plaque,27134,57,1.49 [0.83-2.68],0.1841805018864842
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",28140,1029,1.18 [1.03-1.35],0.0191431743005257
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,28513,140,1.72 [1.17-2.52],0.0054226408990614
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Pneumothorax,27140,63,1.09 [0.63-1.88],0.7552492037447128
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Pollen allergy,28506,275,0.95 [0.73-1.23],0.6779793612582539
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Pulmonary oedema,28319,39,1.48 [0.72-3.05],0.2894768567693285
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Respiratory insufficiency,21066,37,1.09 [0.53-2.25],0.8157283900442918
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,28310,617,1.11 [0.93-1.33],0.2410981015497293
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,27270,321,0.93 [0.73-1.18],0.527388537283259
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Viral pneumonia,27306,195,0.97 [0.71-1.32],0.8365429069748969
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",28268,168,0.93 [0.67-1.30],0.6684370539160106
+CPVL,Probable serine carboxypeptidase CPVL,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,16482,103,1.37 [0.88-2.14],0.1667743389723605
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,21858,66,1.08 [0.63-1.84],0.7914456693538361
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Acute appendicitis,28338,160,1.04 [0.74-1.46],0.8138990936216888
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Acute gastritis,22806,77,1.15 [0.70-1.91],0.576872329815737
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Acute pancreatitis,26898,170,0.97 [0.70-1.35],0.873742872598946
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Acute peritonitis,28087,77,1.06 [0.65-1.75],0.8059848934702767
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Alcoholic liver disease,27737,86,1.78 [1.09-2.89],0.0206915435798663
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Barrett oesophagus,23091,362,0.98 [0.78-1.22],0.8371485948691997
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",26785,57,1.20 [0.67-2.16],0.5394443747590725
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",28121,57,1.20 [0.67-2.16],0.5424280065426239
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Cholecystitis,26914,186,1.31 [0.95-1.81],0.1050553108263872
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Cholelithiasis,27664,936,1.16 [1.00-1.34],0.0443473172092285
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Chronic gastritis,22993,264,1.04 [0.80-1.36],0.77013083315782
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Chronic pancreatitis,26773,45,1.34 [0.69-2.61],0.3874635905177485
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",28389,82,4.23 [2.64-6.77],1.9455857366645027e-09
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Coeliac disease,27070,120,4.13 [2.81-6.07],6.06650114712558e-13
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Collagenous colitis,26926,61,0.91 [0.53-1.57],0.7397201903733588
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,28352,216,0.87 [0.66-1.17],0.3651643868086425
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Constipation,28311,1209,1.18 [1.04-1.34],0.0126971274292208
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Crohn disease,26963,98,1.30 [0.83-2.04],0.2451380397406394
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",28185,69,1.24 [0.73-2.10],0.4302778007064863
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Crohn's disease NAS,26961,96,1.29 [0.82-2.02],0.2684562652047656
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Dental caries,27673,272,0.89 [0.69-1.15],0.3646631392919059
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,26403,1884,1.01 [0.92-1.12],0.8267185493899034
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Diseases of appendix,28382,204,1.03 [0.76-1.39],0.865550177384509
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Diseases of liver,28418,767,1.33 [1.13-1.56],0.0005324943334219
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",26769,4040,1.06 [0.99-1.13],0.1074278409052593
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",28039,638,1.04 [0.87-1.23],0.6809474100206452
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Diseases of peritoneum,28458,448,1.21 [0.99-1.50],0.0684289632009093
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,27538,137,1.06 [0.73-1.55],0.7409437020001576
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Diseases of salivary glands,27368,72,1.45 [0.86-2.46],0.1658049963355725
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Diseases of the digestive system,28257,1307,1.11 [0.98-1.25],0.092027183068464
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Diseases of tongue,27381,126,1.04 [0.71-1.53],0.8412777788133264
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",28008,1280,1.14 [1.01-1.29],0.0374464009154708
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,24310,2518,0.99 [0.91-1.07],0.749899374478942
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Duodenal ulcer,22877,148,1.15 [0.80-1.66],0.4408740998450097
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",28469,117,1.28 [0.85-1.93],0.2419360899764957
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,28402,85,0.91 [0.58-1.44],0.6985304943427947
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,27755,104,3.54 [2.31-5.43],6.523928248889197e-09
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,21979,187,0.98 [0.71-1.35],0.9059202312092384
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Functional dyspepsia,23264,535,0.80 [0.67-0.96],0.0138097209563384
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Gastric ulcer,23018,289,0.93 [0.72-1.20],0.5641710585468591
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,25054,2325,0.97 [0.88-1.06],0.4652495175944268
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,23148,419,0.95 [0.77-1.18],0.6534200415685905
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,23310,8354,1.08 [1.03-1.14],0.0009315865383371
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,GI-bleeding,28004,1054,0.98 [0.86-1.12],0.7845644291041647
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,27465,64,1.52 [0.87-2.66],0.1412381148033692
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,22747,1333,1.01 [0.90-1.14],0.8800606522099084
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",27707,56,2.79 [1.55-5.05],0.0006643808959399
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Hernia,27348,2829,1.03 [0.95-1.11],0.5472985206943712
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Impacted teeth,28411,79,0.88 [0.55-1.41],0.5866084316971949
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Impaction of intestines,21825,33,1.32 [0.61-2.85],0.4855553726985411
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Inguinal hernia,25217,698,1.03 [0.87-1.21],0.7364407790813634
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",24599,80,1.38 [0.84-2.27],0.196738425340907
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,21869,77,1.22 [0.74-2.02],0.4366247151989201
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Intestinal malabsorption,27089,139,3.17 [2.18-4.60],1.372128769799725e-09
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,22380,588,1.12 [0.93-1.34],0.2341087774640401
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,28516,400,1.33 [1.07-1.67],0.0115686573096234
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,27586,721,1.18 [1.01-1.40],0.0422721855382334
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,27779,914,1.13 [0.97-1.30],0.1068298894561828
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Oesophageal obstruction,22884,155,1.03 [0.73-1.47],0.8548565457908266
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Oesophagitis,23234,505,0.93 [0.77-1.13],0.455124426609293
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,28497,136,1.20 [0.83-1.75],0.3369104555534757
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,24571,52,1.16 [0.63-2.13],0.6331847466017386
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,23131,1339,1.14 [1.01-1.28],0.0344717739586849
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,26929,201,1.15 [0.84-1.57],0.3701888437641488
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,26894,166,0.94 [0.67-1.31],0.7175140779111933
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Other diseases of intestine,23349,1557,1.07 [0.95-1.19],0.2535749272173507
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Other diseases of intestines,26841,5049,1.06 [1.00-1.13],0.0516931547176359
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,27374,203,1.24 [0.91-1.69],0.1677312901406805
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Other diseases of liver,28270,619,1.43 [1.19-1.71],0.000105978170033
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,23284,555,1.04 [0.87-1.25],0.6578094291495733
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Other diseases of pancreas,26815,87,1.53 [0.94-2.47],0.0844700121649664
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,28398,388,1.24 [0.99-1.55],0.0614750881016557
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,23535,806,1.13 [0.97-1.32],0.1294965672501482
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,28018,1068,0.99 [0.86-1.13],0.8385265348545334
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,27597,196,1.23 [0.89-1.69],0.2026705211424299
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,23050,1258,1.17 [1.04-1.33],0.0117351804073784
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),24574,1845,1.17 [1.05-1.29],0.0033480888379456
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,27736,85,2.23 [1.37-3.63],0.0012254966945388
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,27663,798,1.16 [0.99-1.36],0.0607610761657193
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",22032,240,1.37 [1.03-1.83],0.0312301570119362
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,28387,101,1.05 [0.68-1.61],0.8289490256371512
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,22153,361,1.24 [0.98-1.56],0.0738099273677936
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",27092,142,1.11 [0.77-1.61],0.5684430581608415
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Recurring oral aphthae,28532,60,1.19 [0.67-2.09],0.557924313116696
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,27419,133,1.36 [0.93-2.00],0.1158014235799676
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Toxic colitis,26898,33,0.87 [0.41-1.83],0.718651540997671
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,22920,191,1.15 [0.83-1.58],0.3968245487598062
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Ulcerative colitis,27016,151,0.99 [0.70-1.41],0.9697902594481208
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",26996,131,1.06 [0.72-1.54],0.7808146555374117
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Umbilical hernia,24810,291,1.08 [0.84-1.40],0.5514855368277729
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,21897,105,1.26 [0.82-1.94],0.2913900141786317
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Ventral hernia,24750,231,1.21 [0.91-1.62],0.1955901172467812
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XI Diseases of the digestive system,Volvulus,21859,67,0.95 [0.56-1.61],0.8560133427241645
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,28485,164,1.18 [0.84-1.65],0.3475572657467832
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,28259,80,1.12 [0.68-1.82],0.6608429680066759
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,27009,152,1.20 [0.84-1.72],0.3100130015946733
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,27901,574,1.22 [1.01-1.46],0.0368729962615088
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",27531,204,1.26 [0.92-1.72],0.1468536188599533
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,27038,181,1.51 [1.08-2.11],0.0155859584551622
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,28270,235,1.15 [0.87-1.54],0.330929645001795
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,28440,405,1.21 [0.97-1.51],0.08343606354624
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,28084,49,1.35 [0.71-2.54],0.3592210701571279
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,27031,2673,1.13 [1.04-1.23],0.0037203955151824
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,28070,460,1.04 [0.85-1.27],0.7191021843729346
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,27937,327,0.97 [0.77-1.24],0.8303259929659015
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,28143,816,1.19 [1.02-1.39],0.0292000896983323
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",28529,48,1.34 [0.71-2.56],0.3693562367280822
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,26915,58,0.76 [0.44-1.29],0.3044248486599635
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,27652,42,1.78 [0.89-3.57],0.1042450782185525
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,28263,228,1.14 [0.85-1.53],0.3673408829233813
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,27155,298,1.14 [0.88-1.46],0.3236607043038336
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,26894,37,0.54 [0.31-0.93],0.0255452634521213
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,28457,72,1.51 [0.89-2.57],0.1249985652201451
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,27468,141,1.21 [0.83-1.75],0.3222757395007483
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,28342,163,1.02 [0.73-1.44],0.8926538553932601
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,28068,33,1.10 [0.51-2.35],0.8154304370729086
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,26911,54,0.61 [0.36-1.03],0.0630610720913246
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,28000,1143,1.15 [1.01-1.31],0.0348684291762411
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",27186,329,1.10 [0.86-1.40],0.4412370783701157
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,26898,41,0.55 [0.33-0.92],0.0223577122374755
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,28455,276,1.12 [0.86-1.46],0.3883942938872121
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,28099,64,1.65 [0.93-2.91],0.0851779479225046
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,28406,227,1.09 [0.82-1.46],0.5488741996281005
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,28508,187,1.12 [0.81-1.54],0.4875966705921547
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,26983,126,1.35 [0.91-2.01],0.133433294996852
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,27055,198,1.16 [0.85-1.58],0.3594982410367282
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,28499,178,1.11 [0.80-1.54],0.5242239574197141
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",26993,136,1.53 [1.04-2.24],0.0310854074470817
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,28509,124,1.23 [0.83-1.83],0.2997905114366485
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,25062,139,0.92 [0.64-1.32],0.6328734298901602
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,26661,4815,0.99 [0.93-1.05],0.761592055090681
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,25254,3408,1.00 [0.93-1.08],0.9392448441492214
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,25022,99,0.91 [0.59-1.39],0.6499073270688309
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,25622,161,0.86 [0.62-1.20],0.3771473461623886
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,25627,166,0.85 [0.62-1.18],0.3450917836604424
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,28305,118,0.97 [0.65-1.46],0.8966567267677608
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",25509,48,0.87 [0.47-1.60],0.6453095548796033
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,22622,776,0.89 [0.77-1.04],0.1475294120593676
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",28480,129,0.95 [0.65-1.38],0.7918057673799399
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,25765,304,1.15 [0.89-1.48],0.273142179429983
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,24971,6456,1.00 [0.95-1.06],0.9861305747346452
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,27129,113,0.90 [0.60-1.35],0.6083480069754317
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,25039,116,1.35 [0.89-2.05],0.1521741272307977
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,25550,627,1.06 [0.89-1.26],0.5028560428443842
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,27624,2163,0.98 [0.90-1.08],0.7315752578780625
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,25156,233,1.12 [0.85-1.50],0.4202480072554776
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,25212,289,1.12 [0.87-1.46],0.383408511794822
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,25075,152,0.86 [0.61-1.21],0.3821256067221809
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,28010,36,0.68 [0.35-1.31],0.2515253643370307
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,23208,1362,0.93 [0.83-1.05],0.2309847706096638
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,22256,410,0.84 [0.68-1.03],0.1012611828901031
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",28487,400,0.86 [0.70-1.06],0.1608240918843064
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,21919,73,0.81 [0.50-1.33],0.4052686200561595
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),22205,359,0.81 [0.65-1.00],0.0544584926199895
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,25263,340,0.87 [0.69-1.09],0.2292262784221769
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,22637,791,0.93 [0.80-1.08],0.3318849116279438
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,25491,30,1.45 [0.64-3.26],0.3735655657610029
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,26031,570,1.05 [0.88-1.27],0.5710465152172979
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,25753,292,0.94 [0.73-1.21],0.6300932285901617
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,22583,737,0.95 [0.81-1.11],0.5084427203402588
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,25011,88,1.47 [0.91-2.37],0.1182104536884029
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",24987,64,0.94 [0.55-1.60],0.8112549226231119
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,27075,59,1.60 [0.89-2.87],0.1182767577967238
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,28196,1180,1.02 [0.90-1.16],0.734309269835171
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,27683,667,1.04 [0.88-1.23],0.6489749843277544
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",28429,360,1.15 [0.91-1.46],0.2296598138142132
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,23678,1832,1.08 [0.97-1.19],0.1486975809642926
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,21930,84,0.81 [0.51-1.27],0.3577674653151897
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,25003,80,1.10 [0.68-1.80],0.6983712887214546
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,21874,28,0.98 [0.43-2.19],0.9514607339647282
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),21961,115,1.21 [0.80-1.83],0.3715574095521349
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,27254,238,0.92 [0.69-1.21],0.5387347136853684
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,27264,248,0.98 [0.75-1.29],0.9003483849176631
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,28499,88,1.20 [0.75-1.91],0.4534438670270302
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",27073,1612,1.00 [0.90-1.11],0.972051601942607
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,25047,124,0.79 [0.55-1.15],0.2186695314536719
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),21966,120,0.80 [0.55-1.18],0.2628334588707041
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,26116,655,1.07 [0.90-1.27],0.4268839129462372
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,23957,2111,0.91 [0.83-1.00],0.0556552025146201
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,28033,59,1.05 [0.59-1.86],0.8679296581476447
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,28515,76,1.19 [0.72-1.96],0.5079299196042572
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,25006,83,1.08 [0.67-1.74],0.7506868116134541
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",26064,1141,1.11 [0.98-1.27],0.1081380487386735
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,24993,70,1.04 [0.62-1.74],0.8900565452903751
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,22995,1149,1.00 [0.88-1.13],0.9661621944625558
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,27121,105,0.84 [0.56-1.27],0.407799488151552
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,24994,71,0.94 [0.57-1.56],0.8142155159412402
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,25581,120,0.78 [0.53-1.14],0.1922502178805588
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,25344,421,1.10 [0.89-1.36],0.377206089327649
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,28188,214,1.49 [1.09-2.02],0.0116871271796321
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,25943,482,1.28 [1.04-1.56],0.0189290474832689
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,28438,340,1.21 [0.95-1.53],0.1295123230562844
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,28524,39,0.83 [0.43-1.64],0.5995651608718224
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,25138,215,1.14 [0.85-1.54],0.3892614386037859
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,22918,616,0.99 [0.83-1.18],0.9259526368499535
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,25443,520,0.96 [0.79-1.16],0.6657997018801349
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],25098,175,1.36 [0.98-1.90],0.0689404942122405
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",21883,37,0.91 [0.45-1.84],0.7926580249180647
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,23669,1823,1.02 [0.92-1.13],0.6568871252054242
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,22306,460,0.94 [0.77-1.15],0.5521092107514464
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,28060,86,0.92 [0.58-1.46],0.7293850501978674
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",28463,52,1.60 [0.86-2.98],0.1393718939249081
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",26882,30,0.75 [0.35-1.63],0.4711092114308333
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,21924,78,1.15 [0.70-1.88],0.590859838630291
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,25556,95,0.63 [0.44-0.92],0.0157471195310031
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,22210,364,1.17 [0.92-1.47],0.1924082149960381
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,25200,277,0.92 [0.71-1.19],0.5065961771712368
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,25678,217,1.07 [0.79-1.44],0.6661165646115166
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,25572,111,1.21 [0.80-1.85],0.3660957799883408
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,24180,50,0.90 [0.49-1.65],0.7321547525631336
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",28527,42,0.86 [0.45-1.66],0.6550450621856566
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,25546,623,0.92 [0.77-1.09],0.315334823752433
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],28065,91,2.68 [1.66-4.31],5.073804314532435e-05
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,27416,2493,1.05 [0.96-1.14],0.2821893631477469
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",25037,114,0.66 [0.47-0.93],0.0176678623344366
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,25830,369,1.06 [0.85-1.34],0.5899974860688979
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,27099,193,0.78 [0.58-1.05],0.1018796289584815
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,25618,157,1.18 [0.83-1.68],0.3685512688220164
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,26554,1093,0.94 [0.82-1.07],0.3158727334845067
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,26189,728,0.95 [0.81-1.12],0.552121890037248
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],24968,45,0.89 [0.48-1.68],0.7252976582233432
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,28124,150,1.60 [1.11-2.32],0.012377659768907
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,25084,161,1.31 [0.92-1.85],0.1360874928639492
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,24983,60,0.93 [0.53-1.61],0.7833910745445611
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),21885,39,1.02 [0.51-2.06],0.9524340283578042
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Acute renal failure,27957,888,1.40 [1.20-1.62],1.1736100852019325e-05
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),11607,77,1.47 [0.88-2.47],0.1382181056783758
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,15419,79,0.94 [0.59-1.52],0.8063591232007136
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,28232,334,0.90 [0.71-1.14],0.3713115343011257
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,27959,61,0.96 [0.56-1.67],0.8912291023070491
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,27789,720,1.30 [1.10-1.53],0.0021811266200577
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,28343,33,0.96 [0.46-2.04],0.9249610966977724
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,28358,197,1.38 [1.01-1.90],0.0463355343133831
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Cystitis,26251,165,0.86 [0.62-1.20],0.3715367226907465
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Dialysis,27133,64,1.17 [0.67-2.05],0.5718391208992994
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,12322,1175,0.99 [0.88-1.12],0.90513847252675
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Disorders of breast,15549,209,1.12 [0.82-1.51],0.4752780753859147
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Endometriosis,11674,144,1.23 [0.85-1.78],0.2823411168692373
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",11928,398,0.89 [0.73-1.10],0.2819163771457908
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,11968,438,0.89 [0.73-1.09],0.2542903691184837
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,24071,4429,1.03 [0.96-1.10],0.4220951505532742
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,28381,71,3.15 [1.85-5.37],2.403407758733928e-05
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Hydrocele,11235,88,1.08 [0.68-1.73],0.7332312042225984
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,26979,233,0.93 [0.70-1.23],0.6184157633188712
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,11925,778,1.07 [0.92-1.25],0.3855464204766332
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,15405,246,0.77 [0.60-0.98],0.0350510904476373
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),11254,107,0.79 [0.53-1.18],0.2512739210239038
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Irregular menses,15418,130,0.89 [0.62-1.29],0.5447876653863946
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Menorrhagia,11834,304,0.92 [0.73-1.17],0.495835087775462
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,26156,70,1.15 [0.68-1.94],0.6000609866696578
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,12992,1462,0.92 [0.82-1.03],0.1336923324084161
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,11196,49,1.76 [0.92-3.35],0.0864168577374111
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,11634,104,0.94 [0.63-1.41],0.7629265782611209
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",28530,37,1.05 [0.51-2.17],0.8847944403473026
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",28537,47,0.78 [0.43-1.41],0.4138082962974655
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,27647,1561,1.07 [0.96-1.20],0.213449216939647
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,26569,483,1.04 [0.86-1.27],0.670255958618258
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,15408,68,1.12 [0.66-1.89],0.6818555613888142
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,28490,329,1.25 [0.98-1.60],0.0717262047570768
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,11306,159,0.94 [0.67-1.32],0.710282114444122
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,11270,123,0.71 [0.49-1.02],0.065495821524026
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,11224,77,0.72 [0.45-1.14],0.1596405064969548
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,28503,54,0.79 [0.45-1.39],0.4171478664732714
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,27216,1130,1.17 [1.03-1.33],0.0197881367169866
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,15287,128,0.65 [0.49-0.86],0.0028464909209979
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,11618,88,0.92 [0.59-1.44],0.7223227903006307
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",11766,236,1.11 [0.83-1.48],0.4880174147996522
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,11590,60,1.56 [0.88-2.79],0.1290744105430691
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,11639,109,1.09 [0.72-1.67],0.6751413134552104
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,27014,268,0.91 [0.70-1.19],0.4986644839471374
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,28276,115,0.95 [0.64-1.42],0.8064278852381221
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,11718,188,0.98 [0.71-1.33],0.8765207568108495
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,11614,84,0.87 [0.56-1.35],0.5273133482733304
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,11979,449,0.88 [0.72-1.08],0.2189705318229503
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,11599,69,0.64 [0.41-1.00],0.0474851350482011
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,11922,392,0.95 [0.76-1.18],0.646925962385945
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,28359,49,1.13 [0.61-2.12],0.6941348215443945
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",11259,112,0.78 [0.53-1.15],0.2148931800053872
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,28329,1583,1.28 [1.15-1.44],1.2107650061707518e-05
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",26893,147,1.43 [0.99-2.07],0.059127660698511
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,27151,82,1.25 [0.77-2.04],0.3643887649041513
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,27970,72,1.43 [0.84-2.42],0.185865881389286
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Urethral stricture,26259,173,0.90 [0.65-1.24],0.5235449881217478
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Urolithiasis,28297,399,0.96 [0.77-1.19],0.719432607759871
+CPVL,Probable serine carboxypeptidase CPVL,Chapter XIV Diseases of the genitourinary system,Uterine polyps,11636,106,0.99 [0.65-1.50],0.9535701044649456

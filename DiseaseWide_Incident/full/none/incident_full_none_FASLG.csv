@@ -1,0 +1,661 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",49978,303,1.25 [0.95-1.64],0.1171682103131704
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",51784,397,0.85 [0.67-1.07],0.1656899330650746
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",51253,2798,0.83 [0.76-0.91],5.885289854984595e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Candidiasis,51825,861,0.74 [0.63-0.87],0.0002907803635868
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,50260,7080,0.84 [0.80-0.89],4.211100721686628e-09
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),50452,6456,0.86 [0.81-0.91],4.872122299250641e-07
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,51314,2455,0.88 [0.80-0.96],0.0063683696979115
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,51640,174,1.05 [0.73-1.51],0.7781472212740383
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,47701,1970,0.88 [0.79-0.98],0.0252079042303426
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,46072,2229,0.78 [0.71-0.87],2.0610188721075915e-06
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,45817,517,0.73 [0.60-0.90],0.0033115097820364
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,36416,4000,0.83 [0.77-0.90],1.6552939206426136e-06
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,45512,789,0.67 [0.57-0.79],3.019467498014485e-06
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,51752,2893,0.86 [0.79-0.94],0.001018157748279
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Mycoses,51983,1019,0.75 [0.65-0.87],0.0001385615651426
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,50333,1878,0.80 [0.72-0.90],7.97961794863101e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,51849,2174,0.92 [0.83-1.02],0.1108702707981046
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,49258,399,0.83 [0.65-1.05],0.1224129438261389
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,52085,100,0.96 [0.60-1.55],0.8758538186430519
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Other septicaemia,51576,1901,0.90 [0.80-1.00],0.0484118592852931
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,51620,154,0.98 [0.67-1.43],0.9011168169962972
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Other viral diseases,51920,316,0.77 [0.59-1.00],0.0498383156495278
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",51883,279,0.74 [0.56-0.98],0.0348647968976125
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,49306,851,1.07 [0.91-1.26],0.4416971528095493
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,49015,560,0.65 [0.53-0.79],1.953252633996754e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,49080,221,0.76 [0.56-1.04],0.0915089894994928
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,52042,106,1.35 [0.86-2.14],0.1942613799504488
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,51954,304,0.59 [0.46-0.77],0.0001161795572707
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Viral warts,51749,99,0.49 [0.31-0.78],0.002263962244298
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],51780,130,0.68 [0.45-1.03],0.0701153485784803
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Benign lipomatous neoplasm,51490,593,1.09 [0.89-1.32],0.4020842779340614
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,51907,116,1.26 [0.81-1.97],0.3034030299606716
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,51869,127,1.17 [0.77-1.78],0.4730919507873465
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,23959,131,1.42 [0.94-2.16],0.0989074896498224
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",51415,2901,0.93 [0.85-1.02],0.1078076861129083
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Benign neoplasm of meninges,52057,115,0.90 [0.58-1.40],0.6336344745188982
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,51953,133,1.00 [0.66-1.51],0.9831465710276528
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,52035,215,0.96 [0.69-1.32],0.7822997072388327
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Benign neoplasm of ovary,27992,181,0.76 [0.53-1.07],0.1141484494770936
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Benign neoplasm: Ascending colon,52038,729,0.98 [0.82-1.16],0.7835489633235522
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Benign neoplasm: Caecum,52040,594,0.96 [0.79-1.17],0.6756991804742272
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",51864,149,0.75 [0.51-1.11],0.1499019198952955
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Benign neoplasm: Descending colon,52034,436,0.85 [0.68-1.07],0.1681792001928681
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Benign neoplasm: Rectum,51954,714,1.03 [0.86-1.23],0.7272845826250074
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,51853,1236,0.91 [0.79-1.04],0.1507275308189128
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Benign neoplasm: Transverse colon,52022,867,0.84 [0.72-0.99],0.0334169161449946
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Carcinoma in situ of breast,22764,139,0.88 [0.59-1.33],0.5536015135549479
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",22856,169,0.69 [0.48-0.99],0.0435289110719248
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",41488,104,1.28 [0.80-2.06],0.3015390049192041
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",41525,141,0.85 [0.57-1.26],0.4162306953684073
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",51983,240,0.97 [0.71-1.31],0.8313116614873262
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Haemangioma, any site",51984,235,0.96 [0.70-1.30],0.7758196568436223
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Leiomyoma of uterus,27067,598,1.12 [0.92-1.36],0.2700438688284881
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Lung cancer and mesothelioma,36120,664,0.55 [0.47-0.65],2.0279049148173488e-12
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Lymphoid leukaemia,41487,103,1.06 [0.66-1.71],0.7986688220957158
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",41765,381,1.16 [0.91-1.49],0.2371609461513335
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",41794,410,0.86 [0.68-1.09],0.200742771325707
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",22992,190,1.26 [0.89-1.78],0.1967897780844493
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",41546,162,1.17 [0.80-1.70],0.4204961062723046
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",41603,219,0.83 [0.60-1.15],0.2586584642907393
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",41581,197,0.71 [0.51-0.99],0.0415398553950076
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",22946,144,0.97 [0.65-1.44],0.8804201757173203
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",41571,187,0.77 [0.54-1.08],0.1328002698755186
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",20000,1418,1.11 [0.97-1.26],0.1181188554749578
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",41616,232,0.78 [0.57-1.06],0.1154731529645264
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",41534,150,0.69 [0.47-1.01],0.0586641784209115
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,41597,213,1.04 [0.75-1.45],0.8128024864637257
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Melanocytic naevi,51689,406,1.08 [0.85-1.36],0.546274398974792
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Melanocytic naevi of trunk,52004,176,1.00 [0.70-1.43],0.9933455473451034
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Melanoma in situ,41452,164,0.83 [0.57-1.21],0.3317363409902454
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",41569,185,0.93 [0.65-1.32],0.6841157929525257
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",41710,326,1.15 [0.88-1.51],0.290137164005334
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",41836,452,0.65 [0.53-0.81],8.965006433221266e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",41584,200,1.27 [0.91-1.79],0.1662574235013599
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,Other benign neoplasms of skin,51719,311,1.04 [0.79-1.36],0.7873455026692623
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",43560,2176,1.06 [0.96-1.18],0.2505624777387429
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",43679,2295,1.08 [0.98-1.19],0.1385715917909478
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,51497,691,1.13 [0.95-1.36],0.1724377448743015
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,48262,223,0.70 [0.51-0.96],0.028526358704396
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,50949,143,1.03 [0.69-1.54],0.8665961478660628
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,50476,5839,0.86 [0.81-0.92],4.1503584316483645e-06
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,49115,98,0.81 [0.50-1.30],0.3851777701213632
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,51242,99,1.74 [1.08-2.81],0.0227697593253663
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,51100,3061,0.83 [0.76-0.90],1.232387816376903e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,51098,3059,0.83 [0.76-0.90],1.3986388637565482e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,48215,176,0.79 [0.56-1.13],0.2040916076780037
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,51422,2405,0.82 [0.74-0.90],4.366020835158841e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,51370,227,0.70 [0.51-0.96],0.0247135761874572
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,50933,127,1.28 [0.84-1.94],0.2492112393906474
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,50925,119,0.85 [0.55-1.31],0.45158749241233
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,51699,556,1.17 [0.95-1.43],0.1357583972298591
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,51872,110,2.11 [1.35-3.30],0.0010661644696027
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",51604,461,1.17 [0.94-1.46],0.1712169609401639
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,49233,216,0.88 [0.64-1.22],0.4380144435950465
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,40307,640,0.68 [0.56-0.81],3.6689453950053234e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,48572,236,0.89 [0.66-1.20],0.4576378015907776
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,48594,258,0.74 [0.57-0.97],0.0302722202869248
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,39778,111,0.39 [0.26-0.60],1.0404520278057957e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,48356,137,0.83 [0.55-1.23],0.3525805742091717
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,47213,480,0.95 [0.76-1.18],0.6156063038075015
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",51134,1144,0.83 [0.72-0.95],0.0083285181957194
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,50523,533,0.91 [0.74-1.12],0.3571918161591628
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,50247,257,0.73 [0.54-0.99],0.0404583881453197
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,51365,3146,0.93 [0.85-1.01],0.084995265508824
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,45377,3051,0.89 [0.82-0.97],0.0065963721991962
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",39802,135,0.72 [0.48-1.08],0.1131061118279359
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",48020,160,1.07 [0.74-1.57],0.7127833423976507
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,40232,565,0.68 [0.56-0.83],0.0001703027465589
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,39788,121,1.60 [1.03-2.48],0.037005738392188
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,46794,7127,0.79 [0.75-0.83],1.8996586189173087e-16
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,40057,390,0.57 [0.45-0.73],3.716331123370544e-06
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,40784,1117,0.72 [0.63-0.83],7.0823755079349485e-06
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,51919,658,0.74 [0.61-0.88],0.0009668908223118
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,51539,278,1.05 [0.79-1.39],0.7515635738973561
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,39924,257,0.63 [0.47-0.85],0.0023243692243726
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",39789,122,0.70 [0.45-1.07],0.099910745917165
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,50993,3133,1.02 [0.94-1.11],0.6230033493877039
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,40184,517,0.78 [0.64-0.97],0.0224856726158939
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,40270,603,0.93 [0.77-1.14],0.4957768113894586
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",40946,1279,0.74 [0.65-0.85],9.925176024342443e-06
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,39907,240,0.62 [0.46-0.84],0.0021290016845545
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,51522,261,1.09 [0.81-1.47],0.5567112836577792
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,40879,1212,0.56 [0.49-0.64],1.6864030002494566e-17
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,40636,969,0.68 [0.58-0.79],4.27741332225055e-07
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,46875,142,0.54 [0.37-0.80],0.0018300572852312
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,49705,10038,0.79 [0.75-0.83],5.101291660030655e-22
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,47959,99,0.75 [0.47-1.21],0.2411916170244637
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,47971,111,0.68 [0.44-1.06],0.0858872304200093
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,51706,3934,0.84 [0.78-0.90],5.414151845486162e-06
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",51709,3930,0.84 [0.78-0.90],5.033355177950968e-06
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,47964,104,1.06 [0.66-1.69],0.8113826028030691
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,51389,2433,0.88 [0.80-0.97],0.0073474127174773
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",42850,3183,0.67 [0.62-0.73],4.097112918127964e-21
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,52059,456,0.71 [0.57-0.89],0.0024953137962483
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,50157,167,0.83 [0.57-1.19],0.3111414388134323
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,49165,209,1.00 [0.72-1.38],0.9785597695939005
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,49241,285,0.93 [0.70-1.24],0.6271620241228983
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",40006,339,0.83 [0.64-1.07],0.1557961806099059
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,47394,311,0.79 [0.61-1.04],0.0928129475444932
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,4281,174,1.55 [1.08-2.21],0.0162399133950028
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,4556,506,1.03 [0.83-1.27],0.7995898651824479
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,47210,127,0.70 [0.46-1.07],0.1031880939959243
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,4218,114,1.59 [1.03-2.47],0.0381309192501997
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,50792,3709,0.62 [0.57-0.67],4.1334300523953166e-34
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,50699,709,0.96 [0.80-1.15],0.6543991930718205
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,47472,739,0.98 [0.82-1.17],0.8353951885991777
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,41216,1549,0.68 [0.60-0.76],1.666994668661074e-10
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",51858,488,1.18 [0.95-1.47],0.1238985753547003
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),49809,328,0.66 [0.51-0.86],0.0017560527591876
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Angina pectoris,47572,2405,0.82 [0.74-0.90],6.91242734180978e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Aortic aneurysm,49964,483,0.87 [0.70-1.08],0.2117874759368414
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,49601,120,0.87 [0.57-1.33],0.5087523946569532
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",49885,404,0.75 [0.60-0.95],0.0173062607089721
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,32310,3852,0.90 [0.83-0.97],0.0085491555171293
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,AV-block,43887,879,0.83 [0.70-0.97],0.020301376716331
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",51965,853,1.01 [0.86-1.19],0.8813491581594608
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Cardiac arrest,28841,383,0.90 [0.71-1.15],0.4141342805267327
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Cardiomyopathy,43352,344,1.03 [0.79-1.33],0.8317478846368778
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",43202,194,1.02 [0.73-1.44],0.8943068413633853
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,52081,104,0.70 [0.44-1.11],0.1252372266149551
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Conduction disorders,45134,2126,0.89 [0.81-0.99],0.0360689916577253
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,49325,4194,0.85 [0.79-0.91],9.435070950279226e-06
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,45455,15262,0.83 [0.80-0.87],2.1790860241442206e-20
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,DVT of lower extremities,49295,526,1.15 [0.94-1.42],0.1765673971888851
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Endocarditis,43158,150,0.67 [0.46-0.99],0.0423394391183733
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,"Heart failure, strict",51672,2222,0.95 [0.86-1.05],0.343977813838882
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Hypertension,47299,13099,0.79 [0.76-0.83],6.705343310105271e-28
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,"Hypertension, essential",47336,13136,0.79 [0.76-0.83],7.984178859170866e-28
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,"Hypertension, portal",51737,155,1.05 [0.72-1.54],0.8035355195460364
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",34553,353,0.66 [0.51-0.85],0.0011040336137504
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,34477,277,0.59 [0.44-0.78],0.000245479667719
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Hypotension,51792,2376,0.79 [0.72-0.87],2.873168461285564e-06
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,50226,213,0.87 [0.63-1.20],0.4009623919580108
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",49664,4497,0.86 [0.80-0.92],1.742515607330656e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",51324,1126,0.79 [0.69-0.91],0.001275930505715
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Left bundle-branch block,43736,728,1.03 [0.86-1.23],0.7614690514243053
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,51120,1691,0.82 [0.73-0.92],0.0005845228198268
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",46595,1428,0.83 [0.73-0.94],0.0032463512008327
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",51896,315,0.90 [0.69-1.17],0.4264981841050365
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",52026,621,0.73 [0.60-0.88],0.0008424126864278
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Oesophageal varices,48876,107,0.94 [0.59-1.50],0.8000122673618297
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Other aneurysm,49640,159,0.90 [0.62-1.31],0.5844274580279054
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Other arrhythmias,43861,853,1.03 [0.87-1.21],0.7453027557597984
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,49684,203,0.79 [0.57-1.10],0.1681725092835788
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,49961,480,0.70 [0.56-0.86],0.0008564830304165
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,43368,360,1.00 [0.78-1.28],0.9817455220222352
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Other disorders of veins,48966,197,1.03 [0.74-1.45],0.8434858534396249
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,48867,98,0.72 [0.45-1.14],0.161290966950122
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,49196,131,0.55 [0.36-0.82],0.003478053213043
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,49045,276,1.00 [0.75-1.32],0.97568726851199
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,45097,2089,0.93 [0.84-1.03],0.1718100329990663
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,49526,110,0.83 [0.53-1.30],0.4191862879594862
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,50573,1092,0.86 [0.75-0.99],0.0364585132557174
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,50840,695,0.81 [0.67-0.96],0.0181649167927399
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",50302,1237,0.73 [0.64-0.84],6.333426829637728e-06
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,29142,684,0.91 [0.76-1.10],0.33126042185976
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Peripheral artery disease,50234,816,0.84 [0.71-0.99],0.0396372030838011
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),49458,689,1.09 [0.91-1.30],0.3710119682425443
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Pulmonary embolism,51108,963,0.92 [0.79-1.07],0.2783006849864849
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,51944,1323,0.92 [0.80-1.05],0.1950693151896599
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Right bundle-branch block,43711,703,0.87 [0.73-1.04],0.1352873573549563
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Secondary right heart disease,50829,684,0.82 [0.68-0.98],0.0289083751067482
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,49454,389,0.81 [0.64-1.03],0.0862894796075631
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",51301,1288,0.80 [0.70-0.92],0.001098859640464
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",51259,1365,0.82 [0.72-0.93],0.0027060983129268
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,50168,119,0.93 [0.60-1.43],0.7369016280700149
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,49642,162,1.32 [0.91-1.93],0.1439551300486027
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Transient ischemic attack,50673,475,0.69 [0.56-0.85],0.000656552345222
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,49952,523,0.71 [0.58-0.87],0.0012165765305186
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Varicose veins,49622,853,1.25 [1.06-1.48],0.0071245796485696
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,49511,173,0.77 [0.54-1.10],0.1533028316686576
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter IX Diseases of the circulatory system,Venous thromboembolism,51627,1511,0.96 [0.85-1.09],0.5568135972485257
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",51840,723,0.99 [0.83-1.18],0.9101816504889356
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",45560,2874,0.86 [0.79-0.94],0.0011094942986042
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter V Mental and behavioural disorders,Any mental disorder,50761,8075,0.85 [0.81-0.90],8.72790257784469e-10
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",51745,856,1.03 [0.88-1.21],0.7203784264733738
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",45890,3204,0.89 [0.82-0.97],0.0082425165224023
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",42866,180,0.81 [0.57-1.15],0.2381773575835155
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter V Mental and behavioural disorders,Smoking dependency,51013,2765,0.70 [0.64-0.76],1.5593244795164404e-17
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",45978,3292,0.77 [0.72-0.84],2.140548602340605e-10
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter V Mental and behavioural disorders,Vascular dementia,51059,256,0.72 [0.54-0.97],0.0305326273413777
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Alzheimer disease,52083,662,0.89 [0.74-1.07],0.1978394226844115
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",35094,117,0.99 [0.63-1.56],0.9723945616048808
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Bell's palsy,48480,166,0.74 [0.51-1.06],0.1035412292050983
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,49308,994,0.90 [0.78-1.05],0.1857351923584955
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Cerebral cysts,51261,463,0.84 [0.68-1.05],0.1310750125193241
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,51923,650,0.85 [0.71-1.02],0.0829081016970589
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,51077,99,0.81 [0.50-1.30],0.3809814094499506
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,52050,120,0.46 [0.31-0.69],0.000215315060473
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",50946,148,0.79 [0.53-1.16],0.2297416067567905
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Epilepsy,48916,576,0.81 [0.66-0.98],0.0311287593690348
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,51110,2770,0.85 [0.78-0.94],0.0006521182326323
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,51998,1217,0.85 [0.74-0.97],0.0173469691816794
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Falls/tendency to fall,50878,5196,0.89 [0.83-0.95],0.0004018496915461
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Generalized epilepsy,51313,108,0.73 [0.47-1.14],0.1708242195512019
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Hemiplegia,51781,508,0.84 [0.68-1.04],0.1054234684376408
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Hydrocephalus,50921,123,0.61 [0.40-0.93],0.0199325013568073
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,52046,139,0.64 [0.43-0.94],0.0240041339251395
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,48465,151,0.87 [0.59-1.28],0.4720924600074417
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,48476,162,1.08 [0.75-1.57],0.6784207247696736
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Memory loss,50766,219,1.05 [0.76-1.45],0.7754737637641415
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Migraine,49067,727,0.99 [0.83-1.18],0.8730387405461881
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",51941,653,0.99 [0.82-1.19],0.891373697458871
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Motor neuron disease,35292,275,0.85 [0.64-1.14],0.2782430083968705
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,51745,210,0.67 [0.49-0.93],0.0147403356454677
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",50732,2418,0.86 [0.78-0.94],0.0014701776564421
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Neurological diseases,49090,7603,0.85 [0.81-0.90],8.822575166406004e-09
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,51382,404,0.74 [0.59-0.94],0.0137695983895628
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",49146,832,0.74 [0.63-0.87],0.0003022871959374
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",51933,600,1.03 [0.85-1.25],0.7554674466655877
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,41414,1301,0.78 [0.68-0.89],0.000214828181533
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,50948,150,0.86 [0.59-1.27],0.4470844132897104
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Other disorders of nervous system,51079,281,0.61 [0.46-0.81],0.000483378606572
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,51111,330,0.89 [0.69-1.16],0.3868033663496882
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Other facial nerve disorders,48509,195,0.72 [0.51-1.00],0.0505025093626077
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Other headache syndromes,48456,116,0.86 [0.55-1.33],0.5015019041677953
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Other neurological diseases,51841,1043,0.77 [0.67-0.89],0.000430836026122
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Other sleep disorders,49470,1130,0.82 [0.71-0.94],0.0045918206834255
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Parkinson's disease,52037,862,0.88 [0.75-1.04],0.1333476981117647
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,50908,110,0.70 [0.45-1.09],0.1159784923058217
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Restless leg syndrome,52083,157,0.89 [0.61-1.29],0.5300863105853595
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Sleep apnoea,51593,972,0.84 [0.72-0.98],0.0233512385599239
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Small fibre neuropathy,51432,99,1.46 [0.90-2.36],0.1267956530562295
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,52056,330,0.86 [0.66-1.11],0.2474915182607154
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,48418,104,0.82 [0.51-1.30],0.3895009615141561
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,52083,669,0.89 [0.74-1.07],0.2085329109804743
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),50983,249,0.76 [0.56-1.02],0.0676643069646094
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,50930,198,0.83 [0.60-1.17],0.289364113473408
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,51257,798,0.86 [0.73-1.02],0.0922963589541303
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,51734,468,0.71 [0.57-0.88],0.0018789758294889
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,50064,107,0.89 [0.56-1.41],0.6208277696620812
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,50073,116,1.01 [0.65-1.57],0.9697801241419066
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",51865,104,0.86 [0.54-1.37],0.5266349858039315
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,51556,295,0.77 [0.58-1.01],0.0571042572035163
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",4228,121,1.70 [1.11-2.59],0.0145202058361483
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,5120,204,1.79 [1.30-2.48],0.0003623997280544
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,50921,189,0.87 [0.61-1.22],0.4172792681261731
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,51648,2084,0.92 [0.82-1.02],0.0975969378126404
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",51346,1389,0.86 [0.75-0.97],0.0170673535930726
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,50406,449,0.81 [0.65-1.01],0.0597250395383452
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",51913,1454,0.89 [0.78-1.01],0.0640961360809679
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,52064,137,0.94 [0.62-1.41],0.7540439688286631
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,51764,1305,0.88 [0.77-1.00],0.0568541935863498
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",51997,736,0.80 [0.67-0.95],0.0131278487081777
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,51896,361,0.78 [0.61-1.00],0.0463901432774689
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,50077,120,0.76 [0.49-1.17],0.2145460773558624
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,50089,132,0.66 [0.44-0.99],0.0433831431571425
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,50067,110,0.97 [0.62-1.53],0.8998344167493258
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,51899,1425,0.92 [0.81-1.05],0.2154994378926812
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,50846,372,0.91 [0.71-1.17],0.4751231235737884
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,50559,100,0.95 [0.59-1.54],0.8472056920723573
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,51462,201,1.02 [0.73-1.43],0.8974895219802301
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,51811,550,0.74 [0.61-0.91],0.0035839524804274
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,50846,387,0.91 [0.71-1.16],0.4361943212152692
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,51757,222,0.66 [0.48-0.90],0.0084130623377347
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,51423,949,0.83 [0.72-0.97],0.021437832999286
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,51016,284,0.87 [0.66-1.15],0.3219864202203221
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,48860,4376,0.86 [0.80-0.92],3.481299926948956e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,51739,478,0.77 [0.62-0.96],0.0201053474542659
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,52042,305,0.90 [0.68-1.18],0.4329252831563398
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,50779,822,0.87 [0.74-1.03],0.1087622585255409
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,51390,129,0.92 [0.60-1.39],0.6817047024413587
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,52038,111,1.05 [0.67-1.65],0.8351830179084865
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,50128,171,0.91 [0.63-1.31],0.6011361185331154
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,50257,300,1.20 [0.91-1.58],0.1964718728237058
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,49800,236,0.91 [0.67-1.24],0.558309069439221
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,50583,124,0.98 [0.64-1.51],0.9438186478082636
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",49691,127,0.88 [0.57-1.34],0.5439972034940549
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,50650,176,0.80 [0.56-1.14],0.2231137514997895
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",50868,394,0.86 [0.68-1.10],0.2251864278670991
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,50212,255,0.80 [0.60-1.08],0.150711311198064
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,49786,222,0.97 [0.71-1.34],0.869018721846139
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,49735,171,0.96 [0.67-1.39],0.8294987354832942
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,48111,3627,0.83 [0.77-0.90],4.2827157421069525e-06
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,50101,144,1.05 [0.70-1.56],0.8114748943883393
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,51562,830,0.85 [0.72-1.00],0.049095781005521
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,50851,119,1.07 [0.69-1.65],0.7703184240371239
+FASLG,Tumor necrosis factor ligand superfamily member 6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),51074,342,1.03 [0.79-1.33],0.8491629310724382
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,51657,174,0.96 [0.67-1.38],0.8283252163032517
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,51994,241,1.00 [0.74-1.36],0.9884984969844952
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,51819,260,0.82 [0.61-1.09],0.1724723048574856
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,51602,119,0.97 [0.62-1.49],0.8748630145748219
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,51609,126,1.00 [0.66-1.54],0.9825327248607788
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,51887,1815,0.83 [0.74-0.93],0.0010027235994021
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,51371,1299,0.89 [0.78-1.02],0.0822203685661545
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,50328,256,0.79 [0.59-1.07],0.1282802082847219
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,50246,174,0.59 [0.41-0.84],0.0030303421488457
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Acute pharyngitis,51593,151,0.86 [0.58-1.26],0.4299040282971524
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,51870,428,0.91 [0.72-1.14],0.4073411157680078
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,51569,127,0.86 [0.57-1.31],0.4908162359970504
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,All influenza,48014,239,0.92 [0.68-1.26],0.6061084617079606
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),48009,234,0.93 [0.68-1.28],0.6694589307026022
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Allergic asthma (mode),35692,236,0.78 [0.57-1.07],0.1177558360469053
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Allergic rhinitis,51816,561,0.93 [0.76-1.14],0.4895809250634838
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",38479,3568,0.80 [0.74-0.87],4.972154495970335e-08
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",38970,3514,0.80 [0.73-0.86],3.222670915513574e-08
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),51265,279,0.72 [0.54-0.95],0.0196474001257807
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",47939,164,0.60 [0.42-0.86],0.0056393927073406
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Bronchiectasis,45142,708,0.68 [0.57-0.81],2.19797919742784e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",44551,117,0.61 [0.40-0.93],0.0224202474959142
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,50044,5610,0.78 [0.73-0.83],2.5146213632165736e-15
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",49320,142,1.14 [0.76-1.69],0.5323238480782788
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Chronic sinusitis,49491,313,0.97 [0.75-1.27],0.8528040260064312
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",51680,2394,0.70 [0.64-0.77],5.885045317060177e-14
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Deviated nasal septum,49394,216,0.68 [0.50-0.94],0.0197385383789763
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,47926,10602,0.85 [0.81-0.89],2.866795294864256e-12
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",49909,731,0.76 [0.64-0.91],0.0022883466621273
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Early onset COPD,49921,635,0.58 [0.49-0.69],7.372630568289721e-10
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Emphysema,45067,633,0.59 [0.49-0.71],6.862849026603049e-09
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,49473,578,0.49 [0.40-0.59],1.482255041046292e-13
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Influenza and pneumonia,51636,3861,0.77 [0.71-0.83],1.623953803097751e-11
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Interstitial lung disease,49542,647,0.52 [0.43-0.62],8.964481627015953e-13
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Later onset COPD,50068,1759,0.74 [0.67-0.83],1.591926726555213e-07
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,52058,662,0.80 [0.67-0.96],0.0189991842433474
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Nasal polyp,49395,217,1.12 [0.81-1.54],0.5059855318072017
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,51581,1954,0.82 [0.74-0.92],0.0004194916680554
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Other diseases of pleura,51607,4004,0.83 [0.77-0.89],7.063625691038743e-07
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,50855,1677,0.91 [0.81-1.02],0.104120481358692
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Other pleural conditions,47704,101,0.66 [0.41-1.05],0.081768007520445
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,51907,807,0.59 [0.50-0.70],3.1351015806004224e-10
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,51868,2607,0.80 [0.73-0.87],1.2927044741748944e-06
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Pleural effusion,49605,2002,0.87 [0.78-0.96],0.0087714249335184
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Pleural plaque,47914,311,0.77 [0.59-1.00],0.0542082447869207
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",51128,3353,0.76 [0.71-0.83],1.0248573321269551e-10
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,51926,530,0.78 [0.64-0.96],0.0205446644470067
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Pneumothorax,47839,236,0.73 [0.54-0.99],0.0445673376813914
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Pollen allergy,52035,478,0.92 [0.74-1.14],0.4556787420177756
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Pulmonary oedema,51232,132,0.82 [0.55-1.24],0.3539178047132078
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Respiratory insufficiency,35565,109,0.63 [0.41-0.98],0.0420066084572786
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,51538,1911,0.82 [0.73-0.91],0.0002544190419767
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,49741,563,0.93 [0.76-1.13],0.4667790284607254
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Viral pneumonia,48278,503,0.68 [0.55-0.83],0.00025261236538
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",51293,414,0.68 [0.54-0.86],0.0010250894733248
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,24025,225,0.65 [0.47-0.89],0.0076662344686674
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,36784,128,1.05 [0.69-1.59],0.8346449690524813
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Acute appendicitis,51759,294,1.36 [1.03-1.80],0.0290380736030879
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Acute gastritis,39179,179,0.85 [0.59-1.21],0.3609355980899037
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Acute pancreatitis,48360,369,0.85 [0.67-1.09],0.2092660910742898
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Acute peritonitis,51133,188,1.01 [0.71-1.42],0.9768933314581923
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Alcoholic liver disease,50281,150,0.84 [0.57-1.22],0.3518932407365861
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Barrett oesophagus,39879,879,0.81 [0.69-0.95],0.0089059698153607
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",48193,202,0.78 [0.56-1.09],0.1533159045309554
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",51237,202,0.78 [0.56-1.09],0.1492416491443817
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Cholecystitis,48402,411,0.92 [0.73-1.16],0.4705965384928167
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Cholelithiasis,49995,2004,0.96 [0.86-1.07],0.4722168015325345
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Chronic gastritis,39618,618,1.01 [0.83-1.22],0.9283960109267172
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Chronic pancreatitis,48092,101,0.55 [0.35-0.87],0.0105492927332304
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",51790,208,0.99 [0.71-1.37],0.9287390030270724
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Coeliac disease,48844,249,1.04 [0.77-1.42],0.7775508141971271
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Collagenous colitis,48701,166,0.90 [0.62-1.30],0.5812769557663531
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,51775,373,0.96 [0.75-1.23],0.7582836012907523
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Constipation,51565,3376,0.82 [0.75-0.89],1.2497446141441734e-06
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Crohn disease,48722,187,0.48 [0.34-0.67],1.2716644255390806e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",51371,137,0.64 [0.43-0.95],0.0273957441475746
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Crohn's disease NAS,48711,176,0.48 [0.34-0.67],1.8468631725872663e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Dental caries,50586,461,0.67 [0.54-0.83],0.0002604088297441
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,46736,4476,0.86 [0.80-0.92],2.631498071853612e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Diseases of appendix,51834,369,1.24 [0.97-1.59],0.0864831131143634
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Diseases of liver,51837,1706,0.88 [0.78-0.99],0.0267620511770044
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",47715,8715,0.90 [0.86-0.95],7.047958188786081e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",51242,1117,0.86 [0.75-0.99],0.0356698869028758
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Diseases of peritoneum,51910,965,1.00 [0.86-1.17],0.9597385522367098
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,50357,232,1.03 [0.75-1.40],0.8730687774420587
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Diseases of salivary glands,50057,132,1.04 [0.69-1.57],0.8388478010191127
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Diseases of the digestive system,51455,2860,0.91 [0.83-1.00],0.0388114123058545
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Diseases of tongue,50088,224,0.80 [0.58-1.10],0.1651234880135521
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",50814,2823,0.92 [0.84-1.01],0.065253106391341
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,43007,6351,0.84 [0.79-0.89],4.717942385482825e-09
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Duodenal ulcer,39401,401,0.80 [0.63-1.01],0.0632937481022571
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",51914,322,0.75 [0.58-0.97],0.0294754624653879
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,51903,112,0.80 [0.51-1.24],0.3188607741033543
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,50384,253,0.96 [0.71-1.29],0.7730859766468736
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,36951,295,1.02 [0.77-1.35],0.9038455577002884
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Functional dyspepsia,40106,1106,0.82 [0.71-0.95],0.0064827521211263
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Gastric ulcer,39722,722,0.76 [0.64-0.91],0.002635725690066
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,44046,5046,0.87 [0.81-0.93],6.166612579192436e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,40081,1081,0.77 [0.66-0.88],0.0002893951576355
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,40324,16717,0.93 [0.90-0.97],0.0002473624066576
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,GI-bleeding,50939,2344,0.93 [0.84-1.03],0.1568208134672966
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,50234,109,0.91 [0.58-1.42],0.6660304502203871
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,38621,2540,0.92 [0.84-1.01],0.0958192712507127
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",50259,128,1.04 [0.69-1.58],0.8500100179712506
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Hernia,48791,6531,0.89 [0.84-0.94],7.632210428566691e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Impacted teeth,51917,104,0.82 [0.51-1.30],0.3877577694256935
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Impaction of intestines,36769,113,0.83 [0.53-1.30],0.4170569182399062
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Inguinal hernia,44079,1819,0.94 [0.84-1.06],0.3216806263685332
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",42468,208,1.05 [0.75-1.47],0.7793855527220535
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,36852,196,0.66 [0.47-0.92],0.0157079204470998
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Intestinal malabsorption,48883,288,1.04 [0.79-1.38],0.7684219022167749
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,37768,1112,0.76 [0.66-0.88],0.0002129488321726
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,52026,747,0.77 [0.65-0.91],0.0023792561206056
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,50055,1520,0.88 [0.78-1.00],0.0453355599691665
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,50559,2024,0.88 [0.80-0.98],0.0237214315306932
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Oesophageal obstruction,39380,380,0.88 [0.69-1.12],0.3043591108847432
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Oesophagitis,40215,1215,0.84 [0.73-0.96],0.0121479592217845
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,51983,276,0.99 [0.75-1.32],0.9516930422710718
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,42399,139,0.68 [0.46-1.01],0.0585653732523302
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,39401,2745,0.91 [0.83-0.99],0.0375865491716314
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,48557,566,0.70 [0.58-0.85],0.0004075823649129
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,48310,319,0.93 [0.71-1.22],0.6045594271335754
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Other diseases of intestine,40168,3512,0.83 [0.77-0.90],6.118759064526948e-06
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Other diseases of intestines,48027,11371,0.87 [0.83-0.91],1.0374819268866615e-09
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,50042,416,0.91 [0.72-1.15],0.448437117725995
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Other diseases of liver,51528,1397,0.91 [0.80-1.03],0.12603477798506
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,40340,1340,0.78 [0.68-0.89],0.0001746157553679
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Other diseases of pancreas,48294,303,1.01 [0.77-1.32],0.9649595586359896
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,51773,828,0.97 [0.82-1.15],0.747580418841066
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,40918,1918,0.86 [0.77-0.96],0.0091224846195569
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,50970,2375,0.94 [0.85-1.03],0.1881462507370487
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,50502,377,0.91 [0.72-1.16],0.463195394286184
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,40126,3470,0.80 [0.73-0.86],2.9488309969806616e-08
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),43050,4050,0.89 [0.82-0.96],0.0018297732588396
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,50330,199,0.58 [0.42-0.80],0.000933842577471
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,50312,1777,0.87 [0.78-0.98],0.0182681770899162
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",37348,692,0.76 [0.64-0.91],0.0031892475390325
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,51883,131,0.72 [0.48-1.08],0.110896088531967
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,37643,987,0.76 [0.66-0.89],0.0004933020001953
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",48896,301,0.64 [0.49-0.83],0.0009037815582621
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Recurring oral aphthae,52062,115,1.11 [0.71-1.74],0.6314640206709199
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,50136,238,0.98 [0.72-1.33],0.8981158950499584
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Toxic colitis,48650,115,0.73 [0.47-1.13],0.1547576560752773
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,39535,535,0.75 [0.61-0.92],0.0051001403423796
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Ulcerative colitis,48858,323,0.94 [0.72-1.23],0.6519733781807893
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",48803,268,0.95 [0.71-1.28],0.7498196432511759
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Umbilical hernia,42807,547,0.95 [0.78-1.17],0.6483096118201168
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,37009,353,0.83 [0.64-1.07],0.1432011113580049
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Ventral hernia,42786,526,0.85 [0.69-1.04],0.1219089734909785
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XI Diseases of the digestive system,Volvulus,36816,160,0.92 [0.63-1.34],0.6555547216714915
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,51917,598,0.78 [0.64-0.94],0.0103238600747885
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,51430,148,1.25 [0.84-1.85],0.2647937900151251
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,47953,323,0.94 [0.72-1.23],0.6700862918884183
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,50797,1415,0.93 [0.82-1.05],0.2376813255146561
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",49734,352,0.80 [0.62-1.03],0.0842522199028217
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,48451,821,0.73 [0.62-0.86],0.0002120303493962
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,51463,557,0.96 [0.78-1.17],0.6755499628182482
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,51879,973,0.91 [0.79-1.06],0.2461578050567409
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,51003,97,0.91 [0.56-1.47],0.6873185737432328
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,48941,6463,0.94 [0.88-0.99],0.0274019700980285
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,51170,903,1.02 [0.87-1.19],0.8109487197801872
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,50902,635,0.94 [0.78-1.14],0.529095378032566
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,51294,1912,0.89 [0.80-0.99],0.0356212247603911
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",52049,110,0.86 [0.55-1.35],0.510002577264391
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,47744,114,0.37 [0.25-0.54],4.355640575317473e-07
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,50373,106,1.41 [0.88-2.24],0.1489210787388553
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,51443,537,1.01 [0.82-1.24],0.9500508280233726
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,48543,913,0.96 [0.82-1.13],0.6275346135915046
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,47758,128,1.33 [0.87-2.02],0.1906579405813555
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,51909,168,0.76 [0.53-1.09],0.1402626297441626
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,49763,381,0.88 [0.69-1.12],0.2886017998335591
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,51673,391,0.98 [0.77-1.25],0.8737881410112858
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,51036,130,0.93 [0.61-1.41],0.7202253818796964
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,47766,136,1.07 [0.71-1.61],0.7573685619797037
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,50915,3285,0.91 [0.84-0.99],0.0280223009887039
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",48620,990,0.96 [0.83-1.12],0.631773684374977
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,47766,136,1.33 [0.88-2.00],0.1754163060608943
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,51903,621,0.99 [0.82-1.20],0.9020363480418404
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,51045,139,0.68 [0.46-1.01],0.057771848816264
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,51791,509,1.03 [0.83-1.27],0.7978742867138349
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,51974,655,0.78 [0.65-0.94],0.0079550832490806
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,47885,255,0.95 [0.70-1.28],0.7126650432966193
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,48169,539,0.96 [0.78-1.18],0.6815566230741923
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,51952,633,0.76 [0.63-0.92],0.0054278590054102
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",48109,479,1.01 [0.81-1.25],0.9443250779221166
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,52022,281,0.83 [0.63-1.11],0.2090337594539356
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,44678,222,1.13 [0.82-1.56],0.4457299551308088
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,47402,11373,0.90 [0.86-0.94],9.39065327578014e-06
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,44550,8521,0.87 [0.83-0.92],2.591589270445848e-07
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,44607,151,1.07 [0.72-1.58],0.734814879917236
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,45152,309,0.86 [0.65-1.12],0.2594079737770085
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,45204,361,1.02 [0.79-1.31],0.8764285134044982
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,51581,185,1.27 [0.90-1.80],0.1773808683398078
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",45043,200,0.86 [0.61-1.20],0.3676259928538344
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,38317,2288,0.93 [0.84-1.03],0.1598548334690274
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",51810,381,1.16 [0.91-1.49],0.2283645697934049
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,45740,897,0.75 [0.64-0.88],0.0003928519225049
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,44025,14638,0.90 [0.86-0.94],1.676372814349183e-07
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,48096,236,1.03 [0.75-1.40],0.8551205185964361
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,44761,305,0.93 [0.71-1.22],0.5885720018225009
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,45602,1146,0.84 [0.73-0.97],0.0188426373915428
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,50205,5362,0.83 [0.78-0.89],4.130436378973113e-08
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,45004,548,1.01 [0.82-1.24],0.9442883165406196
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,44898,442,0.81 [0.65-1.01],0.0641340646761749
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,44725,269,0.63 [0.48-0.84],0.0014185576796534
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,50790,142,0.59 [0.40-0.87],0.0072993651609422
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,39438,3409,0.83 [0.76-0.90],5.622401601557652e-06
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,37251,1222,1.12 [0.98-1.29],0.1063382564026444
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",51931,1205,1.14 [0.99-1.31],0.0659666856944272
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,36181,152,0.68 [0.46-1.01],0.0553725573396246
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),36696,667,0.99 [0.82-1.19],0.9158209790038006
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,45071,615,0.97 [0.80-1.18],0.7680374117024871
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,37318,1289,1.14 [1.00-1.31],0.051347497909786
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,44955,112,0.73 [0.47-1.15],0.1740433045096992
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,46108,1265,0.76 [0.67-0.87],7.153658386219645e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,45456,613,0.83 [0.68-1.01],0.0563993398223033
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,37233,1204,1.12 [0.98-1.29],0.1032012488754442
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,44618,162,0.69 [0.48-1.00],0.0501595593742684
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",44581,125,0.70 [0.46-1.07],0.0967576112135537
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,48004,144,0.78 [0.53-1.16],0.2255128940534869
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,51301,3441,0.84 [0.77-0.91],1.9990151494578665e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,50115,2255,0.81 [0.74-0.90],4.555414290958904e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",51795,909,0.80 [0.68-0.94],0.0053777817081068
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,41044,5015,0.84 [0.79-0.90],5.3552934261611e-07
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,36154,125,0.98 [0.64-1.51],0.9371123627633444
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,44643,187,0.84 [0.60-1.19],0.330985162690623
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,36128,99,0.69 [0.42-1.12],0.1294015738433186
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),36280,251,0.70 [0.52-0.94],0.0197552276816315
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,48346,486,0.91 [0.73-1.13],0.3972073416942934
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,48624,764,0.77 [0.65-0.92],0.0030625055493747
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,52018,204,0.81 [0.58-1.12],0.199055650200687
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",48477,3634,0.80 [0.74-0.87],5.2843459624980464e-08
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,44660,204,0.89 [0.63-1.24],0.4774949229728235
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),36308,279,1.26 [0.94-1.69],0.1148845123748459
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,46301,1458,0.74 [0.66-0.84],2.895361607387812e-06
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,40373,4344,0.91 [0.84-0.98],0.0086881174688086
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,50839,191,0.69 [0.49-0.97],0.0337179005546682
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,52046,141,1.24 [0.83-1.85],0.2925877452084262
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,44621,165,1.08 [0.74-1.56],0.6918296270065472
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",46970,2514,0.93 [0.85-1.02],0.1324376778945971
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,44637,181,0.90 [0.63-1.28],0.5609194414310403
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,39300,3271,0.79 [0.72-0.85],1.5703141225632104e-08
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,48085,225,0.85 [0.62-1.16],0.2967898906920407
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,44564,108,1.05 [0.66-1.67],0.8352204090286505
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,45164,321,0.67 [0.52-0.88],0.0031515203613062
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,45570,1114,1.04 [0.90-1.20],0.5905448622769425
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,51363,715,0.88 [0.73-1.05],0.161759717955719
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,45994,1151,0.86 [0.75-0.99],0.0407794682687677
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,51819,883,0.78 [0.67-0.91],0.0020977668758997
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,52039,109,0.66 [0.43-1.03],0.0697313916000772
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,44841,385,0.91 [0.71-1.16],0.4496908158137491
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,41231,1525,0.76 [0.67-0.86],7.95831761619556e-06
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,45630,1174,0.90 [0.78-1.03],0.139080009684839
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],44913,457,1.01 [0.80-1.26],0.9593359225029404
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",36138,109,0.67 [0.43-1.06],0.0846705314733002
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,41041,5012,0.86 [0.80-0.92],1.1484472000751969e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,37347,1318,0.80 [0.70-0.91],0.0006444807293491
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,51119,471,0.77 [0.61-0.96],0.0184142677902056
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",51949,135,0.76 [0.51-1.13],0.1778212735837907
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",47711,103,1.04 [0.65-1.65],0.8830607407675983
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,36173,144,1.20 [0.80-1.79],0.3833661227495786
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,45047,204,1.02 [0.73-1.43],0.8886849180597709
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,36950,921,0.79 [0.67-0.92],0.0027502313200205
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,45075,619,0.93 [0.77-1.12],0.4392592810851367
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,45356,513,0.75 [0.60-0.92],0.0058026507374591
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,45222,379,0.73 [0.57-0.93],0.0110308367551617
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,40719,118,0.52 [0.34-0.79],0.002393140770161
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",52047,117,0.63 [0.41-0.96],0.0313075981368179
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,45647,1191,1.00 [0.87-1.14],0.9497579486283068
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],50830,182,1.09 [0.76-1.56],0.646134865375145
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,49644,5188,0.94 [0.88-1.01],0.0785946237274962
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",44722,266,0.93 [0.69-1.24],0.6168673210386278
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,45939,1096,0.73 [0.63-0.84],1.158899329512351e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,49253,474,0.74 [0.59-0.92],0.0075054948264541
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,45259,416,0.79 [0.62-1.00],0.0456425609351766
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,47980,3137,0.79 [0.73-0.86],8.646824012949454e-08
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,46902,2059,0.81 [0.73-0.90],6.310949323957342e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],44565,109,0.77 [0.49-1.22],0.2672339220426579
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,50916,268,0.74 [0.56-0.99],0.0426522637490925
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,44785,329,0.87 [0.67-1.13],0.2972073747113962
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,44609,153,0.87 [0.59-1.27],0.4667642780612211
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),36145,116,0.81 [0.52-1.27],0.3593792619676327
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Acute renal failure,49970,3172,0.89 [0.82-0.97],0.0055425373652185
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),21017,104,1.09 [0.68-1.75],0.7185071996535043
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,27363,112,0.88 [0.56-1.39],0.5923872087121964
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,51436,654,0.88 [0.73-1.05],0.1598340502324873
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,50950,168,0.94 [0.65-1.36],0.7359860861535145
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,49875,3077,0.80 [0.74-0.87],5.281354738231143e-07
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,51652,167,1.36 [0.94-1.96],0.1069806282480502
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,51586,607,0.94 [0.77-1.14],0.5009899741412078
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Cystitis,45874,470,0.76 [0.61-0.95],0.014766856043642
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Dialysis,46958,160,1.35 [0.92-1.97],0.1220808602031559
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,22714,3350,0.96 [0.88-1.04],0.3444477927943969
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Disorders of breast,27594,343,0.87 [0.67-1.12],0.2690555602945766
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Endometriosis,21098,185,0.89 [0.63-1.27],0.5290283439480461
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",21318,405,0.93 [0.73-1.18],0.5409842839288466
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,21942,1029,0.77 [0.67-0.89],0.0004670821137404
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,43467,10815,0.88 [0.84-0.92],9.20234488064871e-08
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,51654,169,0.89 [0.62-1.29],0.5443411084370474
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Hydrocele,19574,210,0.97 [0.69-1.35],0.8442471436701293
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,46778,592,0.82 [0.68-1.00],0.0539858931705873
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,22000,2636,0.95 [0.87-1.05],0.3143905756927808
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,27514,406,0.80 [0.64-1.01],0.0655871520609704
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),19598,234,1.07 [0.78-1.47],0.6676424159293166
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Irregular menses,27599,131,0.70 [0.46-1.06],0.0962681885617272
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Menorrhagia,21224,311,1.12 [0.85-1.48],0.4036507016365583
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,45564,160,0.73 [0.51-1.07],0.1042679247016044
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,23419,2506,0.89 [0.81-0.98],0.0130508586762131
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,19475,111,0.99 [0.63-1.55],0.9516315994151608
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,21056,143,0.73 [0.49-1.08],0.1136935210465107
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",52057,128,0.86 [0.57-1.31],0.491916949778333
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",52066,133,0.84 [0.56-1.26],0.3929527255383283
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,49972,4568,0.88 [0.82-0.94],0.0003521280935435
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,46850,1446,0.83 [0.73-0.94],0.0030262291646168
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,27371,120,0.98 [0.63-1.51],0.910901354036165
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,51943,964,0.86 [0.74-1.00],0.0482238642540544
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,19677,313,0.87 [0.66-1.13],0.2930401885234138
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,19645,281,1.00 [0.75-1.33],0.979018428231884
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,19597,233,1.11 [0.81-1.52],0.5111343025497219
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,52004,142,0.91 [0.61-1.36],0.6510570943970627
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,48920,3516,0.86 [0.79-0.93],0.0002017983348955
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,27317,209,0.84 [0.61-1.17],0.3022039222233793
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,21071,158,0.62 [0.43-0.89],0.0096485343244381
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",21290,377,1.24 [0.96-1.58],0.094109726136902
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,21024,111,0.91 [0.58-1.43],0.6954130666869198
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,21124,211,0.89 [0.64-1.24],0.4897300868543819
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,46877,691,0.87 [0.72-1.04],0.1200628089542085
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,51298,319,0.72 [0.56-0.94],0.0150515773908641
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,21227,314,1.04 [0.79-1.36],0.778039738788285
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,21022,109,0.55 [0.36-0.85],0.0071249851176996
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,21573,660,0.99 [0.82-1.19],0.9146894590092952
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,21077,164,0.98 [0.68-1.42],0.9240312811935568
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,21520,607,1.07 [0.88-1.30],0.5070122298302158
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,51582,97,0.80 [0.50-1.29],0.3623924518248194
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",19634,270,1.00 [0.75-1.35],0.9767677245946308
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,51577,5391,0.87 [0.82-0.93],2.660320680510256e-05
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",46430,244,0.78 [0.57-1.05],0.1026746944857353
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,47061,263,0.79 [0.59-1.06],0.1212616602037668
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,50895,113,0.69 [0.44-1.07],0.1000399684449039
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Urethral stricture,45851,447,0.96 [0.77-1.20],0.7206615238210352
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Urolithiasis,51587,805,0.89 [0.75-1.05],0.1789404640728021
+FASLG,Tumor necrosis factor ligand superfamily member 6,Chapter XIV Diseases of the genitourinary system,Uterine polyps,21057,144,1.19 [0.80-1.77],0.4011805995847219

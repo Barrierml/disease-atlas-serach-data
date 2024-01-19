@@ -1,0 +1,57 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+TPR,Nucleoprotein TPR,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,19175,2796,1.15 [1.08-1.22],1.307867026126286e-05
+TPR,Nucleoprotein TPR,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),19165,2817,1.20 [1.13-1.27],3.830381402578528e-09
+TPR,Nucleoprotein TPR,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,17947,880,1.25 [1.13-1.38],2.391198884293309e-05
+TPR,Nucleoprotein TPR,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,17308,963,1.25 [1.13-1.38],1.4114997573976066e-05
+TPR,Nucleoprotein TPR,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,17069,326,1.32 [1.13-1.54],0.0005237191899787
+TPR,Nucleoprotein TPR,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,19752,1021,1.19 [1.07-1.31],0.0007232828361464
+TPR,Nucleoprotein TPR,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,19124,710,1.24 [1.10-1.39],0.0002608281892104
+TPR,Nucleoprotein TPR,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,19770,969,1.22 [1.10-1.34],9.9101342459488e-05
+TPR,Nucleoprotein TPR,Chapter I Certain infectious and parasitic diseases,Other septicaemia,19646,845,1.22 [1.10-1.35],0.0002332026606666
+TPR,Nucleoprotein TPR,Chapter I Certain infectious and parasitic diseases,Other viral diseases,19808,97,1.52 [1.22-1.90],0.0002213732441787
+TPR,Nucleoprotein TPR,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",19794,83,1.52 [1.20-1.93],0.0006081419264543
+TPR,Nucleoprotein TPR,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",15485,61,1.68 [1.38-2.06],3.569211040309483e-07
+TPR,Nucleoprotein TPR,Chapter II Neoplasms,Lymphoid leukaemia,15480,56,2.00 [1.68-2.38],8.321988982265479e-15
+TPR,Nucleoprotein TPR,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,19434,2247,1.17 [1.09-1.25],1.3305979823316493e-05
+TPR,Nucleoprotein TPR,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,14479,61,1.63 [1.27-2.10],0.0001224370431102
+TPR,Nucleoprotein TPR,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,14876,458,1.30 [1.14-1.49],8.736853579208826e-05
+TPR,Nucleoprotein TPR,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,14654,236,1.39 [1.17-1.65],0.0002006927382746
+TPR,Nucleoprotein TPR,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,14696,278,1.39 [1.18-1.63],7.253964697388669e-05
+TPR,Nucleoprotein TPR,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,18717,4299,1.12 [1.06-1.18],1.7793455170605455e-05
+TPR,Nucleoprotein TPR,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",15729,1311,1.26 [1.16-1.37],3.2217228549336696e-08
+TPR,Nucleoprotein TPR,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,19234,1836,1.23 [1.14-1.32],1.4341985971263353e-08
+TPR,Nucleoprotein TPR,Chapter IX Diseases of the circulatory system,"Heart failure, strict",19601,1081,1.19 [1.07-1.31],0.0007837103063111
+TPR,Nucleoprotein TPR,Chapter IX Diseases of the circulatory system,Hypertension,17803,5646,1.08 [1.03-1.14],0.0007332664623604
+TPR,Nucleoprotein TPR,Chapter IX Diseases of the circulatory system,"Hypertension, essential",17809,5652,1.09 [1.04-1.14],0.0006590960670322
+TPR,Nucleoprotein TPR,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",12321,164,1.51 [1.27-1.80],3.3078865200216416e-06
+TPR,Nucleoprotein TPR,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,18862,225,1.37 [1.15-1.63],0.0004292962824979
+TPR,Nucleoprotein TPR,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,16586,1018,1.20 [1.08-1.32],0.0004578171185983
+TPR,Nucleoprotein TPR,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,19329,307,1.43 [1.24-1.66],7.989523095078576e-07
+TPR,Nucleoprotein TPR,Chapter IX Diseases of the circulatory system,Secondary right heart disease,19328,306,1.43 [1.24-1.65],1.0593169148496686e-06
+TPR,Nucleoprotein TPR,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",19790,287,1.38 [1.18-1.61],4.027903721906953e-05
+TPR,Nucleoprotein TPR,Chapter VI Diseases of the nervous system,Small fibre neuropathy,19550,47,1.72 [1.33-2.22],3.464533073542372e-05
+TPR,Nucleoprotein TPR,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,19144,2129,1.13 [1.06-1.22],0.0005261328843783
+TPR,Nucleoprotein TPR,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",19680,1080,1.20 [1.10-1.32],0.0001115831036014
+TPR,Nucleoprotein TPR,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,19072,295,1.36 [1.16-1.58],0.0001022492382621
+TPR,Nucleoprotein TPR,Chapter X Diseases of the respiratory system,Influenza and pneumonia,19655,1719,1.17 [1.08-1.26],8.72969738715995e-05
+TPR,Nucleoprotein TPR,Chapter X Diseases of the respiratory system,Interstitial lung disease,19092,315,1.39 [1.20-1.60],8.249060811118384e-06
+TPR,Nucleoprotein TPR,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,19632,796,1.25 [1.12-1.39],3.703370416983544e-05
+TPR,Nucleoprotein TPR,Chapter X Diseases of the respiratory system,Other diseases of pleura,19630,1818,1.19 [1.10-1.28],5.451843442009465e-06
+TPR,Nucleoprotein TPR,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,19770,387,1.36 [1.18-1.55],1.1100151326524578e-05
+TPR,Nucleoprotein TPR,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,19759,1154,1.19 [1.08-1.30],0.0003768738263875
+TPR,Nucleoprotein TPR,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",19443,1507,1.18 [1.09-1.28],5.45149298324201e-05
+TPR,Nucleoprotein TPR,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,19617,781,1.25 [1.12-1.39],4.152515414748479e-05
+TPR,Nucleoprotein TPR,Chapter XI Diseases of the digestive system,Alcoholic liver disease,19103,91,1.48 [1.18-1.85],0.0006346077111356
+TPR,Nucleoprotein TPR,Chapter XI Diseases of the digestive system,Diseases of liver,19748,736,1.26 [1.14-1.40],1.7220430929303232e-05
+TPR,Nucleoprotein TPR,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,19827,314,1.31 [1.13-1.52],0.0004244552516119
+TPR,Nucleoprotein TPR,Chapter XI Diseases of the digestive system,Other diseases of liver,19599,587,1.27 [1.13-1.43],5.815020854107392e-05
+TPR,Nucleoprotein TPR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,14973,792,1.22 [1.09-1.36],0.0004708356187214
+TPR,Nucleoprotein TPR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",19750,779,1.23 [1.10-1.37],0.0002603145953332
+TPR,Nucleoprotein TPR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,19851,32,1.75 [1.28-2.40],0.0004844262358017
+TPR,Nucleoprotein TPR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,16054,1873,1.18 [1.10-1.27],8.541416306910926e-06
+TPR,Nucleoprotein TPR,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,17520,176,1.40 [1.15-1.70],0.0007406038412358
+TPR,Nucleoprotein TPR,Chapter XIV Diseases of the genitourinary system,Acute renal failure,19133,1482,1.21 [1.11-1.31],8.170434325030223e-06
+TPR,Nucleoprotein TPR,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,18765,1114,1.23 [1.12-1.36],2.346158783331136e-05
+TPR,Nucleoprotein TPR,Chapter XIV Diseases of the genitourinary system,Dialysis,17714,63,1.59 [1.21-2.09],0.0008578116397046
+TPR,Nucleoprotein TPR,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,17951,4605,1.09 [1.04-1.15],0.0008695680712595
+TPR,Nucleoprotein TPR,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,19658,2222,1.17 [1.09-1.25],2.1417930683129703e-05

@@ -1,0 +1,83 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),42001,5230,1.13 [1.05-1.21],0.0012335038461261
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,39755,1551,1.22 [1.08-1.38],0.0017010033650171
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,38386,1738,1.19 [1.06-1.35],0.0038106713591041
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,43048,2346,1.16 [1.04-1.29],0.0066571567771404
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,43123,1707,1.22 [1.09-1.38],0.0008945944032262
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter I Certain infectious and parasitic diseases,Other septicaemia,42913,1497,1.19 [1.04-1.36],0.0095376654259879
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter II Neoplasms,Melanocytic naevi,42996,349,0.63 [0.47-0.86],0.0034894656771951
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,42820,573,1.36 [1.12-1.66],0.0023423371580185
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,42023,4768,1.14 [1.06-1.23],0.000496547345378
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,40217,143,1.92 [1.44-2.57],9.98862272047345e-06
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,42786,1924,1.17 [1.04-1.31],0.0089652234169612
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,43145,91,2.04 [1.47-2.84],2.117720682987838e-05
+CSF2,Granulocyte-macrophage colony-stimulating factor,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,42747,2580,1.14 [1.03-1.27],0.0087262992991447
+CSF2,Granulocyte-macrophage colony-stimulating factor,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,37829,2511,1.15 [1.03-1.27],0.0096419862289223
+CSF2,Granulocyte-macrophage colony-stimulating factor,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,33560,446,1.35 [1.08-1.68],0.0085272831224532
+CSF2,Granulocyte-macrophage colony-stimulating factor,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,43304,347,1.39 [1.10-1.77],0.0067080902287537
+CSF2,Granulocyte-macrophage colony-stimulating factor,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",33382,268,1.67 [1.28-2.19],0.0001542326544574
+CSF2,Granulocyte-macrophage colony-stimulating factor,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,42287,3106,1.32 [1.22-1.44],6.409590411492169e-11
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,41260,95,1.94 [1.30-2.90],0.0012710490304077
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter IX Diseases of the circulatory system,Cardiac arrest,24077,311,1.44 [1.11-1.87],0.0059791433557154
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter IX Diseases of the circulatory system,"Heart failure, strict",42976,1787,1.25 [1.12-1.40],0.0001227966806505
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter IX Diseases of the circulatory system,"Hypertension, portal",43034,131,2.04 [1.56-2.67],1.828024084331397e-07
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",28883,312,1.59 [1.26-2.02],9.970200425951016e-05
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter IX Diseases of the circulatory system,Left bundle-branch block,36547,604,1.32 [1.08-1.61],0.006574185577024
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,41333,168,1.67 [1.19-2.35],0.0031394207195034
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,41563,398,1.40 [1.10-1.77],0.0066374720275616
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,37626,1683,1.19 [1.05-1.35],0.0051921617003128
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,41299,90,1.77 [1.17-2.67],0.0067424206325213
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,42061,896,1.30 [1.11-1.54],0.0013626553442504
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,42286,585,1.41 [1.17-1.71],0.0003605521448212
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter IX Diseases of the circulatory system,Peripheral artery disease,41773,658,1.44 [1.21-1.72],4.713363017729926e-05
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter IX Diseases of the circulatory system,Secondary right heart disease,42279,578,1.44 [1.19-1.73],0.0001714660217219
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,41175,309,1.42 [1.09-1.85],0.0093040525305549
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",43112,597,1.40 [1.16-1.68],0.000436130703871
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter V Mental and behavioural disorders,Any mental disorder,42235,6643,1.09 [1.02-1.16],0.0078831068033792
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",43033,698,1.32 [1.11-1.58],0.0020452925297999
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,43244,692,0.75 [0.60-0.93],0.007946135939125
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",43198,483,1.35 [1.09-1.67],0.0050875033965297
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter VI Diseases of the nervous system,Small fibre neuropathy,42795,80,2.07 [1.44-2.96],7.673242815070361e-05
+CSF2,Granulocyte-macrophage colony-stimulating factor,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,41450,191,1.57 [1.15-2.13],0.0041644108278318
+CSF2,Granulocyte-macrophage colony-stimulating factor,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,41672,123,1.84 [1.29-2.62],0.0007473027571405
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,43144,1444,1.19 [1.04-1.36],0.0092941267873295
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,41838,138,1.78 [1.27-2.49],0.000817408385439
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",42986,1966,1.17 [1.05-1.32],0.006774938641063
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter X Diseases of the respiratory system,Emphysema,37452,526,1.41 [1.13-1.76],0.0021686852444612
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,41089,492,1.73 [1.45-2.07],1.1354498225139978e-09
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter X Diseases of the respiratory system,Interstitial lung disease,41143,546,1.82 [1.55-2.14],2.557346791216197e-13
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter X Diseases of the respiratory system,Later onset COPD,41613,1429,1.22 [1.07-1.40],0.0034846931807745
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter X Diseases of the respiratory system,Other diseases of pleura,42924,3297,1.17 [1.07-1.28],0.0005029592207766
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,43151,680,1.70 [1.46-1.98],8.442036164883948e-12
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter X Diseases of the respiratory system,Pleural plaque,39890,263,1.61 [1.23-2.09],0.0004043490977509
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XI Diseases of the digestive system,Acute peritonitis,42540,150,1.70 [1.23-2.34],0.0013204287707413
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XI Diseases of the digestive system,Alcoholic liver disease,41817,121,1.66 [1.16-2.37],0.0060465343100198
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XI Diseases of the digestive system,Chronic gastritis,33029,501,1.43 [1.15-1.76],0.0009761045606152
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",43081,178,1.69 [1.27-2.25],0.0003562379488084
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XI Diseases of the digestive system,Diseases of liver,43120,1424,1.24 [1.09-1.41],0.0013624206332782
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",39681,7153,1.10 [1.04-1.17],0.0017930236657847
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XI Diseases of the digestive system,Diseases of peritoneum,43175,785,1.29 [1.08-1.53],0.0039167214036285
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XI Diseases of the digestive system,Diseases of the digestive system,42804,2371,1.18 [1.07-1.31],0.001579978010995
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",42288,2363,1.15 [1.03-1.27],0.0095884758784788
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,41910,214,1.55 [1.16-2.06],0.002798783928049
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XI Diseases of the digestive system,GI-bleeding,42354,1921,1.18 [1.06-1.33],0.0039311454915193
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XI Diseases of the digestive system,Inguinal hernia,36733,1508,0.81 [0.71-0.94],0.0055497347110478
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XI Diseases of the digestive system,Other diseases of liver,42857,1161,1.28 [1.11-1.47],0.0007057403285748
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,34118,1590,1.22 [1.08-1.39],0.0017657960540761
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,42379,1946,1.18 [1.05-1.32],0.0040450617887575
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),35852,3324,1.19 [1.09-1.30],0.0001129896947673
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,30873,294,1.64 [1.27-2.11],0.0001362322138991
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",43290,91,1.75 [1.16-2.66],0.0079397255571647
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,36605,12117,1.07 [1.02-1.13],0.0061360120341849
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,30988,972,1.32 [1.13-1.53],0.0003334767046254
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",43193,956,1.32 [1.14-1.54],0.0002215339188004
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,39954,115,1.75 [1.25-2.44],0.0011223080648603
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,34151,4135,1.15 [1.06-1.25],0.0005950569592921
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,39011,1672,1.19 [1.06-1.35],0.0046866573210737
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XIV Diseases of the genitourinary system,Acute renal failure,41760,2508,1.26 [1.14-1.39],2.879570309559347e-06
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,41510,2258,1.29 [1.16-1.43],9.89883782277016e-07
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,42986,103,1.95 [1.37-2.77],0.0002027616446695
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XIV Diseases of the genitourinary system,Dialysis,39360,108,1.79 [1.25-2.57],0.0016397930003617
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,43004,121,1.87 [1.37-2.54],6.535838045165062e-05
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,17539,97,0.40 [0.22-0.72],0.0022928218901978
+CSF2,Granulocyte-macrophage colony-stimulating factor,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,42966,4220,1.22 [1.13-1.31],4.2193201322543683e-07

@@ -1,0 +1,101 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+NADK,NAD kinase,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),27689,2089,1.13 [1.06-1.20],0.0001726745848962
+NADK,NAD kinase,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,26080,626,1.17 [1.05-1.31],0.0055597285905016
+NADK,NAD kinase,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,21034,1212,1.10 [1.02-1.20],0.0172119931645506
+NADK,NAD kinase,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,26072,286,1.20 [1.02-1.42],0.0243308174089915
+NADK,NAD kinase,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,27563,618,1.13 [1.01-1.27],0.0378995682349113
+NADK,NAD kinase,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,28236,715,1.13 [1.02-1.26],0.0212854147984389
+NADK,NAD kinase,Chapter I Certain infectious and parasitic diseases,Other viral diseases,28241,176,1.29 [1.06-1.57],0.0103046982974388
+NADK,NAD kinase,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",28225,160,1.26 [1.02-1.55],0.0296549076083644
+NADK,NAD kinase,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,27103,81,1.40 [1.07-1.83],0.0136657689341995
+NADK,NAD kinase,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,28311,55,1.49 [1.08-2.04],0.0139565663596556
+NADK,NAD kinase,Chapter I Certain infectious and parasitic diseases,Viral warts,28191,45,0.49 [0.28-0.85],0.0113526898439797
+NADK,NAD kinase,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",28142,1203,0.89 [0.81-0.98],0.0191306188187875
+NADK,NAD kinase,Chapter II Neoplasms,Benign neoplasm: Ascending colon,28332,280,0.78 [0.63-0.96],0.0164726771967128
+NADK,NAD kinase,Chapter II Neoplasms,Benign neoplasm: Transverse colon,28332,315,0.69 [0.57-0.84],0.0002598786406196
+NADK,NAD kinase,Chapter II Neoplasms,Lymphoid leukaemia,24495,29,1.78 [1.27-2.49],0.0007382124725265
+NADK,NAD kinase,Chapter II Neoplasms,Melanoma in situ,24482,53,0.41 [0.24-0.70],0.0009187235055403
+NADK,NAD kinase,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",24536,70,1.36 [1.00-1.83],0.0464640345859808
+NADK,NAD kinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,27846,71,1.46 [1.11-1.92],0.0065138997808544
+NADK,NAD kinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,28056,116,1.47 [1.19-1.82],0.0004059825887008
+NADK,NAD kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,26387,141,1.33 [1.10-1.61],0.0030104012648268
+NADK,NAD kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,25966,154,0.71 [0.53-0.94],0.0159874252814698
+NADK,NAD kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,24194,66,1.42 [1.07-1.89],0.0150897266526869
+NADK,NAD kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,26580,2452,1.12 [1.06-1.19],0.0001225794486795
+NADK,NAD kinase,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",24528,400,1.20 [1.04-1.38],0.0107203335638324
+NADK,NAD kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,27632,3504,1.08 [1.03-1.14],0.0029792046577274
+NADK,NAD kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,28150,1976,0.92 [0.85-0.98],0.0178459521173184
+NADK,NAD kinase,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",28154,1973,0.92 [0.85-0.99],0.0196186299269515
+NADK,NAD kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,28329,141,1.33 [1.08-1.64],0.0079650800437951
+NADK,NAD kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,26495,119,1.29 [1.01-1.65],0.0443503804536348
+NADK,NAD kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,27907,1531,1.28 [1.20-1.37],3.478057384409356e-13
+NADK,NAD kinase,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",27640,108,1.32 [1.05-1.66],0.019460506493668
+NADK,NAD kinase,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,27598,1390,1.10 [1.01-1.18],0.0236517853912112
+NADK,NAD kinase,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,26350,6170,1.08 [1.04-1.12],0.0001442583453952
+NADK,NAD kinase,Chapter IX Diseases of the circulatory system,Hypertension,26945,5023,1.12 [1.07-1.16],1.631996170848387e-07
+NADK,NAD kinase,Chapter IX Diseases of the circulatory system,"Hypertension, essential",26962,5040,1.12 [1.07-1.16],1.798443997550283e-07
+NADK,NAD kinase,Chapter IX Diseases of the circulatory system,"Hypertension, portal",28170,60,0.62 [0.38-0.99],0.0437749768240863
+NADK,NAD kinase,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,21990,68,1.44 [1.09-1.90],0.0111730593977226
+NADK,NAD kinase,Chapter IX Diseases of the circulatory system,Other disorders of veins,27041,73,0.54 [0.35-0.83],0.0052620758987815
+NADK,NAD kinase,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,27545,39,1.55 [1.09-2.20],0.0137352535799206
+NADK,NAD kinase,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,27878,346,1.28 [1.12-1.48],0.0004040315251059
+NADK,NAD kinase,Chapter IX Diseases of the circulatory system,Peripheral artery disease,27717,211,1.22 [1.02-1.46],0.0297282395366318
+NADK,NAD kinase,Chapter IX Diseases of the circulatory system,Right bundle-branch block,25781,183,1.27 [1.04-1.54],0.0181232457214618
+NADK,NAD kinase,Chapter IX Diseases of the circulatory system,Varicose veins,27295,327,0.82 [0.68-0.98],0.033761482656381
+NADK,NAD kinase,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,27049,487,1.14 [1.01-1.30],0.0400156746285402
+NADK,NAD kinase,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",27830,61,1.41 [1.04-1.92],0.0266491881805272
+NADK,NAD kinase,Chapter VI Diseases of the nervous system,Small fibre neuropathy,28063,38,1.51 [1.07-2.15],0.0195243525788139
+NADK,NAD kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,27580,37,1.47 [1.01-2.14],0.0466028138244002
+NADK,NAD kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",28297,225,1.23 [1.02-1.48],0.03014929972483
+NADK,NAD kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,27929,121,1.33 [1.05-1.67],0.0176956953740082
+NADK,NAD kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,28311,38,1.53 [1.06-2.21],0.0238862106699891
+NADK,NAD kinase,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,28144,55,1.42 [1.03-1.96],0.0303432651864878
+NADK,NAD kinase,Chapter X Diseases of the respiratory system,Allergic asthma (mode),21003,127,1.27 [1.00-1.61],0.0485348593061412
+NADK,NAD kinase,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),28054,98,1.31 [1.01-1.68],0.0383568789329931
+NADK,NAD kinase,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",26985,58,1.44 [1.07-1.93],0.0174457999911013
+NADK,NAD kinase,Chapter X Diseases of the respiratory system,Deviated nasal septum,26893,131,0.73 [0.54-0.99],0.0423315551655447
+NADK,NAD kinase,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,26373,4373,1.05 [1.00-1.10],0.0445441467536891
+NADK,NAD kinase,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,27067,118,1.34 [1.07-1.68],0.0103327012389166
+NADK,NAD kinase,Chapter X Diseases of the respiratory system,Interstitial lung disease,27093,144,1.35 [1.10-1.66],0.0040142648619061
+NADK,NAD kinase,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,28126,634,1.21 [1.08-1.34],0.0006272687513779
+NADK,NAD kinase,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,28288,204,1.31 [1.10-1.56],0.0029831541029293
+NADK,NAD kinase,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,28259,870,1.15 [1.04-1.26],0.0047270566938696
+NADK,NAD kinase,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,28106,614,1.21 [1.08-1.35],0.000699699367393
+NADK,NAD kinase,Chapter XI Diseases of the digestive system,Diseases of liver,28221,769,1.14 [1.03-1.27],0.009982833989475
+NADK,NAD kinase,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",27844,631,1.15 [1.02-1.28],0.0178606227717457
+NADK,NAD kinase,Chapter XI Diseases of the digestive system,Functional dyspepsia,23087,527,0.85 [0.73-0.98],0.0295659030788443
+NADK,NAD kinase,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,22218,584,0.85 [0.74-0.97],0.0188637704301315
+NADK,NAD kinase,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,28315,402,1.19 [1.03-1.36],0.0145487591345537
+NADK,NAD kinase,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,22960,1326,0.91 [0.83-0.99],0.0381989548770004
+NADK,NAD kinase,Chapter XI Diseases of the digestive system,Other diseases of intestine,23175,1541,0.88 [0.81-0.96],0.0038871500211055
+NADK,NAD kinase,Chapter XI Diseases of the digestive system,Other diseases of liver,28076,624,1.13 [1.01-1.27],0.033805447361301
+NADK,NAD kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,28071,235,1.20 [1.00-1.44],0.0441573202753772
+NADK,NAD kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,26726,56,1.69 [1.29-2.21],0.0001174746184651
+NADK,NAD kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,26864,194,0.78 [0.61-1.00],0.0492837119605953
+NADK,NAD kinase,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",26802,132,1.33 [1.08-1.63],0.0065698709775814
+NADK,NAD kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,26469,4787,0.95 [0.90-0.99],0.0211854618754529
+NADK,NAD kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,25050,3368,0.93 [0.88-0.98],0.0112452268949903
+NADK,NAD kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,22453,771,0.88 [0.78-0.99],0.0330103042097244
+NADK,NAD kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",28283,127,1.29 [1.03-1.63],0.0300938832518574
+NADK,NAD kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",28230,359,1.24 [1.08-1.43],0.0029313517751389
+NADK,NAD kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,23489,1807,0.90 [0.84-0.98],0.0094099802182885
+NADK,NAD kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),21798,116,0.61 [0.44-0.86],0.0045730796823737
+NADK,NAD kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,27080,250,1.29 [1.09-1.53],0.0030274590440706
+NADK,NAD kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),21798,116,0.68 [0.49-0.95],0.0229026596096792
+NADK,NAD kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,25394,116,0.68 [0.49-0.95],0.0239470815183122
+NADK,NAD kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,27994,213,1.29 [1.07-1.55],0.0063061781576616
+NADK,NAD kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,28239,339,1.24 [1.07-1.43],0.0049149566468827
+NADK,NAD kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,22046,364,1.20 [1.03-1.38],0.0152518121242159
+NADK,NAD kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],27870,89,1.46 [1.13-1.88],0.00350506550981
+NADK,NAD kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,26911,189,0.74 [0.57-0.95],0.0182688868435946
+NADK,NAD kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,27930,149,1.46 [1.20-1.77],0.0001475388275495
+NADK,NAD kinase,Chapter XIV Diseases of the genitourinary system,Acute renal failure,27760,878,1.18 [1.08-1.30],0.000455356242041
+NADK,NAD kinase,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",11831,393,0.80 [0.67-0.95],0.0106790006036102
+NADK,NAD kinase,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,11867,429,0.80 [0.68-0.95],0.0088103996832371
+NADK,NAD kinase,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,28183,68,1.63 [1.27-2.10],0.0001293314150751
+NADK,NAD kinase,Chapter XIV Diseases of the genitourinary system,Irregular menses,15300,129,0.71 [0.52-0.97],0.0312694821037732
+NADK,NAD kinase,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,12891,1453,0.86 [0.79-0.94],0.0006850892624291
+NADK,NAD kinase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,11547,109,0.69 [0.49-0.96],0.029597076512505
+NADK,NAD kinase,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,28080,117,1.34 [1.07-1.69],0.0115069945359865
+NADK,NAD kinase,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,28127,1566,1.10 [1.02-1.18],0.0153930933469723
+NADK,NAD kinase,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,26963,81,1.32 [1.00-1.73],0.0473570958331882

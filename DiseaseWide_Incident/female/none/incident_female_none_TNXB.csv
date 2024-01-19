@@ -1,0 +1,649 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",26885,123,0.86 [0.46-1.60],0.6404974673728667
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",27637,208,0.93 [0.58-1.50],0.7783881814396063
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",27359,1355,0.80 [0.66-0.96],0.0174690214472984
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Candidiasis,27665,479,0.92 [0.67-1.26],0.585693115822649
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,26805,3549,0.84 [0.75-0.94],0.0028176875457794
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),27043,2916,0.76 [0.67-0.87],3.494212976237481e-05
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,27369,1393,0.76 [0.63-0.91],0.0028717020491053
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,27557,93,1.09 [0.53-2.25],0.8120725622123659
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,25782,827,0.65 [0.51-0.82],0.000321470310697
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,24935,969,0.61 [0.49-0.76],1.2081723256494532e-05
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,24958,264,0.83 [0.54-1.28],0.4033811885276906
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,19391,1697,0.73 [0.62-0.86],0.0002338295964027
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,24726,382,0.51 [0.36-0.72],0.0001323240685661
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,27603,1627,0.74 [0.63-0.88],0.0006753128601218
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Mycoses,27732,546,0.87 [0.65-1.17],0.3715579819955746
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,26968,964,0.73 [0.59-0.91],0.005511163737894
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,27676,914,0.68 [0.54-0.85],0.0006602607592188
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,26184,208,0.92 [0.57-1.48],0.7192993780131742
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,27794,46,1.74 [0.63-4.85],0.2883699930655375
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Other septicaemia,27561,799,0.68 [0.53-0.86],0.0016363777615556
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,27547,83,0.93 [0.45-1.95],0.8517299462275647
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Other viral diseases,27697,197,1.32 [0.81-2.14],0.263623998494634
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",27678,178,1.43 [0.86-2.39],0.1642876414013286
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,26349,345,0.86 [0.59-1.25],0.4223752546927394
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,26273,269,0.62 [0.42-0.94],0.0225421046638137
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,26110,134,0.43 [0.24-0.78],0.0047653995319623
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,27769,36,0.93 [0.31-2.76],0.894225667204759
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,27716,159,0.78 [0.46-1.35],0.3827003622272285
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Viral warts,27603,46,2.25 [0.86-5.92],0.0993857118757523
+TNXB,Tenascin-X,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],27636,79,0.76 [0.35-1.66],0.4963220955337797
+TNXB,Tenascin-X,Chapter II Neoplasms,Benign lipomatous neoplasm,27522,243,1.07 [0.70-1.65],0.7491325909250564
+TNXB,Tenascin-X,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,27690,71,0.91 [0.41-2.03],0.819297776354015
+TNXB,Tenascin-X,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,27686,70,1.45 [0.66-3.16],0.3561503167173632
+TNXB,Tenascin-X,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",27500,1251,1.09 [0.89-1.32],0.4038388966689358
+TNXB,Tenascin-X,Chapter II Neoplasms,Benign neoplasm of meninges,27766,81,1.23 [0.57-2.66],0.5935655897383199
+TNXB,Tenascin-X,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,27725,66,0.64 [0.40-1.03],0.0635792148584542
+TNXB,Tenascin-X,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,27759,139,0.60 [0.34-1.06],0.0800214204499232
+TNXB,Tenascin-X,Chapter II Neoplasms,Benign neoplasm of ovary,27709,181,0.87 [0.52-1.44],0.5830863955651246
+TNXB,Tenascin-X,Chapter II Neoplasms,Benign neoplasm: Ascending colon,27772,286,0.87 [0.58-1.31],0.5069149605026786
+TNXB,Tenascin-X,Chapter II Neoplasms,Benign neoplasm: Caecum,27779,256,1.22 [0.79-1.88],0.3810026944044709
+TNXB,Tenascin-X,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",27705,66,0.72 [0.31-1.65],0.4373205428931318
+TNXB,Tenascin-X,Chapter II Neoplasms,Benign neoplasm: Descending colon,27775,159,1.11 [0.65-1.92],0.7017878319356923
+TNXB,Tenascin-X,Chapter II Neoplasms,Benign neoplasm: Rectum,27736,287,1.18 [0.79-1.78],0.419934125189685
+TNXB,Tenascin-X,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,27684,507,1.09 [0.80-1.48],0.5905445081757874
+TNXB,Tenascin-X,Chapter II Neoplasms,Benign neoplasm: Transverse colon,27773,305,1.24 [0.83-1.84],0.2943838841258074
+TNXB,Tenascin-X,Chapter II Neoplasms,Carcinoma in situ of breast,22524,138,1.24 [0.69-2.23],0.4637560881530094
+TNXB,Tenascin-X,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",22614,165,1.46 [0.86-2.49],0.1646689889404567
+TNXB,Tenascin-X,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",22595,33,1.06 [0.32-3.55],0.9254845525213444
+TNXB,Tenascin-X,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",22629,67,0.73 [0.31-1.70],0.4633378326300746
+TNXB,Tenascin-X,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",27727,138,0.69 [0.38-1.24],0.2155293397751284
+TNXB,Tenascin-X,Chapter II Neoplasms,"Haemangioma, any site",27728,136,0.70 [0.39-1.26],0.2360793567198454
+TNXB,Tenascin-X,Chapter II Neoplasms,Leiomyoma of uterus,26793,591,1.20 [0.92-1.58],0.182456630233914
+TNXB,Tenascin-X,Chapter II Neoplasms,Lung cancer and mesothelioma,19923,318,0.71 [0.48-1.05],0.0875867671532604
+TNXB,Tenascin-X,Chapter II Neoplasms,Lymphoid leukaemia,22600,38,1.21 [0.39-3.79],0.7418908552559884
+TNXB,Tenascin-X,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",22739,177,1.22 [0.72-2.07],0.469829984028369
+TNXB,Tenascin-X,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",22679,117,0.84 [0.44-1.62],0.6018562447384909
+TNXB,Tenascin-X,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",22752,190,0.83 [0.50-1.36],0.4527571233881152
+TNXB,Tenascin-X,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",22630,68,1.00 [0.43-2.32],0.9992777426843338
+TNXB,Tenascin-X,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",22634,72,0.39 [0.18-0.85],0.0173142857061008
+TNXB,Tenascin-X,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",22620,58,0.79 [0.31-1.99],0.6169455875893419
+TNXB,Tenascin-X,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",22706,144,1.17 [0.65-2.08],0.602562133004076
+TNXB,Tenascin-X,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",22665,103,0.94 [0.48-1.85],0.8584139744277731
+TNXB,Tenascin-X,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",22648,86,1.09 [0.51-2.33],0.8204881463357128
+TNXB,Tenascin-X,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",22605,43,0.72 [0.25-2.05],0.5416790448078752
+TNXB,Tenascin-X,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,22641,79,0.75 [0.34-1.65],0.4707270108083291
+TNXB,Tenascin-X,Chapter II Neoplasms,Melanocytic naevi,27530,237,0.81 [0.52-1.28],0.3676436704034859
+TNXB,Tenascin-X,Chapter II Neoplasms,Melanocytic naevi of trunk,27745,82,0.96 [0.44-2.07],0.9164683299649742
+TNXB,Tenascin-X,Chapter II Neoplasms,Melanoma in situ,22597,90,0.74 [0.35-1.55],0.4281805956290589
+TNXB,Tenascin-X,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",22644,82,0.81 [0.38-1.73],0.5832912971652742
+TNXB,Tenascin-X,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",22717,155,0.72 [0.41-1.25],0.2402077518242787
+TNXB,Tenascin-X,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",22793,231,0.76 [0.48-1.21],0.2473554535580922
+TNXB,Tenascin-X,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",22658,96,0.86 [0.42-1.74],0.6696337344368479
+TNXB,Tenascin-X,Chapter II Neoplasms,Other benign neoplasms of skin,27569,172,0.79 [0.47-1.34],0.3905284182671804
+TNXB,Tenascin-X,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",23514,952,0.88 [0.70-1.11],0.2861634604762921
+TNXB,Tenascin-X,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",23554,992,0.94 [0.75-1.17],0.5593464386839921
+TNXB,Tenascin-X,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,27480,375,1.00 [0.70-1.42],0.9833379108950814
+TNXB,Tenascin-X,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,25740,104,1.04 [0.53-2.07],0.90030685171981
+TNXB,Tenascin-X,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,27176,71,1.38 [0.62-3.10],0.428184389003522
+TNXB,Tenascin-X,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,26767,3030,0.79 [0.70-0.89],0.0002132504146305
+TNXB,Tenascin-X,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,26118,37,0.77 [0.24-2.42],0.6515682222113889
+TNXB,Tenascin-X,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,27385,49,1.44 [0.55-3.77],0.4567782768327757
+TNXB,Tenascin-X,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,27205,1569,0.75 [0.63-0.89],0.0012813811243172
+TNXB,Tenascin-X,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,27205,1569,0.75 [0.63-0.89],0.0012813811243172
+TNXB,Tenascin-X,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,25705,69,0.98 [0.43-2.25],0.9583589965845292
+TNXB,Tenascin-X,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,27376,1295,0.72 [0.59-0.87],0.0005964401605605
+TNXB,Tenascin-X,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,27459,123,1.05 [0.57-1.95],0.8684178972124048
+TNXB,Tenascin-X,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,27159,54,0.42 [0.17-1.03],0.0572340494767865
+TNXB,Tenascin-X,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,27164,59,0.89 [0.37-2.15],0.7916986486648825
+TNXB,Tenascin-X,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,27577,241,0.85 [0.55-1.33],0.4836279251714515
+TNXB,Tenascin-X,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,27677,64,0.34 [0.15-0.74],0.0067417564143745
+TNXB,Tenascin-X,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",27540,204,0.85 [0.52-1.37],0.500207233741025
+TNXB,Tenascin-X,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,26215,134,0.50 [0.33-0.76],0.0011317315604813
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,22351,257,0.45 [0.30-0.68],0.0001639811706788
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,26347,68,0.62 [0.27-1.39],0.2445609256447291
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,26346,67,1.10 [0.47-2.56],0.8295639722884178
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,22147,53,0.52 [0.20-1.33],0.1704356378890647
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,25483,72,0.37 [0.17-0.79],0.0103621886766341
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,25113,247,0.41 [0.27-0.62],3.1880839863657746e-05
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",27350,516,0.69 [0.51-0.94],0.0184192725269793
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,27125,291,0.91 [0.60-1.38],0.6513523925918017
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,26921,87,0.52 [0.25-1.10],0.0864976241678051
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,27388,1977,0.88 [0.76-1.03],0.1105098947894169
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,24585,1924,0.88 [0.75-1.03],0.1064792779743533
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",22154,60,1.07 [0.43-2.63],0.8860099487371828
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",24638,119,1.22 [0.64-2.30],0.5435439313975761
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,22382,288,0.33 [0.22-0.49],2.884351576889253e-08
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,22142,48,0.75 [0.27-2.05],0.5688849479290995
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,25296,3202,0.73 [0.65-0.83],4.610776079900073e-07
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,22297,203,0.44 [0.28-0.72],0.0008864912716921
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,22639,545,0.41 [0.30-0.54],9.20983474138043e-10
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,27688,374,0.62 [0.44-0.89],0.0084809940502943
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,27499,185,0.67 [0.41-1.11],0.1201403369657567
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,22196,102,0.31 [0.16-0.60],0.0004553346862204
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",22150,56,0.37 [0.15-0.90],0.0282053176915081
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,26883,2364,0.94 [0.82-1.09],0.414445765377641
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,22307,213,0.54 [0.34-0.87],0.0103507170075055
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,22308,214,0.40 [0.26-0.64],9.883399396870164e-05
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",22632,538,0.66 [0.49-0.89],0.0061384903713751
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,22190,96,0.74 [0.37-1.51],0.4118102432507733
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,27489,175,0.68 [0.41-1.14],0.1432359055086044
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,22732,638,0.93 [0.70-1.22],0.5847267667310571
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,22666,572,0.54 [0.40-0.72],2.938861936274857e-05
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,24937,71,1.55 [0.69-3.47],0.2913371991958638
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,26877,4783,0.75 [0.68-0.83],2.5711769600435648e-08
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,24598,79,0.85 [0.40-1.82],0.6825828996058068
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,24610,91,0.56 [0.35-0.90],0.0151873578300291
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,27589,2113,0.76 [0.65-0.88],0.0001895656318595
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",27594,2112,0.75 [0.65-0.87],0.0001798479033145
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,24601,82,0.83 [0.39-1.76],0.6293231952798299
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,27378,1614,0.98 [0.83-1.17],0.8343557770313984
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",23641,1547,0.65 [0.55-0.78],2.322416813453142e-06
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,27779,187,0.43 [0.27-0.70],0.0006000291642196
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,26892,58,0.69 [0.27-1.72],0.4224922173021285
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,25898,134,1.38 [0.77-2.49],0.2803017266412448
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,25967,203,0.99 [0.61-1.61],0.9793554284868506
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",22365,271,0.71 [0.47-1.09],0.1163178651297811
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,25926,143,0.49 [0.28-0.86],0.0127530355857461
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,1741,50,0.54 [0.23-1.28],0.1628613306037488
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,1855,188,0.88 [0.55-1.40],0.5848073753128002
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,25809,26,0.72 [0.41-1.24],0.2354376314693155
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,1721,31,0.96 [0.31-2.93],0.9402644621476328
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,27298,1515,0.61 [0.52-0.73],2.0146692190173183e-08
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,27180,346,0.53 [0.37-0.77],0.0009313781135098
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,25357,491,0.73 [0.54-1.00],0.0464439020543867
+TNXB,Tenascin-X,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,22834,740,0.60 [0.47-0.78],9.36462598883792e-05
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",27692,231,0.84 [0.54-1.33],0.4654174813873807
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),26769,55,1.17 [0.45-3.01],0.7469522134366295
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Angina pectoris,26232,893,0.62 [0.49-0.78],5.395522490590216e-05
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Aortic aneurysm,26813,99,1.05 [0.52-2.14],0.8906948859499673
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,26750,36,0.81 [0.25-2.62],0.7288443039121233
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",26867,153,0.72 [0.41-1.26],0.2452389852489426
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,18068,1504,0.70 [0.59-0.84],0.0001583013705225
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,AV-block,24317,243,0.78 [0.50-1.24],0.2940058295188582
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",27752,307,0.97 [0.66-1.44],0.8860604077721783
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Cardiac arrest,16696,132,0.79 [0.43-1.47],0.4618909830059613
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Cardiomyopathy,24212,138,0.72 [0.40-1.29],0.2683116105653036
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",24154,80,0.70 [0.32-1.51],0.3586153906113523
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,27790,33,0.99 [0.29-3.33],0.9857497198601884
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Conduction disorders,24814,740,0.81 [0.62-1.05],0.1045330832779574
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,26861,1534,0.71 [0.60-0.85],0.0001707241852734
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,24980,7367,0.81 [0.75-0.88],3.572683590238552e-07
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,DVT of lower extremities,26258,246,0.78 [0.50-1.22],0.2813495778287429
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Endocarditis,24135,61,1.95 [0.80-4.71],0.1394648143099579
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,"Heart failure, strict",27693,875,0.56 [0.44-0.70],7.465188259547868e-07
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Hypertension,25615,6231,0.77 [0.71-0.84],6.5369896821334556e-09
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,"Hypertension, essential",25629,6245,0.77 [0.71-0.84],5.944189863431981e-09
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,"Hypertension, portal",27680,44,7.76 [3.69-16.34],6.767696430019887e-08
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",19552,168,1.70 [1.00-2.90],0.0498657328505638
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,19484,100,0.54 [0.27-1.08],0.0811882623336028
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Hypotension,27653,1124,0.67 [0.54-0.82],0.0001156224959569
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,27027,97,0.63 [0.31-1.27],0.197480011501316
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",27059,1720,0.74 [0.62-0.87],0.0003142218338499
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",27479,466,0.64 [0.46-0.88],0.0056624767277395
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Left bundle-branch block,24378,304,0.78 [0.52-1.17],0.2334322349797452
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,27563,617,0.53 [0.40-0.69],4.444039195927808e-06
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",25833,494,0.48 [0.35-0.65],2.1325945930493108e-06
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",27767,86,0.57 [0.27-1.20],0.1406850376904981
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",27786,245,0.54 [0.35-0.83],0.0047157438761418
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Oesophageal varices,26051,39,2.19 [0.75-6.43],0.1531550245725402
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Other aneurysm,26772,58,0.83 [0.33-2.07],0.690431264460122
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Other arrhythmias,24438,364,0.59 [0.41-0.85],0.0048833232845021
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,26782,68,0.43 [0.19-0.96],0.0403706537768438
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,26910,196,0.92 [0.56-1.50],0.728474875014592
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,24233,159,0.54 [0.31-0.93],0.0272794815811582
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Other disorders of veins,26110,98,0.63 [0.32-1.25],0.1871046579062828
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,26057,45,1.22 [0.44-3.35],0.704907530215259
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,26514,39,1.19 [0.39-3.61],0.7617218696127483
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,26179,167,0.52 [0.31-0.88],0.0144503829026277
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,24895,821,0.57 [0.45-0.73],5.138318009589412e-06
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,26572,43,1.72 [0.61-4.83],0.3024854486877877
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,27225,511,0.81 [0.59-1.09],0.1653670472713906
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,27212,325,0.94 [0.64-1.38],0.7390864835246035
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",27031,556,0.58 [0.44-0.78],0.0003193277042656
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,16860,296,0.80 [0.53-1.20],0.2727411094053357
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Peripheral artery disease,26979,279,0.76 [0.50-1.14],0.1859716344405234
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),26338,326,0.75 [0.51-1.10],0.1451208191364266
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Pulmonary embolism,27337,450,0.94 [0.67-1.30],0.6955875321163498
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,27715,602,0.71 [0.54-0.94],0.0183656963591692
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Right bundle-branch block,24301,227,0.70 [0.44-1.11],0.1322072255060891
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Secondary right heart disease,27203,316,0.98 [0.66-1.44],0.8988304408784342
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,26639,164,0.60 [0.35-1.02],0.0587926549805327
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",27472,542,0.65 [0.48-0.88],0.0046058577396796
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",27447,589,0.72 [0.54-0.95],0.0224400653097459
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,26994,70,0.95 [0.41-2.19],0.9085150280870884
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,26761,47,1.08 [0.38-3.04],0.8855764651351159
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Transient ischemic attack,27228,215,0.68 [0.42-1.09],0.1059067760861893
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,27152,206,0.47 [0.30-0.76],0.0017557056506296
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Varicose veins,26478,466,1.43 [1.03-1.97],0.0316702596661362
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,26723,94,0.46 [0.23-0.93],0.0314986246410852
+TNXB,Tenascin-X,Chapter IX Diseases of the circulatory system,Venous thromboembolism,27579,709,0.84 [0.65-1.09],0.1817452855427454
+TNXB,Tenascin-X,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",27748,222,0.87 [0.55-1.38],0.5591729734637065
+TNXB,Tenascin-X,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",24676,1882,0.93 [0.79-1.09],0.3614222968375616
+TNXB,Tenascin-X,Chapter V Mental and behavioural disorders,Any mental disorder,27171,4377,0.87 [0.78-0.96],0.0076712276658421
+TNXB,Tenascin-X,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",27716,263,0.77 [0.50-1.17],0.2222717982637367
+TNXB,Tenascin-X,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",24792,1998,0.87 [0.75-1.02],0.0854385287242063
+TNXB,Tenascin-X,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",22889,95,0.39 [0.20-0.75],0.0052175727867322
+TNXB,Tenascin-X,Chapter V Mental and behavioural disorders,Smoking dependency,27372,1213,0.96 [0.79-1.17],0.7147798675066435
+TNXB,Tenascin-X,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",24192,1398,0.90 [0.75-1.08],0.2707065662503123
+TNXB,Tenascin-X,Chapter V Mental and behavioural disorders,Vascular dementia,27282,103,0.73 [0.36-1.48],0.3894403840163103
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Alzheimer disease,27794,363,0.84 [0.58-1.22],0.3610107033432183
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",18960,59,0.84 [0.33-2.09],0.7023207104034507
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Bell's palsy,25610,84,1.20 [0.57-2.53],0.6344575558804593
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,26166,640,0.89 [0.68-1.17],0.3962061228747804
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Cerebral cysts,27379,224,0.79 [0.50-1.25],0.3210054508156528
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,27719,283,0.63 [0.42-0.95],0.0269327547568327
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,27305,40,0.52 [0.18-1.55],0.2409348464564701
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,27779,47,0.73 [0.27-1.98],0.541101867541387
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",27210,55,0.67 [0.26-1.69],0.3955182797503187
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Epilepsy,26280,282,0.83 [0.55-1.25],0.3679923675938945
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,27370,1372,0.81 [0.67-0.98],0.0261246012289776
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,27743,517,0.54 [0.40-0.73],6.070987955699431e-05
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Falls/tendency to fall,27152,2950,0.78 [0.69-0.89],0.0001762587419045
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Generalized epilepsy,27421,46,2.47 [0.93-6.58],0.0696057876657717
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Hemiplegia,27661,225,0.73 [0.46-1.16],0.1856359953698649
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Hydrocephalus,27222,67,1.52 [0.65-3.56],0.3361512705237284
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,27773,76,1.39 [0.63-3.06],0.4144257079260874
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,25654,128,0.61 [0.33-1.11],0.1033057879002639
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,25594,68,0.64 [0.39-1.04],0.0688041766971354
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Memory loss,27156,98,1.17 [0.58-2.37],0.6631491643620292
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Migraine,26518,520,0.88 [0.65-1.19],0.3942093624185127
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",27677,469,0.92 [0.67-1.26],0.602790725327965
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Motor neuron disease,19050,123,0.63 [0.33-1.18],0.1481750050318019
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,27572,143,0.51 [0.29-0.89],0.01863589118968
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",26936,1410,0.89 [0.74-1.06],0.195267579477589
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Neurological diseases,26159,3857,0.76 [0.68-0.85],1.5381995164843833e-06
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,27424,159,0.65 [0.37-1.13],0.1236739187964286
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",25957,431,0.83 [0.59-1.15],0.2618131202937674
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",27734,239,0.93 [0.60-1.46],0.7618061285199058
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,22373,669,0.64 [0.48-0.83],0.0010499290071173
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,27223,68,0.57 [0.25-1.30],0.1811006743610451
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Other disorders of nervous system,27280,125,0.63 [0.35-1.15],0.1351449908460247
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,27415,189,0.72 [0.43-1.20],0.2080314879590053
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Other facial nerve disorders,25621,95,1.33 [0.66-2.69],0.420404462393572
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Other headache syndromes,26074,76,1.07 [0.50-2.29],0.8651236461075749
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Other neurological diseases,27669,514,0.67 [0.50-0.90],0.0085725063822548
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Other sleep disorders,26413,415,0.71 [0.51-0.99],0.0421233813252068
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Parkinson's disease,27768,315,0.44 [0.30-0.64],2.2828447970073965e-05
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,27239,84,0.61 [0.29-1.28],0.1913749874056551
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Restless leg syndrome,27792,104,1.18 [0.59-2.34],0.637544004015349
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Sleep apnoea,27610,328,0.77 [0.54-1.11],0.1603926825824778
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Small fibre neuropathy,27536,41,1.13 [0.38-3.40],0.8271416395496756
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,27784,153,0.77 [0.44-1.35],0.3636968372269354
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,25595,69,1.79 [0.78-4.10],0.1675717948851379
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,27794,367,0.86 [0.59-1.24],0.4078086336799402
+TNXB,Tenascin-X,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),27239,100,0.73 [0.36-1.49],0.3927293811319406
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,27199,111,1.46 [0.75-2.87],0.2666415545650988
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,27322,494,1.14 [0.83-1.57],0.4058074568080415
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,27645,175,0.43 [0.26-0.70],0.0006839169734228
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,26665,62,1.25 [0.51-3.04],0.6284733155667579
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,26654,51,0.83 [0.32-2.17],0.7000652000462948
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",27669,62,0.73 [0.31-1.75],0.4829430597664383
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,27507,171,1.44 [0.85-2.46],0.1795416441098159
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",1728,37,0.86 [0.31-2.40],0.7731198892820051
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,2080,73,0.81 [0.39-1.69],0.5759074927070735
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,27181,93,0.58 [0.29-1.19],0.1378090490904943
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,27609,1071,0.77 [0.62-0.95],0.0134552760005786
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",27366,763,0.81 [0.63-1.04],0.1010228338502274
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,26901,298,0.85 [0.57-1.26],0.4091427636101366
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",27698,870,1.00 [0.79-1.27],0.9927014524946212
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,27777,70,0.38 [0.17-0.83],0.0152359336995221
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,27619,791,1.00 [0.78-1.28],0.98849180632486
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",27745,409,0.99 [0.70-1.40],0.9707738413453704
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,27694,208,0.90 [0.56-1.46],0.6812186235708448
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,26642,39,0.54 [0.18-1.60],0.2640915302671187
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,26652,49,0.34 [0.13-0.88],0.0267088957792064
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,26669,66,1.15 [0.49-2.72],0.7496666829783475
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,27699,727,1.01 [0.78-1.31],0.9439688785479972
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,27154,182,0.88 [0.52-1.46],0.6141038791896922
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,26894,66,0.83 [0.35-1.96],0.676506634739465
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,27436,100,0.95 [0.47-1.91],0.8933166300683184
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,27654,318,1.01 [0.68-1.50],0.9525717092762804
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,27043,215,0.95 [0.59-1.53],0.8480218153325061
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,27621,135,1.18 [0.65-2.14],0.5855393126869892
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,27454,482,1.09 [0.80-1.50],0.5751663311439723
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,27240,152,0.97 [0.56-1.69],0.9150105449249052
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,25976,2554,0.88 [0.77-1.01],0.0762518438328691
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,27612,276,1.14 [0.74-1.73],0.5563796857061034
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,27767,157,0.70 [0.41-1.22],0.2091769519824288
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,27004,401,0.84 [0.59-1.18],0.3111741541286278
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,27397,61,0.73 [0.30-1.79],0.4956719095167838
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,27763,56,0.33 [0.14-0.79],0.0122221061986903
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,26695,92,0.88 [0.42-1.83],0.7291907595661784
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,26760,157,0.94 [0.54-1.64],0.8255101292268268
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,26647,109,0.57 [0.29-1.11],0.0962770807842512
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,26901,73,1.38 [0.61-3.12],0.4347257130202633
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",26598,60,0.75 [0.31-1.81],0.5153288559101185
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,27093,121,0.73 [0.39-1.37],0.3236332940908952
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",27153,181,1.00 [0.59-1.68],0.9889982506492848
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,26740,137,0.92 [0.51-1.66],0.7731713055109772
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,26637,99,0.59 [0.30-1.18],0.1380982129734336
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,26614,76,0.77 [0.35-1.72],0.5248834697598326
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,25547,2125,0.90 [0.78-1.05],0.1923711625606297
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,26689,86,0.75 [0.36-1.59],0.4582820197767777
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,27521,433,0.84 [0.60-1.17],0.3038282152597699
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,27137,49,1.41 [0.52-3.78],0.4964175077228289
+TNXB,Tenascin-X,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),27261,173,0.91 [0.54-1.54],0.7204684581404315
+TNXB,Tenascin-X,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,27544,118,0.69 [0.37-1.30],0.2517822028030375
+TNXB,Tenascin-X,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,27745,119,0.61 [0.33-1.13],0.1171652515503998
+TNXB,Tenascin-X,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,27667,147,0.50 [0.29-0.87],0.01330317565035
+TNXB,Tenascin-X,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,27497,71,1.07 [0.47-2.45],0.8788185915552131
+TNXB,Tenascin-X,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,27497,71,1.13 [0.49-2.60],0.7780921540714185
+TNXB,Tenascin-X,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,27691,826,0.73 [0.57-0.93],0.0095811635431714
+TNXB,Tenascin-X,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,27432,567,0.69 [0.52-0.93],0.0141003681765009
+TNXB,Tenascin-X,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,26988,123,1.24 [0.67-2.31],0.4903813711098179
+TNXB,Tenascin-X,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,26952,87,0.82 [0.39-1.70],0.5888148726460609
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Acute pharyngitis,27517,86,1.13 [0.55-2.35],0.7403297277341897
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,27668,237,1.02 [0.66-1.58],0.9256960568595556
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,27497,66,1.23 [0.54-2.83],0.6207193798642645
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,All influenza,26040,131,0.59 [0.33-1.07],0.0801599316628564
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),26038,129,0.61 [0.34-1.12],0.1087929125605245
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Allergic asthma (mode),19734,129,0.71 [0.39-1.30],0.2626508025401826
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Allergic rhinitis,27635,293,0.81 [0.55-1.22],0.3147228720165272
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",21504,2093,0.71 [0.61-0.83],1.3470430142329371e-05
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",21674,2069,0.70 [0.60-0.81],2.856346728025803e-06
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),27364,126,0.38 [0.21-0.67],0.0009234162045025
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",25975,66,0.65 [0.40-1.05],0.0787717891263595
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Bronchiectasis,24031,417,0.55 [0.39-0.76],0.0004236299110584
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",23687,73,0.48 [0.22-1.06],0.0683197318487701
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,26621,3007,0.76 [0.67-0.87],2.735145602531797e-05
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",26494,62,0.69 [0.29-1.64],0.3982080893018912
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Chronic sinusitis,26579,147,1.10 [0.62-1.95],0.7383321103056143
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",27615,1082,0.78 [0.63-0.96],0.0178878088237133
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Deviated nasal septum,26504,72,1.07 [0.47-2.43],0.8654277711163572
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,25676,5231,0.75 [0.69-0.83],7.84305704792821e-09
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",26766,334,1.02 [0.70-1.48],0.9183248278601368
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Early onset COPD,26857,324,0.81 [0.55-1.17],0.258712827556159
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Emphysema,23888,274,0.67 [0.44-1.01],0.0560960619423293
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,26132,232,1.04 [0.65-1.65],0.8761415153150051
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Influenza and pneumonia,27590,1681,0.63 [0.53-0.74],3.504954141882875e-08
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Interstitial lung disease,26173,273,0.90 [0.59-1.37],0.6098549961988831
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Later onset COPD,26863,758,0.77 [0.60-1.00],0.0458298432914132
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,27785,230,0.50 [0.32-0.79],0.0026539323434991
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Nasal polyp,26501,69,0.71 [0.31-1.61],0.4121186551594306
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,27565,939,0.76 [0.61-0.95],0.0180266354087155
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Other diseases of pleura,27604,1777,0.73 [0.62-0.86],0.0001523139342709
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,27228,796,0.79 [0.62-1.00],0.0512013393308227
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Other pleural conditions,25864,37,0.69 [0.41-1.17],0.1691434677765432
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,27711,350,0.90 [0.62-1.30],0.5782245362417092
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,27703,1197,0.73 [0.60-0.89],0.001770576939445
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Pleural effusion,26687,860,0.70 [0.56-0.89],0.0034623326646596
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Pleural plaque,25874,47,0.44 [0.17-1.16],0.0955837451551561
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",27351,1442,0.63 [0.52-0.75],4.541672007272222e-07
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,27756,201,0.42 [0.26-0.68],0.0003505667841025
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Pneumothorax,25919,92,0.60 [0.30-1.23],0.1659898413331467
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Pollen allergy,27761,245,0.78 [0.50-1.20],0.2566084545112034
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Pulmonary oedema,27424,63,1.00 [0.43-2.36],0.9923329940584984
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Respiratory insufficiency,19658,53,0.40 [0.16-0.97],0.0432427963648358
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,27540,914,0.79 [0.63-0.99],0.0406580635264189
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,26725,293,0.81 [0.54-1.21],0.2981513999863315
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Viral pneumonia,26128,219,0.51 [0.32-0.80],0.003204799684718
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",27378,173,0.52 [0.31-0.85],0.0092336672559988
+TNXB,Tenascin-X,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,13407,107,0.77 [0.39-1.52],0.4588760361056566
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,19801,38,2.27 [0.78-6.57],0.1310210111024559
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Acute appendicitis,27606,144,0.56 [0.32-0.99],0.0472098759164713
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Acute gastritis,20851,90,1.18 [0.56-2.49],0.6614874758334413
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Acute pancreatitis,25459,164,0.69 [0.41-1.18],0.1737494575057843
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Acute peritonitis,27202,88,1.09 [0.52-2.28],0.8194039705346685
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Alcoholic liver disease,26908,35,0.94 [0.30-2.94],0.9155899202007176
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Barrett oesophagus,21104,343,0.64 [0.44-0.93],0.0188112887918673
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",25376,81,0.90 [0.42-1.93],0.7852518508067469
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",27348,81,0.93 [0.43-1.98],0.8440936528665703
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Cholecystitis,25482,187,0.73 [0.44-1.20],0.2121496063230381
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Cholelithiasis,26499,1204,0.66 [0.54-0.80],3.1351960651785075e-05
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Chronic gastritis,21104,343,0.86 [0.59-1.25],0.4347296185322665
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Chronic pancreatitis,25337,42,0.74 [0.26-2.12],0.5713702509626779
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",27710,74,2.67 [1.28-5.58],0.0087117884214736
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Coeliac disease,26208,152,0.84 [0.47-1.48],0.5350566983839511
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Collagenous colitis,25858,113,1.46 [0.75-2.83],0.2632224698521447
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,27652,152,0.82 [0.47-1.43],0.4800161378726443
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Constipation,27442,1751,0.71 [0.60-0.83],3.863798014278503e-05
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Crohn disease,25842,97,0.43 [0.22-0.86],0.0159167506488618
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",27421,73,0.44 [0.20-0.97],0.0418239935886437
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Crohn's disease NAS,25846,101,0.41 [0.21-0.79],0.0075135678239566
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Dental caries,26952,230,0.71 [0.46-1.11],0.1357506472036099
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,26150,2513,0.72 [0.63-0.83],3.640917482523906e-06
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Diseases of appendix,27649,187,0.58 [0.35-0.96],0.0333908990004532
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Diseases of liver,27692,819,0.91 [0.72-1.15],0.4333255696436832
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",25467,4706,0.85 [0.76-0.94],0.0011124637394789
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",27319,597,0.79 [0.60-1.05],0.1006739955976287
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Diseases of peritoneum,27667,553,1.02 [0.76-1.36],0.9118803016573988
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,26842,120,1.03 [0.55-1.91],0.9379494578994446
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Diseases of salivary glands,26686,65,0.34 [0.16-0.76],0.0082889464745394
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Diseases of the digestive system,27484,1428,0.80 [0.67-0.96],0.0164330829036343
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Diseases of tongue,26698,114,0.77 [0.40-1.48],0.4335260391074944
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",26909,1614,0.67 [0.57-0.80],5.314358876871936e-06
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,23020,3257,0.83 [0.74-0.94],0.0037614838079099
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Duodenal ulcer,20892,131,0.81 [0.44-1.49],0.5003937576198333
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",27741,111,0.84 [0.44-1.60],0.5901252168045334
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,27688,65,0.48 [0.21-1.10],0.0810558376253398
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,26967,94,1.54 [0.78-3.07],0.2162824633241261
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,19877,114,1.07 [0.56-2.04],0.8326649125431695
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Functional dyspepsia,21426,665,0.84 [0.65-1.10],0.2177753623245089
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Gastric ulcer,21113,352,0.80 [0.55-1.16],0.2371604756946904
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,23599,2838,0.72 [0.63-0.82],4.794093184560022e-07
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,21237,476,0.74 [0.54-1.02],0.0636898099956589
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,21750,8595,0.86 [0.80-0.93],7.07934625765757e-05
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,GI-bleeding,27209,1153,0.79 [0.64-0.96],0.0194167785397772
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,26785,63,0.88 [0.37-2.08],0.7742689244391049
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,20752,1281,0.83 [0.68-1.01],0.0583425705259341
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",26914,41,0.71 [0.25-2.05],0.52601578662276
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Hernia,26590,2953,0.79 [0.70-0.90],0.0002650200351867
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Impacted teeth,27699,60,0.47 [0.20-1.12],0.0895808344399756
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Impaction of intestines,19828,65,2.18 [0.92-5.14],0.0760009040903458
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Inguinal hernia,23805,168,0.89 [0.52-1.52],0.6674450530671607
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,19866,103,0.58 [0.29-1.15],0.1182492403547992
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Intestinal malabsorption,26235,179,0.87 [0.51-1.46],0.5879784581845066
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,20599,836,0.79 [0.62-1.00],0.0500906078695681
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,27777,358,0.84 [0.59-1.20],0.347016148582404
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,26579,834,0.90 [0.71-1.14],0.3869381777672346
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,26870,1125,0.84 [0.68-1.03],0.092099810841855
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Oesophageal obstruction,20924,163,0.41 [0.25-0.70],0.0009333383211772
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Oesophagitis,21333,572,0.91 [0.68-1.21],0.5018243997905265
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,27747,160,0.98 [0.56-1.69],0.9286530304550504
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,23698,61,0.41 [0.18-0.95],0.0373162898101167
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,21052,1289,0.93 [0.76-1.13],0.4547970769088859
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,25598,303,0.79 [0.53-1.17],0.2448877334065173
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,25486,191,0.71 [0.44-1.17],0.1818932825367944
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Other diseases of intestine,21383,1620,0.91 [0.76-1.08],0.2796662568651827
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Other diseases of intestines,25585,5822,0.87 [0.79-0.95],0.0019252139633149
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,26690,234,1.10 [0.70-1.74],0.6757163014798413
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Other diseases of liver,27560,687,1.03 [0.79-1.34],0.8183841723104827
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,21353,592,0.62 [0.47-0.83],0.0010291444496195
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Other diseases of pancreas,25457,162,0.83 [0.48-1.43],0.5068737218688795
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,27603,489,1.01 [0.74-1.37],0.972209209390703
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,21860,1099,0.84 [0.68-1.03],0.0977773517636283
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,27228,1172,0.78 [0.64-0.96],0.0166198551578758
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,26918,196,0.63 [0.39-1.03],0.0649302458824888
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,21572,1809,0.71 [0.61-0.84],4.553508896772111e-05
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),22907,2146,0.87 [0.75-1.01],0.0763873995088592
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,26974,101,1.36 [0.69-2.69],0.3742873082787147
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,26733,988,0.92 [0.74-1.14],0.4489118907290877
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",20099,336,0.72 [0.49-1.06],0.0954742411511047
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,27677,75,0.44 [0.21-0.96],0.0385093381760688
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,20265,502,0.72 [0.53-0.98],0.0387209718111633
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",26191,135,0.76 [0.42-1.38],0.3704117139146661
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Recurring oral aphthae,27784,69,0.65 [0.29-1.48],0.3083657459208086
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,26723,129,0.64 [0.35-1.17],0.1496691937941244
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Toxic colitis,25812,67,0.71 [0.30-1.67],0.4331821694032299
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,20997,236,0.62 [0.40-0.98],0.039700991307871
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Ulcerative colitis,25918,173,0.68 [0.40-1.15],0.14683010354993
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",25888,143,0.53 [0.30-0.94],0.0301366834672095
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Umbilical hernia,23811,174,1.01 [0.61-1.68],0.9570672616351908
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,19952,189,0.84 [0.50-1.40],0.503279440392462
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Ventral hernia,23895,258,1.16 [0.76-1.78],0.4838603657116862
+TNXB,Tenascin-X,Chapter XI Diseases of the digestive system,Volvulus,19848,85,0.63 [0.30-1.34],0.229262769646311
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,27704,263,1.07 [0.69-1.65],0.7714479218741734
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,27466,78,0.42 [0.20-0.89],0.0231534972696614
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,25700,221,0.81 [0.51-1.29],0.3788261574458085
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,27257,642,0.88 [0.67-1.16],0.3655194695005481
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",26763,148,1.04 [0.60-1.81],0.8974418772997319
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,25825,346,0.52 [0.36-0.75],0.0004724088163622
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,27471,280,0.74 [0.49-1.11],0.1402520430963995
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,27682,491,0.72 [0.53-0.98],0.0375499920447843
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,27243,52,0.55 [0.22-1.39],0.2070969048346146
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,26166,3215,0.81 [0.72-0.92],0.0008293368050091
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,27335,490,0.78 [0.58-1.07],0.1193350445477386
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,27182,337,0.72 [0.50-1.05],0.0891140724742366
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,27471,856,0.81 [0.64-1.03],0.0855118187765058
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",27770,78,0.79 [0.36-1.72],0.5502540813299154
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,25570,91,0.35 [0.18-0.70],0.0026255986189374
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,26892,47,0.56 [0.21-1.50],0.25238290454108
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,27455,264,0.77 [0.51-1.18],0.2326400610150615
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,25897,418,0.79 [0.56-1.11],0.1715461145344139
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,25528,49,1.30 [0.47-3.57],0.6111684760916152
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,27686,83,0.96 [0.45-2.03],0.911361014068698
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,26774,159,0.61 [0.35-1.05],0.0742657195573413
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,27560,172,0.98 [0.58-1.67],0.9468202278094472
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,27249,58,0.76 [0.31-1.86],0.5447124368070899
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,25544,65,0.67 [0.29-1.58],0.360760543845102
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,27092,1613,0.76 [0.64-0.91],0.0021317480393285
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",25933,454,0.73 [0.53-1.02],0.0647362094552617
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,25533,54,0.77 [0.30-2.01],0.5936259885056028
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,27706,318,0.83 [0.57-1.23],0.356858646528632
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,27276,85,1.07 [0.51-2.24],0.8529007807993276
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,27632,244,0.83 [0.53-1.29],0.4134435695545295
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,27739,298,1.12 [0.74-1.69],0.5956534766299586
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,25638,159,0.90 [0.52-1.56],0.7082545889208662
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,25746,267,1.21 [0.78-1.86],0.3958330715917143
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,27726,285,1.04 [0.68-1.59],0.8535863607925849
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",25683,204,0.88 [0.54-1.43],0.6060357301710491
+TNXB,Tenascin-X,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,27757,154,0.76 [0.44-1.32],0.3317470608100854
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,23712,129,0.36 [0.21-0.64],0.0004367694775121
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,25236,6490,0.88 [0.80-0.95],0.0022907265428627
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,23819,5073,0.88 [0.80-0.97],0.0084468905347062
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,23663,80,0.81 [0.38-1.73],0.5920475431689376
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,23841,155,1.24 [0.71-2.15],0.4504035606730758
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,23897,211,0.82 [0.51-1.32],0.4191761195455273
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,27496,113,0.65 [0.35-1.20],0.1686738255792376
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",23807,121,0.65 [0.35-1.23],0.1886266002903077
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,20139,1393,0.97 [0.81-1.18],0.7872551301852817
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",27639,226,1.08 [0.68-1.72],0.754058133522808
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,24308,622,0.87 [0.66-1.15],0.3333312077633251
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,23356,8243,0.91 [0.84-0.98],0.0111887324011809
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,24887,140,0.86 [0.48-1.54],0.6014475872057238
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,23721,138,0.74 [0.42-1.34],0.3224489355617488
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,24274,691,1.14 [0.87-1.48],0.3456972186912375
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,26763,3077,0.85 [0.75-0.97],0.0129192807954856
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,23765,182,0.54 [0.33-0.89],0.0166814374565041
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,23971,388,0.77 [0.55-1.09],0.1375986573047497
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,23754,171,1.76 [1.04-2.96],0.0340061080427818
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,26831,110,1.71 [0.88-3.33],0.1156929912371855
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,20661,1915,0.86 [0.73-1.00],0.0561482434065199
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,18975,229,0.39 [0.25-0.60],2.744901322158748e-05
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",27780,226,0.43 [0.28-0.67],0.0001570190621353
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,18846,100,0.87 [0.43-1.74],0.6860498374453312
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),19324,578,0.97 [0.72-1.29],0.8273059874130888
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,23915,332,0.88 [0.61-1.29],0.5211526971304796
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,19392,646,1.09 [0.83-1.43],0.5226234760623507
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,23755,69,2.32 [1.00-5.37],0.0495680756761018
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,24412,726,0.73 [0.56-0.94],0.0132472351839995
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,24025,339,0.77 [0.53-1.12],0.1712713248180436
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,19349,603,1.08 [0.81-1.42],0.6042764724968801
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,23677,94,1.16 [0.58-2.34],0.672729216537436
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",23651,68,0.85 [0.37-1.95],0.6978815186714699
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,24798,51,0.42 [0.17-1.06],0.0649086417263585
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,27309,2562,0.85 [0.74-0.98],0.0227033920895521
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,26589,1842,0.86 [0.73-1.02],0.078534270030511
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",27590,615,0.55 [0.42-0.72],1.3727298640371854e-05
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,21839,3093,0.76 [0.67-0.86],1.2741764110969988e-05
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,18820,74,0.74 [0.33-1.63],0.4494321192844847
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,23687,104,0.57 [0.30-1.11],0.0981034542467358
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,18790,44,1.41 [0.50-4.03],0.5166470857669322
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),18952,206,0.56 [0.35-0.91],0.0178728302947951
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,25043,296,0.71 [0.48-1.05],0.0826432131662625
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,25349,602,0.85 [0.64-1.13],0.27235997983768
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,27762,115,1.16 [0.60-2.23],0.6565364025025457
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",25761,2075,0.84 [0.73-0.98],0.0281150608862758
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,23716,133,0.99 [0.55-1.80],0.9832669782731566
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),18977,231,1.08 [0.68-1.71],0.742774600722408
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,24522,836,0.79 [0.62-1.00],0.0533434551533858
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,21329,2583,0.92 [0.80-1.05],0.2328059795609993
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,26856,135,1.35 [0.74-2.47],0.3291610518490673
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,27774,77,0.41 [0.20-0.87],0.0202535559410847
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,23666,83,1.32 [0.63-2.76],0.4687381498273386
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",25094,1511,0.81 [0.68-0.97],0.0226152209872594
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,23668,85,0.60 [0.29-1.27],0.1812671889201887
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,20769,2023,0.77 [0.66-0.90],0.0010275292205711
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,24887,140,0.56 [0.32-1.00],0.0484023718810662
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,23646,63,1.62 [0.68-3.84],0.2741609342282523
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,23891,205,0.89 [0.55-1.45],0.651029376170859
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,24187,604,0.73 [0.56-0.97],0.0295824568472007
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,27234,513,0.63 [0.47-0.86],0.0030552961253701
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,24344,658,1.16 [0.89-1.52],0.2652685985321136
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,27605,595,0.57 [0.43-0.75],6.027934015675357e-05
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,27763,69,0.57 [0.35-0.91],0.0178355428467945
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,23810,227,0.70 [0.44-1.10],0.124824007586207
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,21335,931,0.83 [0.66-1.04],0.0974861189657219
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,24263,680,0.76 [0.59-0.99],0.0430013361352404
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],23710,127,0.47 [0.26-0.87],0.0152172163803184
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",18824,78,0.68 [0.31-1.49],0.3351853427267063
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,21436,2690,0.72 [0.63-0.83],1.758771180894884e-06
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,19604,858,0.82 [0.64-1.04],0.0968929660212727
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,27020,299,0.87 [0.58-1.31],0.5012349970551433
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",27733,86,0.89 [0.42-1.91],0.7702673680898845
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",25447,57,1.10 [0.45-2.67],0.8347667493481697
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,18824,78,0.37 [0.18-0.76],0.0071963222344318
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,23798,112,1.15 [0.60-2.22],0.6708537630135276
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,19365,619,0.53 [0.40-0.69],3.7238357341921423e-06
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,23920,337,1.04 [0.71-1.50],0.8532928550872421
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,23975,289,0.83 [0.55-1.24],0.3546597403679987
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,23972,286,0.92 [0.61-1.39],0.6891713468679521
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,21442,85,0.44 [0.22-0.91],0.0268423391372525
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",27770,76,0.53 [0.33-0.84],0.0064734600806582
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,24231,648,0.83 [0.64-1.09],0.1805470064154293
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],26887,166,0.36 [0.22-0.59],6.626046534895958e-05
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,26451,2868,0.88 [0.78-1.01],0.0604024629416676
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",23741,158,0.44 [0.26-0.75],0.0026804742851442
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,24264,578,0.75 [0.57-1.00],0.052483042242436
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,26034,270,0.75 [0.49-1.14],0.1827128155525763
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,23971,285,0.79 [0.52-1.19],0.2546686705688316
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,25474,1788,0.78 [0.66-0.91],0.0024428403955414
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,24898,1212,0.80 [0.66-0.98],0.0294838468561151
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],23649,66,0.40 [0.18-0.90],0.0256117266079153
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,26949,228,0.51 [0.33-0.78],0.002269645703039
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,23786,203,1.36 [0.84-2.21],0.2162622255047704
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,23713,130,0.44 [0.24-0.78],0.0052998125265463
+TNXB,Tenascin-X,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),18803,57,0.58 [0.23-1.44],0.238546762865756
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Acute renal failure,26698,1279,0.77 [0.64-0.94],0.0084947464409938
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),20799,99,1.64 [0.85-3.18],0.13901241381878
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,27080,111,0.92 [0.48-1.77],0.8129505660020253
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,27626,239,0.73 [0.47-1.13],0.1556025753756064
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,27415,28,0.48 [0.14-1.71],0.2579641028637168
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,26934,1515,0.81 [0.68-0.96],0.0181738033451545
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,27616,79,0.78 [0.36-1.67],0.5179936559882934
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,27581,245,0.71 [0.46-1.11],0.1333911439473895
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Cystitis,24499,257,0.68 [0.44-1.04],0.0750829650345411
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Dialysis,25471,52,0.75 [0.30-1.90],0.5428452937297017
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Disorders of breast,27311,342,0.70 [0.49-1.01],0.0566442889451936
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Endometriosis,20878,178,1.63 [1.00-2.67],0.048750999320003
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",21100,400,0.78 [0.56-1.07],0.1256730322788772
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,21720,1020,0.65 [0.52-0.80],7.704441106219178e-05
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,21625,5145,0.82 [0.74-0.90],6.41730120040838e-05
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,27601,64,0.36 [0.16-0.79],0.0108275735334569
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,25299,215,0.62 [0.38-0.98],0.0426066125630635
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,27235,408,0.99 [0.71-1.38],0.9472928600888296
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Irregular menses,27321,129,0.65 [0.36-1.16],0.1422538872117491
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Menorrhagia,21007,307,0.83 [0.57-1.21],0.3342823384925948
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,24323,81,0.88 [0.41-1.89],0.7395830890733984
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,23188,2488,0.84 [0.74-0.97],0.0161034501664884
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,20845,145,0.43 [0.25-0.74],0.0022026159849756
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",27778,68,1.01 [0.44-2.35],0.9762413908191336
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",27782,77,0.69 [0.32-1.50],0.3481324605819955
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,26524,2282,0.71 [0.62-0.83],5.5302183113910015e-06
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,24730,488,0.72 [0.53-0.99],0.042722164938574
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,27089,120,0.64 [0.34-1.18],0.1501350451358409
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,27728,392,0.56 [0.40-0.79],0.0010007812491978
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,27729,92,0.71 [0.35-1.46],0.3559415570374739
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,26197,1955,0.72 [0.61-0.84],3.028731385509235e-05
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,27038,211,1.35 [0.85-2.15],0.2013325546063192
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,20856,156,0.72 [0.42-1.24],0.2355659199802378
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",21076,376,0.74 [0.52-1.05],0.0904266198658146
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,20813,113,0.83 [0.43-1.60],0.5812986827859064
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,20908,208,0.66 [0.41-1.06],0.0835084528694234
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,25349,265,0.54 [0.36-0.82],0.0041397075434765
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,27461,125,0.47 [0.26-0.86],0.0148954387433308
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,21011,311,1.20 [0.81-1.77],0.3555353766438057
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,20808,108,0.53 [0.28-1.01],0.0553812183745823
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,21358,658,0.97 [0.75-1.27],0.8500089793891585
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,20864,164,0.84 [0.49-1.46],0.5438369690843974
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,21303,603,0.96 [0.73-1.27],0.7801839678050249
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,27574,37,0.72 [0.24-2.22],0.5721931343965179
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,27594,2510,0.83 [0.73-0.96],0.0094899919014251
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",25249,165,0.48 [0.29-0.81],0.0062736042594832
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,25523,104,0.78 [0.39-1.55],0.4804083651259589
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,27423,36,0.86 [0.28-2.63],0.7950657228900953
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Urethral stricture,24389,147,1.10 [0.62-1.96],0.7418252071989297
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Urolithiasis,27661,274,0.72 [0.48-1.09],0.119631069486208
+TNXB,Tenascin-X,Chapter XIV Diseases of the genitourinary system,Uterine polyps,20843,143,0.55 [0.32-0.94],0.0297136626726974

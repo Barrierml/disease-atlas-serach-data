@@ -1,0 +1,661 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",49638,302,0.96 [0.71-1.31],0.8168662661375397
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",51431,401,1.25 [0.97-1.62],0.0835092503891357
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",50902,2774,1.00 [0.91-1.11],0.961382943543878
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Candidiasis,51467,863,1.10 [0.92-1.32],0.2850796293084062
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,49914,7045,0.98 [0.92-1.04],0.5452366415340842
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),50110,6422,1.07 [1.00-1.15],0.0350430779692508
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,50956,2447,0.90 [0.81-1.00],0.0592711723067828
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,51281,174,1.28 [0.87-1.89],0.2125949179768837
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,47362,1950,1.01 [0.89-1.13],0.9283529953884112
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,45743,2211,1.05 [0.94-1.18],0.3556366339318598
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,45500,519,1.23 [0.98-1.55],0.070624178116757
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,36135,3977,1.04 [0.96-1.14],0.3158748427407736
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,45187,778,0.97 [0.81-1.18],0.7738516255731193
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,51397,2888,0.93 [0.84-1.03],0.1503920445031931
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Mycoses,51627,1023,1.06 [0.90-1.25],0.4631906540593393
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,49996,1868,0.97 [0.86-1.09],0.5887876752302306
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,51490,2154,1.02 [0.91-1.14],0.7525527716101019
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,48912,403,1.25 [0.96-1.61],0.0920334015682304
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,51727,100,1.18 [0.70-1.99],0.537071863305207
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Other septicaemia,51216,1880,0.99 [0.88-1.12],0.8742665891112875
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,51263,156,1.35 [0.90-2.03],0.149735140494721
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Other viral diseases,51569,319,1.04 [0.78-1.39],0.7925538680851427
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",51529,279,1.07 [0.78-1.45],0.6915762948615466
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,48971,843,1.18 [0.98-1.41],0.0761923870888643
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,48681,553,0.84 [0.67-1.05],0.1297319484087711
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,48730,221,0.80 [0.56-1.15],0.2283934147380109
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,51684,107,1.66 [1.04-2.67],0.0345880018337165
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,51595,307,0.84 [0.62-1.13],0.2521742338701614
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Viral warts,51390,102,0.81 [0.48-1.37],0.4331413440677683
+MCAM,Cell surface glycoprotein MUC18,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],51418,130,0.74 [0.46-1.18],0.2089329818442718
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Benign lipomatous neoplasm,51140,593,0.91 [0.73-1.13],0.4070271341185983
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,51553,118,0.79 [0.48-1.28],0.3372735749859646
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,51514,125,0.92 [0.58-1.47],0.7257939387775543
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,23793,130,1.11 [0.69-1.79],0.6728146381981316
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",51061,2898,0.81 [0.73-0.89],2.447356348175361e-05
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Benign neoplasm of meninges,51699,115,0.89 [0.54-1.45],0.6326920729410637
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,51595,131,0.54 [0.34-0.86],0.0094291161356039
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,51677,218,0.98 [0.69-1.40],0.9311386343085588
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Benign neoplasm of ovary,27802,178,0.75 [0.51-1.11],0.1467341212442595
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Benign neoplasm: Ascending colon,51680,726,0.84 [0.69-1.03],0.0882970067472387
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Benign neoplasm: Caecum,51681,601,0.83 [0.66-1.03],0.0893036010422354
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",51509,147,0.79 [0.51-1.22],0.2844809272657009
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Benign neoplasm: Descending colon,51676,437,0.72 [0.56-0.93],0.0124895032650834
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Benign neoplasm: Rectum,51599,708,0.84 [0.69-1.03],0.0934050734667977
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,51492,1235,0.84 [0.72-0.97],0.0219607034873452
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Benign neoplasm: Transverse colon,51662,868,0.81 [0.67-0.97],0.0199968085156637
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Carcinoma in situ of breast,22579,139,1.84 [1.23-2.74],0.0030523412593273
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",22671,169,1.13 [0.76-1.69],0.5382088860915908
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",41170,103,1.80 [1.10-2.94],0.0187771135552256
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",41204,137,0.62 [0.39-0.98],0.0429458095239016
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",51627,241,0.66 [0.46-0.93],0.0165940935831115
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Haemangioma, any site",51628,236,0.68 [0.48-0.96],0.0281178675378972
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Leiomyoma of uterus,26878,601,0.79 [0.64-0.97],0.0271193162494067
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Lung cancer and mesothelioma,35852,656,0.52 [0.42-0.64],3.6720365522633686e-09
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Lymphoid leukaemia,41169,102,1.46 [0.88-2.44],0.1446026171880643
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",41443,376,1.12 [0.85-1.48],0.4180449724842167
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",41479,412,0.82 [0.62-1.07],0.1367193134082922
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",22808,192,0.88 [0.61-1.28],0.5154667243062178
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",41229,162,1.58 [1.07-2.33],0.0217991125622038
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",41285,218,0.77 [0.53-1.11],0.1648060483214825
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",41264,197,0.90 [0.61-1.32],0.5810741683583053
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",22757,141,0.94 [0.61-1.46],0.7796842683247549
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",41255,188,0.82 [0.55-1.20],0.300530106959897
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",19846,1395,1.04 [0.90-1.20],0.6277537558172799
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",41299,232,0.99 [0.69-1.41],0.9511567753298058
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",41214,147,0.65 [0.41-1.02],0.0598005245019579
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,41278,211,1.36 [0.94-1.96],0.0991590152597787
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Melanocytic naevi,51327,403,0.96 [0.74-1.25],0.7682888661930605
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Melanocytic naevi of trunk,51645,178,0.84 [0.56-1.26],0.4026807839974303
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Melanoma in situ,41135,163,0.90 [0.59-1.38],0.6332852603762593
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",41248,181,0.73 [0.49-1.09],0.125608034276364
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",41390,323,0.83 [0.62-1.12],0.2255187751243567
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",41513,446,0.50 [0.39-0.65],8.10924679215022e-08
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",41266,199,0.73 [0.50-1.07],0.109749581817654
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,Other benign neoplasms of skin,51363,315,0.84 [0.62-1.13],0.2465422585876935
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",43228,2161,0.97 [0.86-1.09],0.5629593591590529
+MCAM,Cell surface glycoprotein MUC18,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",43344,2277,0.99 [0.88-1.11],0.863758679578164
+MCAM,Cell surface glycoprotein MUC18,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,51136,686,0.85 [0.70-1.05],0.1291988689566572
+MCAM,Cell surface glycoprotein MUC18,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,47931,223,2.09 [1.50-2.90],1.1436648247833585e-05
+MCAM,Cell surface glycoprotein MUC18,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,50594,144,1.31 [0.86-2.02],0.2112609213723952
+MCAM,Cell surface glycoprotein MUC18,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,50134,5834,0.97 [0.90-1.04],0.3749508222982608
+MCAM,Cell surface glycoprotein MUC18,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,48756,99,1.18 [0.70-2.00],0.5344421818665333
+MCAM,Cell surface glycoprotein MUC18,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,50886,102,1.11 [0.66-1.86],0.6988811108718436
+MCAM,Cell surface glycoprotein MUC18,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,50751,3043,1.01 [0.92-1.11],0.8092977441844752
+MCAM,Cell surface glycoprotein MUC18,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,50749,3041,1.01 [0.92-1.11],0.7897370302175308
+MCAM,Cell surface glycoprotein MUC18,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,47882,174,1.56 [1.06-2.31],0.0256401242311935
+MCAM,Cell surface glycoprotein MUC18,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,51068,2411,0.87 [0.79-0.97],0.0151590967026937
+MCAM,Cell surface glycoprotein MUC18,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,51013,229,1.80 [1.30-2.47],0.0003326062810963
+MCAM,Cell surface glycoprotein MUC18,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,50580,130,0.90 [0.56-1.43],0.6474297102225034
+MCAM,Cell surface glycoprotein MUC18,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,50570,120,0.98 [0.61-1.59],0.9400359944994744
+MCAM,Cell surface glycoprotein MUC18,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,51343,559,1.26 [1.01-1.57],0.0421148351851198
+MCAM,Cell surface glycoprotein MUC18,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,51512,112,0.52 [0.32-0.86],0.010594183335828
+MCAM,Cell surface glycoprotein MUC18,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",51245,461,1.31 [1.03-1.67],0.0271579152334039
+MCAM,Cell surface glycoprotein MUC18,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,48869,212,0.63 [0.44-0.90],0.0119071024170529
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,40019,640,1.04 [0.84-1.28],0.7160077231490924
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,48239,235,1.17 [0.82-1.65],0.3874002327394815
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,48259,255,1.22 [0.87-1.71],0.2374890619711057
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,39489,110,0.63 [0.37-1.06],0.0803396470137576
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,48025,137,0.80 [0.51-1.25],0.3239631139520954
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,46893,478,0.66 [0.52-0.84],0.0008482596433402
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",50778,1139,1.28 [1.10-1.49],0.001582591683292
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,50173,534,1.24 [0.99-1.56],0.0664041689661832
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,49896,257,0.85 [0.61-1.19],0.3503995963948497
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,51017,3129,0.94 [0.86-1.03],0.1893394149859661
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,45067,3033,0.89 [0.81-0.98],0.0205341775268323
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",39514,135,1.11 [0.70-1.75],0.6624021514510194
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",47684,159,1.37 [0.92-2.05],0.1203296364556669
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,39946,567,0.87 [0.69-1.09],0.2148055725528817
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,39502,123,1.71 [1.09-2.68],0.0196990596613792
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,46461,7082,0.74 [0.70-0.79],1.853664444931576e-19
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,39764,385,0.97 [0.74-1.28],0.8507962553553317
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,40494,1115,0.96 [0.81-1.12],0.5744107430755193
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,51564,657,1.07 [0.87-1.31],0.5259208475785364
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,51184,277,1.46 [1.09-1.96],0.0111721239590188
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,39632,253,0.97 [0.69-1.36],0.854580605608634
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",39500,121,1.40 [0.88-2.24],0.1578387493231708
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,50639,3114,1.02 [0.93-1.12],0.6912154567891466
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,39901,522,1.41 [1.13-1.76],0.0020723568787237
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,39980,601,1.43 [1.16-1.75],0.0007599197991427
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",40651,1272,0.81 [0.69-0.94],0.0056464318478998
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,39620,241,1.53 [1.12-2.10],0.0077816926359461
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,51167,260,1.56 [1.16-2.11],0.0034545512762664
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,40584,1205,1.01 [0.86-1.17],0.9404801475664192
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,40342,963,0.96 [0.81-1.14],0.6679944454309397
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,46555,140,1.58 [1.03-2.40],0.0342342954877084
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,49362,9983,0.84 [0.80-0.89],1.8825878130068208e-10
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,47624,99,1.12 [0.67-1.89],0.6606173870209598
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,47637,112,0.65 [0.40-1.07],0.0897176698257682
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,51355,3908,0.82 [0.75-0.89],1.4962942514436566e-06
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",51357,3903,0.82 [0.75-0.89],1.5526156467438065e-06
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,47628,103,0.57 [0.34-0.96],0.0360957470701409
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,51041,2423,0.87 [0.79-0.97],0.0135067670518178
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",42556,3177,1.01 [0.92-1.11],0.7885049259416679
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,51701,458,2.00 [1.63-2.46],3.889663376619046e-11
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,49806,167,1.23 [0.82-1.84],0.3132031947885939
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,48825,207,1.13 [0.79-1.61],0.5057070830183354
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,48904,286,0.76 [0.55-1.03],0.0773621348648278
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",39713,334,0.83 [0.62-1.11],0.2167549823777594
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,47069,306,1.70 [1.27-2.27],0.0003301104049178
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,4246,171,2.19 [1.56-3.06],5.264971868759871e-06
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,4526,507,1.80 [1.48-2.20],6.432930893357683e-09
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,46888,125,1.62 [1.01-2.58],0.0440697822914011
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,4186,114,2.49 [1.73-3.59],1.0105091654448162e-06
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,50445,3682,0.68 [0.62-0.74],1.3449990305714e-18
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,50343,704,1.12 [0.92-1.37],0.2560274845709752
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,47148,733,1.08 [0.90-1.31],0.4145449218129315
+MCAM,Cell surface glycoprotein MUC18,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,40921,1542,0.95 [0.83-1.09],0.4812131054436908
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",51501,486,1.60 [1.27-2.00],5.527353518481512e-05
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),49472,330,0.65 [0.48-0.88],0.0046569799840175
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Angina pectoris,47236,2395,0.69 [0.62-0.77],8.673612100747126e-11
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Aortic aneurysm,49627,485,0.83 [0.65-1.06],0.1374703117790568
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,49260,118,1.05 [0.64-1.71],0.8496823867777086
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",49542,400,0.96 [0.73-1.25],0.7545324468517595
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,32057,3822,1.19 [1.09-1.30],0.0001356749493036
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,AV-block,43588,874,1.26 [1.05-1.51],0.0110554169371486
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",51609,850,1.15 [0.96-1.38],0.1207424007859995
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Cardiac arrest,28620,385,1.24 [0.93-1.63],0.1399077846569858
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Cardiomyopathy,43056,342,1.41 [1.07-1.87],0.0157169625475314
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",42909,195,1.26 [0.87-1.83],0.2277331420349292
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,51723,101,1.04 [0.62-1.77],0.8755393953658716
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Conduction disorders,44828,2114,1.25 [1.11-1.40],0.0001379292760374
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,48971,4166,0.87 [0.80-0.94],0.0007565609342399
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,45140,15181,0.94 [0.90-0.99],0.0095340355309188
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,DVT of lower extremities,48951,526,1.63 [1.31-2.02],1.1659708634735996e-05
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Endocarditis,42861,147,1.16 [0.75-1.79],0.514127596936494
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,"Heart failure, strict",51311,2207,1.20 [1.07-1.34],0.0013946409396823
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Hypertension,46979,13038,0.91 [0.87-0.95],9.0983823367913e-05
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,"Hypertension, essential",47015,13074,0.91 [0.87-0.95],9.676467545103302e-05
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,"Hypertension, portal",51387,159,3.09 [2.30-4.15],5.1988027762992304e-14
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",34292,351,2.50 [1.92-3.24],6.601434234157424e-12
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,34219,278,2.72 [2.04-3.63],8.205972230804996e-12
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Hypotension,51436,2364,1.05 [0.94-1.17],0.4169295455632817
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,49879,216,0.98 [0.68-1.41],0.9021433622176224
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",49317,4476,0.86 [0.79-0.93],0.0001455942767603
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",50971,1119,1.04 [0.89-1.22],0.6097011008685363
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Left bundle-branch block,43434,720,1.45 [1.20-1.76],0.0001471306561014
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,50766,1675,0.86 [0.75-0.98],0.0241398327288636
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",46256,1415,0.81 [0.70-0.94],0.0043060997984377
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",51540,309,0.69 [0.51-0.94],0.0184566076673728
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",51667,612,0.84 [0.68-1.04],0.1162535055533403
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Oesophageal varices,48534,109,3.00 [2.12-4.25],5.870818830698804e-10
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Other aneurysm,49300,158,1.19 [0.78-1.81],0.4191639079040606
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Other arrhythmias,43563,849,1.14 [0.95-1.37],0.1626960904464099
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,49344,202,0.88 [0.61-1.29],0.5242246698373498
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,49622,480,1.09 [0.85-1.38],0.5011804218370681
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,43071,357,0.75 [0.56-1.00],0.0510836097529499
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Other disorders of veins,48619,194,1.86 [1.34-2.59],0.0002171039208238
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,48520,95,1.46 [0.87-2.47],0.1547706030530044
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,48848,128,0.90 [0.56-1.45],0.6682574530521896
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,48698,273,1.86 [1.42-2.43],7.596586185906836e-06
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,44787,2073,1.23 [1.09-1.38],0.0004652934552301
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,49183,111,2.84 [1.96-4.13],3.61801123325864e-08
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,50229,1087,1.12 [0.96-1.31],0.1595382635948968
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,50502,690,1.65 [1.38-1.99],9.120990494395996e-08
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",49950,1230,1.15 [0.99-1.34],0.0623228389129447
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,28906,671,1.18 [0.96-1.46],0.1179616113424012
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Peripheral artery disease,49891,810,1.04 [0.87-1.26],0.6480948909674619
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),49115,690,1.55 [1.28-1.88],7.778951909034245e-06
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Pulmonary embolism,50759,947,1.08 [0.91-1.28],0.3921983690291272
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,51586,1320,1.32 [1.14-1.52],0.0001477438722441
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Right bundle-branch block,43414,700,1.20 [0.98-1.46],0.0804229344864349
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Secondary right heart disease,50491,679,1.67 [1.39-2.01],6.289987905768535e-08
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,49106,386,1.25 [0.96-1.63],0.0939637925979176
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",50948,1285,1.02 [0.88-1.19],0.7497691331529084
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",50905,1361,1.00 [0.87-1.16],0.9773240590830868
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,49821,118,0.61 [0.37-0.99],0.046043308560985
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,49304,163,1.80 [1.22-2.67],0.0032991194209933
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Transient ischemic attack,50322,470,0.91 [0.71-1.17],0.4701010773861476
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,49608,517,0.80 [0.63-1.01],0.0647480909072448
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Varicose veins,49275,850,1.83 [1.55-2.15],5.560635206589853e-13
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,49170,169,0.78 [0.51-1.17],0.2259607976867956
+MCAM,Cell surface glycoprotein MUC18,Chapter IX Diseases of the circulatory system,Venous thromboembolism,51273,1500,1.25 [1.10-1.43],0.0008933007120152
+MCAM,Cell surface glycoprotein MUC18,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",51483,717,1.27 [1.05-1.55],0.0156649356889467
+MCAM,Cell surface glycoprotein MUC18,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",45250,2860,0.85 [0.77-0.94],0.0018971534114845
+MCAM,Cell surface glycoprotein MUC18,Chapter V Mental and behavioural disorders,Any mental disorder,50421,8031,0.88 [0.83-0.94],2.9037834037863245e-05
+MCAM,Cell surface glycoprotein MUC18,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",51390,851,1.19 [0.99-1.43],0.056764010414419
+MCAM,Cell surface glycoprotein MUC18,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",45576,3186,0.90 [0.82-0.99],0.0265513752885907
+MCAM,Cell surface glycoprotein MUC18,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",42573,183,0.70 [0.47-1.03],0.0694555568126441
+MCAM,Cell surface glycoprotein MUC18,Chapter V Mental and behavioural disorders,Smoking dependency,50660,2744,0.71 [0.65-0.79],5.872905484200352e-11
+MCAM,Cell surface glycoprotein MUC18,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",45660,3270,0.78 [0.71-0.86],1.937634559214496e-07
+MCAM,Cell surface glycoprotein MUC18,Chapter V Mental and behavioural disorders,Vascular dementia,50702,254,1.03 [0.73-1.43],0.8794213795337484
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Alzheimer disease,51726,664,1.28 [1.05-1.57],0.0156708813638839
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",34838,116,1.38 [0.84-2.27],0.205533784263119
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Bell's palsy,48142,162,1.22 [0.81-1.83],0.3364002527634264
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,48972,992,0.90 [0.76-1.06],0.1992033966797154
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Cerebral cysts,50907,464,0.85 [0.66-1.09],0.1999176620215666
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,51565,645,1.02 [0.83-1.26],0.8288110820991236
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,50724,100,1.05 [0.61-1.79],0.867435372398654
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,51693,123,0.93 [0.58-1.51],0.7810604737728291
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",50592,149,0.83 [0.53-1.29],0.4010398633130646
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Epilepsy,48598,575,1.06 [0.85-1.33],0.5851725206404377
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,50762,2739,0.96 [0.86-1.06],0.3770045922925201
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,51642,1215,0.94 [0.80-1.09],0.4031190479781136
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Falls/tendency to fall,50535,5164,1.12 [1.04-1.20],0.0028818749576721
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Generalized epilepsy,50960,107,1.62 [0.99-2.63],0.0533588267931943
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Hemiplegia,51426,506,1.01 [0.80-1.28],0.9125529279939746
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Hydrocephalus,50566,123,1.43 [0.90-2.27],0.1253099088767661
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,51689,139,0.88 [0.56-1.38],0.5840277335763847
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,48129,149,0.76 [0.50-1.17],0.2183581987530306
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,48144,164,0.87 [0.58-1.32],0.514913290951567
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Memory loss,50412,216,1.12 [0.78-1.60],0.5511426784779734
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Migraine,48739,716,1.00 [0.82-1.21],0.962541778624938
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",51584,646,1.02 [0.83-1.25],0.8633447486714045
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Motor neuron disease,35038,276,0.97 [0.70-1.35],0.8707964565247296
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,51395,206,0.81 [0.56-1.18],0.2726315002509222
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",50387,2407,0.91 [0.82-1.02],0.104177078095918
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Neurological diseases,48763,7572,0.98 [0.92-1.04],0.4858890751297964
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,51026,402,1.24 [0.96-1.62],0.1016247541882646
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",48807,827,0.85 [0.70-1.02],0.0785773572272437
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",51573,598,1.72 [1.41-2.10],9.28387327074528e-08
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,41114,1293,1.13 [0.97-1.31],0.1159655419604877
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,50592,149,0.90 [0.58-1.39],0.6363689967636744
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Other disorders of nervous system,50720,277,1.08 [0.79-1.48],0.6151570958678227
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,50756,329,1.06 [0.79-1.42],0.6962549553517492
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Other facial nerve disorders,48171,191,1.14 [0.78-1.66],0.4885008376166873
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Other headache syndromes,48134,111,0.95 [0.58-1.56],0.8403353818628635
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Other neurological diseases,51484,1041,0.98 [0.83-1.15],0.7619491744131242
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Other sleep disorders,49140,1117,0.85 [0.73-1.00],0.0475609276857624
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Parkinson's disease,51681,860,0.98 [0.81-1.17],0.8030291756605119
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,50554,111,0.47 [0.29-0.77],0.0027094388878344
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Restless leg syndrome,51725,154,1.16 [0.77-1.77],0.4726930684506185
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Sleep apnoea,51237,958,0.83 [0.70-0.98],0.0256129954584906
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Small fibre neuropathy,51075,100,1.83 [1.11-3.01],0.0175610625829419
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,51698,331,1.04 [0.78-1.39],0.7926554436564093
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,48082,102,0.99 [0.59-1.67],0.9659484018865654
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,51726,671,1.27 [1.04-1.56],0.0184820438923596
+MCAM,Cell surface glycoprotein MUC18,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),50629,249,1.06 [0.75-1.48],0.7461455440610867
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,50579,200,0.96 [0.66-1.40],0.8408059787844008
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,50911,796,0.96 [0.79-1.15],0.6367860338350047
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,51380,468,1.54 [1.23-1.93],0.0001624416266384
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,49715,107,0.92 [0.55-1.53],0.7372212623904479
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,49723,115,0.81 [0.49-1.34],0.4216477011856441
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",51510,106,0.66 [0.39-1.10],0.110336049665443
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,51201,294,1.20 [0.88-1.62],0.2439603546763962
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",4197,122,2.67 [1.87-3.81],6.477620981709057e-08
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,5080,202,2.37 [1.85-3.03],1.0078151326461076e-11
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,50564,185,0.97 [0.66-1.44],0.8943337915623104
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,51288,2068,1.12 [1.00-1.26],0.0476738061763487
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",50995,1387,0.89 [0.77-1.02],0.0952426444209326
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,50051,443,1.09 [0.85-1.40],0.4737264472982565
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",51557,1442,0.94 [0.81-1.08],0.3652849181007567
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,51708,131,1.01 [0.64-1.60],0.9554132986243462
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,51410,1295,0.89 [0.77-1.04],0.1390644940948843
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",51639,732,1.07 [0.88-1.29],0.5179749344621455
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,51541,355,1.54 [1.18-2.02],0.0014000280687034
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,49727,119,0.57 [0.34-0.94],0.0263500690625917
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,49745,137,0.56 [0.35-0.89],0.0145379068517672
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,49717,109,1.08 [0.65-1.79],0.7573555065478063
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,51537,1418,1.32 [1.15-1.51],8.069637219650964e-05
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,50487,368,1.49 [1.14-1.95],0.0031061117920912
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,50213,98,0.96 [0.56-1.63],0.8746906390677405
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,51106,199,1.13 [0.78-1.64],0.5153085268096574
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,51456,549,1.08 [0.86-1.35],0.5056190992839327
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,50497,382,0.81 [0.62-1.07],0.1355598756069959
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,51408,222,1.58 [1.13-2.21],0.0079731590042455
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,51068,949,1.27 [1.08-1.51],0.0049830131488686
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,50657,278,1.20 [0.88-1.63],0.2558193534490051
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,48537,4344,1.03 [0.95-1.12],0.461481390625002
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,51384,477,1.08 [0.85-1.37],0.5493890388823848
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,51684,306,1.16 [0.86-1.57],0.3242848891386486
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,50433,825,0.86 [0.71-1.03],0.1030027767694177
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,51035,128,1.38 [0.88-2.16],0.1645022305455983
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,51684,107,0.98 [0.59-1.63],0.9339206450976508
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,49778,170,1.24 [0.83-1.84],0.2991923432716348
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,49908,300,0.76 [0.56-1.03],0.0780150841015254
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,49457,237,0.98 [0.69-1.39],0.9061968828190776
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,50238,123,1.41 [0.89-2.24],0.1415061829883228
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",49344,124,1.20 [0.74-1.93],0.4529468326411228
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,50292,173,1.07 [0.72-1.59],0.7430006626139163
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",50511,392,1.33 [1.02-1.72],0.0354419469353969
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,49864,256,1.22 [0.88-1.68],0.2287929698284785
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,49443,223,0.81 [0.57-1.17],0.2696402995339704
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,49390,170,1.05 [0.70-1.57],0.8313268428079845
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,47792,3599,0.97 [0.89-1.06],0.4795708526850722
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,49749,141,1.31 [0.85-2.02],0.2230308164282219
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,51204,825,0.97 [0.81-1.17],0.7853005095714901
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,50498,119,1.11 [0.69-1.80],0.6675165893073094
+MCAM,Cell surface glycoprotein MUC18,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),50722,343,1.22 [0.92-1.61],0.1609011501996577
+MCAM,Cell surface glycoprotein MUC18,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,51302,174,1.03 [0.70-1.54],0.8697927461687323
+MCAM,Cell surface glycoprotein MUC18,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,51636,241,0.85 [0.60-1.20],0.3510587920147541
+MCAM,Cell surface glycoprotein MUC18,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,51461,255,0.87 [0.63-1.21],0.4147942761322729
+MCAM,Cell surface glycoprotein MUC18,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,51248,120,1.03 [0.63-1.66],0.9138157677976204
+MCAM,Cell surface glycoprotein MUC18,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,51253,125,0.72 [0.45-1.16],0.1807320841005852
+MCAM,Cell surface glycoprotein MUC18,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,51530,1800,0.93 [0.82-1.05],0.2292806443700957
+MCAM,Cell surface glycoprotein MUC18,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,51018,1288,0.98 [0.84-1.13],0.7620222344083025
+MCAM,Cell surface glycoprotein MUC18,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,49984,254,0.76 [0.54-1.06],0.109993845730484
+MCAM,Cell surface glycoprotein MUC18,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,49902,172,1.02 [0.68-1.53],0.9190417982355552
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Acute pharyngitis,51233,150,0.91 [0.59-1.39],0.6551718364175745
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,51513,430,1.00 [0.78-1.29],0.9945499385389804
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,51212,129,1.19 [0.76-1.88],0.4493235985933732
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,All influenza,47672,236,1.29 [0.92-1.80],0.1379399548166433
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),47667,231,1.28 [0.91-1.80],0.1495934399170101
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Allergic asthma (mode),35431,235,1.00 [0.70-1.41],0.9855759930062744
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Allergic rhinitis,51461,560,1.00 [0.80-1.25],0.9840661544692314
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",38194,3539,0.82 [0.75-0.90],2.4287962554843475e-05
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",38685,3489,0.82 [0.75-0.89],1.135663832087328e-05
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),50906,276,1.45 [1.06-1.96],0.0185790718317233
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",47598,162,1.08 [0.71-1.63],0.7216459537588408
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Bronchiectasis,44848,717,0.65 [0.53-0.80],2.79178568795272e-05
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",44248,117,0.59 [0.36-0.96],0.032929959442326
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,49702,5571,0.80 [0.74-0.86],5.393379892683768e-10
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",48972,143,1.09 [0.70-1.70],0.6984214254690407
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Chronic sinusitis,49139,310,0.78 [0.57-1.06],0.1100333193787505
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",51326,2372,0.74 [0.67-0.83],1.1561975876567065e-07
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Deviated nasal septum,49038,209,0.80 [0.55-1.16],0.2326760523541859
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,47585,10525,0.88 [0.84-0.93],2.43545338901121e-06
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",49559,730,0.75 [0.61-0.91],0.0041028943125075
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Early onset COPD,49580,626,0.68 [0.55-0.84],0.0003508239005578
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Emphysema,44760,629,0.60 [0.49-0.75],3.960075325684134e-06
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,49137,574,0.83 [0.67-1.04],0.1143966679744065
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Influenza and pneumonia,51279,3843,0.95 [0.87-1.03],0.1996722524224845
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Interstitial lung disease,49208,645,0.85 [0.68-1.04],0.1202676191442856
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Later onset COPD,49724,1746,0.79 [0.70-0.90],0.0003236838226766
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,51702,659,1.06 [0.86-1.30],0.5939705129639475
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Nasal polyp,49040,211,0.79 [0.54-1.15],0.2240061996848399
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,51231,1941,1.07 [0.95-1.21],0.2425758535091856
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Other diseases of pleura,51248,3984,0.98 [0.90-1.07],0.6546982686039645
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,50502,1673,0.81 [0.71-0.93],0.0019261447129322
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Other pleural conditions,47368,104,0.73 [0.42-1.25],0.2466636208899638
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,51547,801,0.93 [0.77-1.12],0.4566398183682344
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,51511,2595,0.92 [0.83-1.02],0.1209832701847183
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Pleural effusion,49255,1991,1.15 [1.03-1.30],0.0172890487952567
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Pleural plaque,47573,309,0.64 [0.46-0.87],0.0048774528461128
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",50778,3342,0.93 [0.85-1.02],0.1133216676293802
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,51576,533,1.13 [0.90-1.42],0.3044056097447839
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Pneumothorax,47496,232,0.86 [0.60-1.23],0.4124509063554625
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Pollen allergy,51678,477,0.95 [0.74-1.21],0.6747956744967033
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Pulmonary oedema,50877,131,1.62 [1.06-2.47],0.0265756351080413
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Respiratory insufficiency,35304,108,0.90 [0.54-1.50],0.6821437955806168
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,51188,1898,1.09 [0.97-1.23],0.145837057913034
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,49391,562,1.00 [0.80-1.25],0.9999613137402432
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Viral pneumonia,47932,496,0.90 [0.71-1.14],0.3710923478322294
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",50937,408,0.84 [0.64-1.09],0.1817535390617844
+MCAM,Cell surface glycoprotein MUC18,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,23843,228,0.68 [0.47-0.98],0.0411011943773376
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,36529,127,0.84 [0.52-1.35],0.4664643063024477
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Acute appendicitis,51400,284,0.97 [0.71-1.33],0.8539387177242551
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Acute gastritis,38911,182,1.13 [0.76-1.68],0.5401510832416034
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Acute pancreatitis,48022,367,0.79 [0.60-1.05],0.1068055728024729
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Acute peritonitis,50779,186,1.72 [1.20-2.47],0.0032749261932445
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Alcoholic liver disease,49930,149,2.03 [1.36-3.03],0.0005130728958771
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Barrett oesophagus,39605,876,0.88 [0.73-1.05],0.162559619587424
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",47861,206,0.68 [0.47-0.99],0.0432928797690691
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",50882,206,0.69 [0.48-1.00],0.0522773554856088
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Cholecystitis,48068,413,0.85 [0.65-1.10],0.2189974133166574
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Cholelithiasis,49646,1991,0.70 [0.62-0.79],2.6632015592819555e-09
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Chronic gastritis,39343,614,0.85 [0.68-1.05],0.1344317511816348
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Chronic pancreatitis,47755,100,0.59 [0.35-1.02],0.057876856898109
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",51440,212,2.36 [1.77-3.15],6.404330809490151e-09
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Coeliac disease,48504,249,0.50 [0.35-0.70],6.238493228370247e-05
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Collagenous colitis,48359,166,1.04 [0.69-1.56],0.8535743683557518
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,51420,374,0.83 [0.63-1.09],0.182570632796488
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Constipation,51209,3353,0.99 [0.91-1.09],0.892609665238763
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Crohn disease,48381,188,0.71 [0.48-1.05],0.0826894342572567
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",51016,139,0.70 [0.44-1.10],0.1246846391193583
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Crohn's disease NAS,48371,178,0.75 [0.50-1.12],0.1592902421032265
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Dental caries,50230,459,0.69 [0.54-0.89],0.003859056501782
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,46415,4469,0.86 [0.80-0.93],0.0002650568585517
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Diseases of appendix,51474,358,0.89 [0.67-1.18],0.4271854097389068
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Diseases of liver,51486,1705,1.05 [0.93-1.20],0.4211658919019203
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",47379,8650,0.91 [0.86-0.97],0.0023082688260219
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",50886,1115,0.88 [0.75-1.04],0.1261272349514643
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Diseases of peritoneum,51552,959,0.83 [0.70-0.98],0.0292156227327547
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,50000,229,1.09 [0.77-1.55],0.6078054139290413
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Diseases of salivary glands,49706,130,0.75 [0.47-1.19],0.2161724134972738
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Diseases of the digestive system,51099,2844,0.89 [0.81-0.98],0.0215853935645351
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Diseases of tongue,49736,223,1.00 [0.70-1.42],0.9918444408215616
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",50477,2822,0.79 [0.72-0.87],4.322025391664318e-06
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,42733,6331,0.75 [0.71-0.81],5.132401080274606e-16
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Duodenal ulcer,39124,395,0.82 [0.62-1.07],0.1454205329793034
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",51560,320,0.82 [0.61-1.10],0.1908366366476879
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,51545,110,0.99 [0.60-1.64],0.9680360332763188
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,50038,257,2.18 [1.65-2.86],2.8323705931828828e-08
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,36696,294,0.92 [0.67-1.26],0.6001242383937546
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Functional dyspepsia,39818,1089,0.82 [0.70-0.96],0.0160970709551752
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Gastric ulcer,39456,727,0.93 [0.76-1.13],0.4511860793514548
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,43731,5002,0.81 [0.75-0.88],7.58115577167719e-08
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,39808,1079,0.88 [0.75-1.04],0.1371587112573875
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,40048,16620,0.88 [0.84-0.92],1.6474219065486287e-09
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,GI-bleeding,50582,2327,0.97 [0.87-1.08],0.6085223857636177
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,49880,109,0.70 [0.42-1.15],0.1612526005574975
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,38359,2522,0.84 [0.75-0.93],0.0014154511319328
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",49908,127,2.72 [1.88-3.93],9.429602256122709e-08
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Hernia,48454,6508,0.85 [0.80-0.91],2.3245173107187484e-06
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Impacted teeth,51559,102,0.91 [0.54-1.55],0.7339880057087947
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Impaction of intestines,36514,112,0.83 [0.50-1.38],0.4688587994332116
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Inguinal hernia,43760,1814,0.79 [0.70-0.91],0.0005589575960006
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",42151,205,0.97 [0.66-1.42],0.8701900300662125
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,36592,190,0.91 [0.62-1.35],0.6509525013724557
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Intestinal malabsorption,48544,289,0.52 [0.38-0.71],5.251576702812765e-05
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,37508,1106,0.86 [0.74-1.01],0.0728013052238554
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,51667,747,0.76 [0.63-0.92],0.004549642886466
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,49704,1511,1.01 [0.88-1.16],0.8941086207719524
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,50206,2013,0.94 [0.84-1.06],0.3374549608967158
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Oesophageal obstruction,39106,377,0.88 [0.67-1.16],0.373573469638255
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Oesophagitis,39944,1215,0.99 [0.85-1.15],0.850679198061546
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,51626,273,0.87 [0.63-1.20],0.3890009975267252
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,42086,140,0.75 [0.47-1.18],0.2078979861228586
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,39130,2728,0.82 [0.74-0.91],0.0001468497655853
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,48228,573,0.69 [0.55-0.86],0.001129133152653
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,47966,311,0.74 [0.54-0.99],0.0455448978452026
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Other diseases of intestine,39909,3507,0.84 [0.77-0.92],0.0002083331568887
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Other diseases of intestines,47709,11307,0.88 [0.83-0.92],3.055627213320533e-07
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,49689,416,0.79 [0.61-1.03],0.0831506974623851
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Other diseases of liver,51182,1401,1.07 [0.93-1.23],0.3605617037494832
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,40062,1333,0.86 [0.74-1.00],0.0509512945569481
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Other diseases of pancreas,47961,306,1.06 [0.78-1.43],0.7017911235941786
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,51416,823,0.74 [0.62-0.89],0.0015889109214398
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,40644,1915,0.93 [0.83-1.06],0.2728443745965414
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,50613,2358,0.97 [0.87-1.08],0.5971311589728958
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,50146,375,0.79 [0.60-1.04],0.0910958372043093
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,39851,3449,0.92 [0.84-1.00],0.0592526706676279
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),42756,4027,0.88 [0.81-0.96],0.0034502941890987
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,49979,198,1.22 [0.85-1.76],0.2847239449589616
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,49958,1765,1.01 [0.89-1.15],0.828283859996445
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",37094,692,0.86 [0.70-1.05],0.1352536563230954
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,51525,130,0.94 [0.59-1.50],0.7935424989255904
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,37382,980,0.88 [0.74-1.04],0.1416919270134796
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",48555,300,0.69 [0.51-0.94],0.0192462459969927
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Recurring oral aphthae,51704,114,0.67 [0.41-1.11],0.1176306047634657
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,49782,237,1.03 [0.73-1.45],0.8874450260326343
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Toxic colitis,48306,113,1.27 [0.78-2.07],0.3309825691127314
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,39261,532,0.87 [0.69-1.10],0.2367622282189801
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Ulcerative colitis,48517,324,0.66 [0.49-0.89],0.0068313706324438
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",48461,268,0.67 [0.48-0.92],0.0153051523798919
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Umbilical hernia,42491,545,0.82 [0.65-1.03],0.0879877501476539
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,36751,349,0.90 [0.68-1.21],0.4905884515594898
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Ventral hernia,42466,520,0.77 [0.61-0.97],0.02767184105138
+MCAM,Cell surface glycoprotein MUC18,Chapter XI Diseases of the digestive system,Volvulus,36561,159,1.05 [0.69-1.60],0.8293498498687366
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,51561,590,1.08 [0.86-1.34],0.5122240509624911
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,51075,148,0.77 [0.50-1.19],0.2395898996076728
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,47641,316,1.26 [0.94-1.69],0.1167333280158693
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,50444,1411,1.50 [1.32-1.71],1.5740518416069283e-09
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",49382,349,0.92 [0.69-1.22],0.5655404134148516
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,48136,811,1.16 [0.97-1.40],0.103614950273482
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,51111,557,1.13 [0.90-1.41],0.2839240070279275
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,51525,971,1.11 [0.94-1.31],0.2174054741045448
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,50651,97,1.12 [0.66-1.91],0.6660135497267892
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,48612,6414,1.07 [1.00-1.14],0.0446860242966756
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,50818,894,0.80 [0.67-0.95],0.0133744272492365
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,50555,631,0.81 [0.65-1.00],0.0466636440519035
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,50937,1904,1.33 [1.18-1.49],1.8888243380697788e-06
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",51691,111,0.64 [0.39-1.07],0.086824964078453
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,47438,113,0.40 [0.25-0.64],0.0001770086598501
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,50026,102,0.58 [0.34-0.98],0.0435630599706267
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,51091,537,1.17 [0.93-1.46],0.1746899042325554
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,48231,906,0.98 [0.82-1.18],0.8479389398526671
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,47454,129,1.07 [0.67-1.72],0.7793859142044081
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,51552,166,1.45 [0.98-2.13],0.0621584203501298
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,49416,383,1.39 [1.07-1.79],0.0134559662395537
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,51314,387,0.94 [0.72-1.23],0.6528707485830232
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,50685,131,1.47 [0.96-2.24],0.0746484771126437
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,47459,134,0.94 [0.59-1.50],0.7951139192762803
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,50577,3252,1.13 [1.03-1.24],0.0104453404751932
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",48305,980,0.98 [0.83-1.17],0.8375229703374625
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,47462,137,0.99 [0.62-1.57],0.9559020094408576
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,51544,617,0.84 [0.67-1.04],0.1016733791007016
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,50694,140,1.03 [0.67-1.60],0.8818880055779996
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,51431,504,0.89 [0.70-1.13],0.3308695518516469
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,51617,646,1.05 [0.85-1.30],0.6344914500900558
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,47572,247,1.31 [0.94-1.83],0.1127567606884972
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,47862,537,1.14 [0.90-1.43],0.2684100629026834
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,51596,625,1.05 [0.85-1.30],0.658004700557931
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",47796,471,1.83 [1.49-2.25],8.775788736884704e-09
+MCAM,Cell surface glycoprotein MUC18,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,51665,279,1.34 [0.99-1.81],0.0607612350915612
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,44387,217,0.74 [0.52-1.07],0.1085427075093016
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,47075,11304,0.99 [0.94-1.04],0.6404111936671633
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,44240,8469,0.99 [0.93-1.05],0.685689227882003
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,44320,150,0.95 [0.62-1.47],0.8313813215971637
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,44824,305,0.98 [0.72-1.32],0.8837134785068312
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,44879,360,1.16 [0.88-1.53],0.2843224320337876
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,51231,185,1.24 [0.85-1.80],0.2599799803274565
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",44719,200,0.99 [0.68-1.44],0.9589561376733552
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,38040,2269,1.14 [1.02-1.28],0.018153323753126
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",51451,374,1.14 [0.87-1.50],0.3386069130021474
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,45416,897,1.00 [0.84-1.19],0.9973429132641464
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,43716,14535,1.00 [0.96-1.04],0.9611776538379596
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,47751,233,1.24 [0.89-1.74],0.2033178131477622
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,44472,302,0.92 [0.67-1.24],0.5748832493809775
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,45304,1134,0.96 [0.82-1.13],0.6372039146537034
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,49855,5336,0.97 [0.90-1.04],0.4379893148835654
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,44713,543,1.32 [1.05-1.66],0.015628986742843
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,44615,445,0.92 [0.72-1.17],0.5058202458654655
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,44439,269,0.83 [0.60-1.15],0.2647368816219091
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,50442,137,1.64 [1.07-2.54],0.0244974511798979
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,39161,3390,0.97 [0.89-1.06],0.5451076977505774
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,36985,1214,1.09 [0.94-1.27],0.2376435081748266
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",51572,1197,1.07 [0.92-1.25],0.3771664063862512
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,35921,150,0.98 [0.63-1.51],0.9185394035667528
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),36427,656,1.21 [0.99-1.48],0.0671566985477665
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,44778,608,0.80 [0.64-0.99],0.0444758266620027
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,37049,1278,0.91 [0.79-1.06],0.2311794309574062
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,44632,113,1.22 [0.74-1.99],0.4357400669855532
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,45777,1258,0.95 [0.82-1.11],0.542175483755909
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,45129,610,0.84 [0.67-1.04],0.1044389966992649
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,36965,1194,0.91 [0.78-1.06],0.2081568390971982
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,44332,162,0.67 [0.44-1.01],0.0560094911509177
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",44291,121,0.80 [0.50-1.30],0.3742465599485305
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,47665,147,1.43 [0.95-2.16],0.084335963248079
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,50951,3433,1.15 [1.06-1.26],0.0016223893455851
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,49764,2246,1.16 [1.04-1.29],0.0099392072412047
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",51445,906,0.87 [0.73-1.04],0.1242787528856596
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,40763,4992,0.93 [0.86-1.00],0.0447521468095229
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,35896,125,0.89 [0.55-1.44],0.6406522589776495
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,44360,190,1.12 [0.76-1.63],0.5692297862869673
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,35869,98,1.11 [0.65-1.90],0.703373161385616
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),36023,252,1.02 [0.73-1.42],0.9065175039966183
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,47999,481,1.09 [0.86-1.38],0.4922136885175455
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,48288,770,1.11 [0.92-1.34],0.2893991786408993
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,51660,202,1.19 [0.83-1.72],0.3456862207728872
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",48137,3618,0.99 [0.91-1.08],0.8838493919791575
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,44372,202,1.08 [0.75-1.56],0.6801640887929563
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),36043,272,1.21 [0.88-1.66],0.2448797879200641
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,45976,1457,0.98 [0.85-1.13],0.7761625666306905
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,40068,4297,1.07 [0.99-1.16],0.0800305021694458
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,50493,188,1.39 [0.96-2.03],0.0840227102079311
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,51687,141,0.79 [0.50-1.23],0.2905500507896719
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,44335,165,1.04 [0.69-1.57],0.8564483489322866
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",46665,2495,0.98 [0.88-1.09],0.7435489516446343
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,44348,178,1.27 [0.86-1.89],0.2262941339402008
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,39025,3254,0.89 [0.81-0.98],0.0157455452906591
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,47739,221,0.83 [0.58-1.18],0.3052801822492158
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,44277,107,1.24 [0.75-2.06],0.3992682228128135
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,44834,315,0.84 [0.62-1.13],0.2558139750408097
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,45278,1108,1.16 [0.99-1.35],0.0655243424413981
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,51014,709,0.88 [0.72-1.07],0.2088490273097378
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,45662,1143,1.14 [0.98-1.33],0.0905492277080717
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,51469,880,0.86 [0.72-1.03],0.0950052258847444
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,51682,108,0.57 [0.34-0.95],0.0299546943177333
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,44547,377,1.08 [0.82-1.41],0.5869052291428583
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,40939,1505,1.19 [1.05-1.36],0.0084056702999986
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,45328,1158,1.04 [0.89-1.22],0.5925838945498253
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],44623,453,1.27 [0.98-1.63],0.066502976908181
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",35878,107,1.10 [0.66-1.81],0.7197980624282004
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,40758,4987,0.93 [0.86-1.00],0.0479769694402848
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,37082,1311,0.91 [0.78-1.05],0.1889733072392947
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,50769,464,1.18 [0.92-1.51],0.1836400052305633
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",51593,135,1.37 [0.88-2.13],0.1624241259984949
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",47384,102,1.10 [0.66-1.81],0.7163683228662063
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,35915,144,0.81 [0.52-1.25],0.3368225422523894
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,44719,200,0.79 [0.55-1.16],0.2276815971691677
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,36689,918,0.85 [0.71-1.01],0.0603997918551639
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,44785,615,0.94 [0.76-1.17],0.5917254787151787
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,45033,514,0.98 [0.78-1.24],0.8631417499946406
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,44900,381,1.05 [0.80-1.38],0.7021886190714425
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,40427,118,0.72 [0.44-1.17],0.1806257013923957
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",51689,115,0.53 [0.32-0.87],0.0119603911923882
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,45351,1181,0.88 [0.75-1.03],0.1073761336442393
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],50490,185,0.54 [0.37-0.80],0.0017692733215756
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,49315,5145,1.00 [0.93-1.08],0.9202585210416174
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",44430,260,0.80 [0.57-1.11],0.1769767695371591
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,45606,1087,1.00 [0.85-1.17],0.992189338423839
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,48912,469,0.86 [0.67-1.09],0.2127430309889933
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,44934,415,1.01 [0.78-1.31],0.928459032402038
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,47636,3117,0.91 [0.83-1.00],0.0466557876653531
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,46568,2049,0.90 [0.80-1.01],0.0652900181724374
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],44281,111,1.14 [0.70-1.87],0.5907493142734916
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,50574,269,0.49 [0.35-0.67],7.936393677997714e-06
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,44496,326,0.93 [0.69-1.25],0.6206285518317485
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,44323,153,0.66 [0.43-1.01],0.055016928674661
+MCAM,Cell surface glycoprotein MUC18,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),35888,117,1.32 [0.82-2.13],0.2507183352928167
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Acute renal failure,49599,3152,1.30 [1.19-1.43],2.1388951950186927e-08
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),20862,104,0.76 [0.46-1.26],0.2896087755808388
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,27168,114,0.73 [0.45-1.20],0.2138294415345991
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,51080,654,0.65 [0.53-0.81],7.381565610919037e-05
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,50595,169,0.52 [0.34-0.80],0.0026124567451923
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,49531,3084,1.58 [1.44-1.72],2.1476974119401293e-24
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,51291,167,2.15 [1.54-3.01],7.49914297631671e-06
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,51227,610,0.79 [0.64-0.98],0.0337646647550453
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Cystitis,45552,471,0.94 [0.74-1.21],0.6456299037721426
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Dialysis,46611,164,3.50 [2.72-4.51],2.9148021411982787e-22
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,22560,3318,0.97 [0.88-1.07],0.5520020094879169
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Disorders of breast,27401,347,0.68 [0.51-0.90],0.0066423416867912
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Endometriosis,20942,184,0.96 [0.66-1.40],0.8412124213235459
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",21162,404,0.76 [0.59-0.98],0.0376136848486015
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,21781,1023,0.56 [0.47-0.66],5.109170681924727e-12
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,43145,10751,0.91 [0.87-0.96],0.000484428507193
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,51293,169,1.79 [1.26-2.55],0.001187585196569
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Hydrocele,19448,206,1.39 [0.96-2.01],0.080524082927099
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,46432,586,0.87 [0.70-1.09],0.233335364404321
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,21850,2608,0.91 [0.82-1.02],0.0912877146994473
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,27325,411,0.80 [0.62-1.03],0.0866010062938013
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),19478,236,0.96 [0.67-1.37],0.8111350515407757
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Irregular menses,27410,130,0.63 [0.40-0.99],0.043161910652283
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Menorrhagia,21069,311,0.85 [0.64-1.14],0.2848882946772115
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,45240,159,0.81 [0.53-1.24],0.3422333030180446
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,23257,2499,0.72 [0.65-0.80],5.35068646197241e-10
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,19353,111,1.07 [0.64-1.79],0.7851624456527436
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,20904,146,0.80 [0.52-1.22],0.295239820575491
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",51699,131,0.71 [0.44-1.13],0.1475120294241024
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",51707,132,0.78 [0.49-1.23],0.2812818278385729
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,49609,4528,0.90 [0.83-0.98],0.0103282950884636
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,46523,1442,0.86 [0.75-0.99],0.0402137738488265
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,27174,120,0.74 [0.46-1.20],0.2238883116476879
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,51586,969,0.86 [0.72-1.02],0.084739537664622
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,19552,310,1.38 [1.02-1.87],0.0377098763505406
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,19523,281,1.05 [0.75-1.45],0.7862695150216097
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,19473,231,1.00 [0.70-1.43],0.991938586540877
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,51645,143,0.92 [0.59-1.43],0.7086049752401489
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,48564,3483,0.91 [0.83-1.00],0.0411145607955599
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,27126,212,0.89 [0.63-1.27],0.5180482708185794
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,20911,153,0.70 [0.46-1.07],0.0976335147203125
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",21137,379,0.69 [0.53-0.90],0.0068307347337627
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,20874,116,0.63 [0.39-1.03],0.0657542808639932
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,20969,211,0.61 [0.43-0.87],0.0070280100840723
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,46530,684,0.91 [0.74-1.12],0.3521357588377047
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,50936,319,0.79 [0.59-1.07],0.1225843974706332
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,21073,315,0.74 [0.55-0.99],0.039756342657636
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,20866,108,0.59 [0.36-0.97],0.0381105907884264
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,21420,662,0.81 [0.66-0.99],0.0373861022793373
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,20922,164,0.56 [0.37-0.84],0.0054287532803216
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,21362,604,0.74 [0.60-0.92],0.0058391126032161
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,51222,98,0.98 [0.57-1.69],0.9561267045775598
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",19508,266,0.90 [0.64-1.26],0.5293471707570865
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,51219,5373,1.28 [1.19-1.38],6.732542402505481e-12
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",46085,239,0.81 [0.57-1.14],0.2173495468149316
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,46711,264,1.93 [1.45-2.57],7.626386696317721e-06
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,50537,111,1.05 [0.63-1.73],0.8587728770466231
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Urethral stricture,45523,442,0.87 [0.67-1.12],0.2775756786848039
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Urolithiasis,51231,805,0.69 [0.57-0.84],0.000138605586526
+MCAM,Cell surface glycoprotein MUC18,Chapter XIV Diseases of the genitourinary system,Uterine polyps,20904,146,0.98 [0.64-1.49],0.9166560956875636

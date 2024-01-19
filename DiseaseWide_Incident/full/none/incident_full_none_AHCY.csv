@@ -1,0 +1,661 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",49435,304,1.13 [0.97-1.30],0.1165937927916359
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",51225,400,1.08 [0.95-1.23],0.2559453453769529
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",50696,2769,1.09 [1.04-1.15],0.0003152006759415
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Candidiasis,51262,862,1.11 [1.02-1.21],0.0212224268115963
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,49714,7018,1.08 [1.05-1.11],7.20739329837099e-07
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),49900,6380,1.09 [1.05-1.12],6.495270243479114e-07
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,50761,2429,1.06 [1.01-1.12],0.0280356732782758
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,51079,174,1.05 [0.87-1.28],0.6064262707472816
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,47180,1948,1.10 [1.04-1.17],0.0015484529108512
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,45583,2210,1.12 [1.06-1.18],6.16693569961696e-05
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,45317,517,1.19 [1.06-1.33],0.0028805431076702
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,36008,3950,1.09 [1.04-1.13],8.638176968977215e-05
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,45012,786,1.19 [1.08-1.30],0.0002316604455896
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,51195,2863,1.06 [1.01-1.11],0.0144922729390611
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Mycoses,51418,1018,1.13 [1.04-1.22],0.0027295490844311
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,49789,1862,1.12 [1.06-1.19],0.0001715076897926
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,51285,2154,1.09 [1.03-1.16],0.0017826193144061
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,48734,402,1.07 [0.94-1.22],0.2727361694256722
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,51521,96,1.30 [1.01-1.68],0.044841084732703
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Other septicaemia,51010,1879,1.08 [1.02-1.14],0.0135618319074734
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,51060,155,1.22 [1.00-1.50],0.0547311751451222
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Other viral diseases,51358,319,1.17 [1.01-1.35],0.0319475214356476
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",51319,280,1.16 [0.99-1.35],0.060697166758151
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,48764,837,1.18 [1.08-1.29],0.0002935666760788
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,48484,557,1.01 [0.90-1.13],0.8762328041678749
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,48550,218,1.26 [1.06-1.49],0.0080634762681329
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,51478,107,1.03 [0.80-1.33],0.8042966137924545
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,51391,307,1.01 [0.87-1.17],0.9106207156890052
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Viral warts,51186,102,1.14 [0.89-1.47],0.3010438056714989
+AHCY,Adenosylhomocysteinase,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],51214,130,0.96 [0.76-1.21],0.732838689147824
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Benign lipomatous neoplasm,50929,586,0.94 [0.84-1.04],0.2294628800284069
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,51345,115,1.04 [0.82-1.32],0.7656813378050297
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,51306,125,1.06 [0.85-1.34],0.5992819698850167
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,23680,129,0.86 [0.68-1.09],0.2065036235965866
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",50860,2873,1.01 [0.96-1.06],0.8382051754802766
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Benign neoplasm of meninges,51495,114,1.23 [0.97-1.56],0.0878707315671989
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,51389,134,1.18 [0.95-1.47],0.1349191886427561
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,51471,215,1.01 [0.85-1.21],0.8865083251124874
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Benign neoplasm of ovary,27708,179,1.01 [0.83-1.22],0.9234421877970348
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Benign neoplasm: Ascending colon,51474,720,0.98 [0.89-1.08],0.6551214827501313
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Benign neoplasm: Caecum,51475,592,1.02 [0.92-1.14],0.6566259867290987
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",51304,146,0.97 [0.78-1.20],0.7569116197231818
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Benign neoplasm: Descending colon,51470,437,0.97 [0.86-1.10],0.6909059967248028
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Benign neoplasm: Rectum,51392,699,0.96 [0.87-1.06],0.36969736194667
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,51293,1233,0.99 [0.92-1.07],0.888120495814709
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Benign neoplasm: Transverse colon,51456,859,1.02 [0.94-1.12],0.6265628197123159
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Carcinoma in situ of breast,22518,139,0.82 [0.65-1.02],0.0736559276177083
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",22609,170,0.97 [0.79-1.18],0.7336409171974747
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",41020,104,1.14 [0.88-1.47],0.3149698954677176
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",41051,135,0.98 [0.78-1.23],0.8646395512449998
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",51420,239,0.91 [0.77-1.08],0.2964369559310963
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Haemangioma, any site",51421,234,0.90 [0.76-1.07],0.2363134883425008
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Leiomyoma of uterus,26791,593,0.93 [0.84-1.03],0.1775304196554363
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Lung cancer and mesothelioma,35708,657,1.09 [0.98-1.21],0.0967547798146221
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Lymphoid leukaemia,41018,102,1.12 [0.87-1.45],0.3888613265242576
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",41295,379,1.00 [0.87-1.14],0.9565870781860846
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",41323,407,0.99 [0.87-1.12],0.8292032986378519
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",22739,185,0.85 [0.70-1.03],0.0916092085557025
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",41078,162,1.06 [0.86-1.30],0.5873084984437592
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",41131,215,0.99 [0.82-1.18],0.8816486587061899
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",41114,198,0.92 [0.76-1.11],0.3658415328601887
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",22696,142,1.05 [0.85-1.31],0.6262581118249473
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",41105,189,1.03 [0.85-1.24],0.7607621925960583
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",19750,1388,0.97 [0.90-1.04],0.3707438829418544
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",41148,232,1.01 [0.85-1.20],0.8828372372187849
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",41065,149,1.20 [0.98-1.49],0.0810862388337038
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,41128,212,1.01 [0.85-1.21],0.8923617029651394
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Melanocytic naevi,51123,400,0.99 [0.87-1.13],0.8937256370756914
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Melanocytic naevi of trunk,51440,176,0.99 [0.81-1.20],0.8935780327748205
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Melanoma in situ,40984,163,1.06 [0.87-1.31],0.5457580990257176
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",41097,181,1.00 [0.82-1.21],0.9795601010675412
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",41239,323,1.05 [0.91-1.21],0.5124981499837731
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",41364,448,1.02 [0.90-1.15],0.7634916871693107
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",41115,199,1.12 [0.93-1.35],0.2198988868585087
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,Other benign neoplasms of skin,51160,310,0.99 [0.86-1.15],0.9117330566956092
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",43071,2155,0.98 [0.93-1.04],0.5616770915046891
+AHCY,Adenosylhomocysteinase,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",43187,2271,0.99 [0.94-1.05],0.7009592728499822
+AHCY,Adenosylhomocysteinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,50934,688,1.09 [0.98-1.20],0.1005755179966209
+AHCY,Adenosylhomocysteinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,47739,225,1.05 [0.88-1.25],0.5935083150392669
+AHCY,Adenosylhomocysteinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,50388,142,1.10 [0.88-1.36],0.407704241008304
+AHCY,Adenosylhomocysteinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,49935,5802,1.10 [1.07-1.14],7.649828529204631e-09
+AHCY,Adenosylhomocysteinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,48569,97,1.22 [0.94-1.58],0.1290562396190811
+AHCY,Adenosylhomocysteinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,50684,99,1.37 [1.06-1.76],0.0143574615321916
+AHCY,Adenosylhomocysteinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,50554,3040,1.11 [1.06-1.16],8.12391794362517e-06
+AHCY,Adenosylhomocysteinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,50552,3038,1.11 [1.06-1.16],9.456051579773112e-06
+AHCY,Adenosylhomocysteinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,47689,175,1.04 [0.85-1.26],0.7259451853103679
+AHCY,Adenosylhomocysteinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,50861,2389,1.17 [1.11-1.23],4.704453743949553e-09
+AHCY,Adenosylhomocysteinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,50812,227,1.05 [0.89-1.25],0.5711827881847088
+AHCY,Adenosylhomocysteinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,50377,131,1.25 [1.00-1.56],0.045509106766462
+AHCY,Adenosylhomocysteinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,50365,119,1.16 [0.92-1.46],0.2227588787037437
+AHCY,Adenosylhomocysteinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,51137,552,1.00 [0.90-1.12],0.9968917948118068
+AHCY,Adenosylhomocysteinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,51308,111,1.09 [0.86-1.40],0.4647084369024897
+AHCY,Adenosylhomocysteinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",51040,455,0.91 [0.80-1.03],0.1283375400794769
+AHCY,Adenosylhomocysteinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,48685,213,1.21 [1.02-1.44],0.0321573587200766
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,39834,642,1.12 [1.01-1.24],0.0310753897920848
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,48048,233,1.10 [0.93-1.30],0.2574513025955388
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,48069,254,1.38 [1.19-1.62],3.636290635234408e-05
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,39301,109,1.17 [0.92-1.49],0.209420073200606
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,47850,137,0.95 [0.76-1.19],0.6598617436522457
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,46709,471,0.97 [0.86-1.09],0.5839987318148443
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",50572,1128,1.00 [0.92-1.08],0.9231282734910504
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,49975,531,0.89 [0.79-1.00],0.0507472414259153
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,49699,255,1.10 [0.94-1.30],0.2315085438370797
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,50816,3103,1.10 [1.05-1.15],5.764174062740183e-05
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,44887,3007,1.11 [1.06-1.16],2.222380613946027e-05
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",39325,133,0.86 [0.68-1.08],0.1842565555982498
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",47486,157,1.04 [0.84-1.27],0.7429282828944836
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,39751,559,1.13 [1.02-1.26],0.0257588146653761
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,39315,123,1.26 [1.00-1.58],0.050074124884122
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,46256,7064,1.07 [1.03-1.10],6.549778842149058e-05
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,39581,389,1.11 [0.97-1.26],0.1330461027199034
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,40308,1116,1.11 [1.03-1.20],0.0064220325049108
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,51359,655,1.16 [1.05-1.28],0.0041092809015717
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,50983,279,1.11 [0.95-1.30],0.1723628665645525
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,39450,258,1.09 [0.92-1.28],0.3149890817898201
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",39313,121,1.24 [0.98-1.56],0.0720424354438937
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,50436,3107,1.05 [1.00-1.10],0.0422274468067455
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,39718,526,1.16 [1.04-1.30],0.0090735672907851
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,39794,602,1.01 [0.91-1.13],0.8251318441195994
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",40466,1274,1.05 [0.98-1.13],0.1873157802879018
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,39430,238,1.05 [0.89-1.25],0.5446902877333638
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,50966,262,1.11 [0.94-1.30],0.2095433705140242
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,40402,1210,1.11 [1.03-1.20],0.0043005713704162
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,40150,958,1.10 [1.01-1.19],0.0270389814641831
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,46375,137,1.12 [0.90-1.40],0.3052143082362027
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,49153,9961,1.07 [1.04-1.10],3.593815691194229e-07
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,47427,98,0.95 [0.73-1.24],0.7188265021736078
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,47438,109,0.93 [0.72-1.19],0.5669837198329807
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,51146,3891,0.98 [0.94-1.02],0.26325277368897
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",51148,3886,0.98 [0.94-1.02],0.2756630826877835
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,47433,104,1.30 [1.02-1.66],0.037590999191043
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,50830,2402,1.05 [1.00-1.11],0.0631613122981492
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",42370,3178,1.10 [1.05-1.16],2.603754308375276e-05
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,51495,459,1.08 [0.96-1.22],0.2035020656863019
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,49610,166,1.06 [0.87-1.30],0.5764709402777515
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,48636,208,0.92 [0.77-1.10],0.3544400108981026
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,48716,288,1.21 [1.04-1.40],0.0124244696633293
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",39524,332,1.19 [1.04-1.37],0.0144376332781625
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,46869,300,1.07 [0.92-1.24],0.3670436231315285
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,4233,173,0.99 [0.81-1.21],0.9565857577462727
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,4508,505,0.91 [0.81-1.02],0.1093138465713969
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,46694,125,1.14 [0.91-1.44],0.254671046974994
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,4170,113,0.92 [0.72-1.19],0.5268421173183871
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,50238,3669,1.09 [1.04-1.13],0.0001440272109128
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,50141,697,0.90 [0.81-0.99],0.0348428330649318
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,46967,729,1.06 [0.97-1.17],0.2133101952344528
+AHCY,Adenosylhomocysteinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,40741,1549,1.11 [1.04-1.19],0.0013547539779308
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",51296,489,1.05 [0.94-1.18],0.3980386488162288
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),49258,328,0.91 [0.79-1.05],0.2052683407311494
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Angina pectoris,47050,2394,1.02 [0.97-1.08],0.3921015224974636
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Aortic aneurysm,49411,481,0.93 [0.83-1.05],0.2587704642444538
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,49051,121,1.13 [0.90-1.43],0.2880011555787551
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",49329,399,1.07 [0.94-1.22],0.2731826167110437
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,31943,3819,1.05 [1.00-1.09],0.037822534928559
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,AV-block,43386,867,1.10 [1.01-1.20],0.0365397238650326
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",51403,842,0.91 [0.83-1.00],0.0474008818107995
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Cardiac arrest,28507,383,1.33 [1.17-1.51],1.869826192677816e-05
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Cardiomyopathy,42862,343,0.96 [0.83-1.11],0.5854132879169466
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",42714,195,1.01 [0.83-1.21],0.9469817795687197
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,51517,104,1.18 [0.92-1.52],0.1869417850465883
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Conduction disorders,44633,2114,1.06 [1.00-1.12],0.0575212540496148
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,48770,4149,1.04 [1.00-1.09],0.0446391122487417
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,44931,15088,1.05 [1.03-1.08],1.3482213229188371e-06
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,DVT of lower extremities,48758,528,1.06 [0.94-1.18],0.3437141978558875
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Endocarditis,42667,148,1.22 [0.99-1.50],0.0655602928503813
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,"Heart failure, strict",51109,2203,1.11 [1.05-1.17],0.0002552388541484
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Hypertension,46766,12956,1.06 [1.04-1.09],4.7039145380570906e-07
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,"Hypertension, essential",46802,12992,1.06 [1.04-1.08],6.832583949678011e-07
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,"Hypertension, portal",51179,159,1.14 [0.93-1.40],0.2145069705782152
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",34165,355,1.15 [1.00-1.32],0.0468487495109718
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,34087,277,1.18 [1.01-1.38],0.0393694943357183
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Hypotension,51228,2351,1.09 [1.03-1.14],0.0024297457216393
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,49677,213,0.97 [0.81-1.16],0.7384794014368925
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",49113,4457,1.04 [1.00-1.08],0.0558566282978454
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",50767,1118,1.12 [1.04-1.21],0.0029088321289129
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Left bundle-branch block,43249,730,1.03 [0.94-1.14],0.509192437982524
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,50558,1675,1.03 [0.97-1.10],0.2883995306012659
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",46069,1413,1.05 [0.98-1.12],0.177597932828787
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",51333,310,1.12 [0.97-1.29],0.1309208374820709
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",51460,617,1.00 [0.90-1.11],0.9695931285348744
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Oesophageal varices,48340,110,1.16 [0.91-1.49],0.2336770449199146
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Other aneurysm,49087,157,1.01 [0.82-1.24],0.9258436970319716
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Other arrhythmias,43364,845,1.12 [1.03-1.23],0.0109562175603525
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,49135,205,1.12 [0.94-1.34],0.2073719521687937
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,49412,482,1.01 [0.90-1.14],0.8613860797099397
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,42873,354,1.04 [0.90-1.19],0.6055256234756105
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Other disorders of veins,48423,193,1.11 [0.92-1.33],0.2752686143656346
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,48326,96,1.13 [0.87-1.47],0.3457729837021015
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,48659,130,1.11 [0.89-1.40],0.3597415899848327
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,48502,272,1.06 [0.91-1.24],0.4504844055077595
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,44587,2068,1.06 [1.00-1.12],0.0589658835664136
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,48989,112,1.21 [0.95-1.54],0.1165361378960892
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,50012,1082,1.07 [0.99-1.16],0.0952147159095597
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,50293,693,1.16 [1.06-1.28],0.0023596825612195
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",49749,1220,1.05 [0.97-1.13],0.2047607968405402
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,28801,677,1.09 [0.98-1.20],0.09685087664842
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Peripheral artery disease,49675,807,1.05 [0.96-1.15],0.297347675626477
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),48919,689,1.06 [0.96-1.17],0.2281163002585906
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Pulmonary embolism,50546,946,1.07 [0.98-1.16],0.1255398563891348
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,51379,1321,1.06 [0.98-1.13],0.1339857643798703
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Right bundle-branch block,43221,702,1.02 [0.93-1.13],0.6648175801331506
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Secondary right heart disease,50282,682,1.17 [1.06-1.29],0.0017085867541906
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,48913,384,1.08 [0.95-1.23],0.2607375094024911
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",50747,1283,1.10 [1.02-1.18],0.0106140202822557
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",50705,1359,1.10 [1.02-1.18],0.0091341030271745
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,49618,117,1.10 [0.87-1.39],0.4410034059766686
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,49090,161,0.84 [0.68-1.03],0.0907398829864273
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Transient ischemic attack,50121,472,1.07 [0.95-1.21],0.247047996466992
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,49403,520,1.11 [0.99-1.24],0.0729552223257331
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Varicose veins,49076,846,1.08 [0.99-1.18],0.0829661767358365
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,48960,173,1.02 [0.84-1.24],0.8484779874521309
+AHCY,Adenosylhomocysteinase,Chapter IX Diseases of the circulatory system,Venous thromboembolism,51068,1499,1.05 [0.99-1.13],0.1280969288225561
+AHCY,Adenosylhomocysteinase,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",51277,718,1.18 [1.07-1.29],0.0006402682749738
+AHCY,Adenosylhomocysteinase,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",45076,2841,1.06 [1.01-1.11],0.0137123200751099
+AHCY,Adenosylhomocysteinase,Chapter V Mental and behavioural disorders,Any mental disorder,50213,7978,1.06 [1.03-1.09],0.0002385832302338
+AHCY,Adenosylhomocysteinase,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",51187,850,1.13 [1.03-1.23],0.0076884974499593
+AHCY,Adenosylhomocysteinase,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",45393,3158,1.10 [1.05-1.15],3.170863275007139e-05
+AHCY,Adenosylhomocysteinase,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",42417,182,0.94 [0.78-1.15],0.5581913956390243
+AHCY,Adenosylhomocysteinase,Chapter V Mental and behavioural disorders,Smoking dependency,50454,2730,1.02 [0.97-1.07],0.4275758027737272
+AHCY,Adenosylhomocysteinase,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",45489,3254,1.05 [1.00-1.09],0.0486523403342911
+AHCY,Adenosylhomocysteinase,Chapter V Mental and behavioural disorders,Vascular dementia,50504,253,0.91 [0.77-1.08],0.2729696575190797
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Alzheimer disease,51520,659,0.97 [0.87-1.07],0.5058676191981522
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",34735,116,0.92 [0.72-1.18],0.5027920749669589
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Bell's palsy,47959,163,1.11 [0.91-1.35],0.3207977774432319
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,48774,978,1.05 [0.97-1.14],0.2074503907611034
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Cerebral cysts,50711,462,1.05 [0.93-1.18],0.44272049643592
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,51358,644,1.01 [0.91-1.12],0.8848264899096022
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,50517,99,0.91 [0.70-1.19],0.4853603243296293
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,51486,122,1.07 [0.85-1.35],0.5758425916169689
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",50397,148,1.09 [0.88-1.35],0.4148385202294511
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Epilepsy,48391,571,1.05 [0.94-1.17],0.413736135568536
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,50556,2736,1.04 [0.99-1.09],0.1046257367722926
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,51438,1203,1.01 [0.93-1.09],0.8660516247352185
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Falls/tendency to fall,50325,5139,1.00 [0.97-1.04],0.8454036679301471
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Generalized epilepsy,50757,108,1.17 [0.92-1.49],0.2112989364385435
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Hemiplegia,51217,503,1.06 [0.95-1.19],0.28628456071335
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Hydrocephalus,50368,119,1.19 [0.94-1.50],0.1425099530902816
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,51483,138,1.19 [0.96-1.48],0.1076010709691557
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,47942,146,1.02 [0.82-1.26],0.8764728857982425
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,47954,158,1.17 [0.95-1.43],0.1381754776437122
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Memory loss,50214,214,0.92 [0.77-1.11],0.3892045209080021
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Migraine,48536,716,1.07 [0.97-1.17],0.1917342789197483
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",51379,644,1.06 [0.96-1.17],0.2674218258840009
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Motor neuron disease,34927,269,1.02 [0.87-1.20],0.7705674733907848
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,51186,205,0.92 [0.77-1.10],0.3645571939378662
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",50185,2389,1.08 [1.03-1.14],0.0036377969409411
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Neurological diseases,48569,7519,1.04 [1.01-1.07],0.0150538812430904
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,50822,404,1.03 [0.91-1.18],0.6124342904371824
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",48623,827,1.13 [1.03-1.23],0.0077069394895306
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",51366,597,1.17 [1.05-1.30],0.0035246298569426
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,40984,1293,1.00 [0.93-1.08],0.8935032845525838
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,50394,145,1.04 [0.84-1.29],0.69440562152009
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Other disorders of nervous system,50527,278,0.91 [0.78-1.07],0.2500550502709898
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,50563,328,1.05 [0.91-1.21],0.5381591850200635
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Other facial nerve disorders,47988,192,1.13 [0.94-1.36],0.2055246541241187
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Other headache syndromes,47935,115,1.06 [0.83-1.34],0.6488175407679695
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Other neurological diseases,51281,1032,1.06 [0.98-1.15],0.1692064454110115
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Other sleep disorders,48935,1115,1.03 [0.95-1.11],0.5248176349579313
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Parkinson's disease,51476,849,0.99 [0.90-1.08],0.7600183812470814
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,50361,112,1.00 [0.79-1.28],0.9840544575335856
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Restless leg syndrome,51519,154,1.10 [0.89-1.35],0.3743212963911596
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Sleep apnoea,51032,958,1.05 [0.96-1.14],0.2813252242144587
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Small fibre neuropathy,50869,100,1.24 [0.96-1.60],0.0955275708950383
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,51493,323,1.00 [0.87-1.16],0.9936422333307549
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,47897,101,1.02 [0.79-1.32],0.8857115835249273
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,51520,666,0.95 [0.86-1.06],0.3550620742614876
+AHCY,Adenosylhomocysteinase,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),50429,246,0.92 [0.78-1.09],0.3274891011305433
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,50378,198,0.98 [0.82-1.18],0.8698432786355833
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,50699,783,0.98 [0.90-1.08],0.7431662768475428
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,51169,463,0.93 [0.82-1.05],0.2253276316637559
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,49520,105,1.07 [0.83-1.38],0.5820609574212767
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,49529,114,1.16 [0.92-1.48],0.2101540138092819
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",51306,103,1.22 [0.95-1.56],0.1226167248039284
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,50997,287,0.99 [0.85-1.15],0.9006789494588686
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",4181,121,0.94 [0.74-1.20],0.6346509329585791
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,5066,204,1.02 [0.85-1.23],0.8007675808350952
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,50363,183,1.03 [0.85-1.24],0.8000172415154196
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,51082,2062,1.04 [0.98-1.10],0.2106016821001265
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",50795,1380,1.01 [0.94-1.09],0.7183702802093959
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,49860,445,1.11 [0.98-1.25],0.0939119150630083
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",51349,1433,1.01 [0.94-1.08],0.8351325580375364
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,51501,136,1.03 [0.83-1.29],0.7777210568515462
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,51201,1285,1.01 [0.94-1.08],0.8378881393276114
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",51435,725,1.02 [0.93-1.12],0.6852517787804939
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,51334,360,0.99 [0.86-1.14],0.8994858166181741
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,49533,118,1.10 [0.86-1.40],0.4462900645092743
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,49551,136,0.98 [0.78-1.22],0.838119018589625
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,49524,109,0.96 [0.75-1.24],0.7561119241434711
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,51329,1401,1.04 [0.97-1.12],0.2327885878526108
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,50295,367,0.99 [0.86-1.13],0.846018880836843
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,50013,97,0.95 [0.73-1.24],0.6992135672493757
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,50909,199,1.00 [0.83-1.20],0.996909225180469
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,51250,540,1.00 [0.90-1.12],0.968085983862624
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,50301,385,1.06 [0.93-1.21],0.3632249063360085
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,51195,221,1.01 [0.85-1.20],0.9053166193822052
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,50861,933,1.09 [1.00-1.18],0.0521103947288966
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,50463,283,0.94 [0.81-1.10],0.470776318117898
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,48342,4337,1.05 [1.01-1.09],0.0240368356148553
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,51180,470,1.00 [0.89-1.13],0.9446292095263716
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,51479,307,1.06 [0.91-1.22],0.4755897581073021
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,50233,818,0.98 [0.90-1.08],0.729617867143373
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,50839,129,0.99 [0.79-1.25],0.9525853129731582
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,51475,110,1.03 [0.80-1.31],0.8395362673502385
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,49584,169,0.93 [0.76-1.14],0.5052193121738999
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,49711,296,0.92 [0.79-1.07],0.2998148324527995
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,49259,239,1.06 [0.90-1.25],0.4950855342615045
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,50040,124,0.93 [0.74-1.17],0.5415487020818581
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",49145,125,0.95 [0.75-1.21],0.6902996343589629
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,50100,172,0.91 [0.74-1.11],0.3393582446384822
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",50319,391,1.06 [0.93-1.21],0.4079906625371611
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,49669,254,1.07 [0.91-1.26],0.3988388641249143
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,49242,222,1.28 [1.08-1.51],0.004275542771731
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,49192,172,0.96 [0.79-1.18],0.7241919092480876
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,47604,3599,1.03 [0.98-1.07],0.2525840484587655
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,49556,141,0.99 [0.79-1.23],0.9150049725135052
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,51002,822,1.03 [0.94-1.13],0.5394769328108401
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,50298,118,1.05 [0.82-1.33],0.7168279974997416
+AHCY,Adenosylhomocysteinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),50522,342,1.06 [0.93-1.22],0.3819653340154494
+AHCY,Adenosylhomocysteinase,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,51109,174,0.91 [0.75-1.11],0.3686400655009409
+AHCY,Adenosylhomocysteinase,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,51431,237,1.07 [0.91-1.27],0.4055887345489899
+AHCY,Adenosylhomocysteinase,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,51256,255,1.12 [0.96-1.32],0.1483737850539344
+AHCY,Adenosylhomocysteinase,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,51055,120,1.15 [0.91-1.45],0.2533073015915741
+AHCY,Adenosylhomocysteinase,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,51057,122,0.93 [0.73-1.17],0.5207667265821672
+AHCY,Adenosylhomocysteinase,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,51322,1798,1.01 [0.95-1.07],0.7401562369171777
+AHCY,Adenosylhomocysteinase,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,50813,1289,1.05 [0.98-1.13],0.1751103002425222
+AHCY,Adenosylhomocysteinase,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,49775,251,0.84 [0.71-0.99],0.0376308721583797
+AHCY,Adenosylhomocysteinase,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,49694,170,1.07 [0.88-1.31],0.4842405279838273
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Acute pharyngitis,51031,148,0.92 [0.75-1.15],0.4702810133257885
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,51310,427,0.94 [0.83-1.06],0.3186744674356911
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,51012,129,0.78 [0.62-0.98],0.0346502414517112
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,All influenza,47492,239,1.04 [0.88-1.23],0.6516917262228429
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),47487,234,1.06 [0.90-1.25],0.4954231295687877
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Allergic asthma (mode),35281,230,1.15 [0.97-1.36],0.0973636030499148
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Allergic rhinitis,51257,559,1.10 [0.99-1.23],0.0739758754632636
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",38040,3524,1.08 [1.03-1.12],0.0008009266089194
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",38525,3474,1.08 [1.03-1.13],0.0007099875338643
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),50709,278,1.26 [1.09-1.47],0.0024012257250676
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",47416,163,1.33 [1.09-1.61],0.0045809404017502
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Bronchiectasis,44644,707,1.21 [1.10-1.33],8.502961807687668e-05
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",44055,118,1.22 [0.97-1.54],0.0895172638218449
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,49491,5554,1.08 [1.04-1.12],2.1529903798912863e-05
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",48787,142,0.99 [0.80-1.23],0.9331175217176344
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Chronic sinusitis,48952,307,1.16 [1.00-1.34],0.0426564424413486
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",51124,2369,1.11 [1.05-1.17],8.643584891392805e-05
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Deviated nasal septum,48853,208,1.02 [0.85-1.22],0.8361064528022638
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,47391,10489,1.08 [1.05-1.10],1.1661280818729569e-08
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",49368,723,1.06 [0.96-1.16],0.2498724093876361
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Early onset COPD,49377,622,1.06 [0.96-1.17],0.2551643923744449
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Emphysema,44569,632,1.21 [1.09-1.33],0.0002149517811657
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,48940,574,1.26 [1.14-1.40],1.448084239341392e-05
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Influenza and pneumonia,51080,3827,1.09 [1.04-1.13],0.0001164423941135
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Interstitial lung disease,49011,645,1.26 [1.14-1.40],3.846696282567723e-06
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Later onset COPD,49532,1747,1.14 [1.07-1.21],2.9459806292233223e-05
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,51496,658,1.15 [1.04-1.27],0.0062737917587491
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Nasal polyp,48855,210,1.07 [0.89-1.28],0.4677642825725114
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,51019,1937,1.13 [1.07-1.20],2.865562471162581e-05
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Other diseases of pleura,51046,3977,1.11 [1.07-1.16],4.217287252524698e-07
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,50307,1662,1.09 [1.02-1.16],0.0066790255632456
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Other pleural conditions,47172,103,1.06 [0.82-1.37],0.6352100807513803
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,51344,804,1.20 [1.10-1.31],7.016308053054779e-05
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,51309,2595,1.14 [1.09-1.20],1.6450173858280144e-07
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Pleural effusion,49053,1984,1.13 [1.06-1.19],5.249666518680248e-05
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Pleural plaque,47378,309,1.11 [0.95-1.28],0.1789950491635369
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",50577,3324,1.09 [1.04-1.14],0.0002912689816173
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,51366,528,1.14 [1.02-1.27],0.0258634293938574
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Pneumothorax,47304,235,1.02 [0.87-1.21],0.779295503330204
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Pollen allergy,51474,478,1.12 [0.99-1.26],0.0638975806195381
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Pulmonary oedema,50674,134,0.98 [0.79-1.23],0.8854983390188974
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Respiratory insufficiency,35159,108,1.30 [1.02-1.65],0.0348708031613982
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,50976,1894,1.13 [1.06-1.20],5.242232724923818e-05
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,49206,561,1.11 [1.00-1.24],0.0611019020722169
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Viral pneumonia,47753,500,1.04 [0.92-1.16],0.5484046661938944
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",50737,411,0.97 [0.85-1.10],0.6456947309220359
+AHCY,Adenosylhomocysteinase,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,23743,226,1.09 [0.92-1.30],0.3151260196085667
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,36381,128,1.04 [0.83-1.31],0.7246391081642283
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Acute appendicitis,51202,284,0.96 [0.82-1.12],0.5929549722095937
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Acute gastritis,38730,181,1.15 [0.95-1.39],0.1571507961096614
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Acute pancreatitis,47828,366,1.09 [0.95-1.25],0.2169921962365656
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Acute peritonitis,50581,187,1.21 [1.00-1.45],0.0486602727903034
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Alcoholic liver disease,49731,150,1.24 [1.01-1.51],0.0416513183474014
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Barrett oesophagus,39420,871,0.99 [0.91-1.09],0.8856389848350911
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",47667,205,1.19 [0.99-1.42],0.058813515103115
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",50679,205,1.18 [0.99-1.41],0.0666520814989722
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Cholecystitis,47871,409,0.98 [0.86-1.11],0.7523224662313746
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Cholelithiasis,49443,1981,1.06 [1.00-1.12],0.061158876906646
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Chronic gastritis,39166,617,1.09 [0.99-1.21],0.0915626564270973
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Chronic pancreatitis,47558,96,1.09 [0.84-1.42],0.5185079189698576
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",51232,212,1.24 [1.04-1.48],0.0145641141063357
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Coeliac disease,48314,248,1.09 [0.93-1.28],0.3019666921636769
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Collagenous colitis,48163,162,1.02 [0.84-1.25],0.829255230556615
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,51213,375,0.98 [0.86-1.12],0.8027297012419979
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Constipation,51001,3355,1.03 [0.98-1.07],0.2719260539015393
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Crohn disease,48185,184,1.09 [0.90-1.32],0.3586285895911023
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",50810,135,1.01 [0.80-1.26],0.960593289188644
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Crohn's disease NAS,48175,174,1.10 [0.91-1.34],0.3137327603929271
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Dental caries,50040,453,1.21 [1.07-1.36],0.0019627603019951
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,46226,4447,1.02 [0.98-1.06],0.3509941022647048
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Diseases of appendix,51275,357,0.98 [0.85-1.12],0.7220275652357665
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Diseases of liver,51279,1698,1.13 [1.06-1.20],0.0001567277163683
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",47177,8628,1.03 [1.00-1.06],0.0473949315337254
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",50691,1104,1.13 [1.05-1.22],0.0014084997634426
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Diseases of peritoneum,51352,958,1.09 [1.01-1.19],0.0375580881843668
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,49816,229,1.13 [0.95-1.33],0.1626387025955211
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Diseases of salivary glands,49520,133,1.12 [0.90-1.39],0.3265073608722346
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Diseases of the digestive system,50888,2822,1.05 [1.00-1.10],0.0648127276644789
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Diseases of tongue,49552,218,1.02 [0.86-1.22],0.7834563679626366
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",50268,2806,1.06 [1.01-1.12],0.0129530516495869
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,42548,6295,1.03 [1.00-1.07],0.0658476033452536
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Duodenal ulcer,38946,397,1.05 [0.92-1.20],0.4663205937355016
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",51354,321,1.03 [0.89-1.19],0.6790795450457969
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,51342,111,1.37 [1.08-1.73],0.0084329151339379
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,49838,257,1.24 [1.06-1.45],0.0080837573559997
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,36547,294,1.01 [0.87-1.18],0.8547989334613344
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Functional dyspepsia,39641,1092,1.03 [0.95-1.11],0.5267457503955983
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Gastric ulcer,39273,724,1.09 [0.99-1.20],0.0754773550092292
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,43551,5002,1.03 [0.99-1.07],0.1132717811867748
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,39627,1078,1.07 [0.99-1.16],0.0789516778758507
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,39867,16520,1.03 [1.01-1.05],0.002183815233081
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,GI-bleeding,50375,2309,1.03 [0.98-1.09],0.243781781314498
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,49693,106,1.17 [0.91-1.49],0.2239756968488696
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,38195,2504,1.04 [0.98-1.09],0.165669377011367
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",49706,125,1.23 [0.98-1.55],0.0688511643892312
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Hernia,48263,6484,1.02 [0.99-1.05],0.199311692985561
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Impacted teeth,51355,103,1.51 [1.19-1.92],0.0006521642140736
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Impaction of intestines,36366,113,1.06 [0.83-1.35],0.6574610136313661
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Inguinal hernia,43580,1801,1.03 [0.97-1.09],0.3855860059632338
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",41983,204,0.93 [0.77-1.12],0.4546263284828612
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,36445,192,1.02 [0.85-1.23],0.8062335168197257
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Intestinal malabsorption,48354,288,1.08 [0.93-1.25],0.3384944756951644
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,37353,1100,1.03 [0.95-1.11],0.526853758454582
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,51461,742,1.18 [1.08-1.30],0.0003927123111142
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,49510,1509,1.09 [1.02-1.17],0.0084900980443546
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,50004,2003,1.06 [1.01-1.13],0.0325859336689194
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Oesophageal obstruction,38922,373,1.06 [0.93-1.22],0.3618546923400803
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Oesophagitis,39754,1205,1.05 [0.97-1.13],0.2085277168144973
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,51419,270,1.01 [0.86-1.18],0.9076616806971132
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,41920,141,1.08 [0.87-1.34],0.5047742432811868
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,38959,2706,1.02 [0.97-1.07],0.5549140590744767
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,48031,569,1.08 [0.97-1.20],0.1733446646452975
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,47773,311,1.00 [0.86-1.16],0.9767741307727672
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Other diseases of intestine,39735,3482,0.99 [0.95-1.04],0.714591459057383
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Other diseases of intestines,47506,11253,1.02 [0.99-1.04],0.159844718882887
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,49504,412,1.03 [0.90-1.17],0.6758140806696981
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Other diseases of liver,50976,1395,1.09 [1.02-1.17],0.0125999807704315
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,39877,1328,1.03 [0.96-1.10],0.443737574990937
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Other diseases of pancreas,47765,303,1.07 [0.92-1.24],0.4010462715105624
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,51215,821,1.08 [0.99-1.19],0.0759246965597062
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,40462,1913,1.02 [0.97-1.09],0.427968106243925
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,50406,2340,1.03 [0.98-1.09],0.2078647521907301
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,49959,372,1.09 [0.95-1.24],0.2143555128347239
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,39703,3450,1.02 [0.98-1.07],0.2999704998406859
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),42560,4011,1.03 [0.98-1.07],0.2185948266219948
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,49781,200,1.18 [0.98-1.41],0.0781427702559091
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,49759,1758,1.07 [1.01-1.14],0.0274685738428119
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",36940,687,1.01 [0.92-1.12],0.8348348647809322
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,51322,130,1.38 [1.11-1.71],0.0035440702242988
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,37230,977,1.01 [0.93-1.09],0.8702579130987178
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",48363,297,1.10 [0.94-1.27],0.2261808827548213
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Recurring oral aphthae,51498,115,0.86 [0.67-1.09],0.2145701391674138
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,49598,238,1.00 [0.84-1.18],0.978151415909604
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Toxic colitis,48115,114,0.92 [0.72-1.17],0.4900934498938375
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,39085,536,1.09 [0.98-1.22],0.1182286547427271
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Ulcerative colitis,48325,324,1.14 [0.99-1.31],0.0673632213572673
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",48269,268,1.16 [0.99-1.35],0.067970481799562
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Umbilical hernia,42325,546,0.91 [0.81-1.02],0.1076676047547125
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,36606,353,1.03 [0.90-1.19],0.6316084593476108
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Ventral hernia,42305,526,1.07 [0.95-1.20],0.2498674121493424
+AHCY,Adenosylhomocysteinase,Chapter XI Diseases of the digestive system,Volvulus,36411,158,0.92 [0.75-1.14],0.458385950799738
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,51353,586,1.08 [0.97-1.20],0.178617447860124
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,50874,147,1.30 [1.06-1.60],0.01262150337736
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,47427,316,0.98 [0.85-1.14],0.8383380759123944
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,50241,1390,1.05 [0.98-1.13],0.141053700825094
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",49198,347,1.00 [0.87-1.15],0.9533437584396448
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,47925,814,1.06 [0.97-1.16],0.1829483944824944
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,50907,556,1.13 [1.01-1.26],0.028727595557038
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,51316,965,1.10 [1.01-1.19],0.0285541860688365
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,50447,96,1.22 [0.94-1.58],0.1295321637630159
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,48400,6388,1.04 [1.01-1.08],0.0110149580167998
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,50614,894,0.97 [0.89-1.06],0.4900403859732728
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,50348,628,1.00 [0.90-1.11],0.9699392896378064
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,50735,1884,1.04 [0.98-1.10],0.231399443986444
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",51486,111,1.17 [0.92-1.49],0.2078587778592366
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,47224,113,1.14 [0.89-1.44],0.2990845259087413
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,49825,105,1.00 [0.78-1.29],0.983323321047628
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,50887,536,1.11 [1.00-1.24],0.0547758596154387
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,48018,907,1.07 [0.99-1.17],0.1002057003786949
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,47239,128,1.00 [0.79-1.26],0.9889382359902252
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,51347,164,0.97 [0.79-1.18],0.7319972381932951
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,49234,383,1.21 [1.06-1.38],0.003681658769777
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,51112,385,1.02 [0.89-1.16],0.7645750713653829
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,50478,127,1.13 [0.90-1.42],0.2892760655367886
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,47244,133,0.99 [0.79-1.24],0.9447508509832004
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,50365,3254,1.04 [1.00-1.09],0.074732254427076
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",48093,982,1.08 [1.00-1.18],0.053151157099167
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,47247,136,1.00 [0.80-1.25],0.9993391847885192
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,51339,612,1.13 [1.01-1.25],0.0252009514017159
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,50490,139,1.00 [0.80-1.24],0.9696781213802022
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,51226,499,1.11 [0.99-1.25],0.0630047485358588
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,51409,642,1.06 [0.96-1.18],0.2516503045401305
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,47360,249,0.98 [0.83-1.15],0.7650196186473649
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,47648,537,0.88 [0.79-0.99],0.0342997023362957
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,51387,620,1.06 [0.95-1.17],0.2967105404374172
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",47581,470,1.15 [1.02-1.30],0.0193363648008727
+AHCY,Adenosylhomocysteinase,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,51459,276,0.97 [0.83-1.14],0.7349451111930105
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,44201,217,1.07 [0.90-1.27],0.4689603947217041
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,46891,11252,1.05 [1.03-1.08],2.404528702424141e-05
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,44062,8423,1.06 [1.03-1.09],0.0001842451360462
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,44133,149,0.82 [0.66-1.01],0.0660091294032784
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,44649,303,0.94 [0.81-1.09],0.4380734129093687
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,44706,360,1.12 [0.98-1.28],0.0962913409407652
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,51026,183,0.94 [0.77-1.14],0.5186174626541149
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",44545,199,1.01 [0.84-1.22],0.8778510048270727
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,37892,2253,1.07 [1.01-1.13],0.0164508779414868
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",51249,373,1.14 [1.00-1.30],0.0537034275128876
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,45233,887,1.04 [0.95-1.13],0.3738178657942977
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,43546,14484,1.05 [1.03-1.07],7.1955111365471245e-06
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,47583,234,1.02 [0.86-1.21],0.8019031211957337
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,44283,299,0.96 [0.83-1.12],0.6170147002945436
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,45120,1136,1.03 [0.95-1.11],0.5170760737361855
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,49668,5322,1.05 [1.01-1.09],0.0067020950951705
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,44528,544,0.99 [0.88-1.10],0.8272392930719513
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,44427,443,1.21 [1.07-1.36],0.0017442537551892
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,44257,273,1.12 [0.96-1.31],0.1349326056185622
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,50236,140,0.96 [0.77-1.19],0.7090940748637693
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,39021,3382,1.06 [1.02-1.11],0.0086884865904909
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,36847,1208,1.16 [1.07-1.25],0.000157501132727
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",51365,1191,1.15 [1.07-1.24],0.0002321267030602
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,35786,147,1.12 [0.91-1.39],0.2784964225622124
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),36297,658,1.01 [0.91-1.11],0.9195585682976066
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,44587,603,0.90 [0.81-1.01],0.0656873542146756
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,36918,1279,1.01 [0.94-1.08],0.8271573218230519
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,44457,111,1.30 [1.03-1.66],0.0294210648381067
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,45605,1259,1.07 [1.00-1.15],0.0550313165519661
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,44954,608,1.17 [1.05-1.29],0.003620170460285
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,36834,1195,1.00 [0.93-1.08],0.9808324886787538
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,44143,159,1.19 [0.97-1.45],0.09084771620023
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",44107,123,1.03 [0.82-1.30],0.800428995137008
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,47493,144,1.24 [1.00-1.53],0.0494270954941502
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,50746,3397,1.04 [1.00-1.09],0.0528565265293149
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,49569,2220,1.05 [1.00-1.11],0.0616164503860041
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",51240,896,1.17 [1.08-1.28],0.0002309997178585
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,40594,4955,1.06 [1.02-1.10],0.0030073080033944
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,35766,127,0.90 [0.71-1.13],0.3687713552328413
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,44173,189,1.26 [1.05-1.51],0.0139234379953839
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,35738,99,0.97 [0.75-1.27],0.8474626918603864
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),35892,253,1.10 [0.94-1.29],0.2455534266642497
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,47824,475,0.94 [0.84-1.06],0.3243418738747557
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,48110,761,1.10 [1.00-1.21],0.0474682333446306
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,51453,197,1.10 [0.92-1.32],0.3031312928741667
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",47961,3615,1.06 [1.02-1.11],0.0051390690427772
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,44184,200,1.04 [0.87-1.25],0.6452371732331592
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),35911,272,1.01 [0.86-1.18],0.917910720896118
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,45802,1456,1.08 [1.01-1.16],0.0200245912181236
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,39933,4294,1.04 [1.00-1.08],0.0363793867592812
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,50287,191,1.01 [0.84-1.21],0.9384996943913526
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,51482,140,1.35 [1.10-1.67],0.0048529914825367
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,44147,163,1.04 [0.85-1.27],0.6964095700551096
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",46476,2492,1.11 [1.06-1.17],5.359042910114297e-05
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,44160,176,0.94 [0.77-1.14],0.5141694562512231
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,38885,3246,1.07 [1.02-1.12],0.0025664065160516
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,47569,220,0.91 [0.76-1.08],0.2795382750413528
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,44092,108,1.06 [0.82-1.35],0.66472392076446
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,44659,313,0.92 [0.80-1.07],0.295098533500561
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,45089,1105,1.09 [1.01-1.18],0.0230389975051118
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,50806,710,1.20 [1.09-1.32],0.0001405681749266
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,45492,1146,1.08 [1.00-1.17],0.0389846761607775
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,51263,869,1.18 [1.08-1.29],0.0001466223809799
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,51476,108,1.45 [1.15-1.84],0.0019957542761886
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,44361,377,0.92 [0.80-1.05],0.222230406806095
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,40760,1505,1.06 [0.99-1.13],0.0795297141413365
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,45143,1159,1.12 [1.04-1.21],0.0031758999821115
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],44438,454,0.97 [0.86-1.10],0.6855352824128119
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",35746,107,0.95 [0.74-1.23],0.7163522832693558
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,40606,4967,1.10 [1.06-1.14],6.20255048620357e-07
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,36954,1315,1.04 [0.97-1.12],0.2592714763114169
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,50563,467,1.15 [1.02-1.29],0.0237307272375719
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",51387,131,1.01 [0.80-1.26],0.9416868447864472
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",47186,101,0.91 [0.70-1.18],0.4595716960396022
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,35782,143,1.36 [1.10-1.67],0.0039389120230094
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,44545,199,1.07 [0.89-1.29],0.4547091285396993
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,36547,908,1.18 [1.09-1.29],8.485037144601094e-05
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,44596,612,0.95 [0.86-1.06],0.3697558041198575
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,44852,506,1.13 [1.01-1.27],0.0361858791587962
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,44721,375,1.08 [0.95-1.24],0.2372110515547687
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,40266,116,1.36 [1.08-1.71],0.0094162934043543
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",51484,116,1.37 [1.08-1.72],0.0080442039208856
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,45154,1170,0.99 [0.91-1.06],0.7202256309478424
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],50279,183,1.30 [1.08-1.57],0.0047312591051449
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,49111,5127,1.05 [1.01-1.09],0.0063509477880063
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",44245,261,1.03 [0.88-1.21],0.7125552868271192
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,45440,1094,1.07 [0.99-1.16],0.0891702888963861
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,48715,464,0.93 [0.82-1.05],0.2188854749596212
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,44759,413,0.98 [0.86-1.11],0.7525298836371918
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,47457,3111,1.04 [0.99-1.09],0.1386554003699137
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,46389,2043,1.05 [0.99-1.11],0.1177418476621567
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],44095,111,1.19 [0.94-1.52],0.1517019871394146
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,50365,269,1.19 [1.02-1.39],0.0245278377705237
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,44306,322,1.05 [0.91-1.21],0.5393737972067569
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,44135,151,0.96 [0.77-1.18],0.6709126490767979
+AHCY,Adenosylhomocysteinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),35755,116,1.18 [0.93-1.50],0.1677397238370657
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Acute renal failure,49413,3141,1.11 [1.06-1.16],2.222816023047985e-05
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),20801,102,1.08 [0.84-1.39],0.5444689865242685
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,27078,109,0.85 [0.66-1.09],0.2034138894801655
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,50882,644,1.05 [0.95-1.17],0.3251796544342593
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,50403,165,0.90 [0.73-1.11],0.3270711819649438
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,49334,3062,1.05 [1.00-1.10],0.0354643174081765
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,51093,165,0.94 [0.77-1.16],0.5705889954101595
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,51020,600,1.02 [0.91-1.13],0.7798133178776935
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Cystitis,45382,468,1.13 [1.01-1.28],0.0381427644970838
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Dialysis,46434,162,1.14 [0.93-1.40],0.1961031889457378
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,22456,3298,1.04 [0.99-1.09],0.1226936374142497
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Disorders of breast,27310,341,0.95 [0.82-1.09],0.4417715993981952
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Endometriosis,20882,183,1.01 [0.84-1.23],0.8941468443719736
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",21097,398,0.92 [0.80-1.04],0.187310534733829
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,21708,1009,0.95 [0.88-1.03],0.2226529189580658
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,42983,10687,1.02 [1.00-1.05],0.0709533127821081
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,51095,167,1.08 [0.88-1.32],0.4532729590730794
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Hydrocele,19364,206,0.96 [0.80-1.16],0.6822301090919355
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,46253,584,1.01 [0.90-1.12],0.8833697745464291
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,21744,2586,1.04 [0.99-1.10],0.1150063572881361
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,27227,405,0.94 [0.83-1.07],0.3500179638310001
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),19393,235,0.87 [0.73-1.04],0.1196877557736626
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Irregular menses,27317,130,0.82 [0.65-1.03],0.0844494039916746
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Menorrhagia,21003,304,0.99 [0.85-1.15],0.8717823736337975
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,45074,160,1.06 [0.86-1.30],0.5728375583955593
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,23179,2480,0.98 [0.93-1.03],0.436057649833277
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,19266,108,0.84 [0.65-1.09],0.1954960406151355
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,20845,146,1.21 [0.98-1.49],0.0728051290464635
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",51494,129,1.25 [1.00-1.56],0.0537029439170814
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",51502,133,0.93 [0.74-1.17],0.5424748464264636
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,49425,4511,1.03 [0.99-1.07],0.1975619891633806
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,46345,1431,1.02 [0.95-1.09],0.646922573962899
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,27089,120,0.94 [0.75-1.19],0.6299857959332671
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,51377,957,1.03 [0.94-1.12],0.5360285650573322
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,19465,307,1.01 [0.87-1.18],0.8709978924640738
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,19443,285,1.08 [0.92-1.26],0.346252955346059
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,19390,232,0.97 [0.82-1.16],0.7712355898464551
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,51440,141,1.00 [0.80-1.24],0.981458161241954
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,48388,3474,1.03 [0.99-1.08],0.1630062099578925
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,27032,210,0.87 [0.73-1.04],0.1384969602633705
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,20854,155,1.30 [1.06-1.59],0.0101783076437865
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",21071,372,0.98 [0.86-1.12],0.7844192131994456
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,20814,115,1.06 [0.84-1.35],0.6289662543045618
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,20909,210,1.03 [0.86-1.23],0.7373802589196287
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,46346,677,1.01 [0.91-1.11],0.8858895356758492
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,50739,319,1.08 [0.93-1.25],0.30696593477437
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,21013,314,1.08 [0.93-1.25],0.2983722484266706
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,20807,108,0.83 [0.64-1.06],0.1355837297377091
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,21355,656,1.01 [0.92-1.12],0.7883342352073618
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,20863,164,1.17 [0.96-1.42],0.1254355997202139
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,21299,600,1.03 [0.92-1.14],0.6180410443352637
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,51024,96,1.08 [0.83-1.40],0.5792041650930052
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",19421,263,1.11 [0.94-1.30],0.2132329964670615
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,51012,5343,1.06 [1.02-1.10],0.0011749814812566
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",45906,237,1.06 [0.90-1.25],0.5018420342759236
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,46538,266,0.92 [0.78-1.08],0.3008076577363997
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,50346,108,1.09 [0.85-1.39],0.5171193153151517
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Urethral stricture,45358,444,1.04 [0.92-1.18],0.5009892769596609
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Urolithiasis,51029,791,1.04 [0.95-1.14],0.411869920418967
+AHCY,Adenosylhomocysteinase,Chapter XIV Diseases of the genitourinary system,Uterine polyps,20843,144,1.26 [1.02-1.55],0.0287422229556877

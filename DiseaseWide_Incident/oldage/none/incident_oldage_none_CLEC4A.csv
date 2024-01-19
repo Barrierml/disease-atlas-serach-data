@@ -1,0 +1,658 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",21756,196,0.85 [0.60-1.20],0.3579157434337449
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",22964,246,0.84 [0.62-1.15],0.2868627089966055
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",22695,1755,0.76 [0.68-0.85],3.2102509158747554e-06
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Candidiasis,22972,550,0.77 [0.62-0.94],0.0117514257138619
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,22218,4220,0.80 [0.74-0.86],7.729335478991768e-09
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),22166,4294,0.83 [0.77-0.90],1.2874111682339723e-06
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,22681,1430,0.82 [0.72-0.93],0.0021617679056517
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,22874,126,1.04 [0.66-1.63],0.8768078288291706
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,20164,1300,0.73 [0.64-0.84],5.173713544879921e-06
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,19459,1583,0.73 [0.65-0.82],3.47084475001872e-07
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,18956,345,0.80 [0.62-1.04],0.1016336031406012
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,14950,2741,0.84 [0.76-0.92],0.0002805207704513
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,18891,498,0.77 [0.62-0.95],0.0172785585965236
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,22946,1695,0.82 [0.73-0.92],0.0010361825884429
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Mycoses,23067,645,0.84 [0.69-1.02],0.0766359954709434
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,22189,1249,0.75 [0.65-0.86],4.241918912599095e-05
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,22996,1436,0.76 [0.67-0.87],3.957106347008781e-05
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,21497,246,0.84 [0.61-1.15],0.2754069006185556
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,23126,67,0.92 [0.50-1.70],0.7953847509208372
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Other septicaemia,22814,1254,0.74 [0.64-0.84],1.0842772387437287e-05
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,22827,79,0.71 [0.42-1.21],0.20552260824309
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Other viral diseases,23059,141,0.87 [0.58-1.32],0.5218796200603238
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",23035,117,1.05 [0.66-1.67],0.8437142248897928
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,21437,497,0.77 [0.62-0.96],0.0178825827957259
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,21248,308,0.63 [0.48-0.83],0.0007356728036298
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,21391,140,1.01 [0.66-1.55],0.9707813467729705
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,23111,52,1.30 [0.64-2.64],0.4646252716710535
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,23058,170,0.95 [0.65-1.40],0.8074497302182989
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Viral warts,22943,55,2.30 [1.13-4.71],0.0219483919003327
+CLEC4A,C-type lectin domain family 4 member A,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],22964,76,0.71 [0.41-1.24],0.2277308512011918
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Benign lipomatous neoplasm,22833,266,1.07 [0.79-1.46],0.6600377965534552
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,23042,40,1.03 [0.46-2.31],0.9466924331612082
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,23027,44,1.09 [0.51-2.31],0.8298365145546209
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,11015,86,1.18 [0.69-2.04],0.5424237132140719
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",22657,1660,1.02 [0.91-1.16],0.7006420291480528
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Benign neoplasm of meninges,23110,64,0.89 [0.47-1.66],0.702370390506041
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,23032,80,1.12 [0.63-1.98],0.7007875078962165
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,23100,120,1.12 [0.71-1.77],0.6350062145128663
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Benign neoplasm of ovary,12040,80,1.08 [0.60-1.93],0.8006953878213079
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Benign neoplasm: Ascending colon,23086,436,0.94 [0.74-1.19],0.5980218397543424
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Benign neoplasm: Caecum,23091,380,1.12 [0.86-1.46],0.3892311838539315
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",22977,88,1.01 [0.59-1.72],0.9743206960389382
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Benign neoplasm: Descending colon,23082,251,0.98 [0.71-1.34],0.8993484116170076
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Benign neoplasm: Rectum,23041,408,1.01 [0.79-1.30],0.933531604806228
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,22970,673,1.15 [0.94-1.40],0.1645503222653005
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Benign neoplasm: Transverse colon,23068,534,0.81 [0.66-1.00],0.0494199053265994
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Carcinoma in situ of breast,9043,49,1.96 [0.90-4.26],0.0884532042811554
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",9086,66,1.95 [1.00-3.81],0.0495729768649503
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",16497,71,1.21 [0.66-2.22],0.5401912059228691
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",16527,101,0.78 [0.48-1.29],0.3335141040930454
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",23069,127,1.07 [0.68-1.69],0.7614351329656553
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Haemangioma, any site",23070,124,1.05 [0.67-1.67],0.8201327473310212
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Leiomyoma of uterus,11777,170,0.79 [0.54-1.17],0.2365031387874482
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Lung cancer and mesothelioma,14632,478,0.85 [0.67-1.07],0.1568421046775759
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Lymphoid leukaemia,16498,72,0.71 [0.40-1.27],0.250800527569718
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",16653,227,1.44 [1.02-2.04],0.0373651871420266
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",16744,318,0.72 [0.55-0.95],0.0206291799595469
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",9168,106,0.59 [0.37-0.95],0.0312197608403186
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",16536,110,0.71 [0.45-1.14],0.1560804122366563
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",16573,147,1.01 [0.66-1.53],0.9727776336996952
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",16548,122,0.72 [0.47-1.12],0.1467184529814447
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",9151,89,0.64 [0.38-1.07],0.0896068469084665
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",16553,127,1.08 [0.68-1.70],0.7514065306499724
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",8335,971,1.15 [0.98-1.36],0.0819169943550531
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",16560,134,0.96 [0.62-1.49],0.8637360787832182
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",16518,92,0.57 [0.35-0.92],0.0226591508962306
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,16574,148,0.77 [0.51-1.17],0.2218735301461911
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Melanocytic naevi,22980,186,0.67 [0.47-0.95],0.0263740771551919
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Melanocytic naevi of trunk,23097,78,0.56 [0.33-0.93],0.0248100583901574
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Melanoma in situ,16479,111,1.11 [0.68-1.83],0.6666654030286573
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",16549,123,0.92 [0.58-1.45],0.7198937778570582
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",16627,201,1.03 [0.72-1.47],0.8846757266889506
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",16753,327,0.95 [0.72-1.26],0.7293438895634008
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",16554,128,1.19 [0.75-1.87],0.4596850982252697
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,Other benign neoplasms of skin,22952,166,1.01 [0.68-1.49],0.9643984968082652
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",17914,1488,1.10 [0.96-1.25],0.1735077369211332
+CLEC4A,C-type lectin domain family 4 member A,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",17999,1573,1.10 [0.97-1.25],0.1523229549812161
+CLEC4A,C-type lectin domain family 4 member A,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,22815,396,0.50 [0.40-0.62],7.219847048655904e-10
+CLEC4A,C-type lectin domain family 4 member A,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,20807,166,0.68 [0.47-0.98],0.0407826064444811
+CLEC4A,C-type lectin domain family 4 member A,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,22490,71,0.60 [0.35-1.04],0.0710945134046178
+CLEC4A,C-type lectin domain family 4 member A,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,22360,3502,0.80 [0.74-0.87],1.3757238901716908e-07
+CLEC4A,C-type lectin domain family 4 member A,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,21406,72,0.49 [0.29-0.83],0.0075593636399787
+CLEC4A,C-type lectin domain family 4 member A,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,22652,64,0.63 [0.35-1.13],0.1210224129832383
+CLEC4A,C-type lectin domain family 4 member A,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,22609,1968,0.86 [0.77-0.96],0.00732063523418
+CLEC4A,C-type lectin domain family 4 member A,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,22607,1966,0.86 [0.77-0.96],0.0084688807349929
+CLEC4A,C-type lectin domain family 4 member A,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,20757,116,0.31 [0.22-0.44],2.9178215998161966e-11
+CLEC4A,C-type lectin domain family 4 member A,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,22762,1428,0.84 [0.74-0.96],0.008129742862718
+CLEC4A,C-type lectin domain family 4 member A,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,22700,112,0.87 [0.55-1.39],0.5590191393763015
+CLEC4A,C-type lectin domain family 4 member A,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,22495,76,1.05 [0.59-1.87],0.8654224448282447
+CLEC4A,C-type lectin domain family 4 member A,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,22496,77,1.18 [0.66-2.10],0.5807291419220493
+CLEC4A,C-type lectin domain family 4 member A,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,22947,359,0.69 [0.53-0.88],0.0033832888986973
+CLEC4A,C-type lectin domain family 4 member A,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,22996,39,0.39 [0.21-0.74],0.0040888788000469
+CLEC4A,C-type lectin domain family 4 member A,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",22884,296,0.62 [0.47-0.81],0.0005683283261126
+CLEC4A,C-type lectin domain family 4 member A,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,21470,136,0.54 [0.37-0.80],0.002139565724938
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,15463,417,1.01 [0.79-1.29],0.9639363275207734
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,21618,105,0.84 [0.53-1.33],0.4605327883939268
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,21627,114,0.85 [0.55-1.33],0.4777984887972061
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,15118,72,1.00 [0.55-1.84],0.9875944484818608
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,21478,65,1.08 [0.57-2.03],0.8124627735009426
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,20691,315,0.64 [0.49-0.83],0.0009503673149676
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",22329,955,0.94 [0.80-1.11],0.4533897566640107
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,21856,482,1.33 [1.05-1.68],0.0201472876115644
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,21588,214,0.85 [0.61-1.19],0.3514913792091391
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,22841,1428,0.85 [0.75-0.97],0.0185930775693144
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,19456,1382,0.83 [0.72-0.95],0.0058587670593479
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",15138,92,0.71 [0.43-1.18],0.1855618169207145
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",20829,100,0.71 [0.43-1.16],0.1727027044194889
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,15411,365,0.85 [0.65-1.10],0.2084541736328679
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,15103,57,0.87 [0.45-1.69],0.6798901853516996
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,19638,4592,0.96 [0.89-1.04],0.3049415126206808
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,15312,266,0.53 [0.40-0.70],8.48099733388527e-06
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,15758,712,0.69 [0.57-0.83],5.3052279382504544e-05
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,23066,369,1.13 [0.87-1.47],0.3751483596712053
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,22856,159,1.37 [0.91-2.05],0.1287365754817668
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,15200,154,0.69 [0.47-1.01],0.0547439144974228
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",15127,81,0.53 [0.32-0.88],0.0141959975648062
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,22485,1756,0.84 [0.75-0.95],0.0048758233436615
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,15428,382,0.95 [0.74-1.23],0.7011930618715652
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,15477,431,0.82 [0.65-1.03],0.0883296800884121
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",15914,868,0.98 [0.82-1.16],0.7846915925105533
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,15223,177,1.10 [0.76-1.61],0.6076891823136211
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,22846,149,1.53 [1.00-2.33],0.0482575561959678
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,15941,895,0.77 [0.65-0.90],0.0016674297819571
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,15705,659,0.77 [0.63-0.94],0.0083037144309243
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,20456,80,1.10 [0.63-1.93],0.7341286967150089
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,21475,6429,0.93 [0.87-0.99],0.0148731395341915
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,20788,59,1.11 [0.57-2.17],0.7529372267903435
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,20777,48,0.94 [0.45-1.98],0.8688931165580724
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,22942,1909,0.90 [0.81-1.01],0.0690396681156594
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",22940,1907,0.90 [0.81-1.01],0.0681030213464801
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,20795,66,1.13 [0.60-2.13],0.71332597777482
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,22769,1131,0.85 [0.73-0.98],0.0305177178574763
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",17284,2238,0.83 [0.75-0.93],0.0006620350899712
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,23110,317,0.58 [0.45-0.75],2.332380237077037e-05
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,21505,131,0.87 [0.56-1.34],0.5258577801309149
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,21759,121,0.67 [0.43-1.04],0.0757823643245942
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,21803,165,0.85 [0.57-1.24],0.3937077754545403
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",15246,200,0.80 [0.56-1.14],0.2152803904949679
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,20326,184,0.60 [0.43-0.83],0.0023941764244621
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,2477,100,0.51 [0.32-0.79],0.0026224769078902
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,2646,311,0.76 [0.58-1.00],0.051651759015933
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,20224,82,0.32 [0.21-0.49],2.3811057405464945e-07
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,2450,76,0.86 [0.50-1.50],0.5999333709039194
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,22279,2137,0.66 [0.60-0.73],1.503229717660878e-15
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,22005,631,0.88 [0.72-1.08],0.2280629508971355
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,20827,451,0.69 [0.55-0.86],0.0008849723973491
+CLEC4A,C-type lectin domain family 4 member A,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,16169,1123,0.75 [0.65-0.87],0.0001034782194077
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",22989,302,0.90 [0.68-1.20],0.4789224381593524
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),21628,270,0.79 [0.59-1.07],0.1235147860273348
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Angina pectoris,19963,1569,0.82 [0.72-0.92],0.0011266853702857
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Aortic aneurysm,21734,376,0.87 [0.67-1.12],0.2857037432380545
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,21443,85,0.69 [0.41-1.16],0.1627611052235078
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",21649,291,0.61 [0.46-0.80],0.0003614982263511
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,11708,2841,1.03 [0.93-1.13],0.609289194508023
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,AV-block,17567,683,0.91 [0.76-1.11],0.355566180540858
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",23040,573,1.01 [0.82-1.24],0.943306361330347
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Cardiac arrest,9135,268,0.64 [0.48-0.87],0.0035853956543402
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Cardiomyopathy,17089,205,0.87 [0.62-1.24],0.4508716495039522
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",16996,112,0.78 [0.49-1.24],0.300225156975215
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,23120,81,0.91 [0.53-1.58],0.7463664465564845
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Conduction disorders,18436,1552,0.93 [0.82-1.05],0.2407813910645046
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,21132,2762,0.86 [0.78-0.94],0.001360252163213
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,18553,8894,1.06 [1.00-1.12],0.0482438104837965
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,DVT of lower extremities,21559,332,0.91 [0.69-1.21],0.5256611253684912
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Endocarditis,16987,103,0.58 [0.36-0.92],0.0217002068709329
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,"Heart failure, strict",22836,1665,0.95 [0.84-1.08],0.4407246906567362
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Hypertension,19795,7913,1.06 [1.00-1.12],0.0492628497004986
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,"Hypertension, essential",19814,7932,1.06 [1.00-1.12],0.0430781212657926
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,"Hypertension, portal",22950,96,0.56 [0.35-0.88],0.012962189964274
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",12141,259,0.89 [0.65-1.21],0.4650005328469698
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,12091,209,1.09 [0.77-1.54],0.6199998185961109
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Hypotension,22943,1647,0.84 [0.74-0.95],0.0042354469240952
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,21823,149,0.98 [0.64-1.48],0.908819364652598
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",21303,2909,0.88 [0.80-0.96],0.0047049585580557
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",22603,802,0.92 [0.77-1.10],0.3678489404921233
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Left bundle-branch block,17410,526,0.93 [0.75-1.15],0.5010934228747841
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,22435,1058,0.83 [0.72-0.97],0.016571212018603
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",19304,910,0.79 [0.68-0.93],0.0053054263678011
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",22994,188,0.80 [0.56-1.14],0.2159119460148881
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",23085,407,0.76 [0.60-0.96],0.0243119468813213
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Oesophageal varices,21293,66,0.81 [0.44-1.46],0.4809219254927522
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Other aneurysm,21463,105,0.63 [0.40-1.00],0.0479432993969401
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Other arrhythmias,17481,597,0.93 [0.76-1.15],0.5092272867703105
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,21489,131,0.61 [0.41-0.92],0.0181959302270219
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,21682,324,0.69 [0.53-0.90],0.0066579455238577
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,17110,226,1.10 [0.78-1.55],0.5783927248217922
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Other disorders of veins,21345,118,0.80 [0.51-1.25],0.3345493697553637
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,21275,48,0.76 [0.38-1.53],0.440231073595421
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,21062,91,0.91 [0.54-1.53],0.7215535350676028
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,21405,178,0.79 [0.55-1.13],0.1968115383633353
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,18348,1464,1.03 [0.90-1.17],0.7108769908661037
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,21356,60,0.51 [0.29-0.90],0.0206639495709074
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,22089,731,0.69 [0.58-0.83],5.334108476339655e-05
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,22346,529,0.85 [0.69-1.05],0.1295797604696766
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",21951,980,0.84 [0.72-0.99],0.0341252420729211
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,9281,414,0.70 [0.55-0.89],0.0031200793720214
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Peripheral artery disease,21916,593,0.60 [0.50-0.72],1.2393540428323282e-07
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),21646,419,0.86 [0.67-1.10],0.2195404063002022
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Pulmonary embolism,22421,604,1.07 [0.87-1.32],0.4927335090835618
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,23024,976,0.88 [0.75-1.03],0.1084786261192441
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Right bundle-branch block,17391,507,0.88 [0.70-1.09],0.2383049224455532
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Secondary right heart disease,22339,522,0.83 [0.67-1.03],0.0850961541788034
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,21240,269,0.69 [0.52-0.92],0.0123101863021392
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",22587,913,0.91 [0.77-1.07],0.2412724302568034
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",22572,952,0.91 [0.78-1.07],0.276402684906641
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,21789,58,0.92 [0.47-1.79],0.8035509310602303
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,21465,107,1.34 [0.81-2.22],0.2535458111076932
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Transient ischemic attack,22127,326,0.98 [0.74-1.29],0.8656898139313407
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,21707,330,0.81 [0.62-1.05],0.113678280710183
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Varicose veins,21743,516,0.70 [0.56-0.86],0.0007792159838943
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,21381,125,0.61 [0.40-0.94],0.0232891960116968
+CLEC4A,C-type lectin domain family 4 member A,Chapter IX Diseases of the circulatory system,Venous thromboembolism,22847,946,0.97 [0.83-1.14],0.73344721233967
+CLEC4A,C-type lectin domain family 4 member A,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",23041,333,0.92 [0.70-1.21],0.536857081539503
+CLEC4A,C-type lectin domain family 4 member A,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",19753,1380,0.84 [0.73-0.96],0.0116432748390826
+CLEC4A,C-type lectin domain family 4 member A,Chapter V Mental and behavioural disorders,Any mental disorder,22593,4220,0.90 [0.83-0.97],0.0051099597696695
+CLEC4A,C-type lectin domain family 4 member A,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",23013,393,0.93 [0.72-1.20],0.5859487090153475
+CLEC4A,C-type lectin domain family 4 member A,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",19827,1454,0.84 [0.74-0.96],0.0102327649091629
+CLEC4A,C-type lectin domain family 4 member A,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",18458,85,0.88 [0.51-1.51],0.6357142704785343
+CLEC4A,C-type lectin domain family 4 member A,Chapter V Mental and behavioural disorders,Smoking dependency,22615,1179,0.83 [0.72-0.96],0.0122664646416543
+CLEC4A,C-type lectin domain family 4 member A,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",19827,1454,0.85 [0.75-0.97],0.0164325144312081
+CLEC4A,C-type lectin domain family 4 member A,Chapter V Mental and behavioural disorders,Vascular dementia,22226,232,0.94 [0.67-1.30],0.7006973090104016
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Alzheimer disease,23122,589,1.20 [0.97-1.48],0.0956880115789325
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",14151,112,1.57 [0.95-2.60],0.0780745294593196
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Bell's palsy,21266,88,0.95 [0.56-1.60],0.8377129560479817
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,21674,496,1.09 [0.87-1.37],0.4559363258252238
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Cerebral cysts,22668,248,0.80 [0.59-1.10],0.1718965459983228
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,23048,414,0.83 [0.66-1.06],0.1414370341239379
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,22270,73,0.65 [0.37-1.13],0.1236509277016724
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,23105,68,0.72 [0.40-1.28],0.2639002614610812
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",22504,84,0.78 [0.46-1.33],0.3650262969257597
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Epilepsy,21605,304,0.75 [0.57-0.99],0.040826847904299
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,22660,1359,0.92 [0.80-1.05],0.2117902369509051
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,23068,924,0.75 [0.64-0.88],0.0003531558941569
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Falls/tendency to fall,22459,3462,0.86 [0.79-0.94],0.0004627700714504
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Generalized epilepsy,22743,53,1.61 [0.79-3.32],0.1924728984513641
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Hemiplegia,22974,340,0.78 [0.60-1.02],0.0663075141559216
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Hydrocephalus,22493,73,0.64 [0.37-1.12],0.1197871164694098
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,23109,72,1.53 [0.82-2.83],0.1791728978144015
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,21245,67,1.17 [0.62-2.20],0.6335804184440234
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,21252,74,0.97 [0.55-1.71],0.9048832275829992
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Memory loss,21973,142,1.08 [0.70-1.66],0.7331108751392386
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Migraine,21585,284,0.82 [0.61-1.10],0.1871589854562927
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",23076,260,0.77 [0.57-1.05],0.0991684312691507
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Motor neuron disease,14238,175,0.62 [0.44-0.89],0.0088877066454701
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,22989,60,0.83 [0.44-1.60],0.5831143651260586
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",22417,1239,1.02 [0.89-1.18],0.7561061061543916
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Neurological diseases,21634,4378,0.92 [0.85-0.99],0.0222927820637529
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,22520,323,0.77 [0.59-1.01],0.0620074189078835
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",21608,430,1.05 [0.82-1.34],0.6950988030956471
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",23045,356,0.73 [0.57-0.94],0.0160473134814996
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,17277,975,0.91 [0.78-1.07],0.2607788686709119
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,22506,86,1.04 [0.61-1.79],0.8786799038062344
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Other disorders of nervous system,22582,162,1.14 [0.77-1.69],0.517338566797656
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,22378,234,0.78 [0.57-1.08],0.1379072712411153
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Other facial nerve disorders,21277,99,1.01 [0.61-1.67],0.9748571507663012
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Other headache syndromes,21354,53,0.68 [0.36-1.30],0.2460936178765167
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Other neurological diseases,23005,585,0.87 [0.71-1.06],0.174787413981758
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Other sleep disorders,21819,518,0.96 [0.77-1.19],0.6904923320818034
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Parkinson's disease,23089,686,0.74 [0.61-0.89],0.0013889136631047
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,22465,45,0.62 [0.30-1.25],0.181919903093368
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Restless leg syndrome,23123,107,0.94 [0.57-1.54],0.8019629801436737
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Sleep apnoea,22892,440,0.94 [0.74-1.18],0.5718384666912943
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Small fibre neuropathy,22749,60,0.92 [0.48-1.76],0.7918710771783519
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,23111,204,0.64 [0.46-0.90],0.0098817490204902
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,21249,71,0.90 [0.50-1.63],0.7307428516938508
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,23122,595,1.22 [0.99-1.51],0.0682159614955269
+CLEC4A,C-type lectin domain family 4 member A,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),22165,226,0.92 [0.66-1.28],0.6050368875347163
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,22467,156,0.92 [0.61-1.38],0.6832150059042155
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,22662,564,0.95 [0.77-1.18],0.6654421977789594
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,22868,269,0.59 [0.45-0.78],0.0002149303311203
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,21893,68,0.75 [0.41-1.35],0.335526738284194
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,21864,39,0.92 [0.41-2.06],0.8353937490808193
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",23002,73,0.60 [0.35-1.04],0.0696340557038043
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,22801,223,1.25 [0.89-1.77],0.2025838167893541
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",2454,77,0.86 [0.50-1.49],0.5857771927874472
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,3027,114,0.60 [0.40-0.89],0.0117559164831053
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,22421,110,1.50 [0.91-2.46],0.1122448539864939
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,22823,1431,0.95 [0.83-1.09],0.473933646281604
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",22713,888,0.83 [0.70-0.98],0.0239448865648339
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,22131,306,0.71 [0.54-0.93],0.0144597133941086
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",23046,948,0.90 [0.76-1.06],0.1941986460922743
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,23116,81,0.79 [0.45-1.36],0.3887713506225846
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,22973,875,0.87 [0.74-1.04],0.119974342406825
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",23081,503,0.92 [0.74-1.15],0.4733986339127202
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,23003,225,1.22 [0.86-1.71],0.2625201212853706
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,21926,101,0.74 [0.46-1.19],0.206662225067283
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,21925,100,0.63 [0.39-1.00],0.0509463684663475
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,21902,77,0.87 [0.49-1.54],0.6416838383343086
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,22988,1016,1.10 [0.94-1.29],0.2490730362226687
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,22240,268,0.95 [0.70-1.29],0.7307594170843441
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,22169,71,0.73 [0.41-1.29],0.2776012274425495
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,22703,125,0.79 [0.51-1.23],0.3027865123128904
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,22969,391,0.99 [0.76-1.27],0.9162109652107586
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,22317,219,0.80 [0.57-1.13],0.2051740740104584
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,22921,143,0.96 [0.63-1.46],0.8408325511912252
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,22652,680,1.09 [0.90-1.33],0.3692762544995152
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,22474,163,0.97 [0.66-1.44],0.8901392423342397
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,20646,3254,0.96 [0.88-1.05],0.3691484640933241
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,22923,345,1.07 [0.81-1.40],0.642751018302056
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,23108,188,0.86 [0.60-1.23],0.4009191016840192
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,22365,540,0.90 [0.72-1.11],0.3233521274917853
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,22669,91,0.81 [0.49-1.35],0.4150385336783958
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,23107,72,0.85 [0.47-1.53],0.5878298657946661
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,21956,131,1.06 [0.68-1.65],0.7963032045907926
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,21999,174,0.92 [0.63-1.34],0.6583103069913383
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,21554,162,0.74 [0.50-1.09],0.1233100888433266
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,22161,63,0.96 [0.51-1.82],0.905348544422692
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",21466,74,1.44 [0.78-2.65],0.2396808422097993
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,22083,111,1.08 [0.66-1.76],0.7567747572931509
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",22266,294,1.34 [0.99-1.82],0.0547271943659866
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,21985,160,0.85 [0.57-1.25],0.4079929617187211
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,21488,96,0.96 [0.57-1.60],0.868160284627757
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,21520,128,1.10 [0.70-1.72],0.6871834866393807
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,20145,2753,0.90 [0.81-0.99],0.0235320945014585
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,21917,92,0.67 [0.41-1.10],0.1146639450139858
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,22825,514,1.02 [0.82-1.28],0.8362246474017005
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,22392,81,0.61 [0.37-1.03],0.0651493660889741
+CLEC4A,C-type lectin domain family 4 member A,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),22522,211,0.79 [0.57-1.11],0.1809009822620022
+CLEC4A,C-type lectin domain family 4 member A,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,22897,111,0.81 [0.51-1.30],0.3867789806313851
+CLEC4A,C-type lectin domain family 4 member A,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,23076,139,1.11 [0.72-1.71],0.6271638168294407
+CLEC4A,C-type lectin domain family 4 member A,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,22988,117,0.64 [0.41-0.99],0.0438672131753421
+CLEC4A,C-type lectin domain family 4 member A,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,22851,65,0.61 [0.34-1.10],0.0982709325254781
+CLEC4A,C-type lectin domain family 4 member A,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,22857,71,1.00 [0.55-1.82],0.9901090964160584
+CLEC4A,C-type lectin domain family 4 member A,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,23015,1251,0.90 [0.78-1.03],0.1329799566320306
+CLEC4A,C-type lectin domain family 4 member A,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,22710,946,0.86 [0.73-1.01],0.0666150905551302
+CLEC4A,C-type lectin domain family 4 member A,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,21920,156,0.94 [0.63-1.39],0.742582142968975
+CLEC4A,C-type lectin domain family 4 member A,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,21855,91,0.72 [0.43-1.18],0.1927125103772631
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Acute pharyngitis,22930,68,0.64 [0.36-1.12],0.1186724350314874
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,23050,188,0.89 [0.62-1.27],0.5091374977183061
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,22924,62,1.62 [0.84-3.15],0.1531449614169872
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,All influenza,20444,157,1.14 [0.75-1.71],0.5407395826239261
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),20441,154,1.17 [0.77-1.78],0.4490256000868108
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Allergic asthma (mode),14257,103,1.30 [0.77-2.18],0.3231757099633131
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Allergic rhinitis,23019,235,0.83 [0.60-1.15],0.2665174504561458
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",15483,1721,0.99 [0.87-1.12],0.851448464317323
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",15852,1698,0.99 [0.88-1.12],0.8931038658526622
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),22606,179,1.09 [0.74-1.59],0.6633281624446234
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",20392,105,0.91 [0.56-1.48],0.7080717697232887
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Bronchiectasis,19379,516,1.12 [0.89-1.40],0.325321872371961
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",18936,73,0.85 [0.47-1.52],0.5819750024821446
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,22000,3137,0.97 [0.89-1.06],0.4926203146664304
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",21901,72,1.26 [0.68-2.33],0.4580738348639352
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Chronic sinusitis,21965,136,1.05 [0.68-1.61],0.8372958557213057
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",22836,1638,0.95 [0.84-1.08],0.4247048410808449
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Deviated nasal septum,21910,81,1.96 [1.09-3.52],0.0240032608474393
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,20980,6112,0.89 [0.84-0.95],0.0006252569080295
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",22166,337,0.96 [0.73-1.26],0.7492208910412529
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Early onset COPD,21304,106,0.92 [0.57-1.47],0.7187173880421358
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Emphysema,19298,435,0.72 [0.57-0.91],0.0063001997332066
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,21820,453,0.70 [0.56-0.88],0.0022387174676155
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Influenza and pneumonia,22866,2579,0.88 [0.80-0.97],0.0124801926899006
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Interstitial lung disease,21863,496,0.69 [0.56-0.86],0.0008857803645972
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Later onset COPD,22610,1532,0.95 [0.84-1.08],0.464542658527452
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,23106,500,0.79 [0.64-0.99],0.0376116772038125
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Nasal polyp,21927,98,1.78 [1.05-3.01],0.0311078509967788
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,22840,1302,0.93 [0.81-1.07],0.2942265325672898
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Other diseases of pleura,22833,2681,0.81 [0.74-0.90],2.272085237103348e-05
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,22578,749,0.92 [0.76-1.10],0.3407786080044876
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Other pleural conditions,20219,67,0.84 [0.46-1.55],0.5835614358727861
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,23003,594,0.72 [0.59-0.88],0.0011111874865213
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,22995,1712,0.83 [0.74-0.94],0.0027177019351998
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Pleural effusion,21526,1374,0.86 [0.75-0.98],0.0258033588464322
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Pleural plaque,20400,248,0.76 [0.56-1.04],0.0852121914116982
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",22582,2295,0.87 [0.79-0.97],0.009255600692801
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,22997,391,0.82 [0.64-1.06],0.1243454742647494
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Pneumothorax,20321,169,0.77 [0.53-1.12],0.1757682227207676
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Pollen allergy,23111,200,0.79 [0.56-1.12],0.1836727344083104
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Pulmonary oedema,22502,93,1.02 [0.61-1.70],0.954283396441655
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Respiratory insufficiency,14225,71,0.95 [0.51-1.74],0.856534060967993
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,22816,1278,0.92 [0.80-1.06],0.2652167993506636
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,22066,237,0.82 [0.60-1.13],0.2333441939869835
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Viral pneumonia,20588,301,0.74 [0.56-0.98],0.035611165567731
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",22613,240,0.71 [0.52-0.96],0.0246390058191892
+CLEC4A,C-type lectin domain family 4 member A,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,7354,119,0.75 [0.48-1.17],0.2050990366042726
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,14623,61,0.53 [0.30-0.93],0.0263594337341305
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Acute appendicitis,23012,128,0.85 [0.55-1.31],0.4530700095227137
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Acute gastritis,16060,104,0.87 [0.53-1.40],0.5583155615301229
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Acute pancreatitis,21076,198,0.84 [0.59-1.19],0.3347811758873956
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Acute peritonitis,22633,113,0.73 [0.46-1.14],0.1672580698247752
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Alcoholic liver disease,22142,63,0.39 [0.24-0.65],0.0002553117802819
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Barrett oesophagus,16464,508,0.80 [0.64-0.99],0.0449387089553303
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",21023,145,0.81 [0.54-1.21],0.3062184891795753
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",22699,145,0.82 [0.55-1.23],0.3443419881588726
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Cholecystitis,21097,219,0.88 [0.63-1.22],0.4357761757847672
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Cholelithiasis,21924,1046,0.72 [0.62-0.84],2.364397513530792e-05
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Chronic gastritis,16302,346,0.82 [0.63-1.07],0.1465824687325225
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Chronic pancreatitis,20933,55,0.63 [0.34-1.18],0.1501923961097738
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",22980,126,0.56 [0.38-0.84],0.0054005724191133
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Coeliac disease,21377,124,0.38 [0.27-0.55],1.737737598261149e-07
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Collagenous colitis,21374,104,1.09 [0.66-1.81],0.7373870342442768
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,23007,160,0.69 [0.47-1.00],0.0508089677089639
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Constipation,22838,2130,0.85 [0.76-0.94],0.0023292027726073
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Crohn disease,21359,89,0.53 [0.33-0.85],0.0085719092103792
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",22769,68,0.46 [0.27-0.77],0.0033961907904197
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Crohn's disease NAS,21351,81,0.48 [0.30-0.79],0.0035982500400874
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Dental caries,22505,187,0.96 [0.67-1.38],0.8216610471941234
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,19972,2554,0.88 [0.79-0.97],0.0085615203031557
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Diseases of appendix,23040,156,0.83 [0.56-1.24],0.3715046051529819
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Diseases of liver,22999,920,0.71 [0.61-0.84],2.827808575599538e-05
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",20555,4599,0.90 [0.84-0.97],0.0051130928260168
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",22790,472,0.98 [0.78-1.24],0.882099428565358
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Diseases of peritoneum,23035,515,0.76 [0.61-0.94],0.0111920578679088
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,22410,92,0.73 [0.44-1.20],0.2138122222345834
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Diseases of salivary glands,22283,59,0.66 [0.36-1.23],0.1933988445591069
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Diseases of the digestive system,22789,1536,0.78 [0.69-0.88],8.111495112170243e-05
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Diseases of tongue,22301,96,0.70 [0.43-1.14],0.1468779257001153
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",22397,1519,0.79 [0.70-0.90],0.0003339222326789
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,18351,3789,0.91 [0.84-0.99],0.0213997666823183
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Duodenal ulcer,16206,250,0.66 [0.49-0.88],0.0055577360241489
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",23029,204,0.60 [0.43-0.83],0.001756586181403
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,23087,27,3.32 [1.21-9.08],0.0196279357081648
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,22226,147,0.64 [0.43-0.93],0.0202115733199745
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,14671,109,0.89 [0.55-1.41],0.6099846410130432
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Functional dyspepsia,16519,563,0.97 [0.78-1.19],0.7494899085313198
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Gastric ulcer,16382,426,1.02 [0.80-1.30],0.8806679310106222
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,18627,2671,0.89 [0.81-0.98],0.0155130953694714
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,16609,653,0.87 [0.72-1.05],0.1550831820753284
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,16677,8217,0.87 [0.82-0.92],4.224135198529063e-07
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,GI-bleeding,22531,1278,0.83 [0.73-0.96],0.0095734502123051
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,22364,46,0.88 [0.43-1.83],0.7414338811325609
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,15561,1191,0.90 [0.77-1.04],0.1398740243259797
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",22148,69,0.63 [0.36-1.10],0.1072164199045962
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Hernia,21066,3648,0.91 [0.83-0.98],0.018740671276307
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Impacted teeth,23090,25,2.94 [1.03-8.39],0.0442341595680947
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Impaction of intestines,14640,78,0.85 [0.48-1.51],0.5830481651470198
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Inguinal hernia,18518,1100,0.95 [0.82-1.10],0.487224404841154
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",17543,125,0.94 [0.60-1.45],0.7660452633710847
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,14680,118,0.69 [0.44-1.08],0.1061882934401978
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Intestinal malabsorption,21396,143,0.38 [0.27-0.54],2.0054594341999445e-08
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,15082,520,0.98 [0.79-1.23],0.8842754179066585
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,23091,339,0.60 [0.47-0.77],5.594034656960812e-05
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,22056,786,0.88 [0.74-1.05],0.1712141361871497
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,22365,1095,0.87 [0.74-1.01],0.0600099121039526
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Oesophageal obstruction,16176,220,0.85 [0.60-1.18],0.3275815779939762
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Oesophagitis,16652,696,0.79 [0.65-0.95],0.010877701130568
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,23071,135,0.77 [0.51-1.17],0.2216625821218328
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,17505,87,0.91 [0.53-1.53],0.7136647995773617
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,15939,1377,0.81 [0.71-0.93],0.0020962814989968
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,21239,361,0.69 [0.53-0.88],0.003465133527005
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,21025,147,0.92 [0.61-1.39],0.6876519349749584
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Other diseases of intestine,16493,1931,0.91 [0.81-1.02],0.0963108088234191
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Other diseases of intestines,20791,6229,0.89 [0.84-0.95],0.0004172918677515
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,22265,209,0.60 [0.43-0.82],0.0015330977770153
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Other diseases of liver,22841,762,0.69 [0.58-0.82],1.899954041818196e-05
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,16724,768,0.80 [0.67-0.95],0.0118416210394401
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Other diseases of pancreas,21093,215,1.07 [0.76-1.52],0.6943891290940265
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,22956,436,0.77 [0.61-0.98],0.0311751510491014
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,17045,1089,0.78 [0.68-0.91],0.0013434897627443
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,22548,1295,0.84 [0.73-0.97],0.0137408145621822
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,22496,178,0.99 [0.68-1.45],0.9775613928935764
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,16736,2174,0.83 [0.75-0.93],0.0008273426018131
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),18126,2170,0.81 [0.73-0.90],9.50841167206929e-05
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,22193,114,0.59 [0.39-0.90],0.0150360881170719
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,22236,966,0.90 [0.76-1.05],0.1800814855022887
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",15010,448,0.68 [0.54-0.85],0.0007919873861992
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,23083,31,3.01 [1.17-7.76],0.022276457632006
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,15182,620,0.67 [0.55-0.82],5.940996584966661e-05
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",21412,159,0.68 [0.46-0.99],0.0422393880249883
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Recurring oral aphthae,23111,53,0.60 [0.32-1.14],0.119168198712075
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,22312,103,0.64 [0.40-1.01],0.0568007624671543
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Toxic colitis,21352,82,0.82 [0.48-1.43],0.4921715197247271
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,16302,346,0.83 [0.64-1.09],0.1772636766853286
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Ulcerative colitis,21439,169,0.76 [0.52-1.11],0.1578209000130934
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",21404,134,0.77 [0.50-1.17],0.2172750113843466
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Umbilical hernia,17677,259,1.12 [0.82-1.52],0.4796371073238851
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,14812,250,0.70 [0.52-0.96],0.0269962057726497
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Ventral hernia,17710,292,0.81 [0.61-1.08],0.1446572358167282
+CLEC4A,C-type lectin domain family 4 member A,Chapter XI Diseases of the digestive system,Volvulus,14655,93,0.48 [0.30-0.75],0.0015324945391323
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,23015,429,1.08 [0.84-1.38],0.5627357846527634
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,22758,66,0.52 [0.30-0.88],0.0154729153184042
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,20556,169,1.03 [0.69-1.52],0.901267897869892
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,22494,830,0.92 [0.78-1.09],0.3457364477850885
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",21808,144,0.80 [0.54-1.20],0.2829359369384279
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,21020,633,0.69 [0.57-0.83],0.0001218942267825
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,22777,311,0.93 [0.70-1.24],0.627676603401522
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,23022,556,0.91 [0.74-1.13],0.3911675786454454
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,22515,49,1.07 [0.52-2.20],0.8521538077481337
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,21526,3733,0.94 [0.87-1.02],0.1354806439400615
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,22691,441,0.84 [0.67-1.07],0.152161650233509
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,22558,308,1.00 [0.75-1.33],0.9811215801295
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,22741,1077,0.92 [0.79-1.07],0.2976969919691604
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",23102,60,1.13 [0.58-2.18],0.7249445611104421
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,20445,58,0.52 [0.28-0.95],0.0344429459706829
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,22313,63,0.63 [0.35-1.14],0.1277044899436498
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,22763,297,0.99 [0.74-1.32],0.9286944247362664
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,20996,609,1.00 [0.81-1.22],0.968084169480546
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,20477,90,1.74 [1.00-3.04],0.0507600270967711
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,23036,99,0.79 [0.48-1.29],0.3447197611004331
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,21898,234,0.90 [0.65-1.24],0.5138881706015895
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,22918,226,0.99 [0.71-1.38],0.9545313364611092
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,22564,98,0.94 [0.57-1.55],0.8136942939189099
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,20466,79,1.48 [0.82-2.66],0.1902067890205604
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,22507,2120,0.90 [0.81-1.01],0.0684644134153089
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",21040,653,0.98 [0.80-1.19],0.8089895784320744
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,20481,94,1.66 [0.96-2.86],0.0672407778924444
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,23030,338,0.96 [0.73-1.27],0.7920184638519576
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,22538,72,0.74 [0.42-1.31],0.2980578950250677
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,22969,277,0.92 [0.68-1.24],0.5765730662242472
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,23048,462,1.04 [0.82-1.33],0.7212272672897273
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,20514,127,1.03 [0.66-1.63],0.885538889861657
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,20725,338,1.17 [0.88-1.55],0.2812512367843381
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,23036,450,1.08 [0.85-1.37],0.5449941743434805
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",20724,337,0.60 [0.47-0.78],8.428818525299966e-05
+CLEC4A,C-type lectin domain family 4 member A,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,23096,159,0.83 [0.56-1.23],0.3581783456971793
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,19271,81,0.79 [0.47-1.34],0.3831373712182619
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,20372,6445,0.99 [0.93-1.06],0.8512321371716406
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,18960,5033,1.00 [0.93-1.07],0.9450172129806786
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,19243,53,1.36 [0.67-2.74],0.390194222594988
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,19172,148,1.24 [0.81-1.90],0.3128256617953266
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,19219,195,1.05 [0.73-1.51],0.7916882822006879
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,22861,65,0.68 [0.38-1.22],0.1979813443271453
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",19177,153,0.90 [0.60-1.36],0.6166591683549542
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,15406,1479,1.02 [0.89-1.17],0.7405144894665626
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",22912,244,1.14 [0.82-1.58],0.4505136841723177
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,19609,585,0.91 [0.74-1.12],0.3866181163600176
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,18700,8033,0.93 [0.88-0.99],0.0151512195495031
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,20578,123,0.82 [0.52-1.28],0.385540536865349
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,19371,181,1.00 [0.69-1.46],0.9853066707576376
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,19693,503,0.91 [0.73-1.14],0.4342304347548991
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,22185,3161,0.96 [0.87-1.05],0.3278120497808464
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,19501,311,0.84 [0.63-1.11],0.2210124764842807
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,19338,148,0.83 [0.55-1.25],0.3703811642744541
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,19303,113,0.95 [0.59-1.52],0.8262013836204343
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,22367,100,1.57 [0.92-2.67],0.098477567907242
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,15940,2013,1.07 [0.96-1.20],0.2179189748946882
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,14716,789,0.85 [0.72-1.01],0.0658470947840328
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",23026,782,0.85 [0.72-1.01],0.0727699455251694
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,14005,78,0.97 [0.55-1.73],0.9213706866705912
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),14229,302,1.27 [0.93-1.72],0.1268059980293376
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,19458,268,0.96 [0.71-1.30],0.7809744511230119
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,14415,488,1.27 [1.01-1.61],0.0420528297205051
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,19104,80,1.41 [0.78-2.55],0.2494890372473501
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,19711,687,0.91 [0.75-1.10],0.3387618050544632
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,19342,318,0.92 [0.70-1.22],0.5757071896656886
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,14383,456,1.18 [0.93-1.50],0.1820084890677329
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,19259,69,0.77 [0.43-1.38],0.3731883465809849
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",19250,60,0.75 [0.40-1.39],0.3582668459118776
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,20540,85,0.49 [0.31-0.79],0.0031825748193069
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,22687,2232,0.92 [0.82-1.02],0.1082675789622112
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,22023,1568,0.95 [0.84-1.09],0.4872347003664363
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",22952,544,0.85 [0.69-1.05],0.1276616641401748
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,17063,3136,0.95 [0.87-1.03],0.2198669575675936
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,13970,43,1.14 [0.52-2.50],0.73967748085356
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,19295,105,1.07 [0.65-1.75],0.7990844315257171
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,13994,67,1.34 [0.72-2.50],0.35107462842434
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),14063,136,1.35 [0.85-2.12],0.2002963094522507
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,20697,242,0.91 [0.66-1.25],0.5413650589476695
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,20966,511,0.93 [0.74-1.16],0.5085671732179255
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,23099,115,1.17 [0.72-1.89],0.5290871535133004
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",21018,1994,0.93 [0.83-1.04],0.1798285689156606
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,19265,75,1.24 [0.69-2.26],0.4735613005169915
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),14081,154,1.14 [0.74-1.74],0.551497094096512
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,19819,795,0.91 [0.76-1.09],0.3043953487906651
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,16129,2202,1.04 [0.93-1.15],0.5297823764087561
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,22393,126,1.56 [0.97-2.51],0.064817037165803
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,23111,63,0.52 [0.30-0.91],0.0214370248545688
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,19269,79,1.02 [0.58-1.79],0.943469501918316
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",20538,1348,0.85 [0.74-0.97],0.014279404316272
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,19298,108,0.95 [0.59-1.55],0.8487835436104878
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,15994,2067,0.92 [0.83-1.03],0.1648295628372596
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,20570,115,0.83 [0.52-1.31],0.4230520957357732
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,19228,38,1.18 [0.51-2.77],0.6959954888836176
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,19223,199,1.27 [0.88-1.83],0.1992917688099043
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,19877,687,0.88 [0.73-1.07],0.1915392978897733
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,22759,492,0.92 [0.73-1.16],0.4884939429999454
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,19684,660,0.95 [0.78-1.16],0.6139348909663149
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,22967,538,0.82 [0.66-1.01],0.0598684778253921
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,23098,69,0.76 [0.42-1.36],0.3571333788107376
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,19354,164,0.81 [0.55-1.19],0.2890670760015252
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,17992,894,0.84 [0.72-0.99],0.0407113548926336
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,19828,638,0.81 [0.66-0.98],0.0288731100208881
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],19470,280,0.80 [0.60-1.08],0.1415921703659123
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",13997,70,0.61 [0.35-1.08],0.0913761892072595
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,17043,3116,0.89 [0.81-0.97],0.0102042365651142
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,14768,841,0.90 [0.76-1.07],0.2325638522646837
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,22643,376,1.09 [0.84-1.43],0.5182742697906355
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",23066,82,1.21 [0.68-2.15],0.5151445029335502
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",20458,72,1.33 [0.74-2.39],0.3479940374517916
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,13991,64,0.52 [0.30-0.90],0.0199283030819057
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,19132,108,0.95 [0.59-1.55],0.8452443733249845
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,14478,551,0.87 [0.70-1.07],0.1822896643122522
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,19526,336,0.98 [0.74-1.29],0.8799685799215458
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,19313,289,1.14 [0.85-1.54],0.3812671276734084
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,19288,264,0.86 [0.63-1.17],0.3259499879741363
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,16240,68,0.78 [0.43-1.40],0.4030335447134486
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",23102,73,0.80 [0.45-1.41],0.4375717473226472
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,19746,556,0.88 [0.72-1.09],0.2494673861802336
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],22359,92,0.38 [0.25-0.58],8.58988886714795e-06
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,21829,2639,0.89 [0.81-0.98],0.0148739588997224
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",19341,151,0.79 [0.53-1.18],0.2501190520463276
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,19743,719,1.01 [0.84-1.22],0.9119133708468457
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,21748,276,1.18 [0.86-1.60],0.3012309523147956
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,19283,259,0.98 [0.72-1.34],0.9029576400246354
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,21041,2017,0.98 [0.87-1.09],0.6583447670296558
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,20337,1313,1.01 [0.88-1.16],0.8664076300084431
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],19252,62,1.33 [0.70-2.56],0.3852493655731577
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,22384,117,0.42 [0.28-0.62],1.096077843603133e-05
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,19351,161,0.93 [0.62-1.38],0.70211402771246
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,19282,92,0.76 [0.45-1.26],0.2864105604423853
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),14003,76,1.46 [0.81-2.65],0.2106092690476607
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Acute renal failure,21607,2255,0.83 [0.75-0.92],0.0005546667151191
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),9259,26,1.45 [0.50-4.19],0.4954260072197448
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,11746,33,1.78 [0.69-4.57],0.2310882779697459
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,22791,312,1.10 [0.83-1.47],0.4955817877590158
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,22585,106,0.93 [0.57-1.50],0.7632673156116044
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,21689,2337,1.00 [0.90-1.11],0.961288463001847
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,22889,131,1.81 [1.16-2.82],0.0093308738871131
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,22810,410,1.04 [0.81-1.34],0.7287992754000197
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Cystitis,19252,299,0.74 [0.56-0.98],0.035714852087112
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Dialysis,19451,99,2.37 [1.41-3.96],0.0010425027320044
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,10193,2150,0.96 [0.87-1.07],0.5010627390135755
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Disorders of breast,11847,134,1.05 [0.67-1.64],0.8279087490488203
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Endometriosis,9272,39,2.21 [0.92-5.30],0.0772332167044543
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,9814,581,0.76 [0.62-0.94],0.0112478358212709
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,19045,6302,0.88 [0.83-0.94],8.103718453072482e-05
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,22856,98,0.75 [0.46-1.20],0.2284876247726659
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Hydrocele,8162,119,1.30 [0.82-2.06],0.2607251232244459
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,19424,353,0.97 [0.74-1.27],0.8230877431213857
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,9873,1830,0.95 [0.84-1.06],0.3483054406090321
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,11917,161,0.80 [0.54-1.18],0.258661549104806
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),8170,127,0.94 [0.61-1.45],0.7796198501486171
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,19040,87,0.78 [0.46-1.31],0.3460736979396054
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,10265,1032,0.80 [0.68-0.93],0.0046855814663777
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,8106,63,0.42 [0.24-0.72],0.0017461321288203
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,9273,40,0.60 [0.29-1.23],0.1642147437690974
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",23108,88,0.97 [0.56-1.66],0.9039066969969508
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",23109,84,0.75 [0.44-1.27],0.2831850902220196
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,21921,2968,0.87 [0.79-0.95],0.0026249355239958
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,19895,942,0.89 [0.76-1.05],0.1692789077747594
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,11764,51,1.12 [0.55-2.30],0.7557514713465369
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,23034,634,1.01 [0.82-1.23],0.9474235437051416
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,8197,154,0.83 [0.57-1.23],0.3580644928681954
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,8205,162,1.06 [0.72-1.56],0.7843871104258563
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,8196,153,1.44 [0.96-2.15],0.0791516241476431
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,23081,86,1.14 [0.66-1.99],0.6365772201328816
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,21320,2367,0.86 [0.78-0.95],0.0038275195688525
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,11839,83,1.06 [0.60-1.87],0.8354167753235182
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,9302,69,0.80 [0.44-1.47],0.473565330992258
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",9373,140,0.85 [0.56-1.30],0.455045849527807
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,9287,54,0.48 [0.26-0.89],0.0197325596904833
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,9334,101,0.55 [0.34-0.88],0.0128558950880188
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,19487,416,0.99 [0.77-1.27],0.9343627428451086
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,22603,203,0.97 [0.68-1.38],0.8783739423948251
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,9359,126,0.87 [0.55-1.37],0.5413415919234673
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,9258,25,0.80 [0.29-2.24],0.6739242476159525
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,9443,210,0.77 [0.55-1.08],0.1340392300599675
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,9327,94,0.89 [0.52-1.52],0.668372138248571
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,9437,204,0.60 [0.43-0.84],0.0031151875221435
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,22806,48,1.64 [0.78-3.46],0.1948075167469885
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",8199,156,0.74 [0.51-1.09],0.1249468481540834
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,22831,3760,0.93 [0.86-1.01],0.0809057957084547
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",19165,94,0.96 [0.57-1.61],0.8650591132576154
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,19533,181,0.79 [0.55-1.13],0.1935577183564244
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,22518,39,0.75 [0.35-1.59],0.4487275502170339
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Urethral stricture,19224,271,0.78 [0.58-1.05],0.1066708080072524
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Urolithiasis,22878,399,1.04 [0.81-1.34],0.7665219632442646
+CLEC4A,C-type lectin domain family 4 member A,Chapter XIV Diseases of the genitourinary system,Uterine polyps,9270,37,0.84 [0.38-1.86],0.6674213051131215

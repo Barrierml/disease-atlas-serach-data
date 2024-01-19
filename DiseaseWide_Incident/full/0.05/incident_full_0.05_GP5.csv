@@ -1,0 +1,77 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+GP5,Platelet glycoprotein V,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,40178,1581,0.87 [0.76-0.99],0.0403274979318126
+GP5,Platelet glycoprotein V,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,38771,1762,0.86 [0.76-0.97],0.0136538206531741
+GP5,Platelet glycoprotein V,Chapter I Certain infectious and parasitic diseases,Other septicaemia,43392,1526,0.87 [0.76-0.99],0.0343486767561532
+GP5,Platelet glycoprotein V,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",34914,93,0.44 [0.27-0.73],0.0013327488958853
+GP5,Platelet glycoprotein V,Chapter II Neoplasms,Lymphoid leukaemia,34911,90,0.36 [0.22-0.60],6.172104681373171e-05
+GP5,Platelet glycoprotein V,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",36628,1807,0.88 [0.78-1.00],0.0474824449559175
+GP5,Platelet glycoprotein V,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,43312,575,0.62 [0.50-0.76],4.33479812026863e-06
+GP5,Platelet glycoprotein V,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,40670,142,0.44 [0.30-0.65],4.30475898345911e-05
+GP5,Platelet glycoprotein V,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,43265,1963,1.25 [1.11-1.41],0.0003541225425211
+GP5,Platelet glycoprotein V,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,43492,467,0.42 [0.34-0.52],3.6383348819946324e-15
+GP5,Platelet glycoprotein V,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",43412,387,0.33 [0.26-0.42],4.622432121318393e-21
+GP5,Platelet glycoprotein V,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,42605,454,0.77 [0.60-0.98],0.0308251706538688
+GP5,Platelet glycoprotein V,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,39452,5902,1.16 [1.08-1.24],5.460755118300279e-05
+GP5,Platelet glycoprotein V,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,34005,455,0.76 [0.60-0.96],0.0230521640179348
+GP5,Platelet glycoprotein V,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",34601,1051,1.21 [1.02-1.43],0.0270743864713927
+GP5,Platelet glycoprotein V,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,41892,8342,1.09 [1.03-1.16],0.0031382083777174
+GP5,Platelet glycoprotein V,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,42761,3137,1.13 [1.03-1.25],0.0097292260119317
+GP5,Platelet glycoprotein V,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,40002,610,0.81 [0.66-1.00],0.047897682192078
+GP5,Platelet glycoprotein V,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",43616,413,0.74 [0.58-0.95],0.0180753349634779
+GP5,Platelet glycoprotein V,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),41917,276,0.73 [0.54-0.99],0.0416205750601318
+GP5,Platelet glycoprotein V,Chapter IX Diseases of the circulatory system,Cardiomyopathy,36575,287,0.71 [0.53-0.95],0.0223023217737587
+GP5,Platelet glycoprotein V,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,38364,12888,1.06 [1.01-1.11],0.0123167622603537
+GP5,Platelet glycoprotein V,Chapter IX Diseases of the circulatory system,DVT of lower extremities,41484,447,0.75 [0.59-0.95],0.0177548693013462
+GP5,Platelet glycoprotein V,Chapter IX Diseases of the circulatory system,Hypertension,39897,11010,1.08 [1.03-1.14],0.0026794518716245
+GP5,Platelet glycoprotein V,Chapter IX Diseases of the circulatory system,"Hypertension, essential",39910,11023,1.08 [1.03-1.14],0.0031945950506657
+GP5,Platelet glycoprotein V,Chapter IX Diseases of the circulatory system,"Hypertension, portal",43514,136,0.49 [0.33-0.75],0.0008198585960332
+GP5,Platelet glycoprotein V,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",29207,320,0.75 [0.56-0.98],0.0380389921269757
+GP5,Platelet glycoprotein V,Chapter IX Diseases of the circulatory system,Hypotension,43573,1914,0.83 [0.74-0.93],0.0018090437537641
+GP5,Platelet glycoprotein V,Chapter IX Diseases of the circulatory system,Oesophageal varices,41126,89,0.55 [0.33-0.93],0.0268521528197722
+GP5,Platelet glycoprotein V,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,24577,559,0.74 [0.60-0.91],0.004822041574282
+GP5,Platelet glycoprotein V,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),41613,576,0.80 [0.65-1.00],0.0467517118788754
+GP5,Platelet glycoprotein V,Chapter IX Diseases of the circulatory system,Secondary right heart disease,42764,592,0.80 [0.65-0.99],0.0408623189793312
+GP5,Platelet glycoprotein V,Chapter VI Diseases of the nervous system,Falls/tendency to fall,42820,4266,0.87 [0.80-0.94],0.000491698891271
+GP5,Platelet glycoprotein V,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,40794,129,0.59 [0.38-0.90],0.0158486417064468
+GP5,Platelet glycoprotein V,Chapter VI Diseases of the nervous system,Parkinson's disease,43766,407,0.75 [0.58-0.97],0.0253904140080705
+GP5,Platelet glycoprotein V,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,43798,117,1.71 [1.02-2.89],0.0431916116108189
+GP5,Platelet glycoprotein V,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,42774,314,0.72 [0.54-0.96],0.0250851265451709
+GP5,Platelet glycoprotein V,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",41836,112,0.51 [0.32-0.80],0.0036884452833593
+GP5,Platelet glycoprotein V,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,41913,189,1.55 [1.03-2.33],0.0335220852783453
+GP5,Platelet glycoprotein V,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,43433,152,0.63 [0.42-0.94],0.0236841187085737
+GP5,Platelet glycoprotein V,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,42357,210,0.63 [0.45-0.88],0.0068727204783959
+GP5,Platelet glycoprotein V,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",32413,3033,1.13 [1.03-1.25],0.0127762510618005
+GP5,Platelet glycoprotein V,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",32814,2985,1.14 [1.03-1.25],0.0110176801476833
+GP5,Platelet glycoprotein V,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",37427,97,1.88 [1.05-3.36],0.0329215747427628
+GP5,Platelet glycoprotein V,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,42082,4752,1.09 [1.01-1.18],0.0319003957816633
+GP5,Platelet glycoprotein V,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,43638,694,0.81 [0.66-0.98],0.0319197300837726
+GP5,Platelet glycoprotein V,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,43631,2200,1.15 [1.03-1.29],0.0143505705043659
+GP5,Platelet glycoprotein V,Chapter X Diseases of the respiratory system,Pulmonary oedema,43053,109,0.58 [0.36-0.92],0.0202357409124692
+GP5,Platelet glycoprotein V,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",43564,186,0.51 [0.36-0.73],0.0002042388767069
+GP5,Platelet glycoprotein V,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,42402,222,0.63 [0.45-0.88],0.0065059766499957
+GP5,Platelet glycoprotein V,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",42284,104,0.61 [0.38-1.00],0.048043348957456
+GP5,Platelet glycoprotein V,Chapter XI Diseases of the digestive system,Impacted teeth,43681,84,2.05 [1.10-3.82],0.0232203520574835
+GP5,Platelet glycoprotein V,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,31082,159,0.64 [0.43-0.95],0.0278159703487799
+GP5,Platelet glycoprotein V,Chapter XI Diseases of the digestive system,Recurring oral aphthae,43788,96,0.60 [0.37-1.00],0.0478278397252824
+GP5,Platelet glycoprotein V,Chapter XI Diseases of the digestive system,Ventral hernia,36019,435,1.30 [1.00-1.69],0.0499126608979757
+GP5,Platelet glycoprotein V,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,43270,133,0.64 [0.42-0.99],0.0472470371664707
+GP5,Platelet glycoprotein V,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,40761,641,0.79 [0.65-0.97],0.0259218422185559
+GP5,Platelet glycoprotein V,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,41163,5368,0.90 [0.84-0.96],0.0030368539000798
+GP5,Platelet glycoprotein V,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,42836,2716,0.89 [0.80-0.98],0.0218639903675533
+GP5,Platelet glycoprotein V,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",40506,386,0.74 [0.57-0.96],0.022348860163799
+GP5,Platelet glycoprotein V,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,37769,382,1.46 [1.10-1.94],0.0090321316636383
+GP5,Platelet glycoprotein V,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,43157,2901,0.89 [0.80-0.98],0.0141542757482806
+GP5,Platelet glycoprotein V,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,40889,633,0.79 [0.64-0.97],0.0237674534514176
+GP5,Platelet glycoprotein V,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,43166,605,1.28 [1.02-1.60],0.0319750101933386
+GP5,Platelet glycoprotein V,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,42945,384,1.44 [1.08-1.91],0.0126968897955525
+GP5,Platelet glycoprotein V,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,38189,424,1.32 [1.01-1.73],0.0405639428920269
+GP5,Platelet glycoprotein V,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,34267,103,1.76 [1.01-3.07],0.0477245869726858
+GP5,Platelet glycoprotein V,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,41974,2282,0.85 [0.76-0.95],0.0030092027602594
+GP5,Platelet glycoprotein V,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,43472,104,0.53 [0.33-0.85],0.008146030339962
+GP5,Platelet glycoprotein V,Chapter XIV Diseases of the genitourinary system,Irregular menses,23311,107,0.59 [0.37-0.95],0.0294972851839431
+GP5,Platelet glycoprotein V,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,16371,100,0.52 [0.32-0.84],0.0072927077206622
+GP5,Platelet glycoprotein V,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",43794,109,1.87 [1.08-3.24],0.0245379273621282
+GP5,Platelet glycoprotein V,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,42027,3719,0.88 [0.81-0.96],0.0036559018142695
+GP5,Platelet glycoprotein V,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,39516,1208,0.80 [0.69-0.93],0.0029851499022291
+GP5,Platelet glycoprotein V,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,41152,2844,0.88 [0.80-0.97],0.0101214564678476
+GP5,Platelet glycoprotein V,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,39892,200,0.70 [0.49-1.00],0.0484881518206711

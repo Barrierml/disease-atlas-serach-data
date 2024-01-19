@@ -1,0 +1,661 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",42946,237,1.20 [0.96-1.50],0.1018985743441594
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",44422,335,1.12 [0.93-1.35],0.2188789042117941
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",43977,2327,1.03 [0.97-1.11],0.3384908774835096
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Candidiasis,44463,716,1.18 [1.04-1.34],0.0100061693804164
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,43108,5936,1.08 [1.03-1.13],0.0004611762301099
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),43307,5402,1.03 [0.99-1.08],0.1778771040653418
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,44029,2047,1.11 [1.03-1.20],0.0052551808510522
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,44304,148,1.16 [0.88-1.53],0.2920368824262412
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,40981,1606,1.13 [1.04-1.23],0.0054349422501355
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,39552,1793,1.12 [1.03-1.21],0.0067809759969266
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,39429,422,1.19 [1.01-1.40],0.0413783338689345
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,31238,3334,1.10 [1.04-1.17],0.0016026399222226
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,39174,654,1.12 [0.98-1.27],0.1035145620163667
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,44391,2409,1.12 [1.04-1.20],0.0013669992236878
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Mycoses,44593,846,1.18 [1.05-1.33],0.0044603858379137
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,43204,1554,1.06 [0.97-1.15],0.188358237781588
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,44478,1769,1.13 [1.04-1.22],0.0034691953709407
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,42319,337,1.12 [0.93-1.34],0.226515574228736
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,44683,81,1.09 [0.75-1.58],0.659898111177905
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Other septicaemia,44260,1551,1.13 [1.03-1.23],0.0064648812689195
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,44286,130,1.13 [0.84-1.51],0.4253880001573722
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Other viral diseases,44537,269,1.25 [1.02-1.53],0.0282449291115471
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",44507,239,1.17 [0.94-1.44],0.1593016984525398
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,42347,697,1.11 [0.97-1.26],0.1184984078378586
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,42114,464,0.98 [0.84-1.14],0.7533219238219242
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,42151,169,1.20 [0.93-1.55],0.1677805257210476
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,44641,94,1.23 [0.87-1.74],0.2374057955512336
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,44565,268,1.17 [0.96-1.44],0.1281252563161763
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Viral warts,44385,88,1.05 [0.74-1.51],0.7819673473385972
+DNPEP,Aspartyl aminopeptidase,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],44413,116,1.18 [0.86-1.61],0.3049854611131537
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Benign lipomatous neoplasm,44173,510,1.12 [0.97-1.30],0.1189661245720338
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,44531,104,1.03 [0.74-1.42],0.8654224863210754
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,44488,109,1.35 [0.99-1.85],0.0610927700021244
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,20474,108,0.88 [0.63-1.21],0.4293797073162666
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",44105,2465,1.06 [0.99-1.13],0.0896978252878222
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Benign neoplasm of meninges,44657,102,1.48 [1.07-2.04],0.0186641882250839
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,44571,121,1.30 [0.96-1.76],0.0885435331117473
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,44638,182,0.83 [0.66-1.05],0.1200371751250071
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Benign neoplasm of ovary,24100,150,1.04 [0.80-1.35],0.7841157406022988
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Benign neoplasm: Ascending colon,44640,627,1.11 [0.97-1.27],0.1316835559020421
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Benign neoplasm: Caecum,44649,508,1.04 [0.90-1.21],0.5786567536561693
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",44490,124,1.12 [0.83-1.51],0.4744610532576914
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Benign neoplasm: Descending colon,44640,378,0.95 [0.80-1.12],0.5414079285034146
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Benign neoplasm: Rectum,44565,604,1.06 [0.93-1.22],0.3674918989368751
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,44478,1072,1.02 [0.92-1.13],0.698689239043517
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Benign neoplasm: Transverse colon,44631,725,1.03 [0.91-1.17],0.6308148923009009
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Carcinoma in situ of breast,19562,122,0.84 [0.63-1.11],0.2142557798245885
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",19633,140,0.93 [0.71-1.23],0.626121287842412
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",35608,95,1.37 [0.97-1.94],0.0745751641123682
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",35632,119,0.90 [0.67-1.22],0.510036315181389
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",44592,206,0.97 [0.77-1.22],0.7781770484422953
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Haemangioma, any site",44593,201,0.97 [0.77-1.23],0.8061255143763122
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Leiomyoma of uterus,23285,505,0.92 [0.80-1.05],0.2138258454782765
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Lung cancer and mesothelioma,31034,589,0.90 [0.78-1.04],0.1674515445465925
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Lymphoid leukaemia,35606,93,1.37 [0.97-1.94],0.0782408061619195
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",35837,324,0.83 [0.70-0.99],0.04235390793839
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",35854,341,1.06 [0.88-1.28],0.5299211300844141
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",19765,168,0.93 [0.73-1.20],0.5860447916958555
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",35655,142,1.44 [1.08-1.90],0.0115590099920246
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",35687,174,1.14 [0.88-1.48],0.3063353621816761
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",35688,175,0.96 [0.75-1.24],0.7702963550887983
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",19727,130,1.22 [0.91-1.63],0.189498684239646
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",35672,159,0.92 [0.71-1.20],0.5422962282142951
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",17098,1182,1.04 [0.94-1.14],0.4973808562459612
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",35717,204,1.09 [0.86-1.38],0.4584610090681903
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",35643,130,1.05 [0.78-1.41],0.7467174522945945
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,35691,178,1.17 [0.91-1.51],0.2203311540250971
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Melanocytic naevi,44346,358,1.03 [0.86-1.23],0.7464988780080408
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Melanocytic naevi of trunk,44615,156,1.07 [0.82-1.40],0.6194678248351516
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Melanoma in situ,35570,140,1.09 [0.82-1.45],0.5568821000945037
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",35674,161,0.87 [0.67-1.13],0.2963547825950501
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",35790,277,0.94 [0.77-1.15],0.5466507693644392
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",35916,403,0.97 [0.82-1.14],0.7106210940820719
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",35685,172,1.03 [0.80-1.33],0.825455792886007
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,Other benign neoplasms of skin,44371,280,1.00 [0.82-1.21],0.9741417807543544
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",37351,1838,1.05 [0.97-1.14],0.186580219077552
+DNPEP,Aspartyl aminopeptidase,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",37449,1936,1.05 [0.97-1.14],0.1917517062832197
+DNPEP,Aspartyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,44168,598,1.00 [0.87-1.14],0.9782321282081344
+DNPEP,Aspartyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,41488,152,1.04 [0.79-1.36],0.8030454828870018
+DNPEP,Aspartyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,43697,127,0.92 [0.69-1.23],0.588397529101735
+DNPEP,Aspartyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,43343,4903,1.05 [1.01-1.11],0.0301920932147003
+DNPEP,Aspartyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,42223,80,1.67 [1.15-2.42],0.0073145353003148
+DNPEP,Aspartyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,43972,85,1.47 [1.03-2.11],0.0360901184108784
+DNPEP,Aspartyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,43872,2536,1.08 [1.01-1.15],0.0244577402896338
+DNPEP,Aspartyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,43870,2534,1.08 [1.01-1.15],0.0244922925506319
+DNPEP,Aspartyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,41484,148,1.28 [0.97-1.69],0.0834980663971897
+DNPEP,Aspartyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,44130,1987,1.05 [0.97-1.13],0.2031296157942224
+DNPEP,Aspartyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,44086,199,1.13 [0.89-1.43],0.3106954728790485
+DNPEP,Aspartyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,43678,108,1.97 [1.45-2.68],1.4188351244396031e-05
+DNPEP,Aspartyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,43680,110,0.78 [0.58-1.05],0.1025082888773321
+DNPEP,Aspartyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,44350,463,1.22 [1.04-1.42],0.0139427169666441
+DNPEP,Aspartyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,44506,94,1.20 [0.86-1.69],0.2868850114986151
+DNPEP,Aspartyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",44271,384,1.14 [0.96-1.35],0.1408559763035112
+DNPEP,Aspartyl aminopeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,42319,176,1.06 [0.82-1.36],0.6508598890321757
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,34684,519,1.19 [1.02-1.38],0.0237408278283774
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,41662,195,1.39 [1.10-1.77],0.0057523562932419
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,41686,219,2.03 [1.65-2.50],2.0488975365832647e-11
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,34260,95,0.85 [0.61-1.19],0.3417397215451713
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,41528,108,1.30 [0.95-1.78],0.1046913026593572
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,40594,395,1.05 [0.89-1.24],0.584746413953264
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",43904,914,1.09 [0.98-1.22],0.1254731064458499
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,43453,463,1.02 [0.87-1.20],0.7623424914738347
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,43169,179,1.00 [0.78-1.29],0.9870452409483148
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,44086,2666,1.06 [0.99-1.13],0.0834715744466183
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,39026,2595,1.05 [0.98-1.12],0.1336035237153723
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",34275,110,1.00 [0.73-1.38],0.9925665388228744
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",41293,138,1.47 [1.11-1.94],0.0072797052515532
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,34638,473,0.93 [0.80-1.08],0.3125803741772839
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,34270,105,1.82 [1.33-2.50],0.0001939266520356
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,40211,6046,1.14 [1.09-1.19],2.666386887436351e-09
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,34508,343,1.29 [1.07-1.54],0.006302843728865
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,35118,953,1.19 [1.06-1.32],0.0020221459836321
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,44550,542,0.96 [0.83-1.10],0.5584897296883479
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,44225,217,1.02 [0.82-1.28],0.8300447894924454
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,34386,221,1.43 [1.15-1.80],0.0016864195035409
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",34269,104,1.20 [0.86-1.68],0.2726483286598873
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,43759,2604,1.10 [1.03-1.17],0.0039595269093395
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,34595,430,1.05 [0.89-1.23],0.5891945752489902
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,34632,467,1.39 [1.19-1.63],2.759414870949577e-05
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",35253,1088,1.15 [1.03-1.27],0.0089388391447731
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,34351,186,1.38 [1.08-1.77],0.0109990977393787
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,44213,205,1.03 [0.81-1.29],0.833203687226313
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,35194,1029,1.14 [1.03-1.27],0.0126912962918056
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,34995,830,1.17 [1.05-1.32],0.0068555781413078
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,40312,113,1.20 [0.88-1.65],0.2534087467953672
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,42717,8552,1.12 [1.08-1.16],2.1267023074291502e-09
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,41230,75,0.98 [0.68-1.43],0.9308556359736292
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,41252,97,1.10 [0.79-1.54],0.5745056853508758
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,44377,3310,1.02 [0.96-1.08],0.5654423945765291
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",44378,3305,1.02 [0.96-1.08],0.5616006753487953
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,41241,86,0.94 [0.66-1.33],0.721503351208677
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,44089,2071,1.02 [0.95-1.10],0.5612701096761561
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",36837,2672,1.17 [1.09-1.24],4.079560309077238e-06
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,44664,362,1.25 [1.05-1.49],0.0135535730179488
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,43118,128,1.06 [0.78-1.43],0.7057801762364999
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,42204,186,0.86 [0.68-1.09],0.2239860094551261
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,42263,245,1.02 [0.83-1.27],0.8254454452756145
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",34444,279,1.11 [0.91-1.36],0.2948085393776108
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,40690,267,1.04 [0.85-1.28],0.681745844088536
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,3657,142,0.91 [0.70-1.19],0.495245318969281
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,3892,422,0.97 [0.83-1.13],0.6801910840846822
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,40529,106,1.05 [0.75-1.47],0.7577527881605427
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,3596,82,1.14 [0.80-1.63],0.4742495089565283
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,43613,3190,1.26 [1.19-1.34],1.5595945490148212e-14
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,43560,570,1.01 [0.88-1.16],0.8953223874883376
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,40821,622,1.26 [1.10-1.44],0.0008283048860562
+DNPEP,Aspartyl aminopeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,35435,1270,1.21 [1.10-1.33],7.682172299039817e-05
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",44485,416,0.98 [0.83-1.15],0.774176807181024
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),42755,278,0.93 [0.76-1.14],0.4778070961906629
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Angina pectoris,40876,2027,1.03 [0.96-1.11],0.4443086010083388
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Aortic aneurysm,42889,412,0.99 [0.83-1.17],0.8649049688653923
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,42575,98,1.25 [0.89-1.76],0.2053898775402026
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",42811,334,1.04 [0.86-1.25],0.7107372189905456
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,27711,3218,1.07 [1.01-1.14],0.026953342600617
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,AV-block,37759,725,1.06 [0.94-1.20],0.3549814880874947
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",44581,704,0.95 [0.84-1.08],0.4632718886390652
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Cardiac arrest,24816,323,1.21 [1.00-1.47],0.0498305124845425
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Cardiomyopathy,37330,296,1.04 [0.86-1.26],0.6877034262805515
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",37200,166,1.03 [0.79-1.33],0.8416661526981484
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,44679,78,1.18 [0.81-1.74],0.3922673436241571
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Conduction disorders,38817,1783,1.07 [0.98-1.16],0.1124040934264545
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,42376,3559,1.05 [1.00-1.12],0.0635332430156942
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,39120,13134,1.06 [1.03-1.09],0.000103995913059
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,DVT of lower extremities,42314,450,0.99 [0.84-1.16],0.8716780313516687
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Endocarditis,37153,119,1.09 [0.80-1.49],0.5706005383003927
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Heart failure, strict",44326,1857,1.02 [0.95-1.11],0.5669419766580853
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Hypertension,40688,11240,1.09 [1.06-1.13],4.597136291138306e-08
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Hypertension, essential",40700,11252,1.09 [1.06-1.13],5.846685631034006e-08
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Hypertension, portal",44380,133,1.82 [1.38-2.41],2.7150579069759e-05
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",29775,327,1.07 [0.89-1.29],0.4777597813665665
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,29620,172,1.42 [1.10-1.83],0.0070588351249152
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Hypotension,44438,1946,1.00 [0.92-1.08],0.9299556843065078
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,43122,181,1.06 [0.82-1.35],0.6664456146111007
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",42682,3833,1.05 [0.99-1.11],0.0917221750086302
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",44054,953,1.06 [0.95-1.19],0.2673305109912895
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Left bundle-branch block,37651,617,1.07 [0.94-1.23],0.3006472330185108
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,43893,1443,1.01 [0.93-1.11],0.7415833693066098
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",40065,1216,1.02 [0.93-1.12],0.6498131416632407
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",44522,273,1.01 [0.83-1.24],0.91111103197982
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",44631,532,1.04 [0.90-1.21],0.5689359842663538
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Oesophageal varices,41954,90,1.77 [1.27-2.48],0.0007887550447769
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other aneurysm,42605,128,1.09 [0.81-1.47],0.5771370871816326
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other arrhythmias,37765,731,1.10 [0.97-1.25],0.1287750732653253
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,42649,172,0.93 [0.72-1.19],0.5690061580311465
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,42884,407,1.07 [0.90-1.26],0.4367416329742399
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,37340,306,1.01 [0.83-1.22],0.9574112990332432
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other disorders of veins,42016,152,1.08 [0.82-1.41],0.5970980725485631
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,41948,84,1.31 [0.92-1.89],0.1388346860830755
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,42267,110,1.05 [0.76-1.45],0.7713076607870482
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,42090,226,1.18 [0.94-1.47],0.1480999708314559
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,38767,1733,1.00 [0.92-1.08],0.9713871791084248
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,42585,93,2.14 [1.56-2.95],3.167394848069792e-06
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,43398,921,1.08 [0.97-1.21],0.1552113616579941
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,43611,608,1.06 [0.92-1.21],0.4247890342429116
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",43177,1020,1.10 [0.99-1.23],0.0714848058542832
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,25057,564,0.97 [0.84-1.12],0.7069487130300969
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Peripheral artery disease,43104,681,1.05 [0.92-1.19],0.5040683327750672
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),42449,585,0.98 [0.85-1.12],0.7207521426394803
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Pulmonary embolism,43815,812,1.01 [0.90-1.13],0.8794177859592133
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,44555,1105,1.04 [0.94-1.15],0.4285906223225019
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Right bundle-branch block,37622,588,1.02 [0.88-1.17],0.8110528815565038
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Secondary right heart disease,43603,600,1.06 [0.92-1.22],0.4146571448485789
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,42478,321,1.14 [0.94-1.38],0.1742579497532122
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",44032,1091,1.06 [0.96-1.18],0.2388341742329967
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",43997,1156,1.05 [0.95-1.16],0.3220926173177902
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,43076,100,1.01 [0.73-1.41],0.9347761044875162
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,42611,135,0.96 [0.72-1.29],0.7978817217938077
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Transient ischemic attack,43489,388,1.08 [0.91-1.28],0.3613308145430089
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,42891,441,1.10 [0.93-1.28],0.2645429389254536
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Varicose veins,42572,708,1.06 [0.93-1.20],0.3785547470191825
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,42502,145,0.98 [0.74-1.30],0.8899890775646419
+DNPEP,Aspartyl aminopeptidase,Chapter IX Diseases of the circulatory system,Venous thromboembolism,44282,1273,1.01 [0.92-1.11],0.8307704291114644
+DNPEP,Aspartyl aminopeptidase,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",44466,622,1.56 [1.37-1.77],3.480943329935533e-11
+DNPEP,Aspartyl aminopeptidase,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",39161,2448,1.00 [0.94-1.07],0.9943141272529332
+DNPEP,Aspartyl aminopeptidase,Chapter V Mental and behavioural disorders,Any mental disorder,43559,6846,1.01 [0.97-1.05],0.5592795880861282
+DNPEP,Aspartyl aminopeptidase,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",44386,727,1.46 [1.30-1.65],9.31815250193543e-10
+DNPEP,Aspartyl aminopeptidase,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",39430,2717,1.06 [0.99-1.13],0.0858713541748115
+DNPEP,Aspartyl aminopeptidase,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",36855,142,0.84 [0.64-1.09],0.1915394271585527
+DNPEP,Aspartyl aminopeptidase,Chapter V Mental and behavioural disorders,Smoking dependency,43759,2365,0.92 [0.87-0.98],0.0137133067443853
+DNPEP,Aspartyl aminopeptidase,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",39522,2809,0.99 [0.93-1.05],0.7667011132886652
+DNPEP,Aspartyl aminopeptidase,Chapter V Mental and behavioural disorders,Vascular dementia,43863,217,0.93 [0.74-1.17],0.5376280966703051
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Alzheimer disease,44681,576,1.04 [0.90-1.20],0.5720774373316725
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",30313,103,1.25 [0.89-1.76],0.1937819721229001
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Bell's palsy,41629,139,1.02 [0.77-1.35],0.8879516436807127
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,42345,855,1.07 [0.95-1.20],0.2574243306425459
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Cerebral cysts,43990,389,1.21 [1.02-1.43],0.0307734931833391
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,44541,528,1.18 [1.02-1.37],0.0246214486955206
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,43842,94,0.89 [0.63-1.26],0.5202200187911976
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,44654,112,1.19 [0.87-1.63],0.2814865310841491
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",43723,122,1.55 [1.14-2.09],0.0044706692448443
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Epilepsy,42028,484,1.19 [1.02-1.38],0.0276157446539657
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,43860,2316,1.06 [0.99-1.14],0.0860526855652975
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,44605,715,0.96 [0.85-1.09],0.5178548983815567
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Falls/tendency to fall,43665,4362,1.05 [1.00-1.11],0.0536497403175077
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Generalized epilepsy,44037,93,1.28 [0.90-1.80],0.1650910425759071
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Hemiplegia,44429,416,1.16 [0.99-1.37],0.0713232372035463
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Hydrocephalus,43703,102,1.14 [0.82-1.60],0.4286693632847096
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,44647,118,0.99 [0.73-1.34],0.9604477732276148
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,41623,133,0.91 [0.69-1.21],0.5255081516355316
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,41625,135,0.94 [0.71-1.25],0.6781006551936974
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Memory loss,43611,198,1.14 [0.89-1.45],0.2978939326792237
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Migraine,42156,612,1.05 [0.92-1.20],0.445185852703444
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",44559,555,1.06 [0.92-1.22],0.3982935870206467
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Motor neuron disease,30505,258,0.83 [0.68-1.02],0.0842308871596243
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,44376,183,1.14 [0.90-1.46],0.2772291691672905
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",43538,2048,1.06 [0.98-1.14],0.139018249231722
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Neurological diseases,42124,6270,1.06 [1.01-1.10],0.0096894315155306
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,44061,313,1.17 [0.96-1.41],0.1172803041377716
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",42174,684,1.11 [0.97-1.26],0.1255738124031565
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",44549,494,1.13 [0.97-1.32],0.1095607960896081
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,35763,1101,1.10 [1.00-1.22],0.0589542236167661
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,43724,123,1.38 [1.02-1.86],0.0374942075798565
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Other disorders of nervous system,43840,239,0.95 [0.77-1.18],0.6375338132995673
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,44146,256,0.86 [0.71-1.06],0.1614591383816102
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Other facial nerve disorders,41654,164,1.06 [0.82-1.38],0.6388954709433694
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Other headache syndromes,41646,102,0.99 [0.71-1.36],0.9321554961504284
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Other neurological diseases,44479,878,1.05 [0.94-1.18],0.3856928502192063
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Other sleep disorders,42489,945,1.00 [0.90-1.11],0.9550142943478837
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Parkinson's disease,44637,419,1.02 [0.86-1.21],0.8086078378424502
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,43696,95,1.01 [0.72-1.42],0.9463748107476972
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Restless leg syndrome,44679,113,0.81 [0.60-1.10],0.1748632362712035
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Sleep apnoea,44274,817,0.99 [0.89-1.12],0.9270687935343376
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Small fibre neuropathy,44138,83,1.50 [1.04-2.16],0.0308944866858599
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,44654,304,0.86 [0.71-1.03],0.1078589903078189
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,41581,91,1.07 [0.75-1.52],0.7012441119583221
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,44681,582,1.04 [0.90-1.20],0.595815391148941
+DNPEP,Aspartyl aminopeptidase,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),43795,210,0.93 [0.73-1.17],0.5163136292163635
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,43709,167,0.77 [0.60-0.98],0.033119125976326
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,43981,678,1.08 [0.95-1.23],0.231717253795825
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,44400,396,1.11 [0.94-1.31],0.2339429197204145
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,42945,92,1.26 [0.89-1.79],0.1919409867781407
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,42957,104,1.03 [0.74-1.42],0.8642709080528809
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",44493,91,1.36 [0.96-1.93],0.0822499435443298
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,44242,252,1.12 [0.91-1.39],0.2936541463557625
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",3602,87,1.11 [0.78-1.57],0.5630611920714866
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,4362,164,0.95 [0.74-1.23],0.714640569353469
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,43709,167,1.00 [0.77-1.29],0.9831521068824056
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,44340,1781,1.11 [1.03-1.21],0.0082953109587417
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",44035,1182,1.03 [0.94-1.14],0.5237294309381398
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,43233,380,1.07 [0.90-1.27],0.4432895688704421
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",44543,1240,1.06 [0.96-1.16],0.2713826343117707
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,44667,120,1.36 [1.01-1.85],0.0463327691722817
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,44419,1116,1.06 [0.96-1.18],0.2360402214056162
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",44610,620,1.15 [1.00-1.32],0.043811172691913
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,44521,316,1.07 [0.89-1.29],0.4891899390930817
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,42956,103,0.92 [0.66-1.28],0.6299158158540228
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,42967,114,0.61 [0.48-0.79],0.0001670396735462
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,42948,95,0.93 [0.66-1.30],0.668821713425039
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,44521,1213,1.05 [0.95-1.16],0.3322100023139716
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,43631,323,1.18 [0.97-1.42],0.0942331759676621
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,43385,82,1.12 [0.77-1.62],0.5657443788461214
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,44159,169,1.07 [0.82-1.38],0.6312414631370074
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,44454,464,1.17 [1.00-1.37],0.0469802877782618
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,43637,334,1.00 [0.83-1.20],0.971899103902228
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,44394,189,1.02 [0.80-1.30],0.849069507740347
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,44096,788,1.04 [0.92-1.17],0.5121397535438463
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,43779,237,0.95 [0.77-1.18],0.6343771535237233
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,41946,3755,1.05 [0.99-1.11],0.0825687941139364
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,44397,407,1.19 [1.01-1.41],0.0422085274227279
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,44643,263,1.17 [0.95-1.44],0.1327064529385095
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,43553,700,1.01 [0.89-1.15],0.8295438604126066
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,44106,116,1.01 [0.74-1.39],0.9269080712104552
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,44643,96,1.53 [1.09-2.15],0.0134529708737708
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,42999,146,0.99 [0.75-1.30],0.9371739806118992
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,43109,256,1.28 [1.04-1.58],0.0212479402691871
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,42759,200,1.29 [1.02-1.64],0.0342729331056654
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,43402,99,1.05 [0.75-1.48],0.7660778630794279
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",42674,115,1.12 [0.82-1.53],0.4762224872722289
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,43458,150,0.98 [0.75-1.28],0.873912840590589
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",43639,331,0.89 [0.74-1.06],0.1888491660168107
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,43061,208,0.92 [0.73-1.16],0.4758024364772992
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,42746,187,0.87 [0.68-1.10],0.2375207441855572
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,42698,139,0.96 [0.72-1.28],0.7802622226536957
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,41262,3071,1.07 [1.00-1.13],0.0386006960309756
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,42980,127,1.02 [0.76-1.37],0.8957641629029343
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,44244,702,0.93 [0.82-1.05],0.2272352275647099
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,43641,99,1.20 [0.85-1.68],0.3039804055132161
+DNPEP,Aspartyl aminopeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),43820,278,1.10 [0.90-1.34],0.3718764321270454
+DNPEP,Aspartyl aminopeptidase,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,44295,152,0.95 [0.73-1.24],0.694432576575071
+DNPEP,Aspartyl aminopeptidase,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,44603,202,0.92 [0.73-1.16],0.492175722116273
+DNPEP,Aspartyl aminopeptidase,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,44456,228,1.03 [0.83-1.28],0.7865162636950983
+DNPEP,Aspartyl aminopeptidase,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,44253,110,1.26 [0.92-1.73],0.1577616582402809
+DNPEP,Aspartyl aminopeptidase,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,44257,114,1.06 [0.78-1.46],0.6939677260149446
+DNPEP,Aspartyl aminopeptidase,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,44500,1512,1.12 [1.03-1.23],0.0084644859155547
+DNPEP,Aspartyl aminopeptidase,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,44068,1080,1.12 [1.01-1.24],0.0283370794091686
+DNPEP,Aspartyl aminopeptidase,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,43204,216,1.06 [0.85-1.33],0.6084861532465506
+DNPEP,Aspartyl aminopeptidase,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,43134,146,1.10 [0.84-1.45],0.47739995395834
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Acute pharyngitis,44247,122,1.10 [0.82-1.49],0.513704259219858
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,44495,370,0.97 [0.82-1.15],0.7329638540576496
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,44236,111,1.10 [0.80-1.51],0.545320723576995
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,All influenza,41270,200,0.99 [0.78-1.25],0.9235975489928714
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),41266,196,1.00 [0.79-1.27],0.9875257120361562
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Allergic asthma (mode),30651,206,1.33 [1.05-1.67],0.0161319459995372
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Allergic rhinitis,44467,487,1.02 [0.88-1.19],0.7908310222456632
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",33071,3084,1.04 [0.98-1.11],0.1906849207789497
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",33479,3034,1.04 [0.97-1.10],0.2616822992651417
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),43983,238,1.11 [0.89-1.38],0.362305920145813
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",41206,136,1.20 [0.90-1.61],0.2093363347095392
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Bronchiectasis,38687,600,0.98 [0.85-1.12],0.7531498182517993
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",38183,96,1.10 [0.78-1.55],0.5877408591508697
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,42927,4840,1.01 [0.96-1.06],0.7494911216748306
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",42302,128,0.91 [0.68-1.22],0.5318096718953711
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Chronic sinusitis,42436,262,0.98 [0.80-1.21],0.8826781765276629
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",44342,2037,0.94 [0.88-1.01],0.1118932281805571
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Deviated nasal septum,42368,194,1.03 [0.81-1.31],0.7996276937246527
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,41095,9043,1.04 [1.01-1.08],0.01814131451303
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",42816,642,1.05 [0.92-1.20],0.4517709079412811
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Early onset COPD,42868,563,0.89 [0.78-1.01],0.0794880701298349
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Emphysema,38634,547,0.87 [0.76-1.00],0.0422185754398707
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,42380,510,0.96 [0.83-1.12],0.6341372869863249
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Influenza and pneumonia,44289,3219,1.05 [0.99-1.11],0.1248675704316889
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Interstitial lung disease,42437,567,0.99 [0.86-1.15],0.9420267139911872
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Later onset COPD,42916,1474,0.97 [0.89-1.06],0.5513350821020665
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,44658,531,1.06 [0.91-1.23],0.4593166159597815
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Nasal polyp,42362,188,1.20 [0.94-1.54],0.1358311469017836
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,44243,1653,1.09 [1.00-1.18],0.0414792698374195
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Other diseases of pleura,44271,3418,1.02 [0.97-1.08],0.4434537575994065
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,43628,1454,1.02 [0.93-1.11],0.7185835624365889
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Other pleural conditions,40941,88,1.27 [0.88-1.82],0.197727294067694
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,44510,704,1.09 [0.96-1.24],0.1808847697626896
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,44492,2236,1.00 [0.93-1.07],0.9538749935233992
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Pleural effusion,42531,1678,1.10 [1.01-1.19],0.0303807347389551
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Pleural plaque,41128,275,1.23 [1.00-1.52],0.0517836737904396
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",43856,2786,1.08 [1.02-1.16],0.0130028449411284
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,44541,414,1.07 [0.91-1.27],0.4130361446458794
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Pneumothorax,41062,209,0.92 [0.73-1.15],0.448776609387959
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Pollen allergy,44643,416,1.03 [0.87-1.21],0.7454646511823713
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Pulmonary oedema,43919,113,1.44 [1.05-1.97],0.0224087087827357
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Respiratory insufficiency,30540,95,0.76 [0.55-1.07],0.1177170775540947
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,44207,1617,1.09 [1.00-1.18],0.0503104876061728
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,42662,488,1.02 [0.88-1.19],0.7798113868829774
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Viral pneumonia,41484,414,0.94 [0.80-1.11],0.4781232799764259
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",44010,341,0.86 [0.72-1.03],0.0981792262434773
+DNPEP,Aspartyl aminopeptidase,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,20630,190,0.96 [0.75-1.23],0.7473003065369386
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,31679,110,0.93 [0.68-1.26],0.6288475669771438
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Acute appendicitis,44401,248,1.25 [1.01-1.54],0.0367617734566554
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Acute gastritis,33698,148,1.20 [0.91-1.58],0.196134071825007
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Acute pancreatitis,41516,320,1.09 [0.91-1.32],0.3554139619888634
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Acute peritonitis,43860,154,1.35 [1.04-1.77],0.026781319835668
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Alcoholic liver disease,43149,128,2.39 [1.83-3.11],1.1149226874285455e-10
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Barrett oesophagus,34303,753,0.93 [0.82-1.05],0.2168462174743254
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",41370,174,0.96 [0.74-1.23],0.7258655221535583
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",43958,174,0.96 [0.74-1.23],0.7371570077663138
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Cholecystitis,41538,342,1.05 [0.88-1.26],0.596692052880756
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Cholelithiasis,42933,1737,1.01 [0.93-1.10],0.7702689039751405
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Chronic gastritis,34069,519,1.09 [0.94-1.27],0.2410518163848283
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Chronic pancreatitis,41278,82,0.93 [0.65-1.33],0.6904254821596566
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",44431,184,1.76 [1.38-2.23],3.634720123451942e-06
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Coeliac disease,41919,204,1.10 [0.87-1.40],0.4042067930922556
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Collagenous colitis,41769,137,1.07 [0.81-1.43],0.6253943329765834
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,44407,330,1.12 [0.93-1.35],0.221956147993841
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Constipation,44239,2805,0.95 [0.90-1.02],0.1426452724562791
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Crohn disease,41785,153,1.33 [1.02-1.74],0.0381848691100562
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",44065,110,1.32 [0.96-1.81],0.0890069948818504
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Crohn's disease NAS,41774,142,1.44 [1.10-1.90],0.0091332517419664
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Dental caries,43400,395,1.11 [0.94-1.31],0.2215360749018629
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,40119,3814,1.03 [0.97-1.09],0.3147246143899331
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Diseases of appendix,44464,311,1.30 [1.08-1.57],0.0061651049881297
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Diseases of liver,44475,1454,1.28 [1.17-1.40],3.478297274939301e-08
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",40933,7383,1.03 [0.99-1.07],0.115047380586568
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",43953,948,0.97 [0.88-1.08],0.6406231379448486
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Diseases of peritoneum,44528,822,1.12 [1.00-1.26],0.0498649577759252
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,43201,196,0.89 [0.71-1.11],0.3035524468495779
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Diseases of salivary glands,42953,108,1.22 [0.89-1.68],0.2209879731403876
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Diseases of the digestive system,44151,2436,1.11 [1.04-1.19],0.0017257684419831
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Diseases of tongue,42969,188,0.87 [0.69-1.10],0.2471016634120135
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",43630,2434,1.04 [0.98-1.12],0.2025068730396775
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,36997,5428,1.03 [0.99-1.08],0.1702959726942353
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Duodenal ulcer,33888,338,1.09 [0.90-1.31],0.3719724819423542
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",44526,268,1.06 [0.87-1.31],0.5574490822531125
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,44532,91,1.17 [0.83-1.65],0.3737117573452706
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,43242,221,1.77 [1.43-2.20],2.616037629534036e-07
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,31825,256,1.13 [0.92-1.39],0.2585615488763057
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Functional dyspepsia,34493,943,1.02 [0.92-1.14],0.677575538877623
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Gastric ulcer,34170,620,1.03 [0.90-1.18],0.6797014335231826
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,37844,4294,1.01 [0.96-1.06],0.7493263565784409
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,34471,921,1.03 [0.92-1.15],0.5937852113586173
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,34606,14254,1.02 [1.00-1.05],0.1023748572682127
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,GI-bleeding,43695,1980,1.12 [1.03-1.20],0.0045111450016191
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,43111,106,0.97 [0.71-1.34],0.869225259093346
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,33221,2144,1.05 [0.98-1.13],0.1583072366899837
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",43126,105,2.04 [1.49-2.78],7.0786674743382965e-06
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Hernia,41859,5554,1.01 [0.96-1.05],0.7168748912646453
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Impacted teeth,44544,86,1.27 [0.89-1.81],0.1849145667012633
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Impaction of intestines,31667,98,1.16 [0.83-1.64],0.384738335420716
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Inguinal hernia,37853,1548,0.96 [0.88-1.05],0.4147890804140435
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",36478,173,0.95 [0.74-1.24],0.7253320565677086
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,31731,162,1.27 [0.98-1.66],0.0745608818104148
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Intestinal malabsorption,41957,242,1.14 [0.92-1.42],0.2185050257364236
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,32524,955,0.99 [0.89-1.11],0.9101020293999332
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,44635,623,1.44 [1.26-1.64],7.105423085809256e-08
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,42936,1304,1.07 [0.98-1.18],0.1325368366804909
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,43362,1730,1.07 [0.99-1.16],0.0830628590111686
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Oesophageal obstruction,33866,316,1.14 [0.94-1.38],0.1942495897863613
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Oesophagitis,34595,1045,1.12 [1.01-1.25],0.028874925429707
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,44591,236,1.04 [0.84-1.30],0.692004058771861
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,36419,114,1.02 [0.74-1.40],0.8952848938482582
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,33915,2346,1.05 [0.98-1.13],0.1387039082822799
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,41675,479,1.03 [0.88-1.20],0.722206643528678
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,41463,267,1.13 [0.92-1.38],0.2539433586539903
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of intestine,34586,3017,0.99 [0.94-1.05],0.8238173009570225
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of intestines,41217,9648,1.02 [0.98-1.05],0.2869727144552156
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,42938,360,0.99 [0.83-1.18],0.9438522448486938
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of liver,44206,1185,1.27 [1.15-1.40],1.7865625271095458e-06
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,34700,1150,0.94 [0.85-1.04],0.2226510403830255
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of pancreas,41451,255,1.15 [0.93-1.42],0.1971774071337173
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,44415,709,1.10 [0.97-1.25],0.1259949711087153
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,35172,1622,1.01 [0.93-1.10],0.8469178038451288
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,43721,2006,1.11 [1.03-1.19],0.0073640290714694
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,43307,302,0.98 [0.81-1.19],0.8594062740283714
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,34458,2889,0.96 [0.90-1.02],0.2012196468928948
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),36990,3440,1.05 [1.00-1.12],0.06751356627873
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,43191,170,1.33 [1.03-1.72],0.0277390353771101
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,43153,1521,1.07 [0.98-1.17],0.1076883845461784
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",32161,592,1.25 [1.09-1.43],0.0015877396972832
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,44513,107,1.15 [0.84-1.58],0.3826943040260856
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,32412,843,1.17 [1.04-1.31],0.0078639822794802
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",41984,269,1.21 [0.99-1.49],0.0665049804076015
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Recurring oral aphthae,44661,101,1.02 [0.73-1.41],0.9186176159000868
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,43013,204,0.93 [0.74-1.17],0.5361400699763562
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Toxic colitis,41727,95,1.50 [1.07-2.11],0.0196291807605723
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,34025,475,1.06 [0.91-1.24],0.4536424804997176
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Ulcerative colitis,41909,277,1.13 [0.93-1.38],0.2208983640467841
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",41863,231,1.15 [0.92-1.43],0.2117891561152711
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Umbilical hernia,36774,469,1.02 [0.87-1.19],0.7973363355444223
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,31874,305,0.96 [0.79-1.16],0.6524287998901994
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Ventral hernia,36747,442,1.01 [0.86-1.18],0.9485492644699964
+DNPEP,Aspartyl aminopeptidase,Chapter XI Diseases of the digestive system,Volvulus,31706,137,0.87 [0.66-1.14],0.3069480931969952
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,44549,492,0.96 [0.83-1.12],0.6427798585949065
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,44129,137,1.14 [0.86-1.52],0.3462391460295713
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,41203,278,1.01 [0.83-1.23],0.9081871023073668
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,43570,1199,1.03 [0.94-1.14],0.5125592390557198
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",42679,308,0.92 [0.76-1.10],0.3583490430675778
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,41583,658,1.06 [0.93-1.21],0.3788138586400342
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,44148,479,1.04 [0.90-1.22],0.5744952924672344
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,44495,826,1.04 [0.92-1.17],0.5293643591520552
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,43754,85,0.98 [0.69-1.40],0.9205535654855828
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,41993,5486,1.01 [0.97-1.06],0.56083208269582
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,43891,761,0.98 [0.87-1.10],0.7007645063248062
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,43661,531,0.95 [0.82-1.09],0.4709602430175933
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,43994,1623,1.02 [0.94-1.10],0.6901137020300471
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",44652,93,1.11 [0.79-1.57],0.542537380539265
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,41035,110,1.33 [0.97-1.82],0.0726018985071526
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,43223,93,1.09 [0.77-1.54],0.6393957662311913
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,44130,461,1.02 [0.87-1.19],0.8163939623691019
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,41708,783,1.03 [0.91-1.16],0.6686249414941845
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,41038,113,0.98 [0.71-1.35],0.9051642324984668
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,44531,140,1.14 [0.86-1.51],0.3773892908153845
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,42674,303,1.15 [0.95-1.40],0.1534641421693321
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,44326,334,1.16 [0.96-1.39],0.1193846660108439
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,43769,100,1.10 [0.78-1.55],0.5943112875547839
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,41037,112,0.94 [0.69-1.29],0.710669912314447
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,43694,2769,1.04 [0.98-1.11],0.2067725849289311
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",41774,849,1.04 [0.93-1.17],0.5009801412210111
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,41044,119,1.04 [0.76-1.42],0.7945116506144436
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,44529,537,1.15 [0.99-1.32],0.0652857852239914
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,43789,120,1.07 [0.79-1.45],0.6747735087926118
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,44433,441,1.15 [0.98-1.35],0.0894563428805527
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,44593,536,0.96 [0.83-1.11],0.5748343636324271
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,41145,220,1.05 [0.84-1.31],0.6954539341630301
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,41383,458,0.91 [0.78-1.06],0.2239269546114944
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,44575,518,0.95 [0.82-1.10],0.4754976453480228
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",41312,387,1.19 [1.00-1.42],0.0440955956014604
+DNPEP,Aspartyl aminopeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,44625,234,1.08 [0.87-1.35],0.4832512947313216
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,38319,188,0.98 [0.77-1.24],0.8642035227469067
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,40653,9708,1.05 [1.01-1.08],0.0081982124328933
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,38232,7287,1.05 [1.01-1.10],0.007675250653021
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,38262,131,0.72 [0.55-0.93],0.0118886819314827
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,38791,254,0.94 [0.76-1.15],0.540327591689572
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,38841,304,0.91 [0.75-1.10],0.3187779153114635
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,44249,158,0.89 [0.69-1.15],0.3786385983024229
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",38706,169,0.93 [0.72-1.20],0.5676859328308976
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,32903,1958,1.07 [0.99-1.15],0.1002631186198693
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",44437,328,1.08 [0.90-1.30],0.3875603094162003
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,39274,737,1.10 [0.97-1.24],0.1417362839609535
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,37751,12512,1.03 [1.00-1.06],0.0523000769749118
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,41256,207,1.11 [0.88-1.40],0.377670859243123
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,38394,263,1.20 [0.97-1.47],0.0855748680414514
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,39131,1000,0.98 [0.88-1.09],0.6903602097581445
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,43064,4527,1.04 [0.99-1.09],0.1614964188251656
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,38610,479,0.84 [0.72-0.97],0.0176400721358821
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,38521,390,0.92 [0.78-1.08],0.2916962927358179
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,38373,242,0.98 [0.79-1.21],0.845434038045275
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,43529,123,1.00 [0.74-1.35],0.99162316291132
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,33850,2905,1.04 [0.98-1.11],0.1828551529359351
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,31948,1003,1.15 [1.03-1.27],0.0122882611018186
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",44548,987,1.14 [1.03-1.27],0.0154202363225252
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,31074,129,1.10 [0.82-1.47],0.5100825295592895
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),31529,584,1.21 [1.06-1.39],0.0056835753158182
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,38651,520,0.95 [0.83-1.10],0.518904517599952
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,32048,1103,1.10 [0.99-1.21],0.0703870181451074
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,38630,93,1.48 [1.04-2.10],0.0294585624536076
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,39608,1071,1.03 [0.93-1.14],0.5474468491996319
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,39048,511,1.12 [0.97-1.30],0.1217202167112851
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,31971,1026,1.11 [1.00-1.23],0.045250435521235
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,38263,132,1.11 [0.83-1.48],0.4846918477154919
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",38233,102,0.70 [0.52-0.94],0.0160062168336323
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,41171,122,1.28 [0.94-1.73],0.1128130907579195
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,44012,2963,1.09 [1.02-1.16],0.0064453517247985
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,42994,1945,1.10 [1.02-1.19],0.0115547164154955
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",44429,777,1.18 [1.05-1.33],0.0069047740435873
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,35246,4301,1.07 [1.02-1.12],0.0107882935908158
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,31052,107,1.04 [0.76-1.44],0.7859638458249997
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,38289,158,1.02 [0.78-1.33],0.8910206390253967
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,31036,91,0.99 [0.70-1.41],0.9509008850516734
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),31165,220,1.00 [0.80-1.25],0.985474701312372
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,41470,421,0.91 [0.78-1.07],0.2631403681769031
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,41689,640,1.25 [1.09-1.42],0.0012041619446721
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,44628,169,0.85 [0.66-1.08],0.1793069345045827
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",41602,3065,1.03 [0.97-1.09],0.3986645571658453
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,38301,170,0.95 [0.74-1.22],0.6866727068074499
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),31189,244,1.13 [0.92-1.40],0.247187315919427
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,39769,1232,1.05 [0.96-1.16],0.3046236082918454
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,34657,3712,1.05 [0.99-1.11],0.0808816223044061
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,43567,161,0.93 [0.72-1.21],0.588771044217096
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,44649,130,1.20 [0.90-1.60],0.2104746337037699
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,38267,136,0.91 [0.69-1.20],0.4895145958201812
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",40262,2131,1.01 [0.94-1.09],0.7707557098496001
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,38283,152,1.09 [0.83-1.43],0.5247036505213147
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,33745,2800,1.05 [0.99-1.12],0.1238670170046993
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,41251,202,0.82 [0.65-1.02],0.0761896868265028
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,38219,88,1.25 [0.87-1.78],0.2257077329465177
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,38809,272,1.03 [0.84-1.26],0.7621269565520076
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,39061,930,1.11 [0.99-1.24],0.0676298311561009
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,44028,622,1.17 [1.02-1.34],0.0212432020012778
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,39513,976,1.06 [0.95-1.18],0.2682848944833175
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,44449,757,1.16 [1.03-1.31],0.0180486800132093
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,44643,92,1.24 [0.87-1.75],0.2314961650319142
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,38460,329,0.96 [0.80-1.16],0.6888416574486179
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,35376,1289,0.99 [0.91-1.09],0.9009258474244692
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,39120,989,0.94 [0.85-1.05],0.2643480349232078
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],38530,399,0.83 [0.70-0.97],0.0230646231200778
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",31044,99,1.29 [0.92-1.80],0.1416867768719928
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,35217,4272,1.07 [1.01-1.12],0.0118617055474785
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,32062,1117,1.09 [0.99-1.21],0.0782473472715655
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,43806,400,1.10 [0.93-1.30],0.2725645586028354
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",44567,108,0.89 [0.65-1.21],0.4526913194492612
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",40950,85,0.92 [0.64-1.31],0.627979412780008
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,31078,133,1.23 [0.92-1.64],0.158882975230629
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,38714,177,1.05 [0.82-1.35],0.7061641761019558
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,31733,788,1.20 [1.07-1.35],0.002609853862643
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,38665,534,1.04 [0.90-1.20],0.5792168176951402
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,38974,437,1.03 [0.88-1.21],0.6941806261775543
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,38851,314,1.16 [0.95-1.40],0.1376408229773363
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,34944,101,1.43 [1.03-1.99],0.0341686460440625
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",44650,99,1.22 [0.87-1.70],0.2478636012639416
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,39143,1012,1.00 [0.90-1.11],0.9962645419954655
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],43572,166,1.57 [1.22-2.01],0.0004520179018252
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,42574,4443,1.00 [0.95-1.05],0.9311950041899948
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",38360,229,0.93 [0.75-1.16],0.5340032247343856
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,39443,906,1.11 [1.00-1.25],0.0573447651252343
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,42207,400,0.97 [0.83-1.15],0.7577122307077957
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,38871,334,1.08 [0.90-1.30],0.4152804066554133
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,41165,2628,1.06 [0.99-1.13],0.0953201113084789
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,40254,1717,1.06 [0.98-1.15],0.1507213188996879
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],38220,89,1.10 [0.77-1.57],0.6072506871552752
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,43658,252,1.19 [0.96-1.46],0.105696300119454
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,38420,289,0.89 [0.74-1.08],0.2429506351411697
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,38266,135,0.85 [0.65-1.13],0.2675155167553502
+DNPEP,Aspartyl aminopeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),31042,97,1.38 [0.98-1.93],0.0650040531931186
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Acute renal failure,43065,2587,1.09 [1.02-1.17],0.0095181924765078
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),18086,88,0.94 [0.67-1.32],0.7140688537478694
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,23557,99,0.85 [0.63-1.16],0.3141629448528271
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,44140,541,1.09 [0.95-1.26],0.2191755022022371
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,43744,145,1.00 [0.75-1.32],0.9840520875181618
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,42807,2329,1.12 [1.04-1.20],0.0021743442194747
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,44333,107,0.99 [0.72-1.36],0.9483483027357216
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,44298,502,0.90 [0.78-1.05],0.1692814804738318
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Cystitis,39449,400,1.01 [0.85-1.19],0.9406987404026436
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Dialysis,40592,114,1.36 [0.99-1.86],0.0571752433590905
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,19432,2837,1.00 [0.94-1.07],0.9412292968092808
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Disorders of breast,23745,287,0.85 [0.71-1.02],0.0891458762873889
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Endometriosis,18150,152,1.05 [0.81-1.37],0.7022820463652504
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",18342,344,0.97 [0.82-1.15],0.7599631565308652
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,18877,879,0.98 [0.88-1.09],0.7328833755208494
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,37334,9109,1.05 [1.01-1.08],0.0098788243630986
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,44353,127,1.26 [0.94-1.70],0.1215101789520518
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Hydrocele,16770,175,1.08 [0.83-1.40],0.5540216158895425
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,40422,475,1.23 [1.05-1.44],0.0096701796653402
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,18824,2229,0.99 [0.92-1.06],0.7719201015737895
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,23683,352,1.01 [0.85-1.20],0.897123692886493
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),16794,199,1.19 [0.93-1.52],0.1572960928102651
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Irregular menses,23757,111,0.80 [0.60-1.07],0.1277823551493604
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Menorrhagia,18267,269,1.14 [0.94-1.39],0.183703925598268
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,39178,129,1.11 [0.83-1.49],0.4851090073276136
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,20140,2142,0.98 [0.91-1.05],0.5324618819535816
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,16694,99,0.94 [0.67-1.31],0.7033558237165638
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,18117,119,0.85 [0.64-1.13],0.2502824758363907
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",44665,111,1.41 [1.02-1.93],0.0353085662511123
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",44666,117,1.16 [0.85-1.59],0.3460465677892749
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,42877,3828,1.03 [0.98-1.09],0.2654540193832392
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,40285,1236,1.02 [0.92-1.12],0.7529063767648779
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,23560,102,0.78 [0.58-1.05],0.1024588816890498
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,44571,775,1.02 [0.90-1.15],0.7875240486744222
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,16860,265,0.96 [0.78-1.18],0.6760334823935006
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,16838,243,1.04 [0.84-1.29],0.7211781974162
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,16789,194,0.94 [0.74-1.19],0.5995521803955186
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,44616,118,1.22 [0.90-1.66],0.2042798441054964
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,41973,2924,1.03 [0.97-1.09],0.4013011085958741
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,23513,182,0.96 [0.76-1.21],0.7239766156404635
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,18135,137,0.83 [0.64-1.08],0.1623716774615966
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",18340,342,0.98 [0.83-1.17],0.8465418710737614
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,18101,103,1.10 [0.80-1.52],0.555944419074751
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,18180,182,1.00 [0.78-1.27],0.972142579293877
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,40504,557,1.22 [1.05-1.40],0.0073685106148063
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,44052,256,1.22 [0.99-1.50],0.0658867739632698
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,18266,268,0.81 [0.67-0.97],0.0228516081042135
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,18089,91,1.04 [0.75-1.45],0.814739622566054
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,18561,563,1.03 [0.90-1.18],0.6908836764345885
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,18139,141,1.17 [0.89-1.55],0.2698820933971185
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,18512,514,1.07 [0.93-1.24],0.3448443445739786
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,44315,89,1.11 [0.78-1.59],0.5541637773818326
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",16821,226,1.08 [0.86-1.35],0.4957725907489823
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,44308,4361,1.11 [1.06-1.17],5.02098264813704e-05
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",40149,202,1.02 [0.81-1.28],0.8856256692000201
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,40680,202,1.04 [0.82-1.32],0.7347943312916376
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,43693,94,1.29 [0.92-1.82],0.1423758110580402
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Urethral stricture,39431,382,1.02 [0.86-1.21],0.8035670684325866
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Urolithiasis,44273,674,1.15 [1.01-1.31],0.0362235113909553
+DNPEP,Aspartyl aminopeptidase,Chapter XIV Diseases of the genitourinary system,Uterine polyps,18117,119,1.14 [0.85-1.54],0.375996913109849

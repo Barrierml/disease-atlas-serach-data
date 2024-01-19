@@ -1,0 +1,661 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",49294,297,1.54 [1.26-1.88],2.257986704082725e-05
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",51080,395,1.26 [1.04-1.53],0.0190085712298187
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",50544,2757,1.32 [1.23-1.42],3.4937405919654113e-14
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Candidiasis,51124,852,1.29 [1.13-1.47],0.0001237736030042
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,49564,6974,1.22 [1.17-1.28],9.86713539636561e-17
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),49763,6377,1.35 [1.29-1.42],2.8884172008973364e-36
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,50614,2412,1.34 [1.24-1.44],2.7714140300451377e-13
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,50935,172,1.48 [1.12-1.94],0.0052813223977333
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,47028,1938,1.47 [1.36-1.60],4.1980397764367955e-21
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,45428,2203,1.55 [1.44-1.66],2.9816437444563813e-33
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,45176,510,1.58 [1.36-1.83],3.5495494055125515e-09
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,35928,3953,1.40 [1.32-1.49],4.728355253754142e-29
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,44875,779,1.66 [1.48-1.87],1.383782328864366e-17
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,51050,2848,1.29 [1.20-1.38],1.1913040314368552e-11
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Mycoses,51275,1003,1.27 [1.13-1.44],9.610475762136072e-05
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,49640,1853,1.38 [1.27-1.50],1.294721276900461e-13
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,51134,2137,1.43 [1.32-1.54],6.742469421320234e-19
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,48599,397,1.28 [1.06-1.55],0.0115451489191732
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,51375,101,1.31 [0.90-1.92],0.1629831419195091
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Other septicaemia,50866,1869,1.43 [1.32-1.56],4.556379170562709e-17
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,50914,151,1.13 [0.82-1.57],0.4494907995029691
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Other viral diseases,51212,314,1.21 [0.97-1.51],0.0987161422658753
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",51173,275,1.22 [0.96-1.55],0.0961556756677947
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,48625,838,1.56 [1.39-1.76],5.695293464227235e-14
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,48336,549,1.31 [1.11-1.54],0.001076855545692
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,48422,220,1.37 [1.07-1.76],0.012374931101641
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,51331,105,1.20 [0.84-1.73],0.3149432305052495
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,51245,303,1.19 [0.95-1.50],0.1312220916712044
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Viral warts,51042,100,1.06 [0.70-1.60],0.7921049298611882
+LGALS7_LGALS7B,Galectin-7,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],51070,128,1.23 [0.87-1.75],0.240219643168056
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Benign lipomatous neoplasm,50789,582,0.92 [0.77-1.09],0.3385150455891344
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,51200,113,0.81 [0.53-1.23],0.315792732775893
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,51163,124,0.89 [0.60-1.31],0.5478593957222211
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,23622,128,0.87 [0.60-1.26],0.4494708699604212
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",50722,2858,1.09 [1.01-1.18],0.0212638297750403
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Benign neoplasm of meninges,51347,114,0.79 [0.52-1.20],0.2633820542852934
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,51243,130,1.53 [1.13-2.07],0.005678883416615
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,51325,211,1.30 [0.99-1.69],0.0549817452098189
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Benign neoplasm of ovary,27622,179,0.90 [0.64-1.25],0.5233222548187877
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Benign neoplasm: Ascending colon,51330,713,1.17 [1.01-1.36],0.0406547133847525
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Benign neoplasm: Caecum,51332,591,1.11 [0.94-1.31],0.2387530082921534
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",51162,145,1.01 [0.72-1.42],0.9565136915981652
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Benign neoplasm: Descending colon,51324,429,1.08 [0.89-1.31],0.4476682356773167
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Benign neoplasm: Rectum,51246,699,1.02 [0.87-1.20],0.7680588942481005
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,51148,1221,1.13 [1.00-1.26],0.0454858880541274
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Benign neoplasm: Transverse colon,51311,860,1.02 [0.89-1.18],0.7309228621215639
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Carcinoma in situ of breast,22479,135,1.03 [0.70-1.49],0.8959687667086201
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",22572,165,0.87 [0.61-1.24],0.434107126780626
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",40950,100,1.04 [0.68-1.58],0.8639684916581805
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",40990,140,0.93 [0.64-1.34],0.6919715428634173
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",51277,242,1.17 [0.90-1.52],0.2275968380437797
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Haemangioma, any site",51278,237,1.17 [0.90-1.52],0.2466559302043952
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Leiomyoma of uterus,26707,591,1.07 [0.90-1.27],0.4195217119031861
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Lung cancer and mesothelioma,35642,659,1.30 [1.11-1.53],0.0009776138470025
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Lymphoid leukaemia,40950,100,1.15 [0.76-1.72],0.5155711246243995
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",41220,370,1.23 [1.00-1.52],0.0551820149283329
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",41253,403,1.06 [0.86-1.30],0.5919265803894248
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",22701,184,1.32 [0.99-1.77],0.0619507736539006
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",41009,159,0.83 [0.58-1.17],0.2791420678072289
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",41063,213,1.46 [1.14-1.87],0.0023763109667877
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",41040,190,1.29 [0.98-1.70],0.0669878785855808
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",22661,144,1.04 [0.72-1.50],0.8540153456818811
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",41034,184,1.35 [1.02-1.79],0.0378048269876447
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",19730,1397,1.00 [0.90-1.12],0.9939726855330092
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",41077,227,1.26 [0.97-1.63],0.0839179070042059
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",40995,145,0.96 [0.68-1.37],0.8386721206370354
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,41058,208,1.29 [0.98-1.70],0.0726922595481273
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Melanocytic naevi,50987,397,1.10 [0.89-1.36],0.3595486865460379
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Melanocytic naevi of trunk,51298,175,1.03 [0.75-1.41],0.8694497386530466
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Melanoma in situ,40917,162,1.04 [0.74-1.45],0.8362671255692481
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",41032,182,1.14 [0.84-1.54],0.3992805278634955
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",41171,321,1.19 [0.95-1.49],0.1394228710702597
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",41299,449,1.15 [0.95-1.38],0.1464957533359604
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",41049,199,1.36 [1.04-1.79],0.0264543063943808
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,Other benign neoplasms of skin,51018,307,1.14 [0.90-1.43],0.284703570437169
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",42992,2142,1.19 [1.09-1.30],0.0001164553761393
+LGALS7_LGALS7B,Galectin-7,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",43104,2254,1.19 [1.09-1.30],6.690993217025921e-05
+LGALS7_LGALS7B,Galectin-7,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,50790,677,1.05 [0.89-1.23],0.578730389453039
+LGALS7_LGALS7B,Galectin-7,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,47613,226,2.64 [2.32-3.00],3.093231772459312e-49
+LGALS7_LGALS7B,Galectin-7,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,50254,141,1.19 [0.85-1.66],0.3036042464593907
+LGALS7_LGALS7B,Galectin-7,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,49785,5762,1.33 [1.27-1.40],5.164841416541031e-29
+LGALS7_LGALS7B,Galectin-7,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,48433,99,1.90 [1.44-2.51],5.466380380985704e-06
+LGALS7_LGALS7B,Galectin-7,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,50545,102,1.27 [0.87-1.85],0.2149628693313156
+LGALS7_LGALS7B,Galectin-7,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,50402,3015,1.41 [1.32-1.50],1.2968666120921473e-23
+LGALS7_LGALS7B,Galectin-7,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,50400,3013,1.41 [1.32-1.50],1.2601552906584018e-23
+LGALS7_LGALS7B,Galectin-7,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,47558,171,1.44 [1.10-1.90],0.0086204201782027
+LGALS7_LGALS7B,Galectin-7,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,50719,2385,1.46 [1.35-1.57],1.2236119257188664e-23
+LGALS7_LGALS7B,Galectin-7,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,50667,224,1.62 [1.29-2.03],2.7039269291287345e-05
+LGALS7_LGALS7B,Galectin-7,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,50240,127,1.06 [0.74-1.53],0.7394268669105373
+LGALS7_LGALS7B,Galectin-7,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,50230,117,1.43 [1.03-1.99],0.0348580289604886
+LGALS7_LGALS7B,Galectin-7,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,50994,551,1.36 [1.16-1.59],0.0001779930959328
+LGALS7_LGALS7B,Galectin-7,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,51169,110,1.22 [0.84-1.77],0.2877496000329141
+LGALS7_LGALS7B,Galectin-7,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",50896,453,1.27 [1.06-1.53],0.0086513851455482
+LGALS7_LGALS7B,Galectin-7,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,48548,214,1.50 [1.17-1.92],0.0011984955210866
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,39729,630,1.79 [1.60-2.00],3.908440594539396e-25
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,47910,231,1.17 [0.90-1.52],0.2442950899502377
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,47929,250,1.77 [1.47-2.12],1.0883551409071744e-09
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,39205,106,0.85 [0.55-1.32],0.4751794204747388
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,47708,136,1.32 [0.96-1.81],0.0916824436629288
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,46577,468,1.30 [1.09-1.55],0.0034968356008123
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",50427,1137,1.21 [1.08-1.36],0.0013217593582057
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,49822,532,1.12 [0.94-1.34],0.2001524683119203
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,49544,254,0.89 [0.69-1.17],0.4154893712865886
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,50669,3097,1.19 [1.11-1.28],2.5058007182201617e-06
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,44749,3001,1.21 [1.12-1.30],4.4881063067063e-07
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",39231,132,1.32 [0.94-1.84],0.108398731367356
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",47365,161,1.59 [1.20-2.10],0.0011001380791243
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,39653,554,1.47 [1.26-1.70],4.447990865021975e-07
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,39221,122,0.73 [0.48-1.10],0.131832559587714
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,46143,7044,1.14 [1.08-1.19],2.839111811169579e-07
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,39490,391,1.23 [1.00-1.50],0.0453399686465766
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,40203,1104,1.28 [1.14-1.44],2.51185281951439e-05
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,51212,648,1.60 [1.40-1.83],3.127622644509724e-12
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,50837,273,2.06 [1.75-2.42],2.6902305158523585e-18
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,39352,253,1.17 [0.91-1.51],0.2165306918341447
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",39221,122,1.56 [1.14-2.13],0.0051333373375397
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,50294,3090,1.16 [1.08-1.25],0.0001060726778374
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,39612,513,1.90 [1.69-2.15],4.9173061333681636e-26
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,39696,597,2.05 [1.85-2.27],6.886531335693755e-44
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",40363,1264,1.20 [1.07-1.34],0.0017725946732675
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,39337,238,1.56 [1.26-1.92],3.755433029908943e-05
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,50820,256,2.04 [1.72-2.41],2.447259180543528e-16
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,40298,1199,1.39 [1.25-1.54],1.6815451197536011e-09
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,40054,955,1.20 [1.06-1.37],0.0055996486871375
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,46250,141,1.58 [1.20-2.10],0.0013337435848238
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,49016,9917,1.16 [1.12-1.21],3.857628293063031e-13
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,47302,98,1.13 [0.75-1.71],0.5565388784465365
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,47313,109,1.09 [0.73-1.62],0.6904015012683169
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,51004,3876,1.09 [1.01-1.16],0.017143900011123
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",51006,3871,1.09 [1.02-1.16],0.016476301916388
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,47306,102,0.75 [0.48-1.17],0.201066449960978
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,50688,2399,1.21 [1.12-1.32],4.376499310474791e-06
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",42244,3145,1.44 [1.36-1.54],2.022658174070537e-30
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,51349,455,1.60 [1.38-1.86],1.0077338323720451e-09
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,49456,166,1.48 [1.15-1.92],0.0027270678376759
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,48495,206,1.18 [0.89-1.56],0.2507260985653194
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,48571,282,0.95 [0.74-1.24],0.7260738330298551
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",39428,329,1.45 [1.18-1.79],0.0004842790306297
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,46747,308,1.02 [0.81-1.29],0.8505030928575514
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,4224,172,1.58 [1.20-2.08],0.0010313460126863
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,4498,500,1.15 [0.97-1.37],0.1096457373679358
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,46566,127,1.58 [1.18-2.11],0.0020793984463517
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,4163,114,2.98 [2.37-3.74],4.366028903255692e-21
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,50096,3657,0.87 [0.81-0.93],7.84728676871125e-05
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,49994,704,1.18 [1.01-1.37],0.0332293252301765
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,46838,729,1.24 [1.07-1.43],0.0040003569243368
+LGALS7_LGALS7B,Galectin-7,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,40639,1540,1.51 [1.38-1.64],1.658284413756671e-20
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",51149,477,1.61 [1.38-1.88],1.5312482268673595e-09
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),49130,327,1.32 [1.08-1.61],0.0078108399824563
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Angina pectoris,46904,2377,1.18 [1.09-1.28],6.405794167479589e-05
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Aortic aneurysm,49280,477,1.22 [1.03-1.46],0.023923941460125
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,48923,120,1.53 [1.15-2.04],0.0036314103323843
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",49205,402,1.57 [1.34-1.85],3.451758327588419e-08
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,31883,3796,1.24 [1.16-1.32],1.887903304601971e-11
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,AV-block,43274,862,1.27 [1.11-1.45],0.0003633235252081
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",51256,843,1.37 [1.21-1.56],1.0053451018244125e-06
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Cardiac arrest,28470,383,1.65 [1.41-1.92],2.1465882646606628e-10
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Cardiomyopathy,42752,340,1.37 [1.12-1.67],0.0020637876050927
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",42604,192,1.68 [1.34-2.10],7.611168412516494e-06
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,51372,101,1.30 [0.91-1.88],0.1532641917264182
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Conduction disorders,44508,2096,1.30 [1.19-1.41],1.0510395614937267e-09
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,48637,4145,1.21 [1.14-1.28],1.739927481032814e-09
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,44827,15030,1.07 [1.04-1.11],4.298009684550456e-05
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,DVT of lower extremities,48626,516,1.58 [1.36-1.83],3.172018069280399e-09
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Endocarditis,42558,146,1.15 [0.82-1.61],0.4106493875780962
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,"Heart failure, strict",50963,2191,1.37 [1.27-1.49],1.0508255877607222e-15
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Hypertension,46644,12911,1.09 [1.05-1.13],2.4352059715749687e-06
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,"Hypertension, essential",46681,12948,1.10 [1.06-1.14],1.985272791692329e-07
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,"Hypertension, portal",51030,151,1.31 [0.97-1.76],0.082537200386527
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",34084,351,1.68 [1.42-1.99],1.2223664424956592e-09
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,34008,275,3.12 [2.81-3.46],3.1905079354695373e-103
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Hypotension,51085,2352,1.38 [1.28-1.49],1.9385043618936843e-16
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,49549,215,1.07 [0.81-1.42],0.6230566123099637
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",48973,4446,1.18 [1.11-1.25],7.065854269445264e-08
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",50629,1106,1.18 [1.05-1.33],0.0064022117292199
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Left bundle-branch block,43132,720,1.30 [1.13-1.50],0.0002399198708634
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,50417,1680,1.23 [1.12-1.35],1.7547968670272873e-05
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",45942,1415,1.28 [1.16-1.42],1.5685296745010653e-06
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",51187,313,1.15 [0.92-1.44],0.2123186417257457
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",51316,619,1.27 [1.09-1.49],0.0020316221464453
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Oesophageal varices,48216,106,0.93 [0.62-1.40],0.7334634197847723
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Other aneurysm,48959,156,1.33 [0.99-1.79],0.0586152198246056
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Other arrhythmias,43252,840,1.22 [1.07-1.40],0.0039263548488106
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,49004,201,1.58 [1.27-1.96],4.2706535719687104e-05
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,49276,473,1.50 [1.29-1.75],2.89589906466662e-07
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,42769,357,1.42 [1.17-1.72],0.0004293382630963
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Other disorders of veins,48305,195,1.28 [0.97-1.68],0.0798454318823753
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,48207,97,1.24 [0.84-1.84],0.2759548288134283
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,48528,131,1.25 [0.90-1.74],0.1812910509120581
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,48380,270,1.47 [1.17-1.85],0.0008089208385555
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,44482,2070,1.37 [1.26-1.48],2.3715659008156028e-14
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,48843,110,1.30 [0.90-1.86],0.1580694706082448
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,49881,1078,1.41 [1.27-1.57],5.542041617829135e-10
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,50151,690,1.48 [1.30-1.69],6.241767511673475e-09
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",49615,1218,1.29 [1.16-1.44],5.124850000463827e-06
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,28763,676,1.16 [0.99-1.35],0.068907154762852
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Peripheral artery disease,49549,809,1.46 [1.30-1.65],4.165963037686824e-10
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),48784,674,1.44 [1.25-1.66],3.165234519494065e-07
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Pulmonary embolism,50406,945,1.34 [1.18-1.51],3.678946202739455e-06
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,51231,1308,1.29 [1.16-1.43],2.390967272838316e-06
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Right bundle-branch block,43109,697,1.38 [1.20-1.59],4.793473248110284e-06
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Secondary right heart disease,50140,679,1.47 [1.29-1.68],1.4768856910461312e-08
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,48783,386,1.54 [1.30-1.83],7.382551670604265e-07
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",50606,1272,1.16 [1.04-1.30],0.0069931027940761
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",50565,1346,1.17 [1.05-1.30],0.0045596823362023
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,49493,115,1.19 [0.82-1.74],0.3646851672502006
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,48962,160,1.17 [0.85-1.61],0.3261631083873491
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Transient ischemic attack,49991,468,1.11 [0.92-1.34],0.265837685932817
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,49258,521,1.19 [1.01-1.41],0.0435410445018234
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Varicose veins,48942,832,1.19 [1.04-1.37],0.0135928389772047
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,48833,169,1.37 [1.02-1.83],0.0342551175295245
+LGALS7_LGALS7B,Galectin-7,Chapter IX Diseases of the circulatory system,Venous thromboembolism,50921,1482,1.34 [1.22-1.48],4.322752618600728e-09
+LGALS7_LGALS7B,Galectin-7,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",51131,714,1.25 [1.08-1.44],0.0021632463600457
+LGALS7_LGALS7B,Galectin-7,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",44941,2837,1.21 [1.12-1.31],8.227903459652069e-07
+LGALS7_LGALS7B,Galectin-7,Chapter V Mental and behavioural disorders,Any mental disorder,50070,7966,1.16 [1.11-1.21],3.3792173145483917e-10
+LGALS7_LGALS7B,Galectin-7,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",51036,844,1.25 [1.10-1.43],0.0007545067626429
+LGALS7_LGALS7B,Galectin-7,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",45258,3154,1.21 [1.13-1.30],2.251725768144408e-07
+LGALS7_LGALS7B,Galectin-7,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",42284,180,1.52 [1.17-1.98],0.0017027051338625
+LGALS7_LGALS7B,Galectin-7,Chapter V Mental and behavioural disorders,Smoking dependency,50313,2719,1.13 [1.04-1.22],0.0027940076919728
+LGALS7_LGALS7B,Galectin-7,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",45345,3241,1.18 [1.09-1.26],8.28201982450275e-06
+LGALS7_LGALS7B,Galectin-7,Chapter V Mental and behavioural disorders,Vascular dementia,50355,257,1.18 [0.92-1.51],0.1990065693150829
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Alzheimer disease,51373,661,1.12 [0.95-1.31],0.1670759494369591
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",34629,117,1.16 [0.80-1.69],0.4352663162820549
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Bell's palsy,47845,159,1.43 [1.07-1.90],0.0144060238962955
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,48665,979,1.11 [0.97-1.26],0.1335001167211207
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Cerebral cysts,50563,459,1.25 [1.05-1.50],0.014209501080003
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,51216,638,1.37 [1.19-1.59],1.865296943486561e-05
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,50372,97,1.20 [0.80-1.80],0.3794590866354749
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,51340,120,0.87 [0.59-1.29],0.4989911874180759
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",50251,147,1.28 [0.94-1.76],0.1210467082104009
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Epilepsy,48259,574,1.09 [0.92-1.29],0.3149554927185338
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,50418,2733,1.09 [1.00-1.17],0.0401406620273802
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,51291,1200,0.99 [0.88-1.12],0.8779854114954486
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Falls/tendency to fall,50189,5140,1.14 [1.08-1.21],3.824203036862348e-06
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Generalized epilepsy,50607,107,1.13 [0.77-1.66],0.5342062555695544
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Hemiplegia,51077,499,1.46 [1.24-1.70],3.200111240387834e-06
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Hydrocephalus,50227,123,1.09 [0.75-1.59],0.6343582375214155
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,51336,138,1.20 [0.86-1.68],0.2873397636427854
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,47831,145,1.59 [1.20-2.11],0.0013967067543141
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,47844,158,1.25 [0.92-1.70],0.1548137322478329
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Memory loss,50062,218,1.42 [1.11-1.82],0.00582316204864
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Migraine,48396,711,1.11 [0.95-1.30],0.1836280540434427
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",51235,639,1.11 [0.94-1.31],0.2212229074477071
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Motor neuron disease,34823,272,1.29 [1.01-1.64],0.0387193202015917
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,51039,209,1.00 [0.74-1.35],0.9877754890679048
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",50048,2362,1.22 [1.12-1.32],2.0091934345058352e-06
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Neurological diseases,48431,7484,1.14 [1.09-1.20],2.460212355908485e-08
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,50676,401,1.11 [0.90-1.35],0.3280227792309539
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",48501,815,1.11 [0.96-1.28],0.1679673556394976
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",51222,582,1.31 [1.12-1.53],0.0006578474013176
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,40876,1293,1.18 [1.06-1.32],0.0037152419031611
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,50249,145,0.94 [0.66-1.34],0.7349246960169851
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Other disorders of nervous system,50379,275,1.34 [1.07-1.67],0.0113717029112081
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,50415,324,1.17 [0.94-1.46],0.1680271197604639
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Other facial nerve disorders,47875,189,1.42 [1.09-1.85],0.0090334375765015
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Other headache syndromes,47797,112,1.04 [0.70-1.55],0.831084824276169
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Other neurological diseases,51134,1030,1.18 [1.04-1.33],0.0105357958311672
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Other sleep disorders,48803,1118,1.07 [0.95-1.21],0.2582706025732756
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Parkinson's disease,51329,853,0.83 [0.72-0.97],0.0158538071553183
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,50213,109,1.19 [0.81-1.76],0.3797808847494813
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Restless leg syndrome,51373,155,1.24 [0.90-1.70],0.189167022986359
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Sleep apnoea,50889,962,1.11 [0.98-1.27],0.1038984965032392
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Small fibre neuropathy,50740,100,1.54 [1.08-2.21],0.0174739354684027
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,51348,328,1.21 [0.97-1.50],0.0875675547027003
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,47784,98,1.52 [1.07-2.16],0.0206664441660012
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,51373,668,1.13 [0.97-1.33],0.1136586554985124
+LGALS7_LGALS7B,Galectin-7,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),50280,250,1.22 [0.96-1.57],0.107768734331761
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,50232,198,1.17 [0.88-1.56],0.2858597696425288
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,50555,781,0.95 [0.82-1.11],0.5339085289802081
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,51030,463,0.90 [0.74-1.09],0.2788716513808628
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,49383,105,0.61 [0.39-0.96],0.0311801217296019
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,49392,114,0.95 [0.63-1.41],0.7867522817306192
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",51162,101,1.12 [0.75-1.68],0.5767578587547313
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,50855,291,0.90 [0.69-1.16],0.3960024846503945
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",4174,122,2.85 [2.28-3.56],3.180246328783111e-20
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,5052,203,1.61 [1.27-2.04],0.0001019627728951
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,50223,189,1.28 [0.97-1.70],0.0838983725405176
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,50942,2059,0.94 [0.85-1.03],0.1869388909708591
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",50649,1371,0.98 [0.87-1.10],0.6861684025249237
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,49719,441,0.86 [0.70-1.06],0.1633410876752802
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",51204,1430,1.00 [0.89-1.12],0.9911524963633772
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,51355,136,1.09 [0.76-1.54],0.6496817954810854
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,51054,1280,0.95 [0.85-1.08],0.4518650525666692
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",51286,722,0.84 [0.72-0.99],0.0425818160482163
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,51187,357,0.68 [0.54-0.87],0.0018154305940791
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,49396,118,1.33 [0.94-1.88],0.1082927362117217
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,49407,129,0.96 [0.67-1.39],0.8467821688140589
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,49387,109,0.96 [0.64-1.44],0.8323640640229631
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,51191,1415,1.00 [0.89-1.11],0.9507977386914108
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,50144,368,1.05 [0.85-1.31],0.6336036271818153
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,49871,97,1.20 [0.80-1.81],0.3721841636237741
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,50761,197,0.69 [0.50-0.95],0.0213164882431547
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,51104,540,0.93 [0.77-1.12],0.453200366438928
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,50161,387,0.90 [0.72-1.12],0.3361618415989572
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,51048,218,0.68 [0.50-0.93],0.0156544808627308
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,50719,943,1.02 [0.89-1.17],0.7926896933220859
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,50315,281,1.31 [1.04-1.64],0.0196387049771793
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,48197,4316,1.05 [0.99-1.12],0.1090323238371615
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,51034,470,0.91 [0.74-1.11],0.3357975286712197
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,51335,301,1.03 [0.81-1.31],0.7821814342169708
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,50086,808,0.95 [0.82-1.10],0.4898204070688079
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,50691,127,0.70 [0.47-1.04],0.0797264985280508
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,51329,110,0.98 [0.65-1.47],0.919754400609942
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,49446,168,0.97 [0.70-1.35],0.8680932225719177
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,49572,294,0.80 [0.62-1.04],0.0920359897387737
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,49122,239,0.77 [0.58-1.02],0.0699893480940703
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,49898,124,1.11 [0.77-1.61],0.5707194538124217
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",49008,125,0.75 [0.51-1.12],0.1664362486672167
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,49950,174,0.86 [0.61-1.20],0.3714905325099387
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",50162,386,1.00 [0.81-1.24],0.9793428747445406
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,49529,251,0.92 [0.70-1.20],0.5360835911779513
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,49103,220,0.91 [0.68-1.22],0.5336999536075582
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,49055,172,1.07 [0.78-1.46],0.6857600357870033
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,47461,3580,1.09 [1.01-1.17],0.0177182690260375
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,49421,143,0.81 [0.56-1.16],0.2501934998628437
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,50857,823,1.25 [1.09-1.43],0.0010799112667791
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,50153,119,1.36 [0.98-1.89],0.0692684225445458
+LGALS7_LGALS7B,Galectin-7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),50373,339,1.18 [0.95-1.46],0.1343601930184646
+LGALS7_LGALS7B,Galectin-7,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,50954,175,1.49 [1.14-1.95],0.0039080994370575
+LGALS7_LGALS7B,Galectin-7,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,51284,238,1.31 [1.02-1.67],0.031348278220132
+LGALS7_LGALS7B,Galectin-7,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,51111,259,1.19 [0.93-1.52],0.1586442696231749
+LGALS7_LGALS7B,Galectin-7,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,50897,118,1.15 [0.80-1.67],0.4515382836636379
+LGALS7_LGALS7B,Galectin-7,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,50904,125,1.44 [1.03-2.01],0.0340598258695596
+LGALS7_LGALS7B,Galectin-7,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,51182,1785,1.29 [1.18-1.41],3.4864180644158926e-08
+LGALS7_LGALS7B,Galectin-7,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,50672,1275,1.27 [1.14-1.42],1.3667835506112376e-05
+LGALS7_LGALS7B,Galectin-7,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,49646,249,1.41 [1.12-1.77],0.0034774507657504
+LGALS7_LGALS7B,Galectin-7,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,49570,173,1.38 [1.05-1.83],0.0230565668983946
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Acute pharyngitis,50888,148,1.27 [0.92-1.74],0.145412016904956
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,51161,421,1.21 [0.99-1.46],0.0564003932183915
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,50867,127,1.22 [0.86-1.72],0.261523934629256
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,All influenza,47367,232,1.48 [1.17-1.87],0.0009613847422528
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),47362,227,1.45 [1.14-1.84],0.0024768409762551
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Allergic asthma (mode),35210,227,1.19 [0.90-1.56],0.2177472213112734
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Allergic rhinitis,51108,548,0.88 [0.73-1.06],0.1671023125970821
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",37953,3502,1.09 [1.01-1.17],0.0222198368395571
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",38431,3448,1.09 [1.01-1.17],0.0260254124618274
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),50566,269,1.43 [1.15-1.78],0.001084151024086
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",47297,162,1.34 [1.00-1.79],0.0467241030562589
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Bronchiectasis,44551,699,1.17 [1.01-1.36],0.0396657033109315
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",43968,116,1.37 [0.97-1.94],0.0779089621779853
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,49370,5518,1.10 [1.04-1.16],0.0005730883003135
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",48646,141,1.01 [0.71-1.45],0.9347035982307008
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Chronic sinusitis,48814,309,0.81 [0.63-1.04],0.0980066005363941
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",50977,2359,1.23 [1.14-1.33],2.2098757012453986e-07
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Deviated nasal septum,48720,215,0.88 [0.66-1.18],0.4066691800166155
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,47269,10439,1.16 [1.11-1.21],1.805844818669664e-13
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",49226,721,1.00 [0.85-1.16],0.9522410713599244
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Early onset COPD,49240,622,1.27 [1.09-1.48],0.0020896535965011
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Emphysema,44472,620,1.18 [1.01-1.38],0.0337605757137072
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,48796,564,1.40 [1.20-1.63],1.4492960964725054e-05
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Influenza and pneumonia,50928,3793,1.40 [1.32-1.48],2.0451961742813888e-28
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Interstitial lung disease,48865,633,1.41 [1.22-1.63],2.654127045467578e-06
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Later onset COPD,49386,1737,1.20 [1.10-1.32],8.021127072317712e-05
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,51348,654,1.35 [1.17-1.56],3.370571909664157e-05
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Nasal polyp,48718,213,1.06 [0.80-1.40],0.6820991929720808
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,50883,1931,1.36 [1.25-1.48],7.024174582001757e-13
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Other diseases of pleura,50902,3956,1.31 [1.23-1.39],1.7274428396610325e-18
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,50158,1653,0.92 [0.83-1.02],0.1152611037848407
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Other pleural conditions,47048,102,1.52 [1.07-2.16],0.0185818651043089
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,51198,793,1.54 [1.36-1.74],2.6933703424874e-12
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,51162,2581,1.32 [1.23-1.42],1.982714748416395e-13
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Pleural effusion,48921,1975,1.35 [1.24-1.46],2.689136285329019e-12
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Pleural plaque,47251,305,1.36 [1.11-1.67],0.0027678560198719
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",50439,3304,1.42 [1.33-1.51],1.3394011191610057e-27
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,51218,524,1.36 [1.16-1.59],0.0001910136197374
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Pneumothorax,47178,232,1.34 [1.05-1.72],0.0178197889041773
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Pollen allergy,51326,468,0.84 [0.69-1.03],0.1021791377131613
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Pulmonary oedema,50536,131,2.00 [1.61-2.50],7.051480428759464e-10
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Respiratory insufficiency,35089,106,1.61 [1.14-2.28],0.0071539322771944
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,50839,1887,1.36 [1.25-1.48],9.704208566517108e-13
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,49055,550,0.88 [0.73-1.06],0.1720383786928547
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Viral pneumonia,47628,493,1.33 [1.12-1.57],0.0011065267547282
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",50599,406,1.34 [1.12-1.61],0.0015564950436624
+LGALS7_LGALS7B,Galectin-7,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,23668,217,1.10 [0.83-1.47],0.5081726751323024
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,36288,126,1.16 [0.81-1.67],0.4115796605957467
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Acute appendicitis,51060,287,0.98 [0.76-1.26],0.8503758305045437
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Acute gastritis,38647,182,1.25 [0.93-1.67],0.1370483457512559
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Acute pancreatitis,47700,368,1.35 [1.11-1.64],0.0031525955976926
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Acute peritonitis,50431,187,2.10 [1.74-2.54],2.309209771310905e-14
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Alcoholic liver disease,49596,147,1.36 [1.02-1.81],0.0348081842563279
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Barrett oesophagus,39329,864,1.08 [0.94-1.25],0.275385542744496
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",47532,200,1.51 [1.18-1.94],0.0012842313896726
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",50530,200,1.49 [1.16-1.91],0.0018999411701454
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Cholecystitis,47741,409,1.30 [1.08-1.57],0.0058734052304269
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Cholelithiasis,49315,1983,1.25 [1.15-1.37],6.546977549904511e-07
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Chronic gastritis,39077,612,1.16 [0.98-1.37],0.0785075782586124
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Chronic pancreatitis,47431,99,1.53 [1.08-2.17],0.0161081599556206
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",51087,208,1.14 [0.87-1.49],0.3484275250991953
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Coeliac disease,48166,243,1.32 [1.03-1.70],0.0297245729344006
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Collagenous colitis,48025,164,1.35 [1.00-1.83],0.0501717850144648
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,51071,370,1.14 [0.92-1.40],0.2228171864063513
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Constipation,50859,3330,1.24 [1.16-1.32],8.922239210845358e-10
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Crohn disease,48048,187,1.24 [0.93-1.66],0.1453902066865261
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",50664,137,0.95 [0.66-1.37],0.7692144951834591
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Crohn's disease NAS,48037,176,1.49 [1.14-1.96],0.00387025673591
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Dental caries,49895,457,1.16 [0.96-1.40],0.1196293193685576
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,46121,4424,1.15 [1.08-1.23],5.375668765296391e-06
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Diseases of appendix,51133,360,1.06 [0.85-1.32],0.6294636493366836
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Diseases of liver,51130,1681,1.15 [1.04-1.27],0.005415010165669
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",47068,8603,1.09 [1.04-1.14],0.0002406988586235
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",50544,1106,1.09 [0.96-1.23],0.1756864689190927
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Diseases of peritoneum,51201,957,1.24 [1.09-1.41],0.0010928975626382
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,49668,230,1.02 [0.78-1.35],0.8696645231467689
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Diseases of salivary glands,49371,131,1.38 [1.00-1.91],0.0477333973367094
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Diseases of the digestive system,50754,2831,1.28 [1.19-1.38],1.3873722825701899e-11
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Diseases of tongue,49400,222,1.30 [1.01-1.68],0.0444772408992263
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",50126,2794,1.25 [1.16-1.35],2.462664696880025e-09
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,42426,6264,1.15 [1.09-1.21],1.2139087124867978e-07
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Duodenal ulcer,38859,394,1.43 [1.19-1.72],0.0001331803621532
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",51207,316,1.29 [1.05-1.60],0.0167736884858423
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,51199,110,1.29 [0.89-1.87],0.1747701113104789
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,49700,251,1.22 [0.96-1.56],0.1025481436333001
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,36455,293,1.17 [0.92-1.48],0.2048909792433886
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Functional dyspepsia,39558,1093,1.07 [0.94-1.21],0.3022993581683629
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Gastric ulcer,39179,714,1.22 [1.05-1.42],0.0080003293953629
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,43441,4976,1.09 [1.03-1.16],0.0040588714991677
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,39532,1067,1.26 [1.12-1.42],0.0001291562264665
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,39778,16493,1.07 [1.04-1.11],4.779801100737009e-05
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,GI-bleeding,50246,2323,1.28 [1.19-1.39],7.82711941397021e-10
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,49546,108,1.25 [0.86-1.83],0.2404646173447784
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,38099,2503,1.09 [1.00-1.19],0.0447302332207699
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",49574,125,1.61 [1.21-2.15],0.0010245609324823
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Hernia,48136,6439,1.10 [1.04-1.15],0.0004340259571034
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Impacted teeth,51212,102,1.13 [0.76-1.70],0.5443200756334752
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Impaction of intestines,36270,108,1.60 [1.13-2.27],0.0075298915231549
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Inguinal hernia,43483,1786,0.94 [0.86-1.04],0.2627432956855033
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",41903,206,1.00 [0.75-1.33],0.9933427374207092
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,36353,191,1.11 [0.82-1.50],0.5168384294447472
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Intestinal malabsorption,48204,281,1.33 [1.06-1.68],0.0153667628280438
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,37253,1091,1.19 [1.05-1.35],0.0065926819169128
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,51316,738,1.03 [0.88-1.20],0.708915070672389
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,49359,1498,1.14 [1.03-1.27],0.013275177336657
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,49860,1999,1.16 [1.06-1.27],0.0009917370110273
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Oesophageal obstruction,38837,372,1.12 [0.90-1.38],0.307083785858492
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Oesophagitis,39668,1203,1.18 [1.05-1.32],0.0056396244357625
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,51273,268,0.85 [0.65-1.11],0.2372743460424519
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,41834,137,1.25 [0.90-1.75],0.1845626212766135
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,38870,2708,1.10 [1.01-1.19],0.020884612538313
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,47890,558,1.38 [1.18-1.62],6.649075210996375e-05
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,47647,315,1.22 [0.97-1.52],0.0901129199384788
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Other diseases of intestine,39639,3477,1.15 [1.07-1.23],0.0001265911619498
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Other diseases of intestines,47377,11215,1.12 [1.08-1.17],4.628053424054267e-09
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,49350,408,0.89 [0.72-1.11],0.3044637299175384
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Other diseases of liver,50824,1375,1.11 [1.00-1.24],0.0581048960150794
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,39780,1315,1.11 [0.99-1.24],0.0701117034545544
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Other diseases of pancreas,47635,303,1.37 [1.10-1.70],0.0041936949874587
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,51064,820,1.03 [0.89-1.20],0.6632987489351714
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,40357,1892,1.18 [1.07-1.30],0.0005574752302007
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,50277,2354,1.28 [1.19-1.39],6.075059009713455e-10
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,49810,372,1.04 [0.84-1.29],0.7011544159219396
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,39587,3425,1.25 [1.17-1.34],7.941598204591697e-11
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),42461,3996,1.15 [1.07-1.22],3.4923120128919064e-05
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,49646,197,1.05 [0.79-1.42],0.7249957260236669
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,49613,1752,1.17 [1.06-1.28],0.0016741145664516
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",36845,683,1.23 [1.05-1.43],0.00891291560295
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,51180,130,1.23 [0.87-1.74],0.2369731989609522
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,37136,974,1.22 [1.08-1.39],0.0021780366127017
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",48220,297,1.32 [1.06-1.65],0.0127002090692407
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Recurring oral aphthae,51351,110,0.91 [0.60-1.37],0.6386273454461632
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,49448,233,1.00 [0.76-1.33],0.97266198945493
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Toxic colitis,47972,111,1.33 [0.92-1.93],0.1237266214166884
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,38995,530,1.04 [0.87-1.25],0.667955001776042
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Ulcerative colitis,48182,321,1.34 [1.08-1.66],0.0080112591448192
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",48127,266,1.31 [1.03-1.66],0.0264434776715691
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Umbilical hernia,42241,544,1.23 [1.04-1.45],0.014587599232116
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,36506,344,1.37 [1.11-1.69],0.0029764459399318
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Ventral hernia,42214,517,1.15 [0.96-1.37],0.1273981485360198
+LGALS7_LGALS7B,Galectin-7,Chapter XI Diseases of the digestive system,Volvulus,36321,159,1.12 [0.80-1.56],0.5109755072540569
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,51212,589,1.31 [1.12-1.54],0.0010184340760901
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,50732,146,1.01 [0.71-1.43],0.9660308591724251
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,47291,321,1.28 [1.02-1.60],0.029795894137977
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,50109,1395,1.38 [1.25-1.52],1.4341455633544078e-10
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",49062,348,1.36 [1.12-1.66],0.0019699048784168
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,47781,811,1.53 [1.36-1.73],4.718330236676635e-12
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,50763,548,1.52 [1.30-1.76],5.99688194074436e-08
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,51172,957,1.44 [1.28-1.62],8.069707838097157e-10
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,50311,96,1.19 [0.79-1.79],0.4097061233777568
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,48279,6382,1.21 [1.15-1.27],2.5495370398111665e-14
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,50470,892,1.08 [0.94-1.23],0.3029351982127305
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,50208,630,1.06 [0.90-1.25],0.4718746027210145
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,50593,1879,1.35 [1.24-1.47],1.1161994371201778e-11
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",51341,106,0.78 [0.50-1.20],0.2606080472461868
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,47085,115,1.10 [0.75-1.63],0.6290253382698188
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,49680,102,1.04 [0.69-1.57],0.8389093275330775
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,50742,527,1.52 [1.30-1.77],9.43879990309397e-08
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,47878,908,1.15 [1.01-1.32],0.0383023737483875
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,47096,126,1.37 [0.98-1.91],0.0696586358067069
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,51200,165,1.53 [1.17-2.01],0.0018736339808364
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,49083,369,1.38 [1.14-1.67],0.0010492889366124
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,50972,386,1.26 [1.04-1.54],0.0208075361043884
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,50343,128,1.82 [1.39-2.38],1.3243555086082591e-05
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,47102,132,1.38 [1.00-1.92],0.0515137568293752
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,50224,3254,1.27 [1.18-1.36],1.478783810950997e-11
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",47955,985,1.14 [1.00-1.30],0.0507312099957704
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,47104,134,1.33 [0.95-1.85],0.0919313446545413
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,51196,610,1.08 [0.91-1.27],0.3838665441738095
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,50353,138,1.14 [0.81-1.61],0.4629717843317195
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,51087,501,1.15 [0.96-1.38],0.1282503404816264
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,51268,645,1.25 [1.07-1.47],0.0047678643471135
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,47221,251,1.33 [1.04-1.70],0.0213788867714891
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,47503,533,1.11 [0.93-1.33],0.2487404274179277
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,51247,624,1.27 [1.08-1.49],0.0030660016721604
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",47443,473,1.57 [1.35-1.83],6.558369358013291e-09
+LGALS7_LGALS7B,Galectin-7,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,51313,278,1.48 [1.19-1.83],0.0003652488253941
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,44092,219,0.98 [0.74-1.31],0.9033175914416752
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,46777,11209,1.16 [1.12-1.21],1.684259228048084e-14
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,43972,8404,1.12 [1.07-1.18],3.775475568832857e-07
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,44024,151,1.02 [0.73-1.44],0.8917499399264592
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,44549,302,1.31 [1.05-1.64],0.0161023758119289
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,44599,352,1.43 [1.17-1.75],0.0004217631365509
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,50876,181,1.20 [0.89-1.61],0.2237475866424489
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",44445,198,1.10 [0.81-1.48],0.5396962617975258
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,37821,2253,1.12 [1.03-1.22],0.0101155075148652
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",51102,376,0.92 [0.74-1.15],0.460925693876255
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,45132,885,1.23 [1.07-1.41],0.0029591896615037
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,43443,14425,1.14 [1.10-1.18],2.1491597280079898e-13
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,47433,231,1.27 [0.98-1.64],0.0660221810407788
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,44169,296,1.28 [1.02-1.60],0.0316950219564988
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,45001,1128,1.04 [0.92-1.18],0.5063653074369946
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,49528,5281,1.21 [1.14-1.28],1.4426960163494664e-11
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,44415,542,0.89 [0.74-1.07],0.2121993912990078
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,44310,437,1.21 [1.00-1.48],0.0557565317283471
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,44138,265,1.06 [0.81-1.37],0.6775972601856777
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,50102,137,1.19 [0.84-1.69],0.3325481824192043
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,38939,3371,1.17 [1.09-1.25],1.720977979508225e-05
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,36773,1205,1.90 [1.74-2.07],5.790330866178488e-48
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",51221,1188,1.84 [1.69-2.01],4.375564042161494e-42
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,35717,149,1.25 [0.90-1.73],0.1790404073629358
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),36219,651,1.16 [0.99-1.37],0.0745954339671018
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,44477,604,1.09 [0.92-1.29],0.3339703120488967
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,36836,1268,1.20 [1.07-1.34],0.0019012622518943
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,44357,110,1.39 [0.96-2.00],0.0782795031113886
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,45495,1248,1.32 [1.18-1.47],6.274711766099492e-07
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,44849,602,1.17 [0.99-1.39],0.0588230653539776
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,36752,1184,1.18 [1.05-1.33],0.0054852951840952
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,44032,159,1.36 [1.01-1.83],0.0430686986918388
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",43994,121,1.50 [1.09-2.08],0.0142157779033319
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,47346,144,1.48 [1.11-1.98],0.0073063787793491
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,50600,3398,1.12 [1.05-1.21],0.001227853738881
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,49424,2222,1.06 [0.96-1.16],0.2343606300625155
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",51086,898,1.15 [1.00-1.31],0.0504871973488613
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,40507,4939,1.14 [1.08-1.21],5.760930039226168e-06
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,35693,125,1.17 [0.81-1.69],0.3913136642174691
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,44057,184,1.15 [0.85-1.55],0.3750565202291714
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,35665,97,1.74 [1.25-2.42],0.0010929596382828
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),35816,248,1.10 [0.84-1.44],0.4805785137911842
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,47680,478,1.38 [1.16-1.64],0.0002302512008647
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,47960,758,1.20 [1.03-1.39],0.0195725566861354
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,51307,198,1.22 [0.92-1.61],0.1694675390775724
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",47823,3576,1.21 [1.14-1.30],1.305782611645929e-08
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,44072,199,0.92 [0.68-1.26],0.6168964525198384
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),35840,272,1.45 [1.16-1.82],0.001072488267097
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,45684,1437,1.26 [1.13-1.39],2.164722940859712e-05
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,39834,4266,1.20 [1.13-1.28],5.001922240635297e-09
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,50151,186,1.40 [1.06-1.85],0.0174627626194471
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,51336,139,1.01 [0.71-1.44],0.9493563439139088
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,44035,162,0.96 [0.69-1.34],0.822359090395425
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",46349,2476,1.24 [1.14-1.34],1.436733073891438e-07
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,44050,177,1.34 [1.01-1.78],0.043872148949252
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,38776,3208,1.20 [1.11-1.29],7.751282171348359e-07
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,47423,221,1.50 [1.18-1.91],0.0008373897324664
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,43981,108,1.47 [1.03-2.10],0.0327605170012314
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,44560,313,1.37 [1.11-1.71],0.0041830937306441
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,44972,1099,1.29 [1.15-1.45],2.0382620604249705e-05
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,50663,698,1.14 [0.98-1.33],0.0985540880754336
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,45390,1143,1.27 [1.13-1.42],7.065763877150151e-05
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,51110,872,1.13 [0.98-1.30],0.0823002006051144
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,51329,107,1.16 [0.78-1.71],0.471188224758594
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,44256,383,1.06 [0.85-1.31],0.612134004964703
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,40707,1497,1.34 [1.21-1.48],8.40528975914761e-09
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,45033,1160,1.29 [1.15-1.45],1.0973489907475047e-05
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],44327,454,0.82 [0.67-1.00],0.0533365711363776
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",35676,108,1.00 [0.66-1.52],0.9955727575661274
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,40496,4928,1.30 [1.23-1.37],2.5525278784600434e-20
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,36872,1304,1.04 [0.93-1.17],0.4967085091502424
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,50425,460,1.16 [0.96-1.41],0.1208359416631663
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",51241,132,1.52 [1.11-2.07],0.0081579019171482
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",47063,101,1.42 [0.99-2.03],0.0565164151436647
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,35710,142,1.09 [0.76-1.54],0.6457466980202871
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,44450,203,1.17 [0.87-1.56],0.2937512737038514
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,36478,910,1.19 [1.04-1.36],0.0116741608889125
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,44484,611,1.20 [1.02-1.41],0.0303403913236241
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,44744,497,1.34 [1.13-1.60],0.0007990979005111
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,44620,373,1.32 [1.07-1.62],0.0083619799972062
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,40193,117,1.24 [0.85-1.80],0.2586156372177295
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",51337,115,1.14 [0.78-1.67],0.4926025751679124
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,45049,1176,1.08 [0.96-1.22],0.2016748965361618
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],50145,180,1.27 [0.95-1.71],0.1100768767610538
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,48981,5108,1.12 [1.06-1.18],0.000138516149399
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",44133,260,1.32 [1.04-1.69],0.0225684768936562
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,45325,1078,1.22 [1.08-1.38],0.0015949650873683
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,48569,463,1.27 [1.06-1.53],0.0087976289229462
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,44660,413,1.09 [0.89-1.34],0.4166548846734477
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,47336,3089,1.24 [1.15-1.33],4.385006395770249e-09
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,46285,2038,1.30 [1.20-1.42],1.4884781884235855e-09
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],43979,106,1.04 [0.69-1.57],0.8329947368482611
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,50224,259,1.23 [0.96-1.58],0.0980388070835138
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,44192,319,1.02 [0.80-1.29],0.9002371696240535
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,44020,147,1.29 [0.93-1.80],0.1303818284189099
+LGALS7_LGALS7B,Galectin-7,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),35682,114,1.34 [0.94-1.90],0.1011757929328086
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Acute renal failure,49282,3130,1.72 [1.63-1.82],1.1150264636328458e-80
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),20730,101,1.49 [1.07-2.07],0.0190308991800662
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,27000,111,0.88 [0.58-1.35],0.5657752620991692
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,50742,639,1.18 [1.01-1.38],0.0354921996192162
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,50269,166,1.03 [0.75-1.42],0.8419432641222443
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,49199,3047,2.19 [2.10-2.30],2.5220226395399013e-250
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,50943,166,2.30 [1.98-2.67],9.300117971676224e-28
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,50881,600,1.47 [1.27-1.70],2.752456831903766e-07
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Cystitis,45246,462,1.07 [0.88-1.30],0.483678085033595
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Dialysis,46309,157,3.30 [2.95-3.68],5.470974159890234e-98
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,22388,3301,1.01 [0.94-1.08],0.76018646791401
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Disorders of breast,27229,340,1.08 [0.86-1.36],0.4923128364114941
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Endometriosis,20811,182,1.42 [1.10-1.83],0.0074801804509797
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",21031,402,1.09 [0.90-1.32],0.385141200822876
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,21651,1022,1.16 [1.02-1.32],0.0271515436778422
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,42877,10663,1.27 [1.22-1.32],5.596282609445889e-34
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,50945,168,2.25 [1.89-2.69],1.2361564380675876e-19
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Hydrocele,19287,200,0.98 [0.74-1.31],0.9032686670173888
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,46137,584,1.49 [1.28-1.73],2.096628985384611e-07
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,21686,2599,0.99 [0.91-1.07],0.7847318160695554
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,27146,402,1.12 [0.91-1.38],0.2993582480108638
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),19318,231,1.05 [0.81-1.37],0.7213697084430533
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Irregular menses,27236,131,1.03 [0.72-1.47],0.8700291639973426
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Menorrhagia,20937,308,1.14 [0.92-1.41],0.2193635733510733
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,44941,157,1.57 [1.19-2.07],0.0014035034240869
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,23113,2484,1.12 [1.03-1.22],0.0077172900303254
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,19195,108,1.31 [0.93-1.83],0.1200687780289799
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,20772,143,1.17 [0.83-1.63],0.3688305325357338
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",51347,125,0.90 [0.61-1.32],0.5757861533368407
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",51357,132,1.03 [0.72-1.49],0.86553758193941
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,49293,4509,1.21 [1.14-1.28],1.653056837941744e-10
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,46203,1419,1.08 [0.97-1.21],0.1475679102175052
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,27006,117,1.17 [0.80-1.71],0.4111040524966931
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,51235,954,1.74 [1.58-1.93],9.337555549635384e-27
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,19392,305,1.25 [1.00-1.55],0.0453985138169411
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,19369,282,1.18 [0.94-1.49],0.1443216333141373
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,19313,226,1.27 [1.00-1.62],0.0509069765636832
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,51295,139,1.09 [0.77-1.55],0.6263116408758003
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,48258,3474,1.28 [1.20-1.37],9.346574608262428e-14
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,26953,209,1.21 [0.91-1.59],0.1861095153058186
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,20782,153,0.98 [0.69-1.40],0.9198903723157936
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",21004,375,1.42 [1.18-1.71],0.0002295532429749
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,20739,110,1.01 [0.67-1.54],0.950708715884467
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,20836,207,1.02 [0.75-1.38],0.9062920737665552
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,46235,682,1.61 [1.41-1.84],9.433223563082694e-13
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,50595,314,2.00 [1.71-2.34],1.5174096733242513e-18
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,20937,308,0.99 [0.77-1.26],0.9064465153143504
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,20738,109,0.98 [0.64-1.48],0.9105257290091318
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,21284,655,1.13 [0.96-1.33],0.1299089752474545
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,20791,162,1.11 [0.79-1.55],0.5543906171563278
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,21220,591,1.17 [0.99-1.38],0.0738644292170783
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,50873,96,1.96 [1.50-2.57],1.0117843231294662e-06
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",19350,263,1.05 [0.82-1.34],0.716266603276707
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,50871,5318,1.73 [1.65-1.81],5.215169360117927e-132
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",45793,240,1.63 [1.32-2.03],8.394591897277569e-06
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,46413,261,2.33 [2.04-2.67],5.8734897130076086e-34
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,50213,110,1.27 [0.88-1.82],0.1963420912252129
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Urethral stricture,45225,441,1.16 [0.95-1.40],0.1375969892109698
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Urolithiasis,50893,790,1.14 [0.99-1.31],0.0726351711440794
+LGALS7_LGALS7B,Galectin-7,Chapter XIV Diseases of the genitourinary system,Uterine polyps,20771,142,1.21 [0.87-1.69],0.2530735333043343

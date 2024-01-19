@@ -1,0 +1,658 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",21879,195,0.37 [0.25-0.57],5.025061753170048e-06
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",23098,253,0.73 [0.49-1.07],0.1041802984966858
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",22819,1759,0.69 [0.60-0.80],8.267109333839277e-07
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Candidiasis,23100,551,0.71 [0.55-0.93],0.0130997157180585
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,22341,4238,0.70 [0.63-0.77],1.165826965251343e-13
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),22285,4308,0.65 [0.59-0.71],3.0188231006262205e-19
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,22808,1425,0.68 [0.58-0.81],6.297750761950128e-06
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,23003,129,0.69 [0.40-1.19],0.1836676671671039
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,20286,1306,0.54 [0.46-0.64],7.543195770027617e-13
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,19561,1584,0.52 [0.45-0.61],5.3520595618659434e-17
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,19064,342,0.64 [0.46-0.90],0.0092341552515244
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,15019,2748,0.66 [0.59-0.75],7.149883100436791e-12
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,19000,492,0.48 [0.37-0.63],2.0135025179273805e-07
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,23080,1697,0.70 [0.60-0.81],3.4252712504999707e-06
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Mycoses,23198,649,0.74 [0.58-0.95],0.0162216380310807
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,22307,1247,0.65 [0.55-0.78],1.593505521858511e-06
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,23125,1441,0.55 [0.47-0.65],4.244016213221465e-13
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,21636,253,0.71 [0.48-1.04],0.0809030772798681
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,23258,67,0.62 [0.29-1.32],0.2117184613953488
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Other septicaemia,22942,1258,0.59 [0.50-0.70],1.402968883283429e-09
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,22957,83,1.06 [0.54-2.09],0.872411120405484
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Other viral diseases,23194,142,0.53 [0.31-0.88],0.0144736627287962
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",23171,119,0.56 [0.32-1.00],0.0481029430215989
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,21564,504,0.59 [0.45-0.77],0.0001201719330596
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,21369,309,0.66 [0.46-0.93],0.0166317221767368
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,21519,136,0.49 [0.29-0.83],0.0082661077390902
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,23243,52,0.58 [0.37-0.91],0.0185807157832806
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,23189,175,1.14 [0.71-1.84],0.588466462772153
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Viral warts,23070,56,1.67 [0.72-3.88],0.2324119269802395
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],23094,80,0.87 [0.43-1.75],0.698152510633111
+APOM,Apolipoprotein M,Chapter II Neoplasms,Benign lipomatous neoplasm,22967,269,1.18 [0.81-1.72],0.3856815176808924
+APOM,Apolipoprotein M,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,23176,41,1.89 [0.70-5.10],0.2115097464459918
+APOM,Apolipoprotein M,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,23158,44,1.77 [0.70-4.48],0.2255235468945685
+APOM,Apolipoprotein M,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,11084,85,0.50 [0.26-0.96],0.0359491633101718
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",22789,1686,1.21 [1.04-1.41],0.0126402751021865
+APOM,Apolipoprotein M,Chapter II Neoplasms,Benign neoplasm of meninges,23243,64,1.25 [0.56-2.78],0.5911098872618084
+APOM,Apolipoprotein M,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,23163,80,0.53 [0.27-1.06],0.0746577282205371
+APOM,Apolipoprotein M,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,23231,121,0.63 [0.36-1.10],0.1025584854608079
+APOM,Apolipoprotein M,Chapter II Neoplasms,Benign neoplasm of ovary,12104,78,1.03 [0.49-2.20],0.9289490614798448
+APOM,Apolipoprotein M,Chapter II Neoplasms,Benign neoplasm: Ascending colon,23218,443,1.04 [0.77-1.40],0.7908229651611731
+APOM,Apolipoprotein M,Chapter II Neoplasms,Benign neoplasm: Caecum,23223,390,1.46 [1.06-2.00],0.0198856910982569
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",23109,87,0.79 [0.41-1.53],0.4872526365829713
+APOM,Apolipoprotein M,Chapter II Neoplasms,Benign neoplasm: Descending colon,23215,254,1.01 [0.69-1.49],0.9554604419099464
+APOM,Apolipoprotein M,Chapter II Neoplasms,Benign neoplasm: Rectum,23174,409,1.32 [0.97-1.79],0.0820258822876783
+APOM,Apolipoprotein M,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,23100,674,1.35 [1.06-1.71],0.0148377727421593
+APOM,Apolipoprotein M,Chapter II Neoplasms,Benign neoplasm: Transverse colon,23200,548,1.07 [0.82-1.39],0.614132086678747
+APOM,Apolipoprotein M,Chapter II Neoplasms,Carcinoma in situ of breast,9101,50,1.86 [0.73-4.75],0.1950321877123356
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",9145,67,1.09 [0.49-2.45],0.8313258979545352
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",16597,72,0.54 [0.26-1.11],0.0960534202807572
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",16625,100,0.46 [0.25-0.84],0.0112001890915666
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",23201,126,0.71 [0.41-1.25],0.2336430290497603
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Haemangioma, any site",23202,123,0.72 [0.41-1.27],0.2597291432239872
+APOM,Apolipoprotein M,Chapter II Neoplasms,Leiomyoma of uterus,11829,169,0.89 [0.53-1.48],0.6448002598724683
+APOM,Apolipoprotein M,Chapter II Neoplasms,Lung cancer and mesothelioma,14705,477,0.81 [0.60-1.08],0.1465399603657231
+APOM,Apolipoprotein M,Chapter II Neoplasms,Lymphoid leukaemia,16598,73,0.61 [0.30-1.26],0.1817470334585607
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",16748,223,0.99 [0.65-1.50],0.951967496708071
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",16846,321,0.74 [0.53-1.04],0.0828832456595454
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",9226,106,0.67 [0.36-1.25],0.2080988782830079
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",16634,109,0.31 [0.18-0.53],3.082591377612891e-05
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",16673,148,0.71 [0.43-1.16],0.1736919967326843
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",16650,125,1.69 [0.98-2.93],0.0600247630527696
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",9205,85,1.09 [0.53-2.23],0.8230534322354215
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",16650,125,0.72 [0.41-1.26],0.2526574895771683
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",8382,977,1.02 [0.84-1.24],0.8213698220898447
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",16666,141,1.77 [1.05-3.00],0.0318061452874646
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",16617,92,0.99 [0.52-1.86],0.9665973897879132
+APOM,Apolipoprotein M,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,16670,145,1.01 [0.60-1.70],0.9664378425056406
+APOM,Apolipoprotein M,Chapter II Neoplasms,Melanocytic naevi,23109,185,0.78 [0.49-1.23],0.2835555751962639
+APOM,Apolipoprotein M,Chapter II Neoplasms,Melanocytic naevi of trunk,23229,78,0.63 [0.31-1.26],0.1876897514406036
+APOM,Apolipoprotein M,Chapter II Neoplasms,Melanoma in situ,16577,110,0.77 [0.42-1.42],0.4052231335226532
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",16648,123,0.41 [0.24-0.70],0.0012470062033444
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",16727,202,0.46 [0.30-0.71],0.0004089725962143
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",16850,325,0.93 [0.66-1.31],0.6735960519158521
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",16655,130,0.51 [0.30-0.86],0.0125343242811024
+APOM,Apolipoprotein M,Chapter II Neoplasms,Other benign neoplasms of skin,23085,168,1.17 [0.72-1.90],0.5383727820240181
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",18017,1492,0.95 [0.80-1.11],0.5054353710412147
+APOM,Apolipoprotein M,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",18101,1576,0.95 [0.81-1.11],0.5200517844703292
+APOM,Apolipoprotein M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,22947,397,0.72 [0.53-0.98],0.0379388730054891
+APOM,Apolipoprotein M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,20929,163,0.39 [0.27-0.56],2.570991338615644e-07
+APOM,Apolipoprotein M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,22622,72,0.65 [0.31-1.33],0.2339115748445566
+APOM,Apolipoprotein M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,22484,3520,0.68 [0.61-0.76],7.559109512899101e-13
+APOM,Apolipoprotein M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,21514,74,1.66 [0.81-3.39],0.1651876129719808
+APOM,Apolipoprotein M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,22785,64,0.32 [0.15-0.66],0.0023541134155697
+APOM,Apolipoprotein M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,22738,1972,0.68 [0.59-0.78],4.3658359904608826e-08
+APOM,Apolipoprotein M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,22736,1970,0.67 [0.59-0.78],3.5371060420528994e-08
+APOM,Apolipoprotein M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,20882,116,0.52 [0.29-0.92],0.0238323212171935
+APOM,Apolipoprotein M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,22889,1449,0.59 [0.50-0.70],2.2152627576742608e-10
+APOM,Apolipoprotein M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,22833,112,0.53 [0.30-0.95],0.0328391427582773
+APOM,Apolipoprotein M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,22624,74,0.84 [0.41-1.71],0.6252608178524344
+APOM,Apolipoprotein M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,22627,77,1.32 [0.65-2.68],0.4505223337184508
+APOM,Apolipoprotein M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,23078,357,0.43 [0.31-0.59],1.646260944020905e-07
+APOM,Apolipoprotein M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,23126,40,0.43 [0.16-1.13],0.0858298009548451
+APOM,Apolipoprotein M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",23013,292,0.40 [0.28-0.56],2.295933048658993e-07
+APOM,Apolipoprotein M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,21579,139,0.67 [0.40-1.14],0.137823180846228
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,15562,420,0.38 [0.28-0.51],6.359624160628344e-11
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,21748,105,3.62 [2.03-6.45],1.243407878898701e-05
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,21757,114,7.08 [4.27-11.74],3.182543506120853e-14
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,15213,71,0.45 [0.28-0.75],0.0020969621511109
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,21593,65,0.71 [0.33-1.52],0.3757847091724181
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,20821,323,0.87 [0.62-1.23],0.4373590771865504
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",22457,964,0.77 [0.63-0.94],0.0101599495168397
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,21979,486,0.80 [0.60-1.07],0.1338200728305901
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,21712,219,0.61 [0.41-0.93],0.0208547916293254
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,22969,1441,0.81 [0.69-0.96],0.0134185354192089
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,19572,1397,0.81 [0.68-0.96],0.0156773225340719
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",15235,93,0.49 [0.26-0.92],0.0271591123054774
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",20952,102,0.68 [0.36-1.29],0.2420676698440067
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,15513,371,0.54 [0.39-0.75],0.0002141112063482
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,15199,57,0.54 [0.24-1.24],0.1486450008271503
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,19761,4619,0.77 [0.70-0.85],4.639215584927861e-08
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,15405,263,0.59 [0.40-0.87],0.0078681136490807
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,15857,715,0.59 [0.46-0.74],7.146032162949472e-06
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,23201,374,0.83 [0.60-1.14],0.2518031236108172
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,22990,163,0.75 [0.47-1.22],0.2510215644683046
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,15297,155,0.51 [0.31-0.83],0.0073833440567508
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",15224,82,0.47 [0.29-0.76],0.0019072976160847
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,22615,1765,0.74 [0.63-0.86],9.68577451369479e-05
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,15532,390,0.44 [0.33-0.60],9.09564922384275e-08
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,15572,430,0.37 [0.28-0.49],1.0023894927288276e-11
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",16010,868,0.70 [0.57-0.87],0.0010219228424323
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,15321,179,0.72 [0.45-1.15],0.1694318402934645
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,22980,153,0.75 [0.46-1.24],0.2627368199505398
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,16041,899,0.55 [0.44-0.68],2.4451090604764323e-08
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,15801,659,0.80 [0.62-1.02],0.0749833415085506
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,20577,79,0.76 [0.38-1.54],0.4465657198491948
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,21603,6461,0.77 [0.71-0.83],4.72940803700061e-11
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,20911,61,0.98 [0.43-2.22],0.953914136547616
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,20900,50,0.94 [0.37-2.39],0.8885477701298565
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,23078,1917,0.80 [0.69-0.91],0.0009273238900752
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",23076,1915,0.80 [0.70-0.92],0.001255855769126
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,20914,64,0.48 [0.22-1.05],0.0664753218951831
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,22904,1141,0.77 [0.64-0.93],0.0061508859025678
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",17394,2252,0.54 [0.47-0.61],4.854232615799182e-21
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,23242,318,0.38 [0.28-0.53],6.253677022792911e-09
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,21625,132,0.71 [0.42-1.21],0.2084752376544887
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,21878,115,0.76 [0.42-1.37],0.3586845871832947
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,21927,164,0.72 [0.44-1.17],0.1832587260594844
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",15338,196,0.96 [0.60-1.54],0.8626499096085373
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,20452,181,0.31 [0.20-0.49],1.6225208373180168e-07
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,2485,99,0.43 [0.25-0.76],0.0033767693880998
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,2653,308,0.63 [0.46-0.86],0.004429027505691
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,20356,85,0.33 [0.23-0.48],1.278738141411804e-09
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,2459,76,0.52 [0.28-0.99],0.0453884866163101
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,22412,2141,0.32 [0.28-0.36],3.975738709355709e-73
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,22125,632,0.67 [0.53-0.86],0.0015909658377182
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,20949,451,0.66 [0.50-0.89],0.0059092331604139
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,16261,1119,0.59 [0.49-0.71],2.5132483074766574e-08
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",23121,304,0.96 [0.67-1.37],0.8145837506626277
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),21757,272,0.35 [0.24-0.50],6.8634910468779674e-09
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Angina pectoris,20085,1578,0.49 [0.42-0.57],2.5438081749386816e-20
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Aortic aneurysm,21864,379,0.37 [0.27-0.50],9.587444407036959e-11
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,21574,89,0.40 [0.22-0.76],0.004602875348537
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",21777,292,0.40 [0.28-0.56],2.1877553216550573e-07
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,11756,2851,0.53 [0.47-0.60],3.607431963245023e-26
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,AV-block,17675,681,0.53 [0.42-0.68],1.6815733863655624e-07
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",23174,581,0.60 [0.47-0.77],6.461852482912436e-05
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Cardiac arrest,9172,267,0.31 [0.21-0.45],6.14943718907928e-10
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Cardiomyopathy,17197,203,0.37 [0.24-0.56],4.245214864661545e-06
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",17104,110,0.31 [0.18-0.55],6.344376315759052e-05
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,23252,81,1.13 [0.57-2.22],0.723399718681017
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Conduction disorders,18556,1562,0.55 [0.47-0.64],5.883861947442547e-14
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,21244,2762,0.58 [0.51-0.65],1.0305449173767018e-20
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,18657,8958,0.73 [0.68-0.78],5.288093525987089e-19
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,DVT of lower extremities,21678,336,0.91 [0.64-1.28],0.5723155827319802
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Endocarditis,17097,103,0.36 [0.19-0.65],0.000826716646425
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,"Heart failure, strict",22962,1674,0.51 [0.44-0.59],1.892253050149168e-19
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Hypertension,19905,7976,0.70 [0.65-0.76],3.717469425428195e-22
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,"Hypertension, essential",19924,7995,0.70 [0.65-0.75],3.165554536862786e-22
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,"Hypertension, portal",23088,100,0.42 [0.30-0.58],1.016937142924393e-07
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",12191,262,0.29 [0.21-0.39],3.7850689664878647e-16
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,12139,210,0.28 [0.21-0.39],6.453306647432683e-15
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Hypotension,23074,1645,0.60 [0.52-0.70],6.577750333804405e-11
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,21953,150,0.60 [0.36-0.99],0.0477262761959731
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",21422,2915,0.64 [0.57-0.71],6.973906905217991e-15
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",22738,806,0.68 [0.55-0.84],0.0004893854168421
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Left bundle-branch block,17517,523,0.55 [0.42-0.72],1.5426420631495026e-05
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,22560,1064,0.68 [0.56-0.82],5.214905005973679e-05
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",19423,916,0.56 [0.46-0.68],1.4657406446841748e-08
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",23127,186,0.68 [0.43-1.06],0.0910777606662927
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",23212,409,0.49 [0.36-0.66],2.481242636669715e-06
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Oesophageal varices,21410,68,0.38 [0.25-0.59],1.6287224603625065e-05
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Other aneurysm,21592,107,0.47 [0.26-0.84],0.0104974310627448
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Other arrhythmias,17598,604,0.45 [0.35-0.58],5.92014456006069e-10
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,21623,138,0.37 [0.22-0.61],0.0001035197904248
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,21817,332,0.45 [0.33-0.63],2.8563828287004847e-06
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,17218,224,0.47 [0.31-0.71],0.0003270983802535
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Other disorders of veins,21462,120,0.71 [0.41-1.22],0.2149417403932088
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,21389,47,1.38 [0.56-3.41],0.4817948341873094
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,21183,89,0.71 [0.37-1.36],0.2984939520626753
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,21521,179,0.89 [0.56-1.40],0.6039991962540533
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,18463,1469,0.45 [0.38-0.53],9.384888072225913e-23
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,21491,62,0.41 [0.26-0.64],0.0001028884740685
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,22217,732,0.55 [0.44-0.69],2.515651200435708e-07
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,22488,531,0.34 [0.26-0.44],8.00275222977535e-17
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",22078,984,0.74 [0.60-0.90],0.002265332222243
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,9319,414,0.34 [0.25-0.45],1.0717750787983161e-12
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Peripheral artery disease,22045,596,0.43 [0.34-0.55],1.5633325542526104e-11
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),21769,427,0.84 [0.62-1.14],0.2567571379029943
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Pulmonary embolism,22558,601,1.15 [0.89-1.48],0.2859456066303482
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,23156,978,0.51 [0.42-0.62],1.2392097400676536e-11
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Right bundle-branch block,17510,516,0.50 [0.38-0.65],3.37431970426587e-07
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Secondary right heart disease,22481,524,0.34 [0.26-0.44],9.387591362669914e-17
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,21361,267,0.78 [0.54-1.14],0.2019511088066215
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",22722,919,0.68 [0.56-0.84],0.0002725127567987
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",22706,959,0.67 [0.55-0.82],7.548917316749824e-05
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,21920,63,0.42 [0.19-0.92],0.030065080407812
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,21592,107,0.45 [0.25-0.82],0.0090337827073846
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Transient ischemic attack,22255,323,0.63 [0.45-0.89],0.0092105230640079
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,21831,335,0.49 [0.35-0.68],1.6352585263750822e-05
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Varicose veins,21862,520,0.66 [0.51-0.87],0.0033492521897192
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,21504,120,0.63 [0.35-1.12],0.1138062786682482
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,Venous thromboembolism,22980,952,1.03 [0.84-1.26],0.8007745073723251
+APOM,Apolipoprotein M,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",23175,334,3.54 [2.55-4.91],3.540330540669933e-14
+APOM,Apolipoprotein M,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",19860,1387,0.79 [0.66-0.93],0.0060223000044193
+APOM,Apolipoprotein M,Chapter V Mental and behavioural disorders,Any mental disorder,22723,4250,0.88 [0.80-0.97],0.0125982029143712
+APOM,Apolipoprotein M,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",23146,394,3.34 [2.47-4.52],4.262503902425827e-15
+APOM,Apolipoprotein M,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",19943,1470,0.82 [0.69-0.96],0.0166049599573887
+APOM,Apolipoprotein M,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",18560,87,0.54 [0.28-1.04],0.065728937343239
+APOM,Apolipoprotein M,Chapter V Mental and behavioural disorders,Smoking dependency,22738,1181,0.95 [0.79-1.14],0.5900326673063575
+APOM,Apolipoprotein M,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",19928,1455,1.11 [0.94-1.30],0.2250555832014016
+APOM,Apolipoprotein M,Chapter V Mental and behavioural disorders,Vascular dementia,22348,231,0.68 [0.46-1.03],0.0666975999382508
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Alzheimer disease,23254,597,0.81 [0.63-1.05],0.1143843495396394
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",14229,109,0.64 [0.35-1.18],0.1531214402927314
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Bell's palsy,21387,85,0.64 [0.33-1.26],0.1960111308870333
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,21804,502,1.00 [0.75-1.32],0.9817062926506862
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Cerebral cysts,22803,253,0.60 [0.40-0.88],0.0085612885049901
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,23181,414,0.72 [0.53-0.97],0.0315307882171111
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,22398,76,0.90 [0.44-1.83],0.7725791030310566
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,23236,69,0.43 [0.21-0.88],0.0204642898032412
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",22639,89,0.38 [0.20-0.71],0.0025847872180745
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Epilepsy,21742,308,0.96 [0.67-1.38],0.8281544972852395
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,22787,1353,0.77 [0.65-0.92],0.0029674611446951
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,23201,935,0.72 [0.59-0.88],0.0015921898654213
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Falls/tendency to fall,22598,3476,0.79 [0.71-0.88],1.34107896759782e-05
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Generalized epilepsy,22868,54,0.77 [0.33-1.80],0.5444985452611641
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Hemiplegia,23106,339,0.66 [0.48-0.93],0.0155702843771081
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Hydrocephalus,22625,75,0.99 [0.48-2.07],0.987465770298542
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,23241,74,1.29 [0.61-2.72],0.4982894263047791
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,21367,65,1.25 [0.55-2.82],0.595237601133515
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,21376,74,1.22 [0.60-2.48],0.5749948425148166
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Memory loss,22095,142,0.62 [0.37-1.05],0.076106107362611
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Migraine,21715,281,1.20 [0.81-1.77],0.3593793799360129
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",23207,259,1.20 [0.80-1.79],0.3828243555029705
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Motor neuron disease,14320,176,0.98 [0.60-1.59],0.9310571329906088
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,23126,61,1.54 [0.68-3.51],0.3029461834223326
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",22540,1238,0.89 [0.74-1.06],0.2036813716637483
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Neurological diseases,21758,4386,0.79 [0.72-0.87],1.5684186011988786e-06
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,22648,326,0.65 [0.46-0.92],0.0139835857628753
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",21731,429,0.79 [0.58-1.06],0.1181834214635169
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",23175,354,0.56 [0.41-0.77],0.0003977515735997
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,17383,981,0.70 [0.58-0.86],0.0006226945169177
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,22639,89,0.98 [0.51-1.88],0.940269424360458
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Other disorders of nervous system,22711,161,0.90 [0.55-1.46],0.6647353861114735
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,22502,236,0.72 [0.48-1.09],0.1235939902980219
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Other facial nerve disorders,21398,96,0.80 [0.43-1.52],0.5037548801060701
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Other headache syndromes,21486,52,0.72 [0.30-1.72],0.461919546158778
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Other neurological diseases,23141,591,0.75 [0.58-0.96],0.0236848995353907
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Other sleep disorders,21950,516,0.65 [0.50-0.85],0.0013416293518441
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Parkinson's disease,23222,694,0.77 [0.61-0.98],0.0323486448104409
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,22595,45,0.67 [0.26-1.75],0.4148502701027704
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Restless leg syndrome,23255,107,0.62 [0.34-1.15],0.1293228798665343
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Sleep apnoea,23022,436,0.64 [0.49-0.85],0.0020436244086161
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Small fibre neuropathy,22883,62,0.74 [0.33-1.64],0.4518202718402775
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,23243,204,1.18 [0.76-1.84],0.4653770858087922
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,21371,69,1.07 [0.50-2.30],0.8620020626987409
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,23254,603,0.82 [0.63-1.05],0.1206303268203358
+APOM,Apolipoprotein M,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),22288,227,0.70 [0.47-1.06],0.0939747873348317
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,22604,157,0.99 [0.59-1.64],0.9576633778199446
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,22798,571,0.81 [0.62-1.05],0.1164449944596357
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,23003,266,0.35 [0.27-0.46],1.8130503692390865e-15
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,22013,69,1.66 [0.78-3.57],0.1913075522146041
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,21982,38,2.82 [1.03-7.74],0.0439780653791942
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",23133,74,1.01 [0.49-2.09],0.9754123785508904
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,22936,228,1.10 [0.72-1.68],0.6572725793328038
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",2463,77,0.49 [0.26-0.91],0.0244202170304206
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,3030,113,0.54 [0.32-0.92],0.0233979110278607
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,22555,108,1.58 [0.86-2.92],0.1421310034943083
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,22952,1429,0.80 [0.67-0.94],0.0069562174390544
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",22835,891,1.02 [0.83-1.26],0.860597907858633
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,22247,303,1.41 [0.98-2.04],0.0661138162470494
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",23181,954,0.92 [0.75-1.13],0.4124678888245096
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,23250,78,0.64 [0.31-1.30],0.214015520238614
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,23109,882,0.90 [0.72-1.11],0.3156651552531369
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",23212,504,1.00 [0.75-1.33],0.9956626442165284
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,23134,227,1.12 [0.73-1.70],0.608859933629718
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,22045,101,1.04 [0.56-1.93],0.9023684159310076
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,22051,107,0.68 [0.38-1.23],0.2043176958428889
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,22020,76,1.96 [0.95-4.04],0.0701443541802664
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,23116,1018,0.86 [0.71-1.05],0.1450273133452881
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,22362,264,1.11 [0.75-1.63],0.6098160663533456
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,22299,72,0.79 [0.38-1.67],0.5454880652349847
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,22831,123,1.05 [0.60-1.86],0.8557151643478442
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,23104,396,0.96 [0.69-1.32],0.7834115360033567
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,22446,219,1.12 [0.73-1.74],0.5945487977069439
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,23052,145,1.01 [0.59-1.71],0.9811363574085992
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,22783,685,0.79 [0.62-1.01],0.0561581148826808
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,22605,158,0.90 [0.55-1.48],0.6689355756533791
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,20793,3248,0.90 [0.81-1.01],0.0692439066631049
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,23058,350,0.88 [0.63-1.24],0.4789291210937926
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,23240,191,0.95 [0.61-1.50],0.8354222879403149
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,22493,549,1.02 [0.78-1.34],0.8729018411562001
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,22797,89,1.02 [0.52-1.97],0.963009127153758
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,23241,69,0.70 [0.33-1.49],0.3533655240946086
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,22073,129,1.11 [0.64-1.92],0.7233241434648394
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,22122,178,0.97 [0.60-1.55],0.8915532947517064
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,21688,165,0.65 [0.40-1.06],0.081417622707892
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,22289,62,1.08 [0.48-2.41],0.8583940836352554
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",21596,73,0.76 [0.36-1.59],0.4609289503250245
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,22213,115,0.99 [0.55-1.80],0.9787272103261476
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",22395,297,0.98 [0.68-1.42],0.928740088031582
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,22105,161,1.16 [0.71-1.90],0.5532994124569957
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,21619,96,0.92 [0.48-1.77],0.8048774739703218
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,21655,132,0.84 [0.49-1.45],0.5301599878082268
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,20293,2748,0.93 [0.82-1.05],0.2488490149584202
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,22036,92,1.16 [0.60-2.24],0.6561175744685723
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,22956,509,1.13 [0.86-1.50],0.3854237750785452
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,22527,80,0.97 [0.49-1.94],0.9372373375237878
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),22659,212,0.86 [0.56-1.32],0.4838467665172472
+APOM,Apolipoprotein M,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,23030,113,0.63 [0.35-1.15],0.131894740245286
+APOM,Apolipoprotein M,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,23208,140,0.70 [0.41-1.18],0.1790212659536354
+APOM,Apolipoprotein M,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,23115,116,0.75 [0.42-1.34],0.3337152476202636
+APOM,Apolipoprotein M,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,22982,65,1.03 [0.47-2.29],0.9344852737552596
+APOM,Apolipoprotein M,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,22986,69,0.73 [0.34-1.56],0.4236499963143412
+APOM,Apolipoprotein M,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,23147,1254,0.79 [0.66-0.94],0.007798540451501
+APOM,Apolipoprotein M,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,22843,950,0.79 [0.64-0.97],0.0220837973567439
+APOM,Apolipoprotein M,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,22048,155,0.80 [0.49-1.33],0.3946358792024104
+APOM,Apolipoprotein M,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,21982,89,0.63 [0.32-1.21],0.1639218129114402
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Acute pharyngitis,23059,65,1.56 [0.72-3.39],0.2568432111455718
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,23181,187,0.96 [0.61-1.51],0.8604515612295485
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,23058,64,0.54 [0.25-1.16],0.1150877199202657
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,All influenza,20553,156,0.55 [0.34-0.91],0.0197682059050593
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),20550,153,0.54 [0.33-0.90],0.0179403367343336
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Allergic asthma (mode),14332,104,1.60 [0.85-3.02],0.1417661194378163
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Allergic rhinitis,23146,238,1.02 [0.68-1.55],0.9142845791724548
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",15559,1721,1.00 [0.86-1.17],0.9510466462176038
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",15928,1700,1.01 [0.87-1.18],0.897733532858234
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),22734,179,1.01 [0.64-1.61],0.9592412615009044
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",20501,104,0.82 [0.45-1.50],0.5185002679583649
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Bronchiectasis,19508,526,0.61 [0.47-0.80],0.0003793629368809
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",19055,73,0.61 [0.29-1.25],0.1772957922521392
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,22120,3138,0.87 [0.78-0.98],0.0166780209423957
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",22023,73,1.98 [0.94-4.15],0.0719920067437297
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Chronic sinusitis,22086,136,0.79 [0.47-1.35],0.3985163984358352
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",22963,1630,0.71 [0.61-0.83],8.755337941325516e-06
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Deviated nasal septum,22029,79,1.10 [0.54-2.22],0.7983188677952432
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,21088,6131,0.83 [0.76-0.90],3.388459674767778e-06
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",22288,338,0.85 [0.60-1.19],0.3343387928305154
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Early onset COPD,21441,108,0.73 [0.41-1.30],0.2836865250039421
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Emphysema,19419,437,0.63 [0.47-0.84],0.0015624528774583
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,21950,459,0.45 [0.34-0.60],2.8233665309172107e-08
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Influenza and pneumonia,22999,2602,0.68 [0.60-0.77],4.5127880632463325e-10
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Interstitial lung disease,21995,504,0.43 [0.33-0.56],3.2228543514057915e-10
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Later onset COPD,22732,1522,0.71 [0.61-0.83],1.3848851659887263e-05
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,23239,498,0.87 [0.66-1.15],0.3361284219958616
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Nasal polyp,22047,97,1.02 [0.54-1.90],0.9556424427307888
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,22973,1303,0.71 [0.60-0.84],6.063857748951891e-05
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Other diseases of pleura,22960,2700,0.74 [0.66-0.84],8.764383045421215e-07
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,22706,756,0.93 [0.74-1.17],0.5615745779733492
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Other pleural conditions,20329,69,1.09 [0.51-2.31],0.8240029062310871
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,23133,600,0.46 [0.36-0.58],2.3003967988261406e-10
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,23125,1718,0.73 [0.63-0.85],4.430677979975681e-05
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Pleural effusion,21638,1378,0.72 [0.61-0.84],7.985933427708752e-05
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Pleural plaque,20511,251,0.73 [0.50-1.06],0.1017150186618902
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",22709,2312,0.67 [0.59-0.77],1.668015851531377e-09
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,23133,392,0.81 [0.59-1.11],0.1858775375185924
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Pneumothorax,20427,167,0.92 [0.57-1.50],0.7354472322969201
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Pollen allergy,23243,202,0.89 [0.57-1.38],0.5933631930523381
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Pulmonary oedema,22625,92,0.60 [0.32-1.12],0.1081714558195027
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Respiratory insufficiency,14298,70,0.74 [0.34-1.63],0.4616917332993785
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,22949,1279,0.70 [0.59-0.83],4.513771767356997e-05
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,22190,240,1.01 [0.67-1.53],0.9469822743067916
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Viral pneumonia,20699,302,0.57 [0.40-0.81],0.0017614025825955
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",22745,242,0.61 [0.42-0.90],0.0135865535566111
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,7414,121,0.44 [0.24-0.79],0.0059907920134964
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,14739,61,1.10 [0.50-2.43],0.8094319679992784
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Acute appendicitis,23137,125,1.08 [0.61-1.89],0.8003393274526114
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Acute gastritis,16164,106,0.52 [0.29-0.95],0.0345193740657361
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Acute pancreatitis,21198,199,0.60 [0.39-0.93],0.0221678342499638
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Acute peritonitis,22758,109,0.74 [0.41-1.33],0.3174412465631569
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Alcoholic liver disease,22273,64,0.70 [0.33-1.46],0.3368028394025405
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Barrett oesophagus,16570,512,1.07 [0.81-1.42],0.6269117873741528
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",21145,146,0.49 [0.30-0.80],0.0043280777604757
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",22831,146,0.51 [0.31-0.83],0.006955421699918
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Cholecystitis,21224,225,0.68 [0.46-1.03],0.0675982860118113
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Cholelithiasis,22056,1057,0.60 [0.49-0.72],8.289300915329203e-08
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Chronic gastritis,16406,348,0.88 [0.63-1.24],0.4705252992556032
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Chronic pancreatitis,21054,55,0.59 [0.37-0.94],0.0273366359509276
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",23118,130,0.34 [0.25-0.47],5.254603848833817e-12
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Coeliac disease,21511,126,0.36 [0.21-0.63],0.000367005906641
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Collagenous colitis,21496,102,0.71 [0.38-1.35],0.2999833650188326
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,23137,159,0.81 [0.50-1.32],0.4075088839052695
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Constipation,22967,2140,0.78 [0.68-0.89],0.000215948574183
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Crohn disease,21484,90,0.43 [0.23-0.82],0.0100002210657664
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",22902,69,0.44 [0.21-0.91],0.0278479964552847
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Crohn's disease NAS,21476,82,0.41 [0.21-0.81],0.0104799792681761
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Dental caries,22630,185,0.54 [0.35-0.85],0.0072639011716822
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,20071,2576,0.97 [0.86-1.10],0.6868402936621992
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Diseases of appendix,23168,156,1.04 [0.62-1.72],0.8871027533862478
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Diseases of liver,23137,928,0.43 [0.35-0.52],3.727267072442684e-17
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",20673,4615,0.84 [0.77-0.93],0.0003730358550561
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",22921,476,0.64 [0.48-0.85],0.002210244603059
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Diseases of peritoneum,23161,512,0.66 [0.50-0.87],0.003629768993334
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,22539,94,0.78 [0.41-1.49],0.455342742771866
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Diseases of salivary glands,22410,58,0.42 [0.19-0.93],0.0331663420192792
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Diseases of the digestive system,22917,1532,0.66 [0.56-0.77],2.634206195762066e-07
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Diseases of tongue,22429,96,0.69 [0.36-1.29],0.2434766867268585
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",22532,1533,0.67 [0.57-0.79],7.589535713231462e-07
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,18482,3804,0.90 [0.81-1.00],0.0503890467737223
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Duodenal ulcer,16308,250,0.59 [0.40-0.87],0.0082193414640768
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",23162,206,0.63 [0.41-0.96],0.0309198118074064
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,23217,27,0.73 [0.22-2.46],0.6152034952765351
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,22361,152,0.33 [0.25-0.45],4.948995451684426e-13
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,14787,109,0.82 [0.46-1.47],0.5063109220939229
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Functional dyspepsia,16616,558,0.84 [0.64-1.10],0.2088838199607723
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Gastric ulcer,16490,432,0.68 [0.50-0.91],0.0098415460856852
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,18738,2680,0.81 [0.72-0.92],0.0008224201238662
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,16716,658,0.68 [0.53-0.86],0.0014297816233157
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,16782,8257,0.87 [0.82-0.94],0.0001780143159888
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,GI-bleeding,22659,1274,0.70 [0.59-0.83],4.6246766541712935e-05
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,22490,45,0.30 [0.13-0.71],0.0062232388080937
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,15678,1191,0.82 [0.68-0.99],0.0361647338297039
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",22279,70,0.44 [0.29-0.68],0.0002372760085135
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Hernia,21171,3676,0.96 [0.86-1.06],0.4051841275290195
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Impacted teeth,23221,25,0.82 [0.23-2.91],0.758576621030664
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Impaction of intestines,14756,78,0.71 [0.35-1.45],0.346153074356443
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Inguinal hernia,18610,1115,0.96 [0.80-1.15],0.6433283580136316
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",17618,123,0.82 [0.47-1.42],0.4785369091654915
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,14793,115,1.30 [0.72-2.36],0.3841432307317306
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Intestinal malabsorption,21529,144,0.40 [0.24-0.68],0.000617019132983
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,15194,516,0.69 [0.52-0.92],0.0101135067727435
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,23222,342,0.35 [0.26-0.48],6.801434735503263e-11
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,22183,789,0.89 [0.71-1.11],0.281938067418364
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,22491,1097,0.92 [0.76-1.12],0.4119936788034419
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Oesophageal obstruction,16281,223,1.00 [0.66-1.53],0.9923398214138972
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Oesophagitis,16767,709,0.85 [0.67-1.07],0.1618268844760371
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,23199,136,0.79 [0.46-1.36],0.4018008839637123
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,17581,86,0.57 [0.29-1.09],0.0895193253293664
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,16064,1386,0.84 [0.71-0.99],0.0383160142687782
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,21364,365,0.60 [0.44-0.83],0.0021737698714997
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,21143,144,0.66 [0.39-1.10],0.109927749415728
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Other diseases of intestine,16625,1947,0.91 [0.79-1.04],0.1703760753520771
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Other diseases of intestines,20925,6247,0.87 [0.80-0.94],0.0005000996685744
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,22389,212,0.64 [0.42-0.98],0.0403374869222008
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Other diseases of liver,22978,769,0.43 [0.34-0.53],1.4792567188346998e-14
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,16831,773,1.01 [0.81-1.27],0.9015609745380708
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Other diseases of pancreas,21216,217,0.48 [0.32-0.73],0.0005616046237479
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,23085,436,0.68 [0.50-0.91],0.0104125116855697
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,17158,1100,0.66 [0.55-0.80],1.6079191628549274e-05
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,22676,1291,0.70 [0.59-0.83],3.545979319268323e-05
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,22625,180,0.71 [0.45-1.13],0.1453911258465932
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,16865,2187,0.75 [0.65-0.85],1.9033544762421563e-05
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),18241,2183,0.75 [0.66-0.86],3.89207697568594e-05
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,22324,115,0.42 [0.30-0.57],6.625523435180404e-08
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,22358,964,0.90 [0.74-1.10],0.3093816630431658
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",15127,449,0.74 [0.55-1.00],0.0494172291072078
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,23213,31,0.69 [0.22-2.14],0.5192457000453623
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,15297,619,0.85 [0.66-1.09],0.19143032277728
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",21543,158,0.58 [0.36-0.95],0.0312026719741998
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Recurring oral aphthae,23243,53,0.37 [0.16-0.85],0.0189977812823131
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,22439,104,0.79 [0.42-1.46],0.4476967980142708
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Toxic colitis,21474,80,1.14 [0.56-2.31],0.725043578914323
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,16399,341,0.94 [0.67-1.32],0.7222149591195284
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Ulcerative colitis,21564,170,0.77 [0.48-1.25],0.2976089198300514
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",21529,135,0.55 [0.32-0.94],0.0282589866357768
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Umbilical hernia,17749,254,1.06 [0.72-1.55],0.7662478315549441
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,14923,245,0.52 [0.35-0.78],0.0014207932898846
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Ventral hernia,17785,290,0.70 [0.49-1.01],0.0559695505650166
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,Volvulus,14772,94,1.03 [0.53-1.99],0.9378838472459312
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,23146,425,0.74 [0.55-1.01],0.0552549062660302
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,22890,67,0.60 [0.39-0.92],0.0199849623347992
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,20693,165,0.73 [0.44-1.20],0.2132827611530108
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,22611,838,0.73 [0.59-0.90],0.0030026027649955
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",21918,145,0.52 [0.32-0.86],0.0114442478924039
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,21158,630,0.60 [0.47-0.77],3.883495265853368e-05
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,22910,321,0.77 [0.55-1.09],0.1408673515782307
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,23156,567,0.79 [0.61-1.02],0.0697935704902503
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,22637,48,0.54 [0.22-1.31],0.1747509516377481
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,21643,3753,0.74 [0.67-0.82],1.1150656329045702e-08
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,22817,442,0.65 [0.48-0.87],0.0036863819679772
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,22683,308,0.63 [0.45-0.90],0.0113258744130158
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,22862,1089,0.65 [0.54-0.79],5.965157907623656e-06
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",23234,62,0.75 [0.34-1.69],0.493919438159636
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,20585,57,0.73 [0.45-1.17],0.1907458100985116
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,22437,62,0.41 [0.19-0.87],0.0193532879659732
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,22897,308,0.79 [0.56-1.13],0.1984253854607698
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,21132,604,0.97 [0.75-1.26],0.8234008166543463
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,20620,92,0.72 [0.37-1.38],0.3159138970851813
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,23167,98,0.39 [0.21-0.71],0.0019676479704715
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,22015,242,0.46 [0.32-0.68],7.868188141819714e-05
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,23046,223,0.87 [0.57-1.32],0.5021226393196228
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,22687,98,1.21 [0.65-2.22],0.5466836418612613
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,20607,79,0.55 [0.27-1.10],0.0917581816529738
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,22642,2114,0.75 [0.65-0.85],2.10823414630102e-05
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",21176,648,0.95 [0.74-1.22],0.7119038269684166
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,20624,96,0.78 [0.41-1.49],0.4539681674136158
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,23161,338,0.80 [0.57-1.12],0.1916739504097295
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,22666,77,0.48 [0.24-0.96],0.038473803443046
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,23098,275,0.83 [0.57-1.20],0.3194024184298433
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,23179,458,0.71 [0.53-0.96],0.0244103345631429
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,20651,123,0.93 [0.52-1.67],0.8185028963169503
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,20872,344,0.98 [0.70-1.39],0.9271357152280936
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,23167,446,0.73 [0.54-0.99],0.0415782372323829
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",20865,337,0.41 [0.30-0.57],7.040567023749857e-08
+APOM,Apolipoprotein M,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,23228,159,0.48 [0.30-0.78],0.0030971020864493
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,19394,81,0.41 [0.21-0.79],0.0076558806574075
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,20493,6487,0.95 [0.88-1.03],0.2364949717463692
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,19079,5073,0.96 [0.88-1.05],0.4278439253663916
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,19364,51,0.65 [0.28-1.51],0.313930365399943
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,19288,147,1.25 [0.75-2.10],0.3938859523750322
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,19336,195,1.69 [1.07-2.65],0.0242909807962059
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,22994,66,0.82 [0.38-1.76],0.6091484639561255
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",19293,152,0.72 [0.43-1.21],0.2211175222245876
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,15504,1498,1.04 [0.88-1.23],0.6267593340038635
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",23042,246,1.21 [0.81-1.81],0.3515657770017975
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,19735,594,0.85 [0.66-1.11],0.237509522679167
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,18819,8078,0.91 [0.85-0.98],0.0118208405302224
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,20699,122,0.95 [0.53-1.69],0.8563280679728285
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,19496,183,0.67 [0.43-1.06],0.0889023144057394
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,19824,511,0.86 [0.65-1.14],0.2803274301527754
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,22306,3165,0.86 [0.77-0.96],0.0065183964186365
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,19624,311,1.36 [0.95-1.94],0.0938004606076485
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,19464,151,0.80 [0.47-1.36],0.4102043027059843
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,19430,117,0.88 [0.48-1.59],0.6611989671879064
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,22500,100,1.39 [0.72-2.67],0.3268846107616836
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,16041,2035,1.04 [0.90-1.19],0.6258080533965891
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,14807,801,0.70 [0.57-0.86],0.0008972312766654
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",23157,794,0.71 [0.58-0.88],0.0015581405658453
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,14084,78,1.26 [0.60-2.63],0.5442976948542009
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),14307,301,0.95 [0.65-1.40],0.7976002066100215
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,19581,268,1.05 [0.71-1.54],0.817270210566482
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,14491,485,1.36 [1.01-1.81],0.0397038936336778
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,19224,83,0.90 [0.45-1.81],0.7598754005542416
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,19829,688,0.67 [0.53-0.85],0.0010267310120599
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,19459,318,0.71 [0.50-1.01],0.0542391661009931
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,14462,456,1.31 [0.97-1.76],0.0784928824996884
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,19385,72,0.72 [0.34-1.51],0.3808222259761525
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",19371,58,1.11 [0.48-2.54],0.8122446871442954
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,20664,87,0.46 [0.30-0.71],0.0003654012765321
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,22828,2251,0.84 [0.74-0.97],0.0154310621015979
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,22153,1576,0.83 [0.70-0.98],0.0259922070999308
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",23085,543,0.65 [0.50-0.85],0.00167464004353
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,17167,3161,0.89 [0.80-1.00],0.0422111848085033
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,14049,43,0.83 [0.31-2.20],0.7025509175595925
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,19421,108,0.88 [0.48-1.61],0.6894803787888362
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,14077,71,0.70 [0.34-1.47],0.3495190508263945
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),14142,136,1.01 [0.57-1.78],0.9672205671443652
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,20821,244,1.13 [0.75-1.70],0.5477554007090988
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,21094,517,0.93 [0.70-1.24],0.6154727154297079
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,23231,115,0.79 [0.44-1.42],0.4249828085896009
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",21142,2001,0.85 [0.73-0.97],0.018343191614245
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,19391,78,0.77 [0.38-1.59],0.4838479540567426
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),14160,154,1.16 [0.68-1.99],0.5784809636671848
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,19942,801,0.78 [0.63-0.97],0.0285482835567906
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,16201,2195,0.94 [0.82-1.08],0.3969115487523768
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,22527,127,1.20 [0.67-2.13],0.5390674090880327
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,23243,64,0.59 [0.38-0.91],0.0175903668908605
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,19392,79,1.02 [0.50-2.06],0.9628896309889255
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",20670,1357,0.70 [0.59-0.83],4.21926445862183e-05
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,19421,108,0.74 [0.40-1.34],0.3186890318152894
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,16090,2084,0.90 [0.78-1.03],0.1374693262085629
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,20694,117,0.79 [0.44-1.42],0.425539673706341
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,19350,37,0.51 [0.18-1.48],0.2165618898293556
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,19337,196,1.17 [0.74-1.84],0.4933375173483953
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,20006,693,0.73 [0.58-0.92],0.0089711712385858
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,22894,494,1.00 [0.75-1.34],0.9928649152156004
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,19804,663,0.67 [0.53-0.85],0.0011419075851979
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,23100,537,0.64 [0.49-0.84],0.0012615413242943
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,23230,69,0.31 [0.15-0.62],0.00115928709927
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,19480,167,1.36 [0.83-2.24],0.2231372693481845
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,18089,893,0.73 [0.59-0.90],0.0029918850127216
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,19958,645,0.65 [0.51-0.83],0.0004844358764739
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],19593,280,1.35 [0.93-1.97],0.1190611944885146
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",14077,71,0.63 [0.30-1.34],0.2271939085841277
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,17147,3141,0.84 [0.76-0.95],0.0032148030392521
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,14847,841,0.72 [0.58-0.90],0.0037149535196556
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,22778,378,1.32 [0.95-1.84],0.0999235906480673
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",23198,82,0.82 [0.40-1.65],0.5717936729873903
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",20567,71,1.03 [0.50-2.11],0.943004711394102
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,14071,65,0.49 [0.29-0.82],0.0065923007507823
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,19249,108,0.91 [0.50-1.67],0.75910760522771
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,14557,551,0.62 [0.47-0.81],0.0005100846169466
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,19646,333,1.19 [0.84-1.69],0.3173266687632394
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,19434,293,0.70 [0.49-1.00],0.0521291868408283
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,19412,271,0.86 [0.58-1.28],0.4611981813053396
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,16321,68,0.94 [0.43-2.06],0.8834793996884669
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",23234,73,0.66 [0.43-1.02],0.0585312845462019
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,19868,555,0.89 [0.68-1.16],0.3992828837235415
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],22495,95,0.67 [0.45-1.02],0.0609595215336802
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,21966,2653,0.82 [0.73-0.93],0.0015154571154374
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",19460,147,0.77 [0.46-1.28],0.3114910459118624
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,19863,722,0.81 [0.64-1.02],0.0666791145282084
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,21880,276,1.01 [0.69-1.47],0.9716260799417508
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,19400,259,0.76 [0.51-1.13],0.1745940014478875
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,21160,2019,0.81 [0.70-0.93],0.0029174520607324
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,20455,1314,0.78 [0.66-0.93],0.0059740164875664
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],19377,64,1.60 [0.73-3.52],0.2424815960618568
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,22519,119,0.45 [0.25-0.79],0.0053392942398962
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,19477,164,0.62 [0.38-1.02],0.0605182369525602
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,19405,92,0.62 [0.32-1.20],0.1538574015933246
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),14084,78,0.89 [0.43-1.82],0.7504960358485011
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Acute renal failure,21720,2263,0.53 [0.46-0.60],7.238424769010557e-23
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),9299,26,1.84 [0.53-6.41],0.3389532840937322
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,11809,34,1.83 [0.58-5.74],0.3006659371239203
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,22920,317,0.54 [0.38-0.76],0.0003619723996052
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,22710,107,0.62 [0.35-1.11],0.1051739281132684
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,21811,2354,0.42 [0.37-0.48],4.996371279971972e-42
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,23017,134,0.34 [0.21-0.56],1.825273837352934e-05
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,22943,415,0.61 [0.45-0.82],0.0012183417950477
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Cystitis,19368,301,0.80 [0.56-1.15],0.2301315926718003
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Dialysis,19555,98,0.42 [0.23-0.75],0.0032763987449713
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,10249,2148,0.75 [0.66-0.86],1.4483916526921428e-05
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Disorders of breast,11911,136,0.73 [0.42-1.28],0.2784719604827548
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Endometriosis,9312,39,1.32 [0.46-3.78],0.6013831115703292
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,9859,586,0.62 [0.47-0.82],0.0006656422747536
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,19129,6324,0.67 [0.62-0.73],3.199391033653308e-23
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,22981,98,0.44 [0.29-0.65],3.829282319643333e-05
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Hydrocele,8218,117,0.97 [0.56-1.68],0.901252509361562
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,19528,348,0.65 [0.47-0.91],0.0130480414740993
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,9931,1830,0.74 [0.64-0.84],1.4284012266635242e-05
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,11976,161,1.24 [0.74-2.07],0.4144338894146999
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),8228,127,0.70 [0.41-1.18],0.1824336386016771
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,19156,89,0.57 [0.30-1.09],0.0889876085896744
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,10311,1038,0.67 [0.55-0.83],0.0001566470257647
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,8163,62,0.50 [0.24-1.05],0.0679446925510458
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,9311,38,0.46 [0.17-1.26],0.1312123380074709
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",23240,90,0.92 [0.47-1.77],0.7927183959153762
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",23241,84,0.99 [0.50-1.95],0.9722955517745302
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,22035,2968,0.74 [0.66-0.83],2.499106715753219e-07
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,20022,955,0.76 [0.62-0.93],0.0073008250221088
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,11826,51,0.89 [0.36-2.21],0.8076813960962619
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,23168,640,0.58 [0.45-0.73],6.131861223124852e-06
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,8256,155,0.94 [0.58-1.51],0.7951115963517004
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,8262,161,0.82 [0.52-1.31],0.4103076334093144
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,8255,154,0.91 [0.56-1.47],0.6942815851383746
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,23212,88,0.67 [0.34-1.31],0.2420708151601275
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,21426,2359,0.70 [0.61-0.79],2.8057067378210973e-08
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,11898,83,1.47 [0.72-3.02],0.2937750129089244
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,9340,67,0.77 [0.34-1.73],0.5276663322733812
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",9417,144,0.82 [0.48-1.42],0.4872088337775954
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,9327,54,0.40 [0.16-0.97],0.0436540325045695
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,9375,102,0.71 [0.37-1.37],0.30500146050744
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,19591,411,0.61 [0.45-0.83],0.0017370174208069
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,22730,202,0.56 [0.37-0.86],0.0081633056258818
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,9400,127,1.03 [0.57-1.86],0.9104087451091658
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,9298,25,0.65 [0.31-1.37],0.2558118273155851
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,9485,212,0.82 [0.52-1.27],0.3687167111834059
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,9364,91,0.92 [0.45-1.85],0.806538235472976
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,9481,208,0.48 [0.31-0.75],0.0012412138295576
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,22931,48,0.30 [0.13-0.69],0.0045489669820442
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",8256,155,0.57 [0.36-0.91],0.0195496774262424
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,22960,3780,0.55 [0.49-0.60],2.940321075344131e-32
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",19272,92,0.35 [0.18-0.67],0.0016713307871147
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,19638,181,0.34 [0.22-0.52],1.0755585463299855e-06
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,22642,39,0.74 [0.29-1.91],0.5318771720046649
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Urethral stricture,19335,268,0.76 [0.52-1.10],0.1459075356993831
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Urolithiasis,23006,403,0.59 [0.43-0.79],0.0005322656112522
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,Uterine polyps,9310,37,0.51 [0.18-1.40],0.1898894104282952

@@ -1,0 +1,660 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",26974,103,1.18 [0.93-1.50],0.1691849061129
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",27532,143,0.96 [0.79-1.18],0.7166884008250769
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",27288,984,1.02 [0.94-1.10],0.6107249273332616
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Candidiasis,27564,298,0.99 [0.87-1.14],0.9394805345541772
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,26785,2720,1.02 [0.97-1.06],0.5156074490316425
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),27033,2028,1.00 [0.95-1.05],0.9552298405050336
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,27357,990,1.05 [0.98-1.14],0.1887676501435697
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,27479,43,0.68 [0.48-0.98],0.0379435121655277
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,26319,628,0.99 [0.90-1.09],0.891662585465108
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,25450,606,1.02 [0.93-1.13],0.6326405331573557
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,25693,169,0.93 [0.77-1.12],0.4235370094139933
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,20522,1185,1.04 [0.97-1.12],0.2385382336168855
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,25449,280,0.99 [0.86-1.15],0.907375000583421
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,27519,1152,1.04 [0.97-1.12],0.2751789555098756
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Mycoses,27626,360,0.97 [0.86-1.10],0.6644552124896923
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,26900,596,1.07 [0.97-1.18],0.1582741268830824
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,27563,692,1.01 [0.93-1.11],0.765146321488837
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,26512,145,0.96 [0.78-1.17],0.6559331270399875
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,27666,33,1.31 [0.86-2.00],0.2155011830686116
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Other septicaemia,27479,608,0.99 [0.90-1.09],0.7992442241729416
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,27507,71,1.16 [0.87-1.55],0.2968460804436961
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Other viral diseases,27574,171,1.05 [0.87-1.26],0.6281778018603493
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",27558,155,1.02 [0.84-1.24],0.8210571407806069
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,26632,328,1.05 [0.92-1.20],0.4497647035096188
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,26547,243,0.92 [0.79-1.07],0.2704315004251281
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,26449,82,0.99 [0.76-1.29],0.9660852593483168
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,27639,51,0.78 [0.56-1.09],0.1419781443023234
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,27604,130,0.85 [0.69-1.04],0.1143011077528552
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Viral warts,27517,43,0.68 [0.47-0.97],0.035588659882887
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],27525,51,0.92 [0.66-1.28],0.6051166240003292
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Benign lipomatous neoplasm,27379,314,1.09 [0.96-1.25],0.1905406698812972
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,27574,75,1.21 [0.92-1.59],0.1771062697171082
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,27558,78,1.19 [0.90-1.56],0.2170650876522777
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,12358,45,0.99 [0.68-1.42],0.9373650333156648
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",27476,1161,0.97 [0.91-1.04],0.4358778544947589
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Benign neoplasm of meninges,27654,48,1.23 [0.87-1.73],0.2493818275100956
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,27631,51,0.79 [0.57-1.11],0.1726645218995406
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,27644,93,1.08 [0.85-1.39],0.5195172279050397
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Benign neoplasm of ovary,15247,97,0.98 [0.77-1.24],0.843753419881728
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Benign neoplasm: Ascending colon,27661,272,0.88 [0.76-1.02],0.1002000289281303
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Benign neoplasm: Caecum,27657,202,1.02 [0.86-1.21],0.8435122824322403
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",27597,53,1.02 [0.73-1.42],0.9119211000492666
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Benign neoplasm: Descending colon,27659,171,0.92 [0.76-1.10],0.3592198148641428
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Benign neoplasm: Rectum,27623,287,0.94 [0.82-1.09],0.4329708920572285
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,27595,532,0.92 [0.83-1.02],0.1234863521954662
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Benign neoplasm: Transverse colon,27661,303,0.97 [0.85-1.12],0.7154017648078732
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Carcinoma in situ of breast,13108,85,0.80 [0.62-1.03],0.0864664996776598
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",13156,97,0.86 [0.68-1.08],0.1975147968036784
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",23909,30,0.69 [0.45-1.08],0.1038660188282975
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",23916,37,0.75 [0.51-1.11],0.1455507300894761
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",27627,110,0.93 [0.74-1.16],0.5141503733799799
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Haemangioma, any site",27627,108,0.93 [0.74-1.16],0.5067291520513701
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Leiomyoma of uterus,14612,411,0.94 [0.84-1.06],0.3202270629428299
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Lung cancer and mesothelioma,20549,174,1.08 [0.90-1.31],0.3995232089517367
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Lymphoid leukaemia,23908,29,1.09 [0.70-1.71],0.7085012750642223
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",24028,149,1.04 [0.85-1.26],0.708380026524042
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",23961,82,1.13 [0.86-1.48],0.369125805340479
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",13208,80,0.95 [0.73-1.24],0.7216512002362878
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",23930,51,0.86 [0.62-1.21],0.3964039681798653
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",23942,63,1.01 [0.74-1.38],0.9417174048926956
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",23949,70,1.05 [0.78-1.42],0.7372801504855693
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",13183,55,1.23 [0.89-1.69],0.2062660820941615
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",23932,53,1.22 [0.88-1.71],0.2310656226360027
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",11164,413,1.07 [0.95-1.21],0.2580235418747126
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",23971,92,1.07 [0.83-1.38],0.5787281342513693
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",23934,55,1.32 [0.95-1.84],0.1004929423357813
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,23939,60,1.04 [0.76-1.42],0.7948874744497306
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Melanocytic naevi,27434,214,0.96 [0.82-1.13],0.6361362367726096
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Melanocytic naevi of trunk,27617,94,0.94 [0.73-1.20],0.6047054513447743
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Melanoma in situ,23895,51,1.00 [0.72-1.40],0.9993003110480024
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",23938,59,0.75 [0.55-1.03],0.0720705907500551
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",23999,120,0.94 [0.76-1.18],0.6058680251535724
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",23997,118,1.16 [0.93-1.46],0.187586203884647
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",23947,68,1.01 [0.76-1.36],0.9223956570592596
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,Other benign neoplasms of skin,27486,142,0.96 [0.79-1.17],0.6898727199871972
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",24516,637,0.96 [0.88-1.06],0.4638829982472828
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",24547,668,0.97 [0.88-1.07],0.5292115546806062
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,27401,285,0.97 [0.84-1.12],0.6832135185656112
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,26258,53,0.88 [0.63-1.23],0.4676825385254283
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,27183,67,1.20 [0.90-1.62],0.2140685740594555
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,26870,2211,0.99 [0.94-1.04],0.6335569065110587
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,26479,25,0.79 [0.48-1.28],0.3377170827934416
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,27319,35,0.95 [0.64-1.43],0.8147395049800902
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,27226,1021,1.00 [0.92-1.07],0.904722132123754
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,27226,1021,1.00 [0.92-1.07],0.904722132123754
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,26262,57,0.78 [0.57-1.06],0.1135395632847104
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,27383,929,1.00 [0.92-1.08],0.9076207522447142
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,27390,106,1.04 [0.82-1.31],0.7707645386205556
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,27168,52,1.31 [0.93-1.85],0.1262365072764864
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,27159,43,1.11 [0.77-1.61],0.5619854993687813
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,27478,194,0.76 [0.64-0.90],0.001764191674933
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,27588,68,1.11 [0.83-1.48],0.4826189887885568
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",27447,163,0.70 [0.58-0.84],0.0001343337991711
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,26527,73,0.92 [0.70-1.22],0.5699863341056939
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,23794,211,0.95 [0.80-1.12],0.5270499431491341
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,25748,130,1.10 [0.89-1.36],0.3805285640422864
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,25757,139,1.31 [1.06-1.61],0.0121079163926991
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,23621,38,1.35 [0.90-2.01],0.1434904046543453
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,25702,72,0.93 [0.70-1.23],0.6090198509578513
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,25385,149,0.99 [0.82-1.21],0.9590129231382934
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",27520,171,1.06 [0.88-1.27],0.5599226533639792
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,27396,47,0.81 [0.57-1.14],0.2320452108313415
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,27386,37,1.12 [0.75-1.66],0.5802899266935155
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,27259,1629,1.02 [0.96-1.08],0.616236917898784
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,24786,1578,1.01 [0.96-1.08],0.6387654892918264
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",23623,40,1.09 [0.74-1.60],0.6780359059742251
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",25992,57,0.71 [0.52-0.97],0.0302427109315597
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,23763,180,1.25 [1.04-1.49],0.017557710536515
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,23644,61,1.47 [1.08-2.02],0.0149523337278732
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,25964,2381,1.10 [1.04-1.15],0.0003530396997636
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,23703,120,1.07 [0.86-1.34],0.5247680937198534
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,23959,376,1.19 [1.05-1.35],0.0069094039412793
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,27566,270,1.09 [0.94-1.26],0.2554968349662687
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,27405,109,1.16 [0.92-1.45],0.2088760545598496
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,23678,95,1.24 [0.96-1.59],0.0977066838492503
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",23623,40,0.91 [0.62-1.33],0.6129403547183983
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,27238,1303,1.02 [0.95-1.09],0.5815303616456335
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,23710,127,1.01 [0.81-1.26],0.910968938924752
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,23746,163,0.99 [0.81-1.19],0.8810847279740565
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",23973,390,1.01 [0.89-1.14],0.8588819758959172
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,23644,61,1.07 [0.78-1.46],0.6699116393725295
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,27399,103,1.12 [0.89-1.42],0.3265175247810176
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,23883,300,1.05 [0.91-1.21],0.5012856620880966
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,23880,297,1.10 [0.96-1.27],0.1837688505473829
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,25294,58,1.01 [0.74-1.38],0.9402598220852568
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,26982,3399,1.08 [1.03-1.12],0.000563973856912
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,25970,35,0.83 [0.56-1.23],0.3578679124719157
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,25995,60,0.99 [0.73-1.34],0.9329869802595776
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,27491,1904,0.95 [0.90-1.00],0.0575026745853025
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",27495,1902,0.95 [0.90-1.00],0.0557834941712813
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,25970,35,1.36 [0.91-2.02],0.1326722925080017
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,27348,1242,1.03 [0.97-1.11],0.3204817533364071
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",24478,895,1.04 [0.96-1.13],0.3115383821939339
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,27657,133,0.87 [0.71-1.07],0.1932400406667566
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,27384,35,1.17 [0.78-1.76],0.447990862390641
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,26193,87,1.06 [0.82-1.38],0.632303455764397
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,26219,113,1.08 [0.87-1.36],0.4799460700734078
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",23713,130,1.23 [1.00-1.52],0.0488476705927668
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,25890,119,1.06 [0.85-1.32],0.6222012506807895
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,1687,70,0.79 [0.59-1.05],0.1038175435361052
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,1796,193,0.94 [0.79-1.11],0.4728508372336634
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,25812,41,0.82 [0.57-1.18],0.2869718028992456
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,1653,36,0.97 [0.65-1.44],0.8640446244423261
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,27256,1485,1.06 [0.99-1.12],0.091935164959427
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,27421,72,0.84 [0.64-1.12],0.2321568620062022
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,25500,264,1.04 [0.90-1.20],0.6224619871097288
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,23995,412,1.02 [0.90-1.15],0.7793796903707493
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",27579,179,0.92 [0.76-1.10],0.3353262022323053
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),26932,56,0.70 [0.50-0.97],0.0298931006593172
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Angina pectoris,26393,786,0.96 [0.88-1.04],0.3343124884206844
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Aortic aneurysm,26981,105,0.86 [0.68-1.10],0.2282151047968174
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,26907,31,1.22 [0.78-1.90],0.3805361685329742
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",26983,107,1.07 [0.84-1.35],0.5917446735869799
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,19749,931,1.01 [0.93-1.09],0.8212125743627808
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,AV-block,25198,180,0.97 [0.81-1.16],0.7394677840821091
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",27635,254,0.90 [0.77-1.04],0.1621771911479072
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Cardiac arrest,18933,115,1.07 [0.85-1.34],0.5807778203870054
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Cardiomyopathy,25153,135,1.02 [0.82-1.25],0.876565779944576
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",25099,81,0.97 [0.74-1.28],0.8435607213656622
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,27668,20,0.62 [0.36-1.08],0.0899077851034264
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Conduction disorders,25540,522,0.96 [0.86-1.06],0.3966189260283157
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,26950,1354,1.08 [1.01-1.16],0.0163953569351185
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,25739,6023,1.06 [1.03-1.10],0.0001179507579565
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,DVT of lower extremities,26513,188,0.91 [0.76-1.08],0.2756251298113569
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Endocarditis,25061,43,0.84 [0.58-1.21],0.352622328559262
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,"Heart failure, strict",27551,516,1.01 [0.91-1.13],0.8390818345478994
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Hypertension,26308,4901,1.07 [1.03-1.10],0.0002707556800854
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,"Hypertension, essential",26324,4917,1.06 [1.03-1.10],0.00039385620773
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,"Hypertension, portal",27497,56,0.71 [0.51-0.98],0.0351809986909926
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",21492,85,0.78 [0.60-1.01],0.0611233658095385
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,21467,60,0.89 [0.65-1.22],0.4687543741620882
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Hypotension,27563,683,1.00 [0.91-1.10],0.9773118667646902
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,27140,65,0.91 [0.67-1.23],0.5348000158450966
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",27107,1500,1.08 [1.01-1.14],0.0236623867227754
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",27436,302,1.16 [1.00-1.33],0.0438855437722291
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Left bundle-branch block,25207,189,1.02 [0.86-1.22],0.8048350003307284
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,27408,598,1.01 [0.91-1.11],0.8891458221299687
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",26092,485,1.02 [0.91-1.14],0.7646963006500815
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",27609,120,0.99 [0.79-1.23],0.9095356733351933
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",27652,203,0.87 [0.73-1.03],0.1043180710435869
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Oesophageal varices,26365,40,0.76 [0.52-1.12],0.166586518269818
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Other aneurysm,26927,51,0.83 [0.60-1.16],0.2792329752481489
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Other arrhythmias,25255,237,0.99 [0.85-1.16],0.934380840313797
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,26942,66,1.21 [0.89-1.63],0.2176839153620556
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,27019,143,0.87 [0.71-1.06],0.1655592341486235
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,25146,128,1.02 [0.83-1.27],0.8277574371410036
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Other disorders of veins,26396,71,0.91 [0.68-1.20],0.4977925677562012
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,26374,49,1.14 [0.80-1.60],0.4710748910329805
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,26895,39,1.14 [0.77-1.69],0.5177642340141797
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,26412,87,0.90 [0.70-1.17],0.4406782266376484
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,25595,577,1.04 [0.94-1.15],0.4883461728968599
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,26924,44,0.62 [0.43-0.88],0.0083663955220014
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,27216,340,1.03 [0.90-1.17],0.6541996885707079
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,27223,155,1.04 [0.86-1.26],0.7031290284996772
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",27089,233,0.92 [0.78-1.07],0.2810386477348399
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,19068,250,0.87 [0.75-1.02],0.07942577455999
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Peripheral artery disease,27057,207,0.96 [0.81-1.14],0.6466617041749654
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),26583,258,0.97 [0.83-1.12],0.6619959409780243
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Pulmonary embolism,27409,341,1.02 [0.90-1.16],0.753498562587698
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,27626,333,1.05 [0.92-1.20],0.4930624592904117
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Right bundle-branch block,25192,174,0.88 [0.73-1.05],0.1615433311428126
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Secondary right heart disease,27219,151,1.02 [0.84-1.24],0.8559223652245209
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,26972,116,1.13 [0.90-1.41],0.3037192509612769
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",27429,354,1.10 [0.97-1.26],0.1385388524313942
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",27403,389,1.07 [0.94-1.21],0.3108184713885557
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,27115,53,0.83 [0.60-1.15],0.261121648154882
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,26932,57,0.83 [0.60-1.14],0.2475369188664182
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Transient ischemic attack,27277,143,1.02 [0.84-1.25],0.8307811803217545
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,26993,183,0.98 [0.82-1.17],0.7852373235276978
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Varicose veins,26643,318,0.93 [0.81-1.06],0.2976305267837114
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,26886,47,0.95 [0.66-1.35],0.7595288639594243
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter IX Diseases of the circulatory system,Venous thromboembolism,27496,536,0.99 [0.89-1.10],0.8473279773083684
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",27509,376,1.11 [0.98-1.26],0.1040553772367286
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",24690,1424,1.04 [0.98-1.11],0.2202025410226522
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter V Mental and behavioural disorders,Any mental disorder,26922,3656,1.02 [0.98-1.06],0.4082593519081647
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",27443,448,1.08 [0.96-1.21],0.1822145983462504
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",24926,1660,1.01 [0.95-1.07],0.735387113186327
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",23357,91,0.94 [0.73-1.21],0.6213560220334409
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter V Mental and behavioural disorders,Smoking dependency,27144,1519,1.00 [0.94-1.06],0.9977548132013976
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",25026,1760,1.00 [0.94-1.06],0.9749112621300554
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter V Mental and behavioural disorders,Vascular dementia,27552,20,1.14 [0.66-1.98],0.6332778239853799
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Alzheimer disease,27668,65,0.89 [0.66-1.20],0.448787052283021
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Bell's palsy,26013,73,0.95 [0.72-1.25],0.7006894376962687
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,26411,471,1.05 [0.94-1.18],0.3414668512550423
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Cerebral cysts,27305,208,0.99 [0.84-1.17],0.8868301506795888
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,27586,228,1.04 [0.89-1.22],0.6104067275335796
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,27526,24,0.88 [0.54-1.43],0.6136667949635481
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,27654,50,1.10 [0.78-1.56],0.5802397367531764
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",27157,60,0.85 [0.62-1.16],0.3083469600154027
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Epilepsy,26101,258,1.10 [0.95-1.28],0.2007388055974246
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,27185,1342,1.04 [0.98-1.12],0.1920616321687795
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,27640,269,1.08 [0.93-1.25],0.3097864239693915
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Falls/tendency to fall,27151,1646,0.99 [0.94-1.06],0.8663459917404293
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Generalized epilepsy,27298,53,1.27 [0.91-1.77],0.1579629072790057
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Hemiplegia,27522,164,0.99 [0.82-1.20],0.9232343399022908
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Hydrocephalus,27145,48,1.50 [1.06-2.13],0.0214767880493618
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,27645,63,1.09 [0.81-1.47],0.5812185173396045
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,26022,82,0.98 [0.75-1.27],0.8635217958388415
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,26022,82,1.32 [1.01-1.73],0.0445923031912407
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Memory loss,27518,73,0.94 [0.71-1.25],0.6891654799875204
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Migraine,26266,423,1.13 [1.01-1.27],0.0381590319397914
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",27577,377,1.11 [0.99-1.26],0.0836776388082562
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Motor neuron disease,20170,96,1.07 [0.83-1.37],0.5977517716621796
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,27471,145,0.99 [0.82-1.21],0.9536151720951233
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",27065,1125,1.04 [0.97-1.12],0.2680432990130533
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Neurological diseases,26252,3075,1.03 [0.98-1.07],0.2381205053346765
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,27577,75,1.01 [0.76-1.33],0.969488131123565
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",26322,382,0.98 [0.87-1.11],0.7455905050306222
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",27597,237,0.99 [0.84-1.15],0.8547893228707758
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,23098,310,0.99 [0.86-1.13],0.8824597597662999
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,27158,61,1.06 [0.78-1.45],0.7021045897824272
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Other disorders of nervous system,27216,119,0.82 [0.66-1.02],0.0696779040467056
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,27462,91,1.02 [0.79-1.32],0.8634983429119877
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Other facial nerve disorders,26030,90,0.92 [0.71-1.18],0.5050521032915137
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Other headache syndromes,25903,60,1.16 [0.85-1.58],0.3476247084018887
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Other neurological diseases,27545,448,1.00 [0.89-1.12],0.9705478806302849
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Other sleep disorders,26422,579,0.97 [0.87-1.07],0.4977399586127489
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Parkinson's disease,27655,157,1.03 [0.85-1.25],0.7847781940091051
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,27161,64,1.23 [0.91-1.66],0.1737800538753128
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Restless leg syndrome,27667,47,1.17 [0.82-1.66],0.382339867684606
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Sleep apnoea,27428,506,0.98 [0.88-1.09],0.6912937387767473
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Small fibre neuropathy,27397,37,1.42 [0.94-2.13],0.0939604607607935
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,27654,122,1.00 [0.80-1.24],0.9977769781858932
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,25972,32,0.83 [0.55-1.26],0.3886302794974337
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,27668,66,0.92 [0.69-1.24],0.5981396197327198
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),27539,19,1.12 [0.64-1.97],0.6849200774247926
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,27192,41,1.22 [0.84-1.78],0.2886518145578822
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,27319,214,0.99 [0.84-1.17],0.9185688858319132
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,27575,194,0.94 [0.80-1.12],0.5133280019551547
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,26920,37,0.92 [0.62-1.36],0.6717507873499247
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,26958,75,1.18 [0.89-1.56],0.24053692173022
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",27579,32,1.22 [0.79-1.86],0.3715596399686172
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,27468,63,1.31 [0.97-1.78],0.0812113958841969
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",1660,43,1.08 [0.75-1.55],0.6940253470949973
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,1968,85,0.82 [0.63-1.06],0.1218809153695349
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,27226,75,1.05 [0.79-1.38],0.7571173851026747
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,27539,620,0.99 [0.90-1.09],0.8686221842483209
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",27364,481,0.95 [0.86-1.06],0.3986865704292434
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,27021,138,0.90 [0.74-1.10],0.2976996741208962
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",27575,470,1.06 [0.95-1.19],0.2912207537201038
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,27655,52,0.67 [0.48-0.93],0.0160275145354465
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,27504,399,1.06 [0.94-1.19],0.3656659529526209
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",27625,220,1.19 [1.01-1.40],0.0335164728725726
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,27604,125,0.90 [0.73-1.12],0.3449509858354858
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,26901,18,1.01 [0.57-1.80],0.9680000264324568
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,26912,29,1.02 [0.65-1.60],0.9298732223951612
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,26916,33,0.82 [0.54-1.23],0.3318021589721283
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,27619,383,1.02 [0.90-1.15],0.7605213709399558
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,27339,103,0.99 [0.78-1.26],0.9464380803650786
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,27130,25,0.96 [0.60-1.55],0.8811610341899817
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,27479,74,1.31 [0.99-1.74],0.0586631245469275
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,27552,147,1.14 [0.93-1.39],0.2086210768968095
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,27266,161,1.16 [0.96-1.41],0.1147126753210146
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,27550,71,1.05 [0.79-1.40],0.7195750406277341
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,27489,253,1.13 [0.97-1.31],0.1165448472101456
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,27266,115,1.02 [0.82-1.27],0.8656314745276581
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,26954,1052,1.03 [0.96-1.11],0.4490615619217031
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,27525,120,1.18 [0.94-1.47],0.147259779600177
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,27642,113,0.95 [0.76-1.18],0.6272404563227374
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,27147,264,0.97 [0.84-1.13],0.7206308358027859
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,27441,36,1.08 [0.72-1.62],0.7038011934027428
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,27638,35,0.79 [0.53-1.19],0.2595895744011713
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,26921,38,0.97 [0.66-1.43],0.8760976609870308
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,26999,116,0.98 [0.78-1.22],0.8319384299707944
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,26990,71,0.72 [0.54-0.95],0.0224945787435681
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,27163,58,1.19 [0.87-1.63],0.2845160848805833
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",26970,51,0.80 [0.57-1.12],0.1880585921302917
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,27292,56,0.98 [0.71-1.35],0.9052368878694252
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",27325,89,0.93 [0.72-1.19],0.5497568851586212
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,26973,90,1.22 [0.95-1.58],0.1164484194392035
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,27043,124,1.29 [1.04-1.60],0.0227271252670784
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,26955,36,0.94 [0.63-1.41],0.7540532050588707
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,26733,831,1.01 [0.93-1.10],0.8486748343485352
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,26932,49,0.84 [0.60-1.18],0.3248988907397266
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,27452,301,1.06 [0.92-1.21],0.447524624384195
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,27189,38,0.85 [0.57-1.25],0.3991968988537551
+FHIT,Bis(5'-adenosyl)-triphosphatase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),27277,126,0.91 [0.73-1.13],0.3870999232909639
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,27472,63,0.81 [0.61-1.09],0.1708898499180392
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,27628,96,0.87 [0.68-1.11],0.2558349409495632
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,27550,134,1.02 [0.83-1.25],0.8521932220855284
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,27462,53,1.16 [0.84-1.61],0.3761598050092324
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,27464,55,0.77 [0.56-1.06],0.1123158297608235
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,27580,533,0.98 [0.88-1.09],0.6790808161749746
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,27378,331,1.02 [0.90-1.17],0.7397017873072068
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,27145,98,0.97 [0.76-1.23],0.7860129713670889
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,27126,79,1.04 [0.79-1.36],0.7856536499739533
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Acute pharyngitis,27381,82,0.68 [0.53-0.89],0.0038782821439971
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,27533,234,0.79 [0.68-0.93],0.003539804294257
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,27359,60,0.78 [0.57-1.05],0.1008881007943423
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,All influenza,26352,77,0.88 [0.67-1.15],0.3454306965493561
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),26350,75,0.94 [0.71-1.24],0.6526662708409228
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Allergic asthma (mode),20499,124,1.25 [1.01-1.56],0.0443771596755504
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Allergic rhinitis,27514,314,1.13 [0.99-1.30],0.0738355115610156
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",22002,1766,1.05 [0.99-1.11],0.0850643468602633
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",22110,1735,1.05 [0.99-1.12],0.0738201775941347
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),27382,96,1.11 [0.87-1.42],0.4053776571618755
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",26334,59,1.16 [0.84-1.59],0.3670883014773476
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Bronchiectasis,24622,184,1.13 [0.94-1.34],0.1891452177783969
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",24481,43,1.10 [0.76-1.60],0.6100692532722993
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,26803,2365,1.05 [1.00-1.10],0.0592100672962538
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",26195,69,1.12 [0.84-1.50],0.442936533386323
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Chronic sinusitis,26294,168,1.36 [1.13-1.64],0.0011672674413151
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",27564,725,1.00 [0.92-1.10],0.972536535070902
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Deviated nasal septum,26257,131,1.13 [0.91-1.40],0.2618593405203618
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,25756,4283,1.04 [1.00-1.08],0.0421583128933033
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",26509,383,1.07 [0.94-1.20],0.3129285932378857
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Early onset COPD,27350,511,0.98 [0.88-1.10],0.7761735924693406
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Emphysema,24623,185,1.15 [0.95-1.37],0.1442942074051545
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,26424,112,0.96 [0.76-1.20],0.7110367249190448
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Influenza and pneumonia,27485,1210,0.98 [0.92-1.05],0.5936396399512223
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Interstitial lung disease,26449,137,0.98 [0.80-1.20],0.8355606890564476
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Later onset COPD,26233,214,1.06 [0.90-1.25],0.500340236027851
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,27660,155,0.88 [0.73-1.07],0.1951588664617656
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Nasal polyp,26241,115,1.23 [0.98-1.54],0.0760810158550231
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,27458,619,1.04 [0.95-1.15],0.4080353787360846
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Other diseases of pleura,27493,1253,1.04 [0.97-1.11],0.3158205174129569
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,27021,895,1.12 [1.04-1.22],0.0049983486271175
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Other pleural conditions,26275,35,0.78 [0.52-1.17],0.2277839701756254
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,27615,199,0.91 [0.77-1.08],0.299071099813513
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,27588,853,1.06 [0.98-1.15],0.1568999399564296
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Pleural effusion,26837,597,1.08 [0.98-1.19],0.1368872800967192
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Pleural plaque,26294,54,0.95 [0.68-1.33],0.7858685127273782
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",27275,1000,0.97 [0.90-1.05],0.5132498081380493
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,27642,137,0.90 [0.73-1.11],0.3193863685726228
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Pneumothorax,26305,65,1.27 [0.94-1.72],0.1254129178732602
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Pollen allergy,27633,269,1.11 [0.95-1.28],0.1794801617616485
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Pulmonary oedema,27454,38,0.78 [0.53-1.15],0.2155490507997978
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Respiratory insufficiency,20412,37,1.06 [0.71-1.59],0.7744478346200825
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,27440,601,1.02 [0.93-1.13],0.6823333968378549
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,26440,314,1.14 [0.99-1.30],0.066930212844687
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Viral pneumonia,26469,194,1.03 [0.87-1.23],0.7187413303575958
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",27402,167,0.97 [0.81-1.17],0.764838189066007
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,16010,102,0.97 [0.76-1.24],0.8137049798713338
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,21216,62,1.08 [0.79-1.47],0.6429333589266033
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Acute appendicitis,27469,156,0.87 [0.72-1.06],0.1619261152430225
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Acute gastritis,22122,74,0.85 [0.65-1.12],0.2537374055467161
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Acute pancreatitis,26081,167,1.04 [0.86-1.25],0.7051100178223291
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Acute peritonitis,27236,73,1.02 [0.77-1.34],0.9069324261101644
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Alcoholic liver disease,26896,86,0.86 [0.66-1.12],0.2714437673157227
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Barrett oesophagus,22401,353,0.93 [0.81-1.05],0.2419120285889288
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",25968,54,0.87 [0.63-1.20],0.4003327941560566
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",27261,54,0.87 [0.63-1.20],0.3957307132991736
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Cholecystitis,26096,182,0.91 [0.76-1.09],0.2902134187407934
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Cholelithiasis,26812,898,1.00 [0.92-1.08],0.9904547368898926
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Chronic gastritis,22295,247,0.93 [0.80-1.09],0.3784704296787237
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Chronic pancreatitis,25957,43,0.92 [0.64-1.33],0.6704245292058375
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",27519,78,0.71 [0.54-0.93],0.0129877172465529
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Coeliac disease,26239,116,1.14 [0.91-1.42],0.2606747133360365
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Collagenous colitis,26100,59,0.96 [0.71-1.31],0.808834584748821
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,27485,206,0.98 [0.83-1.16],0.826541575328732
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Constipation,27443,1158,0.99 [0.93-1.06],0.8271840320559194
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Crohn disease,26136,95,1.24 [0.96-1.58],0.0936605115469333
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",27321,66,1.21 [0.90-1.63],0.2072847676693766
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Crohn's disease NAS,26134,93,1.15 [0.90-1.48],0.2674742140844874
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Dental caries,26832,264,1.08 [0.93-1.26],0.3035445200408254
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,25598,1829,1.01 [0.96-1.07],0.6999421633737161
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Diseases of appendix,27511,198,0.95 [0.80-1.12],0.5241775148175964
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Diseases of liver,27547,737,0.97 [0.89-1.06],0.4816007923701474
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",25954,3906,0.99 [0.95-1.02],0.4794593546942746
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",27184,616,1.11 [1.01-1.22],0.0368191856625529
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Diseases of peritoneum,27588,425,1.06 [0.94-1.19],0.3142489621560628
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,26703,135,1.13 [0.92-1.39],0.253901723752954
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Diseases of salivary glands,26537,67,0.96 [0.71-1.28],0.7635855790514225
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Diseases of the digestive system,27390,1267,1.01 [0.94-1.08],0.7845385769337456
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Diseases of tongue,26550,122,0.84 [0.67-1.04],0.1079019722775858
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",27147,1233,1.00 [0.93-1.07],0.9787868849596744
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,23586,2432,1.03 [0.98-1.08],0.2316791427360172
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Duodenal ulcer,22194,146,0.98 [0.80-1.19],0.8068876366536175
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",27599,116,0.97 [0.77-1.21],0.7577503606636459
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,27533,82,1.35 [1.03-1.76],0.0276788081699373
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,26909,99,0.78 [0.61-1.00],0.0471905706620654
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,21332,178,0.94 [0.79-1.13],0.5176656834238609
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Functional dyspepsia,22561,513,0.97 [0.87-1.08],0.6038742234093819
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Gastric ulcer,22324,276,0.96 [0.83-1.11],0.6142987090556304
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,24293,2245,1.01 [0.96-1.06],0.6598680758314657
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,22453,405,0.96 [0.85-1.08],0.4609448467701963
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,22605,8080,1.01 [0.99-1.04],0.384412662587582
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,GI-bleeding,27148,1025,0.98 [0.91-1.05],0.5335818556856343
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,26627,59,1.05 [0.76-1.44],0.7643149903840345
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,22082,1297,1.05 [0.98-1.12],0.1755439576346506
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",26866,56,1.02 [0.74-1.42],0.8978555777537781
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Hernia,26515,2746,1.00 [0.96-1.05],0.9555571117481632
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Impacted teeth,27542,76,1.53 [1.16-2.01],0.0026123313094464
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Impaction of intestines,21185,31,1.39 [0.90-2.13],0.1370971164808511
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Inguinal hernia,24450,681,0.99 [0.90-1.09],0.8900419422688491
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",23848,79,0.98 [0.74-1.29],0.8858017751067501
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,21228,74,0.93 [0.70-1.22],0.5932363154204385
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Intestinal malabsorption,26259,136,1.20 [0.98-1.48],0.0752139301451862
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,21728,574,1.02 [0.93-1.13],0.6758388048458523
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,27643,377,1.03 [0.91-1.17],0.6460498640566608
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,26741,700,0.99 [0.91-1.08],0.8494584641877442
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,26928,887,1.04 [0.96-1.12],0.3865382729810648
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Oesophageal obstruction,22201,153,1.06 [0.87-1.29],0.5834151275797246
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Oesophagitis,22537,489,1.02 [0.91-1.14],0.733180550244289
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,27627,133,0.99 [0.80-1.22],0.9247013500659476
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,23816,47,1.31 [0.92-1.86],0.1358243164755447
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,22456,1302,1.00 [0.94-1.07],0.9805813433292516
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,26110,196,0.95 [0.80-1.13],0.5781789192195264
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,26075,161,0.94 [0.78-1.14],0.5513886423693983
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Other diseases of intestine,22649,1495,0.99 [0.93-1.06],0.8670738717836358
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Other diseases of intestines,26037,4883,1.01 [0.98-1.05],0.4161270219866417
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,26542,196,1.07 [0.90-1.27],0.4523113742110499
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Other diseases of liver,27401,591,0.97 [0.87-1.07],0.4840057768952622
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,22587,539,0.92 [0.83-1.02],0.1113183262559721
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Other diseases of pancreas,25995,81,0.97 [0.74-1.27],0.8378068132786574
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,27531,368,1.08 [0.95-1.22],0.2363889516586702
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,22821,773,0.94 [0.86-1.02],0.1370076088322727
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,27160,1037,0.98 [0.91-1.06],0.6126891445116625
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,26755,187,1.19 [1.00-1.42],0.0536699257489514
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,22357,1203,0.99 [0.93-1.06],0.8169541891031176
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),23831,1783,0.97 [0.92-1.03],0.3339637725148749
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,26889,79,0.74 [0.56-0.96],0.0253991131582843
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,26816,775,0.98 [0.90-1.06],0.5899981242641948
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",21384,230,1.04 [0.88-1.21],0.6644460371548189
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,27517,97,1.31 [1.02-1.67],0.03192994943282
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,21502,348,1.00 [0.88-1.14],0.9552589175331428
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",26259,136,1.06 [0.86-1.30],0.599089927525424
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Recurring oral aphthae,27659,55,0.88 [0.64-1.22],0.444688564894392
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,26583,126,0.93 [0.75-1.15],0.5222171079057986
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Toxic colitis,26072,31,0.72 [0.47-1.09],0.1208022699466264
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,22231,183,1.14 [0.96-1.37],0.1420571621168283
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Ulcerative colitis,26189,148,1.41 [1.16-1.71],0.0006834436201792
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",26171,130,1.44 [1.17-1.77],0.0007167109988703
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Umbilical hernia,24047,278,0.88 [0.76-1.01],0.073846118840737
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,21255,101,1.03 [0.81-1.31],0.8181212254715179
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Ventral hernia,23993,224,1.01 [0.86-1.18],0.9381946032762069
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XI Diseases of the digestive system,Volvulus,21221,67,0.98 [0.73-1.31],0.8845004023108393
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,27615,161,1.00 [0.83-1.21],0.9935662910804648
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,27393,77,1.00 [0.76-1.32],0.9990190026213456
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,26189,151,1.10 [0.90-1.33],0.3558939663711903
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,27042,550,1.03 [0.93-1.14],0.5879668104088113
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",26688,196,1.07 [0.90-1.27],0.4652516442867505
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,26218,180,1.05 [0.87-1.26],0.6270419553733637
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,27404,230,1.02 [0.87-1.19],0.8002318456291249
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,27570,396,0.98 [0.87-1.10],0.738664244477526
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,27221,47,0.97 [0.69-1.37],0.8674613452164955
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,26208,2593,1.02 [0.97-1.07],0.4101380639734662
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,27215,444,0.94 [0.84-1.05],0.2970923083207953
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,27085,314,0.95 [0.83-1.09],0.4587050137104529
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,27272,780,1.03 [0.95-1.12],0.4949070096690705
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",27657,48,1.42 [1.01-2.01],0.0460134409814133
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,26091,53,0.96 [0.69-1.32],0.7868478624523523
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,26813,42,1.05 [0.72-1.52],0.8107634458726183
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,27398,224,1.03 [0.87-1.20],0.7553931064561883
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,26326,288,1.08 [0.93-1.24],0.318132962224345
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,26073,35,1.05 [0.70-1.58],0.8057503641703299
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,27584,70,1.02 [0.76-1.36],0.896639083276507
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,26627,135,1.16 [0.94-1.43],0.1601306906188887
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,27474,158,0.84 [0.69-1.02],0.0742347305390211
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,27207,33,1.01 [0.66-1.55],0.9703663338384504
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,26091,53,0.88 [0.63-1.22],0.4333423502966529
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,27150,1112,1.01 [0.94-1.09],0.708457851351526
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",26356,318,1.11 [0.97-1.27],0.1336573636110187
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,26077,39,1.20 [0.81-1.76],0.3614473813857894
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,27584,268,0.99 [0.86-1.15],0.9418970848450572
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,27236,62,0.78 [0.58-1.06],0.1108551131694619
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,27536,220,0.92 [0.78-1.08],0.3196478846909998
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,27637,183,0.94 [0.79-1.13],0.5295573150614412
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,26164,126,1.11 [0.90-1.38],0.3202665987219865
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,26229,191,1.00 [0.84-1.19],0.9612502409191844
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,27628,174,0.95 [0.79-1.13],0.5434792470590681
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",26168,130,1.04 [0.84-1.28],0.7513310557179562
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,27634,120,1.01 [0.81-1.26],0.9323828874305756
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,24309,134,1.08 [0.88-1.34],0.4455140186060439
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,25853,4666,1.00 [0.96-1.03],0.8318541397567362
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,24480,3293,1.00 [0.96-1.05],0.8788753328340729
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,24269,94,0.89 [0.69-1.14],0.3515579761515965
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,24850,159,1.00 [0.83-1.21],0.9750183259750236
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,24851,160,1.14 [0.94-1.38],0.1691032366995651
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,27439,113,0.93 [0.74-1.16],0.5291742206893748
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",24738,47,0.88 [0.62-1.24],0.4623134198999535
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,21928,741,0.99 [0.91-1.08],0.8519144700999202
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",27612,121,1.12 [0.90-1.40],0.3065929688315207
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,24983,292,0.99 [0.86-1.13],0.8410656251063185
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,24226,6252,1.00 [0.97-1.03],0.9832492822324416
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,26301,109,1.07 [0.85-1.35],0.5487677561542325
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,24293,118,0.81 [0.65-1.01],0.0598353424329102
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,24779,604,1.01 [0.92-1.12],0.7999006825009768
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,26788,2097,0.99 [0.94-1.05],0.7766582704521496
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,24398,223,1.08 [0.92-1.27],0.3442742244389033
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,24454,279,1.11 [0.96-1.28],0.1636536402484095
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,24323,148,1.09 [0.89-1.32],0.4085925915055959
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,27162,36,0.75 [0.51-1.10],0.1426887420282525
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,22519,1332,1.04 [0.98-1.11],0.2228439227726273
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,21582,395,0.96 [0.85-1.09],0.556347449871583
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",27618,386,0.96 [0.85-1.09],0.5399477775378201
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,21258,71,1.19 [0.90-1.58],0.2310554092615709
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),21540,353,0.95 [0.84-1.08],0.4156312018717807
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,24506,331,0.94 [0.82-1.07],0.327691677955984
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,21961,774,1.05 [0.96-1.15],0.2682892127027511
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,24720,29,0.85 [0.55-1.31],0.458907746315724
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,25248,557,1.02 [0.92-1.13],0.7409995851500792
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,24970,279,0.96 [0.83-1.11],0.5752847473591782
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,21909,722,1.05 [0.96-1.15],0.3195279738761674
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,24260,85,1.18 [0.91-1.54],0.2005508967500184
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",24239,64,1.14 [0.84-1.54],0.4062339855495142
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,26250,58,1.18 [0.86-1.63],0.3134350834118199
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,27334,1142,1.03 [0.96-1.11],0.4017640992471768
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,26835,643,1.03 [0.94-1.13],0.5516176028293767
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",27559,348,0.99 [0.87-1.13],0.8903358507118708
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,22947,1760,0.98 [0.93-1.04],0.5307698696176182
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,21267,80,0.92 [0.70-1.20],0.5227435722523209
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,24254,79,1.13 [0.86-1.49],0.3896838180018359
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,21212,25,0.75 [0.46-1.22],0.2489414055227448
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),21297,110,0.94 [0.75-1.18],0.5824705232048495
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,26419,227,0.95 [0.81-1.12],0.5534662758887364
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,26430,238,1.05 [0.90-1.22],0.5508743591743803
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,27628,87,0.93 [0.72-1.20],0.5701373167674253
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",26258,1567,1.03 [0.97-1.09],0.4116570815582655
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,24296,121,0.85 [0.69-1.06],0.1503978257439834
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),21306,119,0.78 [0.62-0.96],0.0211939558503534
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,25323,632,1.01 [0.92-1.12],0.7713486064801676
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,23244,2057,1.02 [0.97-1.07],0.4877304537116198
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,27183,57,0.73 [0.53-0.99],0.0440510238505432
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,27641,74,1.02 [0.77-1.35],0.8821064885711537
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,24259,84,0.95 [0.73-1.24],0.7216486375762561
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",25271,1096,1.01 [0.94-1.09],0.7939506779176669
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,24245,70,0.96 [0.72-1.28],0.7842608812542552
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,22310,1123,0.99 [0.92-1.07],0.8262667589839293
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,26291,99,1.09 [0.86-1.39],0.4680825945405216
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,24245,70,1.24 [0.92-1.66],0.1512873155435652
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,24810,119,1.05 [0.84-1.30],0.6907352141622287
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,24577,402,0.92 [0.81-1.03],0.1470022604008651
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,27333,207,1.11 [0.94-1.31],0.2010713151154883
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,25164,473,1.06 [0.95-1.18],0.2971030578346851
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,27568,328,1.01 [0.89-1.15],0.8714230620486556
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,27650,38,0.85 [0.58-1.25],0.4015165612839715
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,24378,203,0.97 [0.82-1.15],0.7257089956060645
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,22226,605,1.04 [0.94-1.15],0.4368490526999898
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,24670,495,0.99 [0.89-1.10],0.8850588572670629
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],24343,168,1.19 [0.99-1.44],0.0708500998718176
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",21224,37,0.68 [0.46-1.00],0.0508777699127847
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,22958,1771,0.98 [0.93-1.04],0.5929264067503726
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,21646,459,0.90 [0.80-1.01],0.0665245054132264
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,27212,86,1.17 [0.90-1.52],0.2414598773990812
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",27593,52,0.85 [0.61-1.18],0.3298252303328661
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",26044,29,1.28 [0.82-2.01],0.2825805549642701
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,21263,76,1.01 [0.77-1.34],0.9348856146965496
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,24781,90,1.08 [0.83-1.39],0.5651719122398275
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,21539,352,0.98 [0.87-1.12],0.8102745625756934
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,24447,272,0.93 [0.80-1.08],0.3284894214569685
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,24904,213,1.11 [0.94-1.31],0.1994662979071247
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,24797,106,0.97 [0.77-1.22],0.7754377913158971
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,23453,48,1.42 [1.00-2.00],0.0493926080400503
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",27653,41,0.76 [0.52-1.09],0.1359127962442728
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,24782,607,0.97 [0.88-1.07],0.5710593657458471
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],27210,84,0.95 [0.73-1.22],0.6751580365499446
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,26579,2404,0.99 [0.94-1.04],0.7214404913325787
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",24282,107,0.90 [0.71-1.13],0.3528134639650658
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,25049,358,0.95 [0.84-1.08],0.4456966931913054
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,26281,191,1.01 [0.85-1.20],0.8934116521609329
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,24842,151,1.00 [0.83-1.22],0.9726740937352572
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,25753,1062,0.95 [0.89-1.03],0.2048788424740555
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,25400,709,0.97 [0.88-1.06],0.4455534939302659
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],24219,44,1.18 [0.82-1.72],0.3707536416907766
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,27271,145,1.02 [0.84-1.24],0.8343942372927576
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,24329,154,0.93 [0.77-1.13],0.4847124787447314
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,24232,57,0.78 [0.57-1.06],0.11597467395001
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),21225,38,0.94 [0.63-1.39],0.7533649469119359
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Acute renal failure,27105,860,0.98 [0.91-1.07],0.715057967829932
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),11225,71,0.98 [0.75-1.30],0.9145429555925588
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,14920,74,1.02 [0.77-1.33],0.9138987850934568
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,27370,326,0.98 [0.86-1.12],0.7670670314160902
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,27105,61,0.72 [0.53-0.99],0.041168000829034
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,26937,692,0.97 [0.89-1.06],0.5381544879749546
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,27480,31,0.72 [0.47-1.11],0.1399299779175186
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,27491,187,1.01 [0.85-1.21],0.8726008420039117
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Cystitis,25439,159,0.97 [0.80-1.17],0.7191129324874681
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Dialysis,26304,59,0.90 [0.66-1.23],0.4993332632726547
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,11972,1130,1.07 [0.99-1.15],0.075228615861249
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Disorders of breast,15049,203,0.98 [0.83-1.15],0.7914758712173531
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Endometriosis,11287,133,0.97 [0.79-1.19],0.799850523584969
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",11541,387,0.83 [0.74-0.94],0.0024410783394612
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,11577,423,1.00 [0.89-1.12],0.9421719584031418
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,23353,4295,1.02 [0.98-1.06],0.3291306793288448
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,27518,69,1.05 [0.79-1.40],0.7452547229783357
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Hydrocele,10930,88,0.99 [0.76-1.30],0.9704091818561804
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,26162,227,1.05 [0.90-1.24],0.5203258645121053
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,11583,741,1.09 [0.99-1.19],0.0790963670080183
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,14908,242,0.93 [0.80-1.08],0.3437150406862435
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),10948,106,1.11 [0.87-1.41],0.4124675720801152
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Irregular menses,14920,124,0.72 [0.59-0.88],0.0015121124035604
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Menorrhagia,11450,296,0.93 [0.82-1.07],0.3271266388310518
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,25344,64,0.95 [0.70-1.28],0.733934305771178
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,12573,1419,0.98 [0.92-1.04],0.5310448119713167
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,10891,49,1.11 [0.78-1.58],0.5597544531591625
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,11256,102,1.26 [1.00-1.60],0.0515524040625749
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",27657,38,1.04 [0.71-1.55],0.8285012944594097
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",27663,46,0.84 [0.59-1.19],0.3294044382182902
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,26800,1520,1.05 [0.99-1.12],0.1050884470605037
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,25759,479,1.12 [1.00-1.25],0.0518727884007775
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,14913,67,0.99 [0.74-1.31],0.922255827659323
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,27619,315,1.09 [0.95-1.25],0.2326399358743952
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,10998,156,1.00 [0.82-1.23],0.9644566329581528
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,10960,118,1.03 [0.82-1.29],0.8002643252256235
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,10917,75,1.09 [0.82-1.45],0.5603126265070686
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,27631,50,1.09 [0.78-1.52],0.6313034813487497
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,26378,1098,1.02 [0.95-1.10],0.5914094401669537
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,14793,127,0.98 [0.80-1.21],0.855806305890346
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,11243,89,1.10 [0.86-1.41],0.4578704233646532
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",11381,227,1.05 [0.90-1.22],0.5596571311780234
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,11215,61,1.49 [1.10-2.01],0.0102140192791721
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,11255,101,0.98 [0.78-1.24],0.8638299811977681
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,26195,260,1.02 [0.88-1.19],0.7541638846362256
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,27416,112,1.22 [0.97-1.54],0.0918754602754461
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,11340,186,1.04 [0.87-1.23],0.6941538083854727
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,11237,83,0.91 [0.71-1.18],0.4908570275620011
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,11586,432,1.02 [0.91-1.14],0.731903411325705
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,11221,67,1.12 [0.84-1.49],0.446061289275681
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,11532,378,1.12 [1.00-1.27],0.0566824294621907
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,27496,47,1.16 [0.81-1.65],0.4098401967814958
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",10950,108,1.25 [0.98-1.59],0.0700025753761058
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,27460,1525,1.00 [0.94-1.07],0.9010251790667232
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",26074,139,1.12 [0.91-1.37],0.2890837465840042
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,26323,78,0.77 [0.58-1.01],0.057109039060566
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,27115,71,1.02 [0.77-1.36],0.8819613695273609
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Urethral stricture,25447,167,1.17 [0.97-1.42],0.0940558349226035
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Urolithiasis,27434,390,0.93 [0.83-1.05],0.264769644117752
+FHIT,Bis(5'-adenosyl)-triphosphatase,Chapter XIV Diseases of the genitourinary system,Uterine polyps,11256,102,1.17 [0.93-1.48],0.1890384659408048

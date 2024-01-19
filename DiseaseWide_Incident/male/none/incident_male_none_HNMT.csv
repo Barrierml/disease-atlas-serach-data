@@ -1,0 +1,632 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",22261,173,1.46 [1.12-1.91],0.005812034235256
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",23278,182,1.58 [1.22-2.05],0.0005835032181429
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",23032,1396,1.34 [1.22-1.47],2.9440641673882273e-09
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Candidiasis,23288,371,1.58 [1.32-1.90],6.26290882500725e-07
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,22604,3414,1.31 [1.23-1.39],5.1724504415586205e-17
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),22575,3443,1.39 [1.31-1.48],7.436633171930701e-26
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,23082,1023,1.35 [1.20-1.51],2.604962984330357e-07
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,23215,76,2.28 [1.58-3.30],1.2070172604173992e-05
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,21103,1101,1.51 [1.35-1.68],1.1835045244222186e-13
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,20359,1222,1.64 [1.48-1.82],1.0829889960179993e-21
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,20085,247,1.84 [1.48-2.30],5.3483420987779043e-08
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,16387,2233,1.44 [1.34-1.56],1.715405916348854e-20
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,20018,403,1.80 [1.52-2.14],1.7027706904945554e-11
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,23279,1220,1.38 [1.24-1.53],1.1561224277061252e-09
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Mycoses,23378,461,1.43 [1.21-1.68],2.5294305708955948e-05
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,22519,883,1.35 [1.19-1.52],1.4678735736642802e-06
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,23301,1213,1.43 [1.29-1.59],5.504264318128765e-12
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,22243,184,1.55 [1.19-2.01],0.0010184627314702
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,23417,53,1.11 [0.67-1.86],0.6822491447233818
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Other septicaemia,23152,1064,1.43 [1.28-1.60],1.1668676045489694e-10
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,23208,69,1.26 [0.82-1.96],0.2935370329817
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Other viral diseases,23354,118,1.39 [1.00-1.92],0.0496751202863516
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",23336,100,1.55 [1.10-2.20],0.0132135881307385
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,22119,483,1.54 [1.31-1.80],8.863223395585334e-08
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,21923,287,1.44 [1.17-1.77],0.0007011712107539
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,22146,87,2.13 [1.50-3.04],2.7934766343195727e-05
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,23398,64,2.10 [1.41-3.14],0.0002886767385058
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,23363,142,1.17 [0.86-1.60],0.3161949063056132
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Viral warts,23273,52,1.12 [0.67-1.87],0.6775486451070118
+HNMT,Histamine N-methyltransferase,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],23272,51,1.08 [0.64-1.82],0.7821774808933311
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,Benign lipomatous neoplasm,23106,335,0.91 [0.75-1.12],0.3820037983412737
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,23346,44,0.95 [0.54-1.67],0.8547277522448161
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,23315,54,1.12 [0.68-1.84],0.6610493023586033
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,23371,127,0.91 [0.65-1.27],0.5813686980390389
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",23051,1609,1.09 [1.00-1.20],0.0604175133664957
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,Benign neoplasm of meninges,23417,33,0.85 [0.44-1.62],0.6153661592164822
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,23356,64,2.46 [1.65-3.65],8.427764275538309e-06
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,23401,76,1.55 [1.04-2.31],0.0295949508311209
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,Benign neoplasm: Ascending colon,23392,434,1.28 [1.07-1.52],0.005829916210465
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,Benign neoplasm: Caecum,23389,331,1.21 [0.99-1.48],0.0652519797925815
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",23291,78,0.81 [0.54-1.23],0.3307082642043467
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,Benign neoplasm: Descending colon,23384,272,1.11 [0.89-1.38],0.3575223262984246
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,Benign neoplasm: Rectum,23344,414,1.05 [0.87-1.26],0.6280240616217491
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,23295,715,1.04 [0.90-1.19],0.6081408952142657
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,Benign neoplasm: Transverse colon,23374,550,1.12 [0.96-1.31],0.1413839113226419
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",18200,71,1.27 [0.82-1.98],0.2821442723013915
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",18199,70,1.56 [1.00-2.42],0.0474697546191899
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",23386,100,1.12 [0.78-1.62],0.543013522572875
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,"Haemangioma, any site",23386,97,1.14 [0.78-1.65],0.5048068212913752
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,Lung cancer and mesothelioma,15572,338,1.26 [1.02-1.55],0.0343436294542919
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,Lymphoid leukaemia,18194,65,1.11 [0.70-1.78],0.6505538699208799
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",18321,192,1.20 [0.92-1.58],0.1747170255452741
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",18420,291,0.94 [0.75-1.17],0.5606409934689767
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",18218,89,1.66 [1.15-2.39],0.006663974008931
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",18270,141,1.22 [0.90-1.66],0.2050981266477942
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",18268,139,1.13 [0.83-1.54],0.4405261683369845
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",18210,81,0.84 [0.55-1.26],0.3961256219327784
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",19506,1377,1.04 [0.94-1.15],0.4317751315465992
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",18269,140,1.17 [0.85-1.60],0.3367237773016813
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",18235,106,1.21 [0.85-1.73],0.292352607983009
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,18253,124,1.18 [0.84-1.66],0.3454155098448338
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,Melanocytic naevi,23293,163,1.28 [0.96-1.71],0.0899618103679068
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,Melanocytic naevi of trunk,23386,92,1.32 [0.90-1.93],0.1497290838421324
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,Melanoma in situ,18158,69,0.99 [0.62-1.56],0.9573287142518628
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",18229,100,1.44 [1.00-2.08],0.0516574614079679
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",18294,165,1.45 [1.09-1.93],0.0103023786452574
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",18344,215,1.08 [0.84-1.39],0.5413261558307632
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",18228,99,1.62 [1.14-2.32],0.0078613273836587
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,Other benign neoplasms of skin,23284,138,1.09 [0.80-1.49],0.5924464020884745
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",19314,1185,1.05 [0.94-1.18],0.3464543448726853
+HNMT,Histamine N-methyltransferase,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",19386,1257,1.07 [0.96-1.19],0.2307714162528643
+HNMT,Histamine N-methyltransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,23147,305,1.11 [0.90-1.37],0.3479776877395756
+HNMT,Histamine N-methyltransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,21705,116,2.73 [2.08-3.59],7.001054765031088e-13
+HNMT,Histamine N-methyltransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,22913,71,1.90 [1.28-2.81],0.0015164043478204
+HNMT,Histamine N-methyltransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,22868,2744,1.35 [1.26-1.45],3.779483777918405e-17
+HNMT,Histamine N-methyltransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,22159,61,1.90 [1.24-2.90],0.0029717815089999
+HNMT,Histamine N-methyltransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,22999,51,1.31 [0.79-2.17],0.2996183386393219
+HNMT,Histamine N-methyltransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,23043,1454,1.43 [1.30-1.58],7.676449258601338e-14
+HNMT,Histamine N-methyltransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,23041,1452,1.43 [1.30-1.58],8.030985934625404e-14
+HNMT,Histamine N-methyltransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,21694,105,1.68 [1.19-2.37],0.0030107640881178
+HNMT,Histamine N-methyltransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,23180,1082,1.32 [1.19-1.48],5.994648204004434e-07
+HNMT,Histamine N-methyltransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,23049,101,1.71 [1.21-2.42],0.0021840114560393
+HNMT,Histamine N-methyltransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,22915,73,2.35 [1.63-3.39],4.127347631426081e-06
+HNMT,Histamine N-methyltransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,22902,60,1.33 [0.82-2.13],0.2450130256009902
+HNMT,Histamine N-methyltransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,23257,309,1.72 [1.41-2.09],5.719209829662711e-08
+HNMT,Histamine N-methyltransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,23322,48,1.46 [0.87-2.44],0.1556013929406909
+HNMT,Histamine N-methyltransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",23198,250,1.74 [1.40-2.16],5.613487433759765e-07
+HNMT,Histamine N-methyltransferase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,22176,78,1.56 [1.06-2.29],0.0244442081946054
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,17265,369,2.03 [1.70-2.43],9.833765902507531e-15
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,21406,161,1.29 [0.97-1.72],0.0820391175956085
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,21434,189,2.24 [1.75-2.87],1.8716085841150304e-10
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,16953,57,1.35 [0.82-2.22],0.2386751910988164
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,22066,62,1.38 [0.88-2.15],0.1594352051891182
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,21315,215,1.00 [0.78-1.28],0.9946510846815682
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",22919,607,1.13 [0.97-1.31],0.125037996229558
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,22550,238,0.65 [0.51-0.83],0.0004657720539605
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,22480,168,0.66 [0.49-0.88],0.0048708718349754
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,23121,1117,1.25 [1.13-1.40],4.12448128770763e-05
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,20029,1075,1.26 [1.13-1.41],4.9564558701848974e-05
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",16968,72,1.86 [1.23-2.81],0.0031319297658761
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",22550,39,0.84 [0.46-1.51],0.5526947667280083
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,17164,268,1.80 [1.45-2.24],1.5560840396153174e-07
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,16969,73,3.33 [2.41-4.60],3.2094373147639493e-13
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,20707,3811,1.23 [1.15-1.30],3.7456412801014546e-11
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,17077,181,1.55 [1.18-2.03],0.0014269118476125
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,17454,558,1.77 [1.52-2.06],1.0327306861406025e-13
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,23360,268,1.80 [1.46-2.21],2.596653461421396e-08
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,23180,88,3.57 [2.73-4.66],1.0493320349045976e-20
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,17045,149,1.51 [1.12-2.03],0.0074668268763274
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",16960,64,2.36 [1.56-3.58],5.138221843900669e-05
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,23243,732,1.45 [1.28-1.66],2.1812883601665684e-08
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,17193,297,2.03 [1.67-2.47],2.243144801232984e-12
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,17268,372,2.10 [1.76-2.50],2.0628514320210566e-16
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",17609,713,1.35 [1.17-1.55],2.273129745606069e-05
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,17040,144,1.41 [1.04-1.92],0.0276496792117923
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,23173,81,3.72 [2.83-4.88],2.5078473208810016e-21
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,17451,555,1.41 [1.20-1.65],2.1072146949052896e-05
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,17280,384,1.64 [1.36-1.97],1.5031090064106956e-07
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,21165,65,1.44 [0.91-2.27],0.1203422596492194
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,22000,5104,1.26 [1.19-1.32],5.821887584250325e-18
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,22530,19,2.74 [1.43-5.24],0.0023634903712304
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,22533,22,1.06 [0.48-2.32],0.8851516966981096
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,23250,1741,1.10 [1.01-1.19],0.0282355202428299
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",23247,1737,1.09 [1.01-1.18],0.0349875790556372
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,22533,22,1.79 [0.89-3.61],0.1045820025931215
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,23148,786,1.03 [0.91-1.18],0.613348700942664
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",18485,1589,1.59 [1.46-1.74],1.4584750436581044e-24
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,23406,261,1.89 [1.55-2.31],4.047407812165288e-10
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,22420,108,1.15 [0.81-1.64],0.4289250792698175
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,22435,73,0.96 [0.62-1.47],0.8406165074385074
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,22443,81,0.81 [0.54-1.23],0.3267331790745539
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",16959,63,1.53 [0.97-2.43],0.0704068409168507
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,20664,161,1.65 [1.25-2.17],0.0003791691709232
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,2465,121,1.35 [1.01-1.80],0.0400438052589483
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,2630,319,0.97 [0.81-1.17],0.7439348771641905
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,20601,98,1.93 [1.40-2.66],5.403231805910249e-05
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,2422,80,2.86 [2.11-3.88],1.0385168561354004e-11
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,22645,2142,1.45 [1.35-1.57],2.3297509120259216e-22
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,22669,357,0.98 [0.80-1.20],0.8554044984401212
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,21341,241,1.46 [1.16-1.83],0.0011351034923282
+HNMT,Histamine N-methyltransferase,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,17685,789,1.61 [1.41-1.83],6.028728799464858e-13
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",23295,247,1.22 [0.97-1.54],0.0866429995875069
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),22222,270,1.28 [1.02-1.60],0.0325121607662604
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Angina pectoris,20552,1471,1.21 [1.10-1.33],7.176907365644348e-05
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Aortic aneurysm,22328,376,1.24 [1.03-1.50],0.0243955537896016
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,22035,83,2.36 [1.66-3.36],1.75838596428248e-06
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",22194,242,1.83 [1.47-2.28],7.685938779884446e-08
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,13718,2265,1.19 [1.10-1.29],2.2688686683801702e-05
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,AV-block,18852,620,1.35 [1.17-1.56],5.253875521151945e-05
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",23344,527,1.30 [1.11-1.52],0.0011805192569694
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Cardiac arrest,11701,248,1.86 [1.47-2.35],2.187690366926671e-07
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Cardiomyopathy,18435,203,1.39 [1.08-1.79],0.0108618090653289
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",18343,111,1.47 [1.05-2.05],0.0255627323523738
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,23418,64,1.78 [1.17-2.71],0.0067911142223035
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Conduction disorders,19576,1344,1.34 [1.21-1.48],8.039255193864198e-09
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,21637,2579,1.23 [1.14-1.32],1.6630839135562895e-08
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,19721,7618,1.13 [1.09-1.19],1.4818066029242446e-08
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,DVT of lower extremities,22214,271,1.21 [0.97-1.51],0.0919016521168851
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Endocarditis,18312,80,1.40 [0.94-2.09],0.1006696853504149
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,"Heart failure, strict",23110,1303,1.47 [1.34-1.62],5.4479176523706375e-15
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Hypertension,20902,6653,1.19 [1.13-1.24],2.5622041597019895e-13
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,"Hypertension, essential",20924,6675,1.19 [1.14-1.25],6.70456744414835e-14
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,"Hypertension, portal",23197,109,3.52 [2.74-4.52],4.080120347651175e-23
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",14430,181,1.63 [1.25-2.13],0.0003243728346442
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,14415,166,4.41 [3.63-5.37],6.799776893116627e-50
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Hypotension,23274,1224,1.43 [1.29-1.58],1.072705194336725e-11
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,22359,117,0.92 [0.65-1.30],0.638146603872899
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",21774,2693,1.22 [1.14-1.31],2.8338588182646132e-08
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",22990,645,1.32 [1.15-1.53],0.0001092436678086
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Left bundle-branch block,18644,412,1.49 [1.25-1.78],9.074161420260147e-06
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,22693,1044,1.34 [1.20-1.50],2.2642435313602706e-07
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",19989,908,1.42 [1.26-1.60],7.274752244275367e-09
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",23257,219,1.37 [1.08-1.74],0.0100373819056887
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",23366,373,1.41 [1.17-1.69],0.0002839064885367
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Oesophageal varices,22012,69,3.75 [2.79-5.05],2.9304830103901588e-18
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Other aneurysm,22049,97,1.31 [0.90-1.90],0.1543397966503511
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Other arrhythmias,18703,471,1.13 [0.95-1.34],0.1606306339458458
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,22082,130,2.18 [1.63-2.91],1.3330687844232325e-07
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,22229,277,1.65 [1.33-2.03],3.2574073193749945e-06
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,18420,188,1.57 [1.21-2.04],0.000699493914329
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Other disorders of veins,22039,96,1.41 [0.99-2.00],0.0563663443150743
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,21992,49,1.10 [0.65-1.85],0.7217241136020789
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,21850,90,2.22 [1.57-3.13],6.262072221647224e-06
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,22048,105,0.98 [0.70-1.38],0.9195706349619092
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,19463,1231,1.40 [1.26-1.55],1.1534279375567928e-10
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,22112,62,4.26 [3.10-5.84],2.8433959467174803e-19
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,22509,557,1.44 [1.24-1.68],1.9847434745596217e-06
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,22776,355,1.43 [1.19-1.71],0.0001650978422885
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",22422,662,1.22 [1.06-1.41],0.0056211656297273
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,11828,375,1.24 [1.02-1.51],0.0318447474605309
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Peripheral artery disease,22423,518,1.57 [1.35-1.83],5.527333995377075e-09
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),22292,349,1.01 [0.83-1.23],0.9027834928832204
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Pulmonary embolism,22917,496,1.00 [0.85-1.18],0.9804203242109002
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,23355,701,1.41 [1.23-1.61],6.845249074012759e-07
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Right bundle-branch block,18692,460,1.39 [1.17-1.64],0.0001558082336777
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Secondary right heart disease,22774,353,1.41 [1.18-1.70],0.0002379184070805
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,21979,219,1.53 [1.20-1.94],0.0005124276131252
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",22975,733,1.25 [1.09-1.43],0.0011365212935651
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",22959,760,1.25 [1.10-1.43],0.000888989817552
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,22334,43,1.12 [0.64-1.96],0.6965333582792458
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,22063,112,1.32 [0.93-1.88],0.1170589788225148
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Transient ischemic attack,22594,249,1.43 [1.14-1.80],0.0021611668852847
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,21957,308,1.23 [1.01-1.51],0.0428207780734781
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Varicose veins,22310,367,1.05 [0.86-1.27],0.6376852864841941
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,21969,74,0.97 [0.62-1.50],0.8786932358097708
+HNMT,Histamine N-methyltransferase,Chapter IX Diseases of the circulatory system,Venous thromboembolism,23183,776,0.99 [0.87-1.13],0.8485990715394958
+HNMT,Histamine N-methyltransferase,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",23222,491,1.52 [1.30-1.78],2.134365567686618e-07
+HNMT,Histamine N-methyltransferase,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",20121,951,1.08 [0.95-1.22],0.2334164476833649
+HNMT,Histamine N-methyltransferase,Chapter V Mental and behavioural disorders,Any mental disorder,22739,3569,1.11 [1.04-1.18],0.0008166828386116
+HNMT,Histamine N-methyltransferase,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",23160,579,1.36 [1.18-1.58],4.056087029272749e-05
+HNMT,Histamine N-methyltransferase,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",20321,1151,1.27 [1.14-1.41],1.518508068777968e-05
+HNMT,Histamine N-methyltransferase,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",19251,81,0.82 [0.54-1.24],0.3427333348040478
+HNMT,Histamine N-methyltransferase,Chapter V Mental and behavioural disorders,Smoking dependency,22779,1506,1.26 [1.15-1.38],1.4372013816377282e-06
+HNMT,Histamine N-methyltransferase,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",21009,1839,1.23 [1.13-1.34],1.1188334502838994e-06
+HNMT,Histamine N-methyltransferase,Chapter V Mental and behavioural disorders,Vascular dementia,22912,148,1.11 [0.82-1.50],0.4968734567170469
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Alzheimer disease,23416,294,0.76 [0.61-0.95],0.0143247516717574
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",15563,57,0.76 [0.46-1.25],0.273090185035394
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Bell's palsy,22070,76,1.34 [0.89-2.01],0.1655513716615707
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,22332,338,1.19 [0.98-1.45],0.0810877981605641
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Cerebral cysts,23021,232,1.64 [1.30-2.06],2.9627656216674705e-05
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,23331,362,1.17 [0.97-1.42],0.1017855378655786
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,22911,60,0.80 [0.49-1.31],0.3787275572928701
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,23397,74,1.55 [1.04-2.32],0.032230934937357
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",22879,90,1.58 [1.08-2.29],0.0176464303968489
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Epilepsy,21823,284,1.23 [0.99-1.53],0.0635427938844111
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,22890,1351,1.15 [1.04-1.27],0.004531435389558
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,23383,668,0.66 [0.57-0.77],2.4876138430433373e-08
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Falls/tendency to fall,22876,2177,1.13 [1.05-1.23],0.0017057679327704
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Generalized epilepsy,23035,60,1.06 [0.66-1.72],0.797969889335124
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Hemiplegia,23250,281,1.29 [1.04-1.60],0.0199675085772869
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Hydrocephalus,22843,54,1.20 [0.72-1.99],0.4796916388259677
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,23400,60,1.03 [0.64-1.66],0.8901100678176671
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,22015,21,0.37 [0.17-0.77],0.0084940067954463
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,22084,90,1.67 [1.16-2.39],0.005521269534506
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Memory loss,22753,120,1.35 [0.97-1.88],0.0784903617414827
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Migraine,21731,192,1.19 [0.91-1.56],0.201480351228483
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",23393,173,1.22 [0.92-1.62],0.1667098611617146
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Motor neuron disease,15666,147,1.07 [0.78-1.48],0.6615898478055404
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,23309,62,0.78 [0.49-1.24],0.2928332717320714
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",22956,962,1.21 [1.08-1.36],0.0013182391928362
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Neurological diseases,22128,3617,1.10 [1.04-1.17],0.0020819865257352
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,23092,241,1.11 [0.87-1.41],0.4061899115168959
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",22375,381,1.11 [0.92-1.33],0.2861661258760511
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",23327,351,1.73 [1.44-2.07],2.491382892220813e-09
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,18371,618,0.99 [0.85-1.15],0.871522253276485
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,22867,78,0.88 [0.58-1.34],0.5414752820281403
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Other disorders of nervous system,22940,151,1.12 [0.84-1.50],0.4446288924547793
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,22852,137,0.87 [0.64-1.20],0.3954998230640745
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Other facial nerve disorders,22089,95,1.41 [0.98-2.02],0.0650098035641555
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Other headache syndromes,21577,38,0.97 [0.54-1.76],0.9318573041262178
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Other neurological diseases,23302,513,1.34 [1.14-1.57],0.0003537820851226
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Other sleep disorders,22233,694,1.11 [0.97-1.27],0.1234181540083774
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Parkinson's disease,23395,523,0.60 [0.51-0.70],4.792054964017831e-10
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,22815,26,1.98 [1.02-3.85],0.0442638325534205
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Restless leg syndrome,23417,50,1.02 [0.60-1.72],0.9471631643577824
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Sleep apnoea,23120,624,1.16 [1.01-1.33],0.036456213329428
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Small fibre neuropathy,23033,57,1.63 [1.02-2.62],0.0416648794279775
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,23400,173,1.05 [0.79-1.40],0.7195118429487051
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,22027,33,0.50 [0.27-0.95],0.0329872687786646
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,23416,297,0.76 [0.61-0.94],0.0126358361200149
+HNMT,Histamine N-methyltransferase,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),22881,144,1.13 [0.83-1.54],0.4376289052441466
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,22873,83,1.12 [0.74-1.69],0.5930151588056339
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,23076,294,0.88 [0.71-1.09],0.2427163397674869
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,23219,294,1.26 [1.02-1.54],0.0288410301198862
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,22559,44,0.52 [0.30-0.88],0.0147101299920737
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,22575,60,1.42 [0.89-2.25],0.1371245248763551
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",23326,42,1.01 [0.57-1.78],0.973238055550012
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,23187,118,0.88 [0.62-1.24],0.4631860283939824
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",2426,82,2.86 [2.12-3.86],5.712676088466858e-12
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,2964,129,1.38 [1.04-1.81],0.0231474039328367
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,22883,93,1.86 [1.30-2.66],0.000629059152462
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,23175,987,1.11 [0.99-1.25],0.0805416248639906
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",23118,603,1.07 [0.93-1.25],0.3465337565735564
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,22655,140,1.04 [0.76-1.43],0.7851173882897307
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",23343,561,0.94 [0.80-1.10],0.4451653798716615
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,23414,65,1.40 [0.89-2.20],0.1459934552533354
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,23275,493,0.91 [0.76-1.07],0.2540125767132369
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",23377,308,1.11 [0.90-1.37],0.3464989700398829
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,23330,149,0.88 [0.65-1.20],0.4228209349105923
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,22591,76,1.17 [0.77-1.77],0.4665095020988883
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,22598,83,0.96 [0.64-1.45],0.8492891297588366
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,22558,43,1.05 [0.60-1.83],0.8767918489833467
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,23329,666,0.93 [0.80-1.07],0.3026548970019291
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,22842,179,1.19 [0.91-1.57],0.2075111086146152
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,22811,29,1.39 [0.71-2.73],0.3376848453370928
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,23164,95,1.34 [0.92-1.94],0.1250165571694544
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,23289,220,1.04 [0.81-1.34],0.7619731197701813
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,22950,168,0.90 [0.67-1.20],0.4604320139832055
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,23264,83,0.71 [0.47-1.08],0.1074861272344481
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,23113,450,0.95 [0.80-1.13],0.5525469102560352
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,22918,128,1.26 [0.92-1.74],0.1470349381053488
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,22067,1757,1.16 [1.06-1.27],0.0010273016484821
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,23258,189,1.00 [0.76-1.32],0.9946462048767728
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,23402,145,1.19 [0.88-1.61],0.2535934419594014
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,22925,410,1.07 [0.90-1.29],0.4434674462826785
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,23133,64,1.45 [0.93-2.28],0.1031038408053457
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,23403,54,1.42 [0.86-2.33],0.1701088806821581
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,22589,74,1.06 [0.69-1.63],0.7887462221200033
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,22652,137,0.94 [0.68-1.28],0.6878616608557355
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,22317,129,1.38 [1.00-1.90],0.0487342145317963
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,22832,50,1.35 [0.81-2.25],0.2501743134109127
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",22251,63,1.00 [0.62-1.60],0.9973378773487293
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,22712,49,0.67 [0.39-1.15],0.146445265353549
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",22864,201,0.74 [0.57-0.97],0.0263682353390821
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,22633,118,1.30 [0.93-1.80],0.123206642248438
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,22310,122,0.84 [0.60-1.19],0.3359178636068874
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,22280,92,1.42 [0.97-2.08],0.0690020430429121
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,21759,1449,1.04 [0.94-1.14],0.4816088810154537
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,22572,57,0.83 [0.51-1.36],0.466116402395902
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,23172,382,1.44 [1.20-1.73],0.0001112764618321
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,22860,70,1.67 [1.09-2.55],0.0190605296535661
+HNMT,Histamine N-methyltransferase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),22958,168,1.63 [1.24-2.13],0.0003970884588863
+HNMT,Histamine N-methyltransferase,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,23241,58,0.96 [0.59-1.57],0.8719876472212493
+HNMT,Histamine N-methyltransferase,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,23377,117,1.13 [0.80-1.60],0.4746635316339638
+HNMT,Histamine N-methyltransferase,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,23283,112,1.49 [1.07-2.09],0.0193781277434213
+HNMT,Histamine N-methyltransferase,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,23233,50,2.11 [1.34-3.34],0.0013558466921244
+HNMT,Histamine N-methyltransferase,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,23236,53,0.80 [0.48-1.32],0.3850133207149462
+HNMT,Histamine N-methyltransferase,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,23323,955,1.16 [1.03-1.31],0.0156955367964523
+HNMT,Histamine N-methyltransferase,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,23072,704,1.19 [1.04-1.37],0.0135812185619458
+HNMT,Histamine N-methyltransferase,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,22495,127,1.06 [0.76-1.48],0.7174044514421057
+HNMT,Histamine N-methyltransferase,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,22454,86,1.36 [0.92-2.01],0.1229881451352224
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Acute pharyngitis,23210,62,2.27 [1.51-3.41],7.500353064991412e-05
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,23336,188,1.58 [1.23-2.04],0.0003919797312258
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,23209,61,1.61 [1.04-2.51],0.0326514440821843
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,All influenza,21153,107,1.71 [1.22-2.40],0.0017892098557656
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),21150,104,1.75 [1.24-2.47],0.0013164305309944
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Allergic asthma (mode),15340,106,1.36 [0.95-1.95],0.0944623974473706
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Allergic rhinitis,23312,267,1.05 [0.84-1.32],0.6646983485990743
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",16305,1416,1.18 [1.07-1.31],0.0011060716213323
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",16624,1390,1.19 [1.08-1.32],0.0007048992372435
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),23032,148,1.56 [1.17-2.09],0.0027160849871824
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",21141,95,1.40 [0.97-2.03],0.0710320451546539
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Bronchiectasis,20345,286,1.12 [0.90-1.40],0.2972066080563533
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",20102,43,1.67 [0.99-2.85],0.0568001487850038
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,22585,2526,1.19 [1.11-1.28],2.45520856704811e-06
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",21991,78,0.86 [0.56-1.32],0.4968652562130542
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Chronic sinusitis,22072,159,0.91 [0.68-1.22],0.5384142860649517
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",23193,1294,1.25 [1.13-1.38],9.124023435630928e-06
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Deviated nasal septum,22048,135,0.93 [0.68-1.28],0.6680553547727384
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,21447,5213,1.21 [1.15-1.27],3.998293474477526e-13
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",22299,386,1.09 [0.91-1.32],0.3486503656853539
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Early onset COPD,22206,307,1.49 [1.23-1.81],4.071845815309649e-05
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Emphysema,20401,342,1.41 [1.16-1.71],0.0006570537203023
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,22507,331,1.48 [1.21-1.80],0.0001211116794421
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Influenza and pneumonia,23173,2127,1.34 [1.24-1.44],3.961287224524509e-13
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Interstitial lung disease,22535,359,1.52 [1.26-1.84],1.4775897691827757e-05
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Later onset COPD,22359,987,1.15 [1.03-1.30],0.015342232836942
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,23399,420,1.28 [1.07-1.53],0.0068333714642903
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Nasal polyp,22056,143,1.17 [0.86-1.59],0.3272101027563445
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,23151,991,1.49 [1.33-1.67],3.694892146829197e-12
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Other diseases of pleura,23143,2172,1.29 [1.19-1.39],1.3208654082388923e-10
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,22773,860,1.07 [0.94-1.21],0.2972690458754402
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Other pleural conditions,21035,64,1.34 [0.85-2.11],0.2154407071676642
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,23328,440,1.72 [1.45-2.02],1.3421201074857328e-10
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,23296,1384,1.30 [1.18-1.43],1.6385662967707921e-07
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Pleural effusion,22070,1099,1.48 [1.33-1.65],7.189629514938501e-13
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Pleural plaque,21234,263,1.01 [0.80-1.27],0.9493564769455802
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",22910,1864,1.35 [1.24-1.47],1.5806004932786006e-12
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,23302,323,1.30 [1.06-1.60],0.0113250293411912
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Pneumothorax,21110,139,1.25 [0.91-1.71],0.1731448556062076
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Pollen allergy,23402,232,1.00 [0.78-1.28],0.9720842298866336
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Pulmonary oedema,22954,66,2.58 [1.77-3.75],7.095681824765598e-07
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Respiratory insufficiency,15289,55,1.16 [0.70-1.94],0.5697091765757774
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,23133,973,1.49 [1.33-1.67],6.850369995320424e-12
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,22182,269,1.07 [0.85-1.34],0.5829859296980007
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Viral pneumonia,21325,279,1.24 [1.00-1.54],0.0508048325852208
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",23050,238,1.23 [0.97-1.55],0.0840952963665174
+HNMT,Histamine N-methyltransferase,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,10209,115,1.54 [1.08-2.21],0.0173857130496516
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,16349,89,1.24 [0.84-1.82],0.272340199299553
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Acute appendicitis,23286,141,0.88 [0.64-1.20],0.4104063853696299
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Acute gastritis,17693,90,1.19 [0.81-1.77],0.3769870394587488
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Acute pancreatitis,22090,200,1.67 [1.30-2.14],5.160750854663432e-05
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Acute peritonitis,23062,96,2.30 [1.67-3.18],3.645585165476829e-07
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Alcoholic liver disease,22539,109,3.67 [2.83-4.76],1.4489140263787894e-22
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Barrett oesophagus,18125,522,1.18 [1.00-1.39],0.0545653024431848
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",22010,120,1.36 [0.98-1.91],0.0689376332700491
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",23022,120,1.34 [0.96-1.87],0.0828256598708513
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Cholecystitis,22107,217,1.20 [0.94-1.54],0.1485063566108804
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Cholelithiasis,22665,775,1.46 [1.28-1.66],8.770899322658388e-09
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Chronic gastritis,17862,259,1.32 [1.05-1.67],0.0178392565498113
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Chronic pancreatitis,21946,56,1.76 [1.11-2.81],0.017088718615476
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",23217,129,3.38 [2.67-4.28],5.4822637368857624e-24
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Coeliac disease,21811,92,1.26 [0.86-1.86],0.240184531682165
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Collagenous colitis,22001,47,0.99 [0.57-1.72],0.9799330730483372
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,23253,218,1.07 [0.84-1.37],0.5671581125728613
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Constipation,23260,1570,1.10 [1.00-1.20],0.0564526057862516
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Crohn disease,22043,89,1.52 [1.04-2.23],0.0303708560634424
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",23084,65,1.28 [0.81-2.01],0.2887232936064174
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Crohn's disease NAS,22029,75,1.78 [1.19-2.66],0.0048161801904178
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Dental caries,22781,223,0.98 [0.76-1.25],0.8418310918188926
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,19830,1908,1.15 [1.06-1.26],0.0011075242756035
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Diseases of appendix,23315,170,0.94 [0.70-1.25],0.6559362219896696
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Diseases of liver,23277,847,1.98 [1.76-2.22],2.4133000454384577e-31
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",21459,3856,1.21 [1.14-1.29],2.557429050916692e-10
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",23061,503,1.15 [0.98-1.35],0.0939320506346992
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Diseases of peritoneum,23367,401,1.34 [1.12-1.61],0.001246462687866
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,22664,106,1.28 [0.90-1.82],0.1629941927280876
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Diseases of salivary glands,22525,65,1.43 [0.92-2.23],0.1140651050271585
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Diseases of the digestive system,23106,1387,1.29 [1.17-1.43],2.2681301838364626e-07
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Diseases of tongue,22546,107,1.89 [1.36-2.62],0.0001423660959702
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",23061,1171,1.43 [1.29-1.59],1.9054035295791823e-11
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,19266,3006,1.22 [1.14-1.30],7.701379113002621e-09
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Duodenal ulcer,17865,262,1.39 [1.10-1.74],0.0050142506504351
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",23304,206,1.27 [0.99-1.64],0.0634816401399725
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,23344,46,1.11 [0.64-1.92],0.7068687651709431
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,22581,151,3.15 [2.51-3.96],3.587844095509932e-23
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,16439,179,1.09 [0.83-1.44],0.5256844847980137
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Functional dyspepsia,18017,414,1.13 [0.94-1.37],0.1937835431971593
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Gastric ulcer,17966,363,1.60 [1.32-1.93],1.1110112136688106e-06
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,19720,2117,1.13 [1.04-1.23],0.0028394572047386
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,18195,592,1.46 [1.26-1.69],6.599263001901825e-07
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,17919,7863,1.12 [1.07-1.17],2.3234162846765653e-07
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,GI-bleeding,22872,1153,1.35 [1.22-1.50],2.5239041458655303e-08
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,22601,43,0.98 [0.56-1.71],0.937973471693922
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,17208,1219,1.13 [1.01-1.26],0.0295147456555346
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",22514,84,3.00 [2.20-4.11],5.749468787262372e-12
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Hernia,21406,3484,1.05 [0.98-1.12],0.152793778637485
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Impacted teeth,23347,43,1.10 [0.62-1.95],0.7379274830914389
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Impaction of intestines,16306,46,1.30 [0.75-2.26],0.3468470698545481
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Inguinal hernia,19533,1611,0.89 [0.81-0.98],0.0197365046525587
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",18115,193,0.85 [0.65-1.13],0.269231000221262
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,16349,89,1.64 [1.12-2.41],0.011108697997206
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Intestinal malabsorption,21824,105,1.35 [0.94-1.93],0.1060436990882926
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,16523,263,1.17 [0.93-1.48],0.1748516079388417
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,23376,371,2.24 [1.90-2.63],3.522546621528962e-22
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,22622,668,1.33 [1.16-1.53],5.914846194633058e-05
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,22828,874,1.29 [1.14-1.45],6.293908946112274e-05
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Oesophageal obstruction,17811,208,1.34 [1.03-1.74],0.0274876656682373
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Oesophagitis,18213,610,1.30 [1.11-1.51],0.0007552183136609
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,23367,111,1.16 [0.82-1.65],0.409170121349095
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,17997,75,1.16 [0.75-1.78],0.5002873147121438
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,17663,1403,1.17 [1.06-1.29],0.0018175344625032
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,22147,257,1.26 [1.00-1.58],0.0528941614981885
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,22010,120,0.92 [0.65-1.29],0.6247674546927215
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Other diseases of intestine,18102,1842,1.19 [1.10-1.30],5.07522745713e-05
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Other diseases of intestines,21647,5387,1.16 [1.11-1.22],4.723744372965202e-09
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,22511,175,1.10 [0.83-1.45],0.5248875450525617
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Other diseases of liver,23109,679,2.05 [1.81-2.33],7.03740147713538e-29
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,18327,724,1.25 [1.09-1.44],0.0016526804760874
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Other diseases of pancreas,22032,142,1.78 [1.32-2.40],0.000157103461564
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,23298,332,1.10 [0.90-1.35],0.340876917854354
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,18398,795,1.44 [1.26-1.64],6.036451745357515e-08
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,22883,1164,1.34 [1.21-1.49],4.040247490078831e-08
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,22734,176,1.14 [0.86-1.50],0.3553518565093215
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,17868,1608,1.13 [1.03-1.24],0.0076939376644332
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),19436,1833,1.30 [1.19-1.42],2.572509350461897e-09
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,22525,95,1.99 [1.42-2.78],6.213855940755655e-05
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,22717,763,1.30 [1.14-1.48],0.0001166084220416
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",16603,343,1.22 [1.00-1.49],0.0534593132584071
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,23335,55,1.08 [0.65-1.79],0.7568588455009929
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,16726,466,1.30 [1.10-1.55],0.0024509647518618
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",21880,161,1.11 [0.83-1.49],0.4751951192180588
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Recurring oral aphthae,23403,41,1.15 [0.65-2.03],0.6324116785488311
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,22565,104,1.54 [1.09-2.19],0.0147245540329415
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Toxic colitis,21999,45,1.57 [0.92-2.65],0.0956508136524349
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,17891,288,1.21 [0.97-1.50],0.096094902494213
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Ulcerative colitis,22098,144,1.24 [0.91-1.68],0.1808795063395563
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",22074,120,0.96 [0.68-1.34],0.7921637781127797
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Umbilical hernia,18290,368,1.22 [1.01-1.48],0.0378684553404709
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,16417,157,1.38 [1.03-1.85],0.0330146396728016
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Ventral hernia,18179,257,1.11 [0.88-1.40],0.3590620118878102
+HNMT,Histamine N-methyltransferase,Chapter XI Diseases of the digestive system,Volvulus,16331,71,1.13 [0.72-1.76],0.5959617365267247
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,23342,323,1.10 [0.90-1.36],0.3505199404282034
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,23100,66,1.51 [0.98-2.31],0.0605327309774331
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,21450,93,1.13 [0.76-1.66],0.5486057017775708
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,22696,752,1.25 [1.10-1.42],0.0006951516971193
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",22142,198,1.18 [0.91-1.53],0.199449986001375
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,21825,468,1.22 [1.03-1.44],0.018851411632641
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,23126,264,1.16 [0.93-1.45],0.194182243121353
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,23328,466,1.20 [1.01-1.42],0.0341104538424617
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,22907,45,1.21 [0.71-2.09],0.4823841187002242
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,21957,3139,1.09 [1.02-1.16],0.0107805389860146
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,22980,403,0.95 [0.79-1.14],0.5617013544269147
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,22869,292,0.88 [0.71-1.09],0.2404916308311704
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,22962,1018,1.23 [1.10-1.38],0.00023852610648
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",23407,30,1.73 [0.94-3.21],0.0805453630326466
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,21380,23,1.37 [0.65-2.92],0.4078208240002043
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,22635,58,1.27 [0.80-2.02],0.3058361362961926
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,23121,259,1.17 [0.93-1.47],0.1706095978778633
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,21835,478,1.05 [0.88-1.25],0.5822083104513983
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,21434,77,1.15 [0.75-1.76],0.5311690177235557
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,23350,83,1.25 [0.84-1.85],0.2733424095591226
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,22157,213,1.24 [0.97-1.59],0.0874138392417259
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,23248,214,1.17 [0.91-1.50],0.2190538830087927
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,22933,71,1.36 [0.90-2.07],0.1478438329953286
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,21421,64,0.95 [0.59-1.52],0.8307440687013805
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,22972,1615,1.12 [1.02-1.23],0.015107476114078
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",21874,517,1.01 [0.85-1.19],0.9159835192235896
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,21437,80,1.19 [0.78-1.82],0.4108052458001803
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,23326,292,1.21 [0.98-1.50],0.0772356463746907
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,22917,55,1.48 [0.92-2.38],0.1021786749318707
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,23290,256,1.18 [0.94-1.48],0.1469336800601998
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,23362,343,1.07 [0.88-1.32],0.4872524801861281
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,21443,86,1.18 [0.79-1.76],0.4309266097914347
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,21622,265,0.87 [0.69-1.10],0.2333499979158409
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,23355,336,1.11 [0.90-1.36],0.3238148480203127
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",21625,268,1.38 [1.12-1.70],0.0022261505714821
+HNMT,Histamine N-methyltransferase,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,23392,125,1.13 [0.82-1.57],0.4460125240660718
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,20205,92,1.30 [0.90-1.88],0.1553435891017726
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,21370,4693,1.17 [1.11-1.24],8.346789670185356e-09
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,19994,3317,1.09 [1.02-1.17],0.006864325037653
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,20186,73,1.10 [0.71-1.69],0.6707783674374721
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,20568,150,1.36 [1.01-1.82],0.0421934778267215
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,20559,141,1.34 [0.99-1.82],0.0576304344533392
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,23221,66,1.22 [0.78-1.91],0.3817441172500203
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",20496,78,1.52 [1.01-2.30],0.04567112651728
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,17533,856,1.01 [0.89-1.15],0.8794563560057517
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",23300,145,1.31 [0.97-1.76],0.0797236171129469
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,20683,265,0.89 [0.70-1.12],0.304401858780038
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,19929,6157,1.16 [1.11-1.22],9.113974329633975e-10
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,22373,90,1.48 [1.01-2.15],0.041917089119925
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,20277,164,1.49 [1.13-1.96],0.0049858017016648
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,20543,430,1.17 [0.98-1.39],0.0867806608317
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,22613,2195,1.11 [1.03-1.20],0.0094369635872364
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,20474,361,1.23 [1.01-1.50],0.0379226111757805
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,20166,53,1.84 [1.16-2.92],0.0102180779947083
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,20206,93,1.00 [0.68-1.48],0.9965928110592982
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,23104,29,0.66 [0.34-1.31],0.235247642374864
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,18112,1435,1.10 [1.00-1.22],0.0454202666367486
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,17639,962,1.86 [1.67-2.08],1.43460908602379e-28
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",23287,949,1.85 [1.66-2.06],2.0351967328004059e-29
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,16724,47,0.95 [0.55-1.66],0.8677906315465752
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),16757,80,1.26 [0.83-1.92],0.2801838965563725
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,20383,270,1.29 [1.03-1.60],0.0240910499835712
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,17297,620,1.17 [1.01-1.36],0.0398116194510364
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,20459,41,1.68 [0.96-2.94],0.0695350603396913
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,20941,523,1.34 [1.14-1.57],0.0002868295170486
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,20680,262,1.07 [0.85-1.34],0.5594349432030363
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,17256,579,1.13 [0.97-1.32],0.1233987191227287
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,20178,65,1.58 [1.03-2.45],0.0382155634167036
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",20165,52,1.42 [0.87-2.33],0.1635591971182264
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,22378,95,1.84 [1.32-2.57],0.0003541892520864
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,23130,847,1.34 [1.18-1.52],4.638979317062389e-06
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,22679,396,1.30 [1.08-1.57],0.0064416626036642
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",23336,281,1.24 [1.00-1.54],0.048637709644031
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,18532,1855,1.12 [1.03-1.22],0.0110208892060851
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,16729,52,1.22 [0.73-2.04],0.4486267503914852
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,20194,81,1.10 [0.73-1.65],0.6480315577659045
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,16733,56,1.59 [0.99-2.57],0.0557176732292465
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),16722,45,1.48 [0.86-2.53],0.1590821624762968
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,22460,177,1.26 [0.96-1.65],0.1027626701071345
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,22440,157,1.54 [1.15-2.05],0.0033952052919456
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,23382,85,1.13 [0.76-1.67],0.5570301958982491
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",21927,1509,1.18 [1.08-1.30],0.0004504697638636
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,20181,68,1.25 [0.80-1.94],0.326275644397166
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),16717,40,0.92 [0.51-1.67],0.7908560546341441
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,21021,603,1.11 [0.96-1.29],0.1738951789542996
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,18362,1685,1.22 [1.11-1.34],1.5385318459610275e-05
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,23127,52,1.03 [0.62-1.72],0.900774751936354
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,23399,60,1.74 [1.13-2.68],0.0122587217495837
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,20194,81,0.99 [0.66-1.49],0.975173427622044
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",21084,971,1.24 [1.10-1.39],0.0003007168583326
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,20207,94,1.88 [1.33-2.67],0.0003805760244672
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,17851,1174,1.09 [0.98-1.21],0.1235990529707752
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,22361,78,1.46 [0.97-2.19],0.0706766728513774
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,20157,44,1.18 [0.67-2.07],0.5602570730513374
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,20526,108,1.01 [0.71-1.45],0.937802628339834
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,20609,496,1.34 [1.14-1.57],0.0002919307167366
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,23268,193,1.17 [0.89-1.52],0.2561766347073204
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,20896,478,1.31 [1.11-1.55],0.0013107716568236
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,23345,275,1.20 [0.97-1.50],0.0986269893599333
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,23402,38,1.31 [0.73-2.35],0.3659695111212387
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,20260,147,1.26 [0.94-1.70],0.1200032373046068
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,19209,566,1.33 [1.14-1.55],0.0002326452275119
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,20588,475,1.14 [0.97-1.35],0.1162136338915316
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],20440,327,1.20 [0.98-1.48],0.0785043997460548
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",16706,29,1.38 [0.70-2.72],0.3478487243811993
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,18895,2218,1.32 [1.22-1.43],2.00650839659208e-12
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,17122,445,1.14 [0.96-1.36],0.1418601046830307
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,23239,164,1.16 [0.87-1.55],0.3097769200887998
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",23344,47,1.35 [0.80-2.28],0.2672490991813612
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",21468,45,0.96 [0.56-1.63],0.8806045410570787
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,16739,62,1.70 [1.10-2.64],0.0173483298324382
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,20505,87,0.78 [0.53-1.17],0.2334395541236774
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,16966,289,1.30 [1.05-1.61],0.0178083075739286
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,20389,276,1.20 [0.96-1.49],0.1053581893558332
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,20629,211,1.36 [1.06-1.74],0.0158788245484689
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,20508,90,1.45 [0.99-2.12],0.0578155369429795
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,18606,31,1.09 [0.57-2.09],0.797833546659452
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",23403,39,1.34 [0.76-2.39],0.3125529076614018
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,20641,528,1.19 [1.01-1.39],0.034301774769913
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],23094,19,0.88 [0.38-2.03],0.7640102491302199
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,22357,2244,1.19 [1.10-1.28],1.0477279462925936e-05
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",20217,104,1.13 [0.80-1.62],0.4867590157205419
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,20914,496,1.09 [0.93-1.29],0.28837319379265
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,22379,192,1.08 [0.83-1.41],0.5594966529997043
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,20545,127,0.65 [0.47-0.90],0.0099890255714406
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,21703,1285,1.12 [1.01-1.24],0.0297402814180961
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,21224,806,1.14 [1.00-1.30],0.045968008194281
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],20155,42,1.19 [0.68-2.09],0.5523786569304683
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,23111,36,2.74 [1.67-4.50],7.061611305666606e-05
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,20230,117,1.28 [0.92-1.77],0.1475179174080133
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,20134,21,1.30 [0.61-2.77],0.5026048921479407
+HNMT,Histamine N-methyltransferase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),16736,59,0.90 [0.55-1.47],0.6806728906413403
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Acute renal failure,22439,1845,1.74 [1.61-1.89],4.915749198582566e-41
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,22950,401,1.10 [0.91-1.32],0.3225546332561658
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,22686,137,0.76 [0.55-1.04],0.0816302139116783
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,22107,1513,2.33 [2.15-2.53],7.206001404283002e-93
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,23168,82,4.68 [3.66-5.99],1.0298027676457171e-34
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,23144,355,1.40 [1.16-1.69],0.0004659697047834
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Cystitis,20586,206,1.33 [1.03-1.72],0.0289065251120519
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Dialysis,20697,103,5.57 [4.53-6.85],1.3076805038472916e-59
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,22162,3272,1.03 [0.97-1.10],0.3276403102057386
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,21088,5492,1.21 [1.15-1.27],1.984078044362429e-13
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,23186,100,3.39 [2.60-4.41],1.032598546588552e-19
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Hydrocele,19093,203,1.09 [0.84-1.42],0.505841868361554
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,20701,370,1.55 [1.28-1.87],5.0225183867469e-06
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,21455,2565,1.02 [0.95-1.10],0.5372200627891681
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),19123,233,1.05 [0.82-1.34],0.7027689272767417
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,20455,75,0.84 [0.54-1.29],0.4146914790912919
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,18996,106,1.12 [0.78-1.60],0.5396662000688972
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",23405,61,1.47 [0.93-2.32],0.098450733822213
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",23411,56,1.14 [0.69-1.88],0.614725031212578
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,22592,2212,1.14 [1.05-1.23],0.0013883460389633
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,21315,935,0.93 [0.83-1.06],0.2822324187706652
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,23347,558,1.65 [1.42-1.91],2.2971841555422167e-11
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,19196,306,0.97 [0.79-1.21],0.8085164689457713
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,19169,279,1.21 [0.97-1.51],0.0839427829098858
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,19121,231,1.15 [0.90-1.46],0.2591098275285751
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,23402,45,1.44 [0.85-2.44],0.1779458184542015
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,21894,1514,1.28 [1.17-1.41],1.6540962968072557e-07
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,20746,415,1.56 [1.30-1.86],1.0467951846193284e-06
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,22979,190,1.95 [1.53-2.48],6.184803207829735e-08
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,23145,59,2.89 [1.96-4.26],7.958731711670414e-08
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",19152,262,1.35 [1.08-1.68],0.0076150624547781
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,23118,2787,1.72 [1.61-1.84],1.8575005512633932e-57
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",20405,74,1.60 [1.06-2.42],0.0257753358985474
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,20748,154,2.79 [2.18-3.57],4.206403282401807e-16
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,22624,75,0.95 [0.63-1.44],0.8134591945333403
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Urethral stricture,20669,289,1.31 [1.06-1.63],0.013204431696434
+HNMT,Histamine N-methyltransferase,Chapter XIV Diseases of the genitourinary system,Urolithiasis,23064,515,1.02 [0.87-1.20],0.7730221889198272

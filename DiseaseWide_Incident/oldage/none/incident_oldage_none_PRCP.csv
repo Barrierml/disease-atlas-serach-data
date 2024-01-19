@@ -1,0 +1,658 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",21963,193,1.79 [1.27-2.54],0.0009101210868453
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",23180,247,1.01 [0.71-1.43],0.9749783468565478
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",22903,1761,1.26 [1.10-1.43],0.0006021831137588
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Candidiasis,23187,556,1.43 [1.14-1.78],0.0016244531340135
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,22424,4243,1.30 [1.19-1.41],1.352655638628415e-09
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),22365,4327,1.23 [1.13-1.34],1.5166843435281524e-06
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,22897,1432,1.18 [1.02-1.36],0.0254502298118024
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,23091,128,1.07 [0.66-1.75],0.7756739990365785
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,20344,1303,1.46 [1.26-1.70],7.598402151691641e-07
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,19629,1589,1.43 [1.25-1.64],2.7446513505709746e-07
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,19130,346,1.76 [1.33-2.33],8.269434269517712e-05
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,15083,2758,1.35 [1.22-1.50],1.6842527499335493e-08
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,19064,496,1.51 [1.18-1.92],0.0009810005102954
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,23163,1698,1.16 [1.02-1.33],0.0265482695325293
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Mycoses,23281,650,1.49 [1.22-1.82],0.0001029299886804
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,22385,1243,1.26 [1.08-1.47],0.0038841959519077
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,23207,1437,1.48 [1.29-1.70],2.007888951745529e-08
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,21712,247,1.01 [0.71-1.44],0.9571601623384688
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,23341,66,2.02 [1.17-3.46],0.0110840797771198
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Other septicaemia,23025,1255,1.41 [1.22-1.64],5.824773926806024e-06
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,23041,78,0.83 [0.44-1.56],0.567121457210108
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Other viral diseases,23276,141,1.78 [1.20-2.65],0.0043770337250971
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",23253,118,1.62 [1.03-2.56],0.0382473045661155
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,21649,507,1.49 [1.18-1.88],0.0009439804478436
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,21454,312,1.40 [1.03-1.89],0.0296418839595593
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,21603,138,1.60 [1.05-2.44],0.0302987468765407
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,23326,53,2.03 [1.13-3.65],0.0173715800395714
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,23272,173,1.24 [0.82-1.87],0.3109951020501952
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Viral warts,23154,55,1.57 [0.79-3.13],0.1966262981008085
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],23178,79,1.66 [0.96-2.86],0.0671505354548405
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Benign lipomatous neoplasm,23047,269,0.82 [0.58-1.15],0.2501860775341519
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,23259,40,1.08 [0.45-2.62],0.8647071325956928
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,23239,44,0.86 [0.37-1.99],0.729568493443566
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,11122,86,0.74 [0.40-1.37],0.3444868650882944
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",22869,1693,1.14 [1.00-1.30],0.0577781765222191
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Benign neoplasm of meninges,23325,65,1.37 [0.70-2.67],0.3525711698205207
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,23245,80,0.69 [0.37-1.32],0.2649748738464689
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,23313,121,0.76 [0.46-1.27],0.3032260701327091
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Benign neoplasm of ovary,12150,80,1.18 [0.63-2.21],0.5955451776459852
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Benign neoplasm: Ascending colon,23301,446,1.25 [0.97-1.61],0.0880009080495565
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Benign neoplasm: Caecum,23306,388,1.14 [0.86-1.51],0.3573298575502952
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",23192,88,1.11 [0.62-1.98],0.7190556246719939
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Benign neoplasm: Descending colon,23297,257,1.22 [0.88-1.71],0.2382942969710853
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Benign neoplasm: Rectum,23256,410,0.83 [0.63-1.10],0.2010372458400925
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,23182,682,1.12 [0.91-1.38],0.2905965315928273
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Benign neoplasm: Transverse colon,23282,550,1.27 [1.01-1.59],0.0409422549444279
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Carcinoma in situ of breast,9135,47,0.79 [0.34-1.82],0.5763699745147164
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",9179,66,1.02 [0.50-2.05],0.9608138523238884
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",16654,72,1.54 [0.84-2.83],0.1618988124593404
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",16683,101,0.90 [0.51-1.58],0.7120178115771171
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",23284,126,0.75 [0.45-1.26],0.2788856779686095
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Haemangioma, any site",23285,123,0.78 [0.47-1.31],0.3506976104985935
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Leiomyoma of uterus,11877,170,0.64 [0.41-1.00],0.047686059029405
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Lung cancer and mesothelioma,14769,485,1.55 [1.20-2.01],0.0008859393887256
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Lymphoid leukaemia,16655,73,1.35 [0.72-2.52],0.3481331621478953
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",16806,224,0.92 [0.63-1.34],0.6686462765538762
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",16905,323,1.40 [1.05-1.88],0.0235239848693307
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",9258,104,1.03 [0.59-1.81],0.9195657819946887
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",16693,111,2.54 [1.81-3.55],5.488889494053033e-08
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",16728,146,1.69 [1.12-2.56],0.0131154226118603
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",16706,124,1.56 [0.99-2.46],0.05446269153455
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",9240,86,0.79 [0.42-1.50],0.4701831150653265
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",16710,128,1.08 [0.66-1.76],0.7733765982588643
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",8407,979,1.07 [0.90-1.28],0.4594029764059041
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",16720,138,0.96 [0.59-1.54],0.8547422563112161
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",16674,92,1.89 [1.17-3.07],0.0095787597888748
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,16724,142,1.18 [0.74-1.89],0.4925686218809569
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Melanocytic naevi,23192,185,0.94 [0.62-1.42],0.7558347970867455
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Melanocytic naevi of trunk,23312,79,1.10 [0.59-2.03],0.7673989437001587
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Melanoma in situ,16634,109,0.54 [0.31-0.94],0.0283662463086397
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",16706,124,1.30 [0.81-2.11],0.2802227455970155
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",16786,204,1.19 [0.81-1.75],0.3707359632835992
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",16912,330,1.19 [0.88-1.60],0.2646346780422873
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",16713,131,1.08 [0.67-1.77],0.7454589523135065
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,Other benign neoplasms of skin,23167,165,1.16 [0.76-1.78],0.4985746682886292
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",18088,1506,1.05 [0.91-1.22],0.4976500717672431
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",18171,1589,1.04 [0.90-1.20],0.5823953245481469
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,23031,399,1.37 [1.05-1.80],0.0204958070252487
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,21006,164,1.26 [0.82-1.93],0.2856813110713929
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,22702,70,1.52 [0.82-2.82],0.188358684607455
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,22566,3513,1.13 [1.03-1.24],0.0110067071681249
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,21608,74,1.51 [0.83-2.74],0.1783815403238974
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,22867,64,1.94 [1.08-3.50],0.0267371223328241
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,22824,1982,1.06 [0.93-1.20],0.3792713699227916
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,22822,1980,1.06 [0.93-1.20],0.3960889453868764
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,20958,116,2.07 [1.37-3.13],0.0005754507598855
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,22972,1438,1.21 [1.05-1.40],0.0073627912285793
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,22914,111,0.97 [0.57-1.65],0.912328502674164
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,22707,75,2.33 [1.42-3.83],0.0008613794909155
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,22709,77,0.97 [0.52-1.83],0.9303278082378368
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,23160,357,1.45 [1.10-1.91],0.0087654566786538
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,23209,41,2.17 [1.12-4.22],0.0220834720848974
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",23095,292,1.65 [1.23-2.22],0.0008304233337542
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,21671,137,1.31 [0.83-2.06],0.2448682696696995
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,15617,421,1.55 [1.19-2.01],0.0011652793765363
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,21824,103,1.82 [1.04-3.18],0.0354477532641208
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,21834,113,2.80 [2.05-3.84],1.390871511282358e-10
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,15268,72,0.95 [0.48-1.88],0.8853196025430906
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,21682,65,1.00 [0.50-2.00],0.9933220502768112
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,20887,319,1.40 [1.05-1.88],0.023540726448417
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",22536,958,1.06 [0.88-1.27],0.540875214787804
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,22066,488,0.81 [0.62-1.06],0.119288699590845
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,21798,220,0.64 [0.44-0.95],0.0247696806188847
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,23052,1435,1.01 [0.87-1.17],0.9072737060711228
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,19643,1391,1.03 [0.89-1.20],0.6567280889317075
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",15289,93,0.89 [0.50-1.60],0.697149296204205
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",21025,98,1.43 [0.84-2.42],0.1851306979071457
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,15565,369,1.38 [1.03-1.83],0.0282461578702846
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,15252,56,3.29 [1.78-6.07],0.0001363505788505
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,19828,4632,1.14 [1.05-1.24],0.0014453811013817
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,15462,266,1.85 [1.34-2.56],0.0002102058253211
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,15910,714,1.58 [1.29-1.93],7.789687174520597e-06
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,23282,375,1.01 [0.76-1.34],0.953257856888238
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,23070,163,1.28 [0.84-1.94],0.2522021835286356
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,15350,154,1.58 [1.02-2.44],0.0407485739663967
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",15278,82,1.62 [0.89-2.97],0.1170881471702326
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,22695,1768,1.10 [0.96-1.26],0.1601397264459903
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,15587,391,1.39 [1.06-1.81],0.016875347967006
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,15625,429,2.02 [1.58-2.57],1.5023454866983386e-08
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",16071,875,1.26 [1.04-1.52],0.0156160982503502
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,15374,178,0.97 [0.63-1.48],0.8912525484019179
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,23060,153,1.18 [0.76-1.82],0.4695130546404894
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,16098,902,1.22 [1.01-1.47],0.0421078792152615
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,15856,660,1.13 [0.90-1.41],0.3014396325532329
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,20648,80,1.03 [0.55-1.92],0.9319852425708988
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,21677,6481,1.18 [1.10-1.27],2.0178075972216824e-06
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,20987,60,1.07 [0.52-2.20],0.8524073541789705
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,20978,51,1.79 [0.92-3.47],0.087124232708451
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,23153,1928,0.90 [0.80-1.02],0.098083053105314
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",23151,1926,0.90 [0.80-1.02],0.0861718231051996
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,20993,66,1.76 [1.01-3.07],0.0444446627366151
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,22983,1147,0.89 [0.75-1.06],0.1825632600373923
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",17452,2256,1.29 [1.15-1.45],1.237375205271336e-05
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,23325,318,2.63 [2.17-3.20],2.854146158572812e-22
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,21711,133,0.86 [0.52-1.40],0.5337686341494259
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,21955,119,1.13 [0.68-1.88],0.6385925306979698
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,22001,165,1.23 [0.80-1.87],0.3416166524383302
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",15394,198,0.73 [0.48-1.12],0.1470301037993985
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,20514,185,3.06 [2.47-3.79],1.2888499500298608e-24
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,2498,102,1.90 [1.22-2.95],0.0046648082631302
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,2666,312,1.50 [1.15-1.96],0.0030023956587236
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,20417,88,3.72 [2.75-5.03],1.5202061802800258e-17
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,2470,77,1.83 [1.09-3.10],0.0234085987641864
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,22482,2153,2.73 [2.53-2.95],4.4844784199273147e-150
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,22209,631,0.88 [0.70-1.11],0.2869940972214858
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,21020,452,1.28 [0.99-1.64],0.0579232621161639
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,16324,1128,1.47 [1.26-1.73],1.8550408324791809e-06
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",23205,308,0.98 [0.71-1.35],0.908402008027064
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),21821,270,1.22 [0.88-1.70],0.2371720181181336
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Angina pectoris,20161,1585,1.16 [1.01-1.33],0.0361280787398945
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Aortic aneurysm,21926,375,1.12 [0.84-1.49],0.4300570344459021
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,21641,90,2.46 [1.61-3.75],2.919931642814161e-05
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",21844,293,1.70 [1.27-2.26],0.0003103525451306
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,11803,2865,0.94 [0.84-1.05],0.281319826783368
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,AV-block,17723,683,0.98 [0.79-1.21],0.8188935428883011
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",23259,585,0.87 [0.69-1.10],0.2568793421170005
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Cardiac arrest,9209,271,1.14 [0.80-1.63],0.461081456071379
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Cardiomyopathy,17244,204,0.75 [0.51-1.12],0.16522931521566
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",17151,111,0.83 [0.49-1.42],0.5017879022681127
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,23336,82,1.54 [0.88-2.70],0.1305995041259696
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Conduction disorders,18616,1576,1.02 [0.88-1.17],0.8232777991481433
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,21327,2776,1.21 [1.09-1.34],0.0003692877856923
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,18724,8978,1.12 [1.06-1.19],0.0001087081920043
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,DVT of lower extremities,21752,339,1.01 [0.74-1.37],0.9533917458482336
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Endocarditis,17142,102,0.90 [0.51-1.60],0.7229668182831885
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,"Heart failure, strict",23043,1680,1.08 [0.94-1.23],0.271048352323355
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Hypertension,19972,7988,1.14 [1.07-1.21],7.387100589959109e-05
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,"Hypertension, essential",19991,8007,1.13 [1.06-1.20],0.0001454080814113
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,"Hypertension, portal",23167,99,4.19 [3.37-5.22],1.7229991281302364e-37
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",12251,267,1.05 [0.75-1.49],0.7633242229523084
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,12196,212,1.18 [0.81-1.74],0.386946691210135
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Hypotension,23156,1658,0.93 [0.81-1.07],0.2926949878845095
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,22034,149,0.87 [0.54-1.39],0.5636020520772949
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",21501,2925,1.15 [1.04-1.28],0.0053551246309292
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",22818,805,1.62 [1.36-1.93],8.180252724995132e-08
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Left bundle-branch block,17573,533,1.10 [0.86-1.40],0.4575802661457943
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,22638,1071,1.32 [1.12-1.55],0.0008345257562046
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",19499,923,1.33 [1.11-1.58],0.0017941057677276
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",23210,189,1.82 [1.28-2.59],0.0009239614978811
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",23295,411,1.40 [1.08-1.82],0.0109303019079768
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Oesophageal varices,21482,69,4.14 [3.18-5.39],3.805200547363635e-26
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Other aneurysm,21656,105,1.03 [0.60-1.77],0.9210570749451304
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Other arrhythmias,17644,604,0.92 [0.72-1.16],0.455642034082734
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,21690,139,1.96 [1.30-2.95],0.0012044147232562
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,21885,334,1.62 [1.22-2.14],0.0007071284930717
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,17268,228,0.87 [0.60-1.28],0.4866404017833742
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Other disorders of veins,21531,118,1.25 [0.77-2.03],0.3731199947502943
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,21460,47,1.80 [0.91-3.59],0.0933778605194323
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,21262,92,0.81 [0.45-1.47],0.4943594211734361
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,21596,183,0.94 [0.63-1.42],0.7821460964503766
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,18512,1472,0.89 [0.77-1.04],0.1336908472532766
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,21561,63,4.21 [3.27-5.41],5.381808592068637e-29
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,22292,741,1.24 [1.01-1.51],0.0364947931915248
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,22567,535,1.07 [0.85-1.36],0.555373476986958
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",22157,987,1.20 [1.00-1.42],0.045434887314459
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,9355,417,0.98 [0.73-1.31],0.8923814713404895
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Peripheral artery disease,22116,602,1.52 [1.23-1.88],0.0001015430598874
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),21843,430,1.02 [0.78-1.34],0.8775532995038712
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Pulmonary embolism,22634,602,1.06 [0.84-1.32],0.6396623282196647
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,23240,978,1.00 [0.84-1.19],0.9926949723993186
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Right bundle-branch block,17564,524,1.10 [0.86-1.41],0.4519872208826098
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Secondary right heart disease,22560,528,1.04 [0.82-1.32],0.7421679409048776
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,21439,269,1.81 [1.35-2.42],8.244998406656598e-05
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",22802,917,1.50 [1.27-1.78],2.599256980435772e-06
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",22787,958,1.48 [1.25-1.75],4.920850447847904e-06
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,22002,64,1.06 [0.52-2.16],0.873600775717596
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,21657,106,1.24 [0.73-2.12],0.4256268777790331
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Transient ischemic attack,22340,327,1.16 [0.86-1.58],0.3329362321344705
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,21905,338,1.33 [1.00-1.77],0.0521401709010106
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Varicose veins,21935,522,1.19 [0.93-1.51],0.1617080484887409
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,21570,121,1.06 [0.64-1.77],0.815387739758911
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter IX Diseases of the circulatory system,Venous thromboembolism,23059,955,1.04 [0.87-1.24],0.6968245046763417
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",23257,333,1.93 [1.48-2.51],1.0695874443314591e-06
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",19947,1397,0.96 [0.82-1.12],0.6175349758251498
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter V Mental and behavioural disorders,Any mental disorder,22801,4251,1.04 [0.96-1.14],0.356113437060804
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",23228,393,1.78 [1.38-2.28],6.975378044364548e-06
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",20013,1463,1.01 [0.87-1.17],0.9248448471588404
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",18635,85,0.52 [0.28-0.97],0.0395883860878101
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter V Mental and behavioural disorders,Smoking dependency,22826,1186,1.34 [1.14-1.58],0.0005001999253532
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",20009,1459,1.34 [1.15-1.55],0.0001014681525383
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter V Mental and behavioural disorders,Vascular dementia,22430,229,1.24 [0.87-1.78],0.2313903344968358
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Alzheimer disease,23337,597,0.83 [0.66-1.05],0.1278662226980882
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",14300,112,1.23 [0.70-2.14],0.4726533672013199
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Bell's palsy,21478,85,1.79 [1.07-3.00],0.0276966755301996
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,21891,498,1.12 [0.88-1.44],0.364579476302591
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Cerebral cysts,22882,251,1.23 [0.87-1.74],0.2501843089441756
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,23264,413,1.63 [1.28-2.08],8.581876953181285e-05
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,22475,77,1.48 [0.82-2.69],0.1937547519600451
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,23319,70,1.21 [0.63-2.30],0.5658683912254518
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",22718,87,0.99 [0.54-1.81],0.97403931691975
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Epilepsy,21811,310,1.21 [0.88-1.66],0.2385758503811895
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,22867,1366,0.97 [0.83-1.13],0.7037254553011534
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,23285,922,0.79 [0.66-0.96],0.01541743278302
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Falls/tendency to fall,22668,3472,0.99 [0.90-1.09],0.8732320125305852
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Generalized epilepsy,22949,54,2.96 [2.01-4.37],4.025608394599814e-08
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Hemiplegia,23190,339,1.75 [1.35-2.28],2.5576883118293463e-05
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Hydrocephalus,22704,73,1.27 [0.66-2.42],0.4722922690181748
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,23324,71,1.59 [0.87-2.92],0.1350850446614677
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,21461,68,0.85 [0.42-1.70],0.6364689071310794
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,21467,74,0.83 [0.44-1.56],0.5565129893008833
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Memory loss,22178,143,1.06 [0.66-1.68],0.8192048658766643
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Migraine,21780,279,1.15 [0.82-1.61],0.4265848969512082
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",23289,256,1.15 [0.81-1.63],0.4332883124690095
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Motor neuron disease,14390,178,1.02 [0.66-1.58],0.9355666963880284
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,23207,60,0.68 [0.32-1.43],0.3085545851155034
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",22626,1233,1.00 [0.85-1.17],0.9732838825577677
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Neurological diseases,21838,4388,1.01 [0.93-1.10],0.8234068417144278
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,22726,328,1.06 [0.78-1.44],0.7202238451440931
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",21819,426,0.81 [0.62-1.07],0.1368010533305675
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",23258,356,1.75 [1.36-2.26],1.5368062095851514e-05
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,17466,987,0.99 [0.82-1.19],0.9326301868625826
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,22720,89,0.75 [0.41-1.36],0.3372488290785833
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Other disorders of nervous system,22794,163,1.47 [0.97-2.23],0.0680647454480819
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,22599,236,1.10 [0.76-1.58],0.6140661995616739
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Other facial nerve disorders,21489,96,1.84 [1.14-2.98],0.0123571105318935
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Other headache syndromes,21554,53,1.58 [0.77-3.26],0.2161973705288911
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Other neurological diseases,23221,590,1.18 [0.94-1.48],0.1561170157415554
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Other sleep disorders,22025,524,0.83 [0.65-1.05],0.1152142491071373
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Parkinson's disease,23306,681,0.70 [0.56-0.87],0.0011492045631327
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,22676,45,2.26 [1.20-4.26],0.0117802331731486
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Restless leg syndrome,23338,106,0.92 [0.53-1.59],0.761057432536451
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Sleep apnoea,23102,444,0.80 [0.63-1.04],0.0928379243389959
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Small fibre neuropathy,22963,61,2.30 [1.42-3.74],0.000753139705935
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,23326,207,0.94 [0.63-1.39],0.7517770841186421
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,21462,69,0.47 [0.24-0.92],0.0287785388024072
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,23337,603,0.85 [0.67-1.07],0.1633273430096848
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),22367,223,1.22 [0.85-1.76],0.2789313243885307
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,22690,157,1.34 [0.87-2.05],0.1851415210153555
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,22874,564,1.02 [0.80-1.29],0.8892883915588704
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,23079,270,3.08 [2.54-3.72],5.025500407027596e-31
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,22087,70,0.85 [0.43-1.69],0.6521743544799038
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,22055,38,1.10 [0.45-2.72],0.836324695731792
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",23214,73,1.75 [1.01-3.02],0.0465547769141406
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,23014,227,0.86 [0.59-1.25],0.4210056672979092
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",2474,78,1.80 [1.07-3.01],0.0266125500618036
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,3056,117,1.73 [1.13-2.64],0.0108382322220981
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,22637,104,0.94 [0.54-1.63],0.8255284054450084
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,23033,1439,1.24 [1.07-1.43],0.0032189304272087
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",22916,899,1.02 [0.85-1.23],0.8358936017337737
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,22325,308,1.14 [0.83-1.56],0.4312623888191257
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",23262,952,0.96 [0.80-1.16],0.6874029936073285
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,23331,82,1.58 [0.91-2.74],0.1042434129296203
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,23189,879,0.97 [0.80-1.18],0.7864770013439656
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",23294,507,1.04 [0.81-1.33],0.7866904025137309
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,23215,228,1.34 [0.94-1.90],0.1063249429972203
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,22119,102,0.99 [0.57-1.72],0.9799686463314264
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,22123,106,0.83 [0.48-1.44],0.5125986529885311
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,22094,77,0.83 [0.43-1.60],0.5825475235800917
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,23200,1028,1.11 [0.93-1.31],0.2557870368558309
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,22441,269,1.06 [0.76-1.49],0.736933601367849
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,22383,73,0.95 [0.49-1.84],0.8766421759404006
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,22913,126,1.09 [0.66-1.78],0.7387983639706395
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,23182,395,0.98 [0.74-1.30],0.8981095269978594
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,22531,221,1.02 [0.70-1.49],0.9106594153455684
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,23131,144,1.08 [0.68-1.73],0.7429911664033819
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,22860,688,1.27 [1.03-1.56],0.0238600829027502
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,22695,162,1.10 [0.71-1.70],0.6598458308593124
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,20868,3273,1.16 [1.05-1.27],0.0032734799587971
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,23136,349,1.01 [0.74-1.36],0.9637109388232916
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,23324,191,1.35 [0.92-1.98],0.1302881328948364
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,22569,552,1.04 [0.82-1.32],0.7217389322906035
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,22880,93,0.90 [0.51-1.62],0.7322054868990497
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,23322,73,1.58 [0.89-2.82],0.1214152101889562
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,22147,130,0.74 [0.45-1.22],0.2426022647180465
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,22194,177,1.24 [0.82-1.86],0.3037156644329005
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,21759,165,1.04 [0.67-1.60],0.8756680007654569
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,22374,64,0.90 [0.44-1.83],0.7663195929587754
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",21668,74,1.08 [0.56-2.09],0.8141832431316676
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,22289,117,0.94 [0.55-1.58],0.8022052468973307
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",22468,296,0.95 [0.69-1.33],0.7784171313365948
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,22181,164,0.97 [0.62-1.50],0.8804454522745908
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,21691,97,0.72 [0.40-1.30],0.2804835697791997
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,21726,132,1.22 [0.76-1.97],0.4157277947941148
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,20351,2756,1.13 [1.01-1.25],0.0259619049887102
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,22108,91,0.64 [0.35-1.16],0.1393062242790025
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,23041,508,1.15 [0.90-1.46],0.2742311995419005
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,22611,78,1.42 [0.79-2.53],0.2397185679892096
+PRCP,Lysosomal Pro-X carboxypeptidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),22743,210,1.00 [0.68-1.48],0.9946067526841218
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,23114,114,0.90 [0.53-1.54],0.7136934298626931
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,23292,141,1.34 [0.86-2.10],0.1977999234885584
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,23198,119,1.96 [1.29-2.98],0.0016710566517989
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,23066,66,0.81 [0.40-1.64],0.5510214180695119
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,23069,69,1.50 [0.80-2.81],0.2054367522770585
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,23230,1256,1.13 [0.97-1.33],0.1133711929811298
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,22929,955,1.20 [1.00-1.43],0.045179984211727
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,22125,151,0.77 [0.48-1.22],0.258843953326522
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,22064,90,0.99 [0.54-1.79],0.9676076364486732
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Acute pharyngitis,23146,68,1.76 [0.99-3.15],0.0556028378919954
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,23267,189,1.51 [1.04-2.19],0.0286038695064412
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,23141,63,1.89 [1.05-3.39],0.0328602106854117
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,All influenza,20626,158,1.41 [0.92-2.16],0.1186956812418591
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),20623,155,1.41 [0.91-2.17],0.1193900991004929
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Allergic asthma (mode),14388,104,1.02 [0.58-1.81],0.942979587073842
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Allergic rhinitis,23229,240,1.03 [0.71-1.47],0.89254852848447
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",15616,1727,1.09 [0.95-1.25],0.2443635754223768
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",15989,1705,1.09 [0.95-1.26],0.2108334265778414
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),22812,181,0.94 [0.62-1.42],0.7637768433100316
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",20573,105,1.12 [0.65-1.92],0.6757646477907626
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Bronchiectasis,19564,524,1.53 [1.21-1.95],0.0003972213738434
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",19115,75,1.57 [0.85-2.92],0.1517702034137596
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,22194,3154,1.17 [1.06-1.29],0.0017864020684904
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",22106,73,1.11 [0.57-2.14],0.7632680974749946
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Chronic sinusitis,22168,135,1.20 [0.75-1.92],0.4420554018666007
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",23043,1650,1.20 [1.05-1.37],0.0081578998146
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Deviated nasal septum,22113,80,0.80 [0.42-1.50],0.4870100077624976
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,21163,6154,1.22 [1.14-1.31],3.898686355396516e-08
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",22373,340,0.86 [0.63-1.17],0.3407508429942861
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Early onset COPD,21503,110,1.42 [0.86-2.35],0.1679826066643321
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Emphysema,19478,438,1.68 [1.31-2.16],4.660438677437862e-05
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,22026,458,1.72 [1.37-2.17],4.365723441074692e-06
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Influenza and pneumonia,23077,2609,1.32 [1.19-1.46],2.7942609015509365e-07
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Interstitial lung disease,22071,503,1.81 [1.47-2.23],3.5104154536181217e-08
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Later onset COPD,22809,1540,1.19 [1.03-1.36],0.0160396791273925
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,23322,501,1.01 [0.78-1.29],0.9560768699673072
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Nasal polyp,22130,97,0.96 [0.55-1.70],0.8979157953624575
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,23051,1317,1.39 [1.21-1.61],6.226286252549819e-06
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Other diseases of pleura,23043,2710,1.23 [1.10-1.36],0.0001262950558815
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,22790,757,0.99 [0.81-1.21],0.8999650736124817
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Other pleural conditions,20402,69,1.72 [0.95-3.13],0.0737717296928637
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,23215,601,1.74 [1.43-2.12],2.96713683697516e-08
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,23207,1732,1.24 [1.09-1.41],0.0013440735564263
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Pleural effusion,21716,1383,1.22 [1.05-1.41],0.0089166377445155
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Pleural plaque,20584,251,1.32 [0.94-1.84],0.103885520092366
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",22785,2317,1.32 [1.19-1.48],6.960401887244489e-07
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,23213,392,1.03 [0.77-1.36],0.8466789374403829
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Pneumothorax,20502,169,1.12 [0.73-1.72],0.6080813511074112
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Pollen allergy,23326,204,1.02 [0.69-1.51],0.933281076427564
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Pulmonary oedema,22708,94,1.48 [0.88-2.50],0.1436641720122855
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Respiratory insufficiency,14354,70,1.52 [0.78-2.95],0.215738829083926
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,23027,1293,1.40 [1.21-1.62],5.604016867949022e-06
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,22275,242,1.05 [0.73-1.50],0.7958831710624568
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Viral pneumonia,20773,305,1.35 [0.99-1.83],0.0568654324810434
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",22822,243,1.30 [0.93-1.83],0.1225351386181225
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,7445,122,0.70 [0.41-1.20],0.1904997442888952
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,14794,60,0.90 [0.43-1.85],0.7690131891154712
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Acute appendicitis,23222,129,0.88 [0.53-1.45],0.6060569522438679
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Acute gastritis,16219,107,1.34 [0.80-2.26],0.2678686532375351
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Acute pancreatitis,21278,202,1.55 [1.09-2.22],0.0157287955201989
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Acute peritonitis,22841,110,1.66 [1.03-2.67],0.0366655927768812
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Alcoholic liver disease,22350,65,4.34 [3.34-5.63],4.1654446183896e-28
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Barrett oesophagus,16625,513,1.39 [1.10-1.77],0.0067412185187197
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",21223,147,1.67 [1.11-2.51],0.0130731620129427
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",22915,147,1.66 [1.10-2.50],0.0156420263576904
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Cholecystitis,21299,223,1.41 [0.99-1.99],0.0534410500783764
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Cholelithiasis,22136,1060,1.59 [1.37-1.86],2.9396995906437063e-09
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Chronic gastritis,16461,349,1.01 [0.75-1.37],0.925641309421244
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Chronic pancreatitis,21131,55,1.26 [0.61-2.59],0.5365697695010554
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",23199,131,4.01 [3.29-4.88],6.802176547239601e-43
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Coeliac disease,21589,127,1.76 [1.18-2.63],0.0057698594708523
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Collagenous colitis,21586,104,0.93 [0.53-1.64],0.8047202006513943
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,23219,160,1.06 [0.69-1.63],0.7941341224357253
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Constipation,23054,2147,1.07 [0.95-1.20],0.2897652329730082
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Crohn disease,21571,89,2.03 [1.22-3.38],0.0062073342638027
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",22985,68,1.88 [1.08-3.26],0.0257282609272117
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Crohn's disease NAS,21563,81,1.88 [1.08-3.28],0.025662878261665
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Dental caries,22713,188,1.04 [0.69-1.55],0.8633618577878237
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,20158,2573,1.04 [0.93-1.16],0.4624363559090108
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Diseases of appendix,23251,158,0.77 [0.49-1.21],0.2504994480050223
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Diseases of liver,23216,931,2.04 [1.76-2.36],4.460492400569909e-22
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",20745,4633,1.17 [1.08-1.27],0.0001622122632439
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",22998,473,0.95 [0.74-1.23],0.7168664855992826
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Diseases of peritoneum,23245,514,1.30 [1.02-1.65],0.0314294109965336
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,22615,90,0.94 [0.52-1.71],0.8515363437024621
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Diseases of salivary glands,22493,59,1.21 [0.59-2.47],0.5972474824163705
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Diseases of the digestive system,22996,1534,1.14 [0.99-1.31],0.0736198330069973
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Diseases of tongue,22509,96,1.13 [0.65-1.99],0.6595755467094133
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",22614,1538,1.50 [1.32-1.71],9.937243285105412e-10
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,18551,3817,1.12 [1.02-1.22],0.0156005649214733
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Duodenal ulcer,16363,251,1.63 [1.18-2.25],0.0030512945846945
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",23243,204,1.48 [1.03-2.12],0.0317478399903817
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,23299,28,2.56 [1.31-5.00],0.0057795614323795
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,22438,153,3.87 [3.21-4.68],9.169218199895368e-45
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,14844,110,1.12 [0.66-1.88],0.6811427588244234
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Functional dyspepsia,16680,568,1.03 [0.81-1.31],0.803351272681899
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Gastric ulcer,16539,427,1.46 [1.13-1.89],0.0033575674503538
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,18807,2695,1.10 [0.99-1.23],0.0829784546560332
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,16766,654,1.44 [1.17-1.77],0.0005410501275667
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,16851,8281,1.09 [1.03-1.16],0.0054129580871659
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,GI-bleeding,22736,1274,1.10 [0.95-1.29],0.2109028716947999
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,22570,45,0.50 [0.22-1.15],0.1050217068385639
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,15730,1189,1.06 [0.90-1.25],0.4824200595980866
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",22355,70,3.10 [2.15-4.47],1.6197090979047702e-09
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Hernia,21261,3676,0.97 [0.89-1.07],0.5345956636273355
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Impacted teeth,23303,26,2.58 [1.30-5.11],0.0066628916364833
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Impaction of intestines,14813,79,0.88 [0.46-1.68],0.6954993441094115
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Inguinal hernia,18700,1115,0.79 [0.66-0.93],0.0056697588568888
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",17710,125,0.52 [0.31-0.87],0.0133430179333999
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,14849,115,1.06 [0.62-1.79],0.8358805587388363
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Intestinal malabsorption,21608,146,1.74 [1.19-2.53],0.0041634162133704
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,15247,513,1.14 [0.89-1.46],0.2940390582641627
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,23305,344,2.52 [2.05-3.11],3.613194686180461e-18
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,22270,788,1.54 [1.28-1.85],4.923735866074742e-06
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,22578,1096,1.36 [1.16-1.60],0.0002138612467512
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Oesophageal obstruction,16334,222,1.25 [0.86-1.81],0.2400673882356189
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Oesophagitis,16815,703,1.26 [1.03-1.55],0.0262896871553626
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,23282,129,1.47 [0.93-2.34],0.101476620486085
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,17669,84,1.12 [0.62-2.01],0.7112166796743105
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,16117,1383,1.06 [0.91-1.24],0.4314132927895781
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,21441,365,1.21 [0.91-1.61],0.1792448655189301
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,21223,147,1.36 [0.88-2.09],0.1672632031337126
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Other diseases of intestine,16690,1956,1.14 [1.01-1.30],0.0351451513762653
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Other diseases of intestines,20999,6265,1.13 [1.06-1.22],0.0004347165297686
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,22465,205,1.34 [0.93-1.95],0.1194277320211231
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Other diseases of liver,23057,772,1.92 [1.63-2.27],1.1884000435726082e-14
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,16891,779,1.30 [1.07-1.57],0.0086565217912066
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Other diseases of pancreas,21294,218,1.18 [0.82-1.70],0.3833575997676264
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,23168,437,1.22 [0.94-1.59],0.1272965484879833
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,17217,1105,1.45 [1.23-1.70],6.484072682588912e-06
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,22753,1291,1.11 [0.95-1.29],0.1836471601832003
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,22704,179,0.89 [0.59-1.35],0.5832752433515633
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,16927,2193,1.09 [0.97-1.23],0.1612616920570754
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),18300,2188,1.28 [1.14-1.44],2.956789940962498e-05
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,22402,117,3.61 [2.89-4.52],3.5600069309897536e-29
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,22448,966,1.48 [1.25-1.75],5.698424417775917e-06
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",15187,453,1.06 [0.82-1.39],0.6519664649075545
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,23295,32,2.32 [1.16-4.64],0.0168912089185627
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,15359,625,1.00 [0.80-1.26],0.9922908701676856
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",21619,157,1.14 [0.74-1.78],0.5531223380182083
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Recurring oral aphthae,23326,54,1.70 [0.87-3.30],0.1178972828166762
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,22519,105,1.51 [0.91-2.49],0.107499832663171
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Toxic colitis,21563,81,1.33 [0.72-2.44],0.3654632206086199
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,16457,345,1.11 [0.82-1.50],0.4880151363125092
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Ulcerative colitis,21652,170,0.95 [0.62-1.47],0.8185908674203757
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",21617,135,0.94 [0.58-1.53],0.8056422672558106
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Umbilical hernia,17842,257,1.20 [0.86-1.67],0.2878980333659419
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,14978,244,1.22 [0.86-1.75],0.2688988708212671
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Ventral hernia,17875,290,0.93 [0.67-1.29],0.6563415204533976
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XI Diseases of the digestive system,Volvulus,14828,94,0.66 [0.37-1.21],0.1807504493852587
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,23230,428,1.12 [0.86-1.47],0.3970120102147441
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,22974,66,1.56 [0.81-2.99],0.1818632301539791
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,20758,167,1.50 [1.00-2.23],0.0495998611407063
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,22690,835,1.17 [0.97-1.41],0.1043230799026594
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",22002,147,1.87 [1.27-2.76],0.0016071839978792
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,21224,633,1.21 [0.97-1.50],0.0848051654271214
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,22989,316,1.52 [1.14-2.03],0.004327458086356
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,23236,563,1.22 [0.97-1.53],0.0865199381232291
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,22722,49,1.03 [0.47-2.26],0.9451197295224056
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,21724,3772,1.11 [1.02-1.22],0.0189969526184911
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,22900,448,1.15 [0.89-1.49],0.283763321248408
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,22764,312,1.04 [0.76-1.42],0.8251205898798151
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,22944,1089,1.19 [1.01-1.41],0.0335181406694455
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",23319,62,2.16 [1.29-3.62],0.0035820826368279
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,20648,57,0.91 [0.42-1.95],0.7991328137617177
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,22516,64,1.55 [0.83-2.88],0.1652213645406567
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,22976,303,1.48 [1.10-1.99],0.0101479740431027
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,21203,612,0.95 [0.75-1.19],0.6577474478987821
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,20683,92,0.91 [0.50-1.66],0.7617446885283051
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,23251,95,1.84 [1.13-2.98],0.0137195178446788
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,22097,242,1.00 [0.71-1.43],0.9805752684660975
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,23132,224,1.50 [1.06-2.14],0.0237749825405246
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,22770,97,0.70 [0.39-1.23],0.2105777836075463
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,20671,80,0.56 [0.30-1.07],0.0786468005713345
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,22723,2132,1.01 [0.89-1.14],0.9084007135411226
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",21249,658,0.94 [0.75-1.17],0.5828418309909122
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,20687,96,0.86 [0.48-1.55],0.6156821462458424
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,23246,338,1.43 [1.07-1.90],0.0153176144384394
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,22750,77,0.94 [0.50-1.78],0.8523536901191291
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,23183,275,1.29 [0.93-1.79],0.1284796587504058
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,23263,461,1.10 [0.85-1.43],0.4663185012550714
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,20716,125,1.21 [0.74-1.98],0.4528225659517844
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,20933,342,0.88 [0.64-1.19],0.4022584282849663
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,23251,449,1.09 [0.84-1.43],0.5031075082167519
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",20930,339,1.23 [0.92-1.63],0.1645955669003725
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,23311,155,1.57 [1.04-2.35],0.0302962608121461
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,19458,83,1.53 [0.88-2.65],0.131584106752668
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,20570,6497,0.99 [0.92-1.06],0.7410245597962681
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,19155,5082,0.94 [0.87-1.02],0.1606136473538306
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,19427,52,0.53 [0.25-1.15],0.1084078483470851
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,19364,146,1.24 [0.79-1.96],0.3539529346673384
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,19410,192,1.46 [1.01-2.11],0.0442844559869379
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,23073,66,1.10 [0.56-2.15],0.7878460486571902
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",19370,152,0.86 [0.53-1.38],0.5300720226951261
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,15572,1499,0.87 [0.75-1.01],0.0620313592786491
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",23127,250,0.83 [0.58-1.19],0.3021521623052777
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,19807,589,0.59 [0.47-0.76],2.112762096847552e-05
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,18890,8109,0.99 [0.93-1.05],0.6912230455885768
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,20769,122,1.20 [0.72-1.99],0.4797931505259327
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,19557,182,1.20 [0.80-1.79],0.3797532498651541
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,19891,516,1.04 [0.81-1.33],0.7750050749762369
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,22391,3173,0.97 [0.88-1.08],0.5982511649402911
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,19684,309,0.73 [0.53-1.00],0.0520974698120128
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,19527,152,1.11 [0.70-1.76],0.6446192965727597
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,19495,120,1.05 [0.63-1.76],0.8489491093619203
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,22577,101,1.24 [0.72-2.16],0.4392983881189384
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,16104,2031,0.88 [0.78-0.99],0.0391994674341735
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,14875,802,1.15 [0.95-1.38],0.1498967164701644
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",23239,795,1.19 [0.99-1.44],0.0629599638707086
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,14152,79,0.82 [0.43-1.55],0.5363720680187065
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),14377,304,0.76 [0.55-1.07],0.1145568964234984
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,19642,267,1.01 [0.72-1.42],0.944999278178464
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,14556,483,0.67 [0.52-0.86],0.0021621953701747
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,19300,82,0.68 [0.35-1.29],0.23762450072216
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,19905,687,0.97 [0.79-1.21],0.8138294063007196
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,19530,312,0.70 [0.51-0.97],0.0339072352079806
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,14526,453,0.72 [0.55-0.93],0.014005485820903
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,19447,72,0.98 [0.51-1.90],0.954042831587205
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",19434,59,0.65 [0.31-1.35],0.2481877480559914
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,20734,87,2.14 [1.31-3.47],0.002186283257113
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,22903,2256,1.17 [1.04-1.32],0.0086011427480389
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,22228,1581,1.16 [1.00-1.34],0.0461479766471407
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",23166,541,1.25 [0.99-1.57],0.0649510046666235
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,17238,3165,0.96 [0.87-1.06],0.4137808110987024
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,14116,43,1.19 [0.51-2.76],0.6828086210831095
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,19482,107,0.61 [0.36-1.06],0.0787126922411085
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,14145,72,0.78 [0.40-1.52],0.4737285009698793
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),14207,134,0.83 [0.50-1.37],0.4743980189307769
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,20894,247,0.99 [0.69-1.41],0.9440606712905956
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,21165,518,1.27 [1.00-1.61],0.0499221177718264
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,23314,114,0.91 [0.53-1.54],0.719201405952691
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",21228,2010,1.05 [0.92-1.18],0.4773226933623054
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,19453,78,0.82 [0.43-1.56],0.5394971534183277
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),14230,157,0.47 [0.30-0.75],0.0014507442893164
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,20012,794,0.90 [0.73-1.10],0.3025970919556959
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,16274,2201,0.89 [0.79-1.00],0.0485934697087952
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,22604,128,1.33 [0.82-2.15],0.2423704213442209
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,23326,63,1.82 [1.01-3.30],0.0474442795906295
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,19454,79,1.26 [0.68-2.32],0.4578435295443156
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",20742,1367,1.11 [0.96-1.29],0.1580585481629279
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,19482,107,1.17 [0.69-1.99],0.5661650244352859
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,16155,2082,0.95 [0.84-1.07],0.4006171663390175
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,20765,118,0.91 [0.54-1.54],0.7278864191141803
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,19413,38,1.22 [0.49-3.04],0.6737353961129933
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,19416,198,0.90 [0.60-1.36],0.6271443995681238
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,20065,690,1.14 [0.92-1.40],0.2273863851188356
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,22972,496,1.07 [0.83-1.37],0.6268938789741141
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,19883,665,1.14 [0.92-1.42],0.2242252603041775
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,23180,534,1.27 [1.00-1.60],0.0473639609278274
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,23312,67,1.58 [0.85-2.93],0.1498723021590793
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,19543,168,0.72 [0.46-1.11],0.1361582023875518
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,18147,896,1.15 [0.96-1.39],0.1247402774179931
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,20025,650,1.22 [0.99-1.52],0.0634072539439108
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],19652,277,0.74 [0.53-1.05],0.0914105514912683
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",14144,71,1.97 [1.13-3.42],0.0168565064458707
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,17215,3142,1.03 [0.93-1.13],0.59900334948737
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,14918,845,0.83 [0.68-1.01],0.0654186327255487
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,22854,378,0.95 [0.71-1.28],0.7503963630602317
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",23281,81,1.05 [0.56-1.96],0.8827847858655207
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",20648,71,0.77 [0.40-1.47],0.4266329312921548
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,14137,64,1.71 [0.93-3.15],0.0837762380933871
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,19328,110,0.62 [0.36-1.07],0.0859684084022033
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,14622,549,1.22 [0.97-1.55],0.0916238803951189
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,19714,339,0.98 [0.72-1.33],0.8994408281317577
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,19512,294,0.93 [0.67-1.28],0.6442300693729244
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,19485,267,0.61 [0.43-0.87],0.0069088520011802
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,16395,68,1.44 [0.78-2.68],0.2452180602014429
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",23317,72,1.90 [1.11-3.24],0.0194752064785972
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,19933,558,1.06 [0.84-1.34],0.6474560984021833
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],22571,95,1.38 [0.80-2.37],0.2494023621325386
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,22040,2665,1.03 [0.92-1.15],0.608321767929052
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",19524,149,0.73 [0.46-1.16],0.1802616157256202
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,19940,722,0.88 [0.71-1.08],0.2204013288812463
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,21961,278,0.91 [0.65-1.27],0.564651078899139
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,19475,257,0.60 [0.42-0.87],0.0062034165240473
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,21236,2018,0.89 [0.78-1.01],0.0696891169440407
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,20530,1312,0.88 [0.75-1.03],0.1099354111961321
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],19439,64,0.94 [0.47-1.88],0.8616558549377368
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,22596,120,1.65 [1.06-2.57],0.0260736213531054
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,19539,164,1.28 [0.83-1.96],0.2653943851304773
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,19466,91,0.70 [0.38-1.28],0.2500727854542665
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),14151,78,0.90 [0.47-1.70],0.7407036936821842
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Acute renal failure,21807,2271,1.40 [1.26-1.57],2.371459616998033e-09
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),9349,25,1.31 [0.45-3.82],0.6229940154485973
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,11860,34,0.80 [0.29-2.21],0.6672671191842074
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,23008,313,1.21 [0.89-1.65],0.2185259901931378
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,22799,104,0.93 [0.55-1.60],0.8062534280893217
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,21890,2354,1.22 [1.09-1.36],0.0007432886232444
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,23099,133,1.23 [0.78-1.93],0.3841067133449238
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,23025,407,1.12 [0.85-1.47],0.4121274453096595
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Cystitis,19463,299,1.14 [0.82-1.57],0.4287541831897618
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Dialysis,19635,99,1.30 [0.77-2.21],0.3234344331655753
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,10286,2160,0.87 [0.78-0.98],0.0261127059701409
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Disorders of breast,11959,133,0.95 [0.58-1.58],0.8561817990830515
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Endometriosis,9363,39,1.05 [0.42-2.60],0.9178146485320956
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,9907,583,1.02 [0.81-1.30],0.8537693471043197
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,19228,6346,1.03 [0.96-1.10],0.4188986895736838
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,23065,99,2.65 [1.81-3.88],5.232258023601663e-07
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Hydrocele,8244,118,0.61 [0.37-1.01],0.0565596300394134
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,19610,355,1.00 [0.74-1.35],0.9816296644585047
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,9969,1843,0.85 [0.75-0.97],0.0134591363903564
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,12020,160,0.74 [0.47-1.17],0.1962362308916853
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),8254,128,0.63 [0.38-1.03],0.0634311104657082
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,19253,89,0.83 [0.45-1.52],0.5459433073624669
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,10364,1040,0.95 [0.79-1.13],0.5341842316537946
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,8188,62,1.01 [0.51-2.01],0.983765490000182
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,9363,39,0.50 [0.20-1.25],0.140240412454128
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",23323,89,1.49 [0.86-2.57],0.1541591116804567
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",23325,84,1.32 [0.74-2.36],0.3525561818810628
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,22128,2964,1.02 [0.92-1.14],0.6575028406747463
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,20115,951,0.90 [0.75-1.08],0.2588030114691007
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,11875,49,1.12 [0.50-2.48],0.7870940176108006
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,23251,633,1.14 [0.92-1.42],0.2394255850509343
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,8280,154,0.66 [0.42-1.03],0.0665856961106474
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,8287,161,1.14 [0.75-1.73],0.5414023674400326
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,8278,152,0.80 [0.51-1.25],0.3269253831448299
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,23297,89,1.44 [0.83-2.51],0.1945497898127654
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,21517,2353,1.14 [1.01-1.27],0.029166956279222
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,11942,82,0.48 [0.26-0.92],0.0266783816620565
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,9392,68,0.70 [0.35-1.43],0.330134684171096
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",9469,145,1.02 [0.64-1.64],0.9247861817587008
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,9377,53,0.93 [0.42-2.06],0.8571174420834714
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,9424,100,0.88 [0.49-1.57],0.66157500868436
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,19670,415,1.00 [0.76-1.32],0.9868882434113382
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,22820,202,1.15 [0.79-1.69],0.4697947547869308
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,9449,125,0.53 [0.31-0.89],0.0155527136542088
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,9348,24,0.63 [0.33-1.23],0.1748283755069459
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,9538,214,0.77 [0.52-1.14],0.1972827952770807
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,9416,92,1.82 [1.15-2.89],0.0102258035456078
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,9531,207,0.88 [0.59-1.31],0.5262575828843032
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,23014,48,1.04 [0.47-2.29],0.9227235519570912
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",8280,154,1.48 [0.98-2.23],0.0638111407336301
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,23044,3789,1.26 [1.15-1.37],3.882635103361554e-07
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",19346,91,1.59 [0.91-2.77],0.1019887184404452
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,19720,184,1.31 [0.88-1.96],0.1852545512391978
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,22734,39,1.46 [0.65-3.31],0.3585341717532226
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Urethral stricture,19431,267,1.46 [1.05-2.01],0.0225587117488785
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Urolithiasis,23094,399,1.20 [0.91-1.57],0.1884072387951429
+PRCP,Lysosomal Pro-X carboxypeptidase,Chapter XIV Diseases of the genitourinary system,Uterine polyps,9361,37,0.77 [0.30-1.96],0.5832134032124476

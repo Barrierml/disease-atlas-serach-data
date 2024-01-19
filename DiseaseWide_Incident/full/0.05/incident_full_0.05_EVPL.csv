@@ -1,0 +1,58 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+EVPL,Envoplakin,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,40336,1588,1.26 [1.10-1.43],0.0005647207406392
+EVPL,Envoplakin,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,38929,1776,1.15 [1.01-1.31],0.0366537718664887
+EVPL,Envoplakin,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,42520,1537,1.19 [1.03-1.36],0.0143314286911907
+EVPL,Envoplakin,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,43774,1751,1.22 [1.08-1.39],0.0017553001810874
+EVPL,Envoplakin,Chapter I Certain infectious and parasitic diseases,Other septicaemia,43557,1534,1.27 [1.11-1.45],0.0004813417578628
+EVPL,Envoplakin,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",35060,132,0.47 [0.25-0.86],0.0143559635286664
+EVPL,Envoplakin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,42656,4839,1.13 [1.05-1.22],0.0019618496931055
+EVPL,Envoplakin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,42980,110,1.65 [1.11-2.46],0.0124257810761808
+EVPL,Envoplakin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,43802,93,1.83 [1.24-2.69],0.0023806168884915
+EVPL,Envoplakin,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,41524,180,0.46 [0.28-0.78],0.0036093643966851
+EVPL,Envoplakin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,3559,82,1.72 [1.00-2.95],0.0492851028124696
+EVPL,Envoplakin,Chapter IX Diseases of the circulatory system,Angina pectoris,40232,2000,0.84 [0.73-0.96],0.0132307468349681
+EVPL,Envoplakin,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",43361,955,1.23 [1.03-1.46],0.0192646456608848
+EVPL,Envoplakin,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,41970,171,1.51 [1.05-2.16],0.0262915410693551
+EVPL,Envoplakin,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",42491,1016,0.79 [0.65-0.96],0.0203946952552876
+EVPL,Envoplakin,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",43338,1092,1.19 [1.01-1.40],0.0373090454084517
+EVPL,Envoplakin,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",43302,1156,1.18 [1.01-1.38],0.0400562233878126
+EVPL,Envoplakin,Chapter VI Diseases of the nervous system,Bell's palsy,40962,138,1.53 [1.04-2.23],0.0292858974757689
+EVPL,Envoplakin,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",43022,116,1.70 [1.16-2.48],0.005991232123457
+EVPL,Envoplakin,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,43360,312,0.62 [0.43-0.91],0.0143037908900161
+EVPL,Envoplakin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,42547,371,1.37 [1.07-1.75],0.0112932866183468
+EVPL,Envoplakin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,43082,232,1.41 [1.04-1.92],0.0276257337337556
+EVPL,Envoplakin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,43401,115,1.52 [1.01-2.30],0.0433030507731614
+EVPL,Envoplakin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,43542,692,1.26 [1.04-1.53],0.0202777783443068
+EVPL,Envoplakin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),43124,274,1.48 [1.12-1.95],0.0056444035473778
+EVPL,Envoplakin,Chapter X Diseases of the respiratory system,All influenza,40605,197,1.53 [1.10-2.12],0.0114463833388777
+EVPL,Envoplakin,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),40601,193,1.55 [1.12-2.15],0.008406370562906
+EVPL,Envoplakin,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),43285,236,1.63 [1.23-2.16],0.000705500548591
+EVPL,Envoplakin,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",40544,136,1.62 [1.11-2.36],0.0122673025401097
+EVPL,Envoplakin,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,41708,506,1.58 [1.29-1.93],7.273234498336848e-06
+EVPL,Envoplakin,Chapter X Diseases of the respiratory system,Influenza and pneumonia,43590,3182,1.14 [1.03-1.25],0.0106761354305994
+EVPL,Envoplakin,Chapter X Diseases of the respiratory system,Interstitial lung disease,41765,563,1.53 [1.26-1.86],1.6369499243348168e-05
+EVPL,Envoplakin,Chapter X Diseases of the respiratory system,Other diseases of pleura,43566,3366,1.18 [1.07-1.29],0.0005242509914498
+EVPL,Envoplakin,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,43805,695,1.48 [1.24-1.77],1.907766019201528e-05
+EVPL,Envoplakin,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,43785,2197,1.19 [1.06-1.33],0.0038269439576664
+EVPL,Envoplakin,Chapter X Diseases of the respiratory system,Pleural effusion,41859,1659,1.16 [1.01-1.32],0.0347951113581443
+EVPL,Envoplakin,Chapter XI Diseases of the digestive system,Cholelithiasis,42255,1719,1.16 [1.02-1.32],0.0270717317736737
+EVPL,Envoplakin,Chapter XI Diseases of the digestive system,Coeliac disease,41264,194,1.62 [1.21-2.17],0.0011814164505204
+EVPL,Envoplakin,Chapter XI Diseases of the digestive system,Constipation,43541,2777,0.88 [0.79-0.99],0.0356294505816973
+EVPL,Envoplakin,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",42938,2402,1.13 [1.01-1.27],0.0292989771638965
+EVPL,Envoplakin,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,31203,161,0.54 [0.31-0.92],0.0227702246511974
+EVPL,Envoplakin,Chapter XI Diseases of the digestive system,Intestinal malabsorption,41302,232,1.50 [1.13-2.01],0.0052922403689854
+EVPL,Envoplakin,Chapter XI Diseases of the digestive system,Recurring oral aphthae,43951,99,1.59 [1.03-2.46],0.0361146886764341
+EVPL,Envoplakin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,32396,1931,1.18 [1.05-1.33],0.006391630246826
+EVPL,Envoplakin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,31450,985,1.19 [1.00-1.42],0.0498518611013093
+EVPL,Envoplakin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",43839,969,1.20 [1.00-1.43],0.0490124025327699
+EVPL,Envoplakin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,30553,88,1.99 [1.37-2.89],0.0002889036008657
+EVPL,Envoplakin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,38167,266,0.66 [0.44-0.98],0.0398462213599177
+EVPL,Envoplakin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,37848,323,1.41 [1.09-1.83],0.0097014181585416
+EVPL,Envoplakin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,38235,334,1.36 [1.05-1.77],0.0204279367496568
+EVPL,Envoplakin,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,42125,2284,1.22 [1.09-1.36],0.000593390261873
+EVPL,Envoplakin,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,43631,106,1.55 [1.01-2.39],0.0473281191346077
+EVPL,Envoplakin,Chapter XIV Diseases of the genitourinary system,Dialysis,39952,111,1.84 [1.26-2.68],0.0015057279960478
+EVPL,Envoplakin,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",18023,337,0.62 [0.43-0.89],0.0091327202451561
+EVPL,Envoplakin,Chapter XIV Diseases of the genitourinary system,Irregular menses,23362,108,0.50 [0.26-0.97],0.0405765059865595
+EVPL,Envoplakin,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,16436,96,1.60 [1.05-2.45],0.0287986208494638
+EVPL,Envoplakin,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,43611,4284,1.12 [1.03-1.22],0.0097318829788688

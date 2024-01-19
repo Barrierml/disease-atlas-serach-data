@@ -1,0 +1,661 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",48203,293,0.93 [0.76-1.13],0.4509187798958975
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",49942,385,0.80 [0.67-0.95],0.0136038292151698
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",49425,2697,0.97 [0.91-1.04],0.4057689593585496
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Candidiasis,49982,836,0.86 [0.76-0.97],0.012091568410665
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,48467,6842,0.91 [0.88-0.95],1.896601228492889e-05
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),48652,6212,0.95 [0.91-0.99],0.009709459145449
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,49484,2375,0.91 [0.85-0.98],0.0099760267053218
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,49796,166,0.79 [0.60-1.04],0.0884687936717458
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,45990,1894,0.91 [0.84-0.99],0.0200548411010876
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,44433,2153,0.91 [0.84-0.98],0.0098120975902483
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,44187,504,0.91 [0.78-1.05],0.1985355542703792
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,35094,3860,0.93 [0.88-0.98],0.0048795650848108
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,43879,760,0.93 [0.82-1.05],0.2129089716955768
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,49909,2800,0.91 [0.85-0.97],0.0033016241645376
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Mycoses,50132,986,0.85 [0.76-0.95],0.004635106093247
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,48539,1811,0.96 [0.88-1.03],0.2492957320326093
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,50001,2091,0.92 [0.85-0.99],0.019905634162737
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,47496,387,0.80 [0.67-0.95],0.0129669796686578
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,50229,98,1.05 [0.76-1.44],0.7761146010118776
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Other septicaemia,49739,1829,0.92 [0.85-1.00],0.0455524294748511
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,49781,151,0.75 [0.56-1.01],0.0557525890954054
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Other viral diseases,50075,304,0.90 [0.74-1.09],0.2880614912309028
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",50040,269,0.77 [0.62-0.97],0.0242381430244508
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,47541,813,1.01 [0.90-1.13],0.8423981909323088
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,47268,540,0.99 [0.86-1.14],0.8602688752063714
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,47325,216,0.97 [0.77-1.20],0.7577406872585019
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,50187,102,1.40 [1.11-1.76],0.0038775552155956
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,50100,298,0.85 [0.69-1.04],0.1101959055903422
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Viral warts,49899,97,1.10 [0.80-1.50],0.5664025699293602
+ODAM,Odontogenic ameloblast-associated protein,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],49928,126,0.75 [0.55-1.04],0.0813256172406069
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Benign lipomatous neoplasm,49655,571,1.03 [0.90-1.18],0.6555854398638374
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,50055,113,1.00 [0.74-1.37],0.9796147212882632
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,50024,121,0.80 [0.58-1.11],0.1867364207315401
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,23115,126,1.27 [1.00-1.61],0.0531363290698757
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",49590,2792,0.97 [0.91-1.03],0.3321679698895554
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Benign neoplasm of meninges,50201,111,0.80 [0.57-1.12],0.1980432159785256
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,50101,128,0.91 [0.67-1.22],0.5257305796902618
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,50181,207,0.90 [0.71-1.14],0.3972673883250087
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Benign neoplasm of ovary,26984,177,1.12 [0.89-1.40],0.3372813782761119
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Benign neoplasm: Ascending colon,50186,700,0.98 [0.87-1.11],0.7820738472127272
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Benign neoplasm: Caecum,50185,577,0.99 [0.87-1.13],0.8967379261579467
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",50017,136,0.77 [0.57-1.04],0.0928948594647174
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Benign neoplasm: Descending colon,50180,421,0.86 [0.72-1.02],0.0740982289302102
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Benign neoplasm: Rectum,50106,682,1.01 [0.89-1.14],0.9320979973003084
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,50010,1194,0.99 [0.90-1.09],0.8632742001053373
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Benign neoplasm: Transverse colon,50168,834,0.89 [0.79-1.00],0.0586297763308972
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Carcinoma in situ of breast,21927,134,1.13 [0.87-1.47],0.3447697199366906
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",22017,163,0.99 [0.77-1.29],0.9586027786067196
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",40004,101,1.01 [0.73-1.39],0.965216103568943
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",40040,137,0.85 [0.63-1.15],0.2896603178358682
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",50135,233,1.03 [0.84-1.27],0.7679573481804604
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Haemangioma, any site",50136,228,1.04 [0.84-1.28],0.7249259930594221
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Leiomyoma of uterus,26083,573,0.83 [0.72-0.97],0.0194883116581569
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Lung cancer and mesothelioma,34824,648,0.73 [0.64-0.84],1.5979339882537917e-05
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Lymphoid leukaemia,40005,102,1.09 [0.80-1.48],0.5861437955161277
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",40272,369,0.99 [0.83-1.18],0.9018290068807716
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",40301,398,1.09 [0.94-1.27],0.2448531788916491
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",22146,182,1.03 [0.82-1.29],0.8015046421061239
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",40056,153,0.87 [0.66-1.14],0.3065483818437509
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",40106,203,0.90 [0.71-1.14],0.3897894255995602
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",40094,191,0.83 [0.64-1.07],0.1539913980744658
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",22101,137,0.96 [0.73-1.27],0.784194815099041
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",40077,174,0.93 [0.72-1.19],0.5488421291387349
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",19295,1356,1.06 [0.97-1.15],0.2077102701281133
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",40128,225,1.14 [0.94-1.39],0.1794353014901546
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",40047,144,0.68 [0.50-0.92],0.0133327318210604
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,40106,203,0.98 [0.78-1.24],0.8963213342514694
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Melanocytic naevi,49855,395,0.88 [0.74-1.05],0.1671414809330477
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Melanocytic naevi of trunk,50152,171,0.95 [0.73-1.24],0.7156581496097477
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Melanoma in situ,39971,160,0.72 [0.54-0.97],0.0289967956965873
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",40081,178,0.88 [0.68-1.14],0.3255442859484851
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",40219,316,0.92 [0.76-1.11],0.3642881171620914
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",40343,440,0.78 [0.66-0.92],0.003212856351955
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",40095,192,1.04 [0.82-1.30],0.7655976374423372
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,Other benign neoplasms of skin,49877,302,0.97 [0.80-1.17],0.7570521205839416
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",41997,2094,1.02 [0.95-1.10],0.5169909654021978
+ODAM,Odontogenic ameloblast-associated protein,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",42110,2207,1.03 [0.97-1.11],0.3426736745349879
+ODAM,Odontogenic ameloblast-associated protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,49670,669,0.94 [0.83-1.07],0.3482648649702445
+ODAM,Odontogenic ameloblast-associated protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,46563,209,1.18 [0.98-1.43],0.0780642884155631
+ODAM,Odontogenic ameloblast-associated protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,49134,133,0.95 [0.71-1.27],0.7291221368325058
+ODAM,Odontogenic ameloblast-associated protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,48687,5621,0.97 [0.93-1.01],0.1812609215088255
+ODAM,Odontogenic ameloblast-associated protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,47357,95,0.66 [0.45-0.96],0.0287431156479448
+ODAM,Odontogenic ameloblast-associated protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,49418,100,0.80 [0.56-1.13],0.2074183657424601
+ODAM,Odontogenic ameloblast-associated protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,49289,2935,0.99 [0.93-1.05],0.7314369379235558
+ODAM,Odontogenic ameloblast-associated protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,49287,2933,0.99 [0.93-1.05],0.7185618020010683
+ODAM,Odontogenic ameloblast-associated protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,46524,170,0.90 [0.69-1.16],0.4081539639042829
+ODAM,Odontogenic ameloblast-associated protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,49591,2329,0.90 [0.84-0.96],0.0025058081644825
+ODAM,Odontogenic ameloblast-associated protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,49533,215,1.08 [0.87-1.33],0.4851433430854079
+ODAM,Odontogenic ameloblast-associated protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,49121,120,1.01 [0.75-1.36],0.9322791867510882
+ODAM,Odontogenic ameloblast-associated protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,49117,116,0.99 [0.73-1.33],0.9298876647757524
+ODAM,Odontogenic ameloblast-associated protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,49866,548,1.06 [0.93-1.21],0.4024461657946633
+ODAM,Odontogenic ameloblast-associated protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,50025,106,0.93 [0.67-1.29],0.6526894556739322
+ODAM,Odontogenic ameloblast-associated protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",49771,453,1.13 [0.98-1.29],0.0947637849426909
+ODAM,Odontogenic ameloblast-associated protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,47468,206,1.01 [0.81-1.27],0.8995752513298185
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,38905,614,0.92 [0.80-1.06],0.2477757510251372
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,46840,233,0.99 [0.79-1.23],0.8995407467788459
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,46852,245,0.85 [0.68-1.05],0.1343449775773808
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,38398,107,0.91 [0.66-1.27],0.5808794932273804
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,46661,135,0.94 [0.71-1.25],0.6653996653547454
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,45572,457,0.91 [0.78-1.06],0.2216161097809612
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",49302,1107,0.87 [0.78-0.96],0.0064919704879634
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,48707,512,0.84 [0.72-0.97],0.019564892751238
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,48445,250,0.90 [0.73-1.12],0.3406992853144104
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,49542,3016,0.91 [0.85-0.96],0.001940623499863
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,43768,2920,0.88 [0.83-0.94],0.0001688487340457
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",38421,130,0.96 [0.72-1.29],0.7896276714423422
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",46323,157,0.90 [0.69-1.18],0.4667419325121249
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,38828,537,0.93 [0.81-1.08],0.3310317985830962
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,38404,113,0.79 [0.56-1.12],0.1840955944194076
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,45143,6852,0.92 [0.89-0.96],0.0001658626707741
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,38668,377,0.81 [0.67-0.97],0.0201760403327618
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,39357,1066,0.88 [0.79-0.97],0.0145500642693572
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,50069,629,0.94 [0.82-1.07],0.3703641154575474
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,49706,266,0.97 [0.79-1.18],0.7580789706654842
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,38535,244,0.78 [0.62-0.98],0.0350878869799809
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",38408,117,0.90 [0.66-1.24],0.529559375785174
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,49179,3013,1.00 [0.94-1.06],0.9246817328122752
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,38790,499,1.14 [1.00-1.30],0.0560476804816037
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,38868,577,0.97 [0.85-1.11],0.6781529967430897
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",39520,1229,0.83 [0.75-0.92],0.000255689531974
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,38521,230,1.06 [0.86-1.30],0.6033140611867659
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,49690,250,1.01 [0.82-1.23],0.9448791524626908
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,39461,1170,0.99 [0.90-1.09],0.8310309090437269
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,39229,938,0.97 [0.88-1.08],0.6305277317655016
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,45249,134,0.76 [0.56-1.04],0.0862701577875426
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,47944,9653,0.94 [0.91-0.97],0.0001933506834572
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,46260,94,0.82 [0.57-1.18],0.2912572674885216
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,46275,109,0.92 [0.66-1.28],0.6228461046099285
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,49875,3768,0.89 [0.84-0.94],4.55003282394247e-05
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",49877,3764,0.89 [0.84-0.94],3.1739399068671455e-05
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,46266,100,0.79 [0.56-1.13],0.1962937299152268
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,49564,2345,0.94 [0.87-1.00],0.060692131200067
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",41367,3076,0.98 [0.92-1.04],0.5126127510711803
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,50204,431,0.92 [0.78-1.08],0.2965791330655374
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,48361,166,1.02 [0.80-1.30],0.8563959331452189
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,47417,198,1.21 [0.99-1.47],0.0621266905320119
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,47492,273,1.05 [0.87-1.27],0.6087093014866845
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",38614,323,0.86 [0.71-1.05],0.132062798283743
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,45731,295,0.94 [0.78-1.14],0.5470644279618657
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,4095,164,1.15 [0.91-1.44],0.2378768099393085
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,4370,494,1.11 [0.97-1.26],0.1398605643178459
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,45560,124,0.71 [0.51-0.98],0.0399321161664622
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,4037,109,1.38 [1.08-1.75],0.0089323923086014
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,48999,3563,0.90 [0.85-0.95],0.0001753328024646
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,48879,684,0.81 [0.71-0.93],0.0020679448694524
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,45818,703,0.94 [0.83-1.07],0.3449477941261357
+ODAM,Odontogenic ameloblast-associated protein,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,39783,1492,0.89 [0.81-0.97],0.0068637103654414
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",50009,477,0.96 [0.82-1.12],0.5852618874977613
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),48029,320,0.97 [0.81-1.17],0.7567084075495161
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Angina pectoris,45864,2317,0.94 [0.87-1.00],0.0678912031355866
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Aortic aneurysm,48183,474,0.97 [0.83-1.13],0.6729800472267564
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,47826,117,0.68 [0.49-0.95],0.0257609444377501
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",48100,391,0.85 [0.71-1.01],0.0605007174715431
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,31159,3697,0.85 [0.81-0.90],7.277479956555998e-08
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,AV-block,42327,830,0.93 [0.83-1.04],0.2052459918325709
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",50113,814,0.89 [0.79-1.00],0.0558870939743785
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Cardiac arrest,27835,373,0.91 [0.76-1.09],0.3060026590530886
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Cardiomyopathy,41827,330,0.83 [0.68-1.00],0.0557970492629402
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",41684,187,0.84 [0.65-1.09],0.1816526391866179
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,50227,98,0.99 [0.72-1.35],0.9276514070941289
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Conduction disorders,43520,2023,0.94 [0.87-1.01],0.0838542547565068
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,47567,4056,0.97 [0.92-1.02],0.2141964506828939
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,43852,14712,0.92 [0.90-0.95],7.212130389140109e-09
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,DVT of lower extremities,47554,516,0.96 [0.83-1.11],0.5510869609255609
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Endocarditis,41639,142,0.91 [0.68-1.21],0.4970075655941005
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,"Heart failure, strict",49829,2142,0.92 [0.86-0.99],0.0285758436556401
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Hypertension,45617,12629,0.93 [0.90-0.96],1.2780399445644176e-06
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,"Hypertension, essential",45653,12665,0.93 [0.90-0.96],2.5268888205610988e-06
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,"Hypertension, portal",49894,145,1.08 [0.84-1.39],0.5494610449849254
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",33326,338,0.73 [0.60-0.89],0.0015664899216177
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,33251,263,1.29 [1.10-1.51],0.0015206398727612
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Hypotension,49946,2287,0.90 [0.84-0.96],0.0025138268112742
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,48435,210,0.92 [0.73-1.16],0.4977678113128696
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",47893,4346,0.98 [0.94-1.03],0.5069214404359419
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",49490,1081,0.89 [0.80-0.98],0.0239610366560247
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Left bundle-branch block,42195,698,0.95 [0.84-1.08],0.4350838490135641
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,49295,1638,0.97 [0.89-1.05],0.4109740574002021
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",44932,1385,0.93 [0.85-1.02],0.1116728698582974
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",50046,305,1.00 [0.83-1.20],0.987243285591148
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",50173,604,0.88 [0.76-1.01],0.0668351576873999
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Oesophageal varices,47142,104,0.92 [0.66-1.28],0.6088516423918686
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Other aneurysm,47862,153,0.89 [0.68-1.18],0.4197649472925969
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Other arrhythmias,42315,818,0.95 [0.85-1.07],0.4228392687403786
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,47907,198,0.71 [0.55-0.92],0.0084714985830851
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,48175,466,0.88 [0.75-1.03],0.1212174203812584
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,41842,345,0.81 [0.67-0.98],0.029930936238915
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Other disorders of veins,47226,188,0.81 [0.63-1.05],0.1095394137232978
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,47132,94,0.99 [0.70-1.38],0.9345103648988276
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,47444,126,0.58 [0.41-0.81],0.0012405545862829
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,47298,260,1.00 [0.82-1.22],0.990679340742799
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,43499,2002,0.88 [0.81-0.95],0.0007414824280393
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,47764,105,0.88 [0.63-1.23],0.4491145515729021
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,48759,1050,0.78 [0.69-0.86],4.95951463030295e-06
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,49024,663,0.81 [0.71-0.93],0.0021898821046771
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",48502,1184,0.88 [0.80-0.97],0.0107043317951052
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,28120,658,0.86 [0.75-0.99],0.0363988399830874
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Peripheral artery disease,48431,783,0.73 [0.64-0.83],1.5559791691233144e-06
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),47705,667,0.98 [0.86-1.11],0.7581731900988572
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Pulmonary embolism,49293,932,0.94 [0.85-1.05],0.3063739105719143
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,50088,1270,0.97 [0.88-1.06],0.4665312834572508
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Right bundle-branch block,42175,678,0.98 [0.86-1.11],0.7135735634543434
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Secondary right heart disease,49013,652,0.82 [0.72-0.94],0.0039107596357418
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,47692,374,0.81 [0.68-0.98],0.0261944825928887
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",49468,1243,0.90 [0.81-0.99],0.0232590366267614
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",49428,1318,0.91 [0.83-1.00],0.0484925600624387
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,48380,116,1.04 [0.78-1.39],0.7931484269304316
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,47870,162,0.94 [0.72-1.23],0.6471890220872407
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Transient ischemic attack,48869,460,0.95 [0.82-1.11],0.5367798916404891
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,48159,502,1.01 [0.87-1.16],0.9300833132650868
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Varicose veins,47857,819,0.86 [0.76-0.97],0.0157194465112966
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,47738,168,1.02 [0.80-1.30],0.863417707493832
+ODAM,Odontogenic ameloblast-associated protein,Chapter IX Diseases of the circulatory system,Venous thromboembolism,49786,1458,0.97 [0.89-1.05],0.4394457249862452
+ODAM,Odontogenic ameloblast-associated protein,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",49996,699,0.99 [0.87-1.12],0.8349994170532262
+ODAM,Odontogenic ameloblast-associated protein,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",43966,2769,0.94 [0.88-1.00],0.0414135238828453
+ODAM,Odontogenic ameloblast-associated protein,Chapter V Mental and behavioural disorders,Any mental disorder,48969,7772,0.93 [0.90-0.97],0.0003710670221466
+ODAM,Odontogenic ameloblast-associated protein,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",49902,832,1.04 [0.93-1.16],0.4867356237528655
+ODAM,Odontogenic ameloblast-associated protein,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",44271,3074,0.89 [0.84-0.95],0.0004127865373247
+ODAM,Odontogenic ameloblast-associated protein,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",41371,174,0.65 [0.49-0.87],0.0032050641886835
+ODAM,Odontogenic ameloblast-associated protein,Chapter V Mental and behavioural disorders,Smoking dependency,49206,2674,0.88 [0.82-0.94],0.0001802061428695
+ODAM,Odontogenic ameloblast-associated protein,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",44381,3184,0.91 [0.85-0.96],0.0013811892030449
+ODAM,Odontogenic ameloblast-associated protein,Chapter V Mental and behavioural disorders,Vascular dementia,49237,248,0.78 [0.62-0.97],0.0255315563876706
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Alzheimer disease,50228,637,0.88 [0.77-1.00],0.0573063797797774
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",33880,114,0.65 [0.46-0.91],0.0127826503595548
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Bell's palsy,46772,156,0.96 [0.74-1.26],0.7783973033412662
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,47571,955,0.87 [0.78-0.97],0.0155008698879358
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Cerebral cysts,49422,448,0.92 [0.79-1.08],0.3272870092926097
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,50073,626,0.85 [0.74-0.98],0.0217123970270744
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,49258,98,0.95 [0.68-1.33],0.7514384379355341
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,50195,116,1.21 [0.93-1.57],0.150723014553107
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",49116,142,0.63 [0.46-0.86],0.0035674460158142
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Epilepsy,47187,552,0.98 [0.85-1.12],0.7393123761781879
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,49285,2650,0.98 [0.92-1.04],0.4878323016009392
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,50148,1177,0.96 [0.88-1.06],0.4369934575030042
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Falls/tendency to fall,49069,5030,0.93 [0.89-0.97],0.0022136897312328
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Generalized epilepsy,49486,106,0.89 [0.63-1.24],0.4772828118519966
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Hemiplegia,49934,487,0.85 [0.73-0.99],0.039705501260997
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Hydrocephalus,49097,123,0.79 [0.57-1.08],0.1406026018594245
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,50192,137,0.92 [0.69-1.23],0.5842703782594288
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,46760,144,0.77 [0.57-1.05],0.0946529468327464
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,46766,150,0.81 [0.60-1.08],0.1551636924991272
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Memory loss,48956,213,0.87 [0.69-1.10],0.2418862257053092
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Migraine,47328,693,1.01 [0.89-1.14],0.882933405105962
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",50091,625,1.03 [0.91-1.17],0.6270327774222686
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Motor neuron disease,34072,268,0.99 [0.81-1.21],0.8960701134447402
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,49903,206,1.12 [0.90-1.38],0.306312934832304
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",48938,2322,0.94 [0.87-1.00],0.0589963990106503
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Neurological diseases,47355,7310,0.96 [0.92-1.00],0.038480070556927
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,49551,391,0.94 [0.79-1.11],0.432445961875362
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",47416,800,0.90 [0.80-1.02],0.0868567544670321
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",50079,570,1.03 [0.90-1.17],0.6744335304078091
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,39969,1262,0.94 [0.86-1.03],0.2034566159114235
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,49119,145,0.80 [0.60-1.08],0.1433020534120593
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Other disorders of nervous system,49251,277,1.02 [0.85-1.24],0.8130880590069971
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,49291,320,0.97 [0.81-1.17],0.7544042121307909
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Other facial nerve disorders,46800,184,0.93 [0.73-1.20],0.5801474279604468
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Other headache syndromes,46747,112,0.62 [0.43-0.88],0.0076129047213806
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Other neurological diseases,49992,1018,0.96 [0.86-1.06],0.388330745186441
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Other sleep disorders,47712,1077,0.93 [0.84-1.03],0.18746153668837
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Parkinson's disease,50184,833,1.01 [0.91-1.13],0.8500612197776627
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,49082,108,1.06 [0.78-1.44],0.7013470345599848
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Restless leg syndrome,50227,154,0.76 [0.57-1.01],0.0622795296584735
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Sleep apnoea,49757,926,0.95 [0.85-1.06],0.3504202441461279
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Small fibre neuropathy,49603,94,0.93 [0.66-1.32],0.6793322906923681
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,50203,322,1.04 [0.87-1.24],0.6758792666456026
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,46715,99,1.15 [0.86-1.54],0.347076236454558
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,50228,644,0.88 [0.77-1.00],0.0560950184865938
+ODAM,Odontogenic ameloblast-associated protein,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),49164,241,0.78 [0.63-0.98],0.0325255495247251
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,49119,192,0.97 [0.76-1.22],0.7701986302789561
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,49434,764,0.97 [0.86-1.09],0.6511482216140618
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,49889,456,0.98 [0.84-1.14],0.8196931444503505
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,48288,106,0.71 [0.50-1.00],0.0527866683451531
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,48294,112,0.97 [0.71-1.33],0.8547438738846678
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",50018,103,0.93 [0.67-1.29],0.6555340230844364
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,49721,282,0.95 [0.78-1.15],0.594404602925442
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",4047,116,1.38 [1.09-1.73],0.0063249071451905
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,4909,192,1.14 [0.93-1.41],0.1968608356529252
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,49108,181,1.35 [1.13-1.61],0.0011632954429556
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,49813,2017,0.96 [0.89-1.03],0.2313530508187081
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",49513,1331,0.97 [0.89-1.06],0.5531327252923797
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,48617,435,1.00 [0.85-1.16],0.95995174724835
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",50065,1395,0.99 [0.91-1.08],0.7740345168560554
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,50209,133,0.89 [0.66-1.20],0.4367702067737685
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,49923,1253,0.97 [0.88-1.06],0.4638018982364336
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",50145,706,0.86 [0.75-0.98],0.0205528474524322
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,50048,348,0.93 [0.78-1.11],0.4343670530557265
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,48293,111,0.93 [0.68-1.27],0.6453174818507829
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,48308,126,0.82 [0.60-1.13],0.2245239865854201
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,48291,109,0.90 [0.65-1.24],0.5217353809769743
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,50049,1369,0.95 [0.86-1.03],0.2154364359263437
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,49035,355,0.92 [0.77-1.10],0.3558052357679789
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,48763,93,0.82 [0.57-1.17],0.271350138776283
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,49632,193,0.71 [0.55-0.92],0.0097962765273223
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,49968,529,0.91 [0.79-1.05],0.2100654000814024
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,49046,376,1.00 [0.85-1.18],0.9952882922987704
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,49912,212,0.92 [0.73-1.16],0.4697352793728425
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,49596,916,0.95 [0.85-1.06],0.3432794639861281
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,49198,271,0.89 [0.72-1.09],0.2687867534128834
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,47127,4228,1.00 [0.96-1.05],0.8899513170148263
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,49896,457,0.96 [0.82-1.12],0.6031860183236155
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,50188,294,0.86 [0.70-1.05],0.1495057326502551
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,48961,779,0.95 [0.85-1.07],0.4181497718511472
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,49563,124,0.73 [0.53-1.01],0.0550788461562569
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,50183,107,0.78 [0.55-1.10],0.1584955175314416
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,48343,161,1.14 [0.91-1.44],0.260996021861667
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,48464,282,0.94 [0.77-1.15],0.5469870002387371
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,48029,233,1.03 [0.84-1.27],0.7529138031794748
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,48791,121,1.26 [0.99-1.60],0.0594847436425994
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",47920,124,0.80 [0.58-1.10],0.1757155675399557
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,48847,167,0.82 [0.63-1.07],0.1505564380558026
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",49061,381,0.98 [0.83-1.16],0.8335976513099056
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,48427,245,1.06 [0.87-1.29],0.591393472494586
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,48014,218,0.94 [0.75-1.19],0.6087123154129156
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,47962,166,0.91 [0.70-1.19],0.4917014547147782
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,46408,3509,0.98 [0.93-1.04],0.494202418110892
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,48323,141,1.10 [0.85-1.42],0.4737183370700057
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,49722,795,1.04 [0.93-1.16],0.467299125462853
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,49041,114,0.91 [0.67-1.25],0.5681731993468715
+ODAM,Odontogenic ameloblast-associated protein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),49253,326,0.91 [0.76-1.10],0.3418490667745945
+ODAM,Odontogenic ameloblast-associated protein,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,49817,173,0.89 [0.69-1.16],0.3890572302173161
+ODAM,Odontogenic ameloblast-associated protein,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,50142,234,0.96 [0.77-1.19],0.6963636399685151
+ODAM,Odontogenic ameloblast-associated protein,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,49976,251,0.97 [0.79-1.19],0.7517310061961836
+ODAM,Odontogenic ameloblast-associated protein,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,49759,115,0.67 [0.48-0.95],0.023658241332808
+ODAM,Odontogenic ameloblast-associated protein,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,49765,121,0.95 [0.70-1.29],0.745753089511286
+ODAM,Odontogenic ameloblast-associated protein,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,50035,1749,0.93 [0.86-1.01],0.0852312454271257
+ODAM,Odontogenic ameloblast-associated protein,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,49538,1252,0.90 [0.82-1.00],0.0402286636357029
+ODAM,Odontogenic ameloblast-associated protein,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,48535,249,0.84 [0.67-1.05],0.1193421705294438
+ODAM,Odontogenic ameloblast-associated protein,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,48449,163,0.87 [0.66-1.14],0.319947191997973
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Acute pharyngitis,49754,147,0.92 [0.69-1.22],0.55269458297916
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,50022,415,0.95 [0.81-1.12],0.5634091082999579
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,49726,119,0.80 [0.58-1.11],0.1804521410219629
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,All influenza,46296,230,0.93 [0.75-1.16],0.5447474442668381
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),46291,225,0.95 [0.76-1.18],0.6525514957528742
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Allergic asthma (mode),34397,221,0.85 [0.67-1.08],0.194247173526643
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Allergic rhinitis,49974,548,0.94 [0.81-1.09],0.4209812353056735
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",37097,3445,0.85 [0.80-0.91],2.224233446336446e-07
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",37572,3396,0.85 [0.80-0.91],2.797141405704416e-07
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),49438,270,0.88 [0.71-1.08],0.220108357607921
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",46226,160,0.81 [0.62-1.07],0.1443451362296113
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Bronchiectasis,43541,690,0.72 [0.63-0.83],2.660801985002102e-06
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",42964,113,1.02 [0.75-1.37],0.9211073078515282
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,48273,5422,0.81 [0.77-0.85],1.7415483682508442e-17
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",47562,137,1.30 [1.04-1.61],0.0199184059100548
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Chronic sinusitis,47721,296,0.87 [0.71-1.07],0.1956943404812287
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",49837,2320,0.68 [0.63-0.74],3.3070773272919764e-23
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Deviated nasal septum,47632,207,0.60 [0.45-0.78],0.0001857917231756
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,46240,10268,0.89 [0.86-0.92],8.536294681897972e-11
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",48139,714,0.83 [0.73-0.95],0.006276962405342
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Early onset COPD,48134,617,0.61 [0.52-0.71],5.526087701727272e-10
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Emphysema,43461,610,0.56 [0.48-0.65],3.5574542617286406e-14
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,47717,549,0.74 [0.64-0.86],0.0001185085522566
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Influenza and pneumonia,49797,3731,0.88 [0.84-0.93],1.4384777563474249e-05
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Interstitial lung disease,47783,615,0.74 [0.64-0.85],3.02635603338438e-05
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Later onset COPD,48281,1703,0.71 [0.65-0.78],1.1432804860024803e-14
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,50203,646,0.97 [0.85-1.10],0.5969528485117648
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Nasal polyp,47635,210,0.98 [0.78-1.23],0.8621675707249866
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,49747,1898,0.92 [0.86-1.00],0.0425699304701502
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Other diseases of pleura,49769,3864,0.95 [0.90-1.00],0.03787395577727
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,49054,1629,0.95 [0.87-1.03],0.2223686800769935
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Other pleural conditions,46006,101,0.87 [0.62-1.23],0.4347687856197495
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,50056,769,0.79 [0.69-0.89],0.0002211371702275
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,50022,2521,0.89 [0.83-0.95],0.0009299339726703
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Pleural effusion,47835,1930,0.94 [0.88-1.02],0.1374977521064148
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Pleural plaque,46203,298,1.04 [0.87-1.25],0.6799877402999646
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",49311,3245,0.87 [0.82-0.92],5.748868453099383e-06
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,50076,519,1.02 [0.89-1.17],0.7647344881931425
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Pneumothorax,46131,226,0.82 [0.65-1.04],0.1033164218842216
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Pollen allergy,50183,469,0.96 [0.82-1.12],0.5800474029173028
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Pulmonary oedema,49413,126,0.97 [0.73-1.30],0.8574452322724927
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Respiratory insufficiency,34283,107,0.72 [0.51-1.02],0.067586272864834
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,49706,1857,0.93 [0.86-1.00],0.0548116925316711
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,47975,550,0.94 [0.82-1.09],0.4394027830602137
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Viral pneumonia,46555,489,0.93 [0.80-1.09],0.3711475940221955
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",49466,402,0.95 [0.81-1.12],0.550839038757869
+ODAM,Odontogenic ameloblast-associated protein,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,23191,221,0.72 [0.56-0.93],0.0106084950295445
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,35506,122,1.29 [1.02-1.62],0.0307663048392712
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Acute appendicitis,49919,281,1.01 [0.83-1.23],0.941031935142523
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Acute gastritis,37805,176,1.08 [0.85-1.36],0.5414604803013163
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Acute pancreatitis,46654,359,0.98 [0.83-1.17],0.8233274602160157
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Acute peritonitis,49314,180,1.01 [0.79-1.28],0.9594917252521908
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Alcoholic liver disease,48515,148,1.10 [0.86-1.41],0.438581227107782
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Barrett oesophagus,38478,849,0.86 [0.76-0.96],0.0108481412515833
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",46493,198,0.93 [0.73-1.18],0.5414512742017689
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",49407,198,0.94 [0.74-1.19],0.6152260296664898
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Cholecystitis,46692,397,0.89 [0.75-1.06],0.1839096206611025
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Cholelithiasis,48219,1924,0.91 [0.84-0.98],0.01410901193476
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Chronic gastritis,38214,585,0.83 [0.72-0.96],0.0108742004212461
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Chronic pancreatitis,46390,95,0.71 [0.49-1.03],0.0731841806075091
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",49947,198,1.12 [0.91-1.38],0.2718550678631992
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Coeliac disease,47092,237,0.93 [0.75-1.16],0.5312434977385552
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Collagenous colitis,46958,158,1.08 [0.85-1.38],0.5339860567296624
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,49932,356,0.91 [0.76-1.09],0.3071763226141538
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Constipation,49721,3242,0.89 [0.83-0.94],7.565677718948598e-05
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Crohn disease,46982,182,0.90 [0.70-1.17],0.4348756427718814
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",49536,133,0.79 [0.58-1.08],0.1381340023900439
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Crohn's disease NAS,46972,172,0.95 [0.73-1.23],0.7002820710184887
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Dental caries,48804,445,1.13 [0.98-1.30],0.0993678468619507
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,45084,4344,0.97 [0.92-1.02],0.1896815056682308
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Diseases of appendix,49988,350,0.95 [0.79-1.14],0.5636804249434073
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Diseases of liver,49994,1627,0.95 [0.87-1.03],0.2191603365106081
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",46023,8394,0.93 [0.90-0.97],0.0002721463022146
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",49427,1068,1.17 [1.07-1.27],0.0006446882542169
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Diseases of peritoneum,50057,923,1.02 [0.92-1.13],0.7101763958889966
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,48582,223,1.16 [0.95-1.40],0.1451446847858272
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Diseases of salivary glands,48294,125,0.92 [0.68-1.25],0.590581371176985
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Diseases of the digestive system,49620,2765,0.88 [0.83-0.94],0.0002191105209342
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Diseases of tongue,48324,214,1.05 [0.85-1.31],0.6392686759756094
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",49003,2708,0.92 [0.86-0.98],0.0083664996834798
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,41498,6114,0.96 [0.92-1.01],0.0966196645048614
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Duodenal ulcer,38018,389,0.91 [0.77-1.09],0.3063741269592172
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",50068,315,0.89 [0.73-1.08],0.2377168133798068
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,50057,106,1.30 [1.01-1.67],0.0396852927552869
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,48607,240,1.08 [0.89-1.32],0.4140409043053068
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,35664,280,0.88 [0.71-1.09],0.2499741225774829
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Functional dyspepsia,38696,1067,0.81 [0.73-0.91],0.0001766023140995
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Gastric ulcer,38325,696,1.01 [0.90-1.14],0.8465423960746215
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,42466,4837,0.89 [0.85-0.93],3.559863702928893e-06
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,38674,1045,0.94 [0.85-1.05],0.2793401423292517
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,38873,16085,0.97 [0.94-0.99],0.0116948270499582
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,GI-bleeding,49127,2272,0.88 [0.82-0.94],0.000378442262028
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,48461,102,1.30 [1.01-1.67],0.0393014350328187
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,37276,2447,0.94 [0.87-1.00],0.0586051799904261
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",48492,125,0.87 [0.64-1.18],0.3748550922151221
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Hernia,47056,6316,0.96 [0.92-1.00],0.0346003915540626
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Impacted teeth,50070,98,1.32 [1.02-1.71],0.0375668517669015
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Impaction of intestines,35493,109,0.94 [0.68-1.29],0.6928834357733573
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Inguinal hernia,42485,1745,0.96 [0.88-1.04],0.2773300648805424
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",40940,200,1.19 [0.97-1.45],0.0883145914256659
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,35574,190,0.78 [0.60-1.02],0.0652113892411896
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Intestinal malabsorption,47129,274,1.00 [0.82-1.22],0.9773816332590816
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,36452,1068,0.95 [0.86-1.06],0.3661939894318389
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,50173,702,0.92 [0.81-1.05],0.222914331882754
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,48259,1459,1.04 [0.96-1.13],0.3003080960978928
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,48746,1946,1.05 [0.98-1.12],0.2038405085018175
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Oesophageal obstruction,37996,367,0.83 [0.69-1.00],0.0515063947140422
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Oesophagitis,38800,1171,0.85 [0.77-0.95],0.0025628224665732
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,50133,265,0.85 [0.68-1.05],0.1361584733739843
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,40871,131,0.87 [0.64-1.17],0.3563315630318255
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,38024,2640,0.93 [0.87-1.00],0.0406575242773081
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,46838,543,0.85 [0.73-0.98],0.0263850922527007
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,46598,303,0.96 [0.79-1.16],0.6413447667840471
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Other diseases of intestine,38775,3391,0.93 [0.88-0.99],0.014276880972
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Other diseases of intestines,46321,10937,0.95 [0.92-0.98],0.0022107239131376
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,48277,403,0.85 [0.72-1.02],0.0761232355305435
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Other diseases of liver,49689,1322,0.97 [0.89-1.06],0.5189980595287238
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,38915,1286,0.89 [0.81-0.98],0.0171753360792649
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Other diseases of pancreas,46583,288,0.94 [0.78-1.14],0.5543535099636387
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,49926,792,1.00 [0.89-1.13],0.963209846477894
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,39473,1844,0.97 [0.90-1.05],0.4500970536250529
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,49155,2300,0.87 [0.81-0.94],0.0002688783170709
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,48716,357,1.05 [0.89-1.24],0.5678653702823093
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,38715,3331,0.88 [0.83-0.93],2.264474266087634e-05
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),41543,3914,0.90 [0.86-0.95],0.0002579079276058
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,48553,186,0.86 [0.67-1.11],0.2487225338364128
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,48508,1708,1.06 [0.98-1.14],0.1201769748859234
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",36051,667,0.82 [0.72-0.94],0.0046522437610968
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,50037,125,1.32 [1.05-1.66],0.0162632432189003
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,36337,953,0.84 [0.75-0.95],0.0034091342399992
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",47146,291,0.91 [0.75-1.11],0.3701190112998302
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Recurring oral aphthae,50206,103,1.19 [0.90-1.57],0.2305141267329706
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,48365,223,1.04 [0.84-1.29],0.7023664487411457
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Toxic colitis,46909,109,1.03 [0.76-1.38],0.8706456755263206
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,38144,515,0.97 [0.84-1.12],0.7074622089993552
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Ulcerative colitis,47113,313,0.99 [0.82-1.19],0.9242160567457388
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",47063,263,0.94 [0.76-1.16],0.5677564830285293
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Umbilical hernia,41269,529,0.87 [0.75-1.02],0.0828194441368762
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,35725,341,0.97 [0.81-1.15],0.7102357088983133
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Ventral hernia,41245,505,0.92 [0.80-1.07],0.3031061899248511
+ODAM,Odontogenic ameloblast-associated protein,Chapter XI Diseases of the digestive system,Volvulus,35541,157,0.96 [0.74-1.25],0.766492034532546
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,50069,584,1.01 [0.89-1.16],0.8524676251491902
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,49599,141,0.88 [0.66-1.18],0.4004374847235504
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,46259,316,0.93 [0.77-1.12],0.4520973368128026
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,48981,1351,0.96 [0.87-1.05],0.3258060898677565
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",47969,339,0.92 [0.76-1.10],0.3556448746313743
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,46734,791,0.93 [0.83-1.05],0.2574311875349486
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,49631,544,0.88 [0.76-1.03],0.103856289374726
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,50032,945,0.94 [0.84-1.05],0.2781566344603627
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,49181,94,1.12 [0.83-1.53],0.4566734085740321
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,47201,6227,0.97 [0.93-1.01],0.1295380348426968
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,49351,869,0.90 [0.80-1.01],0.0827207484049206
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,49091,609,0.92 [0.80-1.06],0.2592668392391442
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,49453,1823,0.97 [0.90-1.05],0.4285302288845226
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",50197,108,0.93 [0.67-1.29],0.669049557564871
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,46052,109,0.83 [0.59-1.15],0.2616460967125849
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,48587,105,0.85 [0.60-1.19],0.3329897529386911
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,49611,524,0.92 [0.79-1.06],0.2468293147060392
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,46824,881,1.00 [0.90-1.12],0.9505975426276192
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,46064,121,1.06 [0.80-1.41],0.6889891740273738
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,50056,163,1.09 [0.87-1.38],0.4496855245081768
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,47992,362,0.95 [0.79-1.13],0.5358322469655794
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,49834,376,1.00 [0.85-1.18],0.9749023122732936
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,49212,125,0.96 [0.72-1.28],0.7859675010892101
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,46072,129,1.01 [0.76-1.34],0.9608656846905846
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,49107,3164,0.97 [0.92-1.03],0.3623118870328046
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",46895,952,1.01 [0.91-1.12],0.8051413939891351
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,46072,129,1.03 [0.78-1.36],0.8300633715492798
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,50058,600,1.00 [0.88-1.14],0.999308566984953
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,49222,135,1.01 [0.77-1.33],0.936763701540397
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,49948,490,1.01 [0.88-1.17],0.8581243310411529
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,50122,637,0.99 [0.87-1.13],0.8565253184259765
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,46192,249,0.88 [0.70-1.10],0.2491622938820267
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,46463,520,0.96 [0.83-1.11],0.5705754133820828
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,50102,617,0.99 [0.86-1.12],0.8248365507625461
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",46399,456,0.92 [0.78-1.07],0.2687914963359774
+ODAM,Odontogenic ameloblast-associated protein,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,50167,274,0.99 [0.81-1.20],0.9144352336813788
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,43113,211,0.92 [0.73-1.17],0.4948297711448524
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,45727,10920,0.92 [0.90-0.96],2.1319607088867764e-06
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,42988,8181,0.91 [0.88-0.95],1.2216699853457624e-06
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,43045,143,1.07 [0.82-1.39],0.6344813683099373
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,43559,302,0.80 [0.65-0.98],0.033568905797109
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,43601,344,1.06 [0.90-1.25],0.5019446741890636
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,49741,177,0.91 [0.70-1.18],0.4759855991286571
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",43449,192,0.85 [0.67-1.09],0.2081135885453818
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,36985,2178,0.87 [0.81-0.93],0.0001711610579366
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",49968,362,1.00 [0.85-1.18],0.9762841771161962
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,44123,866,0.93 [0.83-1.04],0.1948051837163065
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,42467,14071,0.94 [0.91-0.96],4.711742103746987e-06
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,46370,225,0.76 [0.60-0.96],0.0238572714510435
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,43196,294,0.99 [0.82-1.20],0.9065433973711295
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,44005,1103,0.91 [0.82-1.01],0.0866811142459585
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,48423,5166,0.92 [0.88-0.97],0.0006153442777205
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,43429,527,1.05 [0.91-1.21],0.4986723936126623
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,43328,426,0.86 [0.73-1.02],0.0865181709015403
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,43165,263,0.97 [0.79-1.20],0.791031305612522
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,48995,135,0.77 [0.57-1.04],0.0934914286459103
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,38105,3298,0.94 [0.89-1.00],0.0352222108647857
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,35967,1160,1.02 [0.93-1.12],0.654389938301196
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",50085,1144,1.03 [0.94-1.13],0.5141716025686072
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,34953,146,0.94 [0.71-1.24],0.6370931569645254
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),35455,648,1.02 [0.90-1.16],0.7243737612492687
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,43489,587,0.95 [0.82-1.09],0.445097060324417
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,36050,1243,0.92 [0.83-1.01],0.0922089799451617
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,43367,110,0.90 [0.65-1.24],0.5093863973531061
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,44478,1221,0.89 [0.81-0.98],0.0203295083879889
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,43849,592,0.86 [0.75-1.00],0.0437558672105199
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,35969,1162,0.93 [0.84-1.03],0.173711127138994
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,43055,153,0.95 [0.72-1.25],0.7190896171404177
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",43024,122,0.93 [0.68-1.26],0.6359701813907808
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,46281,136,1.19 [0.93-1.51],0.167323673915738
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,49466,3321,0.92 [0.87-0.97],0.0041992527913647
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,48326,2181,0.91 [0.85-0.98],0.0101251623230138
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",49950,875,0.87 [0.77-0.98],0.016887240928672
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,39607,4800,0.88 [0.84-0.93],8.573261217724012e-07
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,34929,122,0.73 [0.52-1.03],0.0721460348298064
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,43086,184,0.90 [0.70-1.16],0.4320923040211396
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,34903,96,1.01 [0.72-1.40],0.9654585865084973
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),35048,241,0.95 [0.77-1.18],0.643906139131303
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,46612,467,0.96 [0.82-1.12],0.5740730324717607
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,46878,733,0.89 [0.79-1.01],0.077792710804587
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,50165,197,1.05 [0.84-1.31],0.6686339975778058
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",46756,3499,0.92 [0.87-0.98],0.0056407742850979
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,43094,192,0.68 [0.52-0.89],0.0055109587097664
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),35072,265,0.91 [0.74-1.12],0.3754654981810573
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,44662,1405,0.88 [0.80-0.96],0.0063969077204625
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,38987,4180,0.90 [0.86-0.95],0.0001443705670225
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,49041,181,0.76 [0.59-0.99],0.0451846718610237
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,50189,135,0.87 [0.64-1.18],0.3656312981592438
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,43061,159,0.96 [0.74-1.25],0.7459930214314576
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",45312,2410,0.90 [0.84-0.96],0.0026655886937747
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,43079,177,1.08 [0.86-1.36],0.5192700570090565
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,37955,3148,0.91 [0.85-0.96],0.0012477742633411
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,46358,213,0.93 [0.74-1.17],0.5284855857680835
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,43009,107,1.08 [0.80-1.46],0.6275467521669367
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,43567,310,0.94 [0.78-1.13],0.5012718748328635
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,43975,1073,0.89 [0.80-0.99],0.0261293035158611
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,49543,683,0.83 [0.72-0.94],0.004664644663087
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,44375,1118,0.89 [0.80-0.98],0.0222056580524979
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,49974,850,0.86 [0.76-0.97],0.011361491634311
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,50185,102,0.57 [0.39-0.82],0.0026023882467754
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,43269,367,0.85 [0.71-1.02],0.0825805693216201
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,39772,1472,0.86 [0.78-0.94],0.000766318391881
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,44021,1119,0.88 [0.79-0.97],0.0130230640947362
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],43344,442,1.02 [0.87-1.19],0.8295061759295717
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",34913,106,0.85 [0.61-1.19],0.3402408352941065
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,39618,4811,0.93 [0.88-0.97],0.0023372984437594
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,36083,1276,0.92 [0.84-1.01],0.0868448521639657
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,49310,450,0.88 [0.75-1.03],0.1193406892879781
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",50098,130,1.08 [0.83-1.41],0.5726891020795699
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",46001,99,1.08 [0.79-1.47],0.6221498951449336
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,34945,138,0.84 [0.62-1.13],0.2468192849325146
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,43453,196,0.81 [0.63-1.05],0.1130332406807488
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,35693,886,0.83 [0.74-0.93],0.0016249640081875
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,43495,593,1.02 [0.89-1.16],0.8007206719068118
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,43746,489,0.95 [0.82-1.11],0.5411835180974984
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,43625,368,0.89 [0.75-1.06],0.1951302781322524
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,39326,113,0.64 [0.45-0.90],0.0107232235211012
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",50192,109,0.55 [0.38-0.78],0.0009091646150183
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,44042,1140,1.01 [0.91-1.11],0.8950259105516056
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],49036,176,0.67 [0.51-0.89],0.0047405542341893
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,47877,4975,0.93 [0.89-0.98],0.0054982012695681
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",43159,257,0.95 [0.77-1.17],0.6395076046890471
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,44317,1060,0.88 [0.80-0.98],0.021842804756576
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,47496,452,0.96 [0.82-1.12],0.6188887696666481
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,43658,401,0.90 [0.76-1.07],0.2234458324501457
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,46285,3028,0.91 [0.85-0.96],0.0014341560633014
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,45246,1989,0.92 [0.86-1.00],0.0391979783909627
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],43008,106,0.92 [0.66-1.28],0.6131329130347473
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,49117,257,0.80 [0.64-0.99],0.041706046059819
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,43215,313,0.89 [0.73-1.08],0.2226581230757341
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,43051,149,1.04 [0.81-1.34],0.7708114117615218
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),34920,113,0.85 [0.61-1.18],0.3228519346984947
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Acute renal failure,48201,3063,0.92 [0.87-0.98],0.0111196255498636
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),20240,95,0.66 [0.44-0.98],0.0393437034353397
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,26372,106,0.89 [0.63-1.25],0.4893771957190248
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,49613,625,0.96 [0.84-1.10],0.5618229507300827
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,49153,165,0.82 [0.62-1.09],0.1729962431694218
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,48104,2966,1.03 [0.98-1.10],0.2492375073536621
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,49813,159,1.35 [1.12-1.62],0.0014772502664424
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,49758,582,0.90 [0.78-1.03],0.1224060418959371
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Cystitis,44217,456,0.93 [0.80-1.09],0.3991043488674827
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Dialysis,45290,152,1.48 [1.26-1.75],2.9329124914987444e-06
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,21914,3211,0.93 [0.88-0.99],0.0180258897873339
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Disorders of breast,26601,335,0.77 [0.64-0.94],0.0113830570664772
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Endometriosis,20316,171,0.84 [0.63-1.11],0.2111980784675463
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",20536,391,0.94 [0.78-1.14],0.5496511103939774
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,21145,1000,0.94 [0.84-1.04],0.2187044669625885
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,41918,10427,0.94 [0.91-0.98],0.000528285416249
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,49814,160,1.19 [0.95-1.48],0.133774797188331
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Hydrocele,18908,205,1.01 [0.81-1.27],0.9208840223658472
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,45123,570,0.97 [0.85-1.12],0.6888773138920257
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,21213,2510,0.91 [0.85-0.97],0.0064557023384801
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,26521,398,0.96 [0.81-1.13],0.6073891257383586
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),18929,226,0.88 [0.70-1.11],0.2849660331739158
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Irregular menses,26607,125,1.09 [0.81-1.47],0.5776127186460926
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Menorrhagia,20445,300,0.92 [0.74-1.15],0.4724972725171478
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,43913,152,0.93 [0.71-1.22],0.592604620072601
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,22570,2425,0.98 [0.92-1.05],0.5735728148328549
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,18811,108,0.76 [0.53-1.07],0.1187763332311098
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,20284,139,1.00 [0.75-1.33],0.9929392040809648
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",50202,122,1.06 [0.80-1.40],0.6946353152157749
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",50212,131,0.92 [0.69-1.23],0.576816942388364
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,48177,4416,0.91 [0.86-0.95],0.0001286366082581
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,45159,1398,0.97 [0.89-1.06],0.4674685691522062
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,26383,117,0.82 [0.59-1.14],0.2288088947770482
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,50100,924,0.98 [0.88-1.09],0.6918792472158213
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,19009,306,0.82 [0.66-1.00],0.0547756197439056
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,18977,274,0.99 [0.81-1.21],0.918654935862569
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,18929,226,0.69 [0.54-0.89],0.0035637779328793
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,50151,131,0.95 [0.71-1.27],0.7478994571106339
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,47168,3407,0.92 [0.86-0.97],0.002499546166507
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,26331,208,1.01 [0.80-1.26],0.9554374470559944
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,20299,154,0.84 [0.63-1.12],0.2347860682342121
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",20509,364,1.08 [0.91-1.27],0.3757146548758527
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,20257,112,0.79 [0.56-1.10],0.164082322416161
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,20342,197,1.02 [0.81-1.28],0.8874155670477513
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,45218,665,0.98 [0.86-1.11],0.745102577370802
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,49482,306,1.06 [0.89-1.27],0.5107909215404483
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,20451,306,0.99 [0.82-1.20],0.9083621900410176
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,20250,105,0.81 [0.56-1.17],0.2600471871469015
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,20782,637,1.04 [0.91-1.18],0.5930199924084474
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,20303,158,1.07 [0.84-1.37],0.5576540908075778
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,20727,582,0.99 [0.87-1.14],0.93338067608474
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,49747,93,0.85 [0.59-1.22],0.3878796904727037
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",18961,258,0.99 [0.81-1.22],0.9379655177455272
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,49737,5184,0.97 [0.93-1.01],0.1780965493957264
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",44784,231,1.14 [0.94-1.39],0.1750704811310093
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,45389,251,0.94 [0.76-1.15],0.5297358182042838
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,49097,109,1.02 [0.74-1.39],0.9138538608293576
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Urethral stricture,44194,433,0.82 [0.69-0.97],0.0209632955028955
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Urolithiasis,49760,772,0.95 [0.84-1.07],0.3773228319002661
+ODAM,Odontogenic ameloblast-associated protein,Chapter XIV Diseases of the genitourinary system,Uterine polyps,20281,136,1.09 [0.83-1.43],0.5543383730444105

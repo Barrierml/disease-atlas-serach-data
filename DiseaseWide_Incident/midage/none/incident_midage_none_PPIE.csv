@@ -1,0 +1,660 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",23555,80,0.64 [0.39-1.03],0.0684555478004208
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",24049,129,1.01 [0.78-1.32],0.9211105647471932
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",23844,875,0.96 [0.86-1.07],0.4754282085089758
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Candidiasis,24072,263,0.87 [0.70-1.08],0.2047349293802099
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,23396,2384,1.02 [0.95-1.08],0.6287089547032791
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),23606,1789,1.00 [0.93-1.08],0.9875897808483496
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,23895,859,0.96 [0.86-1.07],0.4687358812838661
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,24003,38,0.99 [0.60-1.63],0.959736948515762
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,22978,552,1.06 [0.94-1.20],0.3229713104843174
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,22198,520,1.00 [0.88-1.15],0.9665710442317008
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,22421,148,0.86 [0.64-1.14],0.2931566613011225
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,17892,1040,1.04 [0.95-1.15],0.3820361549662758
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,22222,242,0.85 [0.68-1.07],0.1730437144949824
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,24039,1003,0.96 [0.87-1.06],0.4480645173439683
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Mycoses,24129,320,0.89 [0.74-1.08],0.2460483572195897
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,23502,533,1.07 [0.95-1.21],0.2873347657461262
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,24078,603,1.06 [0.94-1.19],0.3675283064062539
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,23167,131,1.01 [0.77-1.32],0.937064315354406
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,24171,27,0.91 [0.48-1.74],0.7830207658172834
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Other septicaemia,24009,534,1.05 [0.93-1.20],0.4090689355332424
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,24030,65,0.99 [0.67-1.45],0.962428360437418
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Other viral diseases,24082,152,1.19 [0.96-1.46],0.1056554225390987
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",24068,138,1.25 [1.02-1.53],0.0302193259740873
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,23268,299,1.02 [0.86-1.21],0.8330957912084139
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,23172,203,0.65 [0.48-0.88],0.0051254745067662
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,23101,65,0.58 [0.33-1.02],0.0602770586488035
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,24146,45,0.91 [0.55-1.51],0.7176531349905628
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,24118,106,1.03 [0.77-1.37],0.8446754086118624
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Viral warts,24049,37,1.05 [0.66-1.70],0.8255419356981286
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],24053,41,1.03 [0.65-1.64],0.9038287998673764
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Benign lipomatous neoplasm,23923,275,1.04 [0.87-1.25],0.6725044151496711
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,24097,63,1.32 [0.99-1.74],0.0569336723431661
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,24070,65,0.96 [0.64-1.43],0.8235920643787364
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,10812,37,0.69 [0.34-1.40],0.3007878250767036
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",23992,1009,0.97 [0.88-1.07],0.5498216281485448
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Benign neoplasm of meninges,24159,43,0.92 [0.56-1.52],0.7470641581947329
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,24140,44,1.12 [0.74-1.70],0.5886371192594
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,24151,79,0.82 [0.55-1.24],0.3573528018213685
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Benign neoplasm of ovary,13305,85,0.90 [0.63-1.29],0.5675058623920115
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Benign neoplasm: Ascending colon,24162,240,0.94 [0.76-1.16],0.5580809011136644
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Benign neoplasm: Caecum,24159,180,1.14 [0.93-1.39],0.1977920646157475
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",24104,46,0.82 [0.48-1.40],0.4671275526015369
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Benign neoplasm: Descending colon,24165,153,0.75 [0.55-1.04],0.083267622353221
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Benign neoplasm: Rectum,24133,252,1.02 [0.84-1.23],0.8711682725307006
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,24100,465,0.94 [0.81-1.10],0.4605141370815075
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Benign neoplasm: Transverse colon,24164,268,0.98 [0.81-1.20],0.8752168786125716
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Carcinoma in situ of breast,11399,77,1.12 [0.82-1.51],0.4775188396859178
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",11438,86,1.10 [0.82-1.47],0.5422821022756534
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",20842,28,1.08 [0.63-1.86],0.7761068793613509
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",20849,35,1.35 [0.94-1.94],0.10158755103774
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",24130,92,1.00 [0.73-1.38],0.9912714818424384
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Haemangioma, any site",24130,90,0.99 [0.72-1.38],0.9649941722579884
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Leiomyoma of uterus,12748,354,0.93 [0.78-1.10],0.4108710207084547
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Lung cancer and mesothelioma,17902,154,0.99 [0.77-1.26],0.9055939250230942
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Lymphoid leukaemia,20840,26,1.23 [0.76-1.98],0.4058339345852484
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",20945,131,0.97 [0.73-1.28],0.8132596975236147
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",20890,76,1.10 [0.79-1.52],0.5712478632685922
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",11487,69,1.06 [0.76-1.48],0.7227815100695019
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",20857,43,1.45 [1.08-1.95],0.0137967763250654
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",20867,53,1.08 [0.73-1.61],0.6990533775879395
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",20876,62,0.81 [0.51-1.31],0.396098015741947
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",11468,50,0.92 [0.57-1.47],0.7195091847199664
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",20866,52,1.02 [0.67-1.55],0.9357804090788208
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",9747,351,1.04 [0.88-1.22],0.6453590644660936
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",20896,82,0.98 [0.69-1.40],0.917854510152326
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",20863,49,0.81 [0.47-1.38],0.4310613941933074
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,20866,52,1.07 [0.72-1.61],0.7265384476999719
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Melanocytic naevi,23964,192,1.03 [0.83-1.28],0.8012012899768688
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Melanocytic naevi of trunk,24130,87,1.14 [0.85-1.52],0.3832356742004634
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Melanoma in situ,20824,40,1.32 [0.93-1.88],0.1233472036932232
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",20868,54,1.22 [0.87-1.71],0.2425902798424413
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",20915,101,1.02 [0.76-1.38],0.873372822378826
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",20919,105,0.89 [0.65-1.22],0.4672521950830394
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",20870,56,1.26 [0.92-1.72],0.1499079981926196
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,Other benign neoplasms of skin,24009,131,0.99 [0.75-1.30],0.9210108381439266
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",21372,558,0.96 [0.83-1.10],0.5515875025615724
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",21402,588,0.97 [0.85-1.11],0.6657885946826146
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,23919,265,0.95 [0.77-1.16],0.5886426216533802
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,22943,42,0.98 [0.61-1.58],0.9465306793575012
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,23721,67,1.26 [0.95-1.68],0.1092764234610203
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,23468,1935,1.03 [0.96-1.10],0.361647354258377
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,23152,19,0.94 [0.44-1.99],0.8699054490760201
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,23863,27,1.16 [0.71-1.90],0.5466707670456163
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,23781,880,1.06 [0.96-1.16],0.28192072521147
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,23781,880,1.06 [0.96-1.16],0.28192072521147
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,22951,50,1.01 [0.65-1.55],0.9732683735388254
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,23926,793,0.94 [0.83-1.05],0.2662536983704887
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,23929,93,0.94 [0.67-1.32],0.7168311258434169
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,23703,49,0.84 [0.50-1.42],0.5179544858401899
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,23693,39,0.99 [0.60-1.63],0.9751183757469516
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,24001,165,1.13 [0.92-1.40],0.2383659756181209
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,24102,60,1.25 [0.92-1.70],0.1567936016984741
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",23977,141,1.20 [0.97-1.48],0.0976370144750656
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,23196,63,1.00 [0.68-1.46],0.9971591555685638
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,20746,174,0.98 [0.78-1.24],0.8859880207202849
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,22466,108,0.97 [0.73-1.30],0.8456237568885675
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,22484,126,1.08 [0.83-1.40],0.5900914110847784
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,20604,32,1.47 [1.06-2.04],0.0193915252426859
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,22418,63,1.29 [0.98-1.70],0.0721321905103695
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,22121,119,0.92 [0.68-1.24],0.592986552309718
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",24047,142,0.97 [0.75-1.27],0.8440377860345287
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,23952,47,1.03 [0.66-1.60],0.8971881437964581
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,23935,30,1.17 [0.73-1.88],0.5063410273624933
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,23812,1457,1.02 [0.94-1.10],0.654362517532133
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,21645,1417,1.03 [0.95-1.11],0.4434155128493326
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",20610,38,1.20 [0.81-1.78],0.3650320263780239
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",22736,52,0.92 [0.59-1.45],0.7232018946688825
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,20735,163,1.10 [0.89-1.36],0.3879306565422816
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,20624,52,0.92 [0.58-1.47],0.7363808768293929
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,22664,2092,0.99 [0.92-1.06],0.6974136122927974
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,20679,107,1.19 [0.94-1.51],0.1383678590625995
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,20913,341,1.05 [0.90-1.23],0.5335574293575661
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,24085,229,0.89 [0.71-1.12],0.309709885758166
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,23949,93,0.90 [0.64-1.28],0.5591533449672801
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,20662,90,0.70 [0.45-1.08],0.1039847107986992
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",20606,34,1.23 [0.83-1.84],0.3028052804935247
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,23800,1116,0.99 [0.90-1.08],0.7594965939148874
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,20686,114,1.01 [0.77-1.32],0.962035490713102
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,20705,133,0.85 [0.63-1.15],0.3039045471607793
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",20914,342,1.02 [0.87-1.20],0.7936965119223169
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,20627,55,0.81 [0.50-1.33],0.4110572515671191
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,23943,87,0.91 [0.64-1.30],0.6150742621854904
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,20830,258,1.06 [0.89-1.27],0.4907515664724979
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,20838,266,0.91 [0.74-1.11],0.3431456451755762
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,22052,50,1.13 [0.77-1.65],0.5378340126089969
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,23559,2987,1.00 [0.95-1.06],0.9069326389817678
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,22710,26,1.26 [0.80-1.98],0.3224828144762487
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,22737,53,1.05 [0.71-1.58],0.7956517603422033
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,24013,1694,0.97 [0.90-1.05],0.485594955985452
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",24015,1690,0.97 [0.90-1.05],0.4850692946113288
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,22715,31,0.95 [0.54-1.70],0.8748775021352257
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,23887,1078,1.03 [0.94-1.13],0.5293987717961969
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",21349,777,0.99 [0.89-1.11],0.8659910912289984
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,24162,109,1.08 [0.82-1.41],0.5962151942057572
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,23936,31,0.96 [0.53-1.72],0.8806280218915674
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,22890,81,0.88 [0.60-1.29],0.5081821453656123
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,22907,98,1.12 [0.86-1.47],0.3906156941716101
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",20684,112,1.26 [1.02-1.57],0.0329127834382515
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,22599,107,1.26 [1.00-1.58],0.048973190744259
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,1504,59,0.84 [0.52-1.35],0.4697169372552398
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,1594,162,0.84 [0.63-1.11],0.2142218225385086
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,22529,37,1.04 [0.67-1.63],0.852550302718669
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,1478,33,1.03 [0.62-1.72],0.9115909523520128
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,23816,1324,1.03 [0.95-1.12],0.417557504886327
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,23964,59,0.87 [0.55-1.36],0.536289931323289
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,22249,247,0.95 [0.77-1.16],0.6067726168932654
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,20924,352,0.96 [0.81-1.14],0.6396130125683713
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",24092,145,1.14 [0.91-1.43],0.2402305317068242
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),23508,46,1.15 [0.77-1.72],0.4840872106114343
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Angina pectoris,23064,704,0.91 [0.80-1.03],0.1506863574395178
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Aortic aneurysm,23553,91,1.13 [0.84-1.51],0.4281779206787253
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,23492,30,1.12 [0.71-1.79],0.6222020885952826
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",23560,98,1.07 [0.80-1.42],0.6669650783502515
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,17161,805,0.94 [0.83-1.06],0.3019179974495183
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,AV-block,21989,161,0.96 [0.74-1.24],0.751734201437435
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",24141,230,0.97 [0.78-1.20],0.7658946276730604
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Cardiac arrest,16452,96,0.99 [0.72-1.37],0.9646309432107992
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Cardiomyopathy,21945,117,0.97 [0.72-1.31],0.8532309064817255
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",21902,74,0.97 [0.66-1.41],0.8536778109543252
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,24173,14,0.70 [0.23-2.12],0.5321994350344548
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Conduction disorders,22300,472,0.99 [0.85-1.14],0.8731780379534659
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,23525,1175,0.99 [0.90-1.08],0.8165222359575971
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,22456,5313,1.01 [0.97-1.05],0.6253992186467363
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,DVT of lower extremities,23161,153,1.13 [0.90-1.40],0.2964427739844334
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Endocarditis,21869,41,1.27 [0.88-1.84],0.1978374084337933
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,"Heart failure, strict",24064,456,1.05 [0.91-1.20],0.5179638834382198
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Hypertension,22960,4328,1.01 [0.97-1.06],0.6275138491473684
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,"Hypertension, essential",22969,4337,1.01 [0.96-1.06],0.6736172443503639
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,"Hypertension, portal",24013,47,1.26 [0.90-1.77],0.1812845684445499
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",18712,80,1.33 [1.04-1.70],0.0225629675102656
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,18672,40,1.15 [0.76-1.73],0.5139981371678253
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Hypotension,24083,604,1.05 [0.93-1.18],0.4457458835021812
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,23709,59,1.22 [0.88-1.69],0.2375489067081469
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",23674,1314,0.99 [0.91-1.08],0.7781988148662375
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",23981,277,1.00 [0.83-1.21],0.9795271465592164
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Left bundle-branch block,22014,186,1.13 [0.93-1.38],0.2073582776738038
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,23948,524,1.00 [0.88-1.15],0.963019510554209
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",22785,425,1.04 [0.90-1.21],0.5661320324288015
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",24123,100,0.96 [0.69-1.34],0.8127829867546418
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",24158,178,0.95 [0.74-1.21],0.6571591891596851
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Oesophageal varices,23037,29,1.54 [1.11-2.14],0.0095530833957408
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Other aneurysm,23504,42,1.32 [0.95-1.84],0.0979319899864528
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Other arrhythmias,22055,227,0.97 [0.79-1.20],0.7891809423880319
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,23524,62,0.92 [0.61-1.39],0.6878247490396721
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,23590,128,1.10 [0.87-1.40],0.4264797734201978
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,21942,114,1.04 [0.78-1.37],0.8087076945563776
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Other disorders of veins,23070,62,1.13 [0.80-1.59],0.4823504896740453
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,23053,45,0.85 [0.50-1.45],0.5580925602006052
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,23482,33,0.99 [0.57-1.72],0.9695104828875566
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,23088,80,1.02 [0.73-1.43],0.8896440168578303
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,22348,520,0.98 [0.85-1.12],0.7448523758847974
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,23519,40,1.37 [0.99-1.91],0.0589630003479303
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,23771,309,0.97 [0.81-1.16],0.7229483815702231
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,23772,137,1.16 [0.93-1.46],0.18426144552899
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",23658,209,1.03 [0.83-1.26],0.8057501501661332
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,16572,216,1.06 [0.88-1.29],0.5318437140525365
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Peripheral artery disease,23625,185,0.89 [0.69-1.14],0.3416929820494648
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),23218,210,1.03 [0.83-1.27],0.8148203868386571
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Pulmonary embolism,23931,296,1.09 [0.93-1.29],0.2821605121435975
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,24134,284,1.05 [0.88-1.25],0.5947037915366207
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Right bundle-branch block,21978,150,0.87 [0.65-1.16],0.3394320807790359
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Secondary right heart disease,23769,134,1.18 [0.95-1.48],0.1383165978804757
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,23552,103,1.18 [0.92-1.52],0.2008291204278822
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",23974,324,1.03 [0.87-1.22],0.7438640450396319
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",23951,357,1.05 [0.90-1.23],0.543700843437736
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,23689,51,1.03 [0.67-1.57],0.9058174261227602
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,23511,50,1.10 [0.74-1.65],0.6361244537912387
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Transient ischemic attack,23816,112,0.85 [0.61-1.20],0.3567463665990277
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,23584,160,0.97 [0.75-1.25],0.830832894902086
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Varicose veins,23278,270,1.13 [0.96-1.33],0.1503852341549446
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,23472,47,1.19 [0.82-1.72],0.3605415181783622
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter IX Diseases of the circulatory system,Venous thromboembolism,24020,452,1.06 [0.92-1.22],0.4078648398406612
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",24030,332,0.99 [0.84-1.18],0.9318695121857417
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",21509,1237,1.03 [0.94-1.12],0.5594396956232279
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter V Mental and behavioural disorders,Any mental disorder,23505,3233,1.03 [0.98-1.09],0.2607057177168758
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",23976,386,0.98 [0.84-1.16],0.8459202242846121
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",21759,1487,1.03 [0.96-1.12],0.3862600622134726
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",20348,76,0.76 [0.48-1.18],0.2175118802764674
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter V Mental and behavioural disorders,Smoking dependency,23693,1348,1.05 [0.97-1.13],0.2575990294833146
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",21824,1552,1.02 [0.95-1.10],0.5531165306810799
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter V Mental and behavioural disorders,Vascular dementia,24075,17,0.70 [0.26-1.93],0.4933393539132533
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Alzheimer disease,24172,64,0.93 [0.62-1.41],0.7396977316496767
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Bell's palsy,22702,67,1.26 [0.94-1.69],0.1233993508234781
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,23056,421,0.95 [0.81-1.11],0.5087044626136741
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Cerebral cysts,23853,177,0.82 [0.63-1.09],0.1714110721040984
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,24095,197,1.05 [0.85-1.30],0.6273134013576354
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,24039,20,0.87 [0.40-1.89],0.7221052411283606
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,24161,49,0.66 [0.36-1.23],0.1937985107836626
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",23727,51,1.09 [0.73-1.62],0.687192919826537
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Epilepsy,22816,234,1.16 [0.98-1.38],0.0882763452060645
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,23746,1164,1.00 [0.92-1.10],0.9537749037630162
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,24145,169,0.89 [0.68-1.16],0.3833299065394803
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Falls/tendency to fall,23725,1457,1.04 [0.96-1.13],0.2950812961181304
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Generalized epilepsy,23840,46,0.76 [0.42-1.36],0.3482084101594468
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Hemiplegia,24041,143,1.09 [0.87-1.38],0.4481298305901323
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Hydrocephalus,23719,43,1.41 [1.03-1.92],0.0304307265651936
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,24153,60,0.65 [0.37-1.14],0.1299633895548055
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,22705,70,1.44 [1.15-1.80],0.0015349933110494
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,22707,72,1.01 [0.70-1.45],0.9537271697881584
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Memory loss,24043,66,1.11 [0.79-1.56],0.5634535242820184
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Migraine,22951,369,0.91 [0.77-1.09],0.297555679589974
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",24096,333,0.88 [0.73-1.06],0.183534563197132
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Motor neuron disease,17565,90,0.94 [0.66-1.32],0.7142445081126485
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,23984,134,1.04 [0.81-1.34],0.7601423579635165
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",23637,1002,0.96 [0.87-1.07],0.4649208765164798
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Neurological diseases,22898,2669,0.96 [0.90-1.02],0.2071890634529717
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,24087,68,1.15 [0.83-1.59],0.3918617311523157
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",22982,347,0.92 [0.77-1.10],0.3465208993758072
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",24110,204,0.94 [0.75-1.18],0.5968699616064899
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,20159,281,1.01 [0.84-1.22],0.8885413547878401
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,23729,53,1.21 [0.86-1.71],0.2688042761019739
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Other disorders of nervous system,23783,107,1.08 [0.82-1.42],0.5931028144908428
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,24049,73,0.63 [0.38-1.05],0.0751265854102552
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Other facial nerve disorders,22720,85,1.17 [0.88-1.55],0.2903905160488582
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Other headache syndromes,22635,53,0.95 [0.60-1.49],0.8199027456775573
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Other neurological diseases,24067,391,1.02 [0.88-1.19],0.7743846398276233
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Other sleep disorders,23093,511,1.03 [0.90-1.18],0.6742240867792672
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Parkinson's disease,24160,76,1.03 [0.74-1.45],0.8477090981218571
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,23732,56,0.62 [0.35-1.11],0.1096643532348004
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Restless leg syndrome,24171,33,0.94 [0.54-1.64],0.8274054647502143
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Sleep apnoea,23959,448,1.01 [0.87-1.17],0.9161469308713096
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Small fibre neuropathy,23938,32,0.84 [0.44-1.60],0.5865513274958701
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,24157,114,0.86 [0.62-1.21],0.3901191082683679
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,22661,26,0.80 [0.39-1.67],0.5586465746930217
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,24172,65,0.91 [0.60-1.38],0.6545411698960257
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),24064,16,0.79 [0.31-2.06],0.6349482800405845
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,23752,36,1.15 [0.74-1.78],0.5276582457129264
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,23855,189,0.94 [0.74-1.18],0.5832251570420477
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,24097,164,0.93 [0.72-1.20],0.5547647179408244
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,23518,33,0.85 [0.46-1.57],0.6003673923226927
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,23552,67,0.99 [0.67-1.46],0.966109682912042
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",24090,29,0.96 [0.53-1.74],0.8863974761157735
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,24003,56,0.98 [0.65-1.48],0.9180065086444876
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",1481,36,1.23 [0.83-1.82],0.3014588756728067
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,1745,71,0.91 [0.61-1.37],0.6467450054991509
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,23789,73,0.44 [0.24-0.80],0.0072881953160577
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,24064,546,1.01 [0.89-1.16],0.8352057462582605
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",23900,415,0.92 [0.78-1.09],0.3445341498398886
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,23603,118,1.00 [0.75-1.32],0.9886769951305078
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",24090,424,0.86 [0.73-1.02],0.0876181638504963
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,24164,49,0.62 [0.33-1.17],0.1424405830461895
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,24021,355,0.91 [0.76-1.08],0.2841919722356605
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",24136,189,1.07 [0.87-1.32],0.4978540372207233
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,24115,121,1.09 [0.84-1.40],0.5314976557192967
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,23500,15,0.88 [0.36-2.14],0.7753824307540599
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,23512,27,1.32 [0.86-2.02],0.2034809675107293
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,23514,29,1.18 [0.74-1.90],0.4882762732148492
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,24130,341,0.94 [0.78-1.12],0.4656845560613359
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,23872,83,0.73 [0.47-1.14],0.164799068770989
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,23687,21,0.68 [0.28-1.68],0.4030076015728682
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,24010,63,1.12 [0.80-1.57],0.5217747449475114
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,24075,128,1.09 [0.85-1.40],0.4790247378265443
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,23810,144,0.95 [0.73-1.25],0.736252106865344
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,24063,69,1.20 [0.89-1.62],0.2301521477872334
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,24011,222,0.98 [0.80-1.21],0.8731407100055926
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,23811,95,1.04 [0.77-1.41],0.8022031007684164
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,23549,947,1.01 [0.92-1.11],0.8326010668735203
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,24056,109,1.17 [0.91-1.50],0.2117046254374634
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,24151,101,0.98 [0.72-1.34],0.9000032003641657
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,23715,230,0.93 [0.75-1.16],0.5071076515928508
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,23983,36,1.13 [0.73-1.76],0.5797789471434173
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,24149,34,0.76 [0.39-1.48],0.4206867752484994
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,23519,34,1.07 [0.66-1.76],0.773506684810515
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,23586,101,1.00 [0.73-1.35],0.9848399253988712
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,23574,56,1.11 [0.77-1.60],0.570861971329579
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,23717,51,0.45 [0.22-0.92],0.0279941351335974
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",23566,48,0.76 [0.43-1.34],0.3440698763165905
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,23835,46,0.76 [0.44-1.34],0.3456340831194834
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",23868,79,1.05 [0.76-1.45],0.769667691692458
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,23560,75,0.65 [0.40-1.08],0.0939676380246192
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,23627,109,0.99 [0.73-1.34],0.9320686448268324
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,23548,30,0.95 [0.53-1.73],0.8781673325852027
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,23327,725,1.01 [0.90-1.13],0.8898658872891336
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,23525,40,1.08 [0.69-1.69],0.7330621840386123
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,23984,268,1.00 [0.83-1.21],0.9832535361078106
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,23748,32,1.13 [0.70-1.82],0.6138347102492361
+PPIE,Peptidyl-prolyl cis-trans isomerase E,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),23825,109,0.94 [0.69-1.28],0.6873873129170056
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,23994,57,0.75 [0.45-1.27],0.2868403539110262
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,24133,81,0.93 [0.64-1.34],0.6814524175059458
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,24062,124,1.28 [1.04-1.57],0.0190253681432552
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,23987,50,0.75 [0.43-1.31],0.3098183232186116
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,23988,51,0.40 [0.19-0.83],0.014125382452385
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,24088,475,0.98 [0.85-1.14],0.8369100852103204
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,23909,296,0.89 [0.73-1.09],0.2703801508303187
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,23699,86,1.41 [1.15-1.73],0.0009520659635371
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,23677,64,1.02 [0.70-1.49],0.9245500180764568
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Acute pharyngitis,23918,68,1.19 [0.87-1.62],0.2795486907599249
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,24060,210,1.13 [0.94-1.36],0.1886474316784415
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,23906,56,0.80 [0.49-1.32],0.3863910165442533
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,All influenza,23029,68,0.91 [0.61-1.36],0.6327361269983701
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),23028,67,0.92 [0.62-1.37],0.6844423710742664
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Allergic asthma (mode),17869,121,0.97 [0.73-1.30],0.8346169484721055
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Allergic rhinitis,24045,283,1.11 [0.94-1.31],0.2102772283564186
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",19175,1559,0.97 [0.90-1.05],0.4601345485316858
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",19278,1530,0.98 [0.91-1.06],0.6369122001595071
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),23924,84,0.85 [0.58-1.25],0.4169695178136759
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",23010,49,0.92 [0.58-1.48],0.745039378029638
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Bronchiectasis,21490,155,0.93 [0.72-1.21],0.5946724915112621
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",21370,35,0.95 [0.55-1.63],0.8448853136402668
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,23406,2071,0.99 [0.92-1.06],0.7178549775283916
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",22866,61,1.12 [0.79-1.59],0.5198767562523643
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Chronic sinusitis,22948,143,0.96 [0.73-1.26],0.7467121387178903
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",24083,626,0.95 [0.84-1.08],0.4674359387399218
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Deviated nasal septum,22924,119,0.87 [0.62-1.21],0.4009609672127937
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,22471,3743,0.99 [0.94-1.04],0.64406903714211
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",23142,337,1.01 [0.86-1.20],0.8706531727554905
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Early onset COPD,23906,449,0.99 [0.86-1.14],0.8802734351921286
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Emphysema,21498,163,1.06 [0.84-1.34],0.605568999608008
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,23039,101,1.02 [0.75-1.38],0.9034614023211124
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Influenza and pneumonia,24013,1052,0.96 [0.87-1.06],0.3737176797139581
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Interstitial lung disease,23061,123,0.99 [0.75-1.32],0.9698340475434024
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Later onset COPD,22895,177,0.87 [0.68-1.12],0.2835546614980095
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,24164,138,0.91 [0.68-1.21],0.5197033074041505
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Nasal polyp,22908,103,0.89 [0.63-1.26],0.5143699621663722
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,23981,558,0.96 [0.84-1.10],0.6028681751748033
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Other diseases of pleura,24011,1097,1.00 [0.91-1.09],0.9417119120154118
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,23595,790,1.00 [0.89-1.11],0.936681426587068
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Other pleural conditions,22946,32,0.97 [0.55-1.70],0.9045543422366252
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,24118,177,0.92 [0.72-1.18],0.5291391506718741
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,24097,746,1.02 [0.92-1.14],0.7125649074959791
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Pleural effusion,23443,529,0.96 [0.84-1.10],0.5664275053067236
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Pleural plaque,22962,48,1.46 [1.11-1.92],0.006749384706486
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",23828,867,1.00 [0.90-1.11],0.9962710349287908
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,24147,121,0.89 [0.65-1.22],0.4799953288836404
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Pneumothorax,22971,57,0.81 [0.49-1.33],0.4057052889945689
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Pollen allergy,24142,243,1.08 [0.90-1.29],0.4304712762580664
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Pulmonary oedema,23975,34,0.81 [0.44-1.52],0.5181795253592529
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Respiratory insufficiency,17779,31,1.33 [0.90-1.97],0.1500892392060469
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,23961,538,0.96 [0.84-1.10],0.5612830236511148
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,23088,283,1.11 [0.94-1.31],0.2178821180286232
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Viral pneumonia,23124,163,0.63 [0.45-0.88],0.0078507631666192
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",23939,140,0.61 [0.42-0.88],0.0094747086634108
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,13921,85,1.01 [0.72-1.42],0.940657071957436
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,18492,59,1.14 [0.81-1.61],0.4499569628285149
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Acute appendicitis,23992,133,0.91 [0.68-1.23],0.545144131501877
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Acute gastritis,19305,61,1.17 [0.84-1.63],0.3562065134036465
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Acute pancreatitis,22763,153,1.03 [0.81-1.31],0.8212757898324311
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Acute peritonitis,23766,60,1.09 [0.76-1.56],0.640108578496495
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Alcoholic liver disease,23490,76,1.34 [1.05-1.70],0.0172090454271572
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Barrett oesophagus,19555,311,1.08 [0.92-1.27],0.358565332590953
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",22659,49,1.36 [1.01-1.84],0.0460572257333533
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",23813,49,1.37 [1.01-1.86],0.04195292734539
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Cholecystitis,22759,149,1.04 [0.82-1.33],0.750058800836196
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Cholelithiasis,23441,831,0.97 [0.87-1.08],0.5306273795898603
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Chronic gastritis,19459,215,1.07 [0.88-1.31],0.4817813984071541
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Chronic pancreatitis,22647,37,0.96 [0.56-1.64],0.8880563777037116
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",24039,73,1.02 [0.72-1.44],0.9027326127666688
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Coeliac disease,22923,94,1.19 [0.91-1.55],0.2036711564461711
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Collagenous colitis,22799,46,1.00 [0.63-1.58],0.9941998435091997
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,24004,183,1.11 [0.90-1.36],0.3488262197640321
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Constipation,23979,1024,0.99 [0.90-1.09],0.8804015472942455
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Crohn disease,22835,82,0.94 [0.65-1.36],0.7475191633233551
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",23864,55,0.81 [0.49-1.34],0.4161314104271594
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Crohn's disease NAS,22831,78,0.97 [0.67-1.39],0.8627971468514715
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Dental caries,23435,231,1.12 [0.94-1.34],0.2159760406795725
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,22323,1570,1.04 [0.96-1.12],0.3632331293806183
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Diseases of appendix,24031,172,0.93 [0.72-1.20],0.5610763149092965
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Diseases of liver,24063,649,1.06 [0.95-1.19],0.3098285117429116
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",22633,3389,1.01 [0.95-1.06],0.8493742420637019
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",23743,539,1.05 [0.92-1.19],0.4809813118120636
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Diseases of peritoneum,24096,390,1.05 [0.91-1.22],0.4901818356742794
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,23321,117,1.09 [0.84-1.41],0.5235688407278114
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Diseases of salivary glands,23179,61,0.78 [0.47-1.28],0.3210704179004037
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Diseases of the digestive system,23925,1096,0.92 [0.83-1.02],0.0997537760739077
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Diseases of tongue,23185,109,1.12 [0.86-1.46],0.3988644993546056
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",23726,1116,1.02 [0.93-1.11],0.7341969601008128
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,20568,2135,1.02 [0.95-1.09],0.5727615026870074
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Duodenal ulcer,19375,131,1.06 [0.82-1.37],0.6406130479831529
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",24108,102,1.00 [0.73-1.36],0.9766284839635044
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,24055,71,1.24 [0.94-1.65],0.1310700414352938
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,23505,91,1.00 [0.73-1.38],0.9801428187908742
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,18590,157,1.01 [0.79-1.30],0.9173415262365026
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Functional dyspepsia,19694,450,0.99 [0.85-1.15],0.8803873791769443
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Gastric ulcer,19499,255,0.95 [0.78-1.16],0.6141447475339165
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,21217,1973,0.99 [0.92-1.06],0.7528748592386513
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,19613,369,0.97 [0.83-1.15],0.7550069076867771
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,19677,7015,1.01 [0.97-1.05],0.6184214145638867
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,GI-bleeding,23713,884,0.89 [0.79-1.00],0.0543790495765899
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,23266,62,1.06 [0.73-1.55],0.7589377343184891
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,19227,1109,1.02 [0.93-1.12],0.6755712956884256
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",23459,45,1.10 [0.73-1.66],0.6554239156961189
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Hernia,23136,2383,1.04 [0.97-1.10],0.263828086698131
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Impacted teeth,24064,66,1.30 [0.99-1.72],0.0582744567556945
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Impaction of intestines,18466,33,0.89 [0.48-1.63],0.6954796990562333
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Inguinal hernia,21359,606,1.02 [0.90-1.16],0.74610230098038
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",20826,73,1.16 [0.84-1.61],0.3760621341838785
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,18498,65,0.84 [0.54-1.33],0.4655456168829509
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Intestinal malabsorption,22942,113,1.18 [0.93-1.51],0.1781386825116895
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,18942,509,1.03 [0.91-1.18],0.6238702740499945
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,24147,335,1.01 [0.86-1.19],0.8921050204673704
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,23358,605,1.01 [0.90-1.15],0.8153410630595225
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,23519,766,1.01 [0.90-1.13],0.913517858587776
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Oesophageal obstruction,19373,129,0.70 [0.48-1.01],0.0554383204987469
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Oesophagitis,19676,432,1.06 [0.92-1.22],0.4076585325320253
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,24133,118,1.02 [0.77-1.36],0.8730498119352735
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,20798,45,0.84 [0.48-1.44],0.5206352712488147
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,19561,1128,0.99 [0.90-1.09],0.8898276144064763
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,22777,167,1.12 [0.91-1.38],0.2792960517488525
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,22753,143,1.02 [0.80-1.32],0.8471228488453264
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Other diseases of intestine,19775,1342,1.01 [0.93-1.10],0.7798192340646527
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Other diseases of intestines,22719,4286,1.01 [0.96-1.06],0.7749810126536144
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,23185,171,1.05 [0.84-1.32],0.6515801933418414
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Other diseases of liver,23934,520,1.03 [0.90-1.17],0.7090215470016554
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,19717,473,1.04 [0.91-1.20],0.5630942459631305
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Other diseases of pancreas,22683,73,1.11 [0.80-1.54],0.5357989462662491
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,24049,343,1.07 [0.91-1.24],0.4118540221086384
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,19911,667,1.02 [0.90-1.14],0.7761673791758015
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,23726,897,0.90 [0.80-1.01],0.075986404320625
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,23356,152,0.98 [0.76-1.27],0.879203305928165
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,19502,1069,1.00 [0.91-1.10],0.946351141456886
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),20793,1549,0.98 [0.91-1.07],0.6818048744424934
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,23485,71,1.13 [0.82-1.56],0.4606439476952346
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,23416,663,1.03 [0.91-1.16],0.654399290369283
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",18645,212,0.94 [0.75-1.18],0.5760488578364786
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,24039,84,1.24 [0.95-1.61],0.1114931183336873
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,18746,313,0.90 [0.74-1.09],0.2775916287273946
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",22950,121,0.76 [0.53-1.08],0.1269495547280825
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Recurring oral aphthae,24162,55,1.16 [0.82-1.65],0.4086439121362778
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,23217,115,1.12 [0.87-1.45],0.3810359313132163
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Toxic colitis,22776,23,1.03 [0.55-1.93],0.9372799815680906
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,19416,172,1.14 [0.92-1.40],0.2351443473744338
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Ulcerative colitis,22885,132,1.02 [0.78-1.33],0.9123302328912932
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",22868,115,1.05 [0.80-1.39],0.7154469793364124
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Umbilical hernia,20992,239,1.14 [0.96-1.36],0.1446502108801501
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,18529,96,1.23 [0.96-1.57],0.0975821333280255
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Ventral hernia,20956,203,0.87 [0.68-1.12],0.2893370146423414
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XI Diseases of the digestive system,Volvulus,18491,58,0.56 [0.31-1.04],0.0650182149385084
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,24130,135,0.81 [0.58-1.12],0.194125580809505
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,23937,75,0.87 [0.58-1.31],0.4994331702531148
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,22882,129,1.12 [0.89-1.42],0.3389522689147913
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,23606,484,1.17 [1.04-1.32],0.0088989144127136
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",23303,181,1.09 [0.88-1.35],0.4332701966046522
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,22900,147,1.10 [0.88-1.37],0.4199346848538066
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,23947,200,1.10 [0.91-1.34],0.3316627450444454
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,24086,339,1.06 [0.91-1.24],0.4561438431280586
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,23785,38,1.09 [0.69-1.71],0.720673850131657
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,22893,2249,1.08 [1.02-1.15],0.0085957561744787
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,23764,376,1.02 [0.88-1.20],0.7713230856909336
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,23651,263,0.96 [0.78-1.17],0.666744717376331
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,23823,701,1.16 [1.04-1.28],0.0050828440782532
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",24161,41,0.90 [0.53-1.54],0.7127780934368002
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,22807,54,0.91 [0.58-1.43],0.683488693637895
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,23427,39,1.24 [0.85-1.81],0.2566796680226749
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,23941,194,1.10 [0.90-1.35],0.3487068878191027
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,23012,259,1.27 [1.10-1.47],0.001345750234259
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,22787,34,0.66 [0.32-1.38],0.2752945704829743
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,24100,66,0.90 [0.59-1.37],0.6283536523989506
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,23241,119,1.24 [0.99-1.56],0.0569207107132829
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,23996,134,0.97 [0.74-1.28],0.8546188471893514
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,23771,24,0.77 [0.36-1.68],0.5155345875232569
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,22799,46,0.65 [0.35-1.23],0.1878915893953613
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,23726,973,1.08 [0.99-1.19],0.0899932569099746
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",23040,287,1.27 [1.11-1.46],0.0007250989158266
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,22791,38,0.74 [0.39-1.42],0.3688422703316685
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,24100,238,0.96 [0.77-1.18],0.6732248132627892
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,23801,54,0.97 [0.63-1.48],0.8891841611412129
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,24057,195,0.98 [0.78-1.22],0.8378803060028304
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,24145,150,0.92 [0.70-1.21],0.5547436418143021
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,22861,108,0.96 [0.71-1.30],0.8016112411927052
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,22922,169,0.92 [0.70-1.19],0.5084221086166694
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,24139,144,0.85 [0.63-1.15],0.3039378498946202
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",22870,117,0.99 [0.75-1.31],0.956075242867622
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,24143,109,0.89 [0.64-1.24],0.4916421064062936
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,21177,118,0.97 [0.72-1.30],0.8234076932604959
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,22548,4095,0.99 [0.94-1.04],0.6515228197905113
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,21346,2893,0.98 [0.93-1.04],0.5527852660166952
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,21145,86,0.87 [0.60-1.28],0.4877275619600051
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,21656,137,0.88 [0.65-1.18],0.3880801294072625
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,21662,143,1.18 [0.94-1.47],0.1475573018516997
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,23966,105,0.71 [0.47-1.05],0.0855501657079448
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",21562,43,1.05 [0.67-1.65],0.8216293389568703
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,19116,663,0.94 [0.82-1.07],0.3219252689768242
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",24116,112,1.06 [0.81-1.39],0.6801507531494131
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,21771,252,0.93 [0.75-1.14],0.4677994862860941
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,21115,5493,1.02 [0.97-1.06],0.4630294885265804
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,22931,94,1.00 [0.72-1.37],0.9859271237662124
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,21166,107,1.19 [0.93-1.53],0.1566381787471353
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,21606,547,1.02 [0.90-1.16],0.7583222258614202
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,23373,1854,1.03 [0.96-1.10],0.4222230168278383
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,21265,206,1.20 [1.00-1.44],0.0465278419487949
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,21317,258,1.12 [0.95-1.32],0.1956839530379875
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,21197,138,1.08 [0.84-1.38],0.5395528023569822
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,23696,31,0.79 [0.40-1.55],0.4962011901508044
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,19598,1145,0.99 [0.91-1.09],0.889642325973148
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,18795,342,1.08 [0.92-1.27],0.3604044096527146
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",24124,332,1.06 [0.90-1.25],0.4631578312404307
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,18519,66,0.88 [0.57-1.35],0.5481271468109652
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),18760,307,0.99 [0.83-1.18],0.9021602574253288
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,21351,292,0.95 [0.78-1.15],0.5713993036597826
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,19127,674,0.96 [0.84-1.09],0.5143364109963438
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,21542,23,1.42 [0.93-2.19],0.107122902923966
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,22016,497,1.01 [0.88-1.16],0.853851934894359
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,21774,255,1.07 [0.89-1.29],0.4668380317134967
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,19078,625,0.97 [0.85-1.10],0.6432233575810866
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,21130,71,0.98 [0.68-1.43],0.9291975387404392
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",21112,53,1.15 [0.81-1.65],0.4384851164457606
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,22890,53,0.94 [0.61-1.46],0.7847954777347435
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,23879,1042,1.06 [0.97-1.16],0.2163111295286068
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,23430,593,1.14 [1.03-1.27],0.0148473766315601
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",24066,309,0.97 [0.82-1.16],0.7763888594138075
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,20025,1572,0.97 [0.90-1.05],0.4524567589865095
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,18520,67,1.13 [0.80-1.58],0.4960114465348735
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,21128,69,0.91 [0.61-1.37],0.6618676077712573
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,18479,26,1.06 [0.58-1.91],0.8579230552244391
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),18555,102,1.08 [0.82-1.44],0.571624576150763
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,23048,211,0.88 [0.69-1.12],0.2927296805953246
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,23059,222,1.20 [1.01-1.41],0.0334181631834816
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,24137,76,0.83 [0.55-1.26],0.3931215904605363
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",22906,1387,1.02 [0.94-1.10],0.6869432209118076
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,21169,110,1.05 [0.79-1.40],0.7213687601094297
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),18567,114,1.14 [0.89-1.46],0.3083712539734343
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,22084,565,1.08 [0.95-1.22],0.2255579326919283
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,20261,1808,1.02 [0.95-1.09],0.6171479627174714
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,23714,49,1.20 [0.85-1.70],0.306324051605194
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,24148,71,0.90 [0.60-1.35],0.610527787161425
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,21128,69,0.99 [0.67-1.44],0.9427719024274274
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",22029,970,1.15 [1.06-1.25],0.0010662813378382
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,21121,62,1.47 [1.15-1.88],0.0021875613972356
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,19449,996,1.02 [0.93-1.12],0.6960675676038872
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,22933,96,1.07 [0.80-1.43],0.6692419047113869
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,21118,59,1.37 [1.04-1.81],0.0268866678577861
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,21620,101,0.82 [0.57-1.18],0.2899839409643704
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,21406,347,1.14 [0.98-1.31],0.081209510435286
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,23856,191,0.99 [0.80-1.24],0.953860068325734
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,21938,419,1.04 [0.90-1.20],0.6189135381130967
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,24075,293,0.99 [0.83-1.19],0.9402851304582238
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,24156,32,0.84 [0.44-1.58],0.5824208960772572
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,21243,184,1.01 [0.80-1.27],0.9564847796933502
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,19374,540,1.01 [0.89-1.15],0.8523527289733439
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,21496,437,1.22 [1.09-1.37],0.0007401912669193
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],21212,153,1.33 [1.10-1.60],0.0032173669544923
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",18487,34,0.91 [0.51-1.62],0.7444187708803323
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,20020,1567,1.02 [0.95-1.10],0.5868124184538895
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,18849,396,0.92 [0.78-1.08],0.3153151355998584
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,23743,78,0.91 [0.62-1.32],0.6153111327770349
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",24106,45,0.92 [0.56-1.50],0.7275092700806685
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",22764,26,0.84 [0.42-1.68],0.617368689781552
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,18526,73,0.90 [0.60-1.35],0.6016001448896802
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,21603,84,0.82 [0.55-1.24],0.3498233243092695
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,18765,312,0.98 [0.82-1.17],0.8474140993712095
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,21299,240,1.08 [0.90-1.30],0.3958310357299076
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,21709,190,1.07 [0.86-1.32],0.5530967058575478
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,21610,91,0.80 [0.54-1.19],0.2752565657227627
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,20435,43,0.55 [0.27-1.11],0.096508545461154
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",24159,35,0.89 [0.50-1.58],0.6882454303452971
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,21590,531,1.03 [0.91-1.18],0.6255106712619705
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],23742,77,1.11 [0.82-1.51],0.5098693835952277
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,23215,2156,1.10 [1.04-1.17],0.0017563034178207
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",21160,101,1.09 [0.82-1.44],0.5727765979972823
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,21839,320,1.06 [0.90-1.25],0.4823580200182209
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,22920,166,0.92 [0.71-1.19],0.5302344449845506
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,21653,134,0.88 [0.65-1.19],0.3948228602419311
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,22470,951,1.04 [0.95-1.15],0.3746275190998562
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,22143,624,1.02 [0.91-1.16],0.7102901379904659
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],21098,39,0.95 [0.57-1.60],0.8549322357068664
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,23805,140,1.09 [0.86-1.38],0.4645181320783462
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,21195,136,0.72 [0.51-1.02],0.0623010034289476
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,21113,54,1.11 [0.76-1.61],0.6011150279770308
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),18485,32,1.06 [0.63-1.79],0.818432558691886
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Acute renal failure,23721,735,0.95 [0.84-1.07],0.3865861936417684
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),9777,65,0.86 [0.56-1.32],0.48464560184392
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,13026,70,0.95 [0.65-1.39],0.8023836726602609
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,23909,276,1.03 [0.85-1.23],0.7788147461914743
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,23688,55,1.24 [0.88-1.74],0.2184786351462191
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,23534,548,0.98 [0.86-1.12],0.7698196178089713
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,24012,20,0.63 [0.24-1.66],0.3478241306535556
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,24025,163,0.80 [0.59-1.07],0.131225137098173
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Cystitis,22201,133,1.18 [0.95-1.47],0.1366110210709188
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Dialysis,23028,42,1.28 [0.91-1.82],0.1598422856556583
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,10477,1002,0.98 [0.88-1.09],0.7614806592724328
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Disorders of breast,13130,174,0.92 [0.72-1.18],0.5268264875987032
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Endometriosis,9829,117,1.02 [0.78-1.34],0.8855285852473881
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",10045,333,0.85 [0.70-1.04],0.1079741041057374
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,10092,380,0.99 [0.85-1.15],0.8869566799070728
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,20377,3729,0.95 [0.90-1.00],0.0639399141654263
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,24053,61,1.30 [0.97-1.73],0.0785288832830537
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Hydrocele,9546,71,1.13 [0.80-1.59],0.4924409398483759
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,22908,192,0.90 [0.70-1.16],0.4252675410831197
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,10145,670,1.07 [0.95-1.21],0.2708891126730879
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,13010,208,0.96 [0.77-1.20],0.7337225391919364
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),9566,91,1.22 [0.92-1.62],0.1614624950820992
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Irregular menses,13014,107,0.69 [0.47-1.03],0.0705945254685937
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Menorrhagia,9971,259,0.92 [0.75-1.13],0.4383139158818778
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,22124,56,0.96 [0.62-1.47],0.8395802221683712
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,10949,1237,0.95 [0.87-1.04],0.2682808128559107
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,9522,47,1.35 [0.98-1.88],0.0699711316184885
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,9797,85,0.78 [0.51-1.17],0.2236608126953924
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",24162,35,1.29 [0.89-1.85],0.1757859799146433
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",24167,40,1.22 [0.83-1.79],0.3225682039437759
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,23412,1344,1.02 [0.94-1.11],0.5772334660516367
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,22489,421,0.91 [0.77-1.07],0.251834801948516
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,13011,55,0.93 [0.60-1.44],0.7408903324983447
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,24125,263,0.91 [0.74-1.12],0.3929718518529308
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,9614,139,0.91 [0.67-1.23],0.5284665634099516
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,9578,103,0.66 [0.43-1.03],0.0667018617104887
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,9542,67,0.74 [0.44-1.23],0.2468429351802748
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,24138,46,0.76 [0.43-1.34],0.3428631126368652
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,23054,986,1.04 [0.94-1.14],0.4627347084002604
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,12911,109,0.97 [0.72-1.32],0.8676070342043591
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,9782,70,1.34 [1.04-1.72],0.0239296809300767
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",9916,204,0.84 [0.65-1.07],0.1610930303516711
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,9765,53,0.66 [0.38-1.16],0.1527178348272
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,9808,96,1.03 [0.77-1.39],0.8321195863261105
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,22937,221,0.90 [0.72-1.14],0.3845267740563347
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,23951,89,1.13 [0.85-1.51],0.4046735204298242
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,9869,157,0.71 [0.52-0.97],0.0341552581941041
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,9781,69,0.92 [0.62-1.36],0.6746895817840775
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,10078,366,0.99 [0.84-1.16],0.8610052680541034
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,9767,55,0.76 [0.45-1.27],0.2894749812715795
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,10037,325,0.96 [0.81-1.15],0.6881444073472077
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,24031,39,1.23 [0.82-1.83],0.3167250363237773
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",9570,95,0.78 [0.51-1.18],0.2376789297221354
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,24017,1301,0.98 [0.90-1.07],0.6778744640579174
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",22838,122,0.86 [0.63-1.18],0.3550164319344132
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,23042,56,1.12 [0.78-1.62],0.5354817135276884
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,23694,61,0.89 [0.57-1.40],0.6249455162980389
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Urethral stricture,22220,152,1.13 [0.90-1.41],0.2900684685733579
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Urolithiasis,23968,335,1.04 [0.88-1.23],0.6205844213720136
+PPIE,Peptidyl-prolyl cis-trans isomerase E,Chapter XIV Diseases of the genitourinary system,Uterine polyps,9799,87,0.82 [0.55-1.22],0.3251049975227581

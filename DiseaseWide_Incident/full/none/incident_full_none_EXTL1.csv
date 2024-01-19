@@ -1,0 +1,661 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",41642,226,0.66 [0.48-0.92],0.0126944607105599
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",43076,323,0.82 [0.64-1.05],0.1177170900983462
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",42641,2260,0.87 [0.79-0.95],0.0027419397557226
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Candidiasis,43107,697,0.86 [0.73-1.02],0.081518448226904
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,41796,5745,0.92 [0.87-0.97],0.0036807963293177
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),42001,5230,0.94 [0.88-0.99],0.0249023776317458
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,42697,1995,0.99 [0.90-1.08],0.809276277911804
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,42960,142,0.82 [0.57-1.20],0.3145400274169579
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,39755,1551,0.92 [0.82-1.02],0.1109656794010996
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,38386,1738,0.82 [0.73-0.91],0.0003121560187408
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,38247,406,0.74 [0.59-0.94],0.0120184566257066
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,30235,3204,0.89 [0.83-0.96],0.0031921779894612
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,38007,641,0.94 [0.80-1.11],0.4510846060230339
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,43048,2346,0.97 [0.90-1.06],0.5489470881495075
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Mycoses,43230,820,0.85 [0.73-1.00],0.044755257669093
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,41890,1509,0.83 [0.74-0.94],0.0020375541566654
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,43123,1707,0.90 [0.81-1.00],0.0409302518075807
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,41027,325,0.81 [0.63-1.04],0.1047944736990092
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,43321,77,1.43 [1.03-1.97],0.0306969792975033
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Other septicaemia,42913,1497,0.92 [0.82-1.02],0.1281492002234596
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,42943,125,0.77 [0.51-1.16],0.2136695668214348
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Other viral diseases,43180,260,0.84 [0.64-1.10],0.2025127318624684
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",43152,232,0.84 [0.63-1.12],0.2340184972756268
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,41053,672,0.80 [0.67-0.95],0.0124885125757977
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,40838,457,0.99 [0.82-1.19],0.899832670432147
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,40871,169,0.98 [0.72-1.34],0.9126442136069788
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,43280,88,0.92 [0.59-1.45],0.7317673572679748
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,43206,263,0.80 [0.60-1.06],0.1135473935558091
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Viral warts,43028,85,0.93 [0.59-1.47],0.7429177249354786
+EXTL1,Exostosin-like 1,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],43058,115,0.74 [0.48-1.15],0.1824179436968831
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Benign lipomatous neoplasm,42819,489,0.97 [0.80-1.17],0.7349352251841038
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,43171,98,0.94 [0.62-1.43],0.7757302075250466
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,43132,107,1.05 [0.72-1.52],0.811867033604184
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,19825,107,0.66 [0.40-1.06],0.0863996050745456
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",42757,2391,0.90 [0.82-0.98],0.0164374151514991
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Benign neoplasm of meninges,43296,99,0.71 [0.44-1.15],0.1621709323489847
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,43213,114,0.59 [0.37-0.95],0.0294186382326467
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,43278,179,0.92 [0.67-1.26],0.5898238495667489
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Benign neoplasm of ovary,23387,148,0.97 [0.70-1.36],0.877233502544379
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Benign neoplasm: Ascending colon,43279,610,0.93 [0.78-1.10],0.4062512464472568
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Benign neoplasm: Caecum,43288,499,0.90 [0.74-1.09],0.2683277434143125
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",43132,118,0.92 [0.62-1.36],0.6745591882295242
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Benign neoplasm: Descending colon,43282,371,0.97 [0.78-1.20],0.7486254651755402
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Benign neoplasm: Rectum,43206,584,0.84 [0.70-1.01],0.0634127634404146
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,43118,1044,0.89 [0.78-1.02],0.0984065899194446
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Benign neoplasm: Transverse colon,43272,704,0.79 [0.66-0.94],0.0066073179772486
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Carcinoma in situ of breast,19003,118,0.96 [0.66-1.40],0.8300153652185613
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",19073,136,1.09 [0.79-1.51],0.6039347319922682
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",34555,92,0.72 [0.44-1.19],0.2010804283791096
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",34577,114,0.96 [0.65-1.40],0.8151075339516648
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",43233,202,1.09 [0.84-1.42],0.5153470280295955
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Haemangioma, any site",43234,197,1.08 [0.82-1.41],0.5993928908376185
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Leiomyoma of uterus,22605,487,0.79 [0.65-0.97],0.0261843611366833
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Lung cancer and mesothelioma,30092,568,0.93 [0.77-1.13],0.468246251433826
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Lymphoid leukaemia,34552,89,0.58 [0.34-1.01],0.0540003473313891
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",34776,313,0.96 [0.76-1.22],0.7647316984589452
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",34795,332,0.98 [0.79-1.23],0.8704411211144298
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",19204,165,1.05 [0.78-1.41],0.7509798610676237
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",34599,136,1.14 [0.84-1.55],0.3957758905148397
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",34630,167,0.64 [0.43-0.94],0.0225570536881732
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",34633,170,0.87 [0.62-1.22],0.4153777272713597
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",19161,122,1.26 [0.93-1.70],0.1416487247363653
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",34622,159,0.70 [0.48-1.03],0.0701210550223549
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",16567,1143,1.01 [0.90-1.14],0.8477261167977317
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",34661,198,1.07 [0.82-1.40],0.6313072296993849
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",34586,123,1.01 [0.71-1.45],0.938613061648295
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,34635,172,0.87 [0.62-1.22],0.4139659270841623
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Melanocytic naevi,42996,349,0.89 [0.70-1.12],0.3121137240124374
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Melanocytic naevi of trunk,43259,154,0.88 [0.62-1.25],0.4696967993699315
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Melanoma in situ,34518,137,0.69 [0.46-1.05],0.0847818676725636
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",34617,154,0.81 [0.57-1.17],0.2712191411737693
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",34731,268,1.00 [0.78-1.27],0.9683491411959534
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",34856,393,1.14 [0.95-1.37],0.1581693316896344
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",34629,166,1.06 [0.79-1.43],0.6894448518997818
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,Other benign neoplasms of skin,43017,272,0.95 [0.74-1.23],0.7174636272929332
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",36238,1775,1.02 [0.93-1.13],0.6161154798797748
+EXTL1,Exostosin-like 1,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",36334,1871,1.03 [0.94-1.13],0.5228234998379817
+EXTL1,Exostosin-like 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,42820,573,0.91 [0.76-1.09],0.290733777590086
+EXTL1,Exostosin-like 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,40220,146,0.88 [0.61-1.26],0.4809021687938322
+EXTL1,Exostosin-like 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,42372,125,0.82 [0.55-1.22],0.3316943414017928
+EXTL1,Exostosin-like 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,42023,4768,0.93 [0.87-0.98],0.0145213406062776
+EXTL1,Exostosin-like 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,40940,78,0.85 [0.51-1.40],0.5149561204831232
+EXTL1,Exostosin-like 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,42632,85,0.94 [0.60-1.48],0.7956728505541479
+EXTL1,Exostosin-like 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,42546,2472,0.90 [0.83-0.98],0.0202516814092007
+EXTL1,Exostosin-like 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,42544,2470,0.90 [0.83-0.99],0.0213952043825446
+EXTL1,Exostosin-like 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,40217,143,1.15 [0.85-1.55],0.3790304835160406
+EXTL1,Exostosin-like 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,42786,1924,0.90 [0.82-0.99],0.035663422013892
+EXTL1,Exostosin-like 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,42737,190,0.90 [0.66-1.23],0.5100105813475175
+EXTL1,Exostosin-like 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,42350,103,0.72 [0.45-1.16],0.1760925796708544
+EXTL1,Exostosin-like 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,42354,107,1.30 [0.95-1.76],0.0983080060974614
+EXTL1,Exostosin-like 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,42998,451,1.08 [0.90-1.29],0.4048831828206924
+EXTL1,Exostosin-like 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,43145,91,0.78 [0.48-1.26],0.3055325770557933
+EXTL1,Exostosin-like 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",42922,375,1.10 [0.91-1.33],0.3421980860977934
+EXTL1,Exostosin-like 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,41033,171,0.98 [0.72-1.33],0.8840749609743926
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,33618,504,0.82 [0.67-1.01],0.0569873104447894
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,40395,191,0.57 [0.39-0.83],0.0030230886391618
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,40415,211,0.61 [0.43-0.87],0.0055422257302467
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,33205,91,0.77 [0.47-1.26],0.3034578172164902
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,40273,106,0.83 [0.54-1.28],0.407840765377348
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,39354,387,0.71 [0.55-0.90],0.005178120555385
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",42568,876,0.74 [0.63-0.87],0.0002472982819755
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,42136,444,0.89 [0.72-1.09],0.2476722725318928
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,41864,172,0.75 [0.52-1.07],0.1151746135363977
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,42747,2580,0.96 [0.88-1.04],0.2800127568391377
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,37829,2511,0.96 [0.88-1.04],0.3111045886355376
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",33222,108,1.08 [0.75-1.58],0.6740382044421256
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",40025,137,1.16 [0.86-1.57],0.3273222892374859
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,33575,461,0.86 [0.70-1.06],0.1564697193939506
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,33216,102,0.92 [0.60-1.41],0.7001044160889636
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,38997,5883,0.95 [0.90-1.00],0.0592682799349656
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,33447,333,0.85 [0.66-1.08],0.1886821463584213
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,34041,927,0.87 [0.75-1.01],0.068426577898752
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,43193,524,0.89 [0.74-1.08],0.2403244504989019
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,42878,209,0.95 [0.71-1.26],0.72299546915107
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,33327,213,0.95 [0.71-1.27],0.7506637426435956
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",33216,102,0.91 [0.59-1.40],0.6588049606231887
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,42423,2535,1.00 [0.92-1.08],0.934445970608661
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,33521,407,1.05 [0.86-1.28],0.6143853274166888
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,33560,446,1.10 [0.92-1.32],0.298069477879853
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",34167,1053,1.11 [0.99-1.25],0.068196862281173
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,33295,181,0.95 [0.69-1.31],0.7591397475684375
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,42867,198,1.01 [0.76-1.34],0.9528914596379716
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,34115,1001,0.98 [0.86-1.12],0.762312650155288
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,33912,798,1.01 [0.88-1.17],0.8461121792694276
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,39074,107,1.27 [0.92-1.75],0.1426049359521877
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,41424,8310,0.95 [0.91-0.99],0.0224302584759465
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,39961,73,1.17 [0.77-1.78],0.4505948822808366
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,39985,97,0.99 [0.66-1.49],0.9675317262547282
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,43022,3209,1.03 [0.97-1.11],0.338567113596994
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",43022,3203,1.04 [0.97-1.11],0.3273506736597799
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,39970,82,1.17 [0.79-1.72],0.4381906661312819
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,42743,2022,0.94 [0.86-1.03],0.2027241977037304
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",35700,2586,0.96 [0.89-1.04],0.3413574636199695
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,43304,347,0.92 [0.74-1.16],0.4875236073941651
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,41815,123,0.75 [0.49-1.14],0.1808459779559232
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,40898,177,1.04 [0.78-1.39],0.7819985136507467
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,40963,242,0.91 [0.69-1.19],0.48926187527623
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",33382,268,0.83 [0.63-1.09],0.1737840102354565
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,39436,255,0.80 [0.60-1.07],0.1346426894467958
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,3553,138,1.43 [1.12-1.82],0.0036633976011258
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,3783,414,1.08 [0.90-1.29],0.4159630755895471
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,39283,102,0.67 [0.41-1.10],0.1148473341791183
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,3492,78,1.28 [0.89-1.84],0.1832599151806141
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,42287,3106,0.84 [0.78-0.91],2.566226556231909e-05
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,42243,551,0.77 [0.63-0.93],0.0084546782912048
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,39574,607,0.90 [0.76-1.07],0.2458139048106561
+EXTL1,Exostosin-like 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,34339,1225,0.88 [0.78-1.00],0.0536959223225137
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",43126,407,0.83 [0.66-1.03],0.0916408582027235
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),41441,276,1.05 [0.83-1.33],0.6594848694413682
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Angina pectoris,39633,1952,0.97 [0.88-1.06],0.5193563045149422
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Aortic aneurysm,41572,407,1.09 [0.90-1.31],0.3927879264165356
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,41260,95,0.83 [0.53-1.31],0.4311132779733516
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",41491,326,0.92 [0.73-1.16],0.4748007840485138
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,26873,3107,0.92 [0.85-0.99],0.0317193788495491
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,AV-block,36646,703,0.90 [0.77-1.06],0.217720595945933
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",43220,689,1.05 [0.91-1.22],0.4793863640340139
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Cardiac arrest,24077,311,0.92 [0.72-1.16],0.4700567617784519
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Cardiomyopathy,36228,285,0.98 [0.77-1.24],0.8441973019087825
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",36104,161,0.77 [0.53-1.11],0.1644217977531612
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,43319,74,0.70 [0.40-1.23],0.2117799540176818
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Conduction disorders,37673,1730,0.99 [0.90-1.09],0.8736521444329408
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,41082,3429,0.96 [0.89-1.03],0.2239875516214804
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,37920,12700,0.91 [0.87-0.94],6.266707201449727e-07
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,DVT of lower extremities,41027,439,0.87 [0.70-1.07],0.1838974532144326
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Endocarditis,36058,115,0.89 [0.59-1.34],0.5821085267933002
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,"Heart failure, strict",42976,1787,0.95 [0.86-1.04],0.2659226656393823
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Hypertension,39439,10868,0.90 [0.87-0.94],9.831267319701564e-07
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,"Hypertension, essential",39453,10882,0.90 [0.87-0.94],1.2783035240289372e-06
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,"Hypertension, portal",43034,131,0.95 [0.66-1.37],0.8021224364182054
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",28883,312,0.90 [0.71-1.14],0.3936038632834433
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,28728,157,0.88 [0.63-1.24],0.4715617434427747
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Hypotension,43087,1878,0.87 [0.79-0.96],0.0065214214154076
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,41818,176,1.08 [0.81-1.44],0.5967295166488562
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",41366,3685,0.98 [0.92-1.05],0.6264521727672183
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",42720,921,0.96 [0.84-1.10],0.5664239207539051
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Left bundle-branch block,36547,604,1.04 [0.89-1.22],0.6284547716990394
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,42549,1402,0.92 [0.82-1.03],0.1318825390512696
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",38862,1181,0.94 [0.83-1.06],0.3249289523110831
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",43161,263,0.73 [0.54-0.97],0.0323875564231079
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",43270,525,0.96 [0.80-1.15],0.6428871846598216
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Oesophageal varices,40677,89,1.01 [0.66-1.54],0.9639880640248842
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Other aneurysm,41286,121,1.09 [0.78-1.53],0.6245472588254202
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Other arrhythmias,36651,708,0.89 [0.76-1.05],0.1667687319941334
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,41333,168,0.88 [0.63-1.23],0.460390902863185
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,41563,398,1.10 [0.91-1.32],0.312582960676062
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,36239,296,0.90 [0.70-1.15],0.4013743208401013
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Other disorders of veins,40735,147,0.90 [0.63-1.28],0.5516160493363891
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,40670,82,1.23 [0.85-1.78],0.2778079676651437
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,40973,107,0.80 [0.52-1.25],0.3247162309785984
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,40804,216,0.90 [0.68-1.21],0.4908609131912929
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,37626,1683,0.99 [0.89-1.09],0.8070403653091376
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,41299,90,1.16 [0.80-1.69],0.4279007307746906
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,42061,896,0.95 [0.83-1.09],0.4950379182537039
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,42286,585,0.87 [0.72-1.04],0.1182732213370696
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",41859,993,0.91 [0.80-1.05],0.1944809100019696
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,24319,553,1.05 [0.90-1.24],0.5371999538260557
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Peripheral artery disease,41773,658,0.95 [0.81-1.12],0.5563618958553088
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),41157,569,0.87 [0.73-1.05],0.1458602465391372
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Pulmonary embolism,42484,783,0.95 [0.82-1.10],0.5107567851627485
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,43199,1067,0.98 [0.86-1.11],0.744753788533995
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Right bundle-branch block,36517,574,0.98 [0.82-1.16],0.7977717726302328
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Secondary right heart disease,42279,578,0.85 [0.71-1.02],0.0841573668431849
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,41175,309,0.84 [0.65-1.08],0.1667232547411891
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",42698,1056,0.97 [0.86-1.11],0.6846210545183711
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",42665,1121,0.98 [0.87-1.11],0.7354542140131048
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,41776,100,0.86 [0.56-1.34],0.5134223052993705
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,41296,132,1.19 [0.88-1.61],0.2503077671029748
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Transient ischemic attack,42170,371,0.82 [0.65-1.04],0.102391769158098
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,41578,431,0.84 [0.67-1.04],0.1000017719635485
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Varicose veins,41274,686,0.89 [0.76-1.05],0.1765503817126214
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,41191,143,1.03 [0.75-1.43],0.8480604247141411
+EXTL1,Exostosin-like 1,Chapter IX Diseases of the circulatory system,Venous thromboembolism,42928,1232,0.92 [0.81-1.04],0.1699447677437138
+EXTL1,Exostosin-like 1,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",43112,597,0.63 [0.51-0.77],7.589586959776227e-06
+EXTL1,Exostosin-like 1,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",37982,2390,0.95 [0.87-1.03],0.1983060056540502
+EXTL1,Exostosin-like 1,Chapter V Mental and behavioural disorders,Any mental disorder,42235,6643,0.91 [0.87-0.96],0.0006748995682488
+EXTL1,Exostosin-like 1,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",43033,698,0.60 [0.50-0.73],2.7856306995388535e-07
+EXTL1,Exostosin-like 1,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",38223,2631,0.95 [0.88-1.03],0.2438253689127817
+EXTL1,Exostosin-like 1,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",35733,141,0.97 [0.68-1.37],0.8534710816100919
+EXTL1,Exostosin-like 1,Chapter V Mental and behavioural disorders,Smoking dependency,42422,2302,0.90 [0.82-0.98],0.0157919848050219
+EXTL1,Exostosin-like 1,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",38317,2725,0.86 [0.79-0.94],0.0007111832808435
+EXTL1,Exostosin-like 1,Chapter V Mental and behavioural disorders,Vascular dementia,42529,209,0.64 [0.45-0.90],0.0103881287493643
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Alzheimer disease,43319,555,0.95 [0.80-1.14],0.5967213495039929
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",29374,97,0.85 [0.54-1.35],0.4977338488141861
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Bell's palsy,40356,139,0.73 [0.49-1.09],0.129193970373815
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,41045,828,1.04 [0.91-1.19],0.5753957704382766
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Cerebral cysts,42645,382,0.94 [0.76-1.16],0.5409317973641314
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,43183,504,0.73 [0.59-0.90],0.0035319167893036
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,42509,91,0.61 [0.36-1.03],0.0663507429800071
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,43293,109,1.26 [0.92-1.72],0.1546136749865622
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",42384,121,0.96 [0.66-1.40],0.8247843049281707
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Epilepsy,40751,464,1.01 [0.84-1.22],0.8863977226924038
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,42523,2236,0.95 [0.87-1.04],0.287073629798834
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,43244,692,0.86 [0.72-1.01],0.0699164593918992
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Falls/tendency to fall,42329,4209,0.86 [0.80-0.92],1.0516376778956265e-05
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Generalized epilepsy,42698,88,1.09 [0.73-1.63],0.6617158085673311
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Hemiplegia,43075,396,0.83 [0.66-1.04],0.1030013286890932
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Hydrocephalus,42367,104,1.01 [0.68-1.49],0.966596531442462
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,43286,116,0.66 [0.42-1.04],0.071712807398825
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,40343,126,0.92 [0.63-1.34],0.6630404365071804
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,40351,134,0.79 [0.53-1.17],0.2409393672956254
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Memory loss,42288,194,0.84 [0.61-1.15],0.2770230052538431
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Migraine,40881,594,1.06 [0.91-1.24],0.460537837282295
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",43203,539,1.02 [0.86-1.21],0.8349702430197663
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Motor neuron disease,29562,249,0.92 [0.70-1.21],0.54766632331918
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,43029,178,0.60 [0.41-0.87],0.0079088352432686
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",42208,1991,0.93 [0.85-1.02],0.1364512363291815
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Neurological diseases,40832,6070,0.92 [0.87-0.98],0.0042213727431126
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,42721,303,0.86 [0.67-1.11],0.2563009224709012
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",40882,665,0.92 [0.78-1.09],0.3361643171103246
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",43198,483,1.10 [0.93-1.30],0.2716870734145941
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,34668,1062,0.80 [0.69-0.92],0.0017894601579537
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,42383,120,1.12 [0.80-1.57],0.5241244851440157
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Other disorders of nervous system,42494,231,0.97 [0.74-1.27],0.8197938218506075
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,42800,248,0.88 [0.67-1.16],0.3640614379837033
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Other facial nerve disorders,40381,164,0.77 [0.53-1.10],0.1493724547606586
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Other headache syndromes,40389,102,0.71 [0.44-1.13],0.1493049173760302
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Other neurological diseases,43120,857,0.97 [0.84-1.11],0.6615564538714688
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Other sleep disorders,41201,914,0.94 [0.82-1.09],0.4246704252935879
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Parkinson's disease,43276,405,0.82 [0.65-1.03],0.0814050644142562
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,42356,93,0.71 [0.43-1.16],0.1666337343157594
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Restless leg syndrome,43317,110,0.92 [0.62-1.38],0.6977061579285198
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Sleep apnoea,42928,796,0.98 [0.84-1.13],0.7511783565947893
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Small fibre neuropathy,42795,80,1.19 [0.81-1.76],0.377529522750213
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,43292,293,0.86 [0.67-1.12],0.2596465409533594
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,40302,85,0.60 [0.35-1.04],0.0683471291712667
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,43319,561,0.95 [0.80-1.13],0.556324272165445
+EXTL1,Exostosin-like 1,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),42463,202,0.68 [0.48-0.96],0.0280094137882706
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,42364,160,0.83 [0.58-1.18],0.3020222282026733
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,42642,663,0.95 [0.81-1.12],0.5468696054506195
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,43045,387,0.89 [0.72-1.11],0.3096986716529308
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,41634,85,0.96 [0.61-1.50],0.8550572472970236
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,41648,99,1.14 [0.79-1.65],0.4728245583002676
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",43134,90,0.48 [0.27-0.84],0.0098393385431867
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,42890,250,0.80 [0.60-1.07],0.1264139549496041
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",3499,84,1.23 [0.85-1.77],0.2698319230711509
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,4238,160,1.29 [1.00-1.66],0.0456744243830332
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,42368,164,0.96 [0.69-1.32],0.7806110231493744
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,42980,1721,1.03 [0.93-1.13],0.5709145446980158
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",42694,1145,0.96 [0.85-1.08],0.4664902523416969
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,41922,373,0.90 [0.72-1.12],0.348735350700219
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",43183,1204,0.98 [0.87-1.10],0.7665312801166908
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,43305,116,1.20 [0.87-1.65],0.2724706100138825
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,43068,1089,0.98 [0.87-1.11],0.7472993023421949
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",43251,611,0.87 [0.73-1.03],0.1127396508368968
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,43166,304,0.99 [0.78-1.24],0.9047355059342196
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,41651,102,0.77 [0.48-1.23],0.2707778686246855
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,41661,112,1.01 [0.69-1.47],0.971987355937186
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,41644,95,0.84 [0.53-1.33],0.4458599256302511
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,43168,1180,1.07 [0.96-1.20],0.2171678427067228
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,42303,315,1.06 [0.86-1.32],0.5833106793437917
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,42054,75,1.00 [0.62-1.59],0.9859283785158932
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,42804,164,1.24 [0.95-1.61],0.1074214884337134
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,43100,460,0.75 [0.60-0.93],0.0093148675355335
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,42309,330,1.09 [0.89-1.34],0.4202029287910709
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,43045,183,0.92 [0.67-1.26],0.5873277989842147
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,42755,767,1.09 [0.95-1.25],0.2132901894189081
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,42434,230,0.86 [0.64-1.15],0.3012576717087366
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,40674,3641,0.95 [0.89-1.02],0.1550843425943895
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,43042,402,0.75 [0.60-0.95],0.0173260454513186
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,43282,256,1.23 [1.00-1.52],0.0552037215718452
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,42228,679,0.92 [0.79-1.09],0.3402049768524425
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,42752,112,1.26 [0.93-1.72],0.142365758427539
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,43282,93,1.39 [1.03-1.88],0.0324511672448011
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,41691,142,0.90 [0.63-1.29],0.562421117742956
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,41801,252,0.93 [0.71-1.21],0.5986868849830173
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,41450,191,0.90 [0.66-1.23],0.5141109067219529
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,42070,91,1.14 [0.78-1.67],0.4899266419286493
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",41363,104,1.12 [0.78-1.61],0.5300386970995739
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,42131,143,1.02 [0.73-1.42],0.9168101710276672
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",42312,324,1.06 [0.85-1.31],0.6024101203840493
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,41748,199,0.86 [0.63-1.17],0.3274995100928001
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,41440,181,1.16 [0.89-1.52],0.2743772750302006
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,41392,133,0.96 [0.67-1.38],0.8293364824722947
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,40005,2972,0.96 [0.89-1.04],0.3049978606994142
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,41672,123,0.91 [0.62-1.34],0.6281031851950958
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,42887,683,0.88 [0.75-1.04],0.1444240408070127
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,42299,95,1.10 [0.75-1.61],0.6326297083003496
+EXTL1,Exostosin-like 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),42474,270,0.88 [0.68-1.15],0.3562686844199211
+EXTL1,Exostosin-like 1,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,42947,149,1.01 [0.72-1.40],0.975922849997708
+EXTL1,Exostosin-like 1,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,43243,198,0.83 [0.60-1.14],0.2424913707236428
+EXTL1,Exostosin-like 1,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,43102,217,0.88 [0.66-1.18],0.3916844286331401
+EXTL1,Exostosin-like 1,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,42904,106,1.01 [0.68-1.49],0.97101064992488
+EXTL1,Exostosin-like 1,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,42909,111,1.39 [1.05-1.85],0.0212186971739689
+EXTL1,Exostosin-like 1,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,43144,1444,1.01 [0.91-1.12],0.9023892662032338
+EXTL1,Exostosin-like 1,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,42737,1037,1.04 [0.92-1.17],0.5790516100829796
+EXTL1,Exostosin-like 1,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,41907,207,0.96 [0.72-1.28],0.7777093429781081
+EXTL1,Exostosin-like 1,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,41838,138,1.08 [0.78-1.49],0.6498234959876916
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Acute pharyngitis,42898,121,0.87 [0.59-1.29],0.4888546815840972
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,43137,360,0.82 [0.64-1.03],0.0927728665849741
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,42882,105,0.89 [0.58-1.35],0.5801978783749216
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,All influenza,40036,191,0.96 [0.71-1.29],0.7714290050166893
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),40032,187,0.92 [0.68-1.26],0.6119405565997728
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Allergic asthma (mode),29722,198,0.97 [0.72-1.29],0.8130536237414382
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Allergic rhinitis,43108,470,0.94 [0.78-1.14],0.5379640147920999
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",32071,2989,0.82 [0.76-0.89],3.597348806775766e-06
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",32471,2947,0.81 [0.75-0.89],1.6169712438987372e-06
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),42645,233,0.79 [0.58-1.06],0.1178861565339545
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",39978,133,0.73 [0.49-1.11],0.1384125556474954
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Bronchiectasis,37509,583,0.87 [0.72-1.04],0.1316604832863054
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",37019,93,0.93 [0.60-1.44],0.7382750446620769
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,41614,4688,0.86 [0.81-0.92],6.110698606067407e-06
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",41007,124,0.96 [0.66-1.39],0.8144820255171515
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Chronic sinusitis,41137,254,0.79 [0.59-1.05],0.1073808789778072
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",42986,1966,0.80 [0.72-0.89],2.7203825052022447e-05
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Deviated nasal septum,41073,190,0.83 [0.60-1.15],0.2628935779175616
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,39831,8736,0.89 [0.84-0.93],2.7734654317665024e-07
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",41509,626,0.85 [0.71-1.01],0.0694240418451687
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Early onset COPD,41557,537,0.91 [0.76-1.09],0.3020519964806377
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Emphysema,37452,526,0.94 [0.78-1.14],0.5476513353135346
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,41089,492,0.94 [0.78-1.14],0.526590294463507
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Influenza and pneumonia,42939,3094,0.92 [0.85-0.99],0.0337832344194535
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Interstitial lung disease,41143,546,0.94 [0.79-1.13],0.5305468427409161
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Later onset COPD,41613,1429,0.76 [0.67-0.86],1.6611890534239982e-05
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,43297,504,0.95 [0.79-1.14],0.5859866091524046
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Nasal polyp,41069,186,0.84 [0.60-1.17],0.294384242907484
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,42887,1589,0.91 [0.82-1.01],0.0762611364148119
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Other diseases of pleura,42924,3297,0.92 [0.86-0.99],0.035056178967271
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,42292,1409,0.88 [0.78-0.98],0.025316896372352
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Other pleural conditions,39710,83,1.06 [0.69-1.62],0.7798938065936165
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,43151,680,0.98 [0.84-1.15],0.8431812292323269
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,43138,2159,0.90 [0.83-0.99],0.0333105611048789
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Pleural effusion,41244,1617,0.91 [0.81-1.01],0.070381338962758
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Pleural plaque,39890,263,1.01 [0.79-1.29],0.9453864668023764
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",42519,2674,0.90 [0.83-0.98],0.0160341403905232
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,43186,393,0.92 [0.74-1.14],0.4400895223325739
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Pneumothorax,39832,205,0.93 [0.69-1.25],0.6127904730505837
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Pollen allergy,43279,398,0.97 [0.79-1.19],0.7850990029687851
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Pulmonary oedema,42583,112,0.97 [0.66-1.42],0.8641882261498055
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Respiratory insufficiency,29613,89,0.64 [0.38-1.09],0.1034905327650766
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,42853,1555,0.91 [0.81-1.01],0.0778169185072135
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,41354,471,0.93 [0.77-1.13],0.4915813815833552
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Viral pneumonia,40254,409,1.01 [0.83-1.22],0.9560318827300884
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",42674,338,1.09 [0.88-1.33],0.4292961649565222
+EXTL1,Exostosin-like 1,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,20022,179,0.71 [0.50-1.02],0.0629521885372547
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,30688,109,1.08 [0.75-1.55],0.6873275556076772
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Acute appendicitis,43043,242,1.07 [0.83-1.36],0.6103953493915861
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Acute gastritis,32670,142,0.90 [0.63-1.29],0.5535461517324336
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Acute pancreatitis,40237,312,0.77 [0.60-1.01],0.0555251649969887
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Acute peritonitis,42540,150,1.00 [0.72-1.39],0.9841422883776154
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Alcoholic liver disease,41817,121,0.71 [0.46-1.09],0.1203625760578302
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Barrett oesophagus,33252,724,1.01 [0.87-1.17],0.8649548817351919
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",40095,170,0.74 [0.51-1.06],0.0979048701063143
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",42623,170,0.75 [0.52-1.07],0.111033422184047
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Cholecystitis,40257,332,0.95 [0.76-1.19],0.6694819883649323
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Cholelithiasis,41609,1684,0.87 [0.78-0.97],0.0111998859985839
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Chronic gastritis,33029,501,1.01 [0.85-1.21],0.8886580164348317
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Chronic pancreatitis,40007,82,0.65 [0.38-1.12],0.1193262638814125
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",43081,178,1.08 [0.81-1.43],0.6025830935771254
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Coeliac disease,40633,200,1.18 [0.92-1.52],0.191670945549905
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Collagenous colitis,40499,136,1.06 [0.77-1.48],0.7129257032938381
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,43050,319,1.07 [0.86-1.32],0.5477677177240854
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Constipation,42899,2723,0.92 [0.85-1.00],0.0585263686301238
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Crohn disease,40509,146,1.24 [0.94-1.64],0.1225380956759272
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",42724,105,1.27 [0.93-1.75],0.1327757246190817
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Crohn's disease NAS,40501,138,1.32 [1.02-1.72],0.0358771737872742
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Dental caries,42077,386,0.76 [0.60-0.96],0.0203510448834934
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,38913,3688,0.98 [0.92-1.05],0.6239728899581845
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Diseases of appendix,43107,306,1.00 [0.80-1.26],0.9752716302795424
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Diseases of liver,43120,1424,0.85 [0.76-0.96],0.0063523978521018
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",39681,7153,0.94 [0.90-0.99],0.0183723810157594
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",42618,927,0.83 [0.72-0.96],0.0120163432731227
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Diseases of peritoneum,43175,785,1.00 [0.86-1.15],0.9574004360982854
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,41881,190,0.63 [0.44-0.90],0.01211374369537
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Diseases of salivary glands,41642,106,0.88 [0.58-1.34],0.5575643095243914
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Diseases of the digestive system,42804,2371,0.94 [0.87-1.03],0.1742291261361802
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Diseases of tongue,41658,184,0.99 [0.73-1.33],0.9366716564950056
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",42288,2363,0.86 [0.78-0.94],0.0006920680166323
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,35872,5293,0.88 [0.83-0.93],2.587799883810646e-05
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Duodenal ulcer,32857,329,1.14 [0.93-1.39],0.1992879372519757
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",43173,261,1.11 [0.88-1.40],0.3942856635844303
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,43173,92,1.14 [0.79-1.66],0.4880728214453889
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,41910,214,1.01 [0.77-1.32],0.96071212367156
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,30826,247,1.15 [0.91-1.44],0.2504631523069997
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Functional dyspepsia,33448,920,0.95 [0.83-1.09],0.4723972806480954
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Gastric ulcer,33134,606,0.84 [0.70-1.01],0.0582846218345469
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,36681,4153,0.94 [0.88-1.00],0.0638541358767981
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,33427,899,0.97 [0.85-1.11],0.6701950052776562
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,33551,13827,0.92 [0.89-0.95],3.7804123184654927e-06
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,GI-bleeding,42354,1921,0.93 [0.84-1.02],0.1214540308533355
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,41795,104,0.81 [0.52-1.26],0.3590135546576675
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,32181,2082,0.97 [0.89-1.06],0.5259565721911568
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",41798,102,0.77 [0.48-1.21],0.2551087568878436
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Hernia,40597,5372,0.98 [0.93-1.04],0.5553155306357558
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Impacted teeth,43184,86,1.13 [0.76-1.67],0.5425717870448066
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Impaction of intestines,30671,92,0.86 [0.54-1.35],0.5023945661927027
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Inguinal hernia,36733,1508,0.92 [0.82-1.03],0.136929558571829
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",35391,166,0.76 [0.53-1.09],0.1353125935338362
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,30741,162,0.79 [0.55-1.13],0.1954237634116193
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Intestinal malabsorption,40671,238,1.12 [0.88-1.42],0.3504234314861479
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,31510,931,0.96 [0.84-1.10],0.593154796888709
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,43272,611,0.89 [0.75-1.06],0.1840868598722044
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,41624,1261,0.89 [0.79-1.00],0.0565844310836
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,42038,1675,0.92 [0.83-1.02],0.1287428671896699
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Oesophageal obstruction,32836,308,0.84 [0.65-1.08],0.1772884136409293
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Oesophagitis,33541,1013,0.92 [0.80-1.05],0.2044988971979251
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,43234,229,0.78 [0.58-1.06],0.1156978876764117
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,35338,113,0.78 [0.51-1.20],0.2588563253661633
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,32869,2290,0.98 [0.90-1.06],0.6022737937980236
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,40390,465,0.73 [0.59-0.91],0.005389859627766
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,40185,260,0.83 [0.63-1.09],0.1830488950248888
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Other diseases of intestine,33508,2929,0.93 [0.86-1.00],0.0639895153324105
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Other diseases of intestines,39952,9373,0.94 [0.90-0.98],0.002711904791857
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,41633,348,0.79 [0.62-1.01],0.0575226798097743
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Other diseases of liver,42857,1161,0.89 [0.78-1.01],0.064085716128061
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,33636,1108,0.94 [0.83-1.07],0.3760896415484628
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Other diseases of pancreas,40171,246,0.82 [0.61-1.09],0.1651573456578198
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,43065,675,1.00 [0.85-1.16],0.9653809438941172
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,34118,1590,0.89 [0.79-0.99],0.0271743632600891
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,42379,1946,0.92 [0.84-1.02],0.1047866295328447
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,41986,295,0.96 [0.75-1.22],0.7161332799600941
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,33381,2802,0.92 [0.84-0.99],0.0299480267731402
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),35852,3324,0.94 [0.87-1.01],0.0865482525845326
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,41863,167,0.87 [0.62-1.22],0.4163269588457772
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,41837,1474,0.92 [0.82-1.02],0.1142952282603466
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",31147,568,0.98 [0.82-1.16],0.7874287487624716
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,43156,109,1.09 [0.76-1.56],0.6319939809617843
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,31394,815,0.93 [0.80-1.08],0.3357346399187599
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",40695,262,0.88 [0.67-1.15],0.3560203648677902
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Recurring oral aphthae,43298,98,0.75 [0.47-1.20],0.2252211517406078
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,41699,200,0.93 [0.69-1.25],0.6253005850145898
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Toxic colitis,40453,90,1.00 [0.65-1.53],0.996863971944838
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,32986,458,0.82 [0.66-1.01],0.0642462327336422
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Ulcerative colitis,40626,263,0.87 [0.67-1.14],0.32687865045581
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",40581,218,0.83 [0.61-1.12],0.2146561935898294
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Umbilical hernia,35666,441,0.91 [0.74-1.12],0.3748590939256849
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,30873,294,0.87 [0.68-1.12],0.2939084631810911
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Ventral hernia,35650,425,1.11 [0.93-1.33],0.2356139914266299
+EXTL1,Exostosin-like 1,Chapter XI Diseases of the digestive system,Volvulus,30712,133,0.68 [0.45-1.04],0.0757997355103604
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,43192,476,0.86 [0.70-1.06],0.151849618541745
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,42785,133,0.89 [0.61-1.29],0.5372787159079797
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,39948,273,0.96 [0.74-1.23],0.725008131671862
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,42241,1165,0.93 [0.83-1.06],0.2835778820231835
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",41372,296,1.01 [0.80-1.27],0.956308119996092
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,40304,629,0.82 [0.69-0.99],0.0355773009113502
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,42804,461,0.89 [0.73-1.09],0.2673356354846348
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,43142,799,0.84 [0.72-0.98],0.0316351124292914
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,42422,79,1.11 [0.74-1.68],0.6076471274378543
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,40691,5298,0.95 [0.90-1.00],0.0726665299843364
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,42549,738,0.95 [0.82-1.11],0.5203344920737376
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,42325,514,0.97 [0.81-1.16],0.7320560220031705
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,42648,1572,0.94 [0.85-1.05],0.289344114220935
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",43290,91,1.25 [0.88-1.78],0.2155478767940354
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,39784,109,0.90 [0.60-1.35],0.600111704683749
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,41901,90,1.01 [0.67-1.53],0.9511649991183332
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,42786,443,0.91 [0.75-1.12],0.377358405711385
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,40431,756,0.96 [0.82-1.12],0.583589179809351
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,39788,113,1.03 [0.71-1.50],0.8814680233533441
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,43180,134,1.04 [0.75-1.46],0.8106801086187481
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,41367,291,1.04 [0.83-1.31],0.7096970608916947
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,42973,321,0.97 [0.78-1.22],0.8256652467719863
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,42439,96,0.62 [0.37-1.04],0.0685663935493927
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,39781,106,0.96 [0.65-1.44],0.8506892518916523
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,42351,2676,0.95 [0.88-1.03],0.2409973877283839
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",40499,824,0.99 [0.86-1.14],0.8514371424024082
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,39793,118,1.01 [0.69-1.46],0.9746509577842436
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,43170,518,0.96 [0.80-1.15],0.6352929794355353
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,42463,120,0.87 [0.58-1.29],0.4847327799451747
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,43076,424,0.90 [0.73-1.11],0.3390826998001234
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,43233,517,0.86 [0.71-1.05],0.1370173286170458
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,39892,217,0.87 [0.64-1.17],0.3485168622872711
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,40117,442,0.93 [0.76-1.14],0.4752918598302555
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,43217,501,0.86 [0.71-1.05],0.1463994515603152
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",40047,372,1.08 [0.88-1.31],0.459803740017441
+EXTL1,Exostosin-like 1,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,43269,223,0.94 [0.71-1.24],0.647758628837404
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,37135,183,0.79 [0.56-1.11],0.1706059744215146
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,39418,9402,1.01 [0.97-1.05],0.6112831868349599
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,37079,7063,1.02 [0.97-1.07],0.4112234409487981
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,37082,130,0.92 [0.64-1.34],0.6728115940048796
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,37592,253,0.79 [0.59-1.06],0.1132351958216962
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,37638,299,1.08 [0.87-1.35],0.4712504224303829
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,42900,151,1.24 [0.94-1.63],0.1291007662476981
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",37506,167,0.72 [0.50-1.04],0.0839813947875701
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,31930,1914,1.03 [0.94-1.13],0.512727313808867
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",43079,323,0.93 [0.74-1.18],0.5658915309789925
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,38054,715,1.01 [0.87-1.17],0.9161323664931094
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,36605,12117,1.00 [0.96-1.03],0.8734923700752382
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,40033,194,0.77 [0.56-1.08],0.1272780901118209
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,37201,249,1.24 [1.00-1.53],0.0450311868881454
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,37920,968,1.02 [0.90-1.16],0.741004246980907
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,41747,4408,1.01 [0.95-1.07],0.8674024751361002
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,37420,468,0.93 [0.77-1.13],0.4704402335651866
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,37333,381,1.06 [0.87-1.28],0.5802384398099293
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,37186,234,0.79 [0.59-1.07],0.1319498681106076
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,42201,121,0.74 [0.49-1.14],0.1722515339287759
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,32826,2810,1.04 [0.97-1.12],0.2676132519915485
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,30988,972,0.97 [0.85-1.11],0.6330064290740465
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",43193,956,0.95 [0.83-1.09],0.4978348556513224
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,30142,126,1.03 [0.73-1.46],0.8645884710812833
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),30579,563,1.10 [0.94-1.29],0.222972522361522
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,37464,512,1.04 [0.88-1.24],0.6481198893142103
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,31085,1069,1.03 [0.91-1.16],0.6286582727485974
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,37427,88,1.20 [0.83-1.74],0.3264872799530039
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,38386,1047,0.91 [0.80-1.04],0.1614393889757875
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,37841,502,0.87 [0.71-1.06],0.1572793017312241
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,31012,996,1.02 [0.90-1.16],0.7163493493268744
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,37080,128,0.98 [0.68-1.40],0.8944131805199276
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",37053,101,1.10 [0.76-1.60],0.604540689527441
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,39954,115,1.18 [0.86-1.63],0.3023872625200833
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,42673,2834,0.87 [0.80-0.94],0.0007765197250001
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,41701,1862,0.84 [0.76-0.93],0.0009968913514925
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",43072,753,1.00 [0.86-1.15],0.9653696007348068
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,34170,4154,1.02 [0.96-1.08],0.5749423180168408
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,30118,102,0.85 [0.55-1.32],0.4705746305691071
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,37104,152,1.26 [0.96-1.65],0.0950223300835206
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,30107,91,1.20 [0.83-1.72],0.3266230233133902
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),30226,210,1.22 [0.96-1.55],0.0962390059272385
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,40246,407,0.98 [0.80-1.20],0.8484604348729299
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,40451,612,0.81 [0.68-0.98],0.0266974924469886
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,43266,162,0.85 [0.60-1.20],0.3601776259076167
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",40332,2993,0.97 [0.90-1.04],0.4155029738643958
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,37118,166,1.21 [0.92-1.59],0.170961120926228
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),30250,234,1.11 [0.87-1.42],0.3988654868821027
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,38549,1210,0.98 [0.87-1.10],0.7267031714557104
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,33608,3592,1.02 [0.96-1.09],0.4905979329426798
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,42237,157,0.93 [0.67-1.30],0.6829671790188132
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,43288,127,0.75 [0.50-1.14],0.1782800093948721
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,37088,136,0.96 [0.67-1.37],0.8278165090158792
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",39028,2076,1.02 [0.94-1.11],0.6386313609088262
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,37096,144,1.26 [0.95-1.65],0.1042206910170171
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,32719,2703,0.99 [0.91-1.07],0.7160724008511559
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,40034,195,0.95 [0.70-1.27],0.7126644393206347
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,37038,86,1.20 [0.83-1.75],0.3331243072999478
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,37604,265,1.04 [0.81-1.32],0.7756066159144208
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,37852,900,1.00 [0.87-1.14],0.9835518431580016
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,42688,608,0.94 [0.79-1.11],0.4530264619001711
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,38294,955,0.99 [0.87-1.13],0.8947230937720809
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,43092,733,1.00 [0.87-1.16],0.963801231373028
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,43284,90,0.56 [0.32-0.96],0.0341792314459387
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,37272,320,1.09 [0.88-1.34],0.4508872249760426
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,34267,1250,0.88 [0.78-1.00],0.0432256265968156
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,37917,965,0.99 [0.87-1.13],0.91850485256272
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],37342,390,0.84 [0.67-1.06],0.1350684829558022
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",30112,96,1.15 [0.80-1.66],0.4512073470901052
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,34151,4135,0.99 [0.93-1.06],0.871563281654986
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,31105,1089,1.02 [0.91-1.15],0.7318205687736227
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,42469,389,0.92 [0.74-1.14],0.4383896440895656
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",43206,102,0.84 [0.54-1.30],0.437268109942065
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",39710,82,1.19 [0.80-1.77],0.3798049326949767
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,30146,130,0.76 [0.50-1.14],0.1801513455247583
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,37506,167,0.97 [0.71-1.34],0.8624296806163305
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,30779,763,1.00 [0.86-1.16],0.9860596950631538
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,37470,518,0.96 [0.80-1.15],0.6697023568820168
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,37762,423,0.86 [0.70-1.07],0.1817594327301803
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,37643,304,0.89 [0.70-1.14],0.3736128976083593
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,33881,101,1.05 [0.72-1.55],0.788104639300522
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",43290,96,0.63 [0.38-1.04],0.0720105711396812
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,37942,990,0.98 [0.86-1.11],0.7461356256344156
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],42242,162,0.95 [0.69-1.31],0.7482460165101721
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,41278,4326,1.03 [0.97-1.10],0.2985160507989167
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",37174,222,1.19 [0.94-1.50],0.1497143623339772
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,38226,887,1.06 [0.93-1.21],0.3445262777175925
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,40926,388,1.05 [0.86-1.28],0.6326588999433482
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,37667,328,1.07 [0.87-1.33],0.5161894509541989
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,39901,2562,0.99 [0.92-1.08],0.890709052095583
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,39011,1672,0.99 [0.90-1.09],0.818237628050214
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],37039,87,1.31 [0.93-1.85],0.124262719278261
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,42321,241,0.75 [0.56-1.01],0.0620411833449666
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,37231,279,1.10 [0.88-1.38],0.4016962369368604
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,37082,130,1.31 [0.99-1.73],0.0571269679683864
+EXTL1,Exostosin-like 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),30108,92,0.94 [0.60-1.45],0.7689788396511121
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Acute renal failure,41760,2508,0.95 [0.88-1.03],0.2455159004390165
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),17527,85,0.99 [0.65-1.53],0.9815629843549268
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,22857,97,1.24 [0.90-1.72],0.1907466509698638
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,42786,528,1.04 [0.88-1.23],0.6503702057798683
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,42404,146,0.92 [0.65-1.32],0.6618016347154507
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,41510,2258,1.03 [0.95-1.12],0.5243378754082235
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,42986,103,1.07 [0.74-1.56],0.719641079659473
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,42956,482,1.01 [0.84-1.21],0.9224263434963949
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Cystitis,38237,380,0.88 [0.71-1.10],0.259535071022845
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Dialysis,39360,108,1.42 [1.08-1.87],0.0111782561461109
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,18818,2749,0.93 [0.86-1.01],0.1004606190348095
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Disorders of breast,23040,280,1.21 [0.99-1.48],0.0678650649728259
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Endometriosis,17590,148,0.98 [0.70-1.35],0.8806316241454993
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",17776,334,0.83 [0.66-1.05],0.1216833439796548
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,18302,860,0.92 [0.80-1.06],0.2494068182558718
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,36152,8835,0.94 [0.90-0.98],0.006231601118655
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,43004,121,1.20 [0.88-1.65],0.2462790870097236
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Hydrocele,16244,175,1.05 [0.78-1.41],0.7511365480238424
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,39210,464,0.88 [0.72-1.08],0.2102659994796567
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,18218,2149,0.95 [0.87-1.04],0.2715266222045151
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,22978,339,0.90 [0.72-1.13],0.3746720148763828
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),16266,197,0.97 [0.72-1.30],0.817732654564529
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Irregular menses,23056,107,0.82 [0.54-1.25],0.3559324188874305
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Menorrhagia,17705,263,0.89 [0.69-1.15],0.3784902339514437
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,37984,127,0.80 [0.54-1.19],0.2764734808479098
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,19514,2072,0.88 [0.80-0.96],0.0054904102904561
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,16168,99,0.76 [0.47-1.22],0.2538926361768074
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,17557,115,0.72 [0.47-1.11],0.1392250276334672
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",43304,108,0.99 [0.67-1.46],0.946399504595604
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",43304,106,1.01 [0.69-1.49],0.9540989271990444
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,41559,3702,0.90 [0.84-0.97],0.004357049544246
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,39062,1205,0.94 [0.83-1.06],0.2958312889668616
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,22858,98,0.95 [0.63-1.43],0.8059499250408375
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,43218,744,0.95 [0.82-1.11],0.5065525180442865
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,16327,258,0.84 [0.63-1.11],0.2193504066018132
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,16306,237,0.61 [0.44-0.85],0.0032238834995661
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,16257,188,0.76 [0.54-1.07],0.1216396082840925
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,43259,117,1.09 [0.77-1.54],0.6149036184512789
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,40677,2820,0.89 [0.82-0.96],0.0033441337422755
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,22814,175,0.75 [0.53-1.06],0.104037705073008
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,17577,135,0.89 [0.62-1.28],0.5244627417951199
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",17773,331,0.89 [0.71-1.12],0.3194514332002491
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,17539,97,0.65 [0.39-1.06],0.0833554635608576
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,17616,174,0.92 [0.68-1.27],0.62472854376043
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,39287,541,0.89 [0.74-1.07],0.2116328475655454
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,42720,246,0.85 [0.64-1.13],0.2662355549658968
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,17702,260,0.86 [0.66-1.13],0.2753391828805108
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,17532,90,0.48 [0.28-0.84],0.0098267743502607
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,17979,537,0.74 [0.61-0.90],0.0031358890141168
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,17579,137,0.78 [0.53-1.16],0.2195339327112874
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,17937,495,0.90 [0.75-1.09],0.2866947131924123
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,42970,87,0.94 [0.60-1.47],0.7830597503318483
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",16289,220,1.10 [0.85-1.42],0.4764068973843849
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,42966,4220,0.96 [0.90-1.02],0.2282416526629879
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",38941,195,0.94 [0.70-1.27],0.7001260051886882
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,39439,187,0.93 [0.69-1.26],0.6463052326420737
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,42352,94,0.82 [0.52-1.31],0.4151441890593399
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Urethral stricture,38231,374,0.84 [0.67-1.05],0.1316530825563852
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Urolithiasis,42921,663,0.98 [0.83-1.14],0.7705169939594884
+EXTL1,Exostosin-like 1,Chapter XIV Diseases of the genitourinary system,Uterine polyps,17560,118,0.87 [0.59-1.29],0.4849047614891806

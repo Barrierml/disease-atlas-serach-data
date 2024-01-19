@@ -1,0 +1,67 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+CRNN,Cornulin,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),21596,4189,0.96 [0.92-1.00],0.042571748289753
+CRNN,Cornulin,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,14587,2684,0.95 [0.90-1.00],0.0481627752583273
+CRNN,Cornulin,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,22464,36,1.51 [1.01-2.26],0.0465510924918686
+CRNN,Cornulin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,21930,70,0.73 [0.54-0.98],0.0384772909848798
+CRNN,Cornulin,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,21030,212,1.26 [1.06-1.50],0.0086617861653164
+CRNN,Cornulin,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,15354,686,0.90 [0.82-1.00],0.0459638408388421
+CRNN,Cornulin,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,15543,875,0.91 [0.83-0.99],0.0298624275365652
+CRNN,Cornulin,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,20930,6262,0.96 [0.93-0.99],0.0168426266085993
+CRNN,Cornulin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,19816,179,0.79 [0.66-0.95],0.0144389496320614
+CRNN,Cornulin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,2386,76,1.47 [1.14-1.89],0.0026337847722918
+CRNN,Cornulin,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,21713,2076,0.85 [0.80-0.90],8.543676233734281e-09
+CRNN,Cornulin,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,21431,613,1.18 [1.06-1.31],0.0017918698713088
+CRNN,Cornulin,Chapter IX Diseases of the circulatory system,Conduction disorders,17978,1519,0.92 [0.86-0.99],0.0166773529641775
+CRNN,Cornulin,Chapter IX Diseases of the circulatory system,"Heart failure, strict",22260,1632,0.93 [0.87-0.99],0.0262302854895052
+CRNN,Cornulin,Chapter IX Diseases of the circulatory system,"Hypertension, portal",22375,92,0.77 [0.59-1.00],0.0468812351723926
+CRNN,Cornulin,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",11836,258,0.83 [0.71-0.96],0.0156804177919801
+CRNN,Cornulin,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,11783,205,1.23 [1.03-1.46],0.0214682711350643
+CRNN,Cornulin,Chapter IX Diseases of the circulatory system,Left bundle-branch block,16974,515,0.87 [0.77-0.97],0.0121584547258366
+CRNN,Cornulin,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,21784,521,0.82 [0.73-0.91],0.0002989092686169
+CRNN,Cornulin,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,9052,411,0.86 [0.76-0.98],0.0232321457359672
+CRNN,Cornulin,Chapter IX Diseases of the circulatory system,Secondary right heart disease,21778,515,0.81 [0.73-0.91],0.0002918655428044
+CRNN,Cornulin,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",22021,893,0.91 [0.84-0.99],0.0366600735672986
+CRNN,Cornulin,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",22006,933,0.91 [0.84-0.99],0.0360016169808451
+CRNN,Cornulin,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",22463,325,1.15 [1.00-1.33],0.0477099550514762
+CRNN,Cornulin,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",22434,382,1.20 [1.06-1.37],0.0055029837667117
+CRNN,Cornulin,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,20735,73,1.36 [1.02-1.81],0.034195687048277
+CRNN,Cornulin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,22295,265,0.81 [0.70-0.95],0.0083796952424274
+CRNN,Cornulin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",2390,77,1.41 [1.09-1.82],0.0081322231864735
+CRNN,Cornulin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,21435,153,1.29 [1.05-1.57],0.0148805447134867
+CRNN,Cornulin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,21835,80,0.69 [0.53-0.90],0.0059953910417183
+CRNN,Cornulin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),21959,204,1.20 [1.00-1.43],0.0468855785795781
+CRNN,Cornulin,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,22404,115,0.76 [0.60-0.96],0.0230656575914507
+CRNN,Cornulin,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,21316,90,1.40 [1.08-1.81],0.0113122041268754
+CRNN,Cornulin,Chapter X Diseases of the respiratory system,Bronchiectasis,18905,503,0.87 [0.77-0.97],0.0142482796903698
+CRNN,Cornulin,Chapter X Diseases of the respiratory system,Chronic sinusitis,21427,130,0.75 [0.61-0.94],0.0114679797619644
+CRNN,Cornulin,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,20451,5957,0.97 [0.93-1.00],0.0480385190445726
+CRNN,Cornulin,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,21269,440,0.75 [0.66-0.84],1.5520617758890304e-06
+CRNN,Cornulin,Chapter X Diseases of the respiratory system,Interstitial lung disease,21310,481,0.77 [0.68-0.86],5.202009681818419e-06
+CRNN,Cornulin,Chapter X Diseases of the respiratory system,Other diseases of pleura,22253,2625,0.93 [0.89-0.98],0.0056105328742216
+CRNN,Cornulin,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,22016,719,0.89 [0.81-0.98],0.0230425027355574
+CRNN,Cornulin,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,22422,579,0.82 [0.74-0.91],0.0001555211772019
+CRNN,Cornulin,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,22414,1670,0.92 [0.87-0.98],0.0112375021931569
+CRNN,Cornulin,Chapter X Diseases of the respiratory system,Pleural plaque,19876,248,0.84 [0.71-0.99],0.0377765524539092
+CRNN,Cornulin,Chapter XI Diseases of the digestive system,Cholecystitis,20566,218,0.82 [0.69-0.97],0.0212498715676583
+CRNN,Cornulin,Chapter XI Diseases of the digestive system,Cholelithiasis,21368,1020,0.92 [0.85-1.00],0.0475034532277223
+CRNN,Cornulin,Chapter XI Diseases of the digestive system,Crohn's disease NAS,20814,76,0.75 [0.57-0.99],0.0453953383851452
+CRNN,Cornulin,Chapter XI Diseases of the digestive system,Diseases of liver,22420,908,0.90 [0.82-0.98],0.0120363897449717
+CRNN,Cornulin,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,16216,635,1.11 [1.00-1.23],0.04396728930912
+CRNN,Cornulin,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,22509,337,0.84 [0.73-0.96],0.0102328481269306
+CRNN,Cornulin,Chapter XI Diseases of the digestive system,Other diseases of liver,22264,752,0.86 [0.79-0.95],0.001630155355292
+CRNN,Cornulin,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",22521,58,0.66 [0.48-0.91],0.0106570858050774
+CRNN,Cornulin,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,22449,328,0.82 [0.72-0.95],0.0064519122698288
+CRNN,Cornulin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,20054,117,0.72 [0.58-0.90],0.0040125323663018
+CRNN,Cornulin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,22117,2180,0.94 [0.89-0.99],0.0223151859914168
+CRNN,Cornulin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,21459,1522,0.94 [0.88-1.00],0.0479761732585231
+CRNN,Cornulin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,22186,479,0.86 [0.76-0.96],0.0090040024499841
+CRNN,Cornulin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,18831,279,1.21 [1.04-1.40],0.0121574062369144
+CRNN,Cornulin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],21797,90,0.73 [0.56-0.94],0.0157377906490053
+CRNN,Cornulin,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,21137,2267,1.11 [1.05-1.17],0.0001750047079286
+CRNN,Cornulin,Chapter XIV Diseases of the genitourinary system,Dialysis,18960,90,1.42 [1.11-1.82],0.0051086816507106
+CRNN,Cornulin,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,9566,572,1.31 [1.18-1.46],9.641081798840205e-07
+CRNN,Cornulin,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),7961,122,1.33 [1.06-1.66],0.0134907034857329
+CRNN,Cornulin,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,10003,1009,1.20 [1.11-1.30],1.0646861786855291e-05
+CRNN,Cornulin,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,9033,39,1.60 [1.09-2.34],0.0164382759745832
+CRNN,Cornulin,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,22046,193,0.82 [0.68-0.98],0.0292516091837543
+CRNN,Cornulin,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,9019,25,2.19 [1.44-3.32],0.0002526145937494

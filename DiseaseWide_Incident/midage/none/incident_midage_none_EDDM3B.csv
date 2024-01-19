@@ -1,0 +1,660 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",23882,84,0.76 [0.50-1.16],0.2042313504695183
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",24387,129,1.04 [0.75-1.45],0.8171167419619185
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",24172,891,0.91 [0.80-1.03],0.140266006643708
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Candidiasis,24409,266,0.90 [0.71-1.14],0.3887462369953226
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,23716,2411,0.93 [0.86-1.00],0.0624606015618597
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),23940,1825,0.93 [0.85-1.02],0.1180759495609936
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,24228,864,0.94 [0.83-1.07],0.3734874755342473
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,24340,38,1.30 [0.73-2.29],0.3702746496162502
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,23293,562,1.02 [0.88-1.19],0.7865447850565548
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,22504,532,0.89 [0.75-1.05],0.1512216774065385
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,22722,148,0.80 [0.58-1.10],0.1675805658816583
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,18146,1063,0.92 [0.82-1.03],0.1669740241946306
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,22526,249,0.75 [0.58-0.96],0.0250752171638921
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,24373,1009,0.95 [0.84-1.07],0.417969885015882
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Mycoses,24467,324,0.90 [0.73-1.12],0.3405774831675792
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,23825,544,1.00 [0.85-1.17],0.9726419441581898
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,24415,617,1.01 [0.87-1.17],0.8807998485060066
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,23495,131,1.06 [0.77-1.47],0.7077661993782924
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,24509,29,0.94 [0.47-1.90],0.8666484599052617
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Other septicaemia,24342,544,1.05 [0.90-1.23],0.5071724660105943
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,24367,65,0.89 [0.54-1.45],0.6374041819433391
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Other viral diseases,24419,151,0.77 [0.55-1.08],0.1255948147168083
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",24404,136,0.76 [0.53-1.08],0.1278800628159256
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,23584,303,0.86 [0.70-1.07],0.1825734967130656
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,23490,209,0.74 [0.56-0.98],0.036778564490414
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,23429,65,1.06 [0.67-1.69],0.7929833548535441
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,24482,46,1.42 [0.88-2.29],0.155279203775034
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,24453,115,0.73 [0.50-1.06],0.0999610299565692
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Viral warts,24377,39,0.76 [0.40-1.44],0.4014189323793837
+EDDM3B,Epididymal secretory protein E3-beta,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],24382,44,0.77 [0.41-1.44],0.408972027649975
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Benign lipomatous neoplasm,24248,278,1.23 [1.00-1.50],0.0462702346997369
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,24432,64,1.54 [1.04-2.27],0.030095551371922
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,24403,67,0.92 [0.58-1.46],0.7333470801657972
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,10950,37,1.31 [0.82-2.09],0.2635369377302407
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",24328,1030,0.94 [0.84-1.06],0.3044664854961561
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Benign neoplasm of meninges,24497,44,0.82 [0.44-1.56],0.5514621405123954
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,24477,49,1.07 [0.65-1.78],0.7789111334210848
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,24487,78,1.28 [0.87-1.90],0.2144091788898453
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Benign neoplasm of ovary,13502,86,0.85 [0.51-1.41],0.5233800676201754
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Benign neoplasm: Ascending colon,24501,245,0.89 [0.71-1.13],0.3379937770568841
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Benign neoplasm: Caecum,24497,185,0.91 [0.69-1.20],0.5174043633189116
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",24442,48,1.07 [0.63-1.84],0.7956674462790736
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Benign neoplasm: Descending colon,24504,157,1.03 [0.78-1.36],0.8272364713306958
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Benign neoplasm: Rectum,24468,258,1.05 [0.85-1.31],0.6399445958373909
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,24438,476,0.81 [0.68-0.96],0.0152962406945582
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Benign neoplasm: Transverse colon,24502,271,1.12 [0.91-1.38],0.2732757865525157
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Carcinoma in situ of breast,11571,75,1.49 [0.99-2.24],0.0551287027599865
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",11611,85,1.12 [0.70-1.80],0.6293471660454155
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",21126,29,0.67 [0.33-1.34],0.258180541448213
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",21132,35,0.70 [0.35-1.37],0.2925704435394843
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",24468,96,0.78 [0.51-1.18],0.230833231740051
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Haemangioma, any site",24468,94,0.72 [0.47-1.10],0.1291703561193729
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Leiomyoma of uterus,12940,359,0.95 [0.75-1.21],0.6802732757161503
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Lung cancer and mesothelioma,18170,158,1.90 [1.49-2.42],2.405814955903657e-07
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Lymphoid leukaemia,21124,27,0.48 [0.22-1.04],0.0611661851258756
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",21230,133,1.05 [0.76-1.44],0.7757078170580107
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",21174,77,1.01 [0.68-1.50],0.9517016036714568
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",11661,71,0.75 [0.43-1.32],0.3209896743395415
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",21142,45,0.99 [0.57-1.70],0.9622433704274076
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",21150,53,0.81 [0.49-1.35],0.4293982083260175
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",21161,64,0.72 [0.46-1.13],0.148896144155597
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",11639,49,1.41 [0.83-2.42],0.2067962978212874
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",21151,54,1.04 [0.61-1.75],0.8949811372938752
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",9864,357,0.99 [0.84-1.18],0.9476100015210228
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",21183,86,0.71 [0.47-1.06],0.0959969956373392
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",21145,48,0.69 [0.40-1.20],0.1879810144254085
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,21153,56,1.26 [0.81-1.96],0.302399939809763
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Melanocytic naevi,24299,192,1.09 [0.83-1.42],0.5270695617505838
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Melanocytic naevi of trunk,24467,86,1.09 [0.74-1.60],0.664485594336476
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Melanoma in situ,21108,40,0.75 [0.40-1.41],0.3710065602555039
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",21152,55,0.80 [0.48-1.33],0.3871972706907952
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",21201,104,0.86 [0.59-1.24],0.4249719372271446
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",21203,106,1.01 [0.69-1.47],0.9739474857252524
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",21156,59,0.88 [0.53-1.46],0.6243347815508752
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,Other benign neoplasms of skin,24349,134,0.92 [0.66-1.29],0.6269998695970675
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",21666,569,1.08 [0.94-1.26],0.2794995442266151
+EDDM3B,Epididymal secretory protein E3-beta,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",21696,599,1.10 [0.95-1.27],0.196099933555689
+EDDM3B,Epididymal secretory protein E3-beta,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,24252,265,0.86 [0.67-1.10],0.2162355075326051
+EDDM3B,Epididymal secretory protein E3-beta,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,23256,43,1.31 [0.77-2.21],0.3156184481846285
+EDDM3B,Epididymal secretory protein E3-beta,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,24054,67,0.41 [0.25-0.69],0.0006589658434238
+EDDM3B,Epididymal secretory protein E3-beta,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,23792,1957,0.89 [0.81-0.97],0.0085942553451318
+EDDM3B,Epididymal secretory protein E3-beta,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,23476,20,1.03 [0.47-2.22],0.9467132516316588
+EDDM3B,Epididymal secretory protein E3-beta,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,24201,28,0.53 [0.24-1.18],0.1196364682207817
+EDDM3B,Epididymal secretory protein E3-beta,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,24110,897,0.95 [0.84-1.08],0.4623869939050472
+EDDM3B,Epididymal secretory protein E3-beta,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,24110,897,0.95 [0.84-1.08],0.4623869939050472
+EDDM3B,Epididymal secretory protein E3-beta,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,23262,49,0.71 [0.39-1.28],0.252716587925249
+EDDM3B,Epididymal secretory protein E3-beta,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,24262,806,0.86 [0.74-0.98],0.0297431645721456
+EDDM3B,Epididymal secretory protein E3-beta,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,24266,93,1.12 [0.77-1.63],0.5552576027576481
+EDDM3B,Epididymal secretory protein E3-beta,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,24036,49,1.04 [0.63-1.71],0.8842420255272024
+EDDM3B,Epididymal secretory protein E3-beta,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,24026,39,1.06 [0.58-1.94],0.8619143297294964
+EDDM3B,Epididymal secretory protein E3-beta,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,24340,167,0.66 [0.48-0.90],0.0094983642504707
+EDDM3B,Epididymal secretory protein E3-beta,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,24439,59,1.33 [0.84-2.10],0.2248009605207245
+EDDM3B,Epididymal secretory protein E3-beta,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",24316,143,0.64 [0.46-0.91],0.0116339919669425
+EDDM3B,Epididymal secretory protein E3-beta,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,23518,62,0.54 [0.31-0.95],0.0312737926946489
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,21029,180,0.85 [0.64-1.12],0.2505560305221084
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,22783,109,0.91 [0.65-1.29],0.6126741369071327
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,22799,125,0.74 [0.53-1.03],0.0753081220318423
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,20882,33,0.76 [0.39-1.51],0.4383474386236422
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,22742,64,0.94 [0.58-1.51],0.7927557889312503
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,22438,122,0.66 [0.45-0.96],0.0317475214064204
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",24380,146,1.21 [0.90-1.61],0.2032266606027941
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,24281,47,1.25 [0.75-2.09],0.3853857827121538
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,24265,31,1.18 [0.63-2.22],0.6099000044359006
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,24142,1464,0.98 [0.88-1.08],0.6788479652413161
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,21941,1424,0.96 [0.87-1.07],0.486307033286002
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",20888,39,0.68 [0.36-1.28],0.2352733501973429
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",23056,52,1.16 [0.69-1.97],0.5698024309298679
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,21015,166,1.19 [0.90-1.57],0.2267838831214254
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,20905,56,0.80 [0.49-1.33],0.3919953164529585
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,22976,2127,0.91 [0.84-0.99],0.0270482262224412
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,20957,108,0.60 [0.41-0.89],0.0108524436345094
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,21197,348,0.92 [0.75-1.12],0.3931274710556721
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,24422,230,1.20 [0.95-1.53],0.1258465158033218
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,24285,93,1.58 [1.14-2.21],0.0066472700881415
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,20941,92,0.73 [0.49-1.09],0.121669106329102
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",20884,35,0.99 [0.52-1.87],0.9718585534824926
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,24132,1128,0.96 [0.85-1.09],0.5395249944838908
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,20964,115,0.78 [0.55-1.12],0.177265494700445
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,20986,137,0.82 [0.59-1.12],0.205672980294485
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",21194,345,0.94 [0.77-1.15],0.543003162233874
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,20906,57,0.86 [0.52-1.41],0.5521483354636729
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,24280,88,1.62 [1.16-2.28],0.0049829618735153
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,21116,267,0.97 [0.78-1.22],0.7979999975186722
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,21124,275,0.86 [0.68-1.09],0.2231434258547573
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,22367,51,1.34 [0.83-2.17],0.2374431705585772
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,23883,3034,0.89 [0.83-0.95],0.0007552895608076
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,23031,27,0.89 [0.38-2.11],0.7999664319688056
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,23057,53,1.13 [0.67-1.92],0.648230833713398
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,24349,1711,1.03 [0.94-1.12],0.5887995179399321
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",24351,1707,1.02 [0.93-1.12],0.6449646038552703
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,23035,31,1.10 [0.52-2.36],0.7976566535038693
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,24220,1093,1.00 [0.88-1.12],0.9454655152726016
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",21646,797,0.84 [0.73-0.96],0.0113403049367674
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,24500,109,1.12 [0.79-1.59],0.5195766577197919
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,24264,30,0.96 [0.51-1.81],0.8954109549267303
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,23210,83,0.71 [0.44-1.12],0.1410075258357624
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,23228,101,1.00 [0.67-1.49],0.9912600521411284
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",20961,112,1.11 [0.76-1.61],0.583780358882622
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,22907,109,1.24 [0.90-1.71],0.1962920574467968
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,1526,59,0.90 [0.57-1.42],0.6426999512685738
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,1623,169,1.00 [0.77-1.31],0.9757597025617312
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,22835,37,0.78 [0.43-1.39],0.3899656784036887
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,1500,33,1.15 [0.66-2.00],0.6200190859392782
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,24147,1349,0.92 [0.84-1.02],0.1170261122953538
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,24295,61,1.01 [0.63-1.62],0.9765980397325318
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,22565,249,0.97 [0.74-1.26],0.816358067514335
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,21207,358,0.81 [0.66-1.00],0.0458961369784799
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",24429,150,1.17 [0.89-1.55],0.2596170553590122
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),23839,47,1.15 [0.73-1.82],0.5420764880254884
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Angina pectoris,23383,708,0.99 [0.87-1.13],0.8811638319546761
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Aortic aneurysm,23884,92,1.02 [0.72-1.43],0.9253728319334352
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,23822,30,0.63 [0.32-1.23],0.1734965645666857
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",23890,98,0.83 [0.57-1.20],0.3189338446605502
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,17397,816,0.99 [0.88-1.12],0.8535391342701788
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,AV-block,22293,164,1.03 [0.80-1.34],0.8073495724378731
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",24480,233,1.15 [0.92-1.44],0.2326487040209562
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Cardiac arrest,16677,96,1.00 [0.70-1.42],0.9922172480331254
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Cardiomyopathy,22248,119,1.09 [0.79-1.50],0.606725753088744
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",22205,76,0.85 [0.56-1.31],0.473898708051826
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,24511,14,0.97 [0.80-1.17],0.7383407451993094
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Conduction disorders,22607,478,1.01 [0.86-1.19],0.8642752143483454
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,23856,1191,0.95 [0.86-1.06],0.3538253231994279
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,22772,5391,0.94 [0.90-0.99],0.0232863828138791
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,DVT of lower extremities,23481,158,1.26 [0.96-1.63],0.0908874881995573
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Endocarditis,22170,41,0.92 [0.52-1.62],0.7713975013418051
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,"Heart failure, strict",24401,462,0.92 [0.77-1.09],0.3276388477728617
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Hypertension,23279,4386,0.94 [0.89-0.99],0.0276912537912417
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,"Hypertension, essential",23288,4395,0.94 [0.89-0.99],0.0271935632517488
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,"Hypertension, portal",24352,49,1.07 [0.66-1.73],0.7970385150036936
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",18975,82,0.78 [0.50-1.22],0.2743311263337478
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,18935,42,1.63 [1.02-2.61],0.040516427150859
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Hypotension,24419,610,0.86 [0.73-1.00],0.0482627628500649
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,24040,59,0.86 [0.53-1.38],0.5310865329845744
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",24008,1333,0.94 [0.85-1.04],0.2198595056952116
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",24314,279,0.99 [0.80-1.23],0.95207783450911
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Left bundle-branch block,22316,187,0.85 [0.65-1.12],0.2548271061065361
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,24287,537,0.98 [0.85-1.14],0.8172337366800337
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",23112,437,1.00 [0.85-1.18],0.9938938988666586
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",24462,105,1.06 [0.77-1.46],0.7079786139606918
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",24496,183,0.90 [0.69-1.18],0.4555941452224428
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Oesophageal varices,23354,31,0.86 [0.45-1.66],0.6554250586598696
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Other aneurysm,23835,43,1.40 [0.84-2.32],0.1923987390746163
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Other arrhythmias,22356,227,1.10 [0.87-1.39],0.4400846120839961
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,23854,62,0.61 [0.38-1.00],0.0480849810386251
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,23925,133,1.13 [0.83-1.53],0.4559683606950213
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,22244,115,1.03 [0.73-1.45],0.8800729484213863
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Other disorders of veins,23387,64,0.81 [0.50-1.32],0.4018910197198888
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,23369,46,0.82 [0.46-1.47],0.5020880730994133
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,23814,34,0.94 [0.53-1.69],0.8470169195952822
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,23405,82,0.83 [0.53-1.32],0.4326564897438328
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,22655,526,1.09 [0.94-1.27],0.2612163055291358
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,23850,41,0.80 [0.44-1.43],0.4452211672480847
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,24103,311,0.94 [0.76-1.17],0.6023328610417161
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,24106,139,0.68 [0.48-0.96],0.0287552749753681
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",23991,211,1.02 [0.80-1.31],0.8708195784095877
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,16797,216,0.93 [0.72-1.20],0.5750922489424842
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Peripheral artery disease,23956,186,0.70 [0.53-0.93],0.014352852357878
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),23541,218,1.14 [0.91-1.44],0.2554452745706897
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Pulmonary embolism,24266,299,1.08 [0.88-1.32],0.4542440061080975
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,24472,288,1.05 [0.85-1.30],0.6295484444243011
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Right bundle-branch block,22281,152,1.33 [1.03-1.71],0.0313830313818526
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Secondary right heart disease,24103,136,0.70 [0.50-0.99],0.0448513224482891
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,23884,104,1.17 [0.84-1.62],0.3646070863330987
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",24307,326,0.99 [0.81-1.20],0.9063580450225792
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",24284,359,0.98 [0.81-1.19],0.8629978759943275
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,24020,51,0.79 [0.45-1.37],0.397148918782528
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,23841,50,0.87 [0.53-1.41],0.5657973274519021
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Transient ischemic attack,24150,115,0.93 [0.66-1.31],0.6727891977163305
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,23910,160,0.94 [0.71-1.25],0.6675628787762267
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Varicose veins,23599,276,0.89 [0.71-1.12],0.3210502280568983
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,23802,46,1.07 [0.63-1.83],0.7937032335626819
+EDDM3B,Epididymal secretory protein E3-beta,Chapter IX Diseases of the circulatory system,Venous thromboembolism,24353,463,1.11 [0.95-1.31],0.1981355043474211
+EDDM3B,Epididymal secretory protein E3-beta,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",24364,331,0.86 [0.71-1.05],0.1439831195275559
+EDDM3B,Epididymal secretory protein E3-beta,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",21819,1257,0.99 [0.89-1.11],0.8752898408414015
+EDDM3B,Epididymal secretory protein E3-beta,Chapter V Mental and behavioural disorders,Any mental disorder,23829,3267,0.97 [0.91-1.04],0.4308365433570899
+EDDM3B,Epididymal secretory protein E3-beta,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",24308,385,0.91 [0.76-1.09],0.3257658183549063
+EDDM3B,Epididymal secretory protein E3-beta,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",22057,1495,0.96 [0.86-1.06],0.3928761863026417
+EDDM3B,Epididymal secretory protein E3-beta,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",20640,78,1.18 [0.78-1.77],0.4316220865036683
+EDDM3B,Epididymal secretory protein E3-beta,Chapter V Mental and behavioural disorders,Smoking dependency,24022,1369,1.01 [0.91-1.11],0.8929380362937065
+EDDM3B,Epididymal secretory protein E3-beta,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",22130,1568,0.98 [0.90-1.08],0.74339614654039
+EDDM3B,Epididymal secretory protein E3-beta,Chapter V Mental and behavioural disorders,Vascular dementia,24409,16,0.74 [0.30-1.80],0.5008072142986617
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Alzheimer disease,24510,64,1.13 [0.73-1.77],0.5798735484623556
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Bell's palsy,23021,67,0.76 [0.47-1.22],0.254404367057857
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,23384,430,1.12 [0.93-1.35],0.2265166690117996
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Cerebral cysts,24190,179,1.29 [0.99-1.66],0.0553182383130833
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,24432,202,1.01 [0.79-1.30],0.9387553816887624
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,24377,21,0.76 [0.31-1.87],0.5495725690374453
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,24499,50,1.06 [0.65-1.74],0.8192547630099851
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",24062,51,0.91 [0.55-1.51],0.7141005899903161
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Epilepsy,23125,234,1.15 [0.91-1.45],0.229246679071489
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,24077,1186,1.03 [0.93-1.15],0.5663583437656187
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,24482,166,0.93 [0.70-1.24],0.6221564615104831
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Falls/tendency to fall,24059,1481,0.99 [0.89-1.09],0.7931004408084851
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Generalized epilepsy,24175,47,1.13 [0.69-1.86],0.6213103435521072
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Hemiplegia,24378,148,1.06 [0.79-1.42],0.6889541311454173
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Hydrocephalus,24055,44,1.37 [0.84-2.22],0.2074137912146489
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,24489,62,0.69 [0.42-1.14],0.1479890649912722
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,23023,69,1.25 [0.77-2.03],0.3640741993140179
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,23027,73,1.24 [0.84-1.84],0.2755575494946126
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Memory loss,24378,67,0.74 [0.47-1.19],0.214359028498904
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Migraine,23266,375,1.01 [0.82-1.24],0.917877171637164
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",24432,338,1.02 [0.82-1.26],0.8909989196542953
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Motor neuron disease,17822,91,0.94 [0.64-1.37],0.7408355114940386
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,24316,133,0.95 [0.68-1.35],0.7909300151835621
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",23966,1012,0.97 [0.86-1.09],0.5941719897201625
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Neurological diseases,23213,2699,0.96 [0.89-1.03],0.2527507546883862
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,24424,68,0.98 [0.64-1.51],0.9351809077638192
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",23302,348,0.83 [0.68-1.03],0.0907305136915896
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",24448,206,0.87 [0.67-1.12],0.2770517438494903
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,20443,282,0.92 [0.73-1.16],0.4685155551922169
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,24064,53,0.76 [0.44-1.29],0.3110266972826385
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Other disorders of nervous system,24118,107,0.87 [0.61-1.25],0.4579099805233478
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,24387,71,0.74 [0.47-1.19],0.2183475217464219
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Other facial nerve disorders,23039,85,0.78 [0.52-1.19],0.2525367522218567
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Other headache syndromes,22946,55,0.93 [0.54-1.61],0.7952973122370313
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Other neurological diseases,24402,391,1.09 [0.91-1.31],0.3490270035149879
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Other sleep disorders,23414,523,1.03 [0.88-1.20],0.7098657001603094
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Parkinson's disease,24497,76,1.16 [0.79-1.69],0.443650159848076
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,24067,56,1.27 [0.76-2.10],0.3609729921651946
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Restless leg syndrome,24509,33,1.03 [0.51-2.06],0.9331442260394563
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Sleep apnoea,24291,455,1.04 [0.88-1.22],0.6654793501713726
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Small fibre neuropathy,24274,32,0.95 [0.51-1.76],0.8632677013216294
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,24494,116,0.75 [0.53-1.08],0.1226239225317204
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,22982,28,0.77 [0.34-1.71],0.5191005302415757
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,24510,65,1.17 [0.75-1.81],0.4932517960230995
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),24399,16,0.74 [0.30-1.80],0.5005265211304408
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,24080,36,1.26 [0.72-2.23],0.416327987917394
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,24186,187,0.86 [0.64-1.15],0.307539901513972
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,24433,171,0.90 [0.68-1.19],0.4466004083961227
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,23843,34,0.49 [0.23-1.01],0.0538442918177965
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,23876,67,0.83 [0.52-1.32],0.4379728896319234
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",24430,29,0.80 [0.38-1.70],0.566684341590717
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,24337,55,1.03 [0.61-1.72],0.9195832757284448
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",1503,36,1.11 [0.64-1.93],0.7186658996746931
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,1776,71,0.81 [0.52-1.26],0.3526600596035073
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,24118,74,1.16 [0.77-1.73],0.4757782743116499
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,24401,556,0.87 [0.74-1.02],0.0951751292555497
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",24233,424,0.83 [0.69-1.01],0.0643333189640277
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,23931,122,0.83 [0.56-1.23],0.3552110909155872
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",24426,427,0.92 [0.76-1.11],0.3869657048008376
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,24502,49,1.14 [0.69-1.90],0.5993524109167652
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,24356,357,0.85 [0.69-1.05],0.126600068106002
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",24473,191,1.17 [0.90-1.52],0.2310488387793298
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,24451,121,1.26 [0.91-1.73],0.1630257745397209
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,23824,15,1.49 [0.68-3.25],0.3141467845012383
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,23836,27,1.00 [0.50-1.98],0.9898481972839543
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,23839,30,1.44 [0.77-2.69],0.2523973976150228
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,24468,346,0.87 [0.71-1.07],0.1983078557997909
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,24206,84,1.15 [0.78-1.70],0.473559271184944
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,24021,22,0.87 [0.36-2.07],0.7500928539843893
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,24345,63,1.41 [0.93-2.12],0.1015415244078955
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,24412,130,1.08 [0.77-1.50],0.6643660783659076
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,24146,147,0.78 [0.56-1.08],0.1290589469621336
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,24399,69,1.29 [0.84-1.98],0.238744839504427
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,24348,226,0.94 [0.73-1.20],0.5972528041836924
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,24145,101,0.96 [0.65-1.41],0.8457924530560882
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,23877,966,0.90 [0.79-1.02],0.0899317820974899
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,24390,108,1.27 [0.90-1.78],0.1721947022380781
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,24489,102,0.86 [0.58-1.26],0.4298148375556637
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,24044,235,0.91 [0.71-1.16],0.4319252095599254
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,24318,36,1.08 [0.60-1.96],0.7900495052908105
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,24487,34,1.13 [0.62-2.07],0.6949498702671391
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,23844,35,1.03 [0.54-1.96],0.9213490042349688
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,23913,104,0.85 [0.58-1.24],0.4012576009177026
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,23903,58,1.34 [0.87-2.06],0.186934894020935
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,24050,51,1.06 [0.62-1.79],0.835254163872325
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",23894,49,0.93 [0.54-1.58],0.7762983355941795
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,24170,48,0.68 [0.36-1.27],0.2253355377775525
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",24204,82,0.73 [0.48-1.11],0.1405915218309611
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,23884,75,1.27 [0.85-1.90],0.2372633008404148
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,23954,109,0.76 [0.52-1.09],0.135705908849731
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,23875,30,1.22 [0.65-2.28],0.5411413493696213
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,23648,737,0.94 [0.82-1.09],0.4040665202504737
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,23852,43,0.96 [0.51-1.81],0.9081570022891494
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,24318,274,1.03 [0.82-1.29],0.7944297248727917
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,24076,32,0.91 [0.49-1.69],0.767154935654517
+EDDM3B,Epididymal secretory protein E3-beta,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),24157,113,0.83 [0.58-1.20],0.320350542769777
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,24328,57,1.00 [0.59-1.70],0.9871863366633596
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,24469,84,1.51 [1.07-2.11],0.0177141258733333
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,24398,127,1.12 [0.80-1.55],0.5183109409029234
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,24323,52,1.21 [0.74-1.97],0.447254754543618
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,24321,50,1.26 [0.77-2.06],0.3510633768231049
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,24425,482,0.96 [0.81-1.14],0.6614748124722852
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,24242,299,0.93 [0.75-1.15],0.5152109403265128
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,24031,88,0.99 [0.67-1.48],0.9752882623809564
+EDDM3B,Epididymal secretory protein E3-beta,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,24014,71,1.06 [0.68-1.63],0.8025930271479208
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Acute pharyngitis,24247,67,1.07 [0.67-1.71],0.7841319934467214
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,24390,210,1.11 [0.85-1.43],0.4455669249595294
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,24238,58,0.96 [0.58-1.61],0.8873247257378405
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,All influenza,23355,70,0.98 [0.62-1.57],0.9456960158675352
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),23354,69,1.00 [0.63-1.60],0.9933447596241984
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Allergic asthma (mode),18135,123,0.79 [0.55-1.12],0.1880194835964251
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Allergic rhinitis,24384,283,0.95 [0.76-1.19],0.6426428888110938
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",19452,1575,0.93 [0.84-1.02],0.1207972774536935
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",19557,1545,0.93 [0.84-1.03],0.1424302129505934
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),24257,86,1.09 [0.73-1.65],0.6712345544475276
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",23337,52,1.10 [0.64-1.88],0.7328465924559937
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Bronchiectasis,21788,160,1.16 [0.86-1.55],0.3290536706451826
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",21662,34,0.64 [0.32-1.29],0.2123315164679345
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,23729,2101,0.96 [0.89-1.05],0.3617268615212266
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",23184,58,0.58 [0.35-0.98],0.0401636901221854
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Chronic sinusitis,23273,147,0.77 [0.56-1.05],0.1017283275763178
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",24417,643,0.96 [0.83-1.12],0.6186306120896745
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Deviated nasal septum,23246,120,1.02 [0.75-1.39],0.8926854290779147
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,22785,3779,0.95 [0.89-1.01],0.0736528440276945
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",23472,346,0.95 [0.78-1.15],0.5850085535463941
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Early onset COPD,24239,465,0.94 [0.79-1.11],0.4599325490130546
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Emphysema,21795,167,1.57 [1.23-2.01],0.0003419266772807
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,23362,100,0.66 [0.44-0.99],0.046649217846778
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Influenza and pneumonia,24347,1062,0.96 [0.86-1.08],0.5316313819706515
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Interstitial lung disease,23384,122,0.67 [0.46-0.97],0.0355108426795548
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Later onset COPD,23198,178,1.03 [0.78-1.35],0.8312291494885515
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,24501,137,0.93 [0.68-1.27],0.641250630993144
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Nasal polyp,23231,105,1.06 [0.76-1.48],0.7202950852971499
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,24314,562,0.88 [0.75-1.03],0.1211750909723529
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Other diseases of pleura,24347,1112,0.92 [0.82-1.03],0.1350820829109586
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,23927,801,0.93 [0.81-1.06],0.2467207490119811
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Other pleural conditions,23268,33,1.44 [0.83-2.48],0.1907627886187171
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,24455,179,0.75 [0.56-1.02],0.0646263469766375
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,24436,761,0.96 [0.84-1.10],0.5454141025956496
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Pleural effusion,23769,534,0.96 [0.82-1.12],0.5743645374905337
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Pleural plaque,23284,49,1.18 [0.75-1.86],0.4757169793664848
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",24158,873,1.01 [0.89-1.14],0.9247575369042428
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,24484,120,0.94 [0.67-1.30],0.7016420174114366
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Pneumothorax,23292,57,0.92 [0.56-1.50],0.7364694729358889
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Pollen allergy,24482,243,1.00 [0.79-1.27],0.995143585336087
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Pulmonary oedema,24312,36,1.31 [0.74-2.29],0.3528542809507161
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Respiratory insufficiency,18045,33,1.18 [0.63-2.21],0.6157468417190883
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,24294,542,0.87 [0.74-1.03],0.1128423528392397
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,23409,283,0.95 [0.76-1.18],0.637400025211394
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Viral pneumonia,23452,167,0.79 [0.58-1.07],0.131064834800293
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",24271,144,0.73 [0.53-1.01],0.0610874266883025
+EDDM3B,Epididymal secretory protein E3-beta,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,14120,89,0.82 [0.54-1.23],0.3415937873757333
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,18753,59,1.04 [0.66-1.64],0.857044109000555
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Acute appendicitis,24331,135,1.08 [0.80-1.47],0.6133428391055457
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Acute gastritis,19578,62,0.98 [0.60-1.58],0.9283211419915524
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Acute pancreatitis,23081,154,0.85 [0.63-1.14],0.2838652285650509
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Acute peritonitis,24105,61,1.22 [0.77-1.91],0.3958647379183194
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Alcoholic liver disease,23818,76,1.01 [0.68-1.51],0.944463172685588
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Barrett oesophagus,19832,316,0.92 [0.75-1.13],0.4196020609200358
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",22977,50,1.22 [0.75-1.99],0.4121743153607289
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",24146,50,1.21 [0.75-1.97],0.4304714277104901
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Cholecystitis,23082,155,0.98 [0.73-1.31],0.9012117358068892
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Cholelithiasis,23755,828,1.07 [0.93-1.22],0.3345835512843015
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Chronic gastritis,19735,219,1.09 [0.85-1.39],0.5086091875371048
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Chronic pancreatitis,22966,39,1.23 [0.72-2.12],0.4461443316431992
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",24380,77,0.75 [0.49-1.17],0.2043116551883017
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Coeliac disease,23242,94,0.94 [0.63-1.39],0.7461409859701671
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Collagenous colitis,23118,49,0.78 [0.44-1.39],0.3972155715989277
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,24338,186,0.99 [0.77-1.29],0.9689028875942944
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Constipation,24314,1030,0.99 [0.88-1.12],0.9235619271590102
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Crohn disease,23152,83,0.82 [0.54-1.26],0.3723934722217072
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",24197,55,0.77 [0.46-1.31],0.3390325235170674
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Crohn's disease NAS,23147,78,0.78 [0.50-1.22],0.2702322071710492
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Dental caries,23761,234,0.93 [0.73-1.19],0.567195495273098
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,22644,1597,1.00 [0.91-1.10],0.9899629958306956
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Diseases of appendix,24368,172,0.99 [0.74-1.31],0.9391340603769416
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Diseases of liver,24401,659,0.91 [0.78-1.05],0.2036820463732411
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",22956,3440,1.02 [0.96-1.09],0.5644176725098161
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",24070,543,0.92 [0.78-1.09],0.3294608169237976
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Diseases of peritoneum,24432,388,1.00 [0.82-1.21],0.9639293237218032
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,23644,117,0.79 [0.55-1.13],0.1928285442734356
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Diseases of salivary glands,23502,62,0.86 [0.53-1.41],0.5535026030669365
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Diseases of the digestive system,24259,1111,0.93 [0.83-1.04],0.2155963092023321
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Diseases of tongue,23509,109,1.17 [0.84-1.62],0.3509125429067714
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",24050,1123,1.07 [0.96-1.20],0.2257321884305597
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,20857,2163,1.05 [0.97-1.13],0.2405949160985352
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Duodenal ulcer,19650,134,0.86 [0.63-1.18],0.3460285409922013
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",24444,103,0.89 [0.62-1.27],0.5089057505656573
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,24389,70,1.20 [0.78-1.84],0.4149016251594699
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,23837,95,0.77 [0.52-1.13],0.1796558923458689
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,18854,160,0.92 [0.69-1.23],0.5871504895945376
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Functional dyspepsia,19978,462,1.17 [0.99-1.39],0.0667800763204466
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Gastric ulcer,19769,253,0.90 [0.71-1.15],0.4135161969858334
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,21512,1996,1.01 [0.93-1.10],0.7512077709804216
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,19887,371,0.90 [0.74-1.10],0.3127662473680291
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,19942,7107,1.00 [0.96-1.05],0.977008474813424
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,GI-bleeding,24044,896,0.90 [0.79-1.02],0.090691976262001
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,23589,62,0.96 [0.60-1.55],0.882857875134441
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,19496,1130,0.95 [0.85-1.07],0.4007730072500283
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",23788,46,0.84 [0.49-1.44],0.5362303238661192
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Hernia,23465,2418,0.98 [0.91-1.06],0.6625737967122434
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Impacted teeth,24399,65,1.14 [0.72-1.79],0.5769659445209401
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Impaction of intestines,18727,33,1.56 [0.90-2.72],0.1120763458511055
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Inguinal hernia,21655,608,1.03 [0.91-1.17],0.6154852912024695
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",21118,71,1.12 [0.78-1.61],0.53418079905866
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,18759,65,0.59 [0.36-0.97],0.0370093869558789
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Intestinal malabsorption,23262,114,1.07 [0.76-1.51],0.7150848716254559
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,19207,513,0.75 [0.62-0.91],0.003542925520097
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,24485,342,0.97 [0.79-1.19],0.769162457179136
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,23683,614,0.89 [0.76-1.04],0.1542366411450678
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,23846,777,0.88 [0.76-1.01],0.0666778805459742
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Oesophageal obstruction,19648,132,2.69 [1.67-4.33],4.681018689550272e-05
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Oesophagitis,19954,438,1.03 [0.86-1.22],0.76339295082347
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,24470,121,1.24 [0.91-1.69],0.1694201225254135
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,21091,44,0.74 [0.41-1.36],0.3333806665557131
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,19847,1153,0.95 [0.85-1.06],0.3755176631924685
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,23101,174,1.17 [0.90-1.54],0.2425745614101109
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,23071,144,0.94 [0.68-1.30],0.7088919897940718
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Other diseases of intestine,20048,1354,0.96 [0.87-1.06],0.4419182063363268
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Other diseases of intestines,23039,4345,0.98 [0.93-1.04],0.5638356505683342
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,23507,176,1.37 [1.08-1.74],0.0105796578156539
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Other diseases of liver,24271,529,0.95 [0.81-1.12],0.528410418131156
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,19998,482,0.93 [0.78-1.10],0.3775991106175409
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Other diseases of pancreas,23003,76,0.77 [0.49-1.22],0.2713571775727342
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,24384,340,0.95 [0.77-1.17],0.6307257905312061
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,20197,681,0.89 [0.76-1.03],0.1279016694051526
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,24055,907,0.89 [0.79-1.01],0.0799172802012032
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,23680,153,1.04 [0.77-1.40],0.8127247387727361
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,19768,1074,1.00 [0.89-1.12],0.9862913083217312
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),21085,1569,1.02 [0.93-1.12],0.6162204426724183
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,23816,74,0.55 [0.34-0.88],0.0135559938746882
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,23742,673,0.85 [0.73-0.99],0.0364694163183441
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",18911,217,0.89 [0.69-1.16],0.3976637235875728
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,24374,83,1.16 [0.78-1.73],0.4718879252027219
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,19013,319,0.79 [0.63-0.99],0.0374876389815813
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",23273,125,1.03 [0.74-1.42],0.8801618220207493
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Recurring oral aphthae,24500,55,0.94 [0.56-1.60],0.828190862047986
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,23540,117,0.86 [0.60-1.22],0.3924662133934167
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Toxic colitis,23092,23,0.93 [0.77-1.12],0.4313668866856519
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,19690,174,1.11 [0.86-1.44],0.4095989025845226
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Ulcerative colitis,23203,134,1.09 [0.79-1.49],0.6110834089548056
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",23186,117,0.98 [0.69-1.39],0.9074808379475108
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Umbilical hernia,21291,244,0.91 [0.72-1.14],0.4054399717760781
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,18791,97,1.11 [0.76-1.61],0.5903757014855698
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Ventral hernia,21255,208,0.83 [0.63-1.08],0.1623990751594725
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XI Diseases of the digestive system,Volvulus,18753,59,0.58 [0.34-1.01],0.0547738998484275
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,24468,138,0.96 [0.70-1.32],0.8102139716469869
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,24276,75,0.71 [0.45-1.13],0.1537627828771302
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,23189,135,1.23 [0.89-1.70],0.2078762710961533
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,23932,492,0.88 [0.75-1.05],0.148185694101822
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",23624,184,0.98 [0.75-1.28],0.8890927035339397
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,23205,151,0.74 [0.53-1.01],0.0591120270365318
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,24279,207,0.86 [0.65-1.12],0.2647549982298092
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,24422,350,0.83 [0.67-1.03],0.0888094851906321
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,24112,40,0.61 [0.31-1.17],0.135812726357238
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,23206,2293,0.94 [0.87-1.02],0.1156929091122458
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,24099,383,0.91 [0.75-1.11],0.3576901555537654
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,23985,269,0.91 [0.71-1.15],0.4107987797459844
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,24151,711,0.96 [0.84-1.10],0.5415722171569832
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",24499,42,0.67 [0.35-1.29],0.2306622829016217
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,23109,55,0.72 [0.41-1.29],0.2731940959468227
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,23753,37,1.27 [0.72-2.24],0.402999840725605
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,24273,201,0.88 [0.67-1.16],0.3795934299560116
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,23317,263,1.00 [0.80-1.25],0.9986121229181588
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,23088,34,0.77 [0.39-1.51],0.4458018516235722
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,24434,66,0.55 [0.34-0.91],0.0208443054787885
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,23562,122,1.02 [0.74-1.41],0.9127064668234696
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,24334,133,0.89 [0.64-1.22],0.4571801788585545
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,24097,25,1.36 [0.73-2.54],0.3254745849716359
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,23102,48,0.80 [0.45-1.40],0.4309481149383325
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,24052,998,0.97 [0.86-1.09],0.6281153488501741
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",23347,293,1.05 [0.85-1.30],0.6274503064940933
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,23092,38,0.74 [0.38-1.40],0.3517143848654434
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,24437,236,0.78 [0.61-1.01],0.0607599118390667
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,24126,54,0.47 [0.26-0.84],0.0111310869108943
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,24393,192,0.82 [0.62-1.08],0.1637862884544507
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,24483,153,0.95 [0.70-1.28],0.7218355106931857
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,23167,113,1.29 [0.91-1.81],0.1490562843075077
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,23228,174,1.15 [0.89-1.50],0.2910358755232947
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,24477,147,0.97 [0.71-1.31],0.8249210153051775
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",23171,117,1.02 [0.73-1.43],0.8935729980719018
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,24479,111,0.77 [0.53-1.12],0.1720308614778099
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,21488,120,1.08 [0.77-1.53],0.6462863967028768
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,22857,4141,1.01 [0.95-1.07],0.8609940510182738
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,21650,2934,1.03 [0.96-1.10],0.4281078287937631
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,21455,87,1.44 [1.02-2.03],0.0367051886242028
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,21969,137,0.93 [0.67-1.29],0.6582812023887767
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,21975,143,0.94 [0.68-1.30],0.7130328314923344
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,24303,108,0.87 [0.59-1.29],0.4982008703887397
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",21874,42,1.10 [0.61-1.96],0.7550477817192582
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,19382,666,1.02 [0.88-1.18],0.8321679755413803
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",24453,111,1.07 [0.76-1.51],0.7105693153125983
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,22088,256,0.90 [0.70-1.16],0.4138010532024014
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,21409,5549,0.97 [0.92-1.02],0.2296288878481259
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,23261,100,0.91 [0.62-1.32],0.6053492122777611
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,21478,110,0.73 [0.51-1.06],0.102976948624068
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,21924,556,1.09 [0.93-1.27],0.2913007757504712
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,23707,1875,0.93 [0.85-1.02],0.1223244994084031
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,21572,204,1.17 [0.93-1.48],0.1886161206901353
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,21630,262,1.14 [0.88-1.48],0.3133813892924466
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,21507,139,1.40 [1.06-1.85],0.0193611997937415
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,24025,33,0.95 [0.46-1.97],0.8997450287496533
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,19878,1162,1.03 [0.92-1.15],0.6391904397689419
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,19063,347,1.21 [1.02-1.43],0.0291612169662294
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",24462,337,1.20 [1.01-1.43],0.0343944798426575
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,18784,68,0.78 [0.46-1.31],0.3456136230221386
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),19028,312,1.08 [0.85-1.37],0.540490847941601
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,21663,295,1.10 [0.89-1.36],0.3945173523238653
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,19393,677,1.03 [0.90-1.18],0.6803074438949828
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,21855,23,0.90 [0.74-1.09],0.2869040811539242
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,22331,499,0.96 [0.81-1.14],0.6082690842170586
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,22088,256,0.74 [0.58-0.96],0.02120390246464
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,19342,626,1.03 [0.89-1.19],0.7142913020992465
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,21440,72,1.14 [0.74-1.76],0.540622611499134
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",21422,54,1.26 [0.77-2.05],0.3582526348617351
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,23215,54,0.64 [0.38-1.09],0.1037234980183169
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,24212,1051,0.84 [0.74-0.95],0.0077091765036647
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,23755,594,0.76 [0.63-0.91],0.0035629465525152
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",24405,311,0.90 [0.71-1.13],0.3686508693444015
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,20316,1600,1.04 [0.94-1.14],0.4456873858433764
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,18783,67,0.81 [0.51-1.31],0.393886071825815
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,21439,71,1.31 [0.86-1.98],0.2066479759184523
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,18742,26,1.65 [0.95-2.86],0.0746030743590766
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),18818,102,1.03 [0.68-1.54],0.9036140062997026
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,23375,214,0.92 [0.70-1.20],0.5275244744331672
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,23385,224,0.85 [0.63-1.13],0.2580265229231313
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,24474,78,0.44 [0.28-0.70],0.0006190847297903
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",23228,1396,0.90 [0.81-1.00],0.0499539931329732
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,21477,109,0.95 [0.65-1.40],0.8120037395373039
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),18828,112,1.10 [0.74-1.63],0.6316624694823619
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,22398,566,0.82 [0.69-0.96],0.0171978253975153
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,20542,1826,1.02 [0.93-1.11],0.7394554933947388
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,24044,52,1.14 [0.67-1.94],0.6380309457295776
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,24485,70,0.69 [0.43-1.12],0.1308477254420402
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,21438,70,1.33 [0.90-1.98],0.1534984310223549
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",22347,979,1.02 [0.91-1.16],0.7066361713784901
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,21431,63,0.56 [0.33-0.93],0.0246699577939229
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,19723,1007,1.03 [0.91-1.16],0.6455682859042643
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,23257,96,0.94 [0.63-1.41],0.7808116488254175
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,21427,59,1.51 [1.01-2.26],0.0432672911757282
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,21937,105,0.97 [0.66-1.44],0.897440673948674
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,21720,352,0.88 [0.72-1.09],0.2375572659460396
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,24184,192,1.02 [0.76-1.37],0.8746642390184688
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,22257,425,0.79 [0.65-0.96],0.0161513817827134
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,24414,296,0.86 [0.68-1.10],0.2332558765761579
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,24494,35,0.87 [0.44-1.72],0.6909664607729067
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,21557,189,1.16 [0.89-1.50],0.2754062881749518
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,19649,550,1.01 [0.86-1.20],0.8760793142008021
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,21805,437,1.03 [0.86-1.24],0.7412362213399655
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],21518,150,1.17 [0.90-1.53],0.2362618381348795
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",18751,35,1.08 [0.54-2.16],0.8238840049735441
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,20300,1584,1.00 [0.91-1.10],0.9177533962570056
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,19118,402,0.99 [0.81-1.21],0.9499706134427476
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,24069,77,0.94 [0.61-1.47],0.797385221623814
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",24441,45,0.44 [0.23-0.82],0.0103070001597979
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",23080,26,1.63 [0.93-2.85],0.0850519810256464
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,18788,72,0.71 [0.44-1.15],0.1665518804084954
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,21916,84,0.94 [0.62-1.43],0.7629059132210699
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,19031,315,0.90 [0.71-1.14],0.3773033402458259
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,21607,239,1.05 [0.83-1.33],0.6958890146962813
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,22024,192,0.98 [0.74-1.30],0.8843277785265511
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,21926,94,0.80 [0.51-1.26],0.3386834968902383
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,20724,43,1.65 [1.02-2.66],0.0392834396715121
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",24497,38,0.89 [0.47-1.69],0.7164834101054703
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,21903,535,1.00 [0.85-1.18],0.989507472375304
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],24071,79,0.81 [0.48-1.36],0.4212398079110839
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,23542,2174,0.99 [0.91-1.07],0.7902443719847831
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",21470,102,1.07 [0.74-1.54],0.7196787249620047
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,22157,325,1.00 [0.81-1.23],0.9995453378071631
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,23244,172,0.88 [0.65-1.19],0.4067528313152886
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,21968,136,1.04 [0.75-1.45],0.8005307628919934
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,22796,964,0.97 [0.85-1.09],0.5816661092050048
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,22465,633,0.98 [0.84-1.14],0.7670529338851153
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],21408,40,1.32 [0.75-2.32],0.3359773621413263
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,24135,143,1.01 [0.71-1.44],0.9453597535866456
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,21507,139,0.87 [0.62-1.22],0.4326982787135746
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,21422,54,1.13 [0.64-2.00],0.6805022628491224
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),18749,33,0.97 [0.52-1.79],0.9134409755458892
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Acute renal failure,24051,755,1.00 [0.87-1.13],0.9419826349919524
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),9933,65,0.90 [0.51-1.60],0.7220599599020288
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,13222,74,0.90 [0.53-1.54],0.7039786868103879
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,24243,277,1.06 [0.86-1.30],0.5904999737319347
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,24021,55,0.91 [0.58-1.44],0.6991417585816274
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,23861,565,1.27 [1.10-1.47],0.0012519371417236
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,24346,20,1.77 [0.96-3.27],0.0688008407567528
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,24357,165,1.03 [0.78-1.36],0.8423461250969927
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Cystitis,22512,138,1.16 [0.85-1.58],0.339232900335946
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Dialysis,23340,44,2.62 [1.90-3.63],5.446523659495826e-09
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,10617,1012,0.99 [0.90-1.09],0.8602167981417066
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Disorders of breast,13327,179,1.01 [0.72-1.41],0.9585283494321544
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Endometriosis,9985,117,0.93 [0.61-1.43],0.754329595555669
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",10206,338,0.98 [0.77-1.26],0.900556546659667
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,10252,384,0.99 [0.79-1.25],0.9633418379644536
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,20667,3775,0.98 [0.92-1.04],0.4339005649240619
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,24387,61,1.21 [0.77-1.89],0.4144112227220089
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Hydrocele,9676,71,0.73 [0.49-1.10],0.1308141107465491
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,23214,196,0.73 [0.56-0.96],0.0252116725700131
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,10281,676,0.98 [0.87-1.11],0.7758936138214374
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,13206,212,1.00 [0.73-1.36],0.9893757020721854
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),9696,91,1.15 [0.84-1.57],0.3983241285842039
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Irregular menses,13210,107,0.78 [0.49-1.22],0.2748593678001506
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Menorrhagia,10134,266,1.01 [0.77-1.33],0.9232303519637932
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,22432,58,0.66 [0.39-1.11],0.1192627223515756
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,11120,1252,0.93 [0.82-1.06],0.271440843718956
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,9652,47,1.12 [0.71-1.75],0.6308034367396189
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,9955,87,0.96 [0.59-1.57],0.8824119141423931
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",24500,36,1.52 [0.89-2.60],0.1277775089810431
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",24505,42,1.04 [0.57-1.89],0.8984361125457405
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,23734,1360,0.93 [0.84-1.03],0.1604572196669259
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,22805,431,0.94 [0.79-1.11],0.4606732692125902
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,13203,55,0.71 [0.37-1.35],0.2952111773381244
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,24463,271,0.94 [0.76-1.18],0.6118432603109232
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,9746,141,0.96 [0.73-1.25],0.7501774748759898
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,9711,106,0.96 [0.70-1.31],0.8060491965689396
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,9672,67,0.83 [0.55-1.24],0.362882887796648
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,24478,48,0.85 [0.47-1.54],0.6003495973342781
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,23372,998,0.92 [0.81-1.05],0.2050865244738166
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,13103,109,1.06 [0.70-1.63],0.7759055156738307
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,9940,72,1.12 [0.67-1.87],0.6585843634514457
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",10074,206,0.91 [0.66-1.26],0.5738075013191315
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,9922,54,1.28 [0.73-2.24],0.382054647004615
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,9964,96,0.98 [0.61-1.57],0.92402719503107
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,23246,228,0.74 [0.57-0.96],0.0222731352384169
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,24285,93,0.82 [0.56-1.21],0.3169723539003476
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,10027,159,0.98 [0.68-1.40],0.8963858175471744
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,9938,70,0.76 [0.43-1.33],0.333459717754992
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,10243,375,0.91 [0.72-1.16],0.4449366868374226
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,9925,57,1.20 [0.68-2.11],0.5365324645473734
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,10197,329,0.93 [0.72-1.20],0.5759958454084069
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,24368,42,1.07 [0.63-1.83],0.8078137935406028
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",9703,98,0.94 [0.68-1.30],0.721393230628596
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,24349,1331,1.04 [0.94-1.15],0.429723643627363
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",23145,127,0.88 [0.61-1.28],0.5099279625269099
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,23354,58,0.78 [0.47-1.28],0.3245520461906358
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,24027,61,0.91 [0.58-1.43],0.6836691473562875
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Urethral stricture,22527,153,1.14 [0.87-1.49],0.3556357604015977
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Urolithiasis,24300,334,0.96 [0.79-1.16],0.6839818723486064
+EDDM3B,Epididymal secretory protein E3-beta,Chapter XIV Diseases of the genitourinary system,Uterine polyps,9956,88,0.95 [0.58-1.55],0.8261666479860612

@@ -1,0 +1,139 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+AOC3,Membrane primary amine oxidase,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),27126,2938,1.26 [1.13-1.40],2.967105932649861e-05
+AOC3,Membrane primary amine oxidase,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,25858,828,1.29 [1.06-1.58],0.0129052108659013
+AOC3,Membrane primary amine oxidase,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,25011,976,1.34 [1.11-1.61],0.0022158065245329
+AOC3,Membrane primary amine oxidase,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,19469,1711,1.30 [1.13-1.50],0.0002683816298673
+AOC3,Membrane primary amine oxidase,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,27767,917,1.31 [1.08-1.58],0.0063144910318511
+AOC3,Membrane primary amine oxidase,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,27885,47,3.44 [1.56-7.56],0.0021268638827888
+AOC3,Membrane primary amine oxidase,Chapter I Certain infectious and parasitic diseases,Other septicaemia,27650,800,1.31 [1.07-1.61],0.0093572156721093
+AOC3,Membrane primary amine oxidase,Chapter II Neoplasms,Benign neoplasm: Descending colon,27866,159,0.55 [0.36-0.86],0.0085919821679743
+AOC3,Membrane primary amine oxidase,Chapter II Neoplasms,Carcinoma in situ of breast,22579,139,1.91 [1.17-3.12],0.0098521530777414
+AOC3,Membrane primary amine oxidase,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",22773,157,0.61 [0.39-0.95],0.0305513164181985
+AOC3,Membrane primary amine oxidase,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",22714,98,0.46 [0.26-0.81],0.0067884161059487
+AOC3,Membrane primary amine oxidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,25818,106,2.89 [1.63-5.11],0.0002802033469603
+AOC3,Membrane primary amine oxidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,27286,1574,1.30 [1.12-1.51],0.0004383845343495
+AOC3,Membrane primary amine oxidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,27286,1574,1.30 [1.12-1.51],0.0004383845343495
+AOC3,Membrane primary amine oxidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,25782,70,2.06 [1.02-4.15],0.0425468965997409
+AOC3,Membrane primary amine oxidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,27466,1302,1.18 [1.01-1.38],0.0421366904164932
+AOC3,Membrane primary amine oxidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,27546,125,1.81 [1.08-3.01],0.023191121729261
+AOC3,Membrane primary amine oxidase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,27768,63,0.47 [0.24-0.93],0.0288599742816058
+AOC3,Membrane primary amine oxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,22436,262,1.71 [1.20-2.44],0.0032960660713199
+AOC3,Membrane primary amine oxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,22226,52,0.40 [0.18-0.88],0.0221156422951163
+AOC3,Membrane primary amine oxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,22222,48,2.35 [1.03-5.36],0.0415528271557345
+AOC3,Membrane primary amine oxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,26973,2373,1.16 [1.03-1.31],0.013370464917953
+AOC3,Membrane primary amine oxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,22387,213,2.70 [1.88-3.88],7.610489665348098e-08
+AOC3,Membrane primary amine oxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,22394,220,3.49 [2.52-4.84],6.3882811645124e-14
+AOC3,Membrane primary amine oxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,22810,636,1.63 [1.29-2.06],5.212003519775313e-05
+AOC3,Membrane primary amine oxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,25015,71,2.51 [1.31-4.79],0.0053782160442955
+AOC3,Membrane primary amine oxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,26965,4791,1.15 [1.05-1.25],0.001402226329673
+AOC3,Membrane primary amine oxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,27683,2127,0.84 [0.75-0.95],0.005079839954739
+AOC3,Membrane primary amine oxidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",27688,2126,0.85 [0.75-0.95],0.0065690790706064
+AOC3,Membrane primary amine oxidase,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",23727,1553,1.38 [1.19-1.60],2.277308589398912e-05
+AOC3,Membrane primary amine oxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,27870,192,3.89 [2.75-5.52],2.236298435252269e-14
+AOC3,Membrane primary amine oxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,26012,140,7.66 [5.02-11.68],3.3099084704586735e-21
+AOC3,Membrane primary amine oxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,1743,49,3.08 [1.47-6.44],0.0028223762150658
+AOC3,Membrane primary amine oxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,1858,188,2.52 [1.71-3.71],3.185612789519371e-06
+AOC3,Membrane primary amine oxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,25899,27,6.49 [2.15-19.58],0.0009097429854862
+AOC3,Membrane primary amine oxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,1726,33,5.76 [2.46-13.46],5.4025191357095085e-05
+AOC3,Membrane primary amine oxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,27389,1517,2.11 [1.83-2.45],1.2439108179987745e-23
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",26953,153,1.79 [1.11-2.88],0.0164012139423516
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,18103,1511,1.33 [1.14-1.55],0.0002687424129348
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",27841,312,1.56 [1.12-2.16],0.0078288049917924
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,Cardiomyopathy,24290,138,2.34 [1.42-3.87],0.000895640605159
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,Conduction disorders,24897,745,1.44 [1.16-1.80],0.0009798406180417
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,26945,1542,1.27 [1.10-1.48],0.0013878806082732
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,"Heart failure, strict",27781,880,1.65 [1.36-2.01],3.850599841727543e-07
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,"Hypertension, portal",27773,46,10.21 [6.17-16.90],1.6886599463028591e-19
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",19599,166,6.45 [4.27-9.74],7.791895080251279e-19
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,19541,108,3.88 [2.19-6.88],3.598297103921558e-06
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,Hypotension,27741,1134,1.27 [1.07-1.52],0.0060420378265481
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",27149,1734,1.17 [1.02-1.34],0.0287193548631931
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,Left bundle-branch block,24454,302,1.53 [1.08-2.16],0.0154089380363017
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",25911,496,1.40 [1.08-1.82],0.011830459799458
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",27876,244,1.54 [1.06-2.23],0.0232673457334341
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,Oesophageal varices,26127,38,4.21 [1.92-9.22],0.0003322196301635
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,26998,198,1.79 [1.18-2.70],0.0056520218952466
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,26606,39,0.30 [0.13-0.70],0.0055653321864577
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,24978,826,1.41 [1.15-1.73],0.0011397568093463
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,26651,44,2.54 [1.11-5.81],0.0273949302797079
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,27311,511,1.66 [1.28-2.15],0.0001111930341748
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,27301,325,2.84 [2.10-3.84],1.4254551238041314e-11
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,16887,295,1.56 [1.10-2.20],0.0126258832282759
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,Peripheral artery disease,27066,280,2.23 [1.58-3.13],4.82794535602168e-06
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,27805,602,1.69 [1.33-2.14],1.3960513839989325e-05
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,Secondary right heart disease,27292,316,2.80 [2.06-3.80],5.1999419483441847e-11
+AOC3,Membrane primary amine oxidase,Chapter IX Diseases of the circulatory system,Varicose veins,26559,470,1.31 [1.00-1.71],0.0495109116028648
+AOC3,Membrane primary amine oxidase,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,27808,281,1.43 [1.01-2.01],0.0431324905787488
+AOC3,Membrane primary amine oxidase,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,27461,1374,1.18 [1.01-1.37],0.0398834878240078
+AOC3,Membrane primary amine oxidase,Chapter VI Diseases of the nervous system,Generalized epilepsy,27509,48,3.03 [1.36-6.72],0.0065633516422707
+AOC3,Membrane primary amine oxidase,Chapter VI Diseases of the nervous system,Hemiplegia,27751,224,1.55 [1.05-2.28],0.0262784650403682
+AOC3,Membrane primary amine oxidase,Chapter VI Diseases of the nervous system,Migraine,26607,520,1.32 [1.02-1.70],0.0337670204404829
+AOC3,Membrane primary amine oxidase,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",26027,433,0.76 [0.57-0.99],0.0448900975668637
+AOC3,Membrane primary amine oxidase,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",27826,243,2.52 [1.76-3.61],4.253272481951785e-07
+AOC3,Membrane primary amine oxidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,27736,174,5.87 [3.93-8.78],5.902621477893233e-18
+AOC3,Membrane primary amine oxidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",1733,39,6.60 [3.07-14.19],1.3425629731457262e-06
+AOC3,Membrane primary amine oxidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,2081,73,4.83 [2.97-7.84],2.0651348965971886e-10
+AOC3,Membrane primary amine oxidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,27697,1074,1.47 [1.23-1.76],2.7329539084581068e-05
+AOC3,Membrane primary amine oxidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,27789,207,1.82 [1.22-2.72],0.0032982924438261
+AOC3,Membrane primary amine oxidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,27791,736,1.32 [1.06-1.63],0.0119662485553031
+AOC3,Membrane primary amine oxidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,27542,487,1.38 [1.06-1.79],0.0180759897623666
+AOC3,Membrane primary amine oxidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,27325,150,1.64 [1.03-2.63],0.0377627339085075
+AOC3,Membrane primary amine oxidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,26066,2548,1.19 [1.06-1.34],0.00287234570461
+AOC3,Membrane primary amine oxidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,27858,158,1.83 [1.16-2.90],0.0097623612860312
+AOC3,Membrane primary amine oxidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,27486,65,2.12 [1.04-4.28],0.0374889166647545
+AOC3,Membrane primary amine oxidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",26682,59,2.20 [1.03-4.71],0.0412573277327682
+AOC3,Membrane primary amine oxidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,25649,2131,1.23 [1.08-1.40],0.0015989007026816
+AOC3,Membrane primary amine oxidase,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",21573,2099,0.75 [0.66-0.85],8.397981855565352e-06
+AOC3,Membrane primary amine oxidase,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",21741,2074,0.74 [0.65-0.84],2.5831097436962007e-06
+AOC3,Membrane primary amine oxidase,Chapter X Diseases of the respiratory system,Bronchiectasis,24115,422,0.71 [0.54-0.95],0.019050811347917
+AOC3,Membrane primary amine oxidase,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,26709,3016,0.79 [0.71-0.87],7.404675637603291e-06
+AOC3,Membrane primary amine oxidase,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,26222,232,1.94 [1.32-2.85],0.0007784112026756
+AOC3,Membrane primary amine oxidase,Chapter X Diseases of the respiratory system,Interstitial lung disease,26264,274,1.89 [1.32-2.69],0.0004393342625512
+AOC3,Membrane primary amine oxidase,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,27801,349,1.78 [1.31-2.42],0.0002549806879485
+AOC3,Membrane primary amine oxidase,Chapter X Diseases of the respiratory system,Pulmonary oedema,27515,63,2.32 [1.15-4.67],0.0184109664656295
+AOC3,Membrane primary amine oxidase,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,13463,110,0.53 [0.30-0.91],0.0209434161141152
+AOC3,Membrane primary amine oxidase,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",25467,81,2.08 [1.09-3.97],0.0256966079151342
+AOC3,Membrane primary amine oxidase,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",27444,81,2.05 [1.09-3.85],0.0250713818839219
+AOC3,Membrane primary amine oxidase,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",27801,74,4.40 [2.54-7.61],1.2147488101443208e-07
+AOC3,Membrane primary amine oxidase,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,26242,2520,0.82 [0.73-0.91],0.0004779947939164
+AOC3,Membrane primary amine oxidase,Chapter XI Diseases of the digestive system,Diseases of liver,27784,833,1.47 [1.20-1.80],0.000150158700546
+AOC3,Membrane primary amine oxidase,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",27407,601,0.77 [0.61-0.97],0.0278686663181562
+AOC3,Membrane primary amine oxidase,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,23109,3277,0.76 [0.69-0.84],9.881365077325598e-08
+AOC3,Membrane primary amine oxidase,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,27047,96,3.62 [2.14-6.13],1.6702352922853146e-06
+AOC3,Membrane primary amine oxidase,Chapter XI Diseases of the digestive system,Functional dyspepsia,21488,672,0.77 [0.62-0.96],0.0220683963657489
+AOC3,Membrane primary amine oxidase,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,23672,2856,0.80 [0.72-0.89],5.596069536252052e-05
+AOC3,Membrane primary amine oxidase,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,21822,8622,0.92 [0.87-0.98],0.0135544532018881
+AOC3,Membrane primary amine oxidase,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,20825,1292,0.76 [0.65-0.89],0.0008905052855156
+AOC3,Membrane primary amine oxidase,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",26993,42,2.52 [1.07-5.94],0.0350408096396243
+AOC3,Membrane primary amine oxidase,Chapter XI Diseases of the digestive system,Hernia,26681,2959,0.84 [0.75-0.93],0.0008676038006763
+AOC3,Membrane primary amine oxidase,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,27868,369,1.51 [1.13-2.03],0.0061088567757488
+AOC3,Membrane primary amine oxidase,Chapter XI Diseases of the digestive system,Oesophagitis,21394,578,0.75 [0.59-0.95],0.0160328286474185
+AOC3,Membrane primary amine oxidase,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,21126,1294,0.77 [0.66-0.91],0.0018275396567233
+AOC3,Membrane primary amine oxidase,Chapter XI Diseases of the digestive system,Other diseases of intestines,25676,5844,0.91 [0.85-0.99],0.0211987868705515
+AOC3,Membrane primary amine oxidase,Chapter XI Diseases of the digestive system,Other diseases of liver,27653,702,1.53 [1.23-1.90],0.0001227643890232
+AOC3,Membrane primary amine oxidase,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,27004,198,0.66 [0.44-0.98],0.0413195539411818
+AOC3,Membrane primary amine oxidase,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,27053,102,3.36 [2.00-5.66],4.820163464070004e-06
+AOC3,Membrane primary amine oxidase,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,25910,340,1.92 [1.41-2.62],3.639521113428506e-05
+AOC3,Membrane primary amine oxidase,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,26261,3235,1.15 [1.03-1.27],0.0090665683247101
+AOC3,Membrane primary amine oxidase,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",27859,80,0.51 [0.27-0.94],0.0313143151853591
+AOC3,Membrane primary amine oxidase,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,25661,91,0.51 [0.28-0.91],0.0223529011550519
+AOC3,Membrane primary amine oxidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,27337,59,2.08 [1.01-4.26],0.0460704619027295
+AOC3,Membrane primary amine oxidase,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,27190,1620,1.16 [1.00-1.34],0.0477334540813391
+AOC3,Membrane primary amine oxidase,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",25773,203,1.72 [1.16-2.55],0.0074498632498829
+AOC3,Membrane primary amine oxidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,20737,1918,0.86 [0.75-0.98],0.0204022309140385
+AOC3,Membrane primary amine oxidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,21927,3108,0.86 [0.77-0.95],0.0037581710504896
+AOC3,Membrane primary amine oxidase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,23799,135,0.47 [0.29-0.75],0.0015264958915311
+AOC3,Membrane primary amine oxidase,Chapter XIV Diseases of the genitourinary system,Acute renal failure,26776,1286,1.57 [1.34-1.85],4.160130145348075e-08
+AOC3,Membrane primary amine oxidase,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,27021,1531,1.55 [1.34-1.80],7.130231235623915e-09
+AOC3,Membrane primary amine oxidase,Chapter XIV Diseases of the genitourinary system,Dialysis,25548,58,5.14 [2.75-9.61],2.805466239530875e-07
+AOC3,Membrane primary amine oxidase,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,21781,1023,0.68 [0.57-0.81],1.7373584415983073e-05
+AOC3,Membrane primary amine oxidase,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,27690,67,4.92 [2.82-8.59],2.146979601788244e-08
+AOC3,Membrane primary amine oxidase,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,27325,411,0.73 [0.55-0.96],0.0239689830564907
+AOC3,Membrane primary amine oxidase,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,23257,2499,0.73 [0.65-0.82],4.01663458509872e-08
+AOC3,Membrane primary amine oxidase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,20911,153,0.60 [0.38-0.94],0.0244011784025629
+AOC3,Membrane primary amine oxidase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,20969,211,0.63 [0.43-0.93],0.0197245966685518
+AOC3,Membrane primary amine oxidase,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,21073,315,0.67 [0.49-0.92],0.0125068482471431
+AOC3,Membrane primary amine oxidase,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,21420,662,0.75 [0.60-0.93],0.0085411316508014
+AOC3,Membrane primary amine oxidase,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,21362,604,0.79 [0.63-1.00],0.0463022767839045
+AOC3,Membrane primary amine oxidase,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,27683,2528,1.41 [1.26-1.59],4.3635512205168414e-09
+AOC3,Membrane primary amine oxidase,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,25597,107,2.82 [1.69-4.70],7.329127992716173e-05

@@ -1,0 +1,661 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",41865,234,0.76 [0.57-1.02],0.070024565246001
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",43307,325,0.93 [0.75-1.16],0.5398682780519377
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",42875,2274,1.00 [0.92-1.08],0.9205753907156212
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Candidiasis,43348,710,1.12 [0.99-1.28],0.0807806256177477
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,42021,5805,0.99 [0.94-1.04],0.5686926765088232
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),42221,5257,1.03 [0.98-1.09],0.2368336200930752
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,42927,1992,1.07 [0.99-1.16],0.0846372889028397
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,43190,144,0.99 [0.72-1.36],0.9443145942749318
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,39964,1568,1.03 [0.94-1.13],0.5432464431571076
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,38560,1755,1.05 [0.96-1.15],0.2717082498647625
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,38448,417,1.14 [0.96-1.35],0.1372493056633868
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,30438,3240,1.05 [0.99-1.12],0.1315537062397698
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,38199,638,1.05 [0.91-1.21],0.5271970892490232
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,43277,2342,1.03 [0.96-1.12],0.3977166290800741
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Mycoses,43475,837,1.10 [0.97-1.24],0.1420465527540879
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,42120,1519,1.03 [0.93-1.13],0.5832316631410768
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,43363,1732,1.00 [0.91-1.09],0.927309899917827
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,41262,327,0.93 [0.75-1.16],0.532643286101768
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,43563,75,0.92 [0.57-1.48],0.7352153903203242
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Other septicaemia,43144,1513,1.03 [0.94-1.13],0.5421774643097209
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,43172,126,0.74 [0.49-1.11],0.1406090855321456
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Other viral diseases,43417,261,1.07 [0.86-1.33],0.5305917708498794
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",43389,233,1.01 [0.79-1.29],0.9415394902502556
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,41277,676,0.87 [0.74-1.02],0.0818305188239752
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,41053,452,1.02 [0.85-1.21],0.8645498847493264
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,41098,163,1.06 [0.80-1.41],0.6984271707507037
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,43522,90,0.98 [0.65-1.48],0.941041064152432
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,43449,264,0.92 [0.72-1.18],0.5065735559198541
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Viral warts,43273,88,0.81 [0.51-1.29],0.3713131075871552
+AMIGO1,Amphoterin-induced protein 1,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],43299,114,0.98 [0.68-1.41],0.9102592309759588
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Benign lipomatous neoplasm,43070,493,1.03 [0.87-1.21],0.7492378964037905
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,43415,99,1.14 [0.82-1.59],0.4334154207371677
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,43377,108,0.84 [0.56-1.26],0.3904607504533963
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,19977,106,1.09 [0.77-1.54],0.6388620487869741
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",43002,2407,0.95 [0.87-1.03],0.1959693785026489
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Benign neoplasm of meninges,43538,96,1.01 [0.69-1.48],0.9642908627495288
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,43450,113,0.90 [0.61-1.32],0.5740607960876554
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,43521,170,1.03 [0.78-1.37],0.8185954266612505
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Benign neoplasm of ovary,23480,148,0.88 [0.63-1.23],0.4428363784598841
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Benign neoplasm: Ascending colon,43519,615,0.98 [0.84-1.15],0.8256173423944242
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Benign neoplasm: Caecum,43531,500,0.86 [0.71-1.04],0.1109834717744841
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",43372,118,1.21 [0.91-1.62],0.1938605742352421
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Benign neoplasm: Descending colon,43521,370,0.79 [0.63-1.00],0.0457955966181135
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Benign neoplasm: Rectum,43447,590,0.85 [0.72-1.01],0.0719422264365547
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,43364,1053,1.04 [0.93-1.16],0.5215771266047009
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Benign neoplasm: Transverse colon,43514,714,0.98 [0.85-1.14],0.8359049568927682
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Carcinoma in situ of breast,19054,119,0.94 [0.65-1.34],0.7227737193718773
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",19126,138,0.69 [0.47-1.02],0.0653071560357992
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",34720,90,0.88 [0.56-1.36],0.5562123685386405
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",34745,115,0.74 [0.48-1.14],0.1686255194833121
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",43470,204,0.97 [0.74-1.27],0.8384230880277467
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Haemangioma, any site",43471,199,1.00 [0.76-1.31],0.996178803463985
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Leiomyoma of uterus,22685,498,0.95 [0.80-1.13],0.5549966718611181
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Lung cancer and mesothelioma,30266,581,1.10 [0.93-1.29],0.2613567583436051
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Lymphoid leukaemia,34720,90,0.98 [0.65-1.48],0.9371561798744068
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",34944,314,1.16 [0.96-1.40],0.1240292113948938
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",34963,333,0.92 [0.73-1.15],0.4566788491003865
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",19251,160,1.16 [0.89-1.52],0.2687151821104713
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",34769,139,1.02 [0.74-1.41],0.9083344437316652
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",34799,169,0.99 [0.73-1.33],0.9406636120843068
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",34801,171,1.17 [0.90-1.52],0.2330565826355413
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",19220,129,1.06 [0.77-1.47],0.7027730905625882
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",34785,155,0.89 [0.64-1.25],0.5051558720837156
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",16684,1145,0.88 [0.77-0.99],0.0369957560751955
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",34823,193,0.86 [0.64-1.17],0.3442152206387401
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",34754,124,0.73 [0.48-1.11],0.1392271625173274
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,34803,173,1.14 [0.88-1.49],0.3223012421010938
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Melanocytic naevi,43233,342,1.05 [0.87-1.28],0.5904178344418396
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Melanocytic naevi of trunk,43497,151,1.22 [0.94-1.57],0.1308911549127643
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Melanoma in situ,34686,135,0.71 [0.48-1.06],0.0972079075579242
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",34784,154,0.88 [0.63-1.23],0.4538891474884392
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",34892,262,1.03 [0.82-1.30],0.80009581960473
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",35030,400,1.17 [0.98-1.40],0.0752998588017964
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",34791,161,0.97 [0.71-1.32],0.8463731694386358
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,Other benign neoplasms of skin,43256,274,1.04 [0.84-1.30],0.6937694947044977
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",36428,1798,1.02 [0.94-1.12],0.6274225477211972
+AMIGO1,Amphoterin-induced protein 1,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",36523,1893,1.04 [0.95-1.13],0.4193219189459202
+AMIGO1,Amphoterin-induced protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,43065,582,0.90 [0.76-1.07],0.2403980836078054
+AMIGO1,Amphoterin-induced protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,40433,148,0.87 [0.62-1.24],0.4456949920034281
+AMIGO1,Amphoterin-induced protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,42609,126,0.92 [0.64-1.31],0.6329301227986747
+AMIGO1,Amphoterin-induced protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,42266,4796,0.99 [0.93-1.04],0.6089331180602536
+AMIGO1,Amphoterin-induced protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,41169,77,0.82 [0.50-1.35],0.4343472818414116
+AMIGO1,Amphoterin-induced protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,42874,85,0.94 [0.61-1.45],0.794696879783813
+AMIGO1,Amphoterin-induced protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,42777,2492,1.03 [0.95-1.11],0.4774128057270116
+AMIGO1,Amphoterin-induced protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,42775,2490,1.03 [0.95-1.11],0.4739462674157416
+AMIGO1,Amphoterin-induced protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,40427,142,0.97 [0.69-1.35],0.8404941840304913
+AMIGO1,Amphoterin-induced protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,43028,1936,0.97 [0.89-1.06],0.4839112453581088
+AMIGO1,Amphoterin-induced protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,42981,192,0.88 [0.65-1.19],0.4037891221762965
+AMIGO1,Amphoterin-induced protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,42586,103,1.31 [0.98-1.74],0.0663674142200386
+AMIGO1,Amphoterin-induced protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,42589,106,1.20 [0.88-1.64],0.2561538484589508
+AMIGO1,Amphoterin-induced protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,43241,452,1.02 [0.86-1.22],0.8140214591049477
+AMIGO1,Amphoterin-induced protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,43390,91,0.83 [0.53-1.30],0.4224264012088026
+AMIGO1,Amphoterin-induced protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",43167,378,0.98 [0.80-1.20],0.8371173019803249
+AMIGO1,Amphoterin-induced protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,41266,174,0.95 [0.71-1.29],0.761274001219015
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,33810,502,1.04 [0.88-1.23],0.6197662270953346
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,40606,190,0.97 [0.73-1.28],0.8288625355664563
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,40631,215,1.08 [0.85-1.38],0.5193434495877567
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,33400,92,1.39 [1.06-1.83],0.0187885751627175
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,40480,107,1.30 [0.98-1.73],0.0728605480847231
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,39549,383,0.96 [0.79-1.18],0.7055642883497754
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",42800,883,0.97 [0.85-1.11],0.6452947120249762
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,42365,448,0.92 [0.75-1.11],0.3677483484340021
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,42097,180,0.93 [0.69-1.25],0.626708227407897
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,42986,2613,1.01 [0.93-1.08],0.8791633946174657
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,38048,2542,1.00 [0.92-1.07],0.9229215719718232
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",33410,102,1.09 [0.77-1.55],0.6157703954320048
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",40251,135,1.00 [0.73-1.39],0.9796211199549224
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,33759,451,1.00 [0.83-1.20],0.994567257403227
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,33409,101,1.07 [0.75-1.53],0.691287774802965
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,39220,5912,0.96 [0.92-1.02],0.1719728557449805
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,33646,338,1.02 [0.83-1.25],0.8657024404190488
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,34229,921,0.97 [0.85-1.11],0.6560906420682489
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,43432,525,0.96 [0.81-1.14],0.6476143053304318
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,43117,210,1.01 [0.78-1.31],0.959347393479633
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,33526,218,0.89 [0.67-1.18],0.410477565902101
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",33411,103,1.23 [0.91-1.68],0.1844639188342299
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,42659,2543,1.01 [0.94-1.09],0.846826908779836
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,33723,415,1.05 [0.87-1.26],0.5969968292717817
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,33761,453,1.12 [0.95-1.32],0.1904332080275728
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",34366,1058,0.92 [0.81-1.04],0.1840403894314622
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,33487,179,0.92 [0.67-1.25],0.5844859264431534
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,43106,199,0.95 [0.72-1.26],0.723785399467987
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,34316,1008,1.11 [1.00-1.24],0.0607091769496409
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,34119,811,1.10 [0.97-1.24],0.1460851904290466
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,39276,110,1.23 [0.92-1.65],0.1706516358907321
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,41650,8342,0.98 [0.94-1.02],0.3211121478457634
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,40191,75,0.50 [0.27-0.91],0.0225602382204936
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,40211,95,0.83 [0.54-1.29],0.4075976339557037
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,43256,3246,0.95 [0.89-1.02],0.1894399991611694
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",43257,3241,0.96 [0.89-1.02],0.2004497494433975
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,40202,86,0.71 [0.43-1.18],0.1862644796829763
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,42990,2027,0.98 [0.90-1.07],0.6402469836223225
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",35909,2601,1.06 [0.99-1.14],0.1028519091158264
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,43545,348,0.95 [0.76-1.17],0.6145102116610395
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,42038,121,0.88 [0.60-1.29],0.5128417265408873
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,41140,177,0.92 [0.68-1.25],0.5999198384860185
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,41203,240,1.11 [0.88-1.38],0.3778808443945514
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",33578,270,0.95 [0.75-1.21],0.7049866266436995
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,39651,263,0.95 [0.74-1.22],0.6827855938239089
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,3584,138,0.81 [0.56-1.17],0.2681122469315738
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,3819,418,0.93 [0.77-1.13],0.4671960200565141
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,39492,104,1.05 [0.73-1.53],0.7795145664598142
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,3526,81,0.75 [0.45-1.24],0.261447016057181
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,42513,3125,0.96 [0.89-1.03],0.2583857514217801
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,42472,555,1.06 [0.91-1.24],0.4678917996021967
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,39771,605,1.12 [0.97-1.29],0.1258238306853334
+AMIGO1,Amphoterin-induced protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,34546,1238,0.98 [0.88-1.09],0.7134705286167063
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",43370,410,1.01 [0.83-1.21],0.9578313849513204
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),41687,271,1.13 [0.91-1.40],0.2672784667924126
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Angina pectoris,39843,1986,1.00 [0.92-1.09],0.9158968008074968
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Aortic aneurysm,41817,401,1.08 [0.90-1.29],0.414998172390714
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,41514,98,1.24 [0.90-1.72],0.1887194933567813
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",41746,330,1.15 [0.95-1.38],0.1543187086122057
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,26981,3107,1.01 [0.95-1.09],0.6938635492161811
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,AV-block,36831,705,0.94 [0.81-1.10],0.4537538717238797
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",43461,690,0.97 [0.83-1.12],0.6661558644398742
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Cardiac arrest,24184,310,1.12 [0.92-1.37],0.2545769378118239
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Cardiomyopathy,36410,284,0.78 [0.60-1.02],0.0703952854860924
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",36284,158,0.89 [0.64-1.24],0.5081757347602605
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,43559,74,1.00 [0.64-1.57],0.9862002514465208
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Conduction disorders,37860,1734,1.01 [0.92-1.11],0.7966144096464369
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,41296,3471,1.01 [0.95-1.08],0.7384459997618853
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,38117,12789,0.99 [0.95-1.02],0.4027445389019997
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,DVT of lower extremities,41260,444,1.03 [0.87-1.24],0.7059663106742491
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Endocarditis,36244,118,1.00 [0.70-1.42],0.9843017207212938
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,"Heart failure, strict",43213,1817,1.00 [0.91-1.09],0.9382438503371018
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Hypertension,39659,10949,1.00 [0.96-1.03],0.8253513564488564
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,"Hypertension, essential",39672,10962,1.00 [0.96-1.03],0.8109442989706712
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,"Hypertension, portal",43264,133,1.26 [0.96-1.65],0.093729246905497
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",29025,315,1.02 [0.82-1.26],0.8645290483436591
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,28876,166,1.06 [0.80-1.41],0.6770371847962611
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Hypotension,43322,1899,0.98 [0.89-1.07],0.6107489959078138
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,42044,172,1.05 [0.79-1.39],0.7409602352372451
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",41603,3746,0.99 [0.93-1.06],0.8679288813046677
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",42952,929,0.98 [0.86-1.12],0.7859297674050534
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Left bundle-branch block,36731,605,1.05 [0.90-1.22],0.5433575194459709
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,42787,1404,1.02 [0.92-1.13],0.7204829641222332
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",39042,1185,1.06 [0.95-1.18],0.2760474283107221
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",43403,268,0.95 [0.75-1.21],0.6837012079662347
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",43512,523,1.13 [0.98-1.32],0.1021214339089101
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Oesophageal varices,40903,87,1.43 [1.07-1.91],0.0140963610222651
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Other aneurysm,41543,127,1.26 [0.96-1.66],0.0953422034067227
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Other arrhythmias,36836,710,1.07 [0.94-1.23],0.2938868645862563
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,41585,169,1.21 [0.94-1.56],0.1372152249084327
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,41810,394,1.06 [0.88-1.27],0.5464781407530721
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,36426,300,1.08 [0.88-1.33],0.4442343266393217
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Other disorders of veins,40965,149,1.01 [0.74-1.39],0.9310763203521816
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,40899,83,1.16 [0.80-1.67],0.4317489778639208
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,41214,104,0.82 [0.53-1.26],0.360865344261477
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,41035,219,1.06 [0.82-1.36],0.6549072050844443
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,37811,1685,1.03 [0.94-1.13],0.46921439371705
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,41513,90,1.35 [1.01-1.82],0.043911766467813
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,42314,898,1.07 [0.95-1.21],0.25962526598036
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,42529,587,1.03 [0.88-1.21],0.6838067054871727
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",42106,996,0.94 [0.83-1.07],0.369542987961371
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,24425,551,1.18 [1.02-1.35],0.0247491939784597
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Peripheral artery disease,42031,666,1.08 [0.94-1.24],0.3014046530962335
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),41391,575,1.03 [0.89-1.21],0.6688642226451411
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Pulmonary embolism,42726,784,0.95 [0.83-1.10],0.5228227793116564
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,43437,1074,1.02 [0.91-1.15],0.7354534681121767
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Right bundle-branch block,36699,573,1.00 [0.86-1.18],0.9646258432427658
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Secondary right heart disease,42521,579,1.04 [0.89-1.21],0.6477299993610898
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,41420,310,1.04 [0.84-1.29],0.6974278458657173
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",42929,1057,0.97 [0.86-1.10],0.6594631446689243
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",42893,1121,0.96 [0.85-1.08],0.4672099047169666
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,41995,95,0.73 [0.46-1.17],0.194390850853378
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,41547,132,1.05 [0.77-1.45],0.750679597657263
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Transient ischemic attack,42394,371,1.08 [0.90-1.30],0.4041657899337549
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,41809,426,0.97 [0.80-1.17],0.7650565680237303
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Varicose veins,41512,696,1.04 [0.90-1.20],0.5731252243182716
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,41440,141,0.85 [0.59-1.22],0.3827895576607455
+AMIGO1,Amphoterin-induced protein 1,Chapter IX Diseases of the circulatory system,Venous thromboembolism,43175,1236,0.98 [0.88-1.09],0.7059364925061224
+AMIGO1,Amphoterin-induced protein 1,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",43353,601,1.01 [0.87-1.18],0.8696297826460233
+AMIGO1,Amphoterin-induced protein 1,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",38164,2385,0.98 [0.90-1.06],0.5495710047900182
+AMIGO1,Amphoterin-induced protein 1,Chapter V Mental and behavioural disorders,Any mental disorder,42472,6693,0.98 [0.94-1.03],0.4563496045041643
+AMIGO1,Amphoterin-induced protein 1,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",43276,704,1.00 [0.87-1.16],0.9732393786184932
+AMIGO1,Amphoterin-induced protein 1,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",38440,2661,1.00 [0.93-1.07],0.9664259027261702
+AMIGO1,Amphoterin-induced protein 1,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",35919,140,0.97 [0.70-1.35],0.8727032060978364
+AMIGO1,Amphoterin-induced protein 1,Chapter V Mental and behavioural disorders,Smoking dependency,42655,2319,0.93 [0.86-1.01],0.106964309765092
+AMIGO1,Amphoterin-induced protein 1,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",38532,2753,0.95 [0.88-1.02],0.1826806219884999
+AMIGO1,Amphoterin-induced protein 1,Chapter V Mental and behavioural disorders,Vascular dementia,42764,210,0.84 [0.62-1.13],0.2571408162216234
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Alzheimer disease,43561,559,0.94 [0.79-1.12],0.4825868739685643
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",29532,94,0.78 [0.49-1.23],0.2830627143156803
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Bell's palsy,40577,135,1.27 [0.99-1.64],0.061278283497392
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,41282,840,0.93 [0.81-1.07],0.3152499081699486
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Cerebral cysts,42883,369,0.99 [0.81-1.21],0.9462169523553696
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,43422,516,1.03 [0.87-1.21],0.748003264243422
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,42744,94,1.14 [0.80-1.61],0.4795432354656834
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,43534,109,1.24 [0.92-1.67],0.1495824782171225
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",42629,115,0.84 [0.56-1.25],0.3873984279698622
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Epilepsy,40974,474,0.99 [0.84-1.18],0.9509892881992086
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,42753,2253,0.98 [0.91-1.07],0.6897531720998089
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,43486,703,0.96 [0.83-1.12],0.6103720343657211
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Falls/tendency to fall,42573,4253,1.00 [0.94-1.06],0.9996361931006724
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Generalized epilepsy,42935,93,1.40 [1.06-1.83],0.0163209857810026
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Hemiplegia,43314,408,0.97 [0.80-1.18],0.7776705238500311
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Hydrocephalus,42616,102,1.21 [0.88-1.65],0.2396478859524038
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,43529,118,1.07 [0.77-1.48],0.7012679052328198
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,40571,129,1.18 [0.89-1.55],0.24342176272448
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,40572,130,0.72 [0.48-1.07],0.1042580551190806
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Memory loss,42521,194,1.08 [0.83-1.39],0.5768098852454369
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Migraine,41097,597,0.87 [0.74-1.03],0.1111739870195176
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",43442,542,0.89 [0.75-1.06],0.1807474163025544
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Motor neuron disease,29731,256,0.86 [0.67-1.12],0.2691897439442317
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,43265,183,1.12 [0.87-1.43],0.3806216145066741
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",42443,2001,0.97 [0.89-1.06],0.546682939057727
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Neurological diseases,41051,6108,0.98 [0.94-1.03],0.5448399073906814
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,42960,310,1.00 [0.80-1.24],0.9833682491938992
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",41113,671,0.95 [0.82-1.11],0.537166610724142
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",43431,485,0.95 [0.79-1.13],0.5421841821844242
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,34864,1077,0.99 [0.88-1.11],0.8479314170199659
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,42633,119,0.96 [0.67-1.38],0.8369625906633728
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Other disorders of nervous system,42749,235,0.83 [0.63-1.10],0.1963849149488397
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,43031,248,0.82 [0.62-1.08],0.1542195510175402
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Other facial nerve disorders,40602,160,1.16 [0.90-1.51],0.2568254405965837
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Other headache syndromes,40597,97,0.88 [0.58-1.33],0.5390211287184528
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Other neurological diseases,43364,850,0.95 [0.83-1.08],0.4247369993878623
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Other sleep disorders,41427,927,0.96 [0.85-1.10],0.5636400235380992
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Parkinson's disease,43517,414,1.04 [0.86-1.24],0.7105393387703645
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,42605,91,0.81 [0.52-1.27],0.3616161963349722
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Restless leg syndrome,43559,111,0.91 [0.61-1.33],0.6160480904162349
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Sleep apnoea,43160,803,0.93 [0.80-1.07],0.2870711893110407
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Small fibre neuropathy,43028,82,1.34 [0.98-1.82],0.0663538946352072
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,43533,300,0.82 [0.64-1.05],0.1219148848522997
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,40527,85,0.75 [0.46-1.22],0.2437387733178472
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,43561,565,0.93 [0.79-1.11],0.4197909660695791
+AMIGO1,Amphoterin-induced protein 1,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),42697,203,0.77 [0.56-1.06],0.1086595389113065
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,42611,159,1.10 [0.83-1.46],0.4964371702676823
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,42883,655,1.06 [0.92-1.22],0.4596765870546877
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,43286,391,0.95 [0.78-1.16],0.6161291117350063
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,41856,91,1.10 [0.76-1.58],0.6253689696317245
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,41867,102,0.83 [0.55-1.27],0.3967185235378702
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",43377,86,1.20 [0.85-1.69],0.3021433484433005
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,43128,244,1.14 [0.91-1.42],0.2513034970008406
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",3532,86,0.74 [0.45-1.21],0.2295340391612698
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,4276,160,0.82 [0.59-1.16],0.2607059688444533
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,42616,164,0.98 [0.73-1.32],0.8986899977103395
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,43221,1738,1.04 [0.95-1.13],0.4110317526911953
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",42934,1169,0.89 [0.79-1.01],0.0697677364600526
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,42143,378,0.94 [0.76-1.15],0.5255186603583988
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",43424,1196,1.02 [0.91-1.14],0.7339735754030805
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,43548,117,1.11 [0.81-1.53],0.5205465900451123
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,43305,1077,1.00 [0.89-1.12],0.934611580312734
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",43492,608,1.05 [0.91-1.22],0.5021687727454736
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,43402,305,1.08 [0.88-1.32],0.466716751773009
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,41867,102,0.83 [0.54-1.28],0.4004807430034397
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,41878,113,0.94 [0.64-1.37],0.7291508859010751
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,41862,97,0.71 [0.45-1.14],0.1582807292946053
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,43402,1183,1.03 [0.92-1.15],0.5906605485911762
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,42530,311,1.04 [0.84-1.28],0.727785809423102
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,42307,79,0.67 [0.39-1.15],0.1450171488827485
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,43052,168,1.09 [0.83-1.44],0.526694458540319
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,43339,455,1.09 [0.92-1.28],0.3383719312674209
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,42553,325,1.00 [0.81-1.23],0.966075272672726
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,43280,183,0.98 [0.74-1.30],0.8767615469994112
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,42991,772,1.03 [0.90-1.18],0.6610248332703823
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,42682,230,0.95 [0.73-1.23],0.6916169882945982
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,40886,3677,0.98 [0.92-1.05],0.5432527750430853
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,43280,396,1.13 [0.95-1.34],0.1776986331024653
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,43526,255,1.18 [0.97-1.45],0.1053334657652314
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,42458,693,0.91 [0.78-1.06],0.2136492089013699
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,43001,117,1.22 [0.91-1.64],0.1733746921708379
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,43524,93,1.21 [0.87-1.68],0.2689434571546072
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,41906,141,1.24 [0.96-1.61],0.0974835120824715
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,42020,255,0.99 [0.78-1.25],0.9121422633579092
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,41674,191,1.19 [0.94-1.51],0.1413888513423999
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,42323,95,1.18 [0.85-1.64],0.3254596758417896
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",41593,110,0.74 [0.48-1.14],0.1679847048878305
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,42362,143,0.97 [0.70-1.34],0.8610264835879385
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",42542,323,1.03 [0.84-1.27],0.7806276553833877
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,41970,205,0.81 [0.60-1.10],0.1792014963028308
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,41667,184,1.33 [1.09-1.63],0.005944946379763
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,41616,133,1.01 [0.73-1.41],0.939171378211669
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,40201,2992,1.00 [0.93-1.07],0.954145438481492
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,41887,122,0.94 [0.66-1.35],0.7534825610708855
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,43135,683,1.01 [0.87-1.16],0.9210483548357024
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,42549,97,1.17 [0.83-1.64],0.3623123035171945
+AMIGO1,Amphoterin-induced protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),42721,269,1.27 [1.06-1.52],0.0090934684933196
+AMIGO1,Amphoterin-induced protein 1,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,43188,149,0.82 [0.58-1.17],0.2713183064256642
+AMIGO1,Amphoterin-induced protein 1,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,43485,200,1.05 [0.82-1.36],0.6858566914370884
+AMIGO1,Amphoterin-induced protein 1,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,43342,217,1.03 [0.80-1.32],0.8437222543231249
+AMIGO1,Amphoterin-induced protein 1,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,43145,106,1.08 [0.77-1.52],0.65695526710025
+AMIGO1,Amphoterin-induced protein 1,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,43152,113,0.86 [0.58-1.27],0.4402021477416351
+AMIGO1,Amphoterin-induced protein 1,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,43386,1472,1.03 [0.93-1.13],0.6070790195610862
+AMIGO1,Amphoterin-induced protein 1,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,42961,1047,1.01 [0.90-1.14],0.8776815558531375
+AMIGO1,Amphoterin-induced protein 1,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,42125,211,1.20 [0.96-1.50],0.1054174866595216
+AMIGO1,Amphoterin-induced protein 1,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,42055,141,1.06 [0.78-1.44],0.6945233859935347
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Acute pharyngitis,43131,117,1.08 [0.78-1.49],0.6537924141175588
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,43380,366,0.91 [0.74-1.13],0.3995410185824956
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,43125,111,0.76 [0.49-1.16],0.1992203927929749
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,All influenza,40243,193,1.09 [0.85-1.41],0.4974599930080997
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),40239,189,1.08 [0.83-1.41],0.5503703237130451
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Allergic asthma (mode),29887,202,0.90 [0.68-1.20],0.4694990861008694
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Allergic rhinitis,43353,476,0.99 [0.83-1.17],0.8898376748068816
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",32251,3017,0.97 [0.90-1.04],0.3511125931930395
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",32654,2969,0.96 [0.90-1.04],0.3183083352531358
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),42876,234,1.05 [0.82-1.33],0.7051503660612485
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",40184,134,1.14 [0.85-1.53],0.3933610695124048
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Bronchiectasis,37708,585,1.13 [0.98-1.30],0.0992312945012395
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",37219,96,1.10 [0.77-1.58],0.5897454526211732
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,41845,4722,1.00 [0.95-1.06],0.956105783017178
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",41226,124,0.79 [0.53-1.17],0.2345961456467499
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Chronic sinusitis,41356,254,0.99 [0.79-1.26],0.964931349801486
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",43226,1982,1.02 [0.94-1.12],0.5901065119589126
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Deviated nasal septum,41291,189,0.84 [0.61-1.14],0.2523082586111769
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,40055,8787,0.99 [0.95-1.03],0.6476044236118563
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",41731,629,0.86 [0.73-1.02],0.0764452279903894
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Early onset COPD,41787,543,0.95 [0.80-1.13],0.5837238507011282
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Emphysema,37653,530,0.94 [0.78-1.13],0.5160804977301792
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,41307,502,1.20 [1.03-1.38],0.016585763667672
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Influenza and pneumonia,43175,3125,1.04 [0.97-1.11],0.2292305938861868
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Interstitial lung disease,41364,559,1.23 [1.07-1.40],0.0030790126723254
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Later onset COPD,41844,1439,1.06 [0.96-1.17],0.2881803880311924
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,43538,509,1.09 [0.93-1.27],0.3088033921822841
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Nasal polyp,41289,187,0.88 [0.65-1.19],0.4180255468057087
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,43127,1601,1.02 [0.93-1.12],0.6727035637717205
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Other diseases of pleura,43158,3316,1.04 [0.97-1.11],0.2425896326481907
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,42527,1425,0.90 [0.81-1.00],0.061344147116618
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Other pleural conditions,39929,87,1.41 [1.07-1.86],0.0150746498140092
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,43396,690,1.21 [1.07-1.37],0.0019580023607674
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,43373,2172,1.07 [0.99-1.16],0.093327141594805
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Pleural effusion,41468,1626,1.05 [0.96-1.15],0.3099230864578483
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Pleural plaque,40111,269,1.04 [0.82-1.31],0.7457355314136858
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",42755,2705,1.05 [0.98-1.13],0.1826821973134402
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,43429,400,1.11 [0.93-1.33],0.2302184981809283
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Pneumothorax,40046,204,1.07 [0.83-1.38],0.5777613944571625
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Pollen allergy,43522,407,1.02 [0.85-1.23],0.8168209319677735
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Pulmonary oedema,42815,109,1.16 [0.83-1.60],0.3849296758529226
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Respiratory insufficiency,29777,92,1.02 [0.68-1.52],0.9310040153069876
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,43091,1565,1.01 [0.92-1.11],0.8557334668580228
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,41579,477,0.98 [0.83-1.17],0.8377224543057925
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Viral pneumonia,40453,403,1.00 [0.83-1.21],0.9764501347095064
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",42903,333,1.00 [0.81-1.23],0.9971073066866942
+AMIGO1,Amphoterin-induced protein 1,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,20131,187,0.92 [0.69-1.23],0.5644830892949295
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,30878,109,0.98 [0.68-1.41],0.9107638842634932
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Acute appendicitis,43282,239,0.86 [0.65-1.12],0.257186616618354
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Acute gastritis,32840,145,1.02 [0.75-1.40],0.8943509349067025
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Acute pancreatitis,40468,313,1.19 [0.99-1.43],0.061483011531246
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Acute peritonitis,42771,149,0.94 [0.68-1.30],0.7166190331691952
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Alcoholic liver disease,42069,125,1.07 [0.77-1.48],0.6863107223168861
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Barrett oesophagus,33417,722,0.87 [0.74-1.02],0.0810916685105355
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",40323,168,1.04 [0.78-1.39],0.7947933721150172
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",42870,168,1.04 [0.78-1.38],0.8068624646018301
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Cholecystitis,40487,332,1.11 [0.92-1.35],0.2817559560210025
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Cholelithiasis,41870,1715,1.01 [0.92-1.11],0.8175140517304211
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Chronic gastritis,33204,509,0.81 [0.67-0.98],0.034623377473396
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Chronic pancreatitis,40237,82,1.05 [0.70-1.57],0.8257884818119916
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",43316,185,1.30 [1.04-1.62],0.0190965449384808
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Coeliac disease,40875,198,1.40 [1.17-1.67],0.0002267008330633
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Collagenous colitis,40733,131,0.77 [0.52-1.13],0.1842639779758181
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,43296,322,0.79 [0.62-1.01],0.0629950429497927
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Constipation,43126,2741,0.99 [0.92-1.07],0.815838220359464
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Crohn disease,40744,142,0.99 [0.72-1.36],0.941957657022893
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",42970,102,1.06 [0.74-1.52],0.7537935149887665
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Crohn's disease NAS,40736,134,0.99 [0.71-1.37],0.9435310719611768
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Dental caries,42314,385,1.04 [0.86-1.25],0.7065436441467063
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,39106,3702,1.02 [0.96-1.09],0.4321071589163505
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Diseases of appendix,43345,302,0.95 [0.76-1.19],0.6587950373260232
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Diseases of liver,43357,1413,0.97 [0.87-1.07],0.5326096566486092
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",39895,7200,1.01 [0.97-1.05],0.6942526533945259
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",42853,924,1.00 [0.88-1.13],0.9501121404492532
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Diseases of peritoneum,43412,790,0.89 [0.77-1.03],0.1051763562981879
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,42114,185,0.95 [0.71-1.27],0.7228128564627359
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Diseases of salivary glands,41876,102,0.95 [0.65-1.40],0.7964363624347173
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Diseases of the digestive system,43045,2368,0.97 [0.89-1.05],0.4338875108846974
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Diseases of tongue,41893,183,0.90 [0.67-1.22],0.4979279115592322
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",42538,2383,1.02 [0.95-1.11],0.5450490438606717
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,36076,5307,0.97 [0.92-1.03],0.3088571856167831
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Duodenal ulcer,33025,330,1.06 [0.87-1.30],0.5785365969790377
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",43406,261,1.11 [0.89-1.38],0.3392082957904149
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,43418,89,1.14 [0.81-1.61],0.4586311680060899
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,42164,220,1.26 [1.02-1.55],0.0285798421930909
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,31020,251,0.76 [0.57-1.00],0.0534659361307884
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Functional dyspepsia,33615,920,0.99 [0.88-1.13],0.9281126624970444
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Gastric ulcer,33304,609,0.99 [0.85-1.16],0.9064106198872316
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,36876,4181,0.98 [0.92-1.04],0.4125814982922638
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,33604,909,0.98 [0.86-1.11],0.7057288941718269
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,33726,13886,1.00 [0.97-1.03],0.9709666115569596
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,GI-bleeding,42600,1923,0.94 [0.85-1.03],0.1547710708520001
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,42032,103,1.01 [0.70-1.46],0.9528803461241736
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,32402,2114,0.89 [0.81-0.97],0.0083329604263929
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",42046,102,1.07 [0.75-1.53],0.6977761118665491
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Hernia,40802,5398,1.02 [0.97-1.07],0.4567487511804905
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Impacted teeth,43429,83,1.11 [0.77-1.60],0.5791459514574027
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Impaction of intestines,30866,97,1.24 [0.92-1.69],0.1624281561342419
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Inguinal hernia,36914,1510,1.03 [0.93-1.13],0.5849691068662863
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",35574,170,0.85 [0.61-1.18],0.3324541598262288
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,30924,155,1.00 [0.73-1.35],0.9766599431905216
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Intestinal malabsorption,40914,237,1.30 [1.08-1.56],0.0050316515762434
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,31693,924,1.00 [0.88-1.13],0.9394722015375444
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,43516,610,0.88 [0.74-1.04],0.1343988956379467
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,41861,1259,0.98 [0.88-1.09],0.718031469058739
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,42280,1678,0.97 [0.88-1.07],0.5275672538036946
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Oesophageal obstruction,32998,303,1.01 [0.82-1.26],0.9020968349598268
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Oesophagitis,33702,1007,1.04 [0.92-1.17],0.543692461214964
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,43474,229,1.16 [0.94-1.44],0.1669695062279327
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,35517,113,0.82 [0.54-1.23],0.3326364658511138
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,33055,2286,0.92 [0.84-1.00],0.0425177183511164
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,40620,465,1.08 [0.92-1.28],0.3405828457365037
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,40418,263,0.97 [0.76-1.23],0.8086332754622831
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Other diseases of intestine,33719,2950,0.93 [0.86-1.00],0.0467381501061022
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Other diseases of intestines,40171,9402,0.97 [0.93-1.01],0.0970610361556885
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,41865,347,1.20 [1.01-1.42],0.0375707955053087
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Other diseases of liver,43096,1152,0.96 [0.86-1.08],0.5066143980118011
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,33800,1105,0.98 [0.87-1.10],0.7020213714883967
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Other diseases of pancreas,40398,243,0.98 [0.76-1.26],0.8631825005673417
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,43303,681,0.89 [0.76-1.05],0.1600850125750493
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,34278,1583,1.12 [1.02-1.22],0.0118641607210408
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,42624,1947,0.94 [0.86-1.03],0.2070037392705395
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,42222,293,1.08 [0.88-1.33],0.4403903632586399
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,33590,2821,1.00 [0.93-1.07],0.9182225335499656
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),36057,3362,1.01 [0.95-1.08],0.7017484116616989
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,42112,168,1.10 [0.84-1.44],0.4742034460113723
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,42076,1474,0.96 [0.86-1.06],0.3906218864921491
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",31345,576,0.88 [0.74-1.04],0.1417194142453388
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,43399,105,1.05 [0.75-1.49],0.7645362340835545
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,31589,820,0.95 [0.82-1.09],0.4345139075177908
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",40938,261,0.82 [0.63-1.07],0.1491180939533764
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Recurring oral aphthae,43540,97,0.94 [0.63-1.40],0.7739503995627348
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,41932,196,0.96 [0.73-1.27],0.7831162770725607
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Toxic colitis,40697,95,0.88 [0.57-1.35],0.5652760284630773
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,33159,464,0.86 [0.71-1.05],0.1339484487799299
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Ulcerative colitis,40872,270,1.03 [0.83-1.29],0.7709198191785825
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",40828,226,0.95 [0.73-1.23],0.7012622432306015
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Umbilical hernia,35854,450,0.99 [0.83-1.19],0.9229716699987608
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,31066,297,0.81 [0.62-1.04],0.0979484922247546
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Ventral hernia,35836,432,0.82 [0.66-1.01],0.0596832459330007
+AMIGO1,Amphoterin-induced protein 1,Chapter XI Diseases of the digestive system,Volvulus,30902,133,1.05 [0.77-1.44],0.7554889451121166
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,43431,488,1.06 [0.90-1.24],0.5070404482244593
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,43023,136,0.86 [0.60-1.24],0.422478780870318
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,40175,275,1.05 [0.85-1.31],0.6452472770996028
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,42478,1175,1.05 [0.94-1.17],0.3580578552693496
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",41600,297,1.01 [0.81-1.26],0.9168773590169834
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,40542,642,1.04 [0.90-1.21],0.5974309877165964
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,43037,463,0.97 [0.81-1.16],0.7046947153185591
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,43381,807,1.03 [0.91-1.18],0.6063091143230207
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,42656,82,1.12 [0.77-1.63],0.5505198243157083
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,40952,5376,1.02 [0.97-1.07],0.5192613651189149
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,42801,741,1.03 [0.90-1.18],0.6215723326257048
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,42574,514,1.02 [0.86-1.20],0.8249710645066175
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,42894,1591,1.07 [0.97-1.17],0.1671244989878577
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",43533,91,0.97 [0.65-1.45],0.8887979629044437
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,40011,111,0.75 [0.49-1.15],0.1912438267955952
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,42152,92,0.97 [0.64-1.45],0.8673541172324291
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,43019,445,0.98 [0.82-1.18],0.8453840261530057
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,40666,766,1.03 [0.90-1.18],0.6676298247552213
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,40010,110,1.20 [0.88-1.62],0.2523865104308757
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,43415,136,1.14 [0.85-1.53],0.3691705513009918
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,41598,295,1.03 [0.82-1.28],0.8225347097239577
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,43212,325,0.86 [0.68-1.09],0.2115816334593751
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,42674,100,0.90 [0.60-1.37],0.6295617500440321
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,40009,109,1.22 [0.91-1.65],0.1823109849514989
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,42602,2702,1.04 [0.97-1.12],0.2841008934438523
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",40734,834,1.02 [0.90-1.16],0.7721497964809142
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,40017,117,1.15 [0.84-1.57],0.3737703154784983
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,43414,527,0.99 [0.84-1.17],0.9045601119059868
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,42694,120,1.13 [0.83-1.54],0.4324931789486336
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,43320,433,0.98 [0.81-1.18],0.820947605679776
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,43474,531,1.06 [0.91-1.24],0.430296515045974
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,40118,218,1.14 [0.92-1.43],0.2366748489353946
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,40341,441,1.09 [0.93-1.29],0.2931568869336873
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,43456,513,1.07 [0.91-1.25],0.4041471290654319
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",40279,379,1.25 [1.06-1.47],0.0064121511560263
+AMIGO1,Amphoterin-induced protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,43506,227,1.16 [0.94-1.45],0.1732786756421978
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,37355,186,0.91 [0.68-1.22],0.5175891658057088
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,39629,9457,1.00 [0.96-1.04],0.971933394987296
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,37276,7104,0.98 [0.94-1.03],0.49231480913974
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,37298,129,0.75 [0.51-1.12],0.1575095812231414
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,37806,255,0.86 [0.66-1.12],0.2523235540816697
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,37849,298,0.96 [0.77-1.20],0.7303528185921373
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,43140,156,0.60 [0.40-0.88],0.009733403062978
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",37716,165,0.96 [0.70-1.30],0.7875412597689122
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,32083,1911,1.01 [0.93-1.10],0.7870948841669256
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",43323,324,0.90 [0.72-1.13],0.3575009254208341
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,38265,714,0.98 [0.85-1.13],0.7694549949509495
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,36804,12198,0.98 [0.95-1.02],0.2904464946883098
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,40234,207,0.92 [0.70-1.22],0.5627116532244245
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,37425,256,0.95 [0.74-1.21],0.6682195194025121
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,38139,970,1.03 [0.91-1.16],0.6369842119481586
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,41983,4432,0.89 [0.84-0.95],0.0003154249572459
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,37634,465,0.92 [0.77-1.11],0.4097460955836192
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,37547,378,0.79 [0.63-0.98],0.0349913057950038
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,37403,234,0.96 [0.74-1.23],0.7336354715332969
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,42432,121,0.80 [0.54-1.19],0.2770162988748579
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,33008,2836,0.94 [0.87-1.01],0.1011417175127054
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,31143,971,1.06 [0.95-1.20],0.2897473045004441
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",43428,956,1.08 [0.97-1.22],0.1725227845250205
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,30296,124,0.94 [0.66-1.33],0.7160550380553643
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),30735,563,0.80 [0.67-0.96],0.0165810615428442
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,37677,508,0.88 [0.73-1.05],0.1630138748066317
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,31258,1086,1.02 [0.92-1.15],0.6654547506816577
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,37640,89,0.87 [0.56-1.36],0.5508017013732994
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,38605,1054,0.88 [0.77-1.00],0.0464662954628889
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,38054,503,0.92 [0.77-1.09],0.3317986133362058
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,31183,1011,1.04 [0.92-1.16],0.5443494175547287
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,37299,130,0.87 [0.60-1.25],0.4377142431251928
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",37269,100,1.40 [1.08-1.80],0.0104066434783633
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,40147,120,0.65 [0.42-1.01],0.0560038884236378
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,42910,2883,0.94 [0.88-1.02],0.1305691598626701
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,41915,1888,0.98 [0.90-1.08],0.7289082801156579
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",43317,764,0.98 [0.85-1.13],0.7942870689553263
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,34374,4202,0.99 [0.94-1.05],0.8343952542864805
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,30275,103,1.01 [0.70-1.45],0.9526628933250004
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,37322,153,0.98 [0.72-1.33],0.8875940650174666
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,30261,89,1.44 [1.11-1.87],0.0060629776998075
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),30389,217,0.92 [0.70-1.20],0.5277854449473425
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,40440,413,0.72 [0.58-0.91],0.0048206270116651
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,40648,621,1.01 [0.87-1.18],0.8731574789358195
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,43509,163,1.02 [0.76-1.36],0.9193183163141914
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",40569,3018,0.89 [0.82-0.96],0.0015880859602586
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,37337,168,0.87 [0.63-1.20],0.3959067575930339
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),30411,239,0.84 [0.64-1.10],0.2124647263992662
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,38760,1209,0.92 [0.82-1.03],0.1379421011174776
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,33791,3619,1.00 [0.94-1.06],0.974453828375606
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,42469,158,0.92 [0.67-1.27],0.6137647974851828
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,43532,128,0.93 [0.65-1.32],0.6663464508961177
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,37305,136,0.85 [0.59-1.22],0.3804520536389399
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",39254,2085,0.95 [0.87-1.04],0.2608493201305238
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,37317,148,1.07 [0.80-1.43],0.6513230348527728
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,32902,2730,0.96 [0.89-1.03],0.2343750611949468
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,40224,197,0.66 [0.47-0.92],0.014872429426562
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,37253,84,1.08 [0.74-1.58],0.7029036855540409
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,37817,266,1.04 [0.84-1.30],0.6978041907162936
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,38084,915,1.01 [0.89-1.14],0.8763844023271484
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,42919,608,0.99 [0.85-1.15],0.8845045165453874
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,38508,957,0.95 [0.83-1.07],0.3834502906856073
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,43336,745,0.99 [0.86-1.14],0.88974147410505
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,43523,90,0.87 [0.56-1.35],0.523008281770526
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,37486,317,1.03 [0.84-1.26],0.8008931805562107
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,34481,1251,0.97 [0.86-1.08],0.5322200283018612
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,38133,964,0.96 [0.85-1.09],0.5679085295232138
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],37554,385,0.93 [0.76-1.14],0.499949189182067
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",30269,97,0.92 [0.61-1.38],0.6814267304159658
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,34336,4164,0.99 [0.93-1.05],0.7246627038737306
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,31268,1096,1.00 [0.89-1.12],0.9388697511673324
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,42698,387,0.98 [0.80-1.19],0.8076577695644027
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",43451,105,1.24 [0.92-1.67],0.1603146767678497
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",39916,83,0.86 [0.54-1.37],0.5167175999096985
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,30303,131,0.91 [0.64-1.29],0.6050738511399425
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,37726,175,1.04 [0.79-1.37],0.7860110893630115
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,30946,774,0.97 [0.85-1.12],0.6862891276131395
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,37692,523,0.90 [0.75-1.07],0.2437051929506976
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,37974,423,0.75 [0.60-0.94],0.0103506223033907
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,37859,308,0.85 [0.67-1.08],0.193922322130004
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,34063,102,0.77 [0.50-1.20],0.2457705641439875
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",43530,97,0.93 [0.62-1.40],0.7445020824573225
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,38162,993,0.93 [0.82-1.06],0.2741647830101639
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],42477,166,1.05 [0.80-1.39],0.7120506457403026
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,41509,4340,0.97 [0.91-1.02],0.2366067130151728
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",37393,224,1.07 [0.84-1.36],0.5681473581270929
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,38429,878,0.92 [0.81-1.06],0.2549442791303253
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,41148,389,0.89 [0.72-1.10],0.2837744267238883
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,37876,325,1.10 [0.91-1.33],0.3043803385653585
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,40109,2558,0.91 [0.84-0.98],0.0179107858112625
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,39229,1678,0.98 [0.89-1.07],0.6586727389391258
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],37256,87,1.03 [0.69-1.53],0.8950456195388783
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,42559,248,0.98 [0.77-1.25],0.8769158678341338
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,37450,281,0.98 [0.78-1.23],0.8549961392644045
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,37301,132,1.10 [0.81-1.49],0.5342411835330858
+AMIGO1,Amphoterin-induced protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),30265,93,1.13 [0.80-1.60],0.5004566359447711
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Acute renal failure,41995,2524,1.02 [0.94-1.10],0.6777697204540907
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),17606,86,1.14 [0.81-1.60],0.4596459764204355
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,22949,98,0.86 [0.57-1.29],0.4622361618913039
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,43033,531,0.98 [0.83-1.16],0.8147570791255099
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,42646,144,1.22 [0.94-1.59],0.1408411992402023
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,41737,2266,0.97 [0.89-1.05],0.4805234028897399
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,43225,106,0.79 [0.52-1.22],0.2876282545124151
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,43195,493,0.81 [0.67-0.99],0.0416447072847484
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Cystitis,38459,388,0.88 [0.71-1.09],0.2326456455337083
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Dialysis,39581,110,1.02 [0.72-1.46],0.9011260051521868
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,18954,2747,0.90 [0.83-0.97],0.0078370324542602
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Disorders of breast,23131,280,0.93 [0.74-1.17],0.5415249294988083
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Endometriosis,17668,148,1.16 [0.90-1.49],0.2400184357407053
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",17861,341,0.79 [0.63-0.99],0.0423901481569384
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,18383,863,1.01 [0.89-1.14],0.8902053358541205
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,36397,8865,0.97 [0.93-1.01],0.1510310553263056
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,43242,123,0.78 [0.53-1.17],0.2341583100084883
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Hydrocele,16376,169,0.97 [0.72-1.31],0.8612014295524953
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,39413,464,0.92 [0.77-1.11],0.4081105598838181
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,18373,2166,0.89 [0.82-0.98],0.0125688555087807
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,23077,343,0.96 [0.78-1.18],0.6785745479377534
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),16401,194,0.80 [0.59-1.10],0.1695973313250954
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Irregular menses,23150,110,0.76 [0.50-1.14],0.1826449459633283
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Menorrhagia,17787,267,0.86 [0.68-1.09],0.2113102495048257
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,38195,124,0.83 [0.57-1.22],0.3523437884027777
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,19624,2104,0.97 [0.89-1.05],0.4065346894593756
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,16302,95,0.76 [0.48-1.21],0.2473324514026947
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,17638,118,0.85 [0.58-1.24],0.3940327138951438
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",43545,110,0.73 [0.47-1.13],0.1599350219298336
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",43545,112,0.93 [0.64-1.36],0.7159018620477062
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,41795,3724,1.00 [0.94-1.06],0.9065763466822392
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,39271,1200,0.96 [0.86-1.08],0.5266009928959303
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,22951,100,0.78 [0.50-1.20],0.2540366303301172
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,43453,751,0.87 [0.74-1.01],0.0694926984528176
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,16465,258,0.94 [0.73-1.21],0.6286065397163318
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,16446,239,0.77 [0.58-1.03],0.0831999151322051
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,16396,189,0.93 [0.69-1.24],0.6050209394147603
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,43497,116,0.71 [0.46-1.09],0.1153173377265154
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,40919,2848,1.00 [0.93-1.07],0.9297837466665352
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,22912,178,0.86 [0.63-1.17],0.3239443859271703
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,17656,136,0.90 [0.64-1.27],0.5405116765134625
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",17858,338,0.99 [0.81-1.21],0.906461887758968
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,17621,101,1.04 [0.72-1.48],0.8486566483348489
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,17696,176,0.70 [0.49-0.99],0.042939367780735
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,39492,543,0.89 [0.75-1.06],0.1948832949922015
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,42944,242,0.90 [0.69-1.17],0.4396369199892914
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,17783,263,1.08 [0.88-1.34],0.4598466544231071
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,17610,90,0.75 [0.48-1.19],0.2219750830453872
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,18073,553,0.94 [0.80-1.11],0.4754008026354445
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,17656,136,0.81 [0.56-1.17],0.2619032544773784
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,18026,506,1.06 [0.90-1.24],0.4825323316328025
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,43205,86,1.08 [0.73-1.59],0.6941623369079578
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",16420,213,0.78 [0.58-1.06],0.117548355774002
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,43201,4252,0.99 [0.94-1.05],0.8367438578808057
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",39152,203,0.95 [0.72-1.25],0.7236083070506985
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,39666,195,0.74 [0.54-1.03],0.0727857444564192
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,42592,90,1.14 [0.80-1.63],0.469068028866497
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Urethral stricture,38448,377,0.91 [0.74-1.13],0.3926761197978781
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Urolithiasis,43163,661,1.01 [0.87-1.17],0.890783693607849
+AMIGO1,Amphoterin-induced protein 1,Chapter XIV Diseases of the genitourinary system,Uterine polyps,17638,118,0.81 [0.55-1.20],0.2968762566436932

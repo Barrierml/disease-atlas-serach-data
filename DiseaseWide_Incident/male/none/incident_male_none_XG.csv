@@ -1,0 +1,632 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",22743,175,1.60 [1.10-2.34],0.0140264337489785
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",23775,191,1.80 [1.28-2.53],0.0006966901742766
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",23526,1414,1.41 [1.23-1.62],6.970994219421973e-07
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Candidiasis,23788,379,1.52 [1.18-1.97],0.0012070405617531
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,23090,3483,1.19 [1.09-1.31],0.0001176581760469
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),23055,3501,1.49 [1.36-1.63],2.359779381928968e-18
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,23570,1052,1.26 [1.08-1.48],0.004408374541885
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,23710,82,2.57 [1.65-4.01],3.2106370560385423e-05
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,21553,1117,1.51 [1.28-1.77],5.284391414554418e-07
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,20797,1242,1.74 [1.50-2.01],1.177056635097152e-13
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,20520,252,1.93 [1.40-2.67],6.28102424125791e-05
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,16730,2279,1.42 [1.27-1.59],6.694781634590273e-10
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,20450,406,2.37 [1.87-3.00],8.598196873246202e-13
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,23777,1259,1.25 [1.08-1.44],0.003101054348446
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Mycoses,23879,470,1.32 [1.05-1.67],0.018909717127454
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,23004,892,1.49 [1.26-1.76],4.68402319362558e-06
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,23799,1231,1.38 [1.19-1.60],1.3539954305035524e-05
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,22711,193,1.77 [1.25-2.50],0.0013089668923254
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,23918,52,0.99 [0.49-2.01],0.9748995921978194
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Other septicaemia,23643,1075,1.40 [1.20-1.64],1.9057866200399992e-05
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,23699,71,0.88 [0.50-1.54],0.6490307152528325
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Other viral diseases,23855,121,2.14 [1.44-3.19],0.0001764449751462
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",23835,101,2.65 [1.79-3.93],1.0964891590562806e-06
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,22611,499,1.82 [1.46-2.26],7.515213141454444e-08
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,22400,288,1.81 [1.35-2.44],8.468284380968398e-05
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,22607,89,1.37 [0.80-2.36],0.253803768813124
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,23899,69,2.01 [1.17-3.45],0.010862836453336
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,23863,143,1.54 [1.02-2.35],0.0423221346753251
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Viral warts,23771,51,2.37 [1.30-4.32],0.0049668006174013
+XG,Glycoprotein Xg,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],23771,51,1.17 [0.58-2.39],0.6627937545029059
+XG,Glycoprotein Xg,Chapter II Neoplasms,Benign lipomatous neoplasm,23601,345,0.79 [0.62-1.01],0.057904688482597
+XG,Glycoprotein Xg,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,23846,45,0.57 [0.34-0.94],0.0285944400389439
+XG,Glycoprotein Xg,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,23814,54,0.91 [0.46-1.80],0.7831885281407636
+XG,Glycoprotein Xg,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,23869,130,0.75 [0.51-1.10],0.1410185160783837
+XG,Glycoprotein Xg,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",23541,1651,0.95 [0.84-1.07],0.3853215813758252
+XG,Glycoprotein Xg,Chapter II Neoplasms,Benign neoplasm of meninges,23918,33,0.68 [0.33-1.42],0.305755610871731
+XG,Glycoprotein Xg,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,23856,66,2.42 [1.44-4.04],0.0007837242811848
+XG,Glycoprotein Xg,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,23902,78,2.68 [1.73-4.15],9.25039203745307e-06
+XG,Glycoprotein Xg,Chapter II Neoplasms,Benign neoplasm: Ascending colon,23893,443,1.17 [0.91-1.50],0.2119331892104908
+XG,Glycoprotein Xg,Chapter II Neoplasms,Benign neoplasm: Caecum,23888,343,1.24 [0.94-1.64],0.1265837153672616
+XG,Glycoprotein Xg,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",23789,82,0.79 [0.48-1.30],0.3468811301300437
+XG,Glycoprotein Xg,Chapter II Neoplasms,Benign neoplasm: Descending colon,23885,277,0.87 [0.65-1.17],0.3607177670923618
+XG,Glycoprotein Xg,Chapter II Neoplasms,Benign neoplasm: Rectum,23844,423,0.83 [0.65-1.04],0.107238929574365
+XG,Glycoprotein Xg,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,23793,732,0.97 [0.81-1.18],0.7898686604129002
+XG,Glycoprotein Xg,Chapter II Neoplasms,Benign neoplasm: Transverse colon,23873,563,1.07 [0.86-1.32],0.5607545595058495
+XG,Glycoprotein Xg,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",18574,71,1.76 [0.97-3.21],0.0633622225383292
+XG,Glycoprotein Xg,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",18573,70,1.16 [0.62-2.19],0.6396690535148993
+XG,Glycoprotein Xg,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",23887,101,0.74 [0.48-1.14],0.16583603331381
+XG,Glycoprotein Xg,Chapter II Neoplasms,"Haemangioma, any site",23887,98,0.75 [0.48-1.18],0.2103775774579372
+XG,Glycoprotein Xg,Chapter II Neoplasms,Lung cancer and mesothelioma,15927,346,1.11 [0.85-1.46],0.4470590229111112
+XG,Glycoprotein Xg,Chapter II Neoplasms,Lymphoid leukaemia,18568,65,1.51 [0.79-2.89],0.213017134048489
+XG,Glycoprotein Xg,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",18703,200,1.57 [1.08-2.27],0.0176191639183002
+XG,Glycoprotein Xg,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",18799,296,0.94 [0.70-1.26],0.6874035988827405
+XG,Glycoprotein Xg,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",18595,92,0.76 [0.48-1.20],0.2416026901044179
+XG,Glycoprotein Xg,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",18648,145,1.82 [1.20-2.74],0.0044377863588532
+XG,Glycoprotein Xg,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",18642,139,0.83 [0.55-1.24],0.3577350902788184
+XG,Glycoprotein Xg,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",18586,83,1.23 [0.70-2.18],0.474497685874809
+XG,Glycoprotein Xg,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",19911,1408,1.09 [0.95-1.25],0.2316292105793888
+XG,Glycoprotein Xg,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",18646,143,1.38 [0.89-2.14],0.1545164527632113
+XG,Glycoprotein Xg,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",18609,106,0.76 [0.49-1.18],0.2281742520048945
+XG,Glycoprotein Xg,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,18630,127,1.69 [1.06-2.71],0.0271935164378616
+XG,Glycoprotein Xg,Chapter II Neoplasms,Melanocytic naevi,23789,171,1.63 [1.10-2.40],0.014436062427696
+XG,Glycoprotein Xg,Chapter II Neoplasms,Melanocytic naevi of trunk,23885,95,1.76 [1.06-2.93],0.029898512596575
+XG,Glycoprotein Xg,Chapter II Neoplasms,Melanoma in situ,18538,75,0.92 [0.52-1.63],0.7674940419079125
+XG,Glycoprotein Xg,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",18602,99,1.29 [0.76-2.21],0.3503197318713706
+XG,Glycoprotein Xg,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",18671,168,1.11 [0.73-1.66],0.6305413429136062
+XG,Glycoprotein Xg,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",18724,221,0.93 [0.68-1.28],0.6569333131754342
+XG,Glycoprotein Xg,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",18605,102,1.45 [0.87-2.44],0.1566846032112973
+XG,Glycoprotein Xg,Chapter II Neoplasms,Other benign neoplasms of skin,23785,138,1.26 [0.81-1.97],0.3020991628331729
+XG,Glycoprotein Xg,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",19711,1208,1.06 [0.91-1.23],0.4745849482065878
+XG,Glycoprotein Xg,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",19787,1284,1.08 [0.93-1.25],0.2941918248934865
+XG,Glycoprotein Xg,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,23642,310,0.97 [0.73-1.29],0.8227722572069351
+XG,Glycoprotein Xg,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,22180,118,5.93 [4.78-7.35],2.951762014832849e-59
+XG,Glycoprotein Xg,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,23404,72,1.75 [0.99-3.07],0.0528624399751726
+XG,Glycoprotein Xg,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,23356,2793,1.41 [1.27-1.56],3.232470537310533e-11
+XG,Glycoprotein Xg,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,22631,63,2.78 [1.68-4.60],7.313817517091223e-05
+XG,Glycoprotein Xg,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,23494,54,1.42 [0.71-2.84],0.3181186040139072
+XG,Glycoprotein Xg,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,23539,1477,1.52 [1.33-1.74],1.284627297682605e-09
+XG,Glycoprotein Xg,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,23537,1475,1.52 [1.33-1.74],1.1516889435929378e-09
+XG,Glycoprotein Xg,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,22167,105,1.82 [1.11-2.98],0.0174541338901062
+XG,Glycoprotein Xg,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,23677,1109,1.42 [1.22-1.66],7.661996150981439e-06
+XG,Glycoprotein Xg,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,23545,105,1.83 [1.14-2.91],0.0114997864249177
+XG,Glycoprotein Xg,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,23408,76,2.09 [1.27-3.45],0.0036142197548644
+XG,Glycoprotein Xg,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,23393,61,1.49 [0.77-2.87],0.2316077781830393
+XG,Glycoprotein Xg,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,23753,313,1.79 [1.37-2.34],1.8654457560974794e-05
+XG,Glycoprotein Xg,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,23820,49,1.11 [0.52-2.37],0.7846660198466611
+XG,Glycoprotein Xg,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",23693,253,1.86 [1.39-2.50],2.986130038289707e-05
+XG,Glycoprotein Xg,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,22646,78,1.32 [0.74-2.35],0.3398880038457044
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,17618,378,2.05 [1.61-2.62],7.848175343513037e-09
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,21870,163,0.63 [0.45-0.88],0.0072913168086138
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,21900,193,0.66 [0.48-0.90],0.0086400447586037
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,17298,58,1.44 [0.70-2.96],0.3181790802332214
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,22531,65,1.54 [0.84-2.85],0.1646979626369783
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,21763,227,0.78 [0.57-1.06],0.1077734437667631
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",23410,617,1.25 [1.02-1.54],0.0307371063819336
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,23037,244,1.05 [0.76-1.44],0.7690312835654424
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,22963,170,0.86 [0.60-1.23],0.4167941262600996
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,23613,1147,1.15 [0.99-1.35],0.0677859392215311
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,20465,1105,1.15 [0.98-1.35],0.088680047389428
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",17313,73,2.08 [1.21-3.60],0.0085328858724624
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",23038,39,1.37 [0.60-3.12],0.4543428232277293
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,17514,274,1.73 [1.26-2.37],0.0006351239596405
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,17316,76,1.50 [0.80-2.83],0.204541760826416
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,21141,3901,1.27 [1.17-1.39],4.4547285851570427e-08
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,17428,188,1.07 [0.72-1.58],0.7521690074473366
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,17813,573,1.38 [1.10-1.73],0.0060216795455271
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,23861,280,2.86 [2.28-3.59],8.291229558303701e-20
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,23672,91,5.63 [4.44-7.15],1.3187240042230085e-45
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,17394,154,1.13 [0.72-1.76],0.6002878952191825
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",17305,65,1.93 [1.06-3.54],0.0322746740159213
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,23742,743,1.65 [1.38-1.98],4.409634097817493e-08
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,17550,310,3.58 [2.98-4.31],3.195425607437564e-42
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,17623,383,3.57 [3.03-4.22],8.905914259016236e-52
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",17976,736,1.49 [1.23-1.82],5.039974156571774e-05
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,17382,142,1.64 [1.07-2.52],0.0228101773842997
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,23665,84,3.61 [2.75-4.74],2.2231052087918686e-20
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,17811,571,1.71 [1.37-2.13],1.5217128891776474e-06
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,17632,392,1.16 [0.88-1.52],0.2982503644145258
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,21605,69,1.18 [0.62-2.23],0.6208515269329475
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,22469,5229,1.28 [1.19-1.38],3.3108229726851367e-11
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,23019,20,3.53 [1.75-7.14],0.0004440048817695
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,23021,22,1.29 [0.42-3.91],0.6564053273986483
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,23746,1790,1.05 [0.93-1.19],0.4121468413398371
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",23743,1786,1.05 [0.93-1.19],0.4363936462398931
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,23022,23,2.13 [0.86-5.25],0.1002208259097752
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,23644,805,0.87 [0.73-1.03],0.1088784361776985
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",18868,1628,1.90 [1.68-2.14],7.389319919832691e-26
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,23907,266,3.02 [2.42-3.76],8.525506149887707e-23
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,22902,109,1.65 [1.03-2.63],0.0365233550350169
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,22915,76,0.78 [0.46-1.31],0.3409089469063969
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,22922,83,1.37 [0.79-2.38],0.2672221631761505
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",17304,64,2.35 [1.34-4.11],0.0028203832210671
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,21113,167,2.32 [1.68-3.19],2.636165400632275e-07
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,2515,123,3.40 [2.47-4.66],3.5656696020035336e-14
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,2681,322,1.63 [1.25-2.13],0.0002938761717677
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,21047,101,2.67 [1.82-3.94],6.430170818034026e-07
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,2472,82,7.02 [5.00-9.87],2.9946990365147727e-29
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,23128,2182,0.95 [0.85-1.06],0.356733283356156
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,23156,363,1.22 [0.93-1.58],0.1464969880069489
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,21778,242,1.32 [0.94-1.84],0.1075891387702728
+XG,Glycoprotein Xg,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,18047,807,2.11 [1.78-2.50],3.9596775386737094e-18
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",23793,252,1.76 [1.30-2.40],0.0002840321249859
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),22679,271,1.73 [1.28-2.35],0.000379046524407
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Angina pectoris,20986,1502,1.43 [1.25-1.63],1.567675557144545e-07
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Aortic aneurysm,22788,380,1.57 [1.21-2.05],0.0007687759727914
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,22491,83,2.78 [1.79-4.33],5.997486517264792e-06
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",22658,250,2.51 [1.91-3.29],3.9558200557913146e-11
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,13985,2331,1.40 [1.25-1.56],7.4408074643265905e-09
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,AV-block,19231,624,1.32 [1.07-1.64],0.0102660520189834
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",23844,540,1.70 [1.38-2.10],6.542430920902776e-07
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Cardiac arrest,11908,254,2.33 [1.65-3.30],1.8794032659730124e-06
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Cardiomyopathy,18810,203,1.12 [0.76-1.64],0.5665179926496597
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",18718,111,1.90 [1.17-3.09],0.009831112578294
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,23920,68,1.60 [0.91-2.83],0.1038951774774148
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Conduction disorders,19980,1373,1.38 [1.19-1.59],1.1329914028041752e-05
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,22092,2632,1.31 [1.18-1.45],2.573495783943516e-07
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,20136,7814,1.07 [1.00-1.14],0.0385591381791074
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,DVT of lower extremities,22679,276,1.88 [1.41-2.52],2.0439523281181903e-05
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Endocarditis,18694,87,1.26 [0.70-2.25],0.4373486394224228
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,"Heart failure, strict",23607,1333,1.75 [1.54-1.99],2.7905968693898966e-17
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Hypertension,21347,6816,1.11 [1.04-1.19],0.0022942779803653
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,"Hypertension, essential",21370,6839,1.13 [1.06-1.21],0.0003349951235311
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,"Hypertension, portal",23690,114,1.17 [0.73-1.86],0.5201335716635683
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",14716,185,2.44 [1.73-3.44],3.411227187198865e-07
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,14703,172,7.13 [6.00-8.46],6.809578310159116e-112
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Hypotension,23772,1241,1.60 [1.39-1.85],5.2647172540833215e-11
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,22838,118,1.21 [0.75-1.93],0.4371319865671492
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",22236,2752,1.29 [1.17-1.42],5.95190844119387e-07
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",23481,656,1.42 [1.17-1.73],0.0004310706646696
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Left bundle-branch block,19031,424,1.47 [1.14-1.90],0.002940955932739
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,23183,1065,1.45 [1.24-1.69],3.1885827029862585e-06
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",20408,924,1.59 [1.35-1.88],3.7462902442185766e-08
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",23759,221,1.46 [1.04-2.06],0.0275339233925375
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",23867,373,1.41 [1.08-1.83],0.0120370438430793
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Oesophageal varices,22473,70,0.98 [0.54-1.76],0.9382404528283964
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Other aneurysm,22506,98,1.72 [1.03-2.85],0.037234309931041
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Other arrhythmias,19093,486,1.24 [0.97-1.59],0.0856868747117146
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,22543,135,3.30 [2.43-4.48],1.5029822873245666e-14
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,22693,285,2.20 [1.68-2.87],8.001886558961642e-09
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,18805,198,1.01 [0.69-1.47],0.9575172964273276
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Other disorders of veins,22502,99,1.64 [1.01-2.67],0.0445811706235377
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,22454,51,1.64 [0.82-3.29],0.164153204479431
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,22312,90,1.39 [0.81-2.39],0.2271572110789535
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,22512,109,1.69 [1.07-2.66],0.0234544874398583
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,19861,1254,1.59 [1.38-1.84],2.355436253013959e-10
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,22598,67,1.29 [0.69-2.41],0.4256721928397502
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,22986,578,1.85 [1.51-2.26],1.9192378706194742e-09
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,23269,365,1.76 [1.39-2.24],3.462382520801325e-06
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",22901,679,1.43 [1.18-1.73],0.0002800198860293
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,12035,381,1.48 [1.09-2.01],0.0118340163784666
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Peripheral artery disease,22892,532,1.82 [1.48-2.24],1.2530951033597485e-08
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),22761,358,1.42 [1.08-1.87],0.0125245060613799
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Pulmonary embolism,23406,502,1.49 [1.19-1.86],0.0005502050526989
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,23858,719,1.52 [1.26-1.83],8.491097972998541e-06
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Right bundle-branch block,19083,476,1.51 [1.19-1.92],0.000806719996307
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Secondary right heart disease,23267,363,1.73 [1.36-2.20],9.061835303431568e-06
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,22447,225,1.80 [1.31-2.47],0.0002520076051616
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",23465,745,1.38 [1.15-1.66],0.0005913592476171
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",23449,775,1.35 [1.13-1.62],0.0011806428923582
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,22815,48,0.74 [0.39-1.39],0.3485920817038681
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,22522,115,1.84 [1.15-2.94],0.0113509630485302
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Transient ischemic attack,23079,254,1.76 [1.29-2.38],0.0002873241226952
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,22436,318,1.55 [1.18-2.04],0.0017946083960798
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Varicose veins,22786,383,0.97 [0.75-1.26],0.8105709226439706
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,22426,74,1.15 [0.62-2.13],0.6590424515625717
+XG,Glycoprotein Xg,Chapter IX Diseases of the circulatory system,Venous thromboembolism,23676,789,1.43 [1.19-1.72],0.0001106771936413
+XG,Glycoprotein Xg,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",23719,500,0.74 [0.61-0.91],0.0042019986654847
+XG,Glycoprotein Xg,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",20558,976,0.97 [0.82-1.15],0.7377927856468277
+XG,Glycoprotein Xg,Chapter V Mental and behavioural disorders,Any mental disorder,23229,3647,1.09 [1.00-1.19],0.0485323799642666
+XG,Glycoprotein Xg,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",23658,591,0.74 [0.61-0.90],0.0018336496269988
+XG,Glycoprotein Xg,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",20766,1184,1.16 [1.00-1.36],0.0575538744685843
+XG,Glycoprotein Xg,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",19667,85,1.60 [0.92-2.77],0.0934186747924483
+XG,Glycoprotein Xg,Chapter V Mental and behavioural disorders,Smoking dependency,23272,1532,1.16 [1.01-1.34],0.0396124778934106
+XG,Glycoprotein Xg,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",21456,1874,1.08 [0.94-1.23],0.277897612863684
+XG,Glycoprotein Xg,Chapter V Mental and behavioural disorders,Vascular dementia,23402,149,1.30 [0.86-1.95],0.2123074405947607
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Alzheimer disease,23917,300,1.10 [0.82-1.46],0.5346690156235085
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",15870,58,0.74 [0.42-1.29],0.283046694598365
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Bell's palsy,22535,78,1.18 [0.66-2.13],0.5810824730963214
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,22801,344,1.24 [0.94-1.63],0.131288923621159
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Cerebral cysts,23515,237,1.12 [0.80-1.57],0.4940524564979286
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,23831,364,1.44 [1.11-1.88],0.0063055118328572
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,23406,59,1.21 [0.62-2.35],0.5750082504234537
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,23898,73,1.11 [0.62-2.02],0.7197306078698468
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",23371,93,1.03 [0.61-1.74],0.9128510060513146
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Epilepsy,22285,287,0.98 [0.72-1.32],0.8845797274954659
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,23377,1379,1.15 [1.00-1.32],0.0564759167623534
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,23883,689,0.89 [0.75-1.07],0.219997851523998
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Falls/tendency to fall,23370,2206,1.24 [1.11-1.38],0.0001337149471887
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Generalized epilepsy,23527,60,0.82 [0.44-1.54],0.5459681244081367
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Hemiplegia,23748,281,1.47 [1.09-1.98],0.0104986898944728
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Hydrocephalus,23333,55,0.86 [0.44-1.65],0.6415006148907056
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,23900,61,1.46 [0.76-2.80],0.2553817294379185
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,22478,21,0.58 [0.28-1.20],0.1405788442192646
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,22552,95,1.75 [1.08-2.85],0.0236917739963588
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Memory loss,23243,119,0.97 [0.62-1.54],0.9112888177014976
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Migraine,22197,199,1.29 [0.88-1.90],0.1883248564339688
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",23894,179,1.38 [0.93-2.06],0.1090608192108114
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Motor neuron disease,15978,153,1.08 [0.70-1.66],0.7379818773619331
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,23808,63,1.45 [0.74-2.83],0.2832302951809776
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",23444,987,1.33 [1.13-1.56],0.0007015579007225
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Neurological diseases,22593,3704,1.14 [1.04-1.24],0.0038925529512025
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,23589,242,1.29 [0.93-1.79],0.12063844075926
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",22850,393,1.24 [0.96-1.61],0.106148850979888
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",23822,354,1.82 [1.42-2.33],2.6547596397307093e-06
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,18732,623,1.28 [1.04-1.58],0.0205800909873754
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,23358,80,1.34 [0.75-2.38],0.3208279050501646
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Other disorders of nervous system,23429,151,1.37 [0.91-2.06],0.1321833397897324
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,23335,141,1.22 [0.80-1.88],0.3549247742860236
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Other facial nerve disorders,22554,97,1.17 [0.69-1.99],0.5522676892804741
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Other headache syndromes,22037,39,0.73 [0.35-1.50],0.3868454323667023
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Other neurological diseases,23799,521,1.12 [0.89-1.40],0.3431758297345629
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Other sleep disorders,22708,710,1.06 [0.87-1.28],0.5794831126618822
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Parkinson's disease,23897,540,0.81 [0.67-0.99],0.0366812076134588
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,23305,27,0.69 [0.31-1.56],0.3764948530551002
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Restless leg syndrome,23918,51,1.15 [0.56-2.35],0.6982109211130999
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Sleep apnoea,23610,639,1.06 [0.87-1.29],0.5799643256239052
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Small fibre neuropathy,23525,57,1.18 [0.59-2.38],0.6421593677637313
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,23900,179,1.09 [0.74-1.61],0.655085641450944
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,22492,35,1.29 [0.54-3.11],0.5647788465254782
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,23917,303,1.09 [0.82-1.45],0.5614404005831365
+XG,Glycoprotein Xg,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),23372,146,1.33 [0.88-2.01],0.1761989515358559
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,23369,85,0.78 [0.47-1.28],0.32621469784986
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,23572,298,1.00 [0.75-1.34],0.9982625126320216
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,23715,295,1.68 [1.27-2.21],0.0002401355016075
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,23040,44,1.02 [0.48-2.16],0.9558423534343132
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,23058,62,0.98 [0.51-1.89],0.945144218114772
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",23825,46,1.12 [0.53-2.35],0.7643443598005548
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,23684,122,0.99 [0.63-1.56],0.9810825053072922
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",2476,84,6.80 [4.87-9.51],3.0109728195968387e-29
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,3021,131,3.03 [2.24-4.09],4.0702875482800233e-13
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,23377,93,1.46 [0.86-2.49],0.1585525058195205
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,23666,995,1.06 [0.90-1.24],0.5126298119480719
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",23613,617,0.90 [0.74-1.09],0.2854751050835338
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,23141,145,0.92 [0.62-1.36],0.6698176680273025
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",23842,568,0.89 [0.72-1.09],0.2537200845690938
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,23915,66,1.08 [0.57-2.05],0.806285467813908
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,23774,500,0.88 [0.71-1.09],0.2274354428946116
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",23878,316,0.92 [0.70-1.21],0.5550327787201434
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,23828,148,0.95 [0.63-1.44],0.8072644727828008
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,23075,79,0.92 [0.54-1.58],0.7628728300351496
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,23083,87,0.78 [0.48-1.26],0.3112723694641065
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,23040,44,0.57 [0.36-0.90],0.0146365843768805
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,23825,684,0.88 [0.73-1.05],0.1560526987403134
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,23326,185,0.78 [0.56-1.07],0.1262045634293706
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,23304,30,1.01 [0.41-2.52],0.9780896268443786
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,23658,96,0.90 [0.55-1.49],0.693612321480637
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,23787,225,0.99 [0.71-1.38],0.943377936689522
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,23444,170,0.74 [0.53-1.04],0.080399610145147
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,23763,83,0.66 [0.43-1.02],0.0596245463964447
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,23601,460,0.87 [0.70-1.09],0.2300297140342926
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,23413,129,1.54 [1.00-2.37],0.0514808406868423
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,22543,1803,1.10 [0.98-1.24],0.1061826722885914
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,23757,195,0.93 [0.66-1.32],0.6940773411360168
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,23903,147,1.39 [0.92-2.12],0.1207336291581197
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,23414,418,0.86 [0.68-1.08],0.1807837379432712
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,23628,66,1.13 [0.60-2.12],0.7103100600491479
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,23904,55,0.91 [0.47-1.79],0.793836547245024
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,23074,78,0.85 [0.51-1.44],0.5526727390436112
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,23134,138,0.82 [0.55-1.20],0.3053268639736855
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,22799,128,0.74 [0.51-1.08],0.1190571366066301
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,23325,51,1.16 [0.56-2.40],0.6921872618932283
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",22735,64,1.19 [0.62-2.30],0.6032616049086766
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,23194,53,0.86 [0.44-1.66],0.6483979394724
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",23349,208,0.90 [0.65-1.26],0.5404020103897428
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,23115,119,0.95 [0.61-1.48],0.8091090286777141
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,22792,121,1.08 [0.66-1.76],0.7644006505919658
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,22765,94,1.43 [0.84-2.43],0.1852546221633587
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,22217,1477,1.09 [0.96-1.25],0.1889448609002148
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,23054,58,0.77 [0.44-1.34],0.3541904645620847
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,23670,386,1.34 [1.03-1.74],0.0291741143410124
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,23352,68,1.66 [0.92-2.98],0.0905774190556631
+XG,Glycoprotein Xg,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),23453,169,1.76 [1.22-2.54],0.0023229121837396
+XG,Glycoprotein Xg,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,23741,58,0.61 [0.38-0.98],0.0408317274940922
+XG,Glycoprotein Xg,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,23875,121,1.08 [0.68-1.73],0.7408892265773346
+XG,Glycoprotein Xg,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,23785,113,1.63 [1.03-2.59],0.0373219091434864
+XG,Glycoprotein Xg,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,23733,50,2.19 [1.17-4.11],0.0146551573456869
+XG,Glycoprotein Xg,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,23737,54,1.00 [0.50-2.00],0.9950435704463768
+XG,Glycoprotein Xg,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,23824,980,1.24 [1.05-1.47],0.009811328577428
+XG,Glycoprotein Xg,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,23570,726,1.28 [1.05-1.55],0.0122429441850608
+XG,Glycoprotein Xg,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,22974,130,1.36 [0.86-2.15],0.1831681340125746
+XG,Glycoprotein Xg,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,22931,87,1.41 [0.81-2.46],0.2227489871251119
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Acute pharyngitis,23705,64,0.91 [0.48-1.71],0.7684674036859197
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,23834,193,1.24 [0.85-1.80],0.265764595542996
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,23704,63,1.70 [0.93-3.08],0.0825962554701855
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,All influenza,21624,109,1.51 [0.92-2.47],0.1068881853516447
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),21621,106,1.54 [0.93-2.55],0.0908172894532593
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Allergic asthma (mode),15687,106,0.57 [0.40-0.81],0.0015268729810674
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Allergic rhinitis,23811,267,0.74 [0.56-0.98],0.0365560893637136
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",16675,1440,0.86 [0.75-0.99],0.029859160663667
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",16995,1414,0.87 [0.76-1.00],0.0529282503240724
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),23525,152,1.20 [0.79-1.81],0.3914555126992695
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",21611,96,1.29 [0.76-2.18],0.3483275992310969
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Bronchiectasis,20796,294,0.76 [0.59-0.98],0.0343121292710699
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",20546,44,1.57 [0.75-3.29],0.2361240295433119
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,23061,2559,1.01 [0.91-1.12],0.81217105227683
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",22464,80,0.72 [0.44-1.18],0.1953873759892926
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Chronic sinusitis,22547,163,0.68 [0.49-0.94],0.0210115959282299
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",23693,1309,1.09 [0.95-1.25],0.2429427278389276
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Deviated nasal septum,22525,141,0.97 [0.63-1.52],0.9074961093133866
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,21900,5292,1.09 [1.02-1.18],0.0162260306354649
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",22781,397,0.80 [0.63-1.02],0.0682963467144974
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Early onset COPD,22690,306,0.93 [0.69-1.24],0.6034078339642671
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Emphysema,20850,348,1.48 [1.13-1.94],0.0045809206290056
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,22985,342,1.21 [0.92-1.59],0.1782629276631559
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Influenza and pneumonia,23671,2156,1.41 [1.26-1.57],7.516977485575972e-10
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Interstitial lung disease,23014,371,1.19 [0.91-1.55],0.1981184090930943
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Later onset COPD,22844,1003,1.11 [0.95-1.30],0.1924563482315952
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,23901,431,1.19 [0.93-1.52],0.1571571523687909
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Nasal polyp,22529,145,0.95 [0.62-1.44],0.7958685391961869
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,23646,1011,1.36 [1.16-1.60],0.0001437151561651
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Other diseases of pleura,23633,2206,1.28 [1.14-1.42],1.4067229170550291e-05
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,23263,879,0.80 [0.68-0.94],0.0054181760531623
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Other pleural conditions,21492,65,0.73 [0.41-1.28],0.27088364556003
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,23823,453,1.33 [1.05-1.69],0.0166614228662404
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,23793,1391,1.34 [1.17-1.53],3.123896482497836e-05
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Pleural effusion,22555,1128,1.54 [1.33-1.79],1.882138020818625e-08
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Pleural plaque,21695,268,0.93 [0.69-1.27],0.6624034296824817
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",23405,1890,1.42 [1.26-1.60],4.1529946511776214e-09
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,23801,331,1.25 [0.95-1.66],0.1146480821789337
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Pneumothorax,21568,141,1.05 [0.68-1.63],0.8264304215391318
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Pollen allergy,23902,232,0.78 [0.57-1.06],0.1072054387548693
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Pulmonary oedema,23438,68,2.21 [1.31-3.73],0.0028950627753548
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Respiratory insufficiency,15637,56,0.97 [0.47-2.02],0.936680267214706
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,23628,993,1.36 [1.16-1.59],0.0001963747382181
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,22653,269,0.73 [0.56-0.96],0.023296713988783
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Viral pneumonia,21797,282,1.55 [1.14-2.12],0.005234084805567
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",23543,239,1.52 [1.10-2.11],0.0119490911562678
+XG,Glycoprotein Xg,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,10399,118,0.55 [0.40-0.76],0.0002201033322643
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,16707,90,0.99 [0.57-1.72],0.9655161578055428
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Acute appendicitis,23784,143,0.97 [0.63-1.49],0.8793644720073257
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Acute gastritis,18054,90,1.43 [0.83-2.46],0.2025276128229599
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Acute pancreatitis,22553,205,1.14 [0.79-1.64],0.4856632887101471
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Acute peritonitis,23559,96,1.67 [1.02-2.72],0.0420046808912902
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Alcoholic liver disease,23021,114,0.73 [0.49-1.09],0.127280452306814
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Barrett oesophagus,18496,532,1.04 [0.83-1.31],0.7360836876140382
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",22473,125,1.46 [0.93-2.30],0.0995119678245848
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",23514,125,1.42 [0.90-2.21],0.1286037132908361
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Cholecystitis,22569,221,1.42 [1.01-2.01],0.0464528066614038
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Cholelithiasis,23136,788,1.41 [1.17-1.69],0.0002241310720797
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Chronic gastritis,18234,270,1.11 [0.81-1.53],0.5128626545382631
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Chronic pancreatitis,22406,58,1.00 [0.52-1.93],0.9950264362188508
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",23713,137,1.42 [0.94-2.15],0.0942463983677089
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Coeliac disease,22279,94,0.55 [0.39-0.77],0.0004409631388003
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Collagenous colitis,22473,50,1.34 [0.65-2.78],0.431156252776961
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,23750,224,1.02 [0.72-1.44],0.91608708923899
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Constipation,23752,1609,1.13 [1.00-1.29],0.0535827759467727
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Crohn disease,22516,93,1.01 [0.59-1.73],0.9724703372289776
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",23576,67,0.91 [0.49-1.67],0.7531729569451062
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Crohn's disease NAS,22501,78,1.60 [0.90-2.85],0.1077280799950709
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Dental caries,23264,227,1.31 [0.94-1.84],0.1150880787298812
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,20246,1955,0.99 [0.88-1.11],0.8132199340630322
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Diseases of appendix,23814,173,0.98 [0.66-1.45],0.9118907242851406
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Diseases of liver,23776,869,1.06 [0.89-1.26],0.4902219941213606
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",21900,3936,1.08 [0.99-1.17],0.0771568854386097
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",23555,518,1.13 [0.90-1.42],0.2976043440070299
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Diseases of peritoneum,23868,405,0.95 [0.74-1.22],0.699541875304546
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,23147,110,0.81 [0.51-1.27],0.351951352691236
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Diseases of salivary glands,23006,65,1.33 [0.70-2.53],0.3849548244007531
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Diseases of the digestive system,23597,1412,1.02 [0.89-1.17],0.7997272133621416
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Diseases of tongue,23025,109,1.57 [0.97-2.53],0.0649927661678594
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",23548,1200,1.37 [1.18-1.59],3.048778939836333e-05
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,19679,3062,1.01 [0.92-1.11],0.8470788777235292
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Duodenal ulcer,18232,268,0.87 [0.64-1.17],0.3619557857536352
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",23802,211,0.73 [0.54-0.99],0.04188684423726
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,23842,48,0.93 [0.44-1.96],0.8459142869335269
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,23067,160,1.38 [0.94-2.04],0.0982231087217685
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,16799,182,0.91 [0.62-1.34],0.6377284131761565
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Functional dyspepsia,18388,424,1.34 [1.04-1.73],0.0262464995095284
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Gastric ulcer,18332,368,1.02 [0.78-1.33],0.8871799507674389
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,20126,2162,1.07 [0.95-1.20],0.2683092916867136
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,18566,602,0.92 [0.75-1.12],0.4053602748354146
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,18271,8005,0.99 [0.93-1.05],0.7591764007487966
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,GI-bleeding,23360,1175,1.10 [0.94-1.28],0.2240816832783262
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,23082,45,0.79 [0.40-1.59],0.5176241404593691
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,17577,1229,1.12 [0.96-1.31],0.1418222224753282
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",22991,84,1.89 [1.14-3.13],0.0137005110430943
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Hernia,21849,3558,0.92 [0.84-1.00],0.0453842424633997
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Impacted teeth,23845,45,1.01 [0.46-2.24],0.9733538449559118
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Impaction of intestines,16664,47,1.26 [0.59-2.70],0.553466277025187
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Inguinal hernia,19938,1647,0.83 [0.74-0.94],0.0023772548989919
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",18491,200,0.95 [0.66-1.35],0.7608158986076262
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,16705,88,1.22 [0.69-2.17],0.4882645904027639
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Intestinal malabsorption,22292,107,0.61 [0.43-0.88],0.0076528583062815
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,16889,272,1.22 [0.88-1.69],0.2433909045456618
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,23875,379,1.05 [0.81-1.36],0.7334205955217614
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,23109,686,1.30 [1.07-1.58],0.0091915370803476
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,23316,893,1.27 [1.07-1.51],0.0071895600337335
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Oesophageal obstruction,18181,217,1.19 [0.83-1.70],0.346793089368544
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Oesophagitis,18597,633,1.11 [0.90-1.37],0.3237488447489121
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,23865,111,1.07 [0.65-1.77],0.7884494485911404
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,18369,78,1.49 [0.85-2.64],0.1665012387340634
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,18055,1438,1.05 [0.92-1.21],0.4546067314645733
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,22610,262,1.13 [0.82-1.56],0.440935949447691
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,22473,125,1.26 [0.78-2.01],0.3420204934830866
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Other diseases of intestine,18494,1877,1.12 [1.00-1.27],0.0601152770089356
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Other diseases of intestines,22097,5480,1.04 [0.97-1.12],0.237466208490721
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,22987,178,1.05 [0.71-1.55],0.8151228230448309
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Other diseases of liver,23606,699,1.12 [0.93-1.36],0.2396326509532099
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,18707,743,1.04 [0.86-1.26],0.6812007540145478
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Other diseases of pancreas,22492,144,1.62 [1.08-2.45],0.0204402612657193
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,23798,335,0.84 [0.65-1.10],0.2098286942166431
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,18772,808,1.18 [0.98-1.42],0.0776799574717671
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,23372,1187,1.09 [0.94-1.27],0.2387493437516054
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,23217,180,1.27 [0.87-1.86],0.2201158564032469
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,18264,1647,1.15 [1.01-1.31],0.0342668765058923
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),19836,1872,1.07 [0.95-1.21],0.2515880031317209
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,23005,98,0.84 [0.52-1.37],0.4898689582106954
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,23207,784,1.31 [1.09-1.58],0.0036179512550097
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",16970,353,1.21 [0.91-1.60],0.1881478876168728
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,23834,58,1.20 [0.59-2.43],0.6199454775929115
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,17094,477,1.28 [1.00-1.62],0.0489937489710598
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",22346,161,1.01 [0.67-1.52],0.949720528162305
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Recurring oral aphthae,23905,42,1.13 [0.51-2.50],0.7570143211519237
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,23047,105,1.17 [0.70-1.97],0.5430727540960684
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Toxic colitis,22469,46,1.94 [0.98-3.81],0.0562098940579351
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,18263,299,0.88 [0.66-1.17],0.3819304816256804
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Ulcerative colitis,22572,149,0.96 [0.63-1.47],0.8536607866842231
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",22547,124,0.96 [0.60-1.52],0.8561722627104484
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Umbilical hernia,18662,371,0.95 [0.73-1.23],0.6887486654543347
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,16776,159,1.18 [0.77-1.80],0.4509495246900067
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Ventral hernia,18557,266,0.83 [0.62-1.11],0.215489842020858
+XG,Glycoprotein Xg,Chapter XI Diseases of the digestive system,Volvulus,16689,72,1.07 [0.57-2.01],0.8397391527483926
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,23843,329,1.45 [1.09-1.92],0.0104157007323937
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,23600,69,1.39 [0.76-2.53],0.2823700138446272
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,21914,97,1.08 [0.63-1.84],0.774010355194467
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,23172,766,1.25 [1.04-1.50],0.0172464279903438
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",22608,202,1.18 [0.81-1.72],0.3772510273622875
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,22287,470,1.51 [1.20-1.89],0.0004341436915367
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,23623,270,1.10 [0.81-1.51],0.5393708915066189
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,23828,475,0.99 [0.79-1.25],0.9521101726696194
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,23397,44,0.66 [0.36-1.24],0.1989618134544153
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,22423,3200,1.15 [1.05-1.27],0.002408185482597
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,23464,409,0.81 [0.64-1.02],0.070340073750588
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,23351,296,0.91 [0.68-1.21],0.5064899236518989
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,23451,1045,1.25 [1.06-1.46],0.0066044842420159
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",23908,31,1.15 [0.45-2.92],0.766195327026431
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,21839,22,1.78 [0.61-5.23],0.2922014080108543
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,23112,57,0.64 [0.38-1.08],0.0942496089184306
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,23618,265,1.09 [0.80-1.50],0.5737081095132599
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,22305,488,1.04 [0.82-1.31],0.7654974314305472
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,21896,79,2.16 [1.30-3.59],0.0028615515185369
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,23852,83,1.47 [0.85-2.54],0.1652456688034245
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,22629,223,1.73 [1.25-2.40],0.000880952357059
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,23748,217,1.05 [0.74-1.48],0.8018583622874388
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,23425,72,1.53 [0.86-2.73],0.1512296199971079
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,21884,67,1.63 [0.87-3.06],0.1250977944143853
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,23461,1644,1.33 [1.17-1.51],1.2004868709218373e-05
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",22346,529,1.07 [0.85-1.34],0.582053152248045
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,21899,82,2.02 [1.21-3.38],0.006978064342847
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,23829,298,1.07 [0.79-1.44],0.6642411574753568
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,23408,55,1.09 [0.56-2.14],0.7918735748553973
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,23792,261,1.05 [0.77-1.45],0.7422864206683593
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,23863,349,1.40 [1.06-1.84],0.0165468716417088
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,21907,90,1.16 [0.67-2.03],0.5956560069897489
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,22089,272,1.12 [0.81-1.54],0.4991541118027082
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,23856,342,1.42 [1.07-1.87],0.0141315698424953
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",22087,270,2.13 [1.65-2.75],9.022379971208126e-09
+XG,Glycoprotein Xg,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,23893,124,1.52 [0.97-2.37],0.0659694341240377
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,20653,91,1.36 [0.79-2.33],0.2654020143198612
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,21820,4806,1.16 [1.07-1.25],0.0001605912070069
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,20397,3383,1.11 [1.01-1.21],0.0236378875423511
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,20633,71,1.10 [0.59-2.05],0.7705756139919779
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,20986,152,1.23 [0.81-1.88],0.331341009622679
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,20981,147,2.03 [1.41-2.92],0.0001485275989422
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,23714,69,2.02 [1.19-3.44],0.0092092077628677
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",20914,80,1.11 [0.63-1.95],0.7174625005992661
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,17885,871,1.05 [0.88-1.25],0.6069922563143746
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",23797,151,1.09 [0.72-1.64],0.689397920381947
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,21108,274,1.25 [0.92-1.71],0.1567028237305147
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,20342,6291,1.14 [1.06-1.22],0.0001856296950529
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,22848,92,0.92 [0.54-1.58],0.7685631399770039
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,20728,166,1.63 [1.12-2.40],0.0117501131404465
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,21004,442,0.87 [0.69-1.10],0.2407209785788586
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,23084,2250,1.18 [1.06-1.31],0.0032375705985403
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,20927,365,0.79 [0.63-1.01],0.0573029950887044
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,20615,53,1.51 [0.74-3.07],0.2567002324956698
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,20659,97,0.72 [0.47-1.12],0.1482563142495377
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,23602,31,0.79 [0.35-1.79],0.5747148150090474
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,18487,1473,1.14 [0.99-1.30],0.0600828630080454
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,18003,989,2.40 [2.11-2.73],5.743245569439883e-40
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",23777,975,2.48 [2.17-2.84],6.8613751368947845e-40
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,17063,49,0.90 [0.44-1.86],0.7795850692573398
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),17092,78,1.46 [0.81-2.63],0.2112839625196088
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,20834,272,1.25 [0.91-1.72],0.1744490313257284
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,17644,630,1.17 [0.94-1.45],0.1544906544071603
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,20878,44,1.57 [0.75-3.29],0.2338470663734742
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,21371,537,1.30 [1.04-1.62],0.0217150629171137
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,21100,266,1.40 [1.03-1.92],0.0339626846883166
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,17605,591,1.15 [0.92-1.43],0.2304605926513464
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,20628,66,1.57 [0.84-2.93],0.1534639415681917
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",20616,54,1.33 [0.65-2.71],0.4331393810035582
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,22850,94,2.17 [1.40-3.35],0.0004900939034593
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,23627,871,1.09 [0.92-1.30],0.3111955030769948
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,23162,406,0.90 [0.71-1.15],0.4118649806299834
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",23835,290,0.93 [0.70-1.24],0.6287070430705067
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,18910,1896,1.23 [1.09-1.39],0.0006367585163294
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,17066,52,1.53 [0.73-3.21],0.2562228177196337
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,20647,85,1.91 [1.13-3.22],0.0153727695332199
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,17070,56,1.57 [0.81-3.06],0.1839768099187452
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),17059,45,1.90 [0.91-4.00],0.0895894548381333
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,22943,187,1.34 [0.92-1.96],0.1325749037206215
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,22921,165,1.25 [0.83-1.88],0.2849585004182845
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,23882,86,1.44 [0.83-2.49],0.1963275474896329
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",22375,1541,1.23 [1.08-1.40],0.0020981521942197
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,20628,66,1.83 [1.03-3.27],0.0402839073862392
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),17054,40,0.67 [0.35-1.32],0.2484663846243628
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,21455,621,1.20 [0.97-1.47],0.0927129264570184
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,18732,1718,1.19 [1.05-1.36],0.0071752035299219
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,23626,55,1.63 [0.84-3.15],0.1480990641185593
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,23901,63,1.53 [0.83-2.82],0.1702392164956912
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,20643,81,1.37 [0.78-2.41],0.2773019581419627
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",21548,986,1.37 [1.16-1.61],0.0001566307144127
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,20655,93,1.65 [0.99-2.75],0.0543706007146339
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,18227,1213,1.29 [1.11-1.50],0.0007561747453883
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,22841,85,1.30 [0.73-2.30],0.3742419952529803
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,20606,44,0.79 [0.38-1.61],0.5138413936870206
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,20945,111,1.20 [0.74-1.94],0.4498171164383369
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,21067,505,1.42 [1.14-1.78],0.0020447949261942
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,23764,193,0.91 [0.64-1.29],0.5877929336445291
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,21320,486,1.47 [1.18-1.85],0.0007723193206926
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,23844,284,0.92 [0.69-1.23],0.5685504493928271
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,23903,39,0.98 [0.44-2.17],0.9556929145168648
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,20713,151,1.61 [1.07-2.42],0.0215748169995272
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,19589,578,1.25 [1.00-1.55],0.0454006251194108
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,21040,478,1.35 [1.07-1.71],0.0113020239189899
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],20891,329,0.76 [0.59-0.97],0.0249547470924761
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",17044,30,0.79 [0.33-1.92],0.6063786518193732
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,19303,2289,1.52 [1.37-1.69],2.823668539748126e-15
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,17469,455,1.52 [1.20-1.93],0.000558696185416
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,23733,162,0.82 [0.57-1.19],0.2939232361877511
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",23843,47,2.08 [1.08-4.02],0.0290763793960927
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",21919,46,1.51 [0.78-2.89],0.2194827292052283
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,17079,65,1.65 [0.88-3.09],0.1177330645346632
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,20922,88,0.94 [0.56-1.59],0.8208375000332508
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,17312,298,0.99 [0.74-1.33],0.955388412377704
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,20838,276,1.23 [0.90-1.69],0.1895695628219566
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,21056,222,1.09 [0.77-1.54],0.6220721153212938
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,20928,94,1.31 [0.77-2.22],0.3199359717091344
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,18972,31,1.10 [0.42-2.88],0.8434672330617254
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",23904,40,0.94 [0.43-2.05],0.8791962999428997
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,21091,529,1.29 [1.03-1.62],0.0259355575151459
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],23592,21,1.02 [0.34-3.04],0.9667676810596498
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,22838,2276,1.15 [1.03-1.29],0.0104304196187958
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",20668,106,1.03 [0.62-1.71],0.9050765607990068
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,21344,510,1.20 [0.96-1.50],0.1125351566061235
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,22855,199,1.31 [0.91-1.88],0.1471540555647195
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,20963,129,1.33 [0.85-2.07],0.2082882127607019
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,22159,1325,1.29 [1.12-1.48],0.0003370672649095
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,21662,828,1.40 [1.17-1.66],0.0001831296490883
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],20606,44,1.96 [0.95-4.03],0.0665630217462265
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,23611,40,1.64 [0.75-3.61],0.2173640086542259
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,20684,122,0.68 [0.47-0.99],0.0452278081578351
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,20585,23,1.22 [0.43-3.44],0.7052531888731699
+XG,Glycoprotein Xg,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),17074,60,1.40 [0.70-2.79],0.3386277004066266
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Acute renal failure,22899,1877,2.71 [2.42-3.04],2.4725048990012635e-66
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,23442,412,0.95 [0.74-1.22],0.6848935121054444
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,23171,141,1.12 [0.73-1.72],0.6100907215163158
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,22585,1563,5.59 [5.10-6.12],1.9481894760701322e-297
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,23662,85,3.74 [2.97-4.70],2.8942051427156626e-29
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,23635,357,1.47 [1.12-1.93],0.0053952011656013
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Cystitis,21031,213,1.05 [0.73-1.49],0.8058166390053971
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Dialysis,21128,106,6.06 [5.00-7.34],5.204623352228107e-75
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,22626,3337,1.05 [0.96-1.15],0.2477200887646289
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,21526,5609,1.35 [1.26-1.46],4.1662895496202654e-15
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,23680,103,5.28 [4.16-6.71],1.288133329500119e-42
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Hydrocele,19496,207,0.90 [0.64-1.26],0.5446532752515387
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,21128,372,2.67 [2.05-3.49],5.225830259549686e-13
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,21912,2623,1.03 [0.94-1.14],0.5277639223950943
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),19526,237,1.25 [0.89-1.75],0.1912255440275864
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,20898,80,1.55 [0.86-2.77],0.1416503800439841
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,19400,111,1.14 [0.70-1.85],0.5925427015851723
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",23906,62,0.68 [0.40-1.15],0.1511005311121143
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",23910,57,1.36 [0.69-2.68],0.3739453597757066
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,23076,2258,1.24 [1.11-1.39],9.398650275516052e-05
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,21780,962,1.15 [0.97-1.36],0.116058769317193
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,23844,566,2.22 [1.83-2.69],5.679309350813521e-16
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,19601,312,1.31 [0.97-1.77],0.074152562380656
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,19573,284,1.24 [0.91-1.69],0.1689081589257722
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,19521,232,1.44 [1.03-2.01],0.0314948353939177
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,23902,50,3.16 [1.92-5.20],5.703040067199822e-06
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,22354,1536,1.40 [1.23-1.60],4.095871742580137e-07
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,21172,416,2.75 [2.16-3.49],2.0687825502043358e-16
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,23469,191,3.09 [2.33-4.11],7.438695101399033e-15
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,23635,58,2.06 [1.08-3.91],0.0278309169653861
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",19556,267,1.49 [1.10-2.02],0.0108534699307344
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,23614,2858,2.92 [2.66-3.20],8.982214730813318e-115
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",20828,72,4.30 [2.83-6.52],6.769350678903955e-12
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,21182,160,6.20 [4.65-8.28],3.9358494375826905e-35
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,23107,77,1.07 [0.59-1.94],0.8325954722038268
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Urethral stricture,21114,296,1.56 [1.15-2.11],0.004401369507005
+XG,Glycoprotein Xg,Chapter XIV Diseases of the genitourinary system,Urolithiasis,23560,530,0.94 [0.76-1.17],0.5822057816415593

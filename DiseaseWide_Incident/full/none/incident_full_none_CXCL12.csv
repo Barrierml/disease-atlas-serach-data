@@ -1,0 +1,661 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",48498,300,1.12 [0.87-1.44],0.3864042276600908
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",50260,389,1.13 [0.90-1.41],0.2940586537932663
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",49741,2720,1.12 [1.03-1.22],0.0104275851795075
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Candidiasis,50299,837,1.25 [1.08-1.45],0.0031899158125515
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,48772,6891,1.09 [1.04-1.15],0.0009087412755524
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),48956,6277,1.12 [1.06-1.18],9.69142219589294e-05
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,49802,2395,1.02 [0.93-1.12],0.6399918394853346
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,50116,170,1.13 [0.81-1.59],0.4602890006654919
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,46282,1913,1.23 [1.11-1.36],7.096681428091637e-05
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,44709,2166,1.24 [1.13-1.36],7.624602996327376e-06
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,44452,502,1.33 [1.10-1.61],0.0031615217074641
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,35358,3882,1.09 [1.01-1.17],0.022222024483735
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,44156,766,1.04 [0.89-1.23],0.5916711887371907
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,50229,2822,1.06 [0.97-1.15],0.2045862903172125
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Mycoses,50450,988,1.25 [1.09-1.43],0.001439408854681
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,48848,1827,1.19 [1.07-1.32],0.0009173399400554
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,50315,2117,1.22 [1.11-1.34],4.215517991609964e-05
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,47798,391,1.12 [0.90-1.40],0.308231722671953
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,50551,97,1.64 [1.08-2.49],0.0200667610737897
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Other septicaemia,50046,1848,1.22 [1.10-1.35],0.0001519815805753
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,50097,151,1.35 [0.96-1.91],0.0843212940421595
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Other viral diseases,50393,307,1.26 [0.99-1.60],0.065995379984018
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",50358,272,1.24 [0.95-1.60],0.1081194623666987
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,47840,819,1.20 [1.03-1.40],0.0178545816489643
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,47571,550,0.91 [0.75-1.10],0.3240976065255455
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,47625,218,1.30 [0.97-1.73],0.0790068601357971
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,50510,103,1.27 [0.83-1.94],0.2736409517383966
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,50422,293,0.96 [0.74-1.24],0.7523167366981707
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Viral warts,50225,96,0.94 [0.60-1.49],0.8055419280634655
+CXCL12,Stromal cell-derived factor 1,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],50252,123,1.05 [0.71-1.56],0.8118485761053448
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Benign lipomatous neoplasm,49980,580,0.85 [0.70-1.02],0.0801673968374963
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,50380,116,0.80 [0.52-1.21],0.2846858547279732
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,50349,123,1.06 [0.71-1.57],0.787865751202841
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,23268,129,0.83 [0.55-1.24],0.3629243424335532
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",49898,2826,1.01 [0.93-1.10],0.7427225363999791
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Benign neoplasm of meninges,50524,112,1.03 [0.68-1.56],0.8957578270159928
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,50424,128,0.87 [0.58-1.29],0.4870206706266946
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,50503,206,0.86 [0.63-1.18],0.3460128218482333
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Benign neoplasm of ovary,27154,174,1.30 [0.95-1.78],0.1044606663699784
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Benign neoplasm: Ascending colon,50506,713,0.98 [0.83-1.16],0.8349417995976729
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Benign neoplasm: Caecum,50506,585,0.93 [0.77-1.11],0.4137162831401025
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",50335,143,0.87 [0.60-1.26],0.4550596705369432
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Benign neoplasm: Descending colon,50502,426,0.97 [0.78-1.20],0.7762642727873539
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Benign neoplasm: Rectum,50425,693,0.88 [0.74-1.04],0.1344601962065638
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,50330,1198,1.08 [0.95-1.22],0.2608856602381262
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Benign neoplasm: Transverse colon,50488,844,1.09 [0.93-1.27],0.2872323724473031
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Carcinoma in situ of breast,22090,138,0.68 [0.46-1.00],0.0509858146537821
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",22181,166,0.66 [0.46-0.93],0.0189429682382388
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",40284,100,0.87 [0.55-1.37],0.5414394932571659
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",40319,135,1.35 [0.93-1.97],0.1104805695843425
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",50452,232,0.85 [0.63-1.14],0.2763275119607178
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Haemangioma, any site",50453,227,0.85 [0.63-1.15],0.2941033651524813
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Leiomyoma of uterus,26247,581,1.06 [0.89-1.26],0.5221961827411361
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Lung cancer and mesothelioma,35061,653,1.19 [1.00-1.41],0.0486149852043802
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Lymphoid leukaemia,40283,99,0.87 [0.55-1.37],0.5421502454480067
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",40554,370,0.86 [0.68-1.08],0.1976569958369228
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",40581,397,0.88 [0.70-1.10],0.2589657615103679
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",22309,181,1.11 [0.81-1.53],0.5066058966818114
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",40341,157,1.38 [0.97-1.94],0.0702992986044636
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",40398,214,0.89 [0.65-1.22],0.4711282756826411
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",40378,194,1.39 [1.02-1.90],0.0397580994074374
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",22268,140,0.84 [0.58-1.23],0.3645918893189873
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",40362,178,1.05 [0.75-1.47],0.7662564126775371
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",19412,1356,0.87 [0.77-0.98],0.0260093234330472
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",40407,223,1.00 [0.74-1.36],0.97480539723172
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",40330,146,0.98 [0.68-1.43],0.9258995416516554
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,40393,209,0.96 [0.70-1.31],0.8012211902557813
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Melanocytic naevi,50162,395,0.92 [0.73-1.15],0.4469094083687199
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Melanocytic naevi of trunk,50469,171,0.94 [0.67-1.32],0.7126857988402454
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Melanoma in situ,40249,159,0.82 [0.58-1.18],0.2935427430558101
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",40362,178,1.32 [0.95-1.83],0.0930010392112908
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",40496,312,1.30 [1.01-1.66],0.0384527370499658
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",40630,446,0.96 [0.78-1.19],0.7169539186639864
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",40378,194,1.52 [1.12-2.06],0.0066965209793787
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,Other benign neoplasms of skin,50195,306,0.91 [0.70-1.18],0.4709628565428526
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",42285,2101,1.07 [0.97-1.18],0.1985947934383302
+CXCL12,Stromal cell-derived factor 1,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",42400,2216,1.06 [0.96-1.16],0.2598536748244373
+CXCL12,Stromal cell-derived factor 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,49970,674,1.06 [0.89-1.25],0.5183401029768315
+CXCL12,Stromal cell-derived factor 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,46863,219,1.38 [1.03-1.85],0.0286624628188922
+CXCL12,Stromal cell-derived factor 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,49437,141,2.01 [1.47-2.75],1.4366755591759068e-05
+CXCL12,Stromal cell-derived factor 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,48996,5650,1.08 [1.02-1.14],0.0104224241803361
+CXCL12,Stromal cell-derived factor 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,47668,96,2.47 [1.70-3.59],1.8711958804816444e-06
+CXCL12,Stromal cell-derived factor 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,49741,101,1.05 [0.67-1.62],0.8446089024265329
+CXCL12,Stromal cell-derived factor 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,49597,2953,1.06 [0.98-1.15],0.1556029909532866
+CXCL12,Stromal cell-derived factor 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,49595,2951,1.06 [0.98-1.15],0.1600553239823118
+CXCL12,Stromal cell-derived factor 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,46815,171,1.05 [0.75-1.47],0.7899920271994991
+CXCL12,Stromal cell-derived factor 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,49908,2336,1.03 [0.94-1.12],0.5819286412760845
+CXCL12,Stromal cell-derived factor 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,49856,216,1.39 [1.04-1.86],0.0238679310165058
+CXCL12,Stromal cell-derived factor 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,49422,126,1.84 [1.29-2.61],0.0007129025048919
+CXCL12,Stromal cell-derived factor 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,49412,116,0.92 [0.60-1.39],0.6796170525234646
+CXCL12,Stromal cell-derived factor 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,50182,542,1.27 [1.06-1.53],0.0114141393767519
+CXCL12,Stromal cell-derived factor 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,50346,106,1.12 [0.73-1.71],0.5928694029856291
+CXCL12,Stromal cell-derived factor 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",50086,446,1.26 [1.03-1.55],0.0253004685779967
+CXCL12,Stromal cell-derived factor 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,47781,209,0.97 [0.71-1.32],0.856871342305784
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,39128,617,1.20 [1.00-1.43],0.0444617312384826
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,47141,228,1.32 [0.98-1.77],0.0654245227474531
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,47159,246,1.88 [1.44-2.46],3.593911725330032e-06
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,38618,107,1.46 [0.97-2.20],0.0695785166119103
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,46941,134,0.85 [0.58-1.25],0.4125569516745014
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,45831,471,1.14 [0.93-1.39],0.2038989444336577
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",49621,1115,1.16 [1.01-1.32],0.0294480346115592
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,49026,520,0.98 [0.81-1.19],0.8435127910301885
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,48757,251,1.00 [0.76-1.33],0.9775992334680697
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,49849,3042,1.09 [1.01-1.18],0.0267406465873169
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,44020,2948,1.11 [1.03-1.21],0.0095107302946604
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",38639,128,0.82 [0.55-1.22],0.3299955531504644
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",46603,159,1.39 [1.00-1.93],0.0517520206268468
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,39062,551,1.55 [1.30-1.85],1.0413036321431396e-06
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,38629,118,1.66 [1.14-2.42],0.0087454248895846
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,45414,6903,1.01 [0.96-1.07],0.6436227897080677
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,38895,384,1.16 [0.92-1.45],0.2045540318910245
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,39603,1092,1.38 [1.22-1.57],8.868693470777743e-07
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,50391,638,1.03 [0.86-1.22],0.7604546299385941
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,50023,270,1.10 [0.84-1.43],0.498727898072158
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,38760,249,1.43 [1.09-1.87],0.0094916612399107
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",38631,120,1.28 [0.86-1.91],0.2209332613118681
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,49485,3041,1.11 [1.03-1.21],0.0069850774480124
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,39016,505,1.46 [1.20-1.76],0.0001087543202282
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,39097,586,1.07 [0.89-1.29],0.460051162420331
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",39753,1242,1.01 [0.88-1.14],0.935105812154106
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,38743,232,1.20 [0.90-1.60],0.2179628491807827
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,50006,253,1.09 [0.83-1.43],0.5445301176885333
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,39693,1182,1.19 [1.05-1.35],0.0079940630659197
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,39458,947,1.14 [0.99-1.31],0.0769911773109923
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,45500,140,0.97 [0.66-1.41],0.8630880230484723
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,48244,9733,1.06 [1.01-1.10],0.0192079300110776
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,46541,97,0.75 [0.48-1.19],0.2218997764146318
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,46554,110,0.84 [0.55-1.29],0.4381468958376574
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,50188,3815,1.01 [0.94-1.08],0.8064661153129875
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",50191,3811,1.01 [0.94-1.08],0.7774763936662583
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,46549,105,1.23 [0.81-1.86],0.3338633241709283
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,49873,2374,1.09 [0.99-1.19],0.0670700064624296
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",41609,3098,1.16 [1.07-1.26],0.0002243179854542
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,50526,443,0.95 [0.77-1.17],0.6244611337138594
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,48668,162,1.12 [0.79-1.58],0.530567785017992
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,47704,205,0.87 [0.64-1.19],0.3831467282942485
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,47779,280,0.94 [0.72-1.23],0.6628435339167673
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",38844,333,1.20 [0.95-1.53],0.123239220673282
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,46014,305,0.71 [0.54-0.92],0.0087949887882632
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,4131,169,1.21 [0.87-1.68],0.2573184262798396
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,4402,494,1.02 [0.84-1.24],0.8398590518172675
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,45833,124,1.14 [0.76-1.70],0.5327349173890771
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,4070,111,0.87 [0.57-1.32],0.5069318668338675
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,49283,3574,0.87 [0.80-0.93],0.0001792728023573
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,49195,689,1.07 [0.91-1.27],0.4070074236425182
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,46083,723,1.15 [0.98-1.35],0.0904530971210263
+CXCL12,Stromal cell-derived factor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,40014,1503,1.09 [0.98-1.23],0.123041907373093
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",50333,477,1.16 [0.95-1.42],0.1473652911489475
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),48342,324,1.22 [0.95-1.56],0.1132606644999
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Angina pectoris,46160,2342,1.01 [0.93-1.11],0.758115215669514
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Aortic aneurysm,48493,475,1.15 [0.94-1.42],0.1713913839144681
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,48133,115,1.13 [0.75-1.71],0.5524748686205984
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",48413,395,1.41 [1.13-1.74],0.0020424702358421
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,31383,3718,1.10 [1.02-1.18],0.0150174481242415
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,AV-block,42597,841,1.00 [0.86-1.17],0.9873800893625706
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",50435,829,1.03 [0.88-1.20],0.6917834779854299
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Cardiac arrest,28045,380,1.24 [0.99-1.56],0.0624739873228017
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Cardiomyopathy,42090,334,1.19 [0.94-1.51],0.1543624659133903
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",41944,188,1.22 [0.89-1.67],0.2257908178186319
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,50547,100,1.36 [0.88-2.09],0.1647956967826893
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Conduction disorders,43814,2058,1.05 [0.95-1.15],0.3747219695791155
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,47874,4091,1.14 [1.07-1.23],0.000130428944676
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,44105,14764,1.05 [1.01-1.09],0.0096507365635832
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,DVT of lower extremities,47855,514,1.15 [0.95-1.40],0.146732586517926
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Endocarditis,41902,146,1.14 [0.79-1.65],0.4698750802111604
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,"Heart failure, strict",50146,2158,1.22 [1.11-1.34],4.379512926162722e-05
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Hypertension,45903,12679,1.02 [0.98-1.06],0.2950919809068651
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,"Hypertension, essential",45940,12716,1.02 [0.98-1.06],0.3140345844610957
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,"Hypertension, portal",50221,147,2.42 [1.78-3.27],1.1916175537406582e-08
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",33573,349,1.46 [1.17-1.82],0.0008332058698185
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,33494,270,1.19 [0.91-1.55],0.2086940345364772
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Hypotension,50266,2312,1.22 [1.11-1.33],2.415357932811437e-05
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,48739,208,1.26 [0.93-1.71],0.1297963029997531
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",48200,4382,1.13 [1.05-1.20],0.000462559531906
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",49808,1095,1.25 [1.10-1.43],0.0007909478527056
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Left bundle-branch block,42465,709,1.02 [0.86-1.20],0.8449479263170243
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,49611,1641,1.21 [1.08-1.34],0.0006529084398765
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",45199,1381,1.30 [1.15-1.46],1.4600686757578066e-05
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",50364,303,1.34 [1.04-1.71],0.0225965312975847
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",50495,603,1.15 [0.96-1.38],0.1285258580121721
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Oesophageal varices,47443,102,2.17 [1.49-3.15],5.1966906351297545e-05
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Other aneurysm,48173,155,1.53 [1.09-2.14],0.0147225142404134
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Other arrhythmias,42578,822,1.20 [1.03-1.40],0.0174790660542215
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,48214,196,1.42 [1.05-1.93],0.0248519824175656
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,48487,469,1.25 [1.02-1.52],0.033154808869323
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,42097,341,1.12 [0.88-1.42],0.3584983169412956
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Other disorders of veins,47530,189,1.26 [0.92-1.73],0.1459488646133997
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,47434,93,1.45 [0.94-2.24],0.0959479642963139
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,47747,129,1.09 [0.74-1.62],0.6563273559621954
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,47607,266,1.28 [0.98-1.66],0.0706956064111841
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,43793,2037,1.16 [1.05-1.28],0.0027719187716211
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,48059,105,1.65 [1.11-2.46],0.0138486966348617
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,49080,1062,1.32 [1.15-1.50],4.4856888503232846e-05
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,49343,684,1.45 [1.23-1.70],8.058167928907592e-06
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",48814,1196,1.21 [1.06-1.37],0.0034188057859442
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,28324,659,1.14 [0.96-1.35],0.1459380509788712
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Peripheral artery disease,48753,796,1.31 [1.12-1.52],0.0006267232946334
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),48012,671,1.22 [1.03-1.44],0.0197838868365288
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Pulmonary embolism,49596,937,1.25 [1.09-1.45],0.0017971203515284
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,50411,1287,1.12 [0.99-1.27],0.0688423007688136
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Right bundle-branch block,42440,684,1.12 [0.95-1.33],0.1745410910696088
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Secondary right heart disease,49333,674,1.43 [1.21-1.68],1.799505014006185e-05
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,47992,374,1.30 [1.04-1.63],0.0229373287690031
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",49785,1254,1.26 [1.11-1.43],0.0002314945412459
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",49746,1329,1.29 [1.14-1.45],3.1394454919377686e-05
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,48686,116,1.39 [0.93-2.05],0.104264346453895
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,48178,161,0.96 [0.67-1.37],0.8131065546032195
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Transient ischemic attack,49174,461,1.29 [1.05-1.57],0.0144346785597631
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,48482,512,1.00 [0.82-1.22],0.9939076975403494
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Varicose veins,48166,825,1.18 [1.02-1.38],0.0283237300112161
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,48047,166,0.98 [0.69-1.39],0.9191387489508008
+CXCL12,Stromal cell-derived factor 1,Chapter IX Diseases of the circulatory system,Venous thromboembolism,50114,1473,1.25 [1.12-1.40],0.000110510723815
+CXCL12,Stromal cell-derived factor 1,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",50313,703,1.34 [1.14-1.58],0.0003493662611883
+CXCL12,Stromal cell-derived factor 1,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",44231,2806,1.07 [0.99-1.16],0.1009173830270681
+CXCL12,Stromal cell-derived factor 1,Chapter V Mental and behavioural disorders,Any mental disorder,49259,7834,1.09 [1.04-1.14],0.0008170698137009
+CXCL12,Stromal cell-derived factor 1,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",50222,833,1.28 [1.10-1.49],0.0013517427450314
+CXCL12,Stromal cell-derived factor 1,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",44522,3097,1.10 [1.02-1.19],0.0142901732969342
+CXCL12,Stromal cell-derived factor 1,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",41602,177,1.35 [0.98-1.85],0.0668001392382988
+CXCL12,Stromal cell-derived factor 1,Chapter V Mental and behavioural disorders,Smoking dependency,49505,2678,1.19 [1.09-1.29],5.9648034781672736e-05
+CXCL12,Stromal cell-derived factor 1,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",44617,3192,1.15 [1.06-1.24],0.0004057669456318
+CXCL12,Stromal cell-derived factor 1,Chapter V Mental and behavioural disorders,Vascular dementia,49551,252,1.08 [0.82-1.43],0.584477946569197
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Alzheimer disease,50550,645,1.09 [0.92-1.30],0.3246525995545329
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,"AlzheimerÕs disease (Atypical or mixed), excluding more controls",34076,116,0.96 [0.63-1.46],0.8440240005011631
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Bell's palsy,47069,159,1.15 [0.81-1.62],0.426594718401208
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,47871,961,0.96 [0.83-1.11],0.5653338679741877
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Cerebral cysts,49758,450,1.27 [1.04-1.56],0.021890270964152
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,50392,635,1.11 [0.93-1.32],0.260412692302624
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,49573,98,1.14 [0.73-1.78],0.5608066728879425
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,50517,119,1.09 [0.73-1.63],0.6796819952968747
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",49450,142,0.93 [0.64-1.35],0.6929127188537358
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Epilepsy,47490,555,1.24 [1.03-1.50],0.0206656657875656
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,49600,2665,1.15 [1.06-1.25],0.0010572642918222
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,50465,1180,1.10 [0.97-1.25],0.1509659359698426
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Falls/tendency to fall,49382,5057,1.18 [1.11-1.25],1.710163765271615e-07
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Generalized epilepsy,49809,104,1.69 [1.13-2.51],0.0100239316822288
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Hemiplegia,50252,495,1.07 [0.88-1.30],0.5112240792166465
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Hydrocephalus,49428,120,1.24 [0.83-1.84],0.2901564248433528
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,50512,135,1.34 [0.93-1.94],0.1118625150382857
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,47054,144,0.80 [0.55-1.17],0.2531442997845182
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,47065,155,1.09 [0.77-1.56],0.6146581699815774
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Memory loss,49268,217,1.13 [0.84-1.53],0.4115106073362984
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Migraine,47631,696,1.14 [0.97-1.34],0.1242051170694543
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",50410,626,1.14 [0.96-1.35],0.1430192921830933
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Motor neuron disease,34264,268,1.34 [1.03-1.75],0.029330678170581
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,50223,208,1.19 [0.88-1.60],0.2570561835248443
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",49238,2328,0.98 [0.90-1.08],0.7105266367049492
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Neurological diseases,47635,7366,1.09 [1.04-1.15],0.0009807837437448
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,49867,392,1.15 [0.92-1.44],0.2050964537082003
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",47712,802,0.95 [0.81-1.11],0.5257085789740892
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",50401,578,1.12 [0.93-1.35],0.2181318511663998
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,40202,1266,1.15 [1.01-1.30],0.0293685377684649
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,49448,140,1.27 [0.88-1.83],0.1937622834313813
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Other disorders of nervous system,49582,274,0.95 [0.72-1.24],0.7049447063654762
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,49607,322,1.17 [0.91-1.49],0.2138698732215067
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Other facial nerve disorders,47097,187,1.12 [0.82-1.54],0.4798090568475793
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Other headache syndromes,47046,111,1.05 [0.69-1.59],0.8261659088156732
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Other neurological diseases,50319,1011,1.16 [1.01-1.33],0.0375255505314113
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Other sleep disorders,48023,1088,1.03 [0.90-1.17],0.7160289832216971
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Parkinson's disease,50504,835,1.11 [0.96-1.30],0.167538645419013
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,49417,109,1.32 [0.88-1.97],0.1779203731014201
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Restless leg syndrome,50549,152,1.11 [0.78-1.58],0.5644592576939296
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Sleep apnoea,50069,936,1.00 [0.87-1.16],0.9653699272572116
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Small fibre neuropathy,49917,94,1.22 [0.77-1.91],0.3957690233942892
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,50524,322,1.24 [0.97-1.58],0.0793656684332994
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,47009,99,0.95 [0.61-1.49],0.8258300830447111
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,50550,652,1.09 [0.92-1.30],0.3064198779868599
+CXCL12,Stromal cell-derived factor 1,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),49479,245,1.06 [0.80-1.40],0.7036263963416153
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,49430,197,0.93 [0.67-1.27],0.6332697903674542
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,49747,768,1.11 [0.95-1.30],0.1930179155362468
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,50209,458,0.78 [0.63-0.96],0.0185542199532237
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,48592,102,0.69 [0.44-1.09],0.1099928176219707
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,48606,116,0.90 [0.60-1.37],0.630569776924631
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",50338,104,0.80 [0.51-1.24],0.3224566129330475
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,50036,284,1.07 [0.82-1.39],0.607590384583148
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",4080,118,0.90 [0.60-1.35],0.60430700133287
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,4953,198,1.22 [0.90-1.65],0.1956913427187624
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,49414,181,1.14 [0.83-1.59],0.4165072847460981
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,50129,2027,1.11 [1.01-1.23],0.0350698084159036
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",49838,1348,0.98 [0.87-1.11],0.7409168515698243
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,48929,439,1.14 [0.93-1.41],0.2085790169534383
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",50386,1407,1.02 [0.90-1.14],0.7834570591203407
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,50530,134,1.24 [0.85-1.80],0.2658049560911072
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,50239,1260,1.02 [0.90-1.15],0.7883774561632636
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",50465,713,0.98 [0.83-1.16],0.7941883031721535
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,50370,349,1.06 [0.83-1.34],0.6563614945626723
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,48609,119,1.00 [0.66-1.51],0.9986021829331476
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,48618,128,0.95 [0.64-1.41],0.8035881067920788
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,48598,108,0.90 [0.58-1.38],0.6223880316351216
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,50373,1384,1.06 [0.94-1.20],0.3246502401791534
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,49348,359,1.04 [0.82-1.32],0.7287977061537154
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,49076,97,1.05 [0.67-1.64],0.8372934260263738
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,49949,197,1.01 [0.73-1.38],0.9672417295290564
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,50281,529,0.96 [0.79-1.16],0.6634969748087993
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,49353,374,0.91 [0.72-1.15],0.4212953398715281
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,50236,215,1.12 [0.83-1.51],0.4521936745801965
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,49916,927,1.12 [0.97-1.30],0.1146576135271463
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,49511,278,1.05 [0.81-1.37],0.7120150197608519
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,47424,4234,1.06 [0.99-1.13],0.1176083881361997
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,50212,460,0.95 [0.77-1.17],0.634514220398066
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,50511,295,1.34 [1.05-1.72],0.0199481889891299
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,49277,787,0.91 [0.78-1.07],0.2664956439493836
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,49880,128,0.90 [0.60-1.34],0.6001277390428853
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,50504,108,1.11 [0.73-1.70],0.6194215760445227
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,48654,164,1.04 [0.74-1.47],0.8198567260099352
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,48773,283,1.16 [0.90-1.51],0.2515131778644902
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,48333,231,0.93 [0.69-1.24],0.6058903672392113
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,49102,123,1.27 [0.86-1.87],0.228856556397817
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",48223,121,0.90 [0.60-1.36],0.6216011970006443
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,49160,171,0.93 [0.66-1.31],0.6852091719806623
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",49365,376,1.00 [0.80-1.26],0.9706034904322494
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,48735,245,0.85 [0.64-1.14],0.2849022390124438
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,48320,218,1.06 [0.79-1.44],0.6857499821718751
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,48267,165,1.23 [0.87-1.73],0.2355329956920591
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,46714,3524,1.06 [0.99-1.15],0.0995778817192565
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,48632,142,1.13 [0.78-1.63],0.5208544308284083
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,50048,815,1.04 [0.89-1.22],0.5866672624055709
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,49349,116,1.07 [0.71-1.62],0.7379175527510908
+CXCL12,Stromal cell-derived factor 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),49560,327,1.21 [0.95-1.54],0.113416832328396
+CXCL12,Stromal cell-derived factor 1,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,50139,166,1.14 [0.81-1.60],0.4551820668463703
+CXCL12,Stromal cell-derived factor 1,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,50461,236,0.80 [0.59-1.07],0.1286117312471196
+CXCL12,Stromal cell-derived factor 1,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,50299,248,1.14 [0.87-1.51],0.3429742688779969
+CXCL12,Stromal cell-derived factor 1,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,50091,118,1.07 [0.71-1.60],0.7530884927988108
+CXCL12,Stromal cell-derived factor 1,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,50091,118,0.99 [0.66-1.49],0.9667578274699542
+CXCL12,Stromal cell-derived factor 1,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,50357,1747,0.96 [0.86-1.07],0.4621639579345645
+CXCL12,Stromal cell-derived factor 1,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,49863,1253,1.01 [0.89-1.15],0.8689387253081735
+CXCL12,Stromal cell-derived factor 1,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,48856,246,0.69 [0.51-0.92],0.010791584596101
+CXCL12,Stromal cell-derived factor 1,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,48777,167,0.90 [0.64-1.27],0.5493219965765277
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Acute pharyngitis,50070,149,0.93 [0.64-1.33],0.683687133174422
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,50340,419,1.04 [0.84-1.29],0.7322783897597132
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,50047,126,1.01 [0.68-1.49],0.9760236573981907
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,All influenza,46602,230,1.14 [0.85-1.52],0.3830343280149405
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),46597,225,1.14 [0.85-1.53],0.3674714360280444
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Allergic asthma (mode),34632,224,0.82 [0.60-1.10],0.1860224709774537
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Allergic rhinitis,50292,546,1.03 [0.85-1.24],0.779608986120281
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",37325,3445,1.08 [1.00-1.17],0.0407331872769026
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",37802,3394,1.08 [1.01-1.17],0.0339661807806569
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),49754,269,1.29 [0.99-1.67],0.0580440801145457
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",46532,160,1.51 [1.09-2.09],0.0129658407649916
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Bronchiectasis,43842,690,1.25 [1.06-1.47],0.008660243175826
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",43264,112,1.32 [0.88-1.97],0.1759592509277533
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,48579,5427,1.14 [1.07-1.21],1.7889055153078994e-05
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",47856,140,1.45 [1.01-2.07],0.0422173181885168
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Chronic sinusitis,48017,301,1.16 [0.90-1.49],0.2626649019769388
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",50155,2325,1.22 [1.12-1.34],1.0165045732040766e-05
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Deviated nasal septum,47926,210,1.02 [0.75-1.39],0.8778134890655223
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,46503,10284,1.12 [1.08-1.17],1.178821050017303e-07
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",48431,715,1.06 [0.90-1.25],0.469203475693156
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Early onset COPD,48445,615,1.20 [1.01-1.43],0.0379287309513196
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Emphysema,43761,609,1.34 [1.13-1.59],0.0007404716155481
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,48027,561,1.54 [1.29-1.84],2.115399886411319e-06
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Influenza and pneumonia,50110,3738,1.16 [1.08-1.24],7.518364302643112e-05
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Interstitial lung disease,48093,627,1.50 [1.27-1.77],2.4285663812208755e-06
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Later onset COPD,48595,1710,1.23 [1.11-1.36],0.0001171907454733
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,50525,654,1.39 [1.18-1.65],0.0001095089766467
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Nasal polyp,47924,208,0.97 [0.71-1.33],0.8660929988200039
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,50060,1899,1.29 [1.17-1.42],4.865432764420431e-07
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Other diseases of pleura,50086,3881,1.22 [1.13-1.30],3.980064689909527e-08
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,49347,1631,1.07 [0.96-1.19],0.2399119035605409
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Other pleural conditions,46304,99,1.04 [0.66-1.63],0.8631472790510916
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,50377,782,1.40 [1.21-1.64],1.2272640396888546e-05
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,50341,2540,1.15 [1.06-1.26],0.0013507929763817
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Pleural effusion,48143,1938,1.30 [1.18-1.43],1.701608329467656e-07
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Pleural plaque,46505,300,1.56 [1.22-2.00],0.0004266441833784
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",49621,3249,1.18 [1.09-1.27],2.92195207358664e-05
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,50394,523,1.33 [1.10-1.60],0.0034520793536246
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Pneumothorax,46433,228,1.13 [0.84-1.51],0.408599150117824
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Pollen allergy,50505,464,1.04 [0.85-1.28],0.6956388386345115
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Pulmonary oedema,49724,129,1.23 [0.84-1.79],0.2913841265978104
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Respiratory insufficiency,34514,106,1.62 [1.09-2.40],0.0164363043970446
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,50022,1861,1.28 [1.16-1.42],1.0030323275005893e-06
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,48264,548,1.03 [0.85-1.25],0.7356629098839318
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Viral pneumonia,46865,493,0.88 [0.72-1.07],0.2054789416436165
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",49783,406,0.88 [0.70-1.10],0.2537380574898737
+CXCL12,Stromal cell-derived factor 1,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,23315,219,1.20 [0.89-1.60],0.2309417638291167
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,35731,123,1.09 [0.73-1.63],0.674179738604259
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Acute appendicitis,50230,285,0.78 [0.60-1.02],0.0677316924031746
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Acute gastritis,38041,175,1.00 [0.72-1.41],0.9767536054187296
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Acute pancreatitis,46954,364,1.38 [1.10-1.72],0.0050357329919698
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Acute peritonitis,49629,182,1.22 [0.88-1.68],0.230485699164174
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Alcoholic liver disease,48809,141,2.68 [2.00-3.59],4.3129281439243306e-11
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Barrett oesophagus,38722,856,1.05 [0.90-1.22],0.5397638962753916
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",46787,197,1.18 [0.87-1.62],0.2892316108706419
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",49725,197,1.17 [0.85-1.59],0.3393030558740251
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Cholecystitis,46989,399,1.24 [1.00-1.54],0.0533772998666271
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Cholelithiasis,48528,1938,1.13 [1.02-1.25],0.0169104177319655
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Chronic gastritis,38465,599,1.11 [0.92-1.32],0.2690459200893144
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Chronic pancreatitis,46690,100,1.13 [0.73-1.76],0.5772507078819773
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",50272,198,1.87 [1.41-2.49],1.757924323587093e-05
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Coeliac disease,47399,243,1.28 [0.97-1.69],0.0797739532708486
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Collagenous colitis,47278,160,1.33 [0.95-1.86],0.0977847355247451
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,50248,361,0.91 [0.72-1.15],0.4237784721096148
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Constipation,50048,3262,1.08 [1.00-1.16],0.0642782820657617
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Crohn disease,47301,183,1.21 [0.88-1.67],0.2446383402682649
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",49856,135,1.02 [0.69-1.49],0.932582772233814
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Crohn's disease NAS,47292,174,1.14 [0.82-1.59],0.4421708343350256
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Dental caries,49099,452,1.14 [0.93-1.40],0.199224563542675
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,45360,4372,0.94 [0.88-1.00],0.0578149931515563
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Diseases of appendix,50304,359,0.81 [0.63-1.02],0.076049088084612
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Diseases of liver,50315,1647,1.23 [1.10-1.37],0.0001521813781848
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",46310,8444,0.99 [0.94-1.03],0.5635163016999813
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",49740,1093,1.06 [0.93-1.21],0.3640390463309498
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Diseases of peritoneum,50380,933,1.02 [0.88-1.18],0.8059258422058938
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,48878,231,1.06 [0.79-1.41],0.7002037677206565
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Diseases of salivary glands,48580,128,1.15 [0.78-1.69],0.4679989062119226
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Diseases of the digestive system,49942,2786,1.04 [0.96-1.13],0.3743846657099675
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Diseases of tongue,48611,216,0.76 [0.56-1.04],0.0870406379276874
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",49329,2739,1.14 [1.05-1.24],0.0017887113652748
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,41754,6146,0.93 [0.88-0.99],0.0140121292358323
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Duodenal ulcer,38262,396,1.02 [0.81-1.27],0.8842329499653429
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",50385,319,1.04 [0.81-1.33],0.7642431980461896
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,50376,108,0.98 [0.64-1.51],0.9336534456563352
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,48911,243,1.77 [1.36-2.29],1.7871085364192066e-05
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,35893,285,0.82 [0.63-1.07],0.1485273924041347
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Functional dyspepsia,38941,1075,0.98 [0.86-1.12],0.7729329048986732
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Gastric ulcer,38568,702,1.07 [0.90-1.26],0.4545783476199392
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,42750,4884,0.99 [0.93-1.06],0.8448935032187761
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,38916,1050,1.04 [0.91-1.19],0.5744072771882704
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,39135,16206,0.99 [0.96-1.03],0.6443791822355336
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,GI-bleeding,49439,2283,1.02 [0.93-1.12],0.7013302103731198
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,48752,105,1.29 [0.85-1.95],0.2336966459784009
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,37518,2464,0.97 [0.88-1.06],0.475192831342229
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",48793,125,1.39 [0.95-2.04],0.0910563420320765
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Hernia,47363,6375,0.95 [0.89-1.00],0.0537001211670772
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Impacted teeth,50390,100,1.01 [0.65-1.57],0.975769057177916
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Impaction of intestines,35718,110,1.28 [0.85-1.93],0.2415525196805044
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Inguinal hernia,42763,1775,1.00 [0.90-1.12],0.97546529987112
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",41189,201,1.06 [0.77-1.46],0.7067485537272684
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,35798,190,1.16 [0.85-1.59],0.3584087516722739
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Intestinal malabsorption,47438,282,1.26 [0.97-1.62],0.080400165470502
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,36687,1079,1.09 [0.95-1.24],0.2153065457201362
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,50494,726,1.10 [0.94-1.30],0.2338554501317885
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,48586,1468,1.01 [0.90-1.13],0.8830017314192311
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,49070,1952,1.04 [0.94-1.15],0.4444691997794689
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Oesophageal obstruction,38239,373,1.19 [0.95-1.49],0.13009155948443
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Oesophagitis,39046,1180,1.03 [0.90-1.17],0.6668972724339726
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,50454,268,0.95 [0.72-1.25],0.7036813933670787
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,41122,134,1.12 [0.76-1.63],0.5706079246826126
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,38264,2656,0.95 [0.87-1.04],0.2399927931403515
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,47146,556,1.20 [0.99-1.44],0.0574164109999208
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,46894,304,1.22 [0.95-1.56],0.1144045133381178
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Other diseases of intestine,39021,3413,0.96 [0.89-1.04],0.3399774284179402
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Other diseases of intestines,46607,10999,0.97 [0.93-1.01],0.1174267630227373
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,48567,406,0.93 [0.74-1.16],0.5122599611076668
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Other diseases of liver,50016,1348,1.20 [1.07-1.35],0.0024004333631601
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,39170,1304,1.06 [0.94-1.20],0.3506384310666545
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Other diseases of pancreas,46885,295,1.11 [0.86-1.43],0.4428774510321224
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,50247,800,0.99 [0.85-1.16],0.8856490834911581
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,39723,1857,0.97 [0.88-1.08],0.5949786623459115
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,49470,2314,1.02 [0.93-1.12],0.6320397412554013
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,49014,367,0.86 [0.68-1.09],0.2223302205647318
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,38960,3352,1.05 [0.97-1.13],0.2367151445142243
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),41804,3938,0.99 [0.92-1.06],0.7871962809722085
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,48858,190,1.31 [0.96-1.78],0.092147443704162
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,48833,1715,1.02 [0.91-1.13],0.7769466429675134
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",36279,671,1.17 [0.98-1.38],0.0744778049838238
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,50356,126,0.91 [0.61-1.35],0.636961406693352
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,36569,961,1.16 [1.01-1.34],0.0390863677747198
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",47446,290,1.05 [0.81-1.37],0.6913352929660435
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Recurring oral aphthae,50529,108,1.16 [0.77-1.77],0.4770981037132485
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,48658,228,1.12 [0.84-1.49],0.45406222939488
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Toxic colitis,47229,111,0.86 [0.56-1.32],0.4822189827138272
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,38391,525,1.06 [0.87-1.28],0.5657255231534013
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Ulcerative colitis,47429,311,1.29 [1.01-1.64],0.0427623618211282
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",47378,260,1.36 [1.05-1.78],0.0215139908402762
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Umbilical hernia,41522,534,0.81 [0.67-0.98],0.0344554218336968
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,35948,340,0.99 [0.78-1.26],0.9249624765090136
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Ventral hernia,41502,514,0.99 [0.82-1.21],0.9426788274920438
+CXCL12,Stromal cell-derived factor 1,Chapter XI Diseases of the digestive system,Volvulus,35769,161,1.19 [0.84-1.68],0.319317743796822
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,50386,579,0.91 [0.76-1.10],0.3404866904301705
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,49918,142,1.30 [0.91-1.86],0.149095498757738
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,46520,317,0.72 [0.56-0.93],0.011460905071906
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,49297,1351,1.17 [1.03-1.31],0.0118336434699863
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",48286,340,1.03 [0.81-1.31],0.821019324671087
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,47005,802,1.17 [1.01-1.37],0.0425528081127541
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,49956,550,1.17 [0.97-1.41],0.0960124847486819
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,50355,949,1.22 [1.06-1.40],0.0066147673593023
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,49498,92,1.77 [1.18-2.66],0.0057368163658373
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,47501,6270,1.09 [1.03-1.16],0.0017110398784728
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,49665,874,1.02 [0.88-1.18],0.8177736001645357
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,49408,617,0.99 [0.83-1.19],0.9411632375395124
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,49778,1832,1.14 [1.03-1.26],0.014566029765806
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",50518,106,0.86 [0.55-1.32],0.4838332928586888
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,46315,112,1.80 [1.27-2.55],0.0010373238283651
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,48895,104,0.89 [0.58-1.39],0.6141556515351057
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,49935,529,1.17 [0.97-1.41],0.108822144984658
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,47095,892,1.11 [0.95-1.28],0.1820225087019552
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,46330,127,1.07 [0.72-1.58],0.7496926295631541
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,50379,164,0.95 [0.67-1.35],0.7750823320112283
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,48315,369,1.08 [0.86-1.36],0.5252093301069329
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,50154,378,0.94 [0.75-1.19],0.6100561451042099
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,49534,128,1.59 [1.10-2.30],0.0138707593372701
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,46337,134,1.01 [0.69-1.49],0.942028836671484
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,49415,3212,1.08 [1.00-1.16],0.0664690885690574
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",47170,967,1.12 [0.97-1.29],0.1103301607706954
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,46337,134,1.04 [0.71-1.53],0.8431107930366667
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,50377,601,1.03 [0.86-1.23],0.7419327895094548
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,49541,135,1.08 [0.74-1.57],0.6855083485628437
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,50269,493,1.06 [0.87-1.29],0.5711352532619375
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,50442,635,0.90 [0.75-1.08],0.2621779129267539
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,46454,251,0.74 [0.56-0.98],0.0385815153910938
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,46734,531,0.92 [0.76-1.12],0.393023356531744
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,50420,613,0.89 [0.74-1.07],0.2093432702024918
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",46668,465,1.23 [1.00-1.50],0.0457549026264317
+CXCL12,Stromal cell-derived factor 1,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,50492,277,1.09 [0.84-1.42],0.519314041829945
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,43361,212,1.09 [0.81-1.47],0.5783892068673953
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,46005,11006,1.06 [1.02-1.10],0.0071018823071946
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,43234,8235,1.07 [1.02-1.12],0.0096756133845753
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,43294,145,0.80 [0.55-1.17],0.2513597853822198
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,43823,300,0.96 [0.75-1.25],0.7756719053499431
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,43878,355,1.05 [0.83-1.33],0.6775996258720937
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,50062,182,0.75 [0.53-1.04],0.0855091661859997
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",43720,197,1.43 [1.06-1.93],0.0182564207062357
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,37212,2213,1.14 [1.04-1.25],0.0054463604728705
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",50284,364,0.89 [0.70-1.13],0.3307017566673846
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,44388,865,0.96 [0.83-1.12],0.5945594368432985
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,42721,14170,1.09 [1.05-1.13],4.310931845920493e-06
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,46690,231,1.03 [0.77-1.37],0.866626292913337
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,43448,299,1.10 [0.85-1.41],0.4791972095065889
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,44259,1110,0.95 [0.83-1.09],0.4945302383658629
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,48736,5213,1.04 [0.98-1.11],0.2019317644935096
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,43678,529,0.97 [0.80-1.18],0.7814115086059947
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,43588,439,1.21 [0.99-1.48],0.0644827947506141
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,43415,266,0.97 [0.74-1.27],0.8172088031964226
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,49299,134,1.14 [0.78-1.66],0.4956100534750565
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,38294,3295,1.04 [0.96-1.12],0.3095480036541172
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,36184,1185,1.12 [0.99-1.28],0.0828826026546133
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",50401,1169,1.08 [0.95-1.23],0.2424986853098782
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,35145,146,0.94 [0.65-1.36],0.7530142876927078
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),35643,644,0.98 [0.82-1.16],0.7784860518096299
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,43746,597,0.98 [0.82-1.18],0.8569426639751145
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,36245,1246,0.99 [0.88-1.13],0.9292730231758516
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,43630,107,1.27 [0.84-1.92],0.2608422271377241
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,44755,1232,1.06 [0.93-1.20],0.3712815334393713
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,44114,591,0.97 [0.81-1.16],0.7396560399757047
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,36163,1164,1.00 [0.88-1.14],0.9967507616609866
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,43303,154,0.99 [0.70-1.42],0.9755850660472162
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",43270,121,1.04 [0.69-1.55],0.865796912061003
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,46600,141,1.33 [0.93-1.91],0.122813052275481
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,49787,3328,1.25 [1.16-1.34],4.696713473711206e-09
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,48636,2177,1.31 [1.20-1.44],3.913618360643167e-09
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",50268,878,1.49 [1.30-1.71],1.89012728312402e-08
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,39848,4849,1.09 [1.02-1.16],0.0083963987251414
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,35121,122,0.74 [0.49-1.12],0.1513943143229857
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,43332,183,1.18 [0.86-1.63],0.3116496245433271
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,35091,92,0.66 [0.41-1.07],0.0928388666872256
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),35242,243,0.98 [0.74-1.31],0.9140716235126924
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,46933,474,1.00 [0.82-1.22],0.9943722322538412
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,47195,736,1.25 [1.06-1.46],0.0063849728716035
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,50485,194,1.13 [0.83-1.55],0.4353099364228326
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",47053,3530,1.05 [0.98-1.13],0.1857443899408103
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,43342,193,1.00 [0.73-1.38],0.9956447755683135
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),35270,271,1.07 [0.83-1.40],0.5929223470070129
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,44928,1405,1.01 [0.89-1.13],0.9147917232011842
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,39213,4214,1.03 [0.96-1.10],0.3700513550657274
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,49347,182,1.31 [0.96-1.80],0.0938938003058676
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,50512,136,1.38 [0.96-1.98],0.0825787318977208
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,43312,163,1.37 [0.98-1.91],0.0642601862651659
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",45588,2439,1.16 [1.06-1.26],0.0011457690271583
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,43325,176,1.12 [0.80-1.56],0.5126041903264702
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,38156,3157,1.11 [1.03-1.20],0.0071139606940478
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,46679,220,0.98 [0.73-1.32],0.8954903896240513
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,43253,104,1.30 [0.85-1.98],0.2213673854203992
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,43832,309,0.90 [0.70-1.16],0.4173316135018028
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,44226,1077,1.19 [1.04-1.35],0.0116624847369241
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,49857,692,1.35 [1.15-1.59],0.0002250852666654
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,44643,1120,1.13 [0.99-1.29],0.0664098269903688
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,50292,854,1.51 [1.31-1.74],9.4071838898885e-09
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,50506,104,1.53 [1.02-2.30],0.0391913682405927
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,43520,371,0.83 [0.66-1.05],0.1249041474880703
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,40007,1478,1.11 [0.99-1.25],0.0629249513221843
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,44285,1136,1.09 [0.95-1.24],0.2109950940018052
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],43591,442,0.96 [0.78-1.20],0.7430699338985929
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",35107,108,1.08 [0.71-1.64],0.7102843225100871
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,39848,4849,1.12 [1.05-1.19],0.0003472126168306
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,36279,1280,1.05 [0.93-1.19],0.4035991489753672
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,49626,461,1.14 [0.93-1.39],0.224024201075887
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",50419,128,0.98 [0.66-1.45],0.9173705745750618
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",46315,97,1.02 [0.65-1.60],0.927355725761168
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,35137,138,1.41 [0.99-2.02],0.054595151980576
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,43716,193,0.92 [0.67-1.27],0.6208207754941113
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,35888,889,1.47 [1.28-1.68],4.0589490253883e-08
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,43751,602,1.03 [0.86-1.23],0.7834763976263359
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,44019,496,1.15 [0.94-1.39],0.170277435038803
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,43891,368,1.03 [0.82-1.29],0.8170999453544281
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,39560,114,1.09 [0.73-1.65],0.672200537772511
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",50514,112,1.40 [0.94-2.09],0.0936230316089971
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,44303,1154,1.06 [0.93-1.20],0.4057478557614209
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],49339,174,1.84 [1.39-2.43],2.273710754579688e-05
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,48176,5027,1.09 [1.03-1.16],0.0055333181988742
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",43406,257,0.90 [0.68-1.20],0.4825133664672834
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,44589,1066,1.03 [0.90-1.18],0.64591850331915
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,47800,454,0.96 [0.78-1.18],0.701934161925706
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,43923,400,0.84 [0.67-1.05],0.1167373930934868
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,46570,3047,1.04 [0.96-1.12],0.3568961208077659
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,45530,2007,1.01 [0.91-1.11],0.8820133034711238
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],43256,107,1.24 [0.81-1.87],0.319516269387069
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,49420,255,1.78 [1.41-2.25],1.624911212138662e-06
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,43469,320,1.09 [0.85-1.39],0.5067686238858444
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,43299,150,1.05 [0.74-1.50],0.7792179779668896
+CXCL12,Stromal cell-derived factor 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),35112,113,1.15 [0.76-1.73],0.5092652132075963
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Acute renal failure,48501,3085,1.16 [1.07-1.25],0.0003292911627509
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),20386,101,1.58 [1.10-2.29],0.0144633745080175
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,26533,111,1.23 [0.83-1.83],0.3039311074727272
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,49917,622,1.13 [0.95-1.35],0.1722443931362
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,49462,167,0.83 [0.58-1.18],0.2953465637786893
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,48413,2997,1.04 [0.96-1.13],0.3422158738301578
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,50121,159,0.93 [0.66-1.33],0.7083385539947797
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,50064,593,1.04 [0.86-1.25],0.6962218184813487
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Cystitis,44513,454,1.08 [0.88-1.33],0.4602798273955072
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Dialysis,45576,160,1.23 [0.87-1.74],0.2374347399660322
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,22062,3247,0.94 [0.86-1.01],0.109019238137732
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Disorders of breast,26762,340,0.87 [0.68-1.10],0.2457139886472398
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Endometriosis,20462,177,1.28 [0.95-1.74],0.1047413790765321
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",20682,397,1.15 [0.93-1.41],0.1865464643437229
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,21287,1002,1.01 [0.88-1.16],0.9004758352866746
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,42182,10482,1.05 [1.00-1.10],0.0300050125261636
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,50127,165,1.08 [0.76-1.52],0.6800491318751036
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Hydrocele,19023,208,0.80 [0.58-1.09],0.158521939740341
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,45397,571,1.05 [0.87-1.26],0.6181861350404427
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,21360,2545,0.92 [0.84-1.01],0.0898763816860512
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,26693,393,1.29 [1.05-1.59],0.0165045887768259
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),19045,230,0.78 [0.57-1.05],0.1044615374069825
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Irregular menses,26772,130,1.29 [0.91-1.84],0.1524166343271626
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Menorrhagia,20590,305,1.16 [0.92-1.47],0.2000105432184416
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,44216,157,0.93 [0.65-1.33],0.6952816517326423
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,22718,2433,1.04 [0.95-1.13],0.3810687844225082
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,18924,109,0.94 [0.61-1.46],0.7989288012676009
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,20426,141,1.16 [0.81-1.64],0.4173593499960638
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",50524,122,1.10 [0.74-1.64],0.6462393840466447
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",50531,129,0.93 [0.63-1.38],0.7171120567089968
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,48488,4429,1.06 [0.99-1.13],0.0789937919051967
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,45460,1401,0.93 [0.82-1.04],0.2083109481437199
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,26542,120,0.70 [0.46-1.05],0.083970221781079
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,50412,941,0.97 [0.84-1.12],0.6484317658403894
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,19123,308,1.00 [0.77-1.30],0.9981030574224456
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,19095,280,1.10 [0.84-1.43],0.501587452415718
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,19035,220,0.77 [0.57-1.05],0.1002333606976547
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,50471,140,1.14 [0.79-1.65],0.4812553325122495
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,47480,3421,1.10 [1.02-1.19],0.0136081322052586
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,26501,201,1.30 [0.97-1.74],0.0737671329200012
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,20436,151,1.19 [0.85-1.68],0.3137323234673472
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",20652,367,1.16 [0.93-1.44],0.1792337894901388
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,20394,109,0.92 [0.60-1.41],0.7044981388378238
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,20489,204,1.03 [0.76-1.39],0.8498905176676644
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,45494,668,1.00 [0.84-1.19],0.97072225427564
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,49785,314,0.89 [0.69-1.15],0.3830201263869239
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,20590,305,1.04 [0.82-1.33],0.7345510892096074
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,20392,107,1.33 [0.90-1.95],0.1503490603665446
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,20922,637,0.90 [0.76-1.07],0.2290056033593739
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,20443,158,0.87 [0.61-1.23],0.4287020364453754
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,20867,582,0.98 [0.82-1.17],0.8076602449485639
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,50059,97,0.75 [0.47-1.18],0.214068287866241
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",19078,263,1.00 [0.76-1.32],0.998153831684958
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,50052,5226,1.10 [1.03-1.17],0.0024510125656579
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",45064,238,1.14 [0.86-1.51],0.3680116221297491
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,45674,258,0.99 [0.75-1.30],0.9164065964721996
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,49407,112,1.07 [0.70-1.63],0.7523862901744888
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Urethral stricture,44486,427,1.08 [0.87-1.34],0.4770846355123247
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Urolithiasis,50070,775,1.11 [0.94-1.30],0.2115610761516594
+CXCL12,Stromal cell-derived factor 1,Chapter XIV Diseases of the genitourinary system,Uterine polyps,20427,142,1.18 [0.83-1.66],0.359630916502615

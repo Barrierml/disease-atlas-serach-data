@@ -1,0 +1,660 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,"Bacterial infection, other or unspecified",23555,80,0.83 [0.59-1.17],0.2878270290412156
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,"Bacterial intestinal infections, IBD co-morbidities",24049,129,0.79 [0.60-1.05],0.1095497966741713
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents",23844,875,0.95 [0.87-1.04],0.2685469339724921
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Candidiasis,24072,263,0.73 [0.59-0.90],0.0038018426191705
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,23396,2384,0.95 [0.90-1.00],0.0725736997834164
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Condition for Implicit Sepsis (Organ dysfunction codes),23606,1789,1.04 [0.99-1.10],0.1376748242978182
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Diarrhoea and gastroenteritis of presumed infectious origin,23895,859,0.98 [0.90-1.06],0.5825206782124266
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Enterocolitis due to Clostridium difficile,24003,38,0.62 [0.33-1.16],0.133888785927025
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,22978,552,0.97 [0.87-1.08],0.5873242230857033
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Implicit bacterial Sepsis,22198,520,1.00 [0.89-1.11],0.955453657971418
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Implicit fungal Sepsis,22421,148,0.82 [0.64-1.06],0.1285226959837735
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,17892,1040,1.06 [0.99-1.14],0.0864529984277618
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Implicit viral Sepsis,22222,242,1.08 [0.94-1.25],0.2654530794582059
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Intestinal infectious diseases,24039,1003,0.97 [0.89-1.05],0.4381479517661364
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Mycoses,24129,320,0.77 [0.64-0.93],0.0056417031019092
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,23502,533,0.99 [0.89-1.11],0.8989962001041546
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Other bacterial diseases,24078,603,0.95 [0.86-1.06],0.3759955872340839
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Other bacterial intestinal infections,23167,131,0.78 [0.59-1.04],0.0898156975116266
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Other infectious diseases,24171,27,0.84 [0.47-1.51],0.5553591571131082
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Other septicaemia,24009,534,0.97 [0.87-1.09],0.6472135462613728
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Other specified/unspecified bacterial intestinal infections,24030,65,0.72 [0.47-1.11],0.141355296642355
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Other viral diseases,24082,152,0.98 [0.80-1.20],0.8160149901695343
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,"Other viral diseases, not elsewhere classified",24068,138,0.91 [0.72-1.15],0.4314915348617393
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,23268,299,0.97 [0.84-1.13],0.7244556422608798
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Viral agents as the cause of diseases classified to other chapters,23172,203,0.90 [0.74-1.09],0.2739479073644966
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Viral and other specified intestinal infections,23101,65,1.11 [0.86-1.44],0.4312942109670954
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Viral hepatitis,24146,45,1.00 [0.68-1.45],0.9889304222425492
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions,24118,106,0.91 [0.69-1.19],0.4731936296803154
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Viral warts,24049,37,0.70 [0.39-1.26],0.2363191133199646
+SLK,STE20-like serine/threonine-protein kinase,Chapter I Certain infectious and parasitic diseases,Zoster [herpes zoster],24053,41,1.02 [0.71-1.48],0.8982364823387926
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Benign lipomatous neoplasm,23923,275,1.01 [0.87-1.17],0.944659789139096
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,24097,63,1.00 [0.73-1.36],0.9798588862078272
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,24070,65,1.20 [0.95-1.52],0.1328509771932659
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Benign lipomatous neoplasm of spermatic cord,10812,37,0.78 [0.46-1.34],0.3711586790587734
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Benign neoplasm of colon, rectum, anus and anal canal",23992,1009,1.00 [0.92-1.08],0.906091862668471
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Benign neoplasm of meninges,24159,43,0.93 [0.62-1.40],0.7391784172522464
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Benign neoplasm of other and ill-defined parts of digestive system,24140,44,1.04 [0.73-1.48],0.8360753390592804
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Benign neoplasm of other and unspecified endocrine glands,24151,79,0.81 [0.57-1.15],0.2399527863899758
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Benign neoplasm of ovary,13305,85,0.99 [0.76-1.29],0.927950302665233
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Benign neoplasm: Ascending colon,24162,240,1.12 [0.97-1.28],0.1244429260961502
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Benign neoplasm: Caecum,24159,180,1.00 [0.83-1.20],0.9858623917200136
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Benign neoplasm: Colon, unspecified",24104,46,0.71 [0.43-1.20],0.2005294548696244
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Benign neoplasm: Descending colon,24165,153,0.99 [0.81-1.21],0.92081938236699
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Benign neoplasm: Rectum,24133,252,0.89 [0.74-1.06],0.2036777907324984
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Benign neoplasm: Sigmoid colon,24100,465,0.99 [0.88-1.11],0.8317005066951727
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Benign neoplasm: Transverse colon,24164,268,0.95 [0.81-1.12],0.5333255229568474
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Carcinoma in situ of breast,11399,77,0.77 [0.54-1.11],0.1668216202029032
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Carcinoma in situ of breast, intraductal",11438,86,0.87 [0.64-1.18],0.3711987588132245
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Chronic lymphocytic leukaemia and small lyphocytis leukaemia, excluding all cancers (controls excluding all cancers)",20842,28,0.83 [0.46-1.48],0.5257638046539452
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Diffuse large B-cell lymphoma, excluding all cancers (controls excluding all cancers)",20849,35,0.80 [0.47-1.36],0.4029256414292447
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Haemangioma and lymphangioma, any site",24130,92,0.92 [0.69-1.22],0.5644305937896095
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Haemangioma, any site",24130,90,0.91 [0.68-1.22],0.5298064192531657
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Leiomyoma of uterus,12748,354,0.94 [0.82-1.07],0.3494033414233809
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Lung cancer and mesothelioma,17902,154,0.92 [0.74-1.15],0.4731346932971327
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Lymphoid leukaemia,20840,26,0.94 [0.56-1.59],0.8230881030412909
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Malignant melanoma of skin, excluding all cancers (controls excluding all cancers)",20945,131,0.86 [0.67-1.11],0.2579833251631497
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)",20890,76,0.82 [0.58-1.17],0.2740937599463819
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Malignant neoplasm of corpus uteri, excluding all cancers (controls excluding all cancers)",11487,69,1.04 [0.79-1.36],0.7759326525378599
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Malignant neoplasm of intrahepatic ducts, biliary tract and gallbladder, excluding all cancers (controls excluding all cancers)",20857,43,1.08 [0.78-1.51],0.6359725187689669
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Malignant neoplasm of kidney, except renal pelvis, excluding all cancers (controls excluding all cancers)",20867,53,1.13 [0.84-1.50],0.4205763872041315
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Malignant neoplasm of oesophagus, excluding all cancers (controls excluding all cancers)",20876,62,1.04 [0.77-1.42],0.795339530514014
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Malignant neoplasm of ovary, excluding all cancers (controls excluding all cancers)",11468,50,0.67 [0.40-1.11],0.1183460280475176
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Malignant neoplasm of pancreas, excluding all cancers (controls excluding all cancers)",20866,52,0.80 [0.52-1.24],0.3236088001808759
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Malignant neoplasm of prostate, excluding all cancers (controls excluding all cancers)",9747,351,1.09 [0.97-1.23],0.1443178655265741
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Malignant neoplasm of rectum, excluding all cancers (controls excluding all cancers)",20896,82,0.98 [0.74-1.30],0.8795987307410806
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)",20863,49,1.12 [0.82-1.51],0.4757537510564154
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Malignant neoplasms of independent (primary) multiple sites,20866,52,1.08 [0.79-1.46],0.6342643791535214
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Melanocytic naevi,23964,192,1.13 [0.97-1.31],0.1039584413745534
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Melanocytic naevi of trunk,24130,87,1.25 [1.03-1.51],0.0232158206209664
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Melanoma in situ,20824,40,0.99 [0.67-1.46],0.9651266691889386
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Non-follicular lymphoma, hilmo, excluding all cancers",20868,54,0.82 [0.54-1.25],0.3501627651393383
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Non-Hodgkin lymphoma, all, excluding all cancers (controls excluding all cancers)",20915,101,1.12 [0.91-1.39],0.2715613661718779
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Non-small cell lung cancer, excluding all cancers (controls excluding all cancers)",20919,105,0.96 [0.75-1.24],0.7625672519898121
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Other and unspecified types of non-Hodgkin lymphoma, hilmo, excluding all cancers",20870,56,1.06 [0.79-1.44],0.6918831725980182
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,Other benign neoplasms of skin,24009,131,1.12 [0.93-1.35],0.2176549555516693
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Other malignant neoplasms of skin (=non-melanoma skin cancer), excluding all cancers (controls excluding all cancers)",21372,558,1.02 [0.92-1.12],0.7533824961580602
+SLK,STE20-like serine/threonine-protein kinase,Chapter II Neoplasms,"Squamous cell neoplasms and carcinomas of the skin, excluding all cancers (controls excluding all cancers)",21402,588,1.01 [0.91-1.12],0.8439258231298148
+SLK,STE20-like serine/threonine-protein kinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Agranulocytosis,23919,265,0.93 [0.79-1.10],0.3912031662290705
+SLK,STE20-like serine/threonine-protein kinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Anaemia in chronic diseases classified elsewhere,22943,42,0.99 [0.67-1.45],0.9483971854769024
+SLK,STE20-like serine/threonine-protein kinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,23721,67,0.83 [0.57-1.20],0.3288801175561205
+SLK,STE20-like serine/threonine-protein kinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,23468,1935,0.98 [0.93-1.04],0.506811136625128
+SLK,STE20-like serine/threonine-protein kinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Folate deficiency anaemia,23152,19,1.06 [0.62-1.82],0.8179988242288252
+SLK,STE20-like serine/threonine-protein kinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Idiopathic thrombocytopenic purpura,23863,27,0.99 [0.61-1.60],0.9704443687212528
+SLK,STE20-like serine/threonine-protein kinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,23781,880,0.99 [0.91-1.08],0.8901495110122912
+SLK,STE20-like serine/threonine-protein kinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,23781,880,0.99 [0.91-1.08],0.8901495110122912
+SLK,STE20-like serine/threonine-protein kinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified aplastic anaemias,22951,50,1.11 [0.82-1.50],0.4901706463226537
+SLK,STE20-like serine/threonine-protein kinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,23926,793,1.03 [0.94-1.12],0.5245421652903411
+SLK,STE20-like serine/threonine-protein kinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other coagulation defects,23929,93,1.03 [0.81-1.32],0.8009967895377516
+SLK,STE20-like serine/threonine-protein kinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs,23703,49,1.25 [0.96-1.62],0.0916460984815642
+SLK,STE20-like serine/threonine-protein kinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other disorders of white blood cells,23693,39,0.92 [0.59-1.42],0.7028048233637283
+SLK,STE20-like serine/threonine-protein kinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Purpura and other haemorrhagic conditions,24001,165,1.03 [0.86-1.24],0.7511927668686516
+SLK,STE20-like serine/threonine-protein kinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Sarcoidosis,24102,60,1.04 [0.77-1.41],0.7841771811700389
+SLK,STE20-like serine/threonine-protein kinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Thrombocytopenia, unspecified",23977,141,0.98 [0.79-1.21],0.8331811837741315
+SLK,STE20-like serine/threonine-protein kinase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vitamin B12 deficiency anaemia,23196,63,0.84 [0.58-1.22],0.3613455736641365
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Acidosis,20746,174,1.06 [0.89-1.26],0.5067125399886732
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Acute alcohol intoxication,22466,108,0.92 [0.71-1.21],0.5617675576494856
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,22484,126,1.10 [0.90-1.33],0.346751219016353
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,20604,32,1.06 [0.71-1.58],0.7828023909332481
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Bipolar affective disorders,22418,63,1.01 [0.74-1.38],0.9540814950164458
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Deficiency of other B group vitamins,22121,119,0.88 [0.68-1.15],0.3543960188474122
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases","Delirium, not induced by alcohol and other psychoactive substances",24047,142,0.84 [0.65-1.09],0.1854910044806337
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in Alzheimer disease,23952,47,0.64 [0.37-1.11],0.1122451622917333
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Dementia in other diseases classified elsewhere,23935,30,0.51 [0.23-1.12],0.0930632450831251
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression,23812,1457,1.02 [0.96-1.09],0.4901866333866338
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Depression or dysthymia,21645,1417,1.03 [0.96-1.09],0.4070878177325089
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of lipoprotein metabolism, unspecified",20610,38,0.61 [0.33-1.15],0.1283004566576669
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorder of thyroid, unspecified",22736,52,0.70 [0.43-1.14],0.1486824969763202
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,20735,163,1.01 [0.83-1.22],0.9512203925733236
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,20624,52,1.10 [0.82-1.48],0.5270594577184071
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,22664,2092,0.99 [0.94-1.05],0.7361313948464236
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of magnesium metabolism,20679,107,1.05 [0.84-1.31],0.6932844328405652
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,20913,341,1.05 [0.93-1.19],0.4328001327696433
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands,24085,229,1.08 [0.94-1.25],0.2766133785399458
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of parathyroid gland,23949,93,1.21 [1.00-1.46],0.0526548366260404
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of phosphorus metabolism and phosphatases,20662,90,1.02 [0.79-1.32],0.8803224791658084
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",20606,34,1.22 [0.88-1.67],0.2294247078546328
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,23800,1116,0.94 [0.87-1.02],0.1265851785668326
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Fluid overload,20686,114,1.11 [0.91-1.35],0.3092921966738591
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperkalaemia,20705,133,0.98 [0.78-1.22],0.8448472158236726
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases","Hyperlipidaemia, other/unspecified",20914,342,1.04 [0.92-1.19],0.5011904681679676
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperosmolality and hypernatraemia,20627,55,0.84 [0.55-1.26],0.3961349107917674
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hyperparathyroidism,23943,87,1.19 [0.97-1.45],0.0921529669870118
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,20830,258,0.96 [0.82-1.13],0.6366506448018624
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypokalaemia,20838,266,0.84 [0.70-1.01],0.0603718395927683
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Iron deficiency,22052,50,1.05 [0.76-1.46],0.7550094618039401
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,23559,2987,1.00 [0.96-1.05],0.9796671257248942
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic multinodular goitre,22710,26,1.01 [0.64-1.60],0.9653109580872672
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Nontoxic single thyroid nodule,22737,53,0.88 [0.60-1.29],0.5135212076939347
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Obesity,24013,1694,1.00 [0.94-1.06],0.8869810372876731
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases","Obesity, other/unspecified",24015,1690,1.00 [0.94-1.06],0.8971645477722565
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other and/or unspecified nontoxic goitre,22715,31,0.79 [0.45-1.39],0.409136940756076
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other anxiety disorders,23887,1078,1.03 [0.96-1.11],0.3627299554722029
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",21349,777,0.98 [0.90-1.08],0.7366335126076858
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion,24162,109,0.97 [0.76-1.25],0.8378386592171206
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Other mental disorders due to brain damage and dysfunction and to physical disease,23936,31,0.79 [0.44-1.42],0.4313453598003066
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Panic disorder,22890,81,0.78 [0.55-1.12],0.1820343864224572
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Phobic anxiety disorders,22907,98,1.02 [0.80-1.30],0.8907926393841462
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",20684,112,1.04 [0.84-1.29],0.7222155549305102
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 1 diabetes without complications,22599,107,1.19 [0.98-1.44],0.0743350295160055
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with neurological complications,1504,59,1.03 [0.75-1.43],0.8356924798133755
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with ophthalmic complications,1594,162,0.71 [0.54-0.94],0.0152118878772864
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with peripheral circulatory complications,22529,37,0.74 [0.41-1.33],0.3158042146112203
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes with renal complications,1478,33,1.05 [0.70-1.58],0.8160888003064499
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,23816,1324,1.07 [1.00-1.14],0.0488753347735163
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Unspecified dementia,23964,59,0.56 [0.32-0.96],0.0334529529254207
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Vitamin D deficiency,22249,247,1.08 [0.94-1.25],0.2861837520853211
+SLK,STE20-like serine/threonine-protein kinase,"Chapter IV Endocrine, nutritional and metabolic diseases",Volume depletion,20924,352,0.99 [0.87-1.13],0.8998373768330029
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,"!Phlebitis/thrombophlebitis venae iliacae [externae/internae/communis], drug-induced",24092,145,0.97 [0.79-1.21],0.8115550017105666
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Abdominal aortic aneurysm (AAA),23508,46,1.16 [0.86-1.58],0.328241118520122
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Angina pectoris,23064,704,1.03 [0.94-1.13],0.472100962175053
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Aortic aneurysm,23553,91,1.19 [0.97-1.46],0.0996189152786658
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Arterial embolism and thrombosis of lower extremity artery,23492,30,0.87 [0.50-1.51],0.6249521385962394
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,"Atherosclerosis, excluding cerebral and coronary sclerosis",23560,98,1.07 [0.85-1.35],0.5520449543304472
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Atrial fibrillation and flutter,17161,805,1.06 [0.97-1.15],0.1979173187927174
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,AV-block,21989,161,1.12 [0.95-1.33],0.1717236622089533
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,"Bradycardia, unspecified, drug-induced",24141,230,1.07 [0.93-1.25],0.3473557278023041
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Cardiac arrest,16452,96,1.28 [1.07-1.53],0.0059247747815462
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Cardiomyopathy,21945,117,1.10 [0.90-1.35],0.3693931311980435
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,"Cardiomyopathy, other and unspecified",21902,74,1.07 [0.83-1.40],0.5895158253075955
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Cerebral atherosclerosis,24173,14,0.96 [0.49-1.90],0.9132759806109808
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Conduction disorders,22300,472,1.11 [1.01-1.23],0.0317933125719127
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,23525,1175,1.03 [0.96-1.10],0.4213763437582567
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,22456,5313,1.02 [0.99-1.06],0.1653261528700468
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,DVT of lower extremities,23161,153,1.02 [0.84-1.24],0.8096669318740429
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Endocarditis,21869,41,1.16 [0.85-1.59],0.3483081564783895
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,"Heart failure, strict",24064,456,1.06 [0.95-1.18],0.267354595643241
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Hypertension,22960,4328,1.02 [0.98-1.06],0.2585467047976792
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,"Hypertension, essential",22969,4337,1.02 [0.98-1.06],0.2833518514559451
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,"Hypertension, portal",24013,47,1.02 [0.71-1.46],0.9128224667471404
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,"Hypertension, Pulmonary Arterial",18712,80,1.17 [0.94-1.46],0.1544273750469811
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Hypertensive Renal Disease,18672,40,1.09 [0.77-1.54],0.6349979266041461
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Hypotension,24083,604,1.01 [0.91-1.11],0.915671559795706
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Intracerebral haemorrhage,23709,59,0.81 [0.54-1.22],0.3144703608855175
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",23674,1314,1.05 [0.99-1.12],0.1266807053864979
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,"Ischaemic Stroke, excluding all haemorrhages",23981,277,1.09 [0.95-1.25],0.2026910606817906
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Left bundle-branch block,22014,186,1.13 [0.97-1.31],0.1279251017424854
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Major coronary heart disease event,23948,524,1.07 [0.96-1.18],0.2109043530768364
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, strict",22785,425,1.03 [0.92-1.16],0.5810112466189015
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, with ST-elevation",24123,100,1.13 [0.92-1.40],0.2473052008421517
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,"Myocardial infarction, without ST-elevation",24158,178,0.90 [0.72-1.11],0.3122643467924535
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Oesophageal varices,23037,29,1.28 [0.93-1.76],0.1335740130094058
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Other aneurysm,23504,42,0.78 [0.47-1.29],0.3413910057959106
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Other arrhythmias,22055,227,1.05 [0.90-1.22],0.5556486173861317
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,23524,62,0.84 [0.56-1.24],0.3740728455623504
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Other diseases of arteries and capillaries,23590,128,1.01 [0.82-1.26],0.9126187181012968
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Other diseases of pericardium,21942,114,1.11 [0.91-1.35],0.3106272919480801
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Other disorders of veins,23070,62,1.12 [0.85-1.46],0.4195343635052786
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Other embolism and thrombosis,23053,45,0.95 [0.64-1.40],0.7848801730455401
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Other intracranial haemorrhages,23482,33,0.97 [0.61-1.53],0.8890953459959617
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Other noninfective disorders of lymphatic vessels and lymph nodes,23088,80,1.02 [0.78-1.33],0.8770296977983696
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Other or ill-defined heart diseases,22348,520,1.10 [1.00-1.21],0.0432957452372862
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Other other unspecified disorders of the circulatory system,23519,40,1.13 [0.81-1.56],0.4757566858609001
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Other peripheral vascular diseases,23771,309,1.09 [0.96-1.23],0.2005568763645978
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Other pulmonary heart/vessel disease,23772,137,1.22 [1.04-1.42],0.0132727236855859
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere",23658,209,0.77 [0.61-0.97],0.0256750663787725
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Paroxysmal tachycardia,16572,216,0.99 [0.84-1.18],0.9448119141929776
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Peripheral artery disease,23625,185,0.96 [0.79-1.16],0.6624413133833027
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Phlebitis and thrombophlebitis (not including DVT),23218,210,0.96 [0.80-1.15],0.635341259850033
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Pulmonary embolism,23931,296,0.97 [0.84-1.13],0.7285481540017413
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Rheumatic valve diseases,24134,284,1.02 [0.88-1.17],0.8207168523409394
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Right bundle-branch block,21978,150,1.06 [0.88-1.28],0.5514091755693367
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Secondary right heart disease,23769,134,1.22 [1.04-1.42],0.0143961017563506
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Sequelae of cerebrovascular disease,23552,103,1.08 [0.87-1.35],0.4831213950442611
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,"Stroke, excluding SAH",23974,324,1.06 [0.93-1.21],0.3739149848661137
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,"Stroke, including SAH",23951,357,1.03 [0.91-1.17],0.6259273738413709
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Subarachnoid haemorrhage,23689,51,0.95 [0.66-1.38],0.7911413014528145
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Thoracic aortic aneurysm,23511,50,1.19 [0.90-1.57],0.23383481797854
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Transient ischemic attack,23816,112,1.13 [0.93-1.37],0.2347538727064686
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Unstable angina pectoris,23584,160,1.04 [0.86-1.25],0.6932428803746338
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Varicose veins,23278,270,1.07 [0.93-1.23],0.3265573660753568
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Vascular diseases of the intestine,23472,47,0.83 [0.53-1.30],0.412685561524014
+SLK,STE20-like serine/threonine-protein kinase,Chapter IX Diseases of the circulatory system,Venous thromboembolism,24020,452,0.97 [0.86-1.10],0.6390294183701417
+SLK,STE20-like serine/threonine-protein kinase,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",24030,332,1.07 [0.94-1.21],0.317818220656023
+SLK,STE20-like serine/threonine-protein kinase,Chapter V Mental and behavioural disorders,"Anxiety disorders, excluding more controls",21509,1237,1.03 [0.97-1.10],0.3553640129905552
+SLK,STE20-like serine/threonine-protein kinase,Chapter V Mental and behavioural disorders,Any mental disorder,23505,3233,1.02 [0.97-1.06],0.434660200222293
+SLK,STE20-like serine/threonine-protein kinase,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",23976,386,1.04 [0.93-1.18],0.4780200146604229
+SLK,STE20-like serine/threonine-protein kinase,Chapter V Mental and behavioural disorders,"Mood disorders, excluding more controls",21759,1487,1.02 [0.96-1.09],0.4906679061452121
+SLK,STE20-like serine/threonine-protein kinase,Chapter V Mental and behavioural disorders,"Schizophrenia or delusion, excluding more controls",20348,76,1.20 [0.96-1.49],0.1025781750050046
+SLK,STE20-like serine/threonine-protein kinase,Chapter V Mental and behavioural disorders,Smoking dependency,23693,1348,0.97 [0.90-1.04],0.3798210151265985
+SLK,STE20-like serine/threonine-protein kinase,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",21824,1552,1.00 [0.94-1.06],0.950937714608391
+SLK,STE20-like serine/threonine-protein kinase,Chapter V Mental and behavioural disorders,Vascular dementia,24075,17,1.03 [0.56-1.87],0.9316459236424754
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Alzheimer disease,24172,64,0.67 [0.42-1.06],0.0859541906259172
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Bell's palsy,22702,67,1.16 [0.91-1.47],0.2444001780331074
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Carpal tunnel syndrome,23056,421,0.96 [0.85-1.09],0.5537825492158471
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Cerebral cysts,23853,177,0.96 [0.79-1.17],0.6872893742273085
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Cerebral palsy and other paralytic syndromes,24095,197,0.92 [0.75-1.12],0.3799012251428468
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Circumscribed brain atrophy,24039,20,0.58 [0.23-1.42],0.2295277854541091
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Diseases of the myoneural junction and muscle,24161,49,0.78 [0.49-1.24],0.28746236726523
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,"Disorders of brain, other and unspecified",23727,51,0.73 [0.45-1.18],0.2017558206876483
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Epilepsy,22816,234,1.02 [0.87-1.19],0.8431433979441043
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Episodal and paroxysmal disorders,23746,1164,0.98 [0.91-1.06],0.6147668551725707
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Extrapyramidal and movement disorders,24145,169,1.03 [0.86-1.24],0.7249700224026855
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Falls/tendency to fall,23725,1457,0.98 [0.92-1.05],0.582726139737104
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Generalized epilepsy,23840,46,0.94 [0.63-1.41],0.7781956596606392
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Hemiplegia,24041,143,0.92 [0.73-1.16],0.4904976069265668
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Hydrocephalus,23719,43,1.01 [0.69-1.47],0.9751598347577312
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Inflammatory diseases of the central nervous system,24153,60,1.12 [0.85-1.47],0.409966132694241
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Lesion of plantar nerve,22705,70,1.00 [0.75-1.33],0.9930713300199964
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Lesion of ulnar nerve,22707,72,0.90 [0.65-1.26],0.5474985403178485
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Memory loss,24043,66,0.89 [0.62-1.26],0.5008077127812438
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Migraine,22951,369,0.92 [0.80-1.06],0.243195540435017
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,"Migraine, unspecified, drug-induced",24096,333,0.92 [0.80-1.07],0.2765649930356608
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Motor neuron disease,17565,90,1.07 [0.84-1.36],0.5690432106195507
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,MS-disease / Multiple Sclerosis,23984,134,1.16 [0.97-1.38],0.1009656601059338
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,"Nerve, nerve root and plexus disorders",23637,1002,0.95 [0.87-1.03],0.2120700504958557
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Neurological diseases,22898,2669,0.99 [0.94-1.04],0.6932113723263957
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Other and unspecified degenerative diseases of nervous system,24087,68,0.72 [0.47-1.10],0.124994887624304
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,"Other and unspecified nerve root and plexus disorders, also in other diseases",22982,347,0.99 [0.87-1.14],0.9324343581366334
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,"Other and unspecified polyneuropathies, also in other diseases",24110,204,1.08 [0.92-1.26],0.3665959130873261
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Other degenerative diseases of the nervous system,20159,281,0.98 [0.84-1.14],0.7706602293388473
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Other diseases of spinal cord,23729,53,0.91 [0.62-1.33],0.6145785571423397
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Other disorders of nervous system,23783,107,1.01 [0.80-1.28],0.9398909787113012
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Other extrapyramidal and movement disorders in other diseases,24049,73,0.90 [0.65-1.25],0.5260154408069624
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Other facial nerve disorders,22720,85,1.10 [0.87-1.39],0.4360906210827697
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Other headache syndromes,22635,53,0.85 [0.57-1.28],0.445436897698083
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Other neurological diseases,24067,391,1.00 [0.88-1.13],0.9931529522776242
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Other sleep disorders,23093,511,0.96 [0.86-1.08],0.5037439699861674
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Parkinson's disease,24160,76,1.15 [0.91-1.46],0.2416752702574233
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Postviral fatigue syndrome,23732,56,1.01 [0.73-1.39],0.9456191368973144
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Restless leg syndrome,24171,33,1.11 [0.77-1.61],0.5592402989804274
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Sleep apnoea,23959,448,0.96 [0.85-1.08],0.4787723855108834
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Small fibre neuropathy,23938,32,1.29 [0.94-1.76],0.1155340222208743
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system,24157,114,1.12 [0.92-1.36],0.2758787784377054
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Trigeminal neuralgia,22661,26,1.18 [0.81-1.71],0.3933786790587602
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Unspecific neurodegenerative disorder,24172,65,0.66 [0.42-1.05],0.0783241238917909
+SLK,STE20-like serine/threonine-protein kinase,Chapter VI Diseases of the nervous system,Vascular dementia (undefined),24064,16,1.10 [0.63-1.93],0.7426176753298164
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Amblyopia ex anopsia,23752,36,1.22 [0.90-1.66],0.1997309184829751
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Astigmatism,23855,189,0.82 [0.65-1.03],0.0875324822038614
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Background diabetic retinopathy,24097,164,0.79 [0.62-1.02],0.0763129602350832
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Blepharochalasis,23518,33,0.80 [0.46-1.39],0.433544821071135
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Chalazion,23552,67,0.94 [0.67-1.30],0.7024716369083057
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Conjunctivitis (acute, non atopic)",24090,29,1.01 [0.64-1.59],0.969464651449181
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Corneal degeneration,24003,56,1.01 [0.72-1.40],0.9742701872640298
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Diabetic nephropathy, excluding more controls",1481,36,1.06 [0.71-1.58],0.7711740838663677
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diabetic neuropathy,1745,71,0.97 [0.70-1.35],0.8519427381995106
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Diplopia,23789,73,0.58 [0.36-0.93],0.0239058391849224
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of choroid and retina,24064,546,0.93 [0.83-1.05],0.2439412071093296
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of eyelid, lacrimal system and orbit",23900,415,0.97 [0.85-1.10],0.5964527421306198
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of lacrimal system,23603,118,0.99 [0.79-1.24],0.9269070492197896
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of ocular muscles, binocular movement, accommodation and refraction",24090,424,0.92 [0.80-1.05],0.2055375835153562
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of optic nerve and visual pathways,24164,49,0.96 [0.66-1.39],0.8111663536450675
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of refraction and accommodation,24021,355,0.96 [0.84-1.10],0.5825605807881014
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Disorders of sclera, cornea, iris and ciliary body",24136,189,1.13 [0.97-1.31],0.1223091973810229
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Disorders of vitreous body,24115,121,1.03 [0.83-1.28],0.7880267313300465
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ectropion of eyelid,23500,15,1.50 [1.07-2.10],0.01738732302568
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Entropion and trichiasis of eyelid,23512,27,1.05 [0.67-1.64],0.839680535649181
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Epiphora,23514,29,0.77 [0.42-1.41],0.4008817887722515
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma,24130,341,1.08 [0.96-1.22],0.220155759020694
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Glaucoma suspect,23872,83,1.21 [0.98-1.49],0.0818887001312026
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Hypermetropia,23687,21,1.13 [0.72-1.77],0.600350032042338
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Iridocyclitis,24010,63,1.15 [0.88-1.49],0.3049348218241882
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Keratitis,24075,128,1.14 [0.95-1.37],0.1442070810706265
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Myopia,23810,144,1.10 [0.92-1.32],0.2897662827996217
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified disorders of vitreous body,24063,69,0.91 [0.65-1.26],0.5593087968966504
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified glaucoma,24011,222,0.99 [0.83-1.17],0.8708610567418184
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other and unspecified visual disturbances,23811,95,0.92 [0.69-1.22],0.5592376643659687
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other cataract,23549,947,1.05 [0.97-1.13],0.2340238468568442
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of cornea,24056,109,1.18 [0.98-1.43],0.0739423019367768
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eye and adnexa,24151,101,0.94 [0.72-1.22],0.6385037864552203
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of eyelid,23715,230,0.93 [0.78-1.12],0.4473778194407021
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of iris and ciliary body,23983,36,0.97 [0.63-1.49],0.8775271455811559
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other disorders of optic [2nd] nerve and visual pathways,24149,34,1.04 [0.69-1.55],0.8578120214931556
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other inflammation of eyelid,23519,34,0.63 [0.33-1.22],0.1699861137777879
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified  disorders of eyelid,23586,101,0.90 [0.68-1.19],0.456496006389274
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other specified and unspecified retinal disorders,23574,56,1.07 [0.79-1.45],0.6647790804010407
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Other strabismus,23717,51,0.85 [0.56-1.28],0.4317566708674315
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Other, unspecified and serous retinal detachments",23566,48,0.80 [0.51-1.26],0.333351908669424
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Primary angle-closure glaucoma,23835,46,1.24 [0.95-1.61],0.1085652010707878
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process","Primary open-angle glaucoma, strict",23868,79,1.08 [0.83-1.39],0.5728463017072645
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Ptosis of eyelid,23560,75,0.89 [0.64-1.24],0.480436137489159
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,23627,109,1.14 [0.93-1.38],0.2065418202104835
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal vascular occlusion,23548,30,1.03 [0.66-1.61],0.8879423908544989
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Senile cataract,23327,725,1.00 [0.91-1.09],0.9494013139689405
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Stenosis and insufficiency of lacrimal passages,23525,40,0.85 [0.53-1.36],0.4857781042989902
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual disturbances,23984,268,0.95 [0.80-1.11],0.4977368243405357
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual field defects,23748,32,0.93 [0.57-1.51],0.7651820120186164
+SLK,STE20-like serine/threonine-protein kinase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Visual impairment including blindness (binocular or monocular),23825,109,1.06 [0.85-1.32],0.611219738995358
+SLK,STE20-like serine/threonine-protein kinase,Chapter VIII Diseases of the ear and mastoid process,Benign paroxysmal vertigo,23994,57,0.82 [0.54-1.23],0.3353316903582241
+SLK,STE20-like serine/threonine-protein kinase,Chapter VIII Diseases of the ear and mastoid process,Diseases of external ear,24133,81,1.15 [0.92-1.44],0.2162337177353925
+SLK,STE20-like serine/threonine-protein kinase,Chapter VIII Diseases of the ear and mastoid process,Diseases of middle ear and mastoid,24062,124,1.02 [0.82-1.26],0.8730970244474037
+SLK,STE20-like serine/threonine-protein kinase,Chapter VIII Diseases of the ear and mastoid process,Labyrinthitis,23987,50,1.12 [0.83-1.51],0.4607406968356875
+SLK,STE20-like serine/threonine-protein kinase,Chapter VIII Diseases of the ear and mastoid process,Mnire disease,23988,51,0.94 [0.65-1.37],0.7625164835358882
+SLK,STE20-like serine/threonine-protein kinase,Chapter VIII Diseases of the ear and mastoid process,Other disorders of ear,24088,475,1.03 [0.93-1.15],0.558397761738509
+SLK,STE20-like serine/threonine-protein kinase,Chapter VIII Diseases of the ear and mastoid process,Other specified/unspecified hearing loss,23909,296,1.04 [0.91-1.19],0.5808878362714507
+SLK,STE20-like serine/threonine-protein kinase,Chapter VIII Diseases of the ear and mastoid process,Sensorineural hearing loss,23699,86,0.99 [0.75-1.30],0.9164881828749843
+SLK,STE20-like serine/threonine-protein kinase,Chapter VIII Diseases of the ear and mastoid process,Tinnitus,23677,64,1.10 [0.84-1.44],0.4993806505201031
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Acute pharyngitis,23918,68,0.72 [0.47-1.09],0.1194831461344554
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Acute upper respiratory infections,24060,210,1.01 [0.86-1.20],0.882071982039627
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Acute upper respiratory infections of multiple and unspecified sites,23906,56,0.99 [0.71-1.38],0.9619211425011924
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,All influenza,23029,68,1.11 [0.86-1.44],0.427856143861877
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,All influenza (not pneumonia),23028,67,1.11 [0.85-1.44],0.4387565918079443
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Allergic asthma (mode),17869,121,1.03 [0.83-1.27],0.8208873353285264
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Allergic rhinitis,24045,283,0.94 [0.81-1.11],0.4777170647654148
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",19175,1559,1.02 [0.96-1.08],0.5818733949341444
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",19278,1530,1.02 [0.96-1.09],0.4361031430233791
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Bacterial pneumonia (organism specified),23924,84,1.28 [1.06-1.55],0.0117317145508165
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,"Bacterial pneumonia, not elsewhere classified",23010,49,0.96 [0.66-1.40],0.8255155042393232
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Bronchiectasis,21490,155,0.98 [0.80-1.20],0.8376572150661856
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,"Bronchitis, not specified as acute or chronic",21370,35,1.00 [0.66-1.52],0.9991490318495778
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,23406,2071,0.99 [0.94-1.05],0.8423676798114309
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,"Chronic rhinitis, nasopharyngitis and pharyngitis",22866,61,0.93 [0.65-1.31],0.6686018180978919
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Chronic sinusitis,22948,143,1.14 [0.96-1.35],0.1481224076484375
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,"COPD, hospital admissions 1, only main diagnosis",24083,626,0.96 [0.87-1.07],0.4637230614056669
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Deviated nasal septum,22924,119,0.95 [0.74-1.21],0.6768529623121929
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,22471,3743,0.98 [0.94-1.02],0.3545954826336355
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,"Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified",23142,337,1.00 [0.87-1.14],0.9843157229240146
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Early onset COPD,23906,449,0.94 [0.82-1.06],0.3067131144278759
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Emphysema,21498,163,0.96 [0.77-1.18],0.6843272531742339
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Idiopathic pulmonary fibrosis,23039,101,1.13 [0.92-1.39],0.2472902748740444
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Influenza and pneumonia,24013,1052,0.97 [0.89-1.05],0.3948486657922173
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Interstitial lung disease,23061,123,1.08 [0.89-1.32],0.4284028410221548
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Later onset COPD,22895,177,1.02 [0.85-1.22],0.8355351000110094
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Lung diseases due to external agents,24164,138,1.02 [0.82-1.25],0.8876110947425131
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Nasal polyp,22908,103,1.00 [0.78-1.27],0.9846704348618828
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,23981,558,0.93 [0.83-1.04],0.228832430321217
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Other diseases of pleura,24011,1097,1.02 [0.94-1.09],0.6592961173037273
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Other diseases of upper respiratory tract,23595,790,0.99 [0.91-1.08],0.8613524329219624
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Other pleural conditions,22946,32,0.54 [0.26-1.12],0.0986381892174777
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium,24118,177,1.01 [0.84-1.21],0.9399776434517464
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,24097,746,1.01 [0.92-1.10],0.8821459239119611
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Pleural effusion,23443,529,1.02 [0.91-1.13],0.7669738986378634
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Pleural plaque,22962,48,0.96 [0.65-1.41],0.8201230750192018
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",23828,867,0.95 [0.87-1.04],0.2718592358256774
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Pneumonitis due to solids and liquids,24147,121,1.01 [0.81-1.27],0.9131393239115736
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Pneumothorax,22971,57,1.03 [0.75-1.42],0.8446426391372984
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Pollen allergy,24142,243,0.91 [0.77-1.09],0.3200879896662707
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Pulmonary oedema,23975,34,1.02 [0.67-1.54],0.9313426736095424
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Respiratory insufficiency,17779,31,1.19 [0.85-1.68],0.3166540748168865
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,23961,538,0.93 [0.83-1.04],0.202742183892846
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Vasomotor and allergic rhinitis,23088,283,0.94 [0.81-1.10],0.4753577183270231
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Viral pneumonia,23124,163,0.94 [0.77-1.16],0.5831536462622178
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,"Viral pneumonia (unknown virus, not influenza)",23939,140,0.83 [0.64-1.07],0.1506263932451761
+SLK,STE20-like serine/threonine-protein kinase,Chapter X Diseases of the respiratory system,Vocal cord dysfunction,13921,85,1.04 [0.80-1.36],0.7692600969560122
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Abscess of anal and rectal regions,18492,59,0.94 [0.66-1.34],0.7221084601786789
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Acute appendicitis,23992,133,1.07 [0.88-1.30],0.5188921009676057
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Acute gastritis,19305,61,1.25 [0.99-1.57],0.0574630846167557
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Acute pancreatitis,22763,153,0.89 [0.71-1.12],0.3312546394423764
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Acute peritonitis,23766,60,1.05 [0.78-1.41],0.7478784792055495
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Alcoholic liver disease,23490,76,1.06 [0.81-1.39],0.6655484867179453
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Barrett oesophagus,19555,311,0.94 [0.81-1.10],0.4394061436916356
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC)",22659,49,1.21 [0.92-1.58],0.1742888238313393
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,"Cholangitis (primary sclerosing, PSC), with reimbursement 202",23813,49,1.21 [0.92-1.59],0.1694201252492634
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Cholecystitis,22759,149,1.11 [0.94-1.33],0.226551700014369
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Cholelithiasis,23441,831,0.98 [0.90-1.07],0.7143574121754457
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Chronic gastritis,19459,215,0.98 [0.82-1.17],0.8199874238762419
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Chronic pancreatitis,22647,37,0.99 [0.65-1.51],0.9634205831764958
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,"Cirrhosis of liver, NAS",24039,73,1.13 [0.89-1.44],0.3210683899688696
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Coeliac disease,22923,94,1.17 [0.95-1.43],0.1325598124133572
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Collagenous colitis,22799,46,1.23 [0.94-1.61],0.1396223929511167
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Colonic or urogenital fistula,24004,183,1.09 [0.93-1.28],0.2873095379878842
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Constipation,23979,1024,1.01 [0.93-1.09],0.8860076146544802
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Crohn disease,22835,82,0.98 [0.74-1.30],0.892781553622906
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,"Crohn disease (strict definition, all UC cases excluded)",23864,55,0.88 [0.60-1.30],0.5276066893314646
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Crohn's disease NAS,22831,78,0.82 [0.58-1.16],0.2532999612791372
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Dental caries,23435,231,1.00 [0.85-1.18],0.9769741941993516
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Diaphragmatic hernia,22323,1570,1.04 [0.98-1.10],0.1748073877737258
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Diseases of appendix,24031,172,1.13 [0.96-1.32],0.1394076925371981
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Diseases of liver,24063,649,1.02 [0.93-1.12],0.6738699708286239
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",22633,3389,1.02 [0.98-1.07],0.2660984771083456
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",23743,539,1.06 [0.96-1.17],0.2620579122238469
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Diseases of peritoneum,24096,390,0.95 [0.83-1.08],0.4390638027549089
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Diseases of pulp and periapical tissues,23321,117,1.04 [0.83-1.29],0.7495128600744227
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Diseases of salivary glands,23179,61,1.04 [0.77-1.41],0.787519954934449
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Diseases of the digestive system,23925,1096,1.04 [0.97-1.12],0.2405878201009468
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Diseases of tongue,23185,109,1.10 [0.89-1.35],0.3787606113397092
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas",23726,1116,1.00 [0.93-1.08],0.9355673559873076
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Diverticular disease of intestine,20568,2135,1.01 [0.96-1.07],0.6567774509201652
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Duodenal ulcer,19375,131,1.08 [0.89-1.32],0.444932381978363
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,"Duodenal ulcer - Unspecified as acute or chronic, without haemorrhage or perforation, drug-induced",24108,102,1.05 [0.83-1.32],0.7074264799494547
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Embedded and impacted teeth,24055,71,1.13 [0.89-1.45],0.3163116406204401
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Fibrosis and cirrhosis of liver,23505,91,1.00 [0.77-1.30],0.9815735030681962
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Fissure and fistula of anal and rectal regions,18590,157,1.13 [0.95-1.34],0.1706511605569382
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Functional dyspepsia,19694,450,0.89 [0.78-1.02],0.0862785812178434
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Gastric ulcer,19499,255,0.91 [0.77-1.09],0.3026498667031059
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,21217,1973,1.03 [0.98-1.09],0.2237639197769303
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Gastroduodenal ulcer,19613,369,0.97 [0.85-1.11],0.6939832817098841
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,19677,7015,1.00 [0.97-1.03],0.9296928859082898
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,GI-bleeding,23713,884,1.05 [0.97-1.14],0.2100978229989147
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Gingivitis and periodontal diseases,23266,62,1.14 [0.87-1.48],0.3453524302028977
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Haemorrhoids and perianal venous thrombosis,19227,1109,1.06 [0.99-1.14],0.087477195853093
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,"Hepatic failure, not elsewhere classified",23459,45,1.10 [0.79-1.53],0.5800432848706736
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Hernia,23136,2383,1.01 [0.97-1.07],0.5637915808283473
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Impacted teeth,24064,66,1.03 [0.77-1.38],0.857196019959248
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Impaction of intestines,18466,33,0.75 [0.42-1.34],0.3295045993855359
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Inguinal hernia,21359,606,0.94 [0.84-1.05],0.2777501367700694
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,"Inguinal hernia, bilateral",20826,73,1.11 [0.86-1.43],0.421198886030098
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Intestinal adhesions without obstruction,18498,65,0.85 [0.59-1.23],0.400786999579569
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Intestinal malabsorption,22942,113,1.13 [0.93-1.37],0.2030194573871393
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Irritable bowel syndrome,18942,509,1.06 [0.96-1.17],0.2805791948497637
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,24147,335,1.03 [0.90-1.17],0.6629113118239481
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Noninfectious colitis NAS,23358,605,0.98 [0.89-1.09],0.727211736743833
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,23519,766,1.00 [0.92-1.10],0.9255495419467792
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Oesophageal obstruction,19373,129,1.01 [0.81-1.25],0.9605312065652504
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Oesophagitis,19676,432,1.00 [0.88-1.12],0.9420519114323588
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Oral lichen ruber planus,24133,118,1.16 [0.96-1.39],0.1139518768205791
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Other and unspecified abdominal hernia,20798,45,0.72 [0.43-1.21],0.2170303781895546
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Other diseases of anus and rectum,19561,1128,1.04 [0.97-1.11],0.3127837234630914
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Other diseases of biliary tract,22777,167,1.00 [0.83-1.21],0.978334629188232
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Other diseases of gallbladder,22753,143,1.07 [0.89-1.29],0.4797996658267208
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Other diseases of intestine,19775,1342,1.02 [0.95-1.09],0.559812350927624
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Other diseases of intestines,22719,4286,1.00 [0.97-1.04],0.9079678795095052
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Other diseases of lip and oral mucosa,23185,171,1.15 [0.99-1.35],0.0664381512085194
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Other diseases of liver,23934,520,1.01 [0.91-1.12],0.8658275259351789
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,19717,473,0.95 [0.84-1.08],0.431083423120106
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Other diseases of pancreas,22683,73,1.14 [0.89-1.45],0.3009971865668147
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,24049,343,0.95 [0.82-1.09],0.4570883495606201
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Other diseases of stomach and duodenum,19911,667,1.04 [0.95-1.14],0.3950696760984553
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Other diseases of the digestive system,23726,897,1.04 [0.97-1.13],0.2797839914390161
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,23356,152,1.08 [0.90-1.29],0.4187074810579269
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Other functional intestinal disorders,19502,1069,1.01 [0.93-1.09],0.8572074192797411
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Other gastritis (incl. Duodenitis),20793,1549,1.06 [1.00-1.12],0.0615730222641534
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Other inflammatory liver diseases,23485,71,1.09 [0.84-1.41],0.5102177970749087
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Other noninfective gastroenteritis and colitis,23416,663,1.00 [0.91-1.10],0.9986588858218924
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,"Other or unspecified ileus, impaction or obstruction",18645,212,0.87 [0.71-1.06],0.1798944012481027
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,24039,84,1.11 [0.88-1.40],0.371656150412939
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Paralytic ileus and intestinal obstruction,18746,313,0.88 [0.75-1.04],0.1227087940854225
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,"Postprocedural disorders of digestive system, not elsewhere classified",22950,121,0.91 [0.71-1.18],0.4851467755706139
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Recurring oral aphthae,24162,55,0.55 [0.31-0.95],0.0323156152174091
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Stomatitis and related lesions,23217,115,0.55 [0.37-0.80],0.0021303301711491
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Toxic colitis,22776,23,0.85 [0.46-1.58],0.6170364971395422
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Ulcer of oesophagus,19416,172,1.15 [0.98-1.34],0.0866830019552499
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Ulcerative colitis,22885,132,1.09 [0.90-1.31],0.3994957298481775
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",22868,115,1.06 [0.86-1.31],0.5778337990080193
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Umbilical hernia,20992,239,1.03 [0.88-1.20],0.7300612563732958
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Vascular disorders of the intestines,18529,96,0.82 [0.60-1.12],0.2180616143250143
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Ventral hernia,20956,203,1.09 [0.93-1.27],0.2941218462897984
+SLK,STE20-like serine/threonine-protein kinase,Chapter XI Diseases of the digestive system,Volvulus,18491,58,0.90 [0.63-1.30],0.583564399637783
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Actinic keratosis,24130,135,1.02 [0.83-1.25],0.8775106902624118
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Arthropathic psoriasis,23937,75,1.11 [0.87-1.41],0.4135821040495941
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Atrophic disorders of skin,22882,129,0.84 [0.65-1.09],0.1926678929798823
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Cellulitis,23606,484,1.02 [0.91-1.14],0.7537919562653956
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,"Cutaneous abscess, furuncle and carbuncle",23303,181,0.92 [0.75-1.13],0.4186021335164305
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,22900,147,1.04 [0.85-1.26],0.7156946872248164
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis,23947,200,1.03 [0.87-1.22],0.7205704738404197
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,24086,339,1.03 [0.91-1.17],0.6197364860522125
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Dermatitis due to substances taken internally,23785,38,0.94 [0.62-1.45],0.7915407973877009
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,22893,2249,1.00 [0.94-1.05],0.8593351531427839
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Disorders of skin appendages,23764,376,0.93 [0.81-1.07],0.2967507280084659
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Follicular cysts of skin and subcutaneous tissue,23651,263,0.97 [0.83-1.13],0.6885154838476482
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue,23823,701,1.00 [0.91-1.10],0.9983276093986
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,"Lichen planus, including avohilmo",24161,41,1.10 [0.79-1.54],0.5640553807302826
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Lupus erythematosus,22807,54,1.31 [1.05-1.64],0.0159866201766436
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Nail disorders,23427,39,0.85 [0.52-1.37],0.4940800504991273
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified dermatitis,23941,194,1.01 [0.85-1.20],0.8912601250314143
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified disorders of skin and subcutaneous tissue,23012,259,0.97 [0.83-1.13],0.6946924916240246
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified epidermal thickening,22787,34,0.83 [0.49-1.39],0.4720394454462663
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified erythematous conditions,24100,66,1.05 [0.79-1.40],0.7224801377518703
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified local infections of skin and subcutaneous tissue,23241,119,0.84 [0.63-1.11],0.2142951165344181
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Other and unspecified psoriasis,23996,134,0.96 [0.77-1.20],0.7348297376539459
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Other contact dermatitis,23771,24,0.30 [0.11-0.85],0.0234888467309591
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of pigmentation,22799,46,0.88 [0.58-1.34],0.5643157729342998
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Other disorders of skin and subcutaneous tissue,23726,973,0.99 [0.92-1.07],0.8225862411931921
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",23040,287,1.02 [0.88-1.17],0.8231016705835137
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Other epidermal thickening,22791,38,0.80 [0.48-1.33],0.3875576844390732
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Papulosquamous disorders,24100,238,1.06 [0.92-1.23],0.4117783382237263
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Pruritus,23801,54,1.00 [0.71-1.40],0.9875114096210448
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Psoriasis,24057,195,1.05 [0.89-1.24],0.5407246975128274
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Radiation-related disorders of the skin and subcutaneous tissue,24145,150,1.02 [0.84-1.24],0.8476326416718055
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Scar conditions and fibrosis of skin,22861,108,0.81 [0.60-1.09],0.1578289781653104
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Seborrhoeic keratosis,22922,169,0.88 [0.71-1.10],0.2643198897971406
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Skin changes due to chronic exposure to nonionizing radiation,24139,144,1.02 [0.83-1.24],0.8779728663011337
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,"Ulcer of lower limb, not elsewhere classified",22870,117,0.94 [0.73-1.20],0.6233860653860577
+SLK,STE20-like serine/threonine-protein kinase,Chapter XII Diseases of the skin and subcutaneous tissue,Urticaria and erythema,24143,109,0.84 [0.63-1.12],0.2284630421536808
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Adhesive capsulitis of shoulder,21177,118,1.02 [0.82-1.27],0.8492625669607077
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthropathies,22548,4095,1.02 [0.99-1.06],0.2320240733904797
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Arthrosis,21346,2893,1.03 [0.98-1.07],0.2258175743127781
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Bursitis of shoulder,21145,86,1.17 [0.95-1.45],0.1377030888814191
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervical disc disorders,21656,137,0.95 [0.75-1.19],0.6276121775458934
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Cervicalgia,21662,143,1.00 [0.81-1.23],0.9825984005003148
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Chondropathies,23966,105,1.00 [0.78-1.27],0.973613986845388
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Collapsed vertebra, not elsewhere classified",21562,43,0.52 [0.27-0.99],0.0479849843626622
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Coxarthrosis,19116,663,1.03 [0.94-1.13],0.5335358163941302
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Coxarthrosis, primary",24116,112,1.02 [0.82-1.28],0.8594217434117337
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Deforming dorsopathies,21771,252,0.96 [0.81-1.13],0.6031835170588526
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Diseases of the musculoskeletal system and connective tissue,21115,5493,1.02 [0.99-1.05],0.2373122414349605
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of continuity of bone,22931,94,0.94 [0.71-1.24],0.6482298762222113
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of muscles,21166,107,0.94 [0.73-1.22],0.663951432381217
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Disorders of synovium and tendon,21606,547,0.99 [0.89-1.10],0.8026310595186195
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Dorsopathies,23373,1854,1.03 [0.97-1.09],0.3205528917812472
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibroblastic disorders,21265,206,1.18 [1.03-1.35],0.0161289453371439
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Fibromyalgia,21317,258,1.11 [0.98-1.27],0.1046601117620694
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Ganglion,21197,138,0.74 [0.56-0.99],0.0413340830175576
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Giant cell arteritis,23696,31,0.94 [0.59-1.51],0.8067421216676697
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gonarthrosis,19598,1145,1.02 [0.95-1.10],0.5480086230996801
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Gout,18795,342,1.08 [0.95-1.22],0.2338613700594937
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Gout, unspecified",24124,332,1.06 [0.93-1.20],0.4128372602715406
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux rigidus,18519,66,0.72 [0.47-1.10],0.1249193196752667
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Hallux valgus (acquired),18760,307,1.00 [0.87-1.15],0.9604937266524196
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Impingement syndrome of shoulder,21351,292,0.85 [0.72-1.02],0.075298617366479
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Internal derangement of knee,19127,674,1.03 [0.94-1.12],0.5917684783581956
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Kyphosis,21542,23,0.62 [0.28-1.38],0.2407067459248139
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Low back pain,22016,497,0.94 [0.84-1.06],0.324446004245927
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Lumbar disc prolapse,21774,255,1.08 [0.94-1.24],0.2687489453571609
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Meniscus derangement,19078,625,1.00 [0.90-1.10],0.9245741992154584
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Myalgia,21130,71,0.81 [0.56-1.18],0.2718038489550484
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Neuralgia and neuritis, unspecified",21112,53,1.06 [0.77-1.45],0.7349450788401997
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteomyelitis,22890,53,1.08 [0.79-1.47],0.6217911387330279
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies,23879,1042,1.00 [0.93-1.08],0.9794429406700452
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Osteoporosis,23430,593,1.04 [0.94-1.14],0.4385088628092018
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other (seronegative) rheumatoid arthritis, wide",24066,309,1.19 [1.07-1.33],0.0017317108288823
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other arthrosis,20025,1572,1.03 [0.97-1.09],0.3913350036311698
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other articular cartilage disorders,18520,67,1.25 [1.00-1.55],0.0472984790092075
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other bursopathies,21128,69,0.97 [0.71-1.32],0.8275338523409386
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other crystal arthropathies,18479,26,1.34 [0.98-1.83],0.0623454948383334
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other deformities of toe(s),18555,102,1.08 [0.87-1.34],0.472441966246036
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone,23048,211,0.92 [0.76-1.11],0.388762520117948
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of bone density and structure,23059,222,1.04 [0.88-1.21],0.6651877025974835
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue,24137,76,0.85 [0.61-1.20],0.360265505737729
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other dorsopathies, not elsewhere classified",22906,1387,1.04 [0.98-1.11],0.17748271051285
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other enthesopathies,21169,110,1.12 [0.92-1.37],0.2678896221416503
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other hammer toe(s) (acquired),18567,114,0.97 [0.77-1.23],0.8077886737436503
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other intervertebral disc disorders,22084,565,1.04 [0.94-1.14],0.484867428584008
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other joint disorders,20261,1808,1.01 [0.95-1.06],0.8511424073883416
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other necrotizing vasculopathies,23714,49,0.88 [0.58-1.32],0.5320013414003135
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other psoriatic arthropathies,24148,71,1.07 [0.83-1.39],0.600431668801453
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other shoulder lesions,21128,69,1.12 [0.87-1.44],0.3876395786511752
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Other soft tissue disorders, not elsewhere classified",22029,970,1.03 [0.95-1.11],0.4524428860829665
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified disorders of muscle,21121,62,0.75 [0.49-1.15],0.1820016553207743
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified arthritis,19449,996,1.10 [1.03-1.18],0.0045385705248897
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of  bone/cartilage,22933,96,0.74 [0.52-1.04],0.0869009135606993
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies,21118,59,1.16 [0.89-1.50],0.2634203086127732
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified inflammatory spondylopathies,21620,101,1.13 [0.92-1.39],0.2560816071032573
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other specified/unspecified soft tissue disorders,21406,347,1.12 [1.00-1.25],0.0567891997084854
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,23856,191,0.88 [0.72-1.08],0.2369644671867385
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified dorsalgia,21938,419,1.05 [0.94-1.17],0.421995119438566
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified rheumatoid arthritis,24075,293,1.16 [1.03-1.30],0.0111090104381679
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified seropositive rheumatoid arthritis,24156,32,0.84 [0.49-1.43],0.514729337200689
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other/unspecified synovitis and tenosynovitis,21243,184,1.11 [0.95-1.29],0.2021783375520648
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in joint,19374,540,0.97 [0.86-1.08],0.5256606037981195
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Pain in limb,21496,437,0.95 [0.84-1.08],0.4251331997524133
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Palmar fascial fibromatosis [Dupuytren],21212,153,1.21 [1.04-1.41],0.0140356674838828
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Polyarthritis, unspecified",18487,34,1.41 [1.09-1.80],0.0075606083615926
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthropathies,20020,1567,1.09 [1.03-1.15],0.0016757825358872
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polyarthrosis,18849,396,1.05 [0.93-1.17],0.4451290400054466
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,23743,78,0.79 [0.55-1.14],0.2076763787671307
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Postprocedural musculoskeletal disorders, not elsewhere classified",24106,45,0.95 [0.65-1.40],0.8140101749940047
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Primary gonarthrosis, bilateral",22764,26,1.16 [0.78-1.72],0.4594423984559659
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Psoriatic arthropathies,18526,73,1.13 [0.89-1.43],0.3221468404482451
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Radiculopathy,21603,84,1.05 [0.81-1.36],0.7040195891027163
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rheumatoid arthritis,18765,312,1.18 [1.06-1.32],0.0024507966730519
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Rotator cuff syndrome,21299,240,0.98 [0.83-1.15],0.776758626688925
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sciatica+with lumbago,21709,190,1.15 [1.00-1.33],0.0559886883073891
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Scoliosis,21610,91,0.93 [0.70-1.23],0.613348112836841
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Seronegative rheumatoid arthritis,20435,43,1.36 [1.07-1.73],0.0109385349838877
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Seropositive rheumatoid arthritis, wide",24159,35,0.86 [0.52-1.41],0.5426724211777689
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Shoulder lesions,21590,531,0.99 [0.89-1.11],0.8902424625502127
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Sicca syndrome [Sjgren],23742,77,0.85 [0.61-1.19],0.3525571230633223
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders,23215,2156,1.01 [0.96-1.07],0.6338438714338426
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,"Soft tissue disorders related to use, overuse and pressure",21160,101,0.97 [0.76-1.25],0.8400555615447228
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spinal stenosis,21839,320,1.06 [0.94-1.21],0.351961115549376
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondyloarthritis,22920,166,1.06 [0.88-1.26],0.5459883117391381
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylolisthesis/Spondylolysis,21653,134,1.04 [0.85-1.28],0.7002124408725847
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylopathies,22470,951,1.04 [0.96-1.12],0.3583245552783557
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Spondylosis,22143,624,1.02 [0.93-1.12],0.660432175315929
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Synovial cyst of popliteal space [Baker],21098,39,1.07 [0.75-1.54],0.6959173636550076
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Systemic lupus erythematosus,23805,140,1.20 [1.02-1.40],0.0251708958737985
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trigger finger,21195,136,0.87 [0.67-1.11],0.253658614385141
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Trochanteric bursitis,21113,54,0.83 [0.55-1.26],0.3860603592432192
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Wrist or foot drop (acquired),18485,32,1.12 [0.76-1.64],0.5665924709349058
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Acute renal failure,23721,735,1.00 [0.91-1.09],0.9380495128888188
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Adenomyosis (Endometriosis of uterus),9777,65,1.06 [0.80-1.40],0.6827784889054579
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Benign mammary dysplasia,13026,70,0.69 [0.45-1.04],0.0791863047411992
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Calculus of kidney and ureter,23909,276,1.09 [0.95-1.24],0.2238555893563723
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Calculus of lower urinary tract,23688,55,1.08 [0.80-1.47],0.6072646757756353
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Chronic kidney disease,23534,548,1.09 [0.99-1.20],0.0828522707785996
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Chronic nephritic syndrome,24012,20,1.08 [0.66-1.78],0.7499309414420856
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Cyst of kidney,24025,163,0.76 [0.58-0.99],0.0399518596645175
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Cystitis,22201,133,0.99 [0.79-1.23],0.9055502676672492
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Dialysis,23028,42,1.25 [0.95-1.66],0.1149962715330737
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Diseases of male genital organs,10477,1002,0.99 [0.92-1.08],0.8420471690068301
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Disorders of breast,13130,174,0.98 [0.81-1.18],0.7958883477460515
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Endometriosis,9829,117,1.01 [0.81-1.26],0.9569279071659346
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,"Excessive, frequent and irregular menstruation",10045,333,0.91 [0.78-1.05],0.1990185886266754
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Female genital prolapse,10092,380,1.12 [1.01-1.24],0.0344830077797596
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,20377,3729,1.02 [0.98-1.06],0.3155841472161921
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Glomerular disorders in diseases classified elsewhere,24053,61,1.09 [0.82-1.45],0.5641961619044111
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Hydrocele,9546,71,0.79 [0.53-1.16],0.2291147895304007
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Hydronephrosis,22908,192,1.06 [0.90-1.25],0.4794260839901563
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Hyperplasia of prostate,10145,670,1.00 [0.91-1.10],0.9823366852148916
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs,13010,208,1.00 [0.85-1.18],0.9861808786209608
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Inflammatory diseases of prostate (prostatitis),9566,91,1.13 [0.90-1.41],0.2865365868663276
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Irregular menses,13014,107,0.92 [0.71-1.19],0.5158947821533068
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Menorrhagia,9971,259,0.85 [0.71-1.02],0.0778352511966051
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Neuromuscular dysfunction of bladder,22124,56,0.90 [0.62-1.31],0.5828063133216912
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Noninflammatory disorders of female genital tract,10949,1237,1.01 [0.94-1.08],0.8649738757538905
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Orchitis and epididymitis,9522,47,0.94 [0.63-1.41],0.7750877951589941
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Other abnormal uterine and vaginal bleeding,9797,85,0.98 [0.75-1.28],0.8984782796556295
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,"Other chronic cystitis, drug-induced",24162,35,0.94 [0.60-1.47],0.7718746298418082
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,"Other cystitis, drug-induced",24167,40,1.13 [0.82-1.56],0.464741977029939
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Other diseases of urinary system,23412,1344,1.05 [0.98-1.11],0.1696638825640182
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Other disorders of  bladder,22489,421,0.94 [0.83-1.07],0.3683481093720453
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Other disorders of breast,13011,55,1.17 [0.91-1.52],0.2244322611554509
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Other disorders of kidney and ureter,24125,263,0.86 [0.72-1.03],0.1027851784010076
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Other disorders of male genital organs,9614,139,0.87 [0.67-1.11],0.2612853664578608
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Other disorders of penis,9578,103,1.09 [0.87-1.36],0.4586949707284194
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Other disorders of prostate,9542,67,1.22 [0.97-1.54],0.096522644847892
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Other disorders of the genitourinary system,24138,46,0.97 [0.67-1.40],0.8527115749934671
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,23054,986,1.06 [0.98-1.13],0.1441866486545411
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Other female pelvic inflammatory diseases,12911,109,1.03 [0.83-1.29],0.7619031367774566
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of cervix uteri,9782,70,1.19 [0.96-1.48],0.1155390227184839
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,"Other noninflammatory disorders of uterus, except cervix",9916,204,0.85 [0.69-1.04],0.1142748053342511
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vagina,9765,53,0.91 [0.63-1.32],0.6184954480495592
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Other noninflammatory disorders of vulva and perineum,9808,96,0.88 [0.66-1.17],0.3811696438817522
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Other obstructive and reflux uropathy,22937,221,1.04 [0.89-1.22],0.6240811427667508
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Other specified disorders of kidney and ureter,23951,89,0.90 [0.67-1.22],0.5042191948368411
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Ovarian cyst,9869,157,0.98 [0.81-1.20],0.8735865235730951
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Pain and other conditions associated with female genital organs and menstrual cycle,9781,69,0.53 [0.33-0.87],0.0122944896157036
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Polyp of the female genital tract,10078,366,1.02 [0.90-1.15],0.804172946735701
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Postmenopausal atrophic vaginitis,9767,55,0.87 [0.59-1.28],0.4714949327228831
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Postmenopausal bleeding,10037,325,1.01 [0.89-1.15],0.8823773146830806
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Recurrent and persistent haematuria,24031,39,1.05 [0.73-1.52],0.782645253038053
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,"Redundant prepuce, phimosis and paraphimosis",9570,95,0.98 [0.75-1.28],0.8695900138513755
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,24017,1301,1.02 [0.96-1.09],0.5046765388261887
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,"Tubulo-interstitial nephritis, not specified as acute or chronic",22838,122,0.89 [0.69-1.15],0.3867265585376881
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Unspecified kidney failure,23042,56,0.98 [0.70-1.38],0.9165555166763923
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Unspecified renal colic,23694,61,0.77 [0.50-1.18],0.225370756562606
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Urethral stricture,22220,152,1.04 [0.86-1.26],0.705131919449512
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Urolithiasis,23968,335,1.07 [0.94-1.21],0.294819119204583
+SLK,STE20-like serine/threonine-protein kinase,Chapter XIV Diseases of the genitourinary system,Uterine polyps,9799,87,1.12 [0.91-1.39],0.2886576322604132

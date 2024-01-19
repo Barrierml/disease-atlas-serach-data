@@ -1,0 +1,75 @@
+Protein,Protein_definition,Disease_category,Disease,NB_individual,NB_case,HR[95%CI],P_value
+ARSB,Arylsulfatase B,Chapter I Certain infectious and parasitic diseases,Certain infectious and parasitic diseases,27318,2757,1.12 [1.05-1.19],0.0002038430459356
+ARSB,Arylsulfatase B,Chapter I Certain infectious and parasitic diseases,Explicit Sepsis,26840,643,1.19 [1.05-1.34],0.0054321373261725
+ARSB,Arylsulfatase B,Chapter I Certain infectious and parasitic diseases,Implicit Sepsis,20939,1210,1.13 [1.03-1.23],0.0084119512205388
+ARSB,Arylsulfatase B,Chapter I Certain infectious and parasitic diseases,Other bacterial agents as the cause of diseases classified to other chapters,27428,607,1.23 [1.09-1.39],0.0010170409580218
+ARSB,Arylsulfatase B,Chapter I Certain infectious and parasitic diseases,Other viral diseases,28117,168,1.42 [1.13-1.78],0.0026319475582242
+ARSB,Arylsulfatase B,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of spleen,27717,70,1.62 [1.15-2.26],0.005197269583161
+ARSB,Arylsulfatase B,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,27397,2268,1.17 [1.09-1.24],3.455711425475941e-06
+ARSB,Arylsulfatase B,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other anaemias,27757,1046,1.24 [1.13-1.36],7.362580012986974e-06
+ARSB,Arylsulfatase B,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified anaemias,27757,1046,1.24 [1.13-1.36],7.362580012986974e-06
+ARSB,Arylsulfatase B,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other and unspecified iron deficiency,27923,944,1.27 [1.15-1.40],1.410737721692242e-06
+ARSB,Arylsulfatase B,"Chapter IV Endocrine, nutritional and metabolic diseases",Alcohol dependence,26272,141,1.49 [1.16-1.91],0.0018836192028032
+ARSB,Arylsulfatase B,"Chapter IV Endocrine, nutritional and metabolic diseases",Alkalosis,24073,38,1.98 [1.27-3.10],0.0027151095918348
+ARSB,Arylsulfatase B,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of calcium metabolism,24228,193,1.35 [1.09-1.68],0.0064093547852622
+ARSB,Arylsulfatase B,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of iron metabolism,24101,66,1.68 [1.18-2.39],0.0037713615702002
+ARSB,Arylsulfatase B,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of lipoprotein metabolism and other lipidaemias,26472,2437,1.19 [1.12-1.27],3.2633019727524415e-08
+ARSB,Arylsulfatase B,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of mineral metabolism,24435,400,1.23 [1.06-1.44],0.0066553457101771
+ARSB,Arylsulfatase B,"Chapter IV Endocrine, nutritional and metabolic diseases","Disorders of plasma-protein metabolism, not elsewhere classified",24074,39,1.94 [1.26-3.00],0.0026590336716398
+ARSB,Arylsulfatase B,"Chapter IV Endocrine, nutritional and metabolic diseases",Disorders of the thyroid gland,27780,1334,1.15 [1.06-1.25],0.0012213068830519
+ARSB,Arylsulfatase B,"Chapter IV Endocrine, nutritional and metabolic diseases",Hypo-osmolality and hyponatraemia,24340,305,1.29 [1.09-1.54],0.0036951221054431
+ARSB,Arylsulfatase B,"Chapter IV Endocrine, nutritional and metabolic diseases",Metabolic disorders,27516,3481,1.18 [1.12-1.24],6.641647951682049e-10
+ARSB,Arylsulfatase B,"Chapter IV Endocrine, nutritional and metabolic diseases","Other disorders of fluid, electrolyte and acid-base balance",24948,913,1.23 [1.11-1.36],6.246957934069819e-05
+ARSB,Arylsulfatase B,"Chapter IV Endocrine, nutritional and metabolic diseases","Postprocedural endocrine and metabolic disorders, not elsewhere classified",24167,132,1.53 [1.18-1.98],0.0011828058047763
+ARSB,Arylsulfatase B,"Chapter IV Endocrine, nutritional and metabolic diseases",Type 2 diabetes without complications,27786,1520,1.29 [1.20-1.39],2.3847074518809976e-11
+ARSB,Arylsulfatase B,Chapter IX Diseases of the circulatory system,Coronary atherosclerosis,27483,1375,1.25 [1.15-1.35],1.0138867032152721e-07
+ARSB,Arylsulfatase B,Chapter IX Diseases of the circulatory system,Death due to cardiac causes,26239,6149,1.14 [1.10-1.18],8.667745430804636e-11
+ARSB,Arylsulfatase B,Chapter IX Diseases of the circulatory system,"Heart failure, strict",28094,521,1.23 [1.07-1.40],0.0025065837681109
+ARSB,Arylsulfatase B,Chapter IX Diseases of the circulatory system,Hypertension,26824,5006,1.17 [1.12-1.22],4.223077961988671e-12
+ARSB,Arylsulfatase B,Chapter IX Diseases of the circulatory system,"Hypertension, essential",26841,5023,1.16 [1.11-1.22],5.638159992375393e-12
+ARSB,Arylsulfatase B,Chapter IX Diseases of the circulatory system,"Ischaemic heart disease, wide definition",27649,1531,1.20 [1.11-1.30],4.398216099820932e-06
+ARSB,Arylsulfatase B,Chapter IX Diseases of the circulatory system,Other arterial embolism and thrombosis,27468,63,1.72 [1.21-2.44],0.002556092158194
+ARSB,Arylsulfatase B,Chapter V Mental and behavioural disorders,"Alcohol use disorder, ICD-based",28055,383,1.23 [1.06-1.44],0.0080389582984869
+ARSB,Arylsulfatase B,Chapter V Mental and behavioural disorders,Any mental disorder,27451,3731,1.08 [1.03-1.14],0.0017696210808356
+ARSB,Arylsulfatase B,Chapter V Mental and behavioural disorders,"Mental and behavioural disorders due to alcohol, excluding acute intoxication",27990,453,1.23 [1.06-1.41],0.005242382291617
+ARSB,Arylsulfatase B,Chapter V Mental and behavioural disorders,"Substance abuse, excluding more controls",25512,1792,1.12 [1.04-1.21],0.0018902788063543
+ARSB,Arylsulfatase B,Chapter VI Diseases of the nervous system,Hydrocephalus,27697,46,1.76 [1.17-2.65],0.0071079245858302
+ARSB,Arylsulfatase B,Chapter VI Diseases of the nervous system,Neurological diseases,26761,3129,1.08 [1.02-1.14],0.0049340585648354
+ARSB,Arylsulfatase B,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",Retinal detachment with retinal break,27578,127,1.42 [1.09-1.85],0.0093867283765756
+ARSB,Arylsulfatase B,Chapter X Diseases of the respiratory system,"Asthma, excluding more controls",22439,1797,1.13 [1.05-1.21],0.0012173059311699
+ARSB,Arylsulfatase B,Chapter X Diseases of the respiratory system,"Asthma, unspecified (mode)",22552,1768,1.13 [1.05-1.22],0.0008039030685331
+ARSB,Arylsulfatase B,Chapter X Diseases of the respiratory system,Bronchiectasis,25112,187,1.40 [1.12-1.74],0.0026986672426463
+ARSB,Arylsulfatase B,Chapter X Diseases of the respiratory system,Chronic lower respiratory diseases,27332,2407,1.13 [1.06-1.21],8.882484512132686e-05
+ARSB,Arylsulfatase B,Chapter X Diseases of the respiratory system,Diseases of the respiratory system,26253,4345,1.11 [1.06-1.16],1.3022015905769836e-05
+ARSB,Arylsulfatase B,Chapter X Diseases of the respiratory system,Influenza and pneumonia,28024,1222,1.13 [1.03-1.23],0.0071771137522066
+ARSB,Arylsulfatase B,Chapter X Diseases of the respiratory system,Other acute lower respiratory infections,28003,630,1.20 [1.06-1.36],0.0030670970423954
+ARSB,Arylsulfatase B,Chapter X Diseases of the respiratory system,Other diseases of pleura,28036,1265,1.16 [1.06-1.26],0.0008960433435248
+ARSB,Arylsulfatase B,Chapter X Diseases of the respiratory system,Other respiratory disorders and diseases,28132,860,1.21 [1.09-1.35],0.0002709815379766
+ARSB,Arylsulfatase B,Chapter X Diseases of the respiratory system,Pleural effusion,27373,602,1.21 [1.07-1.37],0.0030473030765476
+ARSB,Arylsulfatase B,Chapter X Diseases of the respiratory system,"Pneumonia, organism unspecified",27812,1010,1.14 [1.03-1.25],0.0097239521327628
+ARSB,Arylsulfatase B,Chapter X Diseases of the respiratory system,Unspecified acute lower respiratory infection,27983,610,1.19 [1.05-1.34],0.0072751892967783
+ARSB,Arylsulfatase B,Chapter XI Diseases of the digestive system,Coeliac disease,26767,120,1.50 [1.14-1.97],0.00364957476018
+ARSB,Arylsulfatase B,Chapter XI Diseases of the digestive system,Diseases of liver,28091,753,1.24 [1.11-1.38],0.0001628192352038
+ARSB,Arylsulfatase B,Chapter XI Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum",26477,3979,1.07 [1.02-1.13],0.0050675536695298
+ARSB,Arylsulfatase B,Chapter XI Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws",27726,634,1.26 [1.12-1.42],0.0001857617460321
+ARSB,Arylsulfatase B,Chapter XI Diseases of the digestive system,Diseases of peritoneum,28133,439,1.24 [1.08-1.44],0.003112856069608
+ARSB,Arylsulfatase B,Chapter XI Diseases of the digestive system,Gastro-oesophageal reflux disease,24782,2284,1.12 [1.05-1.20],0.0004530322328834
+ARSB,Arylsulfatase B,Chapter XI Diseases of the digestive system,Gastrointestinal diseases,23047,8232,1.07 [1.03-1.11],0.0001711596674728
+ARSB,Arylsulfatase B,Chapter XI Diseases of the digestive system,Intestinal malabsorption,26787,140,1.50 [1.17-1.93],0.0014274538158826
+ARSB,Arylsulfatase B,Chapter XI Diseases of the digestive system,Nonalcoholic fatty liver disease,28189,396,1.34 [1.15-1.55],0.0001244886694434
+ARSB,Arylsulfatase B,Chapter XI Diseases of the digestive system,Noninfective enteritis and colitis,27457,903,1.17 [1.05-1.29],0.003434638185383
+ARSB,Arylsulfatase B,Chapter XI Diseases of the digestive system,Oesophagitis,22997,499,1.23 [1.07-1.41],0.0027967987468897
+ARSB,Arylsulfatase B,Chapter XI Diseases of the digestive system,Other diseases of liver,27947,609,1.23 [1.09-1.39],0.0010374661030402
+ARSB,Arylsulfatase B,Chapter XI Diseases of the digestive system,Other diseases of oesophagus,23043,545,1.20 [1.05-1.36],0.0082057366716207
+ARSB,Arylsulfatase B,Chapter XI Diseases of the digestive system,Other diseases of peritoneum,28076,382,1.25 [1.07-1.46],0.0043788819423087
+ARSB,Arylsulfatase B,Chapter XI Diseases of the digestive system,Other disorders of teeth and supporting structures,27288,196,1.39 [1.13-1.72],0.0021561201046324
+ARSB,Arylsulfatase B,Chapter XI Diseases of the digestive system,Palatinal maxillary canine,28064,98,1.48 [1.10-2.00],0.0095273123894889
+ARSB,Arylsulfatase B,Chapter XI Diseases of the digestive system,Ulcerative colitis,26703,149,1.56 [1.23-1.98],0.0002154975436374
+ARSB,Arylsulfatase B,Chapter XI Diseases of the digestive system,"Ulcerative colitis, NAS",26683,129,1.47 [1.13-1.90],0.0035559624796624
+ARSB,Arylsulfatase B,Chapter XII Diseases of the skin and subcutaneous tissue,Decubitus ulcer and pressure area,26738,176,1.37 [1.09-1.71],0.0060568178993823
+ARSB,Arylsulfatase B,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Other systemic involvement of connective tissue,27870,211,1.57 [1.29-1.93],9.96379651828816e-06
+ARSB,Arylsulfatase B,Chapter XIII Diseases of the musculoskeletal system and connective tissue,Polymyalgia rheumatica,27746,87,1.66 [1.22-2.26],0.0014365527865683
+ARSB,Arylsulfatase B,Chapter XIV Diseases of the genitourinary system,Acute renal failure,27639,877,1.21 [1.10-1.35],0.0001909474632661
+ARSB,Arylsulfatase B,Chapter XIV Diseases of the genitourinary system,Genitourinary diseases,23798,4379,1.07 [1.02-1.12],0.0088119686377442
+ARSB,Arylsulfatase B,Chapter XIV Diseases of the genitourinary system,Other disorders of urethra and urinary system,26900,1115,1.14 [1.03-1.25],0.0072036503025771
+ARSB,Arylsulfatase B,Chapter XIV Diseases of the genitourinary system,Renal tubulo-interstitial diseases,28003,1558,1.14 [1.05-1.23],0.001322150719192
