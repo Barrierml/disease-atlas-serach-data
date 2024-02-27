@@ -1,0 +1,46 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS,Wald ratio,1,0.81 [0.69-0.96],0.0154663527871034,cis
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Wald ratio,1,0.87 [0.76-0.99],0.029182068321403,cis
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHTROSIS_COX,Wald ratio,1,0.79 [0.61-1.04],0.0964997927580449,cis
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OTHERJOINT,Wald ratio,1,0.88 [0.76-1.02],0.098270484792019,cis
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_KNEE,Wald ratio,1,0.86 [0.7-1.05],0.143150460875961,cis
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_MUSCULOSKELETAL,Wald ratio,1,1.1 [0.96-1.26],0.17788024805175,cis
+MYOM3,Myomesin-3,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,0.8 [0.53-1.18],0.257265561365431,cis
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_OTH,Wald ratio,1,0.86 [0.66-1.13],0.29161015905418,cis
+MYOM3,Myomesin-3,Chapter XII Diseases of the skin and subcutaneous tissue,L12_ULCERLOWLIMB,Wald ratio,1,1.36 [0.74-2.48],0.321836899913068,cis
+MYOM3,Myomesin-3,Chapter VI Diseases of the nervous system,G6_CARPTU,Wald ratio,1,1.13 [0.88-1.46],0.333338749605185,cis
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SCOLIOSIS,Wald ratio,1,1.29 [0.62-2.68],0.489628456248714,cis
+MYOM3,Myomesin-3,Chapter VI Diseases of the nervous system,G6_POLYOTHUNS,Wald ratio,1,1.16 [0.7-1.91],0.563458945909894,cis
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Wald ratio,1,0.95 [0.76-1.19],0.657924364580256,cis
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SPINSTENOSIS,Wald ratio,1,1.07 [0.8-1.42],0.658051659338571,cis
+MYOM3,Myomesin-3,Chapter IX Diseases of the circulatory system,I9_AF,Wald ratio,1,0.94 [0.73-1.22],0.659670269449063,cis
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_WRISTFOOTDROP,Wald ratio,1,1.38 [0.31-6.18],0.677693096516106,cis
+MYOM3,Myomesin-3,Chapter VI Diseases of the nervous system,G6_NEURO,Wald ratio,1,1.04 [0.87-1.24],0.67977775692369,cis
+MYOM3,Myomesin-3,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Wald ratio,1,1.03 [0.89-1.2],0.699920690478444,cis
+MYOM3,Myomesin-3,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Wald ratio,1,1.03 [0.88-1.21],0.701486844552035,cis
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_INTERVERTEB,Wald ratio,1,1.04 [0.85-1.27],0.730531906609108,cis
+MYOM3,Myomesin-3,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Wald ratio,1,0.96 [0.72-1.29],0.79752088251849,cis
+MYOM3,Myomesin-3,Chapter VI Diseases of the nervous system,G6_NEUATR,Wald ratio,1,1.05 [0.34-3.18],0.934730352724975,cis
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DEFORMDORSO,Wald ratio,1,1.01 [0.69-1.48],0.939590854924912,cis
+MYOM3,Myomesin-3,Chapter VI Diseases of the nervous system,G6_NERPLEX,Wald ratio,1,1 [0.83-1.2],0.998619037981319,cis
+MYOM3,Myomesin-3,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,24,1.08 [0.99-1.17],0.0687259153571236,trans
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHTROSIS_COX,Inverse variance weighted,24,1.09 [0.99-1.21],0.0705557185314174,trans
+MYOM3,Myomesin-3,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Inverse variance weighted,24,0.93 [0.85-1.01],0.0725437840068302,trans
+MYOM3,Myomesin-3,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Inverse variance weighted,24,0.93 [0.85-1.02],0.114792592968458,trans
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_INTERVERTEB,Inverse variance weighted,24,1.05 [0.98-1.12],0.157032512404441,trans
+MYOM3,Myomesin-3,Chapter VI Diseases of the nervous system,G6_NEUATR,Inverse variance weighted,24,1.23 [0.88-1.71],0.226919457572213,trans
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,24,0.96 [0.89-1.03],0.257117063039966,trans
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SCOLIOSIS,Inverse variance weighted,24,1.12 [0.9-1.39],0.303154518465814,trans
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OTHERJOINT,Inverse variance weighted,24,1.03 [0.97-1.09],0.404568108447985,trans
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DEFORMDORSO,Inverse variance weighted,24,1.05 [0.93-1.18],0.443836620562321,trans
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SPINSTENOSIS,Inverse variance weighted,24,1.04 [0.93-1.15],0.49252991650589,trans
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,24,1.01 [0.97-1.06],0.523671140955701,trans
+MYOM3,Myomesin-3,Chapter VI Diseases of the nervous system,G6_CARPTU,Inverse variance weighted,24,1.03 [0.93-1.15],0.57933491555338,trans
+MYOM3,Myomesin-3,Chapter IX Diseases of the circulatory system,I9_AF,Inverse variance weighted,24,0.97 [0.84-1.11],0.62855260584301,trans
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS,Inverse variance weighted,24,1.01 [0.95-1.08],0.681553904836843,trans
+MYOM3,Myomesin-3,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,24,0.98 [0.88-1.09],0.694074969830733,trans
+MYOM3,Myomesin-3,Chapter VI Diseases of the nervous system,G6_NERPLEX,Inverse variance weighted,24,1.01 [0.95-1.08],0.734585900545038,trans
+MYOM3,Myomesin-3,Chapter XII Diseases of the skin and subcutaneous tissue,L12_ULCERLOWLIMB,Inverse variance weighted,24,0.97 [0.82-1.15],0.745347899907385,trans
+MYOM3,Myomesin-3,Chapter VI Diseases of the nervous system,G6_POLYOTHUNS,Inverse variance weighted,24,0.98 [0.84-1.14],0.774002226594928,trans
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_KNEE,Inverse variance weighted,24,0.99 [0.92-1.07],0.850061021116982,trans
+MYOM3,Myomesin-3,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_OTH,Inverse variance weighted,24,1.01 [0.91-1.11],0.897277544721134,trans

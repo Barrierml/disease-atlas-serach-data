@@ -1,0 +1,13 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+BDNF,Brain-derived neurotrophic factor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_THROMBOCYTOPENIANAS,Wald ratio,1,1.78 [0.75-4.26],0.192855677040004,cis
+BDNF,Brain-derived neurotrophic factor,Chapter IX Diseases of the circulatory system,I9_IHD,Wald ratio,1,0.91 [0.75-1.1],0.322563296522845,cis
+BDNF,Brain-derived neurotrophic factor,Chapter IX Diseases of the circulatory system,I9_CORATHER,Wald ratio,1,0.92 [0.74-1.14],0.43696137118304,cis
+BDNF,Brain-derived neurotrophic factor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Wald ratio,1,0.83 [0.45-1.52],0.53823909070018,cis
+BDNF,Brain-derived neurotrophic factor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_AGRANULOCYTOSIS,Wald ratio,1,1.17 [0.6-2.28],0.640690664262923,cis
+BDNF,Brain-derived neurotrophic factor,Chapter XI Diseases of the digestive system,K11_LIVER,Wald ratio,1,1 [0.69-1.44],0.992035152781305,cis
+BDNF,Brain-derived neurotrophic factor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_THROMBOCYTOPENIANAS,Inverse variance weighted,5,0.34 [0.18-0.65],0.00124870291413738,trans
+BDNF,Brain-derived neurotrophic factor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Inverse variance weighted,5,0.53 [0.34-0.84],0.00640759251551806,trans
+BDNF,Brain-derived neurotrophic factor,Chapter IX Diseases of the circulatory system,I9_CORATHER,Inverse variance weighted,5,1.15 [0.98-1.35],0.0864775882420938,trans
+BDNF,Brain-derived neurotrophic factor,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,5,1.16 [0.81-1.68],0.417327421191156,trans
+BDNF,Brain-derived neurotrophic factor,Chapter IX Diseases of the circulatory system,I9_IHD,Inverse variance weighted,5,1.08 [0.9-1.29],0.425080376342936,trans
+BDNF,Brain-derived neurotrophic factor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_AGRANULOCYTOSIS,Inverse variance weighted,5,0.97 [0.59-1.61],0.915620796561419,trans

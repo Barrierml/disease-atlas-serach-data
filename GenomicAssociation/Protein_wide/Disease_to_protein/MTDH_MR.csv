@@ -1,0 +1,6 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+MTDH,Protein LYRIC,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,1.15 [1-1.32],0.0509491317434344,trans
+MTDH,Protein LYRIC,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,0.92 [0.8-1.05],0.222471852225346,trans
+MTDH,Protein LYRIC,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,1.04 [0.97-1.12],0.284507472376515,trans
+MTDH,Protein LYRIC,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.18 [0.85-1.63],0.331990163649212,trans
+MTDH,Protein LYRIC,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,1.01 [0.98-1.04],0.537164959331926,trans

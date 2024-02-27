@@ -1,0 +1,17 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+SIRPA,Tyrosine-protein phosphatase non-receptor type substrate 1,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,1.05 [1.03-1.07],1.60500083571726e-07,trans
+SIRPA,Tyrosine-protein phosphatase non-receptor type substrate 1,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.1 [1.05-1.14],3.96890415397974e-06,trans
+SIRPA,Tyrosine-protein phosphatase non-receptor type substrate 1,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1.05 [1.03-1.08],1.21189955311808e-05,trans
+SIRPA,Tyrosine-protein phosphatase non-receptor type substrate 1,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,8,1.07 [1.03-1.11],0.00011670501720122,trans
+SIRPA,Tyrosine-protein phosphatase non-receptor type substrate 1,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,1.03 [1-1.06],0.0207563719646821,trans
+SIRPA,Tyrosine-protein phosphatase non-receptor type substrate 1,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.86 [0.74-1.01],0.0672791292795423,trans
+SIRPA,Tyrosine-protein phosphatase non-receptor type substrate 1,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.97 [0.93-1],0.0757747519643258,trans
+SIRPA,Tyrosine-protein phosphatase non-receptor type substrate 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.15 [0.98-1.36],0.0871942522995708,trans
+SIRPA,Tyrosine-protein phosphatase non-receptor type substrate 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,1.08 [0.97-1.21],0.166863715156248,trans
+SIRPA,Tyrosine-protein phosphatase non-receptor type substrate 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,1.04 [0.97-1.11],0.242123034355189,trans
+SIRPA,Tyrosine-protein phosphatase non-receptor type substrate 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,8,1.01 [0.99-1.02],0.281779393845367,trans
+SIRPA,Tyrosine-protein phosphatase non-receptor type substrate 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.04 [0.96-1.13],0.28869700655966,trans
+SIRPA,Tyrosine-protein phosphatase non-receptor type substrate 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,0.99 [0.97-1.02],0.587968267002846,trans
+SIRPA,Tyrosine-protein phosphatase non-receptor type substrate 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,1.01 [0.99-1.02],0.608233313118497,trans
+SIRPA,Tyrosine-protein phosphatase non-receptor type substrate 1,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.03 [0.91-1.18],0.641822413944975,trans
+SIRPA,Tyrosine-protein phosphatase non-receptor type substrate 1,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1.02 [0.86-1.2],0.824912464139671,trans

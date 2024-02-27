@@ -1,0 +1,13 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+ENO3,Beta-enolase,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Wald ratio,1,1.14 [0.96-1.37],0.139795090543726,cis
+ENO3,Beta-enolase,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Wald ratio,1,1.15 [0.92-1.44],0.222118225867086,cis
+ENO3,Beta-enolase,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Wald ratio,1,0.86 [0.64-1.14],0.283487285076464,cis
+ENO3,Beta-enolase,Chapter XI Diseases of the digestive system,NAFLD,Wald ratio,1,1.42 [0.73-2.76],0.300421617886241,cis
+ENO3,Beta-enolase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.1 [0.91-1.32],0.3221355394781,cis
+ENO3,Beta-enolase,Chapter XIV Diseases of the genitourinary system,N14_GENITOURINARY,Wald ratio,1,0.94 [0.83-1.07],0.374906698022311,cis
+ENO3,Beta-enolase,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Wald ratio,1,1.22 [0.78-1.91],0.384668759817914,cis
+ENO3,Beta-enolase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOPOROSIS,Wald ratio,1,1.06 [0.73-1.55],0.767565599808112,cis
+ENO3,Beta-enolase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOPOROSIS,Inverse variance weighted,3,0.73 [0.46-1.18],0.202194424515828,trans
+ENO3,Beta-enolase,Chapter XI Diseases of the digestive system,NAFLD,Inverse variance weighted,3,1.54 [0.67-3.54],0.313394371781443,trans
+ENO3,Beta-enolase,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,3,0.97 [0.77-1.21],0.778475052049726,trans
+ENO3,Beta-enolase,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Inverse variance weighted,3,0.95 [0.54-1.66],0.849491514014013,trans

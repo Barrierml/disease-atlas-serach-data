@@ -1,0 +1,21 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+VIT,Vitrin,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.13 [1.06-1.19],0.000107596619949195,trans
+VIT,Vitrin,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,61,1.04 [1-1.08],0.0858898511735331,trans
+VIT,Vitrin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,8,0.98 [0.95-1.01],0.142812184493066,trans
+VIT,Vitrin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,0.98 [0.94-1.01],0.211779159757871,trans
+VIT,Vitrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,24,0.99 [0.96-1.01],0.290702421674313,trans
+VIT,Vitrin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,14,0.99 [0.96-1.02],0.346910193727426,trans
+VIT,Vitrin,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.98 [0.95-1.02],0.352453707649663,trans
+VIT,Vitrin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,10,1.01 [0.98-1.05],0.458038779855127,trans
+VIT,Vitrin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,2,0.94 [0.81-1.1],0.471219797291473,trans
+VIT,Vitrin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,10,1.01 [0.98-1.05],0.471895563114466,trans
+VIT,Vitrin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.07 [0.88-1.31],0.50517452103758,trans
+VIT,Vitrin,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,1.03 [0.94-1.12],0.570523212088328,trans
+VIT,Vitrin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.06 [0.83-1.36],0.643794294902161,trans
+VIT,Vitrin,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1.01 [0.93-1.11],0.74270975596418,trans
+VIT,Vitrin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1.04 [0.81-1.34],0.773051834263071,trans
+VIT,Vitrin,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.97 [0.76-1.24],0.804049801920883,trans
+VIT,Vitrin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,0.99 [0.93-1.06],0.813273823129212,trans
+VIT,Vitrin,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,0.98 [0.82-1.18],0.853371553629604,trans
+VIT,Vitrin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1 [0.89-1.13],0.962042364789526,trans
+VIT,Vitrin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,1 [0.87-1.16],0.986203823314751,trans

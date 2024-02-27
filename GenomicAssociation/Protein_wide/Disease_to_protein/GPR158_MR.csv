@@ -1,0 +1,12 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+GPR158,Probable G-protein coupled receptor 158,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.15 [1.07-1.25],0.000293577590340329,trans
+GPR158,Probable G-protein coupled receptor 158,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,0.7 [0.54-0.9],0.00643338966514248,trans
+GPR158,Probable G-protein coupled receptor 158,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.68 [0.49-0.92],0.0136936704435734,trans
+GPR158,Probable G-protein coupled receptor 158,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.11 [0.95-1.3],0.184877448825445,trans
+GPR158,Probable G-protein coupled receptor 158,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1.07 [0.96-1.2],0.241400570331906,trans
+GPR158,Probable G-protein coupled receptor 158,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,10,1.01 [0.97-1.06],0.587776092710609,trans
+GPR158,Probable G-protein coupled receptor 158,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,24,1 [0.98-1.02],0.744949211938298,trans
+GPR158,Probable G-protein coupled receptor 158,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.99 [0.92-1.07],0.787470335233102,trans
+GPR158,Probable G-protein coupled receptor 158,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,10,1.01 [0.96-1.05],0.788642120939909,trans
+GPR158,Probable G-protein coupled receptor 158,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1.03 [0.74-1.43],0.86176436138894,trans
+GPR158,Probable G-protein coupled receptor 158,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,14,1 [0.98-1.02],0.922454271403065,trans

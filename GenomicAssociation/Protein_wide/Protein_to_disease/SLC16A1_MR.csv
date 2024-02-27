@@ -1,0 +1,9 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+SLC16A1,Monocarboxylate transporter 1,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Wald ratio,1,0.64 [0.35-1.17],0.147164267975842,cis
+SLC16A1,Monocarboxylate transporter 1,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.88 [0.69-1.13],0.328912686193346,cis
+SLC16A1,Monocarboxylate transporter 1,Chapter V Mental and behavioural disorders,KRA_PSY_ANYMENTAL,Wald ratio,1,0.93 [0.78-1.1],0.400736883490149,cis
+SLC16A1,Monocarboxylate transporter 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_MUSCULOSKELETAL,Wald ratio,1,1.07 [0.9-1.27],0.452674812838036,cis
+SLC16A1,Monocarboxylate transporter 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Wald ratio,1,0.94 [0.69-1.29],0.701700947313881,cis
+SLC16A1,Monocarboxylate transporter 1,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,6,1.16 [1.03-1.3],0.0126839852687155,trans
+SLC16A1,Monocarboxylate transporter 1,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Inverse variance weighted,6,1.18 [0.89-1.56],0.262999991713739,trans
+SLC16A1,Monocarboxylate transporter 1,Chapter V Mental and behavioural disorders,KRA_PSY_ANYMENTAL,Inverse variance weighted,6,0.99 [0.89-1.1],0.845821689530987,trans

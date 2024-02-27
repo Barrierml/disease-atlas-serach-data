@@ -1,0 +1,61 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+CX3CL1,Fractalkine,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.22 [1.13-1.32],4.30752735523852e-07,trans
+CX3CL1,Fractalkine,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1.05 [1.01-1.09],0.00855472359718159,trans
+CX3CL1,Fractalkine,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,10,0.95 [0.91-0.99],0.0100706255615421,trans
+CX3CL1,Fractalkine,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,10,0.96 [0.92-1],0.0556368625736578,trans
+CX3CL1,Fractalkine,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SJOGREN,Inverse variance weighted,5,1.08 [1-1.17],0.0582679063869254,trans
+CX3CL1,Fractalkine,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,0.81 [0.65-1.01],0.0615595840548037,trans
+CX3CL1,Fractalkine,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.95 [0.91-1],0.0721312603910009,trans
+CX3CL1,Fractalkine,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,8,1.05 [1-1.1],0.0753556067194549,trans
+CX3CL1,Fractalkine,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,0.76 [0.55-1.04],0.0843812992468077,trans
+CX3CL1,Fractalkine,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,1.03 [0.99-1.07],0.096998652297929,trans
+CX3CL1,Fractalkine,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,0.91 [0.8-1.03],0.133599619681092,trans
+CX3CL1,Fractalkine,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NEU,Wald ratio,1,0.96 [0.91-1.01],0.13682982639423,trans
+CX3CL1,Fractalkine,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,2,0.86 [0.71-1.05],0.142473377370835,trans
+CX3CL1,Fractalkine,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,22,1.03 [0.99-1.08],0.144908586369335,trans
+CX3CL1,Fractalkine,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Inverse variance weighted,5,0.96 [0.92-1.01],0.154407494974184,trans
+CX3CL1,Fractalkine,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.12 [0.96-1.31],0.155611932171642,trans
+CX3CL1,Fractalkine,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,1.09 [0.96-1.24],0.164344716599537,trans
+CX3CL1,Fractalkine,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Inverse variance weighted,5,1.06 [0.97-1.16],0.192051153795819,trans
+CX3CL1,Fractalkine,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,1.16 [0.92-1.48],0.212535500835106,trans
+CX3CL1,Fractalkine,Chapter IX Diseases of the circulatory system,I9_PULMEMB,Inverse variance weighted,23,0.95 [0.88-1.03],0.229972420809118,trans
+CX3CL1,Fractalkine,Chapter V Mental and behavioural disorders,F5_DELIRIUM,Wald ratio,1,1.08 [0.95-1.23],0.251578244612007,trans
+CX3CL1,Fractalkine,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,1.13 [0.91-1.39],0.273632028841888,trans
+CX3CL1,Fractalkine,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,5,1.1 [0.9-1.33],0.358668843955447,trans
+CX3CL1,Fractalkine,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,35,1.02 [0.98-1.06],0.367826986397067,trans
+CX3CL1,Fractalkine,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,0.98 [0.95-1.02],0.379008388775838,trans
+CX3CL1,Fractalkine,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.05 [0.92-1.2],0.445139167923637,trans
+CX3CL1,Fractalkine,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,21,1.01 [0.99-1.03],0.449116152475357,trans
+CX3CL1,Fractalkine,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,0.99 [0.95-1.02],0.47671357076853,trans
+CX3CL1,Fractalkine,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.1 [0.85-1.42],0.482901999356272,trans
+CX3CL1,Fractalkine,Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,2,0.93 [0.74-1.16],0.508196297164397,trans
+CX3CL1,Fractalkine,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Wald ratio,1,1.02 [0.95-1.1],0.514091437417145,trans
+CX3CL1,Fractalkine,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,8,1.02 [0.97-1.06],0.526013792515611,trans
+CX3CL1,Fractalkine,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOPOROSIS,Inverse variance weighted,3,1.03 [0.93-1.13],0.552672799193341,trans
+CX3CL1,Fractalkine,Chapter XI Diseases of the digestive system,COLITNONINFNAS,Wald ratio,1,0.94 [0.76-1.16],0.55776620591018,trans
+CX3CL1,Fractalkine,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,0.95 [0.79-1.14],0.574199051627408,trans
+CX3CL1,Fractalkine,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,0.94 [0.73-1.2],0.604943701443247,trans
+CX3CL1,Fractalkine,Chapter IX Diseases of the circulatory system,I9_PHLETHROMBDVTLOW,Inverse variance weighted,30,1.01 [0.98-1.03],0.623651453408087,trans
+CX3CL1,Fractalkine,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,0.99 [0.96-1.03],0.638648415981908,trans
+CX3CL1,Fractalkine,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Wald ratio,1,0.94 [0.7-1.25],0.663485711282854,trans
+CX3CL1,Fractalkine,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1.07 [0.78-1.48],0.67204301258687,trans
+CX3CL1,Fractalkine,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Inverse variance weighted,4,1 [0.98-1.03],0.67939768943922,trans
+CX3CL1,Fractalkine,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_NOS,Inverse variance weighted,6,0.99 [0.94-1.04],0.681305301849804,trans
+CX3CL1,Fractalkine,Chapter II Neoplasms,C3_BREAST_EXALLC,Inverse variance weighted,46,1 [0.98-1.03],0.688737620800174,trans
+CX3CL1,Fractalkine,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,25,0.98 [0.89-1.08],0.691436695412563,trans
+CX3CL1,Fractalkine,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,1.02 [0.91-1.15],0.704067751883909,trans
+CX3CL1,Fractalkine,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,0.98 [0.87-1.1],0.709224963513572,trans
+CX3CL1,Fractalkine,Chapter VI Diseases of the nervous system,G6_POLYOTHUNS,Inverse variance weighted,2,0.96 [0.75-1.22],0.715229697282454,trans
+CX3CL1,Fractalkine,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,1.01 [0.93-1.1],0.771529435530501,trans
+CX3CL1,Fractalkine,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,1.01 [0.94-1.08],0.790765551764732,trans
+CX3CL1,Fractalkine,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,24,1 [0.96-1.03],0.803305450755321,trans
+CX3CL1,Fractalkine,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEUROPATHY,Wald ratio,1,0.99 [0.89-1.1],0.804353658001926,trans
+CX3CL1,Fractalkine,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,1.03 [0.75-1.4],0.868237893143953,trans
+CX3CL1,Fractalkine,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,5,0.99 [0.9-1.09],0.873435770869909,trans
+CX3CL1,Fractalkine,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,14,1 [0.95-1.05],0.924373014336237,trans
+CX3CL1,Fractalkine,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,1 [0.91-1.09],0.924502952527057,trans
+CX3CL1,Fractalkine,Chapter XI Diseases of the digestive system,K11_OTHENTERCOL,Inverse variance weighted,2,0.99 [0.8-1.23],0.925983306424836,trans
+CX3CL1,Fractalkine,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,0.99 [0.8-1.23],0.941392972126837,trans
+CX3CL1,Fractalkine,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,1.01 [0.8-1.27],0.946415755016984,trans
+CX3CL1,Fractalkine,Chapter XI Diseases of the digestive system,K11_CONSTIPATION,Wald ratio,1,1.01 [0.72-1.42],0.946569228520885,trans
+CX3CL1,Fractalkine,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,1 [0.95-1.05],0.9787379440378,trans

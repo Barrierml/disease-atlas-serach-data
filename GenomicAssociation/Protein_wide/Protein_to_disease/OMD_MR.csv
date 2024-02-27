@@ -1,0 +1,31 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+OMD,Osteomodulin,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Wald ratio,1,0.84 [0.66-1.07],0.162640728327647,cis
+OMD,Osteomodulin,Chapter II Neoplasms,LUNG_CANCER_MESOT,Wald ratio,1,1.62 [0.64-4.14],0.311953228984189,cis
+OMD,Osteomodulin,Chapter V Mental and behavioural disorders,ALCOHOLMENTAL,Wald ratio,1,0.76 [0.37-1.52],0.433529758015109,cis
+OMD,Osteomodulin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Wald ratio,1,0.86 [0.58-1.27],0.449651747654355,cis
+OMD,Osteomodulin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Wald ratio,1,1.16 [0.36-3.76],0.8056331949725,cis
+OMD,Osteomodulin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Wald ratio,1,0.99 [0.32-3.03],0.98189595171221,cis
+OMD,Osteomodulin,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Wald ratio,1,1 [0.61-1.65],0.995202200522546,cis
+OMD,Osteomodulin,Chapter V Mental and behavioural disorders,KRA_PSY_ANYMENTAL,Inverse variance weighted,15,0.95 [0.91-1],0.0435322232049358,trans
+OMD,Osteomodulin,Chapter V Mental and behavioural disorders,SMOKING_DEPEND,Inverse variance weighted,15,0.81 [0.64-1.02],0.070763649829672,trans
+OMD,Osteomodulin,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Inverse variance weighted,15,0.96 [0.92-1.01],0.119987424727705,trans
+OMD,Osteomodulin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Inverse variance weighted,15,1.09 [0.98-1.22],0.127606631348095,trans
+OMD,Osteomodulin,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Inverse variance weighted,15,0.97 [0.93-1.01],0.15343537383385,trans
+OMD,Osteomodulin,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,15,0.93 [0.84-1.03],0.156876688430693,trans
+OMD,Osteomodulin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Inverse variance weighted,15,0.85 [0.67-1.07],0.166716999871172,trans
+OMD,Osteomodulin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERLIPNAS,Inverse variance weighted,15,1.08 [0.96-1.22],0.177109449486367,trans
+OMD,Osteomodulin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Inverse variance weighted,15,1.09 [0.94-1.26],0.272847334933484,trans
+OMD,Osteomodulin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,15,1.03 [0.98-1.09],0.295987023864826,trans
+OMD,Osteomodulin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,15,1.09 [0.92-1.29],0.296533701130966,trans
+OMD,Osteomodulin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,15,1.09 [0.92-1.28],0.334493210207481,trans
+OMD,Osteomodulin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,15,1.04 [0.96-1.12],0.344754477576621,trans
+OMD,Osteomodulin,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,15,0.96 [0.88-1.04],0.349427326229602,trans
+OMD,Osteomodulin,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,15,0.95 [0.85-1.06],0.349484087646846,trans
+OMD,Osteomodulin,Chapter X Diseases of the respiratory system,COPD_LATER,Inverse variance weighted,15,1.04 [0.93-1.16],0.459019431377268,trans
+OMD,Osteomodulin,Chapter II Neoplasms,C3_BREAST_EXALLC,Inverse variance weighted,15,0.99 [0.9-1.08],0.779647178970583,trans
+OMD,Osteomodulin,Chapter XI Diseases of the digestive system,K11_DIVERTIC,Inverse variance weighted,15,1.01 [0.9-1.15],0.818562886177518,trans
+OMD,Osteomodulin,Chapter V Mental and behavioural disorders,AUD,Inverse variance weighted,15,0.99 [0.89-1.1],0.839467581817724,trans
+OMD,Osteomodulin,Chapter X Diseases of the respiratory system,J10_ASTHMA_EXMORE,Inverse variance weighted,15,1 [0.95-1.06],0.894145204917652,trans
+OMD,Osteomodulin,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Inverse variance weighted,15,0.99 [0.85-1.16],0.922502820481794,trans
+OMD,Osteomodulin,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Inverse variance weighted,15,1 [0.92-1.1],0.94466616661297,trans
+OMD,Osteomodulin,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,15,1 [0.95-1.05],0.994656615791579,trans

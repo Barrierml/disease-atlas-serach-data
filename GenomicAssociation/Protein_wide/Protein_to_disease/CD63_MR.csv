@@ -1,0 +1,7 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+CD63,CD63 antigen,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Wald ratio,1,0.4 [0.13-1.25],0.114987683596101,cis
+CD63,CD63 antigen,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_THROMBOCYTOPENIANAS,Wald ratio,1,1.12 [0.22-5.77],0.890353032976374,cis
+CD63,CD63 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Wald ratio,1,1.01 [0.68-1.5],0.972360486717117,cis
+CD63,CD63 antigen,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_THROMBOCYTOPENIANAS,Inverse variance weighted,12,0.65 [0.47-0.9],0.00879106976717118,trans
+CD63,CD63 antigen,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Inverse variance weighted,12,0.81 [0.64-1.01],0.0655260623419498,trans
+CD63,CD63 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,12,0.98 [0.86-1.11],0.717688429177742,trans

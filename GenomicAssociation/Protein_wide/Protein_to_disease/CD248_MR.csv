@@ -1,0 +1,51 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+CD248,Endosialin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,2,1.39 [1.05-1.83],0.0202452958860972,cis
+CD248,Endosialin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Wald ratio,1,1.21 [0.95-1.53],0.120429961281108,cis
+CD248,Endosialin,Chapter XIV Diseases of the genitourinary system,N14_RENFAILNAS,Inverse variance weighted,2,2.35 [0.76-7.26],0.136364878218036,cis
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Inverse variance weighted,2,0.2 [0.02-1.81],0.152766336593362,cis
+CD248,Endosialin,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,2,0.89 [0.7-1.14],0.374896551153024,cis
+CD248,Endosialin,Chapter II Neoplasms,LUNG_CANCER_MESOT,Wald ratio,1,1.28 [0.72-2.27],0.401407495212365,cis
+CD248,Endosialin,Chapter V Mental and behavioural disorders,KRA_PSY_ANYMENTAL,Inverse variance weighted,2,1.09 [0.87-1.35],0.451100287102346,cis
+CD248,Endosialin,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,2,0.67 [0.11-4.01],0.665316074819525,cis
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Inverse variance weighted,2,0.95 [0.74-1.22],0.704925108954386,cis
+CD248,Endosialin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_THROMBOCYTOPENIANAS,Inverse variance weighted,2,0.79 [0.22-2.83],0.71258161315227,cis
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.09 [0.69-1.71],0.726193665733682,cis
+CD248,Endosialin,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1.22 [0.33-4.5],0.762638781453955,cis
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,I9_VARICVE,Inverse variance weighted,2,1.05 [0.73-1.52],0.776078722903881,cis
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,I9_VTE,Inverse variance weighted,2,1.06 [0.7-1.61],0.776579959296353,cis
+CD248,Endosialin,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Inverse variance weighted,2,0.95 [0.63-1.43],0.798616043760362,cis
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,I9_AF,Inverse variance weighted,2,0.9 [0.34-2.37],0.827851753451037,cis
+CD248,Endosialin,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,2,0.86 [0.18-4.19],0.850565217049876,cis
+CD248,Endosialin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Inverse variance weighted,2,1.17 [0.21-6.61],0.859281470516776,cis
+CD248,Endosialin,Chapter X Diseases of the respiratory system,J10_ASTHMA_EXMORE,Inverse variance weighted,2,0.97 [0.71-1.33],0.861197871620419,cis
+CD248,Endosialin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Inverse variance weighted,2,0.92 [0.38-2.27],0.863838044711217,cis
+CD248,Endosialin,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,1.12 [0.2-6.32],0.894701842691022,cis
+CD248,Endosialin,Chapter V Mental and behavioural disorders,SMOKING_DEPEND,Inverse variance weighted,2,0.93 [0.3-2.94],0.907823161638923,cis
+CD248,Endosialin,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,2,0.98 [0.64-1.5],0.929994680020175,cis
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Inverse variance weighted,2,1.07 [0.18-6.34],0.936956450053949,cis
+CD248,Endosialin,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,2,0.99 [0.71-1.37],0.95035686285908,cis
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Inverse variance weighted,2,1 [0.74-1.34],0.992789061321768,cis
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,I9_VARICVE,Inverse variance weighted,17,1.29 [1.15-1.44],1.24972261624749e-05,trans
+CD248,Endosialin,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,17,0.83 [0.72-0.95],0.00716482936710527,trans
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Inverse variance weighted,17,0.65 [0.42-1.01],0.0548576308198614,trans
+CD248,Endosialin,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,17,1.07 [0.99-1.16],0.103910765421931,trans
+CD248,Endosialin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Inverse variance weighted,17,0.85 [0.69-1.05],0.125901152646651,trans
+CD248,Endosialin,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,17,0.78 [0.52-1.17],0.232679816469185,trans
+CD248,Endosialin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_THROMBOCYTOPENIANAS,Inverse variance weighted,17,0.85 [0.63-1.15],0.292038030231207,trans
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,I9_AF,Inverse variance weighted,17,1.09 [0.93-1.27],0.313958402281754,trans
+CD248,Endosialin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,17,1.05 [0.95-1.17],0.354709808141169,trans
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,I9_VTE,Inverse variance weighted,17,1.05 [0.94-1.18],0.379108662955459,trans
+CD248,Endosialin,Chapter V Mental and behavioural disorders,KRA_PSY_ANYMENTAL,Inverse variance weighted,17,0.97 [0.9-1.05],0.437467457066931,trans
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Inverse variance weighted,17,1.03 [0.94-1.14],0.490473883277535,trans
+CD248,Endosialin,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Inverse variance weighted,17,0.96 [0.85-1.09],0.50781121819755,trans
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Inverse variance weighted,17,1.03 [0.93-1.15],0.547621490816576,trans
+CD248,Endosialin,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,17,0.98 [0.89-1.08],0.643108368413043,trans
+CD248,Endosialin,Chapter XIV Diseases of the genitourinary system,N14_RENFAILNAS,Inverse variance weighted,17,0.94 [0.73-1.22],0.656199645832384,trans
+CD248,Endosialin,Chapter X Diseases of the respiratory system,J10_ASTHMA_EXMORE,Inverse variance weighted,17,1.02 [0.92-1.13],0.713647081501533,trans
+CD248,Endosialin,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,17,0.92 [0.59-1.44],0.718229529254797,trans
+CD248,Endosialin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Inverse variance weighted,17,0.97 [0.81-1.17],0.770308438042719,trans
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,17,0.98 [0.86-1.12],0.798790125310779,trans
+CD248,Endosialin,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,17,1.01 [0.93-1.1],0.809809398173333,trans
+CD248,Endosialin,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,17,1.04 [0.75-1.43],0.816472452700609,trans
+CD248,Endosialin,Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Inverse variance weighted,17,1.05 [0.7-1.56],0.829772453897004,trans
+CD248,Endosialin,Chapter V Mental and behavioural disorders,SMOKING_DEPEND,Inverse variance weighted,17,0.97 [0.73-1.28],0.830381352063795,trans

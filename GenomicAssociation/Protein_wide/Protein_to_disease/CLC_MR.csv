@@ -1,0 +1,41 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+CLC,Galectin-10,Chapter IX Diseases of the circulatory system,I9_SECONDRIGHT,Wald ratio,1,0.38 [0.14-1.04],0.0594962250839506,cis
+CLC,Galectin-10,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Wald ratio,1,1.46 [0.94-2.26],0.0909231470443936,cis
+CLC,Galectin-10,Chapter X Diseases of the respiratory system,IPF,Wald ratio,1,0.52 [0.24-1.13],0.098152061212779,cis
+CLC,Galectin-10,Chapter X Diseases of the respiratory system,J10_PLEURA,Wald ratio,1,1.19 [0.9-1.56],0.225232102509523,cis
+CLC,Galectin-10,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIAINCHRONICDISEASE,Wald ratio,1,2.18 [0.57-8.37],0.254396521865323,cis
+CLC,Galectin-10,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Wald ratio,1,1.17 [0.89-1.53],0.267945224308886,cis
+CLC,Galectin-10,Chapter X Diseases of the respiratory system,J10_NASALPOLYP,Wald ratio,1,0.8 [0.52-1.25],0.329113039513905,cis
+CLC,Galectin-10,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Wald ratio,1,0.93 [0.8-1.09],0.376040877684046,cis
+CLC,Galectin-10,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.16 [0.82-1.65],0.407521806888974,cis
+CLC,Galectin-10,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Wald ratio,1,1.11 [0.87-1.42],0.412127599486863,cis
+CLC,Galectin-10,Chapter X Diseases of the respiratory system,ILD,Wald ratio,1,0.85 [0.5-1.44],0.544886150455952,cis
+CLC,Galectin-10,Chapter X Diseases of the respiratory system,J10_ASTHMA_EXMORE,Wald ratio,1,0.95 [0.79-1.14],0.557682802938395,cis
+CLC,Galectin-10,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Wald ratio,1,1.15 [0.68-1.94],0.597845042640509,cis
+CLC,Galectin-10,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.09 [0.77-1.55],0.617183187338867,cis
+CLC,Galectin-10,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Wald ratio,1,1.03 [0.89-1.2],0.64427024611013,cis
+CLC,Galectin-10,Chapter XIV Diseases of the genitourinary system,N14_RENFAILNAS,Wald ratio,1,1.15 [0.6-2.23],0.672427562104425,cis
+CLC,Galectin-10,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.97 [0.81-1.17],0.772712028276728,cis
+CLC,Galectin-10,Chapter XIV Diseases of the genitourinary system,N14_CHRONEPHROPATH,Wald ratio,1,1.12 [0.42-2.99],0.82852476826415,cis
+CLC,Galectin-10,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Wald ratio,1,1.08 [0.41-2.86],0.877312352565131,cis
+CLC,Galectin-10,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Wald ratio,1,1.07 [0.37-3.06],0.899189301729029,cis
+CLC,Galectin-10,Chapter X Diseases of the respiratory system,J10_ASTHMA_EXMORE,Inverse variance weighted,14,1.64 [1.17-2.29],0.00410482326087862,trans
+CLC,Galectin-10,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,14,1.33 [1.08-1.65],0.00831062040413055,trans
+CLC,Galectin-10,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,14,1.47 [1.1-1.97],0.00927301896966108,trans
+CLC,Galectin-10,Chapter X Diseases of the respiratory system,J10_NASALPOLYP,Inverse variance weighted,14,3.37 [1.32-8.6],0.0111198618192742,trans
+CLC,Galectin-10,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Inverse variance weighted,14,1.45 [1.08-1.95],0.0133668294810614,trans
+CLC,Galectin-10,Chapter X Diseases of the respiratory system,IPF,Inverse variance weighted,14,1.24 [0.91-1.68],0.176632491212425,trans
+CLC,Galectin-10,Chapter X Diseases of the respiratory system,J10_PLEURA,Inverse variance weighted,14,1.08 [0.96-1.21],0.183468324131966,trans
+CLC,Galectin-10,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,14,1.06 [0.97-1.17],0.196387513931351,trans
+CLC,Galectin-10,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Inverse variance weighted,14,1.36 [0.84-2.21],0.207978435287318,trans
+CLC,Galectin-10,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Inverse variance weighted,14,1.11 [0.94-1.3],0.223486009826271,trans
+CLC,Galectin-10,Chapter XIV Diseases of the genitourinary system,N14_CHRONEPHROPATH,Inverse variance weighted,14,0.81 [0.54-1.22],0.314971433699921,trans
+CLC,Galectin-10,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIAINCHRONICDISEASE,Inverse variance weighted,14,1.27 [0.73-2.21],0.406442663122354,trans
+CLC,Galectin-10,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,14,1.07 [0.89-1.28],0.454734564673292,trans
+CLC,Galectin-10,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,14,1.04 [0.93-1.16],0.513428934453608,trans
+CLC,Galectin-10,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Inverse variance weighted,14,1.08 [0.85-1.38],0.541251608656955,trans
+CLC,Galectin-10,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,14,1.07 [0.83-1.36],0.606736578436718,trans
+CLC,Galectin-10,Chapter XIV Diseases of the genitourinary system,N14_RENFAILNAS,Inverse variance weighted,14,1.08 [0.8-1.46],0.63086262071241,trans
+CLC,Galectin-10,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,14,1.08 [0.71-1.66],0.717527178660941,trans
+CLC,Galectin-10,Chapter IX Diseases of the circulatory system,I9_SECONDRIGHT,Inverse variance weighted,14,1.04 [0.69-1.57],0.852364771156446,trans
+CLC,Galectin-10,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,14,1.01 [0.9-1.13],0.894124197966064,trans

@@ -1,0 +1,79 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+MMP3,Stromelysin-1,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.14 [1.08-1.21],1.51297090376573e-06,trans
+MMP3,Stromelysin-1,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,1.29 [1.08-1.52],0.00375571381853863,trans
+MMP3,Stromelysin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.16 [1.03-1.29],0.0106463805910187,trans
+MMP3,Stromelysin-1,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,0.94 [0.9-0.99],0.0139967387784346,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_INCLAVO,Inverse variance weighted,50,1.06 [1.01-1.11],0.0164685092428387,trans
+MMP3,Stromelysin-1,Chapter IX Diseases of the circulatory system,I9_PHLETHROMBDVTLOW,Inverse variance weighted,30,0.98 [0.96-1],0.0206774166480003,trans
+MMP3,Stromelysin-1,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,1.19 [1.02-1.38],0.0258630308110896,trans
+MMP3,Stromelysin-1,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,1.28 [1.02-1.59],0.0298139952786507,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHTROSIS_COX,Inverse variance weighted,46,1.03 [1-1.07],0.0364244841860549,trans
+MMP3,Stromelysin-1,Chapter X Diseases of the respiratory system,COPD_LATER,Wald ratio,1,1.06 [1-1.13],0.0497555399910217,trans
+MMP3,Stromelysin-1,Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,2,0.87 [0.76-1.01],0.0632523148966591,trans
+MMP3,Stromelysin-1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,0.82 [0.66-1.03],0.094304398315235,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_POLY,Wald ratio,1,0.93 [0.85-1.01],0.0969411199258565,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_OTH,Inverse variance weighted,3,1.09 [0.98-1.2],0.105308047531141,trans
+MMP3,Stromelysin-1,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,0.9 [0.79-1.02],0.106144598131447,trans
+MMP3,Stromelysin-1,Chapter XI Diseases of the digestive system,COLITNONINFNAS,Wald ratio,1,0.88 [0.76-1.03],0.111978921648516,trans
+MMP3,Stromelysin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,5,1.03 [0.99-1.06],0.119947857664901,trans
+MMP3,Stromelysin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,2,1.12 [0.97-1.29],0.129244513548607,trans
+MMP3,Stromelysin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,1.05 [0.98-1.12],0.141635073748352,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SPONDYLOPATHY,Inverse variance weighted,21,1.04 [0.98-1.11],0.15410167533334,trans
+MMP3,Stromelysin-1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,0.9 [0.77-1.05],0.168323393702722,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,22,1.02 [0.99-1.05],0.190331936210616,trans
+MMP3,Stromelysin-1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,0.97 [0.92-1.02],0.197437596888262,trans
+MMP3,Stromelysin-1,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,7,1.05 [0.97-1.14],0.219667139619302,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_LOWBACKPAIN,Inverse variance weighted,10,0.96 [0.9-1.03],0.222465463793722,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS,Inverse variance weighted,51,1.02 [0.98-1.07],0.232962861215551,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SPONDYLOSIS,Inverse variance weighted,8,1.05 [0.96-1.15],0.25777944504304,trans
+MMP3,Stromelysin-1,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,21,1.01 [0.99-1.02],0.264224904924803,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Inverse variance weighted,5,1.03 [0.98-1.08],0.265334421916655,trans
+MMP3,Stromelysin-1,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Wald ratio,1,0.89 [0.72-1.1],0.272030284822223,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_KNEE,Inverse variance weighted,54,1.02 [0.99-1.05],0.284264925946873,trans
+MMP3,Stromelysin-1,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,1.02 [0.98-1.05],0.298299434010694,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OTHERJOINT,Inverse variance weighted,16,0.96 [0.88-1.04],0.319907375791488,trans
+MMP3,Stromelysin-1,Chapter XI Diseases of the digestive system,K11_OTHENTERCOL,Inverse variance weighted,2,0.95 [0.84-1.06],0.339081674673497,trans
+MMP3,Stromelysin-1,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1.11 [0.88-1.4],0.37849552727437,trans
+MMP3,Stromelysin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Inverse variance weighted,5,1.01 [0.98-1.04],0.402370295945918,trans
+MMP3,Stromelysin-1,Chapter X Diseases of the respiratory system,COPD_EARLY,Inverse variance weighted,3,1.03 [0.96-1.11],0.404017070578944,trans
+MMP3,Stromelysin-1,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,0.93 [0.77-1.11],0.406730024348921,trans
+MMP3,Stromelysin-1,Chapter X Diseases of the respiratory system,IPF,Inverse variance weighted,20,1 [0.99-1.02],0.407707238233314,trans
+MMP3,Stromelysin-1,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,0.97 [0.89-1.05],0.434786557519538,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYMYALGIA,Wald ratio,1,0.98 [0.92-1.04],0.452844691728373,trans
+MMP3,Stromelysin-1,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,0.94 [0.78-1.12],0.466790678093282,trans
+MMP3,Stromelysin-1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_COAGOTHER,Inverse variance weighted,35,1 [0.99-1.01],0.47298732544073,trans
+MMP3,Stromelysin-1,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,1.07 [0.89-1.28],0.478460349942434,trans
+MMP3,Stromelysin-1,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,5,1.05 [0.91-1.21],0.515871737599196,trans
+MMP3,Stromelysin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Wald ratio,1,0.99 [0.95-1.03],0.524849899429749,trans
+MMP3,Stromelysin-1,Chapter V Mental and behavioural disorders,F5_DEPRESSION_DYSTHYMIA,Inverse variance weighted,24,1.02 [0.96-1.07],0.533439285899829,trans
+MMP3,Stromelysin-1,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,0.97 [0.87-1.08],0.533475033352957,trans
+MMP3,Stromelysin-1,Chapter XI Diseases of the digestive system,K11_OTHFUNC,Wald ratio,1,1.05 [0.89-1.24],0.590502164170422,trans
+MMP3,Stromelysin-1,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,0.98 [0.92-1.05],0.599509135469895,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,0.98 [0.93-1.04],0.601075750094442,trans
+MMP3,Stromelysin-1,Chapter X Diseases of the respiratory system,J10_ASTHMA_EXMORE,Inverse variance weighted,59,1.01 [0.98-1.04],0.610194581534634,trans
+MMP3,Stromelysin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,1.01 [0.98-1.03],0.613102111504053,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,JOINTPAIN,Inverse variance weighted,3,0.97 [0.87-1.09],0.62016249227119,trans
+MMP3,Stromelysin-1,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,35,0.99 [0.97-1.02],0.638918475349937,trans
+MMP3,Stromelysin-1,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Inverse variance weighted,4,1 [0.98-1.03],0.660199459855963,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,14,1.01 [0.98-1.03],0.66637871548391,trans
+MMP3,Stromelysin-1,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Wald ratio,1,0.99 [0.94-1.04],0.684079677920616,trans
+MMP3,Stromelysin-1,Chapter IX Diseases of the circulatory system,I9_CONDUCTIO,Inverse variance weighted,4,1.01 [0.96-1.07],0.711817984276704,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_SERONEG,Inverse variance weighted,2,0.99 [0.94-1.04],0.713108410104316,trans
+MMP3,Stromelysin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,10,0.99 [0.95-1.04],0.765147509032573,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DEFORMDORSO,Inverse variance weighted,3,1.01 [0.93-1.11],0.769838456901996,trans
+MMP3,Stromelysin-1,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Inverse variance weighted,13,1.01 [0.96-1.05],0.804025526516247,trans
+MMP3,Stromelysin-1,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1.01 [0.93-1.09],0.80911211215062,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOPOROSIS,Inverse variance weighted,3,0.99 [0.93-1.06],0.832373616772016,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,25,1.01 [0.92-1.1],0.839421709702547,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_NOS,Inverse variance weighted,6,1 [0.97-1.03],0.844831151531667,trans
+MMP3,Stromelysin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,1 [0.96-1.05],0.84813323257385,trans
+MMP3,Stromelysin-1,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.01 [0.92-1.11],0.872520583123777,trans
+MMP3,Stromelysin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,10,1 [0.96-1.04],0.905616954624577,trans
+MMP3,Stromelysin-1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,0.99 [0.9-1.09],0.916625110400779,trans
+MMP3,Stromelysin-1,Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,2,1.01 [0.88-1.16],0.920007614509227,trans
+MMP3,Stromelysin-1,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,61,1 [0.97-1.03],0.92957578799773,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,24,1 [0.98-1.02],0.940944720760241,trans
+MMP3,Stromelysin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DORSOPATHYOTH,Inverse variance weighted,27,1 [0.95-1.06],0.94104579007966,trans
+MMP3,Stromelysin-1,Chapter IX Diseases of the circulatory system,I9_CARDARR,Inverse variance weighted,2,1 [0.87-1.15],0.974894695612597,trans
+MMP3,Stromelysin-1,Chapter XI Diseases of the digestive system,K11_CONSTIPATION,Wald ratio,1,1 [0.78-1.27],0.978722765499082,trans
+MMP3,Stromelysin-1,Chapter IX Diseases of the circulatory system,I9_ATHSCLE,Inverse variance weighted,13,1 [0.95-1.05],0.99809111480782,trans

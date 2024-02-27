@@ -1,0 +1,11 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+INPP1,Inositol polyphosphate 1-phosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_NOS,Inverse variance weighted,3,0.81 [0.58-1.12],0.19554103961655,cis
+INPP1,Inositol polyphosphate 1-phosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,3,0.89 [0.73-1.07],0.211775453193703,cis
+INPP1,Inositol polyphosphate 1-phosphatase,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,3,0.77 [0.41-1.44],0.411715699562801,cis
+INPP1,Inositol polyphosphate 1-phosphatase,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,3,0.98 [0.84-1.14],0.77637808009242,cis
+INPP1,Inositol polyphosphate 1-phosphatase,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,3,1.03 [0.78-1.36],0.835301594419441,cis
+INPP1,Inositol polyphosphate 1-phosphatase,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.3 [0.93-1.82],0.129898795076854,trans
+INPP1,Inositol polyphosphate 1-phosphatase,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,1.09 [0.92-1.3],0.330292331578085,trans
+INPP1,Inositol polyphosphate 1-phosphatase,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Wald ratio,1,1.27 [0.48-3.4],0.62816547509462,trans
+INPP1,Inositol polyphosphate 1-phosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Wald ratio,1,1.05 [0.77-1.42],0.774474306462015,trans
+INPP1,Inositol polyphosphate 1-phosphatase,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_NOS,Wald ratio,1,0.93 [0.55-1.58],0.790883353234252,trans

@@ -1,0 +1,9 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+APOE,Apolipoprotein E,Chapter V Mental and behavioural disorders,F5_DELIRIUM,Wald ratio,1,0.28 [0.25-0.32],1.1345868577666e-80,trans
+APOE,Apolipoprotein E,Chapter VI Diseases of the nervous system,G6_NEURODEGENERATIVE,Inverse variance weighted,4,0.59 [0.53-0.66],6.47899233779179e-22,trans
+APOE,Apolipoprotein E,Chapter V Mental and behavioural disorders,F5_ALZHDEMENT,Inverse variance weighted,26,0.62 [0.54-0.71],1.874811268545e-12,trans
+APOE,Apolipoprotein E,Chapter VI Diseases of the nervous system,G6_ALZHEIMER,Inverse variance weighted,35,0.54 [0.45-0.65],5.25616126759053e-11,trans
+APOE,Apolipoprotein E,Chapter V Mental and behavioural disorders,F5_DEMNAS,Inverse variance weighted,11,0.8 [0.72-0.9],0.000165184289057254,trans
+APOE,Apolipoprotein E,Chapter VI Diseases of the nervous system,NEURODEGOTH,Inverse variance weighted,18,0.71 [0.55-0.91],0.007320899100649,trans
+APOE,Apolipoprotein E,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,0.98 [0.95-1.01],0.143265932159731,trans
+APOE,Apolipoprotein E,Chapter IX Diseases of the circulatory system,I9_STEMI,Inverse variance weighted,3,1.05 [0.98-1.12],0.160276145563717,trans

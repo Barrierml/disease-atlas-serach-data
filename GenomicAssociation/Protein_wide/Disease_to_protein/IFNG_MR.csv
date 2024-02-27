@@ -1,0 +1,13 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+IFNG,Interferon gamma,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.66 [0.48-0.91],0.0102079232737709,trans
+IFNG,Interferon gamma,Chapter XI Diseases of the digestive system,K11_COELIAC,Inverse variance weighted,52,1.02 [1-1.04],0.0309762381867031,trans
+IFNG,Interferon gamma,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SJOGREN,Inverse variance weighted,5,1.03 [0.99-1.07],0.0999728698456387,trans
+IFNG,Interferon gamma,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_SARCOIDOSIS,Inverse variance weighted,7,1.06 [0.98-1.14],0.156559184630213,trans
+IFNG,Interferon gamma,Chapter XI Diseases of the digestive system,K11_CD_NOUC,Inverse variance weighted,4,1.02 [0.98-1.06],0.275382583040664,trans
+IFNG,Interferon gamma,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.16 [0.89-1.51],0.276915530652817,trans
+IFNG,Interferon gamma,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,1.07 [0.93-1.23],0.332948880146137,trans
+IFNG,Interferon gamma,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,0.94 [0.82-1.08],0.37941721531094,trans
+IFNG,Interferon gamma,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,1.1 [0.88-1.37],0.391769156823425,trans
+IFNG,Interferon gamma,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1.05 [0.93-1.17],0.4250770998206,trans
+IFNG,Interferon gamma,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.11 [0.8-1.54],0.540358852989277,trans
+IFNG,Interferon gamma,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1.08 [0.77-1.51],0.65928535570397,trans

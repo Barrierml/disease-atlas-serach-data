@@ -1,0 +1,806 @@
+Disease_category,Disease,Protein,Protein_definition,method,nsnp,OR [95% CI],Pvalue,QTL_type
+Chapter XI Diseases of the digestive system,NAFLD,GOT1,"Aspartate aminotransferase, cytoplasmic",Wald ratio,1,19.06 [4.41-82.32],7.86372325507201e-05,cis
+Chapter XI Diseases of the digestive system,NAFLD,SHMT1,"Serine hydroxymethyltransferase, cytosolic",Inverse variance weighted,42,1.16 [1.07-1.26],0.000624302684151384,cis
+Chapter XI Diseases of the digestive system,NAFLD,TNFRSF12A,Tumor necrosis factor receptor superfamily member 12A,Inverse variance weighted,4,0.41 [0.24-0.7],0.00104577857927195,cis
+Chapter XI Diseases of the digestive system,NAFLD,GGT1,Glutathione hydrolase 1 proenzyme,Inverse variance weighted,10,1.38 [1.13-1.69],0.00196266758693293,cis
+Chapter XI Diseases of the digestive system,NAFLD,THOP1,Thimet oligopeptidase,Inverse variance weighted,5,0.72 [0.58-0.89],0.00243071265532044,cis
+Chapter XI Diseases of the digestive system,NAFLD,EPHA2,Ephrin type-A receptor 2,Inverse variance weighted,3,0.55 [0.37-0.81],0.0028134030716536,cis
+Chapter XI Diseases of the digestive system,NAFLD,ALDH3A1,"Aldehyde dehydrogenase, dimeric NADP-preferring",Inverse variance weighted,27,1.18 [1.04-1.33],0.0084615809631832,cis
+Chapter XI Diseases of the digestive system,NAFLD,PLAU,Urokinase-type plasminogen activator,Inverse variance weighted,4,0.64 [0.45-0.9],0.0101883917897273,cis
+Chapter XI Diseases of the digestive system,NAFLD,PIGR,Polymeric immunoglobulin receptor,Inverse variance weighted,21,0.63 [0.43-0.91],0.0131448806944031,cis
+Chapter XI Diseases of the digestive system,NAFLD,LGALS3BP,Galectin-3-binding protein,Inverse variance weighted,4,1.62 [1.08-2.44],0.0205051629811599,cis
+Chapter XI Diseases of the digestive system,NAFLD,SEMA3F,Semaphorin-3F,Inverse variance weighted,15,1.5 [1.05-2.13],0.0248703422162098,cis
+Chapter XI Diseases of the digestive system,NAFLD,LTBP3,Latent-transforming growth factor beta-binding protein 3,Inverse variance weighted,17,0.86 [0.76-0.98],0.02524471633024,cis
+Chapter XI Diseases of the digestive system,NAFLD,RRM2,Ribonucleoside-diphosphate reductase subunit M2,Wald ratio,1,3.84 [1.16-12.68],0.0273533946172944,cis
+Chapter XI Diseases of the digestive system,NAFLD,TNFRSF1A,Tumor necrosis factor receptor superfamily member 1A,Wald ratio,1,0.36 [0.14-0.9],0.0280682734349126,cis
+Chapter XI Diseases of the digestive system,NAFLD,FUOM,Fucose mutarotase,Inverse variance weighted,3,0.56 [0.33-0.95],0.0309524257854239,cis
+Chapter XI Diseases of the digestive system,NAFLD,CD80,T-lymphocyte activation antigen CD80,Inverse variance weighted,16,0.88 [0.78-0.99],0.0324203863726926,cis
+Chapter XI Diseases of the digestive system,NAFLD,MXRA8,Matrix remodeling-associated protein 8,Wald ratio,1,0.43 [0.19-0.95],0.0370547314171874,cis
+Chapter XI Diseases of the digestive system,NAFLD,GRPEL1,"GrpE protein homolog 1, mitochondrial",Wald ratio,1,0.31 [0.1-0.93],0.0371940367526982,cis
+Chapter XI Diseases of the digestive system,NAFLD,HSD17B14,17-beta-hydroxysteroid dehydrogenase 14,Inverse variance weighted,34,1.09 [1-1.18],0.0372932676663779,cis
+Chapter XI Diseases of the digestive system,NAFLD,IGF2R,Cation-independent mannose-6-phosphate receptor,Inverse variance weighted,21,0.87 [0.76-0.99],0.0379625445027546,cis
+Chapter XI Diseases of the digestive system,NAFLD,IL1R2,Interleukin-1 receptor type 2,Inverse variance weighted,23,1.17 [1.01-1.35],0.0391261018073791,cis
+Chapter XI Diseases of the digestive system,NAFLD,MAMDC4,Apical endosomal glycoprotein,Inverse variance weighted,6,1.22 [1.01-1.47],0.040955047186361,cis
+Chapter XI Diseases of the digestive system,NAFLD,BAIAP2,Brain-specific angiogenesis inhibitor 1-associated protein 2,Wald ratio,1,0.48 [0.23-0.99],0.0457638651369426,cis
+Chapter XI Diseases of the digestive system,NAFLD,NHLRC3,NHL repeat-containing protein 3,Inverse variance weighted,8,0.79 [0.63-1],0.0466956377243578,cis
+Chapter XI Diseases of the digestive system,NAFLD,OSCAR,Osteoclast-associated immunoglobulin-like receptor,Inverse variance weighted,24,1.08 [1-1.17],0.0500151366255596,cis
+Chapter XI Diseases of the digestive system,NAFLD,CSF1,Macrophage colony-stimulating factor 1,Inverse variance weighted,5,1.3 [1-1.69],0.0511408426187138,cis
+Chapter XI Diseases of the digestive system,NAFLD,TCOF1,Treacle protein,Wald ratio,1,3.06 [0.99-9.45],0.0520065041636758,cis
+Chapter XI Diseases of the digestive system,NAFLD,CCL16,C-C motif chemokine 16,Inverse variance weighted,19,1.09 [1-1.18],0.0540976460478353,cis
+Chapter XI Diseases of the digestive system,NAFLD,CPXM2,Inactive carboxypeptidase-like protein X2,Inverse variance weighted,22,1.13 [0.99-1.28],0.063466724840475,cis
+Chapter XI Diseases of the digestive system,NAFLD,ERBB2,Receptor tyrosine-protein kinase erbB-2,Inverse variance weighted,10,0.85 [0.71-1.01],0.065637624338929,cis
+Chapter XI Diseases of the digestive system,NAFLD,CD83,CD83 antigen,Inverse variance weighted,5,1.32 [0.98-1.78],0.0678153132453348,cis
+Chapter XI Diseases of the digestive system,NAFLD,CXCL11,C-X-C motif chemokine 11,Inverse variance weighted,7,0.81 [0.64-1.02],0.0691809244963514,cis
+Chapter XI Diseases of the digestive system,NAFLD,COQ7,"5-demethoxyubiquinone hydroxylase, mitochondrial",Wald ratio,1,1.61 [0.96-2.68],0.0700044553016168,cis
+Chapter XI Diseases of the digestive system,NAFLD,CD48,CD48 antigen,Inverse variance weighted,18,1.09 [0.99-1.2],0.0729127161736031,cis
+Chapter XI Diseases of the digestive system,NAFLD,CDCP1,CUB domain-containing protein 1,Inverse variance weighted,14,1.18 [0.98-1.42],0.0731886363544393,cis
+Chapter XI Diseases of the digestive system,NAFLD,EFNA4,Ephrin-A4,Inverse variance weighted,3,0.59 [0.34-1.05],0.0733837022047819,cis
+Chapter XI Diseases of the digestive system,NAFLD,CXADR,Coxsackievirus and adenovirus receptor,Inverse variance weighted,2,0.65 [0.4-1.05],0.0768910673184466,cis
+Chapter XI Diseases of the digestive system,NAFLD,ADIPOQ,Adiponectin,Inverse variance weighted,13,1.19 [0.98-1.46],0.0838685273217017,cis
+Chapter XI Diseases of the digestive system,NAFLD,GPD1,Glycerol-3-phosphate dehydrogenase,Wald ratio,1,2.32 [0.89-6.09],0.0862273438121827,cis
+Chapter XI Diseases of the digestive system,NAFLD,EPS8L2,Epidermal growth factor receptor kinase substrate 8-like protein 2,Inverse variance weighted,10,1.19 [0.98-1.45],0.0865117401561585,cis
+Chapter XI Diseases of the digestive system,NAFLD,C1QTNF1,Complement C1q tumor necrosis factor-related protein 1,Inverse variance weighted,7,0.87 [0.75-1.02],0.0879452653596033,cis
+Chapter XI Diseases of the digestive system,NAFLD,CD274,Programmed cell death 1 ligand 1,Inverse variance weighted,22,0.88 [0.76-1.02],0.0928968835812773,cis
+Chapter XI Diseases of the digestive system,NAFLD,FAS,Tumor necrosis factor receptor superfamily member 6,Inverse variance weighted,9,1.17 [0.97-1.4],0.0949283288435704,cis
+Chapter XI Diseases of the digestive system,NAFLD,GIPC2,PDZ domain-containing protein GIPC2,Inverse variance weighted,16,1.17 [0.97-1.41],0.0985359575358191,cis
+Chapter XI Diseases of the digestive system,NAFLD,CXCL8,Interleukin-8,Inverse variance weighted,6,0.68 [0.43-1.08],0.10207235767536,cis
+Chapter XI Diseases of the digestive system,NAFLD,MEGF9,Multiple epidermal growth factor-like domains protein 9,Inverse variance weighted,11,0.86 [0.72-1.03],0.102246802934212,cis
+Chapter XI Diseases of the digestive system,NAFLD,CA5A,"Carbonic anhydrase 5A, mitochondrial",Inverse variance weighted,26,0.87 [0.73-1.03],0.103710873824069,cis
+Chapter XI Diseases of the digestive system,NAFLD,LPL,Lipoprotein lipase,Inverse variance weighted,14,0.83 [0.65-1.04],0.103872523482811,cis
+Chapter XI Diseases of the digestive system,NAFLD,HJV,Hemojuvelin,Wald ratio,1,1.31 [0.95-1.8],0.104425923482646,cis
+Chapter XI Diseases of the digestive system,NAFLD,GGT5,Glutathione hydrolase 5 proenzyme,Inverse variance weighted,22,1.12 [0.98-1.3],0.105510499189372,cis
+Chapter XI Diseases of the digestive system,NAFLD,IL1RN,Interleukin-1 receptor antagonist protein,Inverse variance weighted,10,1.21 [0.96-1.52],0.106783741410502,cis
+Chapter XI Diseases of the digestive system,NAFLD,TP53I3,Quinone oxidoreductase PIG3,Inverse variance weighted,17,0.91 [0.81-1.02],0.108604692907653,cis
+Chapter XI Diseases of the digestive system,NAFLD,GFRA1,GDNF family receptor alpha-1,Inverse variance weighted,7,1.19 [0.96-1.48],0.116879240957458,cis
+Chapter XI Diseases of the digestive system,NAFLD,ADH1B,All-trans-retinol dehydrogenase,Inverse variance weighted,3,0.84 [0.67-1.05],0.117794247998142,cis
+Chapter XI Diseases of the digestive system,NAFLD,APOF,Apolipoprotein F,Inverse variance weighted,3,0.76 [0.53-1.08],0.120028311933422,cis
+Chapter XI Diseases of the digestive system,NAFLD,CCL21,C-C motif chemokine 21,Inverse variance weighted,4,0.71 [0.45-1.11],0.133527853291853,cis
+Chapter XI Diseases of the digestive system,NAFLD,PALM2,Paralemmin-2,Inverse variance weighted,8,0.83 [0.66-1.06],0.133704956885923,cis
+Chapter XI Diseases of the digestive system,NAFLD,PLXNB2,Plexin-B2,Inverse variance weighted,27,1.06 [0.98-1.14],0.136125802467354,cis
+Chapter XI Diseases of the digestive system,NAFLD,PRAP1,Proline-rich acidic protein 1,Inverse variance weighted,7,1.15 [0.95-1.4],0.144052130718338,cis
+Chapter XI Diseases of the digestive system,NAFLD,ENTPD2,Ectonucleoside triphosphate diphosphohydrolase 2,Inverse variance weighted,16,1.09 [0.97-1.23],0.156226770628902,cis
+Chapter XI Diseases of the digestive system,NAFLD,CXCL9,C-X-C motif chemokine 9,Inverse variance weighted,2,0.75 [0.5-1.12],0.15625452811098,cis
+Chapter XI Diseases of the digestive system,NAFLD,FURIN,Furin,Wald ratio,1,0.78 [0.56-1.1],0.158167419954656,cis
+Chapter XI Diseases of the digestive system,NAFLD,NAGPA,N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase,Inverse variance weighted,12,1.13 [0.95-1.34],0.158569036612694,cis
+Chapter XI Diseases of the digestive system,NAFLD,ITGBL1,Integrin beta-like protein 1,Inverse variance weighted,23,1.12 [0.96-1.32],0.158871456056386,cis
+Chapter XI Diseases of the digestive system,NAFLD,LGALS4,Galectin-4,Inverse variance weighted,4,1.3 [0.9-1.88],0.15930763513453,cis
+Chapter XI Diseases of the digestive system,NAFLD,CCL15,C-C motif chemokine 15,Inverse variance weighted,22,0.95 [0.89-1.02],0.161294627351788,cis
+Chapter XI Diseases of the digestive system,NAFLD,HMOX1,Heme oxygenase 1,Wald ratio,1,1.89 [0.77-4.62],0.162077075669126,cis
+Chapter XI Diseases of the digestive system,NAFLD,C19orf12,Protein C19orf12,Wald ratio,1,0.35 [0.08-1.56],0.166664392837255,cis
+Chapter XI Diseases of the digestive system,NAFLD,KRT18,"Keratin, type I cytoskeletal 18",Wald ratio,1,2.43 [0.69-8.61],0.168411385421028,cis
+Chapter XI Diseases of the digestive system,NAFLD,ADGRG1,Adhesion G-protein coupled receptor G1,Inverse variance weighted,5,1.4 [0.86-2.3],0.175661501919448,cis
+Chapter XI Diseases of the digestive system,NAFLD,IGFBP4,Insulin-like growth factor-binding protein 4,Wald ratio,1,0.38 [0.09-1.54],0.176263251378946,cis
+Chapter XI Diseases of the digestive system,NAFLD,GUSB,Beta-glucuronidase,Inverse variance weighted,4,1.59 [0.8-3.16],0.181431613335512,cis
+Chapter XI Diseases of the digestive system,NAFLD,CTSL,Cathepsin L1,Wald ratio,1,0.42 [0.12-1.51],0.183380360203254,cis
+Chapter XI Diseases of the digestive system,NAFLD,PILRB,Paired immunoglobulin-like type 2 receptor beta,Inverse variance weighted,49,0.96 [0.91-1.02],0.190093962550126,cis
+Chapter XI Diseases of the digestive system,NAFLD,IL18R1,Interleukin-18 receptor 1,Inverse variance weighted,46,0.95 [0.88-1.03],0.195626150114742,cis
+Chapter XI Diseases of the digestive system,NAFLD,LRRC25,Leucine-rich repeat-containing protein 25,Inverse variance weighted,13,0.9 [0.77-1.06],0.196171734789012,cis
+Chapter XI Diseases of the digestive system,NAFLD,PTS,6-pyruvoyl tetrahydrobiopterin synthase,Inverse variance weighted,3,1.19 [0.91-1.57],0.197652932738335,cis
+Chapter XI Diseases of the digestive system,NAFLD,ACY3,N-acyl-aromatic-L-amino acid amidohydrolase,Inverse variance weighted,15,0.87 [0.7-1.08],0.202056868041322,cis
+Chapter XI Diseases of the digestive system,NAFLD,SPON2,Spondin-2,Inverse variance weighted,4,1.18 [0.92-1.52],0.203229646895585,cis
+Chapter XI Diseases of the digestive system,NAFLD,P4HB,Protein disulfide-isomerase,Inverse variance weighted,2,1.81 [0.72-4.52],0.204891429972337,cis
+Chapter XI Diseases of the digestive system,NAFLD,CCL4,C-C motif chemokine 4,Inverse variance weighted,18,0.86 [0.69-1.09],0.21194654415265,cis
+Chapter XI Diseases of the digestive system,NAFLD,LIFR,Leukemia inhibitory factor receptor,Inverse variance weighted,4,0.79 [0.54-1.15],0.212817149224,cis
+Chapter XI Diseases of the digestive system,NAFLD,PON2,Serum paraoxonase/arylesterase 2,Inverse variance weighted,42,1.04 [0.98-1.11],0.213593763955574,cis
+Chapter XI Diseases of the digestive system,NAFLD,PVR,Poliovirus receptor,Inverse variance weighted,27,1.05 [0.97-1.15],0.213884592289851,cis
+Chapter XI Diseases of the digestive system,NAFLD,MET,Hepatocyte growth factor receptor,Inverse variance weighted,5,0.67 [0.35-1.27],0.215046899997434,cis
+Chapter XI Diseases of the digestive system,NAFLD,ADH4,All-trans-retinol dehydrogenase [NAD(+)] ADH4,Wald ratio,1,0.75 [0.48-1.18],0.217883423633163,cis
+Chapter XI Diseases of the digestive system,NAFLD,TNFRSF10B,Tumor necrosis factor receptor superfamily member 10B,Inverse variance weighted,15,0.89 [0.73-1.07],0.22149704263354,cis
+Chapter XI Diseases of the digestive system,NAFLD,LAP3,Cytosol aminopeptidase,Inverse variance weighted,2,0.46 [0.13-1.6],0.222196592232727,cis
+Chapter XI Diseases of the digestive system,NAFLD,ALDH5A1,"Succinate-semialdehyde dehydrogenase, mitochondrial",Inverse variance weighted,2,1.47 [0.79-2.74],0.223576959724063,cis
+Chapter XI Diseases of the digestive system,NAFLD,ADGRE5,Adhesion G protein-coupled receptor E5,Inverse variance weighted,8,1.13 [0.93-1.39],0.2238208868326,cis
+Chapter XI Diseases of the digestive system,NAFLD,GCHFR,GTP cyclohydrolase 1 feedback regulatory protein,Wald ratio,1,1.56 [0.76-3.22],0.22683145736039,cis
+Chapter XI Diseases of the digestive system,NAFLD,PTGDS,Prostaglandin-H2 D-isomerase,Inverse variance weighted,4,1.19 [0.89-1.58],0.238898582265436,cis
+Chapter XI Diseases of the digestive system,NAFLD,ADAMTS13,A disintegrin and metalloproteinase with thrombospondin motifs 13,Inverse variance weighted,15,1.1 [0.94-1.29],0.242469118115119,cis
+Chapter XI Diseases of the digestive system,NAFLD,MRC1,Macrophage mannose receptor 1,Inverse variance weighted,7,1.23 [0.87-1.74],0.244155744286999,cis
+Chapter XI Diseases of the digestive system,NAFLD,HS6ST1,Heparan-sulfate 6-O-sulfotransferase 1,Inverse variance weighted,12,0.86 [0.68-1.1],0.244704952651795,cis
+Chapter XI Diseases of the digestive system,NAFLD,CHCHD6,MICOS complex subunit MIC25,Inverse variance weighted,4,1.15 [0.91-1.45],0.245302512813297,cis
+Chapter XI Diseases of the digestive system,NAFLD,SSC5D,Soluble scavenger receptor cysteine-rich domain-containing protein SSC5D,Inverse variance weighted,20,1.08 [0.95-1.22],0.258893085545698,cis
+Chapter XI Diseases of the digestive system,NAFLD,SIGLEC1,Sialoadhesin,Inverse variance weighted,20,1.08 [0.94-1.24],0.26168352864636,cis
+Chapter XI Diseases of the digestive system,NAFLD,TNFSF8,Tumor necrosis factor ligand superfamily member 8,Inverse variance weighted,3,0.72 [0.4-1.29],0.266323125325141,cis
+Chapter XI Diseases of the digestive system,NAFLD,TREM2,Triggering receptor expressed on myeloid cells 2,Inverse variance weighted,4,1.14 [0.9-1.45],0.268817491353135,cis
+Chapter XI Diseases of the digestive system,NAFLD,CES2,Cocaine esterase,Wald ratio,1,0.55 [0.19-1.6],0.272341190128533,cis
+Chapter XI Diseases of the digestive system,NAFLD,TXNRD1,"Thioredoxin reductase 1, cytoplasmic",Wald ratio,1,0.51 [0.15-1.7],0.273935469852855,cis
+Chapter XI Diseases of the digestive system,NAFLD,SORT1,Sortilin,Inverse variance weighted,3,0.84 [0.61-1.15],0.277678448736614,cis
+Chapter XI Diseases of the digestive system,NAFLD,CNTN3,Contactin-3,Inverse variance weighted,14,0.92 [0.78-1.07],0.280844349122967,cis
+Chapter XI Diseases of the digestive system,NAFLD,AKR1C4,Aldo-keto reductase family 1 member C4,Wald ratio,1,0.52 [0.16-1.71],0.282986266443032,cis
+Chapter XI Diseases of the digestive system,NAFLD,AFM,Afamin,Inverse variance weighted,5,1.3 [0.8-2.1],0.287260899547364,cis
+Chapter XI Diseases of the digestive system,NAFLD,CD28,T-cell-specific surface glycoprotein CD28,Inverse variance weighted,5,1.17 [0.87-1.58],0.288045093434188,cis
+Chapter XI Diseases of the digestive system,NAFLD,PCBD1,Pterin-4-alpha-carbinolamine dehydratase,Inverse variance weighted,5,1.19 [0.86-1.65],0.289603532893211,cis
+Chapter XI Diseases of the digestive system,NAFLD,SULT2A1,Bile salt sulfotransferase,Inverse variance weighted,4,1.11 [0.91-1.36],0.289623084553796,cis
+Chapter XI Diseases of the digestive system,NAFLD,C7,Complement component C7,Inverse variance weighted,38,0.96 [0.89-1.04],0.291912430362335,cis
+Chapter XI Diseases of the digestive system,NAFLD,EGLN1,Egl nine homolog 1,Inverse variance weighted,3,0.8 [0.53-1.21],0.296405304539672,cis
+Chapter XI Diseases of the digestive system,NAFLD,ENO3,Beta-enolase,Wald ratio,1,1.42 [0.73-2.76],0.300421617886241,cis
+Chapter XI Diseases of the digestive system,NAFLD,ADAM9,Disintegrin and metalloproteinase domain-containing protein 9,Inverse variance weighted,11,1.22 [0.84-1.76],0.3010693328043,cis
+Chapter XI Diseases of the digestive system,NAFLD,LGALS9,Galectin-9,Inverse variance weighted,26,0.93 [0.81-1.07],0.301979814017273,cis
+Chapter XI Diseases of the digestive system,NAFLD,SIGLEC7,Sialic acid-binding Ig-like lectin 7,Inverse variance weighted,10,1.08 [0.93-1.27],0.30440358039754,cis
+Chapter XI Diseases of the digestive system,NAFLD,VSNL1,Visinin-like protein 1,Inverse variance weighted,8,0.75 [0.44-1.3],0.304979563421148,cis
+Chapter XI Diseases of the digestive system,NAFLD,HMOX2,Heme oxygenase 2,Inverse variance weighted,2,0.53 [0.16-1.78],0.304995461911143,cis
+Chapter XI Diseases of the digestive system,NAFLD,DPY30,Protein dpy-30 homolog,Wald ratio,1,0.49 [0.13-1.92],0.306182829036607,cis
+Chapter XI Diseases of the digestive system,NAFLD,ADAMTS15,A disintegrin and metalloproteinase with thrombospondin motifs 15,Inverse variance weighted,3,1.34 [0.76-2.35],0.307150764427017,cis
+Chapter XI Diseases of the digestive system,NAFLD,IL4R,Interleukin-4 receptor subunit alpha,Inverse variance weighted,10,1.1 [0.92-1.31],0.30932755015895,cis
+Chapter XI Diseases of the digestive system,NAFLD,IGFBP7,Insulin-like growth factor-binding protein 7,Inverse variance weighted,19,0.93 [0.8-1.08],0.313425938302246,cis
+Chapter XI Diseases of the digestive system,NAFLD,PHYKPL,5-phosphohydroxy-L-lysine phospho-lyase,Inverse variance weighted,10,0.88 [0.68-1.13],0.31416109037711,cis
+Chapter XI Diseases of the digestive system,NAFLD,SDC1,Syndecan-1,Inverse variance weighted,2,1.24 [0.81-1.9],0.317181828159973,cis
+Chapter XI Diseases of the digestive system,NAFLD,ATRN,"Attractin, Isoform 2",Inverse variance weighted,12,1.08 [0.93-1.25],0.321525774253916,cis
+Chapter XI Diseases of the digestive system,NAFLD,CXCL10,C-X-C motif chemokine 10,Inverse variance weighted,3,0.91 [0.76-1.09],0.323660298019721,cis
+Chapter XI Diseases of the digestive system,NAFLD,TNFSF13B,Tumor necrosis factor ligand superfamily member 13B,Inverse variance weighted,6,0.87 [0.66-1.15],0.323940979806568,cis
+Chapter XI Diseases of the digestive system,NAFLD,SLIT2,Slit homolog 2 protein,Inverse variance weighted,2,0.69 [0.33-1.46],0.33403961596294,cis
+Chapter XI Diseases of the digestive system,NAFLD,HNMT,Histamine N-methyltransferase,Inverse variance weighted,27,1.05 [0.95-1.15],0.340926773381714,cis
+Chapter XI Diseases of the digestive system,NAFLD,LDLR,Low-density lipoprotein receptor,Wald ratio,1,3.24 [0.29-36.48],0.342037454823599,cis
+Chapter XI Diseases of the digestive system,NAFLD,RELT,Tumor necrosis factor receptor superfamily member 19L,Inverse variance weighted,14,0.92 [0.79-1.09],0.343866341717258,cis
+Chapter XI Diseases of the digestive system,NAFLD,STAB2,Stabilin-2,Inverse variance weighted,20,1.06 [0.94-1.21],0.344983304306661,cis
+Chapter XI Diseases of the digestive system,NAFLD,SIGLEC8,Sialic acid-binding Ig-like lectin 8,Inverse variance weighted,21,0.96 [0.88-1.05],0.345907462501547,cis
+Chapter XI Diseases of the digestive system,NAFLD,SUOX,"Sulfite oxidase, mitochondrial",Inverse variance weighted,3,0.53 [0.14-1.98],0.347996440734242,cis
+Chapter XI Diseases of the digestive system,NAFLD,ADGRE1,Adhesion G protein-coupled receptor E1,Inverse variance weighted,14,1.07 [0.93-1.22],0.348230682458687,cis
+Chapter XI Diseases of the digestive system,NAFLD,BMPER,BMP-binding endothelial regulator protein,Inverse variance weighted,7,1.11 [0.89-1.38],0.348552250921667,cis
+Chapter XI Diseases of the digestive system,NAFLD,HAVCR1,Hepatitis A virus cellular receptor 1,Inverse variance weighted,27,1.06 [0.94-1.19],0.350839047496386,cis
+Chapter XI Diseases of the digestive system,NAFLD,CALCA,Calcitonin,Inverse variance weighted,5,0.8 [0.51-1.27],0.351263939261004,cis
+Chapter XI Diseases of the digestive system,NAFLD,COL6A3,Collagen alpha-3(VI) chain,Inverse variance weighted,2,1.64 [0.57-4.71],0.35476834671302,cis
+Chapter XI Diseases of the digestive system,NAFLD,PILRA,Paired immunoglobulin-like type 2 receptor alpha,Inverse variance weighted,46,0.97 [0.9-1.04],0.356912696548927,cis
+Chapter XI Diseases of the digestive system,NAFLD,CCL22,C-C motif chemokine 22,Inverse variance weighted,6,0.88 [0.67-1.15],0.357905927877814,cis
+Chapter XI Diseases of the digestive system,NAFLD,KHK,Ketohexokinase,Inverse variance weighted,22,1.07 [0.92-1.25],0.361002302803883,cis
+Chapter XI Diseases of the digestive system,NAFLD,TNFRSF11B,Tumor necrosis factor receptor superfamily member 11B,Inverse variance weighted,10,1.14 [0.86-1.53],0.361524261995859,cis
+Chapter XI Diseases of the digestive system,NAFLD,IL32,Interleukin-32,Inverse variance weighted,11,1.1 [0.89-1.37],0.361746582885159,cis
+Chapter XI Diseases of the digestive system,NAFLD,ALCAM,CD166 antigen,Inverse variance weighted,6,0.84 [0.58-1.22],0.363904475303161,cis
+Chapter XI Diseases of the digestive system,NAFLD,ECHS1,"Enoyl-CoA hydratase, mitochondrial",Inverse variance weighted,4,1.17 [0.83-1.63],0.368309152067529,cis
+Chapter XI Diseases of the digestive system,NAFLD,ANGPTL2,Angiopoietin-related protein 2,Wald ratio,1,1.92 [0.46-7.94],0.369000001628621,cis
+Chapter XI Diseases of the digestive system,NAFLD,ARSB,Arylsulfatase B,Inverse variance weighted,12,1.07 [0.92-1.25],0.370446589929854,cis
+Chapter XI Diseases of the digestive system,NAFLD,IGFBP1,Insulin-like growth factor-binding protein 1,Wald ratio,1,1.82 [0.49-6.79],0.372184299982469,cis
+Chapter XI Diseases of the digestive system,NAFLD,TSPAN8,Tetraspanin-8,Inverse variance weighted,25,1.07 [0.92-1.23],0.373609706875028,cis
+Chapter XI Diseases of the digestive system,NAFLD,NPY,Pro-neuropeptide Y,Inverse variance weighted,3,0.84 [0.57-1.23],0.374087529773324,cis
+Chapter XI Diseases of the digestive system,NAFLD,THBS2,Thrombospondin-2,Inverse variance weighted,16,0.94 [0.83-1.07],0.375810467523445,cis
+Chapter XI Diseases of the digestive system,NAFLD,COL18A1,Collagen alpha-1(XVIII) chain,Inverse variance weighted,12,0.9 [0.72-1.13],0.38000185321482,cis
+Chapter XI Diseases of the digestive system,NAFLD,PGF,Placenta growth factor,Inverse variance weighted,2,0.51 [0.11-2.32],0.385468988004929,cis
+Chapter XI Diseases of the digestive system,NAFLD,SEMA7A,Semaphorin-7A,Inverse variance weighted,5,1.19 [0.8-1.77],0.386249643565743,cis
+Chapter XI Diseases of the digestive system,NAFLD,ANGPTL7,Angiopoietin-related protein 7,Inverse variance weighted,11,1.08 [0.91-1.27],0.388270576230461,cis
+Chapter XI Diseases of the digestive system,NAFLD,CD300E,CMRF35-like molecule 2,Inverse variance weighted,21,0.94 [0.83-1.08],0.38849434720864,cis
+Chapter XI Diseases of the digestive system,NAFLD,CHCHD10,"Coiled-coil-helix-coiled-coil-helix domain-containing protein 10, mitochondrial",Inverse variance weighted,2,1.39 [0.65-2.96],0.389329477085201,cis
+Chapter XI Diseases of the digestive system,NAFLD,SORD,Sorbitol dehydrogenase,Inverse variance weighted,3,0.8 [0.49-1.32],0.389696999350249,cis
+Chapter XI Diseases of the digestive system,NAFLD,DTNB,Dystrobrevin beta,Inverse variance weighted,2,0.57 [0.16-2.05],0.393271993446831,cis
+Chapter XI Diseases of the digestive system,NAFLD,CDH2,Cadherin-2,Inverse variance weighted,3,1.3 [0.71-2.38],0.394154970504482,cis
+Chapter XI Diseases of the digestive system,NAFLD,CES1,Liver carboxylesterase 1,Inverse variance weighted,15,0.93 [0.8-1.09],0.395099624245386,cis
+Chapter XI Diseases of the digestive system,NAFLD,ITGA5,Integrin alpha-5,Wald ratio,1,0.65 [0.24-1.76],0.395347546488516,cis
+Chapter XI Diseases of the digestive system,NAFLD,PLAT,Tissue-type plasminogen activator,Wald ratio,1,0.61 [0.19-1.92],0.397407491205196,cis
+Chapter XI Diseases of the digestive system,NAFLD,SPINT2,Kunitz-type protease inhibitor 2,Inverse variance weighted,4,1.14 [0.84-1.55],0.398387355803472,cis
+Chapter XI Diseases of the digestive system,NAFLD,CRELD1,Protein disulfide isomerase CRELD1,Inverse variance weighted,34,0.95 [0.84-1.07],0.398718017754691,cis
+Chapter XI Diseases of the digestive system,NAFLD,SMPD1,Sphingomyelin phosphodiesterase,Inverse variance weighted,13,1.14 [0.83-1.57],0.402052945428816,cis
+Chapter XI Diseases of the digestive system,NAFLD,RET,Proto-oncogene tyrosine-protein kinase receptor Ret,Inverse variance weighted,10,1.08 [0.9-1.31],0.402563850688044,cis
+Chapter XI Diseases of the digestive system,NAFLD,BTD,Biotinidase,Inverse variance weighted,19,1.06 [0.92-1.23],0.408423065407913,cis
+Chapter XI Diseases of the digestive system,NAFLD,ARSA,Arylsulfatase A,Inverse variance weighted,16,1.04 [0.95-1.14],0.410621194162603,cis
+Chapter XI Diseases of the digestive system,NAFLD,IFNLR1,Interferon lambda receptor 1,Inverse variance weighted,8,0.92 [0.76-1.12],0.411825611883541,cis
+Chapter XI Diseases of the digestive system,NAFLD,MAN2B2,Epididymis-specific alpha-mannosidase,Inverse variance weighted,24,0.96 [0.86-1.07],0.413697331013448,cis
+Chapter XI Diseases of the digestive system,NAFLD,GRN,Progranulin,Inverse variance weighted,7,1.08 [0.9-1.31],0.413826656034888,cis
+Chapter XI Diseases of the digestive system,NAFLD,LILRB1,Leukocyte immunoglobulin-like receptor subfamily B member 1,Inverse variance weighted,19,1.04 [0.95-1.14],0.419939987974406,cis
+Chapter XI Diseases of the digestive system,NAFLD,FABP4,"Fatty acid-binding protein, adipocyte",Wald ratio,1,0.75 [0.37-1.52],0.42304639191204,cis
+Chapter XI Diseases of the digestive system,NAFLD,ULBP2,UL16-binding protein 2,Inverse variance weighted,25,1.04 [0.94-1.15],0.423748322385652,cis
+Chapter XI Diseases of the digestive system,NAFLD,GZMA,Granzyme A,Inverse variance weighted,2,1.36 [0.64-2.87],0.424303272083643,cis
+Chapter XI Diseases of the digestive system,NAFLD,AKR7L,Aflatoxin B1 aldehyde reductase member 4,Inverse variance weighted,6,0.9 [0.68-1.18],0.425424395288368,cis
+Chapter XI Diseases of the digestive system,NAFLD,GHR,Growth hormone receptor,Inverse variance weighted,38,1.03 [0.96-1.1],0.430421827619316,cis
+Chapter XI Diseases of the digestive system,NAFLD,CXCL6,C-X-C motif chemokine 6,Inverse variance weighted,26,0.94 [0.81-1.1],0.434435956655912,cis
+Chapter XI Diseases of the digestive system,NAFLD,ACY1,Aminoacylase-1,Inverse variance weighted,4,1.19 [0.77-1.84],0.440679027074294,cis
+Chapter XI Diseases of the digestive system,NAFLD,SERPINF1,Pigment epithelium-derived factor,Inverse variance weighted,14,1.09 [0.88-1.36],0.44136687034701,cis
+Chapter XI Diseases of the digestive system,NAFLD,IL12B,Interleukin-12 subunit beta,Inverse variance weighted,24,0.95 [0.83-1.08],0.445345670277048,cis
+Chapter XI Diseases of the digestive system,NAFLD,VSIG2,V-set and immunoglobulin domain-containing protein 2,Inverse variance weighted,5,0.9 [0.68-1.19],0.451135769958785,cis
+Chapter XI Diseases of the digestive system,NAFLD,IL18BP,Interleukin-18-binding protein,Inverse variance weighted,3,0.85 [0.56-1.3],0.456062859918767,cis
+Chapter XI Diseases of the digestive system,NAFLD,PCDH17,Protocadherin-17,Inverse variance weighted,2,0.83 [0.51-1.35],0.457991919137615,cis
+Chapter XI Diseases of the digestive system,NAFLD,FGF21,Fibroblast growth factor 21,Inverse variance weighted,2,0.8 [0.43-1.46],0.459629355673849,cis
+Chapter XI Diseases of the digestive system,NAFLD,PON3,Serum paraoxonase/lactonase 3,Inverse variance weighted,16,0.95 [0.84-1.08],0.460483360249769,cis
+Chapter XI Diseases of the digestive system,NAFLD,CFI,Complement factor I,Inverse variance weighted,6,0.88 [0.63-1.23],0.46200488400216,cis
+Chapter XI Diseases of the digestive system,NAFLD,TNFRSF1B,Tumor necrosis factor receptor superfamily member 1B,Inverse variance weighted,4,0.86 [0.57-1.29],0.462674080888386,cis
+Chapter XI Diseases of the digestive system,NAFLD,FTCD,Formimidoyltransferase-cyclodeaminase,Inverse variance weighted,5,1.15 [0.78-1.71],0.476599754157739,cis
+Chapter XI Diseases of the digestive system,NAFLD,FABP1,"Fatty acid-binding protein, liver",Inverse variance weighted,5,1.09 [0.86-1.38],0.477466940730932,cis
+Chapter XI Diseases of the digestive system,NAFLD,BCAM,Basal cell adhesion molecule,Inverse variance weighted,12,1.08 [0.88-1.33],0.479082065258246,cis
+Chapter XI Diseases of the digestive system,NAFLD,ADGRE2,Adhesion G protein-coupled receptor E2,Inverse variance weighted,13,0.95 [0.82-1.1],0.482456483847424,cis
+Chapter XI Diseases of the digestive system,NAFLD,ADGRD1,Adhesion G-protein coupled receptor D1,Inverse variance weighted,22,0.97 [0.88-1.06],0.483569910647571,cis
+Chapter XI Diseases of the digestive system,NAFLD,NECTIN2,Nectin-2,Inverse variance weighted,5,1.06 [0.9-1.26],0.492215873130674,cis
+Chapter XI Diseases of the digestive system,NAFLD,GPRC5C,G-protein coupled receptor family C group 5 member C,Wald ratio,1,0.84 [0.5-1.4],0.494993176195864,cis
+Chapter XI Diseases of the digestive system,NAFLD,MASP1,Mannan-binding lectin serine protease 1,Inverse variance weighted,9,0.92 [0.72-1.18],0.497187914384971,cis
+Chapter XI Diseases of the digestive system,NAFLD,PARP1,Poly [ADP-ribose] polymerase 1,Wald ratio,1,0.87 [0.57-1.31],0.499614274641874,cis
+Chapter XI Diseases of the digestive system,NAFLD,UMOD,Uromodulin,Inverse variance weighted,29,1.03 [0.95-1.11],0.504208166918912,cis
+Chapter XI Diseases of the digestive system,NAFLD,RTN4R,Reticulon-4 receptor,Inverse variance weighted,15,1.05 [0.92-1.19],0.510942278974773,cis
+Chapter XI Diseases of the digestive system,NAFLD,CCL7,C-C motif chemokine 7,Inverse variance weighted,3,1.46 [0.47-4.55],0.517593556208817,cis
+Chapter XI Diseases of the digestive system,NAFLD,MMP7,Matrilysin,Inverse variance weighted,13,0.94 [0.76-1.15],0.520011581477365,cis
+Chapter XI Diseases of the digestive system,NAFLD,DCXR,L-xylulose reductase,Inverse variance weighted,2,0.89 [0.63-1.27],0.523140162570992,cis
+Chapter XI Diseases of the digestive system,NAFLD,GFER,FAD-linked sulfhydryl oxidase ALR,Wald ratio,1,0.78 [0.36-1.68],0.523214419159427,cis
+Chapter XI Diseases of the digestive system,NAFLD,CD244,Natural killer cell receptor 2B4,Inverse variance weighted,10,1.04 [0.92-1.18],0.529988169456744,cis
+Chapter XI Diseases of the digestive system,NAFLD,PAMR1,Inactive serine protease PAMR1,Inverse variance weighted,22,0.96 [0.86-1.08],0.53623217979566,cis
+Chapter XI Diseases of the digestive system,NAFLD,BPIFB2,BPI fold-containing family B member 2,Inverse variance weighted,17,1.04 [0.91-1.2],0.543089759031393,cis
+Chapter XI Diseases of the digestive system,NAFLD,SOD2,"Superoxide dismutase [Mn], mitochondrial",Inverse variance weighted,2,0.89 [0.6-1.31],0.549958405447472,cis
+Chapter XI Diseases of the digestive system,NAFLD,AGR2,Anterior gradient protein 2 homolog,Wald ratio,1,0.85 [0.49-1.46],0.55282529070233,cis
+Chapter XI Diseases of the digestive system,NAFLD,CTSZ,Cathepsin Z,Inverse variance weighted,3,0.94 [0.78-1.14],0.555462718570368,cis
+Chapter XI Diseases of the digestive system,NAFLD,TNFRSF6B,Tumor necrosis factor receptor superfamily member 6B,Inverse variance weighted,22,0.95 [0.8-1.13],0.557213824895231,cis
+Chapter XI Diseases of the digestive system,NAFLD,FGF23,Fibroblast growth factor 23,Inverse variance weighted,2,0.8 [0.39-1.68],0.559948998887902,cis
+Chapter XI Diseases of the digestive system,NAFLD,CA6,Carbonic anhydrase 6,Inverse variance weighted,31,0.97 [0.87-1.08],0.560422091439021,cis
+Chapter XI Diseases of the digestive system,NAFLD,MENT,Protein MENT,Inverse variance weighted,3,0.93 [0.73-1.19],0.562810873236367,cis
+Chapter XI Diseases of the digestive system,NAFLD,TFF2,Trefoil factor 2,Inverse variance weighted,5,1.11 [0.78-1.57],0.563077083313632,cis
+Chapter XI Diseases of the digestive system,NAFLD,AREG,Amphiregulin,Inverse variance weighted,3,0.89 [0.61-1.31],0.563919224803007,cis
+Chapter XI Diseases of the digestive system,NAFLD,NOMO1,Nodal modulator 1,Inverse variance weighted,2,0.9 [0.62-1.3],0.566352504529002,cis
+Chapter XI Diseases of the digestive system,NAFLD,ROBO1,Roundabout homolog 1,Inverse variance weighted,10,1.09 [0.82-1.45],0.569127481074439,cis
+Chapter XI Diseases of the digestive system,NAFLD,MAD1L1,Mitotic spindle assembly checkpoint protein MAD1,Inverse variance weighted,4,0.88 [0.57-1.36],0.569828224536355,cis
+Chapter XI Diseases of the digestive system,NAFLD,QDPR,Dihydropteridine reductase,Inverse variance weighted,8,0.89 [0.58-1.35],0.571331071049675,cis
+Chapter XI Diseases of the digestive system,NAFLD,CTSC,Dipeptidyl peptidase 1,Inverse variance weighted,28,1.03 [0.94-1.12],0.574702456088678,cis
+Chapter XI Diseases of the digestive system,NAFLD,VMO1,Vitelline membrane outer layer protein 1 homolog,Inverse variance weighted,34,0.98 [0.9-1.06],0.575429222375304,cis
+Chapter XI Diseases of the digestive system,NAFLD,CCL20,C-C motif chemokine 20,Inverse variance weighted,2,0.75 [0.28-2.05],0.575678279404127,cis
+Chapter XI Diseases of the digestive system,NAFLD,ENTR1,Endosome-associated-trafficking regulator 1,Inverse variance weighted,7,1.11 [0.77-1.59],0.577015961081591,cis
+Chapter XI Diseases of the digestive system,NAFLD,KLRB1,Killer cell lectin-like receptor subfamily B member 1,Wald ratio,1,1.58 [0.31-7.97],0.577913355685518,cis
+Chapter XI Diseases of the digestive system,NAFLD,SIGLEC10,Sialic acid-binding Ig-like lectin 10,Inverse variance weighted,14,1.03 [0.92-1.16],0.58189353040911,cis
+Chapter XI Diseases of the digestive system,NAFLD,ADM,Pro-adrenomedullin,Inverse variance weighted,2,0.7 [0.2-2.5],0.582102774764629,cis
+Chapter XI Diseases of the digestive system,NAFLD,CD300C,CMRF35-like molecule 6,Inverse variance weighted,12,1.03 [0.92-1.17],0.58275843172514,cis
+Chapter XI Diseases of the digestive system,NAFLD,PDZK1,Na(+)/H(+) exchange regulatory cofactor NHE-RF3,Wald ratio,1,0.86 [0.51-1.47],0.586627872705657,cis
+Chapter XI Diseases of the digestive system,NAFLD,IGSF9,Protein turtle homolog A,Inverse variance weighted,10,1.05 [0.87-1.27],0.589425350816465,cis
+Chapter XI Diseases of the digestive system,NAFLD,CREG1,Protein CREG1,Inverse variance weighted,3,1.14 [0.71-1.83],0.589652340955097,cis
+Chapter XI Diseases of the digestive system,NAFLD,LAIR1,Leukocyte-associated immunoglobulin-like receptor 1,Inverse variance weighted,16,0.95 [0.81-1.13],0.591334635893998,cis
+Chapter XI Diseases of the digestive system,NAFLD,ECHDC3,"Enoyl-CoA hydratase domain-containing protein 3, mitochondrial",Inverse variance weighted,18,1.04 [0.89-1.22],0.59819626860639,cis
+Chapter XI Diseases of the digestive system,NAFLD,IL10RB,Interleukin-10 receptor subunit beta,Inverse variance weighted,25,1.02 [0.94-1.12],0.598414076382304,cis
+Chapter XI Diseases of the digestive system,NAFLD,SCLY,Selenocysteine lyase,Inverse variance weighted,4,0.9 [0.61-1.33],0.59994510998877,cis
+Chapter XI Diseases of the digestive system,NAFLD,PRSS2,Trypsin-2,Inverse variance weighted,3,1.1 [0.76-1.61],0.604795865463468,cis
+Chapter XI Diseases of the digestive system,NAFLD,PSAP,Prosaposin,Inverse variance weighted,5,1.07 [0.82-1.39],0.610560134960418,cis
+Chapter XI Diseases of the digestive system,NAFLD,SERPINA9,Serpin A9,Inverse variance weighted,25,1.02 [0.94-1.11],0.613168042409976,cis
+Chapter XI Diseases of the digestive system,NAFLD,F7,Coagulation factor VII,Inverse variance weighted,21,0.96 [0.82-1.13],0.614527400542648,cis
+Chapter XI Diseases of the digestive system,NAFLD,VCAM1,Vascular cell adhesion protein 1,Inverse variance weighted,2,0.87 [0.5-1.5],0.616078657619504,cis
+Chapter XI Diseases of the digestive system,NAFLD,IL18,Interleukin-18,Inverse variance weighted,16,0.92 [0.68-1.26],0.617863430517974,cis
+Chapter XI Diseases of the digestive system,NAFLD,PRSS8,Prostasin,Inverse variance weighted,5,0.9 [0.59-1.37],0.628240820584813,cis
+Chapter XI Diseases of the digestive system,NAFLD,CLSTN2,Calsyntenin-2,Inverse variance weighted,31,0.97 [0.87-1.09],0.632072599538525,cis
+Chapter XI Diseases of the digestive system,NAFLD,FGFR2,Fibroblast growth factor receptor 2,Inverse variance weighted,5,1.1 [0.74-1.66],0.633781398834364,cis
+Chapter XI Diseases of the digestive system,NAFLD,PDCD1,Programmed cell death protein 1,Inverse variance weighted,9,0.9 [0.59-1.38],0.633942118622923,cis
+Chapter XI Diseases of the digestive system,NAFLD,SLAMF8,SLAM family member 8,Inverse variance weighted,25,0.98 [0.92-1.05],0.634615815480115,cis
+Chapter XI Diseases of the digestive system,NAFLD,GALNT10,Polypeptide N-acetylgalactosaminyltransferase 10,Inverse variance weighted,16,0.97 [0.84-1.11],0.635003324002112,cis
+Chapter XI Diseases of the digestive system,NAFLD,MUC13,Mucin-13,Inverse variance weighted,9,0.94 [0.75-1.2],0.635111713067298,cis
+Chapter XI Diseases of the digestive system,NAFLD,IGFBP2,Insulin-like growth factor-binding protein 2,Inverse variance weighted,2,1.26 [0.47-3.37],0.640253956895145,cis
+Chapter XI Diseases of the digestive system,NAFLD,MSR1,Macrophage scavenger receptor types I and II,Inverse variance weighted,8,1.05 [0.85-1.31],0.640491217451304,cis
+Chapter XI Diseases of the digestive system,NAFLD,CD72,B-cell differentiation antigen CD72,Inverse variance weighted,3,1.13 [0.67-1.92],0.642526549064406,cis
+Chapter XI Diseases of the digestive system,NAFLD,INHBC,Inhibin beta C chain,Inverse variance weighted,29,0.98 [0.9-1.07],0.648381342478751,cis
+Chapter XI Diseases of the digestive system,NAFLD,DPP4,Dipeptidyl peptidase 4,Inverse variance weighted,9,0.95 [0.76-1.19],0.650668232443369,cis
+Chapter XI Diseases of the digestive system,NAFLD,CPQ,Carboxypeptidase Q,Inverse variance weighted,20,1.02 [0.93-1.13],0.654715581304199,cis
+Chapter XI Diseases of the digestive system,NAFLD,AGRP,Agouti-related protein,Inverse variance weighted,3,1.15 [0.63-2.11],0.655056644371153,cis
+Chapter XI Diseases of the digestive system,NAFLD,NPC2,NPC intracellular cholesterol transporter 2,Inverse variance weighted,10,0.95 [0.77-1.18],0.671033645210209,cis
+Chapter XI Diseases of the digestive system,NAFLD,IGSF8,Immunoglobulin superfamily member 8,Inverse variance weighted,2,1.09 [0.73-1.64],0.672236262193237,cis
+Chapter XI Diseases of the digestive system,NAFLD,MARCO,Macrophage receptor MARCO,Inverse variance weighted,10,1.04 [0.86-1.26],0.677550143273802,cis
+Chapter XI Diseases of the digestive system,NAFLD,CD74,HLA class II histocompatibility antigen gamma chain,Wald ratio,1,0.75 [0.19-2.92],0.679606099125367,cis
+Chapter XI Diseases of the digestive system,NAFLD,LILRA2,Leukocyte immunoglobulin-like receptor subfamily A member 2,Inverse variance weighted,14,1.05 [0.84-1.31],0.679686001824227,cis
+Chapter XI Diseases of the digestive system,NAFLD,IGFBPL1,Insulin-like growth factor-binding protein-like 1,Inverse variance weighted,20,0.98 [0.89-1.08],0.680040444496939,cis
+Chapter XI Diseases of the digestive system,NAFLD,RNASET2,Ribonuclease T2,Inverse variance weighted,14,1.03 [0.9-1.17],0.680601240103529,cis
+Chapter XI Diseases of the digestive system,NAFLD,SGSH,N-sulphoglucosamine sulphohydrolase,Inverse variance weighted,39,0.98 [0.91-1.07],0.681279198278497,cis
+Chapter XI Diseases of the digestive system,NAFLD,IQGAP2,Ras GTPase-activating-like protein IQGAP2,Inverse variance weighted,2,1.09 [0.73-1.61],0.682023821509714,cis
+Chapter XI Diseases of the digestive system,NAFLD,CR1,Complement receptor type 1,Inverse variance weighted,21,0.98 [0.89-1.08],0.68683219904077,cis
+Chapter XI Diseases of the digestive system,NAFLD,APOD,Apolipoprotein D,Inverse variance weighted,7,1.04 [0.86-1.25],0.687006448538187,cis
+Chapter XI Diseases of the digestive system,NAFLD,RBKS,Ribokinase,Inverse variance weighted,11,0.98 [0.87-1.1],0.688211308472768,cis
+Chapter XI Diseases of the digestive system,NAFLD,SIAE,Sialate O-acetylesterase,Inverse variance weighted,3,0.95 [0.73-1.23],0.688359514896196,cis
+Chapter XI Diseases of the digestive system,NAFLD,ASGR1,Asialoglycoprotein receptor 1,Inverse variance weighted,2,1.07 [0.76-1.51],0.690822907904088,cis
+Chapter XI Diseases of the digestive system,NAFLD,HGF,Hepatocyte growth factor,Inverse variance weighted,2,1.14 [0.59-2.19],0.692115695808385,cis
+Chapter XI Diseases of the digestive system,NAFLD,PLA2G15,Phospholipase A2 group XV,Inverse variance weighted,12,0.97 [0.84-1.12],0.692611553151084,cis
+Chapter XI Diseases of the digestive system,NAFLD,LMNB2,Lamin-B2,Wald ratio,1,0.75 [0.17-3.21],0.69346496853949,cis
+Chapter XI Diseases of the digestive system,NAFLD,MFGE8,Lactadherin,Inverse variance weighted,11,0.96 [0.78-1.18],0.695250530358539,cis
+Chapter XI Diseases of the digestive system,NAFLD,IFNGR2,Interferon gamma receptor 2,Inverse variance weighted,27,1.02 [0.94-1.1],0.699371866292754,cis
+Chapter XI Diseases of the digestive system,NAFLD,TNFRSF10A,Tumor necrosis factor receptor superfamily member 10A,Inverse variance weighted,25,0.98 [0.86-1.1],0.701907096470753,cis
+Chapter XI Diseases of the digestive system,NAFLD,TNFRSF11A,Tumor necrosis factor receptor superfamily member 11A,Inverse variance weighted,25,1.03 [0.9-1.16],0.702778205735888,cis
+Chapter XI Diseases of the digestive system,NAFLD,CSF1R,Macrophage colony-stimulating factor 1 receptor,Inverse variance weighted,6,0.95 [0.74-1.22],0.703848077621557,cis
+Chapter XI Diseases of the digestive system,NAFLD,VAMP5,Vesicle-associated membrane protein 5,Wald ratio,1,1.31 [0.32-5.38],0.704333485618323,cis
+Chapter XI Diseases of the digestive system,NAFLD,PRCP,Lysosomal Pro-X carboxypeptidase,Inverse variance weighted,9,0.94 [0.67-1.32],0.704564029183727,cis
+Chapter XI Diseases of the digestive system,NAFLD,VWA1,von Willebrand factor A domain-containing protein 1,Inverse variance weighted,6,0.98 [0.89-1.08],0.705095061270898,cis
+Chapter XI Diseases of the digestive system,NAFLD,CEACAM1,Carcinoembryonic antigen-related cell adhesion molecule 1,Inverse variance weighted,19,0.97 [0.85-1.12],0.708040473183203,cis
+Chapter XI Diseases of the digestive system,NAFLD,KYNU,Kynureninase,Inverse variance weighted,8,0.95 [0.74-1.22],0.715018149293347,cis
+Chapter XI Diseases of the digestive system,NAFLD,ADAMTSL2,ADAMTS-like protein 2,Inverse variance weighted,4,0.92 [0.57-1.48],0.72147781176529,cis
+Chapter XI Diseases of the digestive system,NAFLD,COL5A1,Collagen alpha-1(V) chain,Inverse variance weighted,8,1.04 [0.85-1.26],0.722217825388517,cis
+Chapter XI Diseases of the digestive system,NAFLD,DDC,Aromatic-L-amino-acid decarboxylase,Inverse variance weighted,10,1.03 [0.88-1.2],0.731224336527292,cis
+Chapter XI Diseases of the digestive system,NAFLD,IL6ST,Interleukin-6 receptor subunit beta,Inverse variance weighted,3,0.95 [0.69-1.3],0.733153974868695,cis
+Chapter XI Diseases of the digestive system,NAFLD,GSR,"Glutathione reductase, mitochondrial",Wald ratio,1,1.03 [0.85-1.26],0.736279028059198,cis
+Chapter XI Diseases of the digestive system,NAFLD,GBP1,Guanylate-binding protein 1,Inverse variance weighted,10,1.03 [0.87-1.22],0.738049687946929,cis
+Chapter XI Diseases of the digestive system,NAFLD,RARRES2,Retinoic acid receptor responder protein 2,Inverse variance weighted,2,0.95 [0.71-1.27],0.738068729963135,cis
+Chapter XI Diseases of the digestive system,NAFLD,FGFBP1,Fibroblast growth factor-binding protein 1,Inverse variance weighted,5,0.94 [0.67-1.33],0.741002478540089,cis
+Chapter XI Diseases of the digestive system,NAFLD,LILRB2,Leukocyte immunoglobulin-like receptor subfamily B member 2,Inverse variance weighted,25,1.01 [0.95-1.08],0.741736357987315,cis
+Chapter XI Diseases of the digestive system,NAFLD,ENTPD6,Ectonucleoside triphosphate diphosphohydrolase 6,Inverse variance weighted,17,0.98 [0.87-1.1],0.743028481920417,cis
+Chapter XI Diseases of the digestive system,NAFLD,IGSF3,Immunoglobulin superfamily member 3,Inverse variance weighted,2,1.1 [0.61-2],0.743262699784069,cis
+Chapter XI Diseases of the digestive system,NAFLD,VNN1,Pantetheinase,Inverse variance weighted,40,0.99 [0.92-1.06],0.74473182824278,cis
+Chapter XI Diseases of the digestive system,NAFLD,ADA2,Adenosine deaminase 2,Inverse variance weighted,8,1.03 [0.85-1.26],0.747600223427846,cis
+Chapter XI Diseases of the digestive system,NAFLD,TYMP,Thymidine phosphorylase,Inverse variance weighted,4,0.95 [0.68-1.32],0.747846429696227,cis
+Chapter XI Diseases of the digestive system,NAFLD,DDAH1,"N(G),N(G)-dimethylarginine dimethylaminohydrolase 1",Inverse variance weighted,8,0.95 [0.68-1.32],0.749882724374621,cis
+Chapter XI Diseases of the digestive system,NAFLD,FSTL3,Follistatin-related protein 3,Inverse variance weighted,4,1.06 [0.72-1.56],0.752403229885105,cis
+Chapter XI Diseases of the digestive system,NAFLD,HIP1R,Huntingtin-interacting protein 1-related protein,Wald ratio,1,1.11 [0.58-2.13],0.755980450896054,cis
+Chapter XI Diseases of the digestive system,NAFLD,TNFRSF9,Tumor necrosis factor receptor superfamily member 9,Wald ratio,1,0.78 [0.17-3.67],0.756515746171385,cis
+Chapter XI Diseases of the digestive system,NAFLD,FCAR,Immunoglobulin alpha Fc receptor,Inverse variance weighted,20,0.99 [0.9-1.08],0.757651059749509,cis
+Chapter XI Diseases of the digestive system,NAFLD,NFASC,Neurofascin,Inverse variance weighted,15,1.02 [0.89-1.18],0.758310382438417,cis
+Chapter XI Diseases of the digestive system,NAFLD,FAM20A,Pseudokinase FAM20A,Inverse variance weighted,14,0.97 [0.83-1.15],0.76099528147807,cis
+Chapter XI Diseases of the digestive system,NAFLD,GSTA3,Glutathione S-transferase A3,Inverse variance weighted,7,0.92 [0.55-1.54],0.762188614820285,cis
+Chapter XI Diseases of the digestive system,NAFLD,LILRB4,Leukocyte immunoglobulin-like receptor subfamily B member 4,Inverse variance weighted,14,1.04 [0.79-1.37],0.762939367877538,cis
+Chapter XI Diseases of the digestive system,NAFLD,RNF149,E3 ubiquitin-protein ligase RNF149,Inverse variance weighted,5,0.97 [0.8-1.18],0.764604658048803,cis
+Chapter XI Diseases of the digestive system,NAFLD,AGRN,Agrin,Inverse variance weighted,17,1.03 [0.86-1.23],0.76463322232043,cis
+Chapter XI Diseases of the digestive system,NAFLD,CCL3,C-C motif chemokine 3,Inverse variance weighted,9,1.03 [0.82-1.3],0.768150778119802,cis
+Chapter XI Diseases of the digestive system,NAFLD,TEK,Angiopoietin-1 receptor,Inverse variance weighted,13,1.02 [0.9-1.15],0.768669011188243,cis
+Chapter XI Diseases of the digestive system,NAFLD,TNFRSF14,Tumor necrosis factor receptor superfamily member 14,Wald ratio,1,1.08 [0.65-1.8],0.7704865133447,cis
+Chapter XI Diseases of the digestive system,NAFLD,FCAMR,High affinity immunoglobulin alpha and immunoglobulin mu Fc receptor,Inverse variance weighted,30,0.98 [0.86-1.12],0.77281210177509,cis
+Chapter XI Diseases of the digestive system,NAFLD,KITLG,Kit ligand,Wald ratio,1,1.19 [0.37-3.81],0.773886921027735,cis
+Chapter XI Diseases of the digestive system,NAFLD,TREH,Trehalase,Inverse variance weighted,46,1.01 [0.95-1.07],0.7741214244058,cis
+Chapter XI Diseases of the digestive system,NAFLD,GSTA1,Glutathione S-transferase A1,Inverse variance weighted,7,0.93 [0.56-1.53],0.774418628465954,cis
+Chapter XI Diseases of the digestive system,NAFLD,B4GALT1,"Beta-1,4-galactosyltransferase 1",Inverse variance weighted,6,1.05 [0.74-1.49],0.777858803392347,cis
+Chapter XI Diseases of the digestive system,NAFLD,DPP7,Dipeptidyl peptidase 2,Inverse variance weighted,19,0.99 [0.9-1.08],0.778190134386747,cis
+Chapter XI Diseases of the digestive system,NAFLD,CANT1,Soluble calcium-activated nucleotidase 1,Inverse variance weighted,2,0.92 [0.5-1.69],0.781241518983278,cis
+Chapter XI Diseases of the digestive system,NAFLD,LY9,T-lymphocyte surface antigen Ly-9,Inverse variance weighted,24,0.98 [0.85-1.13],0.786552505921899,cis
+Chapter XI Diseases of the digestive system,NAFLD,SELPLG,P-selectin glycoprotein ligand 1,Inverse variance weighted,6,0.99 [0.91-1.07],0.787337669339246,cis
+Chapter XI Diseases of the digestive system,NAFLD,AGXT,Serine--pyruvate aminotransferase,Inverse variance weighted,10,0.96 [0.73-1.27],0.788536995463777,cis
+Chapter XI Diseases of the digestive system,NAFLD,MME,Neprilysin,Inverse variance weighted,3,0.91 [0.44-1.86],0.795497569577744,cis
+Chapter XI Diseases of the digestive system,NAFLD,HEG1,Protein HEG homolog 1,Inverse variance weighted,4,1.06 [0.66-1.72],0.798449492062052,cis
+Chapter XI Diseases of the digestive system,NAFLD,CD4,T-cell surface glycoprotein CD4,Inverse variance weighted,5,1.02 [0.87-1.21],0.801913008658645,cis
+Chapter XI Diseases of the digestive system,NAFLD,SIRPB1,Signal-regulatory protein beta-1,Inverse variance weighted,27,1.01 [0.9-1.14],0.804851353425781,cis
+Chapter XI Diseases of the digestive system,NAFLD,CST3,Cystatin-C,Inverse variance weighted,10,1.02 [0.86-1.22],0.808647717684378,cis
+Chapter XI Diseases of the digestive system,NAFLD,GDF15,Growth/differentiation factor 15,Inverse variance weighted,12,0.95 [0.61-1.47],0.81208160660467,cis
+Chapter XI Diseases of the digestive system,NAFLD,SPON1,Spondin-1,Inverse variance weighted,21,1.03 [0.83-1.27],0.817224366188096,cis
+Chapter XI Diseases of the digestive system,NAFLD,GLB1,Beta-galactosidase,Inverse variance weighted,5,1.03 [0.82-1.29],0.819842403248278,cis
+Chapter XI Diseases of the digestive system,NAFLD,ST6GAL1,"Beta-galactoside alpha-2,6-sialyltransferase 1",Inverse variance weighted,8,0.96 [0.64-1.42],0.820795109115175,cis
+Chapter XI Diseases of the digestive system,NAFLD,TCTN3,Tectonic-3,Inverse variance weighted,33,0.99 [0.89-1.09],0.820998349923787,cis
+Chapter XI Diseases of the digestive system,NAFLD,PTGR1,Prostaglandin reductase 1,Inverse variance weighted,12,0.99 [0.87-1.11],0.825829034699515,cis
+Chapter XI Diseases of the digestive system,NAFLD,CPM,Carboxypeptidase M,Inverse variance weighted,4,1.07 [0.58-1.98],0.828551773897414,cis
+Chapter XI Diseases of the digestive system,NAFLD,SETMAR,Histone-lysine N-methyltransferase SETMAR,Inverse variance weighted,6,1.03 [0.78-1.37],0.828850232708965,cis
+Chapter XI Diseases of the digestive system,NAFLD,ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Inverse variance weighted,16,0.98 [0.82-1.17],0.835866648403118,cis
+Chapter XI Diseases of the digestive system,NAFLD,GGH,Gamma-glutamyl hydrolase,Inverse variance weighted,23,0.99 [0.87-1.12],0.836671225501759,cis
+Chapter XI Diseases of the digestive system,NAFLD,DPP10,Inactive dipeptidyl peptidase 10,Inverse variance weighted,13,0.98 [0.81-1.19],0.838518958638956,cis
+Chapter XI Diseases of the digestive system,NAFLD,RNASE4,Ribonuclease 4,Inverse variance weighted,11,0.98 [0.83-1.16],0.839382982578157,cis
+Chapter XI Diseases of the digestive system,NAFLD,ANGPT2,Angiopoietin-2,Inverse variance weighted,4,1.03 [0.78-1.36],0.843629979651199,cis
+Chapter XI Diseases of the digestive system,NAFLD,GSN,Gelsolin,Inverse variance weighted,5,0.93 [0.45-1.92],0.849494158961486,cis
+Chapter XI Diseases of the digestive system,NAFLD,SMOC1,SPARC-related modular calcium-binding protein 1,Inverse variance weighted,15,1.02 [0.87-1.18],0.849566370789277,cis
+Chapter XI Diseases of the digestive system,NAFLD,STC1,Stanniocalcin-1,Inverse variance weighted,2,0.92 [0.38-2.21],0.855893645035307,cis
+Chapter XI Diseases of the digestive system,NAFLD,OCLN,Occludin,Inverse variance weighted,2,0.96 [0.61-1.51],0.856139120925935,cis
+Chapter XI Diseases of the digestive system,NAFLD,PTPRH,Receptor-type tyrosine-protein phosphatase H,Inverse variance weighted,21,1.01 [0.92-1.11],0.856345122737607,cis
+Chapter XI Diseases of the digestive system,NAFLD,SPINT1,Kunitz-type protease inhibitor 1,Inverse variance weighted,7,0.98 [0.77-1.24],0.85703470529061,cis
+Chapter XI Diseases of the digestive system,NAFLD,INSL5,Insulin-like peptide INSL5,Inverse variance weighted,3,1.03 [0.75-1.41],0.857233055070202,cis
+Chapter XI Diseases of the digestive system,NAFLD,FSTL1,Follistatin-related protein 1,Inverse variance weighted,3,1.04 [0.69-1.56],0.857300941731182,cis
+Chapter XI Diseases of the digestive system,NAFLD,HAVCR2,Hepatitis A virus cellular receptor 2,Inverse variance weighted,6,1.01 [0.91-1.12],0.859621814247801,cis
+Chapter XI Diseases of the digestive system,NAFLD,SELE,E-selectin,Inverse variance weighted,4,0.91 [0.32-2.58],0.860909193640254,cis
+Chapter XI Diseases of the digestive system,NAFLD,TNFRSF4,Tumor necrosis factor receptor superfamily member 4,Inverse variance weighted,5,0.96 [0.62-1.5],0.870068410374169,cis
+Chapter XI Diseases of the digestive system,NAFLD,ENPP7,Ectonucleotide pyrophosphatase/phosphodiesterase family member 7,Inverse variance weighted,26,1.01 [0.91-1.11],0.874638660366715,cis
+Chapter XI Diseases of the digestive system,NAFLD,GAS2,Growth arrest-specific protein 2,Wald ratio,1,0.96 [0.55-1.67],0.878607944935403,cis
+Chapter XI Diseases of the digestive system,NAFLD,CDHR2,Cadherin-related family member 2,Inverse variance weighted,2,1.04 [0.6-1.82],0.880778780736767,cis
+Chapter XI Diseases of the digestive system,NAFLD,TGFB1,Transforming growth factor beta-1 proprotein,Inverse variance weighted,5,1.02 [0.78-1.32],0.886634719263568,cis
+Chapter XI Diseases of the digestive system,NAFLD,TGFBI,Transforming growth factor-beta-induced protein ig-h3,Inverse variance weighted,32,0.99 [0.87-1.12],0.895288921357564,cis
+Chapter XI Diseases of the digestive system,NAFLD,WFDC2,WAP four-disulfide core domain protein 2,Inverse variance weighted,2,0.97 [0.57-1.63],0.89919010787096,cis
+Chapter XI Diseases of the digestive system,NAFLD,CHI3L1,Chitinase-3-like protein 1,Inverse variance weighted,21,0.99 [0.87-1.13],0.900007609927994,cis
+Chapter XI Diseases of the digestive system,NAFLD,CRHBP,Corticotropin-releasing factor-binding protein,Inverse variance weighted,28,0.99 [0.9-1.1],0.900955592869954,cis
+Chapter XI Diseases of the digestive system,NAFLD,BST2,Bone marrow stromal antigen 2,Inverse variance weighted,2,1.02 [0.78-1.32],0.904258231795198,cis
+Chapter XI Diseases of the digestive system,NAFLD,UPB1,Beta-ureidopropionase,Inverse variance weighted,3,0.96 [0.53-1.75],0.905475894485232,cis
+Chapter XI Diseases of the digestive system,NAFLD,ACP5,Tartrate-resistant acid phosphatase type 5,Inverse variance weighted,14,1.01 [0.8-1.28],0.906314355499233,cis
+Chapter XI Diseases of the digestive system,NAFLD,CTSD,Cathepsin D,Inverse variance weighted,17,0.99 [0.84-1.17],0.906549320951896,cis
+Chapter XI Diseases of the digestive system,NAFLD,PBLD,Phenazine biosynthesis-like domain-containing protein,Inverse variance weighted,23,1.01 [0.89-1.14],0.910453891364244,cis
+Chapter XI Diseases of the digestive system,NAFLD,ENPP2,Ectonucleotide pyrophosphatase/phosphodiesterase family member 2,Inverse variance weighted,22,1.01 [0.86-1.19],0.912308157308966,cis
+Chapter XI Diseases of the digestive system,NAFLD,MFAP4,Microfibril-associated glycoprotein 4,Inverse variance weighted,4,1.02 [0.76-1.35],0.912686235048531,cis
+Chapter XI Diseases of the digestive system,NAFLD,QSOX1,Sulfhydryl oxidase 1,Inverse variance weighted,24,1.01 [0.89-1.15],0.913298020082629,cis
+Chapter XI Diseases of the digestive system,NAFLD,GAS6,Growth arrest-specific protein 6,Inverse variance weighted,9,1.02 [0.67-1.56],0.916687757634976,cis
+Chapter XI Diseases of the digestive system,NAFLD,IFI30,Gamma-interferon-inducible lysosomal thiol reductase,Inverse variance weighted,13,1.01 [0.88-1.16],0.919826822897699,cis
+Chapter XI Diseases of the digestive system,NAFLD,CD302,CD302 antigen,Inverse variance weighted,9,1.01 [0.83-1.23],0.920569447522752,cis
+Chapter XI Diseases of the digestive system,NAFLD,ANPEP,Aminopeptidase N,Inverse variance weighted,23,0.99 [0.88-1.12],0.920845696871982,cis
+Chapter XI Diseases of the digestive system,NAFLD,IDUA,Alpha-L-iduronidase,Inverse variance weighted,35,1 [0.9-1.1],0.923520073477508,cis
+Chapter XI Diseases of the digestive system,NAFLD,CD22,B-cell receptor CD22,Inverse variance weighted,6,0.99 [0.8-1.22],0.929424452547687,cis
+Chapter XI Diseases of the digestive system,NAFLD,ACAA1,"3-ketoacyl-CoA thiolase, peroxisomal",Inverse variance weighted,3,0.96 [0.38-2.45],0.93183598180891,cis
+Chapter XI Diseases of the digestive system,NAFLD,IL1RAP,Interleukin-1 receptor accessory protein,Inverse variance weighted,24,1 [0.94-1.06],0.93564108267138,cis
+Chapter XI Diseases of the digestive system,NAFLD,SCARB2,Lysosome membrane protein 2,Inverse variance weighted,7,1.01 [0.8-1.27],0.936749423933018,cis
+Chapter XI Diseases of the digestive system,NAFLD,NPL,N-acetylneuraminate lyase,Inverse variance weighted,11,0.99 [0.79-1.24],0.937026278368273,cis
+Chapter XI Diseases of the digestive system,NAFLD,LAMB1,Laminin subunit beta-1,Inverse variance weighted,35,1 [0.9-1.1],0.938289940899535,cis
+Chapter XI Diseases of the digestive system,NAFLD,DSC2,Desmocollin-2,Inverse variance weighted,9,0.99 [0.82-1.21],0.939950571716579,cis
+Chapter XI Diseases of the digestive system,NAFLD,CFH,Complement factor H,Inverse variance weighted,19,1.01 [0.85-1.19],0.941049574280285,cis
+Chapter XI Diseases of the digestive system,NAFLD,OXT,Oxytocin-neurophysin 1,Inverse variance weighted,23,1 [0.89-1.13],0.94107833296166,cis
+Chapter XI Diseases of the digestive system,NAFLD,NIT2,Omega-amidase NIT2,Inverse variance weighted,3,1.03 [0.39-2.72],0.944450615872291,cis
+Chapter XI Diseases of the digestive system,NAFLD,PLAUR,Urokinase plasminogen activator surface receptor,Inverse variance weighted,2,0.99 [0.66-1.47],0.944994384064921,cis
+Chapter XI Diseases of the digestive system,NAFLD,TPP1,Tripeptidyl-peptidase 1,Inverse variance weighted,6,0.99 [0.65-1.49],0.94539082342885,cis
+Chapter XI Diseases of the digestive system,NAFLD,MVK,Mevalonate kinase,Inverse variance weighted,2,1.02 [0.54-1.93],0.945723382702603,cis
+Chapter XI Diseases of the digestive system,NAFLD,ICAM1,Intercellular adhesion molecule 1,Inverse variance weighted,28,1 [0.9-1.12],0.955240020003318,cis
+Chapter XI Diseases of the digestive system,NAFLD,CTSO,Cathepsin O,Inverse variance weighted,6,0.99 [0.67-1.47],0.958172716904168,cis
+Chapter XI Diseases of the digestive system,NAFLD,NT5E,5'-nucleotidase,Inverse variance weighted,45,1 [0.91-1.09],0.959707894367201,cis
+Chapter XI Diseases of the digestive system,NAFLD,SIGLEC9,Sialic acid-binding Ig-like lectin 9,Inverse variance weighted,23,1 [0.86-1.18],0.963388061312441,cis
+Chapter XI Diseases of the digestive system,NAFLD,CTBS,Di-N-acetylchitobiase,Inverse variance weighted,11,1 [0.92-1.08],0.971499658475014,cis
+Chapter XI Diseases of the digestive system,NAFLD,SCPEP1,Retinoid-inducible serine carboxypeptidase,Inverse variance weighted,9,1.01 [0.63-1.61],0.974421118993643,cis
+Chapter XI Diseases of the digestive system,NAFLD,BSG,Basigin,Wald ratio,1,1 [0.65-1.53],0.983485526014313,cis
+Chapter XI Diseases of the digestive system,NAFLD,CKAP4,Cytoskeleton-associated protein 4,Inverse variance weighted,10,1 [0.8-1.25],0.985118982340858,cis
+Chapter XI Diseases of the digestive system,NAFLD,FBP1,"Fructose-1,6-bisphosphatase 1",Inverse variance weighted,10,1 [0.83-1.21],0.985576054490117,cis
+Chapter XI Diseases of the digestive system,NAFLD,MTUS1,Microtubule-associated tumor suppressor 1,Inverse variance weighted,5,1 [0.74-1.35],0.993070285206119,cis
+Chapter XI Diseases of the digestive system,NAFLD,RIDA,2-iminobutanoate/2-iminopropanoate deaminase,Inverse variance weighted,7,1 [0.83-1.21],0.997363540790397,cis
+Chapter XI Diseases of the digestive system,NAFLD,GSTA1,Glutathione S-transferase A1,Wald ratio,1,164.69 [48.27-561.96],3.61237714918871e-16,trans
+Chapter XI Diseases of the digestive system,NAFLD,SDHB,Succinate dehydrogenase,Inverse variance weighted,10,2.63 [1.81-3.81],3.61128957002095e-07,trans
+Chapter XI Diseases of the digestive system,NAFLD,ADH1B,All-trans-retinol dehydrogenase,Wald ratio,1,7.87 [3.47-17.85],7.79461369322636e-07,trans
+Chapter XI Diseases of the digestive system,NAFLD,BST2,Bone marrow stromal antigen 2,Inverse variance weighted,24,1.69 [1.26-2.28],0.000478493625975899,trans
+Chapter XI Diseases of the digestive system,NAFLD,MENT,Protein MENT,Inverse variance weighted,28,0.76 [0.65-0.89],0.000938416561115449,trans
+Chapter XI Diseases of the digestive system,NAFLD,SERPINF1,Pigment epithelium-derived factor,Wald ratio,1,11.39 [2.66-48.8],0.00104587924097634,trans
+Chapter XI Diseases of the digestive system,NAFLD,ECHDC3,"Enoyl-CoA hydratase domain-containing protein 3, mitochondrial",Inverse variance weighted,3,4.2 [1.72-10.24],0.00158222856662286,trans
+Chapter XI Diseases of the digestive system,NAFLD,SCLY,Selenocysteine lyase,Inverse variance weighted,4,2.9 [1.44-5.83],0.00286640436235367,trans
+Chapter XI Diseases of the digestive system,NAFLD,COQ7,"5-demethoxyubiquinone hydroxylase, mitochondrial",Inverse variance weighted,7,2.19 [1.29-3.7],0.00369161496021339,trans
+Chapter XI Diseases of the digestive system,NAFLD,FABP4,"Fatty acid-binding protein, adipocyte",Wald ratio,1,0.35 [0.17-0.75],0.00692184244428557,trans
+Chapter XI Diseases of the digestive system,NAFLD,ASS1,Argininosuccinate synthase,Inverse variance weighted,2,3.08 [1.34-7.08],0.00808622326201064,trans
+Chapter XI Diseases of the digestive system,NAFLD,ANPEP,Aminopeptidase N,Inverse variance weighted,2,3.54 [1.39-9.04],0.00809844901816629,trans
+Chapter XI Diseases of the digestive system,NAFLD,GUSB,Beta-glucuronidase,Inverse variance weighted,31,1.52 [1.11-2.08],0.00933179411763383,trans
+Chapter XI Diseases of the digestive system,NAFLD,SOD2,"Superoxide dismutase [Mn], mitochondrial",Inverse variance weighted,7,1.87 [1.16-3],0.0100729630507529,trans
+Chapter XI Diseases of the digestive system,NAFLD,PHYKPL,5-phosphohydroxy-L-lysine phospho-lyase,Inverse variance weighted,2,0.26 [0.09-0.73],0.0108022071489548,trans
+Chapter XI Diseases of the digestive system,NAFLD,LPL,Lipoprotein lipase,Inverse variance weighted,8,0.34 [0.14-0.78],0.0117626692846688,trans
+Chapter XI Diseases of the digestive system,NAFLD,KHK,Ketohexokinase,Inverse variance weighted,4,2.31 [1.19-4.47],0.0131950145827787,trans
+Chapter XI Diseases of the digestive system,NAFLD,HMOX2,Heme oxygenase 2,Inverse variance weighted,3,2.12 [1.17-3.84],0.0134742079839554,trans
+Chapter XI Diseases of the digestive system,NAFLD,HAO1,Hydroxyacid oxidase 1,Inverse variance weighted,6,1.74 [1.12-2.72],0.0146969829927694,trans
+Chapter XI Diseases of the digestive system,NAFLD,FGF21,Fibroblast growth factor 21,Inverse variance weighted,2,2.97 [1.22-7.25],0.0165946705488597,trans
+Chapter XI Diseases of the digestive system,NAFLD,CFH,Complement factor H,Inverse variance weighted,7,0.65 [0.46-0.93],0.0169973596674331,trans
+Chapter XI Diseases of the digestive system,NAFLD,IDUA,Alpha-L-iduronidase,Inverse variance weighted,18,1.79 [1.11-2.89],0.0170817798700081,trans
+Chapter XI Diseases of the digestive system,NAFLD,RTN4R,Reticulon-4 receptor,Inverse variance weighted,8,1.85 [1.11-3.09],0.0180446573056905,trans
+Chapter XI Diseases of the digestive system,NAFLD,CCL16,C-C motif chemokine 16,Inverse variance weighted,26,1.1 [1.02-1.19],0.0187417391439274,trans
+Chapter XI Diseases of the digestive system,NAFLD,ADGRG1,Adhesion G-protein coupled receptor G1,Inverse variance weighted,4,0.42 [0.21-0.87],0.0195161327081624,trans
+Chapter XI Diseases of the digestive system,NAFLD,AGR2,Anterior gradient protein 2 homolog,Inverse variance weighted,2,0.41 [0.19-0.87],0.0198777871987133,trans
+Chapter XI Diseases of the digestive system,NAFLD,TPP1,Tripeptidyl-peptidase 1,Inverse variance weighted,11,1.51 [1.07-2.14],0.0205938520038228,trans
+Chapter XI Diseases of the digestive system,NAFLD,TNFRSF11B,Tumor necrosis factor receptor superfamily member 11B,Inverse variance weighted,25,1.34 [1.04-1.71],0.02091279560767,trans
+Chapter XI Diseases of the digestive system,NAFLD,CTSO,Cathepsin O,Inverse variance weighted,19,1.41 [1.04-1.91],0.0260875723618201,trans
+Chapter XI Diseases of the digestive system,NAFLD,LY9,T-lymphocyte surface antigen Ly-9,Inverse variance weighted,11,0.68 [0.48-0.96],0.0273505969233569,trans
+Chapter XI Diseases of the digestive system,NAFLD,GRPEL1,"GrpE protein homolog 1, mitochondrial",Inverse variance weighted,2,2.25 [1.09-4.65],0.0290059719801349,trans
+Chapter XI Diseases of the digestive system,NAFLD,AGXT,Serine--pyruvate aminotransferase,Inverse variance weighted,12,1.82 [1.05-3.16],0.0320085415663038,trans
+Chapter XI Diseases of the digestive system,NAFLD,CLSTN3,Calsyntenin-3,Inverse variance weighted,7,1.59 [1.04-2.43],0.0328763384122625,trans
+Chapter XI Diseases of the digestive system,NAFLD,CDHR2,Cadherin-related family member 2,Inverse variance weighted,13,1.77 [1.05-3.01],0.033146187275628,trans
+Chapter XI Diseases of the digestive system,NAFLD,ADH4,All-trans-retinol dehydrogenase [NAD(+)] ADH4,Wald ratio,1,4.36 [1.12-16.92],0.0335067255209473,trans
+Chapter XI Diseases of the digestive system,NAFLD,PRSS2,Trypsin-2,Inverse variance weighted,17,1.28 [1.02-1.62],0.0358515143508774,trans
+Chapter XI Diseases of the digestive system,NAFLD,KRT18,"Keratin, type I cytoskeletal 18",Inverse variance weighted,7,1.91 [1.02-3.57],0.0418092983913044,trans
+Chapter XI Diseases of the digestive system,NAFLD,HAVCR2,Hepatitis A virus cellular receptor 2,Inverse variance weighted,8,1.3 [1.01-1.67],0.0444543062168544,trans
+Chapter XI Diseases of the digestive system,NAFLD,CPXM2,Inactive carboxypeptidase-like protein X2,Inverse variance weighted,26,1.14 [1-1.29],0.0445166392707552,trans
+Chapter XI Diseases of the digestive system,NAFLD,SULT2A1,Bile salt sulfotransferase,Inverse variance weighted,3,2.57 [1-6.58],0.0489794989633946,trans
+Chapter XI Diseases of the digestive system,NAFLD,IGFBP4,Insulin-like growth factor-binding protein 4,Inverse variance weighted,3,0.46 [0.22-1],0.0489850932242866,trans
+Chapter XI Diseases of the digestive system,NAFLD,GGT1,Glutathione hydrolase 1 proenzyme,Inverse variance weighted,6,1.68 [0.99-2.86],0.0535581917876468,trans
+Chapter XI Diseases of the digestive system,NAFLD,FAS,Tumor necrosis factor receptor superfamily member 6,Inverse variance weighted,12,1.19 [1-1.42],0.055572549685218,trans
+Chapter XI Diseases of the digestive system,NAFLD,VMO1,Vitelline membrane outer layer protein 1 homolog,Inverse variance weighted,8,0.58 [0.33-1.02],0.0580234931881943,trans
+Chapter XI Diseases of the digestive system,NAFLD,TCOF1,Treacle protein,Wald ratio,1,3.75 [0.94-14.96],0.0610381637860848,trans
+Chapter XI Diseases of the digestive system,NAFLD,CD83,CD83 antigen,Inverse variance weighted,14,0.73 [0.53-1.01],0.0613812279383677,trans
+Chapter XI Diseases of the digestive system,NAFLD,BMPER,BMP-binding endothelial regulator protein,Inverse variance weighted,4,0.57 [0.32-1.03],0.0619839513712403,trans
+Chapter XI Diseases of the digestive system,NAFLD,INHBC,Inhibin beta C chain,Inverse variance weighted,12,1.34 [0.98-1.82],0.0639976094221206,trans
+Chapter XI Diseases of the digestive system,NAFLD,MUC13,Mucin-13,Inverse variance weighted,3,2.14 [0.95-4.79],0.0647094344134766,trans
+Chapter XI Diseases of the digestive system,NAFLD,VNN1,Pantetheinase,Inverse variance weighted,25,1.35 [0.98-1.86],0.0654645882591551,trans
+Chapter XI Diseases of the digestive system,NAFLD,CHCHD10,"Coiled-coil-helix-coiled-coil-helix domain-containing protein 10, mitochondrial",Inverse variance weighted,2,1.6 [0.97-2.66],0.0676783464479855,trans
+Chapter XI Diseases of the digestive system,NAFLD,PRCP,Lysosomal Pro-X carboxypeptidase,Inverse variance weighted,22,0.85 [0.71-1.01],0.0686197986172961,trans
+Chapter XI Diseases of the digestive system,NAFLD,EPHA2,Ephrin type-A receptor 2,Inverse variance weighted,3,0.44 [0.19-1.07],0.0698732419075013,trans
+Chapter XI Diseases of the digestive system,NAFLD,PDCD1,Programmed cell death protein 1,Inverse variance weighted,16,0.77 [0.58-1.02],0.0703991940716176,trans
+Chapter XI Diseases of the digestive system,NAFLD,ADA2,Adenosine deaminase 2,Inverse variance weighted,10,1.35 [0.97-1.86],0.0725716959081759,trans
+Chapter XI Diseases of the digestive system,NAFLD,CFI,Complement factor I,Wald ratio,1,5.11 [0.86-30.46],0.0729967964240493,trans
+Chapter XI Diseases of the digestive system,NAFLD,CA5A,"Carbonic anhydrase 5A, mitochondrial",Inverse variance weighted,4,3.89 [0.85-17.81],0.0804697986166253,trans
+Chapter XI Diseases of the digestive system,NAFLD,CCL15,C-C motif chemokine 15,Inverse variance weighted,28,0.93 [0.86-1.01],0.0815836691829222,trans
+Chapter XI Diseases of the digestive system,NAFLD,IL18R1,Interleukin-18 receptor 1,Inverse variance weighted,22,1.19 [0.98-1.46],0.0839112782068897,trans
+Chapter XI Diseases of the digestive system,NAFLD,ITGA5,Integrin alpha-5,Inverse variance weighted,18,1.32 [0.96-1.81],0.0877728166644803,trans
+Chapter XI Diseases of the digestive system,NAFLD,C19orf12,Protein C19orf12,Inverse variance weighted,3,1.79 [0.91-3.53],0.0919481430920183,trans
+Chapter XI Diseases of the digestive system,NAFLD,PLAT,Tissue-type plasminogen activator,Inverse variance weighted,5,1.57 [0.93-2.67],0.0930486537732145,trans
+Chapter XI Diseases of the digestive system,NAFLD,DCXR,L-xylulose reductase,Inverse variance weighted,9,2.11 [0.88-5.09],0.0959892055006459,trans
+Chapter XI Diseases of the digestive system,NAFLD,IMMT,MICOS complex subunit MIC60,Wald ratio,1,0.44 [0.16-1.18],0.102776603391831,trans
+Chapter XI Diseases of the digestive system,NAFLD,MAN2B2,Epididymis-specific alpha-mannosidase,Inverse variance weighted,38,1.25 [0.94-1.67],0.117246572524061,trans
+Chapter XI Diseases of the digestive system,NAFLD,NPC2,NPC intracellular cholesterol transporter 2,Inverse variance weighted,7,1.4 [0.91-2.15],0.123803609500719,trans
+Chapter XI Diseases of the digestive system,NAFLD,IGFBPL1,Insulin-like growth factor-binding protein-like 1,Inverse variance weighted,4,0.51 [0.21-1.21],0.125751475065216,trans
+Chapter XI Diseases of the digestive system,NAFLD,CCL4,C-C motif chemokine 4,Inverse variance weighted,37,0.9 [0.78-1.03],0.132105260319599,trans
+Chapter XI Diseases of the digestive system,NAFLD,MMP7,Matrilysin,Wald ratio,1,0.66 [0.38-1.13],0.132264077736752,trans
+Chapter XI Diseases of the digestive system,NAFLD,RNASE4,Ribonuclease 4,Inverse variance weighted,2,0.51 [0.22-1.23],0.135119354386849,trans
+Chapter XI Diseases of the digestive system,NAFLD,NFASC,Neurofascin,Inverse variance weighted,6,0.66 [0.38-1.15],0.140948845091934,trans
+Chapter XI Diseases of the digestive system,NAFLD,GCG,Pro-glucagon,Inverse variance weighted,2,0.51 [0.21-1.26],0.143186207169333,trans
+Chapter XI Diseases of the digestive system,NAFLD,C1QTNF1,Complement C1q tumor necrosis factor-related protein 1,Inverse variance weighted,11,0.9 [0.78-1.04],0.147347308430627,trans
+Chapter XI Diseases of the digestive system,NAFLD,VCAM1,Vascular cell adhesion protein 1,Inverse variance weighted,9,0.69 [0.41-1.15],0.151228889216602,trans
+Chapter XI Diseases of the digestive system,NAFLD,GIPC2,PDZ domain-containing protein GIPC2,Inverse variance weighted,2,2.32 [0.73-7.35],0.151513438982017,trans
+Chapter XI Diseases of the digestive system,NAFLD,APOD,Apolipoprotein D,Inverse variance weighted,9,0.73 [0.48-1.12],0.154496318363633,trans
+Chapter XI Diseases of the digestive system,NAFLD,MVK,Mevalonate kinase,Wald ratio,1,0.13 [0.01-2.18],0.154507612754806,trans
+Chapter XI Diseases of the digestive system,NAFLD,GGT5,Glutathione hydrolase 5 proenzyme,Inverse variance weighted,2,71.77 [0.2-25948.7],0.155039011401349,trans
+Chapter XI Diseases of the digestive system,NAFLD,CD22,B-cell receptor CD22,Inverse variance weighted,25,0.84 [0.67-1.07],0.156007958326785,trans
+Chapter XI Diseases of the digestive system,NAFLD,TREH,Trehalase,Inverse variance weighted,15,1.46 [0.86-2.48],0.157483349882262,trans
+Chapter XI Diseases of the digestive system,NAFLD,NHLRC3,NHL repeat-containing protein 3,Inverse variance weighted,5,0.68 [0.39-1.17],0.160998071648857,trans
+Chapter XI Diseases of the digestive system,NAFLD,TEK,Angiopoietin-1 receptor,Inverse variance weighted,13,1.09 [0.97-1.22],0.163412486112818,trans
+Chapter XI Diseases of the digestive system,NAFLD,FABP1,"Fatty acid-binding protein, liver",Inverse variance weighted,2,2.18 [0.72-6.56],0.165245740354186,trans
+Chapter XI Diseases of the digestive system,NAFLD,VSNL1,Visinin-like protein 1,Inverse variance weighted,9,1.17 [0.94-1.45],0.16695721942384,trans
+Chapter XI Diseases of the digestive system,NAFLD,RIDA,2-iminobutanoate/2-iminopropanoate deaminase,Inverse variance weighted,6,3.41 [0.6-19.48],0.168168096702929,trans
+Chapter XI Diseases of the digestive system,NAFLD,PVR,Poliovirus receptor,Inverse variance weighted,3,2.72 [0.65-11.27],0.168871565392,trans
+Chapter XI Diseases of the digestive system,NAFLD,PRAP1,Proline-rich acidic protein 1,Inverse variance weighted,8,1.19 [0.93-1.52],0.172275002952619,trans
+Chapter XI Diseases of the digestive system,NAFLD,SPINT2,Kunitz-type protease inhibitor 2,Inverse variance weighted,7,0.81 [0.59-1.1],0.172465601650722,trans
+Chapter XI Diseases of the digestive system,NAFLD,ADIPOQ,Adiponectin,Inverse variance weighted,25,0.87 [0.71-1.06],0.17464223398337,trans
+Chapter XI Diseases of the digestive system,NAFLD,IGSF9,Protein turtle homolog A,Inverse variance weighted,2,1.81 [0.77-4.29],0.175336236811203,trans
+Chapter XI Diseases of the digestive system,NAFLD,BCAM,Basal cell adhesion molecule,Inverse variance weighted,22,1.09 [0.96-1.22],0.177258351808049,trans
+Chapter XI Diseases of the digestive system,NAFLD,MASP1,Mannan-binding lectin serine protease 1,Inverse variance weighted,28,0.91 [0.79-1.05],0.180336954223717,trans
+Chapter XI Diseases of the digestive system,NAFLD,ICAM1,Intercellular adhesion molecule 1,Inverse variance weighted,4,0.75 [0.49-1.15],0.182679382609979,trans
+Chapter XI Diseases of the digestive system,NAFLD,CTBS,Di-N-acetylchitobiase,Inverse variance weighted,20,0.86 [0.69-1.08],0.192928333429983,trans
+Chapter XI Diseases of the digestive system,NAFLD,CEACAM1,Carcinoembryonic antigen-related cell adhesion molecule 1,Inverse variance weighted,11,1.22 [0.9-1.66],0.193804860724354,trans
+Chapter XI Diseases of the digestive system,NAFLD,UMOD,Uromodulin,Inverse variance weighted,34,0.88 [0.72-1.07],0.193836691498138,trans
+Chapter XI Diseases of the digestive system,NAFLD,IGSF3,Immunoglobulin superfamily member 3,Inverse variance weighted,4,1.49 [0.81-2.74],0.19463118839697,trans
+Chapter XI Diseases of the digestive system,NAFLD,CD302,CD302 antigen,Inverse variance weighted,11,1.21 [0.91-1.6],0.196033503793675,trans
+Chapter XI Diseases of the digestive system,NAFLD,MAMDC4,Apical endosomal glycoprotein,Inverse variance weighted,6,1.22 [0.9-1.65],0.199709168544751,trans
+Chapter XI Diseases of the digestive system,NAFLD,FGF23,Fibroblast growth factor 23,Inverse variance weighted,15,0.84 [0.63-1.1],0.201650327075532,trans
+Chapter XI Diseases of the digestive system,NAFLD,ITGBL1,Integrin beta-like protein 1,Inverse variance weighted,5,0.59 [0.26-1.33],0.204163842575021,trans
+Chapter XI Diseases of the digestive system,NAFLD,CXCL10,C-X-C motif chemokine 10,Inverse variance weighted,6,1.38 [0.84-2.28],0.206976275576288,trans
+Chapter XI Diseases of the digestive system,NAFLD,IGFBP7,Insulin-like growth factor-binding protein 7,Inverse variance weighted,4,1.65 [0.76-3.57],0.208207884844908,trans
+Chapter XI Diseases of the digestive system,NAFLD,NPL,N-acetylneuraminate lyase,Inverse variance weighted,5,1.43 [0.82-2.49],0.20899730052029,trans
+Chapter XI Diseases of the digestive system,NAFLD,ECHS1,"Enoyl-CoA hydratase, mitochondrial",Inverse variance weighted,5,1.23 [0.89-1.71],0.211275487294731,trans
+Chapter XI Diseases of the digestive system,NAFLD,QDPR,Dihydropteridine reductase,Wald ratio,1,0.13 [0.01-3.18],0.211977113139698,trans
+Chapter XI Diseases of the digestive system,NAFLD,GRN,Progranulin,Inverse variance weighted,46,1.07 [0.96-1.18],0.212677477448217,trans
+Chapter XI Diseases of the digestive system,NAFLD,RBKS,Ribokinase,Inverse variance weighted,5,0.7 [0.41-1.22],0.213788503095707,trans
+Chapter XI Diseases of the digestive system,NAFLD,ENTPD6,Ectonucleoside triphosphate diphosphohydrolase 6,Inverse variance weighted,33,1.08 [0.96-1.21],0.214211908766572,trans
+Chapter XI Diseases of the digestive system,NAFLD,CDH2,Cadherin-2,Inverse variance weighted,21,1.33 [0.85-2.08],0.218732786033289,trans
+Chapter XI Diseases of the digestive system,NAFLD,CPQ,Carboxypeptidase Q,Inverse variance weighted,53,0.95 [0.87-1.03],0.223424884909925,trans
+Chapter XI Diseases of the digestive system,NAFLD,PON3,Serum paraoxonase/lactonase 3,Inverse variance weighted,12,0.87 [0.69-1.09],0.229739692612313,trans
+Chapter XI Diseases of the digestive system,NAFLD,PRUNE2,Protein prune homolog 2,Wald ratio,1,0.42 [0.1-1.74],0.229946320346746,trans
+Chapter XI Diseases of the digestive system,NAFLD,BPIFB2,BPI fold-containing family B member 2,Inverse variance weighted,37,1.08 [0.95-1.23],0.232748628880327,trans
+Chapter XI Diseases of the digestive system,NAFLD,MEGF9,Multiple epidermal growth factor-like domains protein 9,Inverse variance weighted,22,0.91 [0.78-1.06],0.238803424829969,trans
+Chapter XI Diseases of the digestive system,NAFLD,EPS8L2,Epidermal growth factor receptor kinase substrate 8-like protein 2,Wald ratio,1,0.45 [0.12-1.7],0.24136248971859,trans
+Chapter XI Diseases of the digestive system,NAFLD,KYNU,Kynureninase,Inverse variance weighted,3,2.16 [0.59-7.92],0.243483266938929,trans
+Chapter XI Diseases of the digestive system,NAFLD,TNFRSF6B,Tumor necrosis factor receptor superfamily member 6B,Inverse variance weighted,24,0.91 [0.78-1.07],0.244138353090133,trans
+Chapter XI Diseases of the digestive system,NAFLD,ANGPT2,Angiopoietin-2,Inverse variance weighted,7,1.45 [0.78-2.69],0.244449152054601,trans
+Chapter XI Diseases of the digestive system,NAFLD,COL18A1,Collagen alpha-1(XVIII) chain,Inverse variance weighted,17,0.88 [0.72-1.09],0.24465643656312,trans
+Chapter XI Diseases of the digestive system,NAFLD,GPRC5C,G-protein coupled receptor family C group 5 member C,Inverse variance weighted,7,1.37 [0.8-2.34],0.24531171247434,trans
+Chapter XI Diseases of the digestive system,NAFLD,TP53I3,Quinone oxidoreductase PIG3,Inverse variance weighted,4,0.8 [0.55-1.17],0.248148279574154,trans
+Chapter XI Diseases of the digestive system,NAFLD,PRSS8,Prostasin,Inverse variance weighted,14,1.18 [0.89-1.57],0.249720972502971,trans
+Chapter XI Diseases of the digestive system,NAFLD,ADAMTS13,A disintegrin and metalloproteinase with thrombospondin motifs 13,Inverse variance weighted,34,1.08 [0.95-1.24],0.255367365815315,trans
+Chapter XI Diseases of the digestive system,NAFLD,NIT2,Omega-amidase NIT2,Inverse variance weighted,2,2.24 [0.55-9.09],0.257173363465089,trans
+Chapter XI Diseases of the digestive system,NAFLD,LAMP2,Lysosome-associated membrane glycoprotein 2,Inverse variance weighted,6,1.56 [0.72-3.39],0.261259963134018,trans
+Chapter XI Diseases of the digestive system,NAFLD,MARCO,Macrophage receptor MARCO,Inverse variance weighted,27,0.88 [0.7-1.1],0.264150357088178,trans
+Chapter XI Diseases of the digestive system,NAFLD,KCTD5,BTB/POZ domain-containing protein KCTD5,Inverse variance weighted,5,1.42 [0.77-2.61],0.264758129832028,trans
+Chapter XI Diseases of the digestive system,NAFLD,SIGLEC8,Sialic acid-binding Ig-like lectin 8,Inverse variance weighted,21,1.13 [0.91-1.41],0.265510986378822,trans
+Chapter XI Diseases of the digestive system,NAFLD,CD300E,CMRF35-like molecule 2,Inverse variance weighted,35,0.93 [0.83-1.05],0.26761897252695,trans
+Chapter XI Diseases of the digestive system,NAFLD,SERPINA9,Serpin A9,Wald ratio,1,0.43 [0.09-1.94],0.271389471569765,trans
+Chapter XI Diseases of the digestive system,NAFLD,LAMB1,Laminin subunit beta-1,Inverse variance weighted,21,1.11 [0.92-1.34],0.271450484421227,trans
+Chapter XI Diseases of the digestive system,NAFLD,LMNB2,Lamin-B2,Inverse variance weighted,8,0.78 [0.51-1.21],0.271607050562402,trans
+Chapter XI Diseases of the digestive system,NAFLD,IL18,Interleukin-18,Inverse variance weighted,26,0.91 [0.77-1.08],0.273452299791433,trans
+Chapter XI Diseases of the digestive system,NAFLD,HJV,Hemojuvelin,Inverse variance weighted,2,1.75 [0.64-4.8],0.278875068282839,trans
+Chapter XI Diseases of the digestive system,NAFLD,CD274,Programmed cell death 1 ligand 1,Inverse variance weighted,3,1.78 [0.62-5.09],0.279763408712101,trans
+Chapter XI Diseases of the digestive system,NAFLD,SSC5D,Soluble scavenger receptor cysteine-rich domain-containing protein SSC5D,Inverse variance weighted,26,1.13 [0.91-1.4],0.280032755602491,trans
+Chapter XI Diseases of the digestive system,NAFLD,ENPP2,Ectonucleotide pyrophosphatase/phosphodiesterase family member 2,Inverse variance weighted,16,1.86 [0.6-5.79],0.286522826331365,trans
+Chapter XI Diseases of the digestive system,NAFLD,SORT1,Sortilin,Inverse variance weighted,11,1.19 [0.86-1.65],0.286734328287722,trans
+Chapter XI Diseases of the digestive system,NAFLD,NT5C1A,Cytosolic 5'-nucleotidase 1A,Inverse variance weighted,4,0.83 [0.58-1.18],0.288022143622638,trans
+Chapter XI Diseases of the digestive system,NAFLD,PCBD1,Pterin-4-alpha-carbinolamine dehydratase,Inverse variance weighted,5,1.19 [0.86-1.65],0.289603532893211,trans
+Chapter XI Diseases of the digestive system,NAFLD,NPY,Pro-neuropeptide Y,Inverse variance weighted,15,0.87 [0.66-1.13],0.293082235145928,trans
+Chapter XI Diseases of the digestive system,NAFLD,LDLR,Low-density lipoprotein receptor,Inverse variance weighted,17,0.75 [0.44-1.29],0.294848687570149,trans
+Chapter XI Diseases of the digestive system,NAFLD,LAP3,Cytosol aminopeptidase,Inverse variance weighted,2,0.34 [0.04-2.57],0.295219531169733,trans
+Chapter XI Diseases of the digestive system,NAFLD,TGFB1,Transforming growth factor beta-1 proprotein,Inverse variance weighted,4,0.73 [0.41-1.32],0.297359682468624,trans
+Chapter XI Diseases of the digestive system,NAFLD,ADAM9,Disintegrin and metalloproteinase domain-containing protein 9,Inverse variance weighted,6,1.22 [0.84-1.79],0.298868576774833,trans
+Chapter XI Diseases of the digestive system,NAFLD,IFNLR1,Interferon lambda receptor 1,Wald ratio,1,1.75 [0.6-5.09],0.302529088536036,trans
+Chapter XI Diseases of the digestive system,NAFLD,HNMT,Histamine N-methyltransferase,Inverse variance weighted,10,1.19 [0.85-1.66],0.304808965039342,trans
+Chapter XI Diseases of the digestive system,NAFLD,CR1,Complement receptor type 1,Inverse variance weighted,15,1.2 [0.85-1.68],0.306398031185677,trans
+Chapter XI Diseases of the digestive system,NAFLD,ENO3,Beta-enolase,Inverse variance weighted,3,1.54 [0.67-3.54],0.313394371781443,trans
+Chapter XI Diseases of the digestive system,NAFLD,IL1R2,Interleukin-1 receptor type 2,Inverse variance weighted,15,0.86 [0.63-1.16],0.31497567650357,trans
+Chapter XI Diseases of the digestive system,NAFLD,FURIN,Furin,Inverse variance weighted,3,1.43 [0.71-2.87],0.319923960530626,trans
+Chapter XI Diseases of the digestive system,NAFLD,NECTIN2,Nectin-2,Inverse variance weighted,3,1.61 [0.62-4.18],0.323940405998903,trans
+Chapter XI Diseases of the digestive system,NAFLD,LILRB4,Leukocyte immunoglobulin-like receptor subfamily B member 4,Inverse variance weighted,3,0.43 [0.08-2.34],0.326860718802785,trans
+Chapter XI Diseases of the digestive system,NAFLD,RNASET2,Ribonuclease T2,Inverse variance weighted,10,0.87 [0.66-1.15],0.32775473274224,trans
+Chapter XI Diseases of the digestive system,NAFLD,CTSC,Dipeptidyl peptidase 1,Inverse variance weighted,12,0.86 [0.64-1.16],0.330865914181942,trans
+Chapter XI Diseases of the digestive system,NAFLD,FGFR2,Fibroblast growth factor receptor 2,Inverse variance weighted,13,0.85 [0.61-1.19],0.332692158513058,trans
+Chapter XI Diseases of the digestive system,NAFLD,FTCD,Formimidoyltransferase-cyclodeaminase,Inverse variance weighted,6,1.24 [0.8-1.93],0.339900501050164,trans
+Chapter XI Diseases of the digestive system,NAFLD,GFRA1,GDNF family receptor alpha-1,Inverse variance weighted,10,1.1 [0.9-1.34],0.340843108828324,trans
+Chapter XI Diseases of the digestive system,NAFLD,PLXNB2,Plexin-B2,Inverse variance weighted,12,0.81 [0.53-1.24],0.343303908385858,trans
+Chapter XI Diseases of the digestive system,NAFLD,CXCL8,Interleukin-8,Inverse variance weighted,8,0.86 [0.62-1.18],0.344871953637878,trans
+Chapter XI Diseases of the digestive system,NAFLD,LILRA2,Leukocyte immunoglobulin-like receptor subfamily A member 2,Inverse variance weighted,11,1.21 [0.81-1.82],0.348277851460124,trans
+Chapter XI Diseases of the digestive system,NAFLD,CLEC4D,C-type lectin domain family 4 member D,Inverse variance weighted,9,0.85 [0.6-1.2],0.350466035073047,trans
+Chapter XI Diseases of the digestive system,NAFLD,GHR,Growth hormone receptor,Inverse variance weighted,26,1.12 [0.88-1.41],0.357231164116532,trans
+Chapter XI Diseases of the digestive system,NAFLD,PTS,6-pyruvoyl tetrahydrobiopterin synthase,Wald ratio,1,2.02 [0.45-9.1],0.359436916227891,trans
+Chapter XI Diseases of the digestive system,NAFLD,BAIAP2,Brain-specific angiogenesis inhibitor 1-associated protein 2,Inverse variance weighted,3,0.71 [0.34-1.47],0.360574335568893,trans
+Chapter XI Diseases of the digestive system,NAFLD,CSF1,Macrophage colony-stimulating factor 1,Inverse variance weighted,6,1.31 [0.73-2.36],0.364162328273407,trans
+Chapter XI Diseases of the digestive system,NAFLD,LTBP3,Latent-transforming growth factor beta-binding protein 3,Inverse variance weighted,16,0.9 [0.73-1.13],0.366608820578888,trans
+Chapter XI Diseases of the digestive system,NAFLD,ADAMTSL2,ADAMTS-like protein 2,Inverse variance weighted,9,0.83 [0.55-1.25],0.368257756964111,trans
+Chapter XI Diseases of the digestive system,NAFLD,PILRA,Paired immunoglobulin-like type 2 receptor alpha,Inverse variance weighted,27,0.94 [0.83-1.07],0.368347262584953,trans
+Chapter XI Diseases of the digestive system,NAFLD,HGF,Hepatocyte growth factor,Inverse variance weighted,5,0.77 [0.44-1.36],0.370670780405165,trans
+Chapter XI Diseases of the digestive system,NAFLD,QSOX1,Sulfhydryl oxidase 1,Inverse variance weighted,7,1.15 [0.85-1.56],0.371159747772453,trans
+Chapter XI Diseases of the digestive system,NAFLD,GSTA3,Glutathione S-transferase A3,Inverse variance weighted,2,14.26 [0.04-5194.35],0.377101238817328,trans
+Chapter XI Diseases of the digestive system,NAFLD,IL6,Interleukin-6,Inverse variance weighted,6,1.16 [0.83-1.63],0.377118171634454,trans
+Chapter XI Diseases of the digestive system,NAFLD,AKR7L,Aflatoxin B1 aldehyde reductase member 4,Wald ratio,1,0.68 [0.29-1.6],0.378222137414498,trans
+Chapter XI Diseases of the digestive system,NAFLD,HAVCR1,Hepatitis A virus cellular receptor 1,Inverse variance weighted,21,1.13 [0.86-1.49],0.380731449140602,trans
+Chapter XI Diseases of the digestive system,NAFLD,SEMA7A,Semaphorin-7A,Inverse variance weighted,20,1.34 [0.69-2.57],0.385983375005406,trans
+Chapter XI Diseases of the digestive system,NAFLD,ANGPTL2,Angiopoietin-related protein 2,Inverse variance weighted,12,1.17 [0.82-1.67],0.387599775983038,trans
+Chapter XI Diseases of the digestive system,NAFLD,PLAU,Urokinase-type plasminogen activator,Inverse variance weighted,24,0.93 [0.8-1.09],0.389355947176133,trans
+Chapter XI Diseases of the digestive system,NAFLD,GOLM2,Protein GOLM2,Inverse variance weighted,14,0.92 [0.76-1.11],0.389619208539534,trans
+Chapter XI Diseases of the digestive system,NAFLD,ALCAM,CD166 antigen,Inverse variance weighted,4,0.84 [0.57-1.25],0.390564015777196,trans
+Chapter XI Diseases of the digestive system,NAFLD,IL13RA1,Interleukin-13 receptor subunit alpha-1,Inverse variance weighted,3,0.82 [0.52-1.29],0.394754637669149,trans
+Chapter XI Diseases of the digestive system,NAFLD,MFAP4,Microfibril-associated glycoprotein 4,Inverse variance weighted,15,1.14 [0.84-1.53],0.399490476077496,trans
+Chapter XI Diseases of the digestive system,NAFLD,GZMA,Granzyme A,Inverse variance weighted,18,1.13 [0.85-1.48],0.399778595762959,trans
+Chapter XI Diseases of the digestive system,NAFLD,HEG1,Protein HEG homolog 1,Inverse variance weighted,14,1.14 [0.84-1.55],0.400235697969091,trans
+Chapter XI Diseases of the digestive system,NAFLD,CES1,Liver carboxylesterase 1,Inverse variance weighted,19,0.86 [0.61-1.22],0.401017208048844,trans
+Chapter XI Diseases of the digestive system,NAFLD,AREG,Amphiregulin,Inverse variance weighted,5,1.26 [0.73-2.17],0.402139479608417,trans
+Chapter XI Diseases of the digestive system,NAFLD,CD72,B-cell differentiation antigen CD72,Inverse variance weighted,10,0.84 [0.56-1.26],0.403811885864042,trans
+Chapter XI Diseases of the digestive system,NAFLD,MET,Hepatocyte growth factor receptor,Inverse variance weighted,21,0.85 [0.58-1.25],0.405751218737329,trans
+Chapter XI Diseases of the digestive system,NAFLD,GGH,Gamma-glutamyl hydrolase,Inverse variance weighted,26,1.13 [0.85-1.5],0.405936251660908,trans
+Chapter XI Diseases of the digestive system,NAFLD,NT5E,5'-nucleotidase,Inverse variance weighted,45,1.07 [0.91-1.24],0.409966723151263,trans
+Chapter XI Diseases of the digestive system,NAFLD,PILRB,Paired immunoglobulin-like type 2 receptor beta,Inverse variance weighted,30,0.96 [0.88-1.06],0.412977723901865,trans
+Chapter XI Diseases of the digestive system,NAFLD,OXT,Oxytocin-neurophysin 1,Inverse variance weighted,10,1.28 [0.71-2.32],0.416421198169596,trans
+Chapter XI Diseases of the digestive system,NAFLD,LGALS4,Galectin-4,Inverse variance weighted,15,0.94 [0.81-1.09],0.417794612529619,trans
+Chapter XI Diseases of the digestive system,NAFLD,SEMA3F,Semaphorin-3F,Inverse variance weighted,32,1.09 [0.89-1.32],0.420651726542657,trans
+Chapter XI Diseases of the digestive system,NAFLD,CLEC6A,C-type lectin domain family 6 member A,Inverse variance weighted,13,1.13 [0.84-1.5],0.422014647129728,trans
+Chapter XI Diseases of the digestive system,NAFLD,SCPEP1,Retinoid-inducible serine carboxypeptidase,Inverse variance weighted,12,1.19 [0.78-1.82],0.428990907070701,trans
+Chapter XI Diseases of the digestive system,NAFLD,CPM,Carboxypeptidase M,Inverse variance weighted,19,1.19 [0.77-1.85],0.431996931294279,trans
+Chapter XI Diseases of the digestive system,NAFLD,ENTR1,Endosome-associated-trafficking regulator 1,Inverse variance weighted,8,1.15 [0.81-1.63],0.436760031299117,trans
+Chapter XI Diseases of the digestive system,NAFLD,ADGRE2,Adhesion G protein-coupled receptor E2,Inverse variance weighted,6,0.79 [0.43-1.45],0.44130653669384,trans
+Chapter XI Diseases of the digestive system,NAFLD,TNFRSF14,Tumor necrosis factor receptor superfamily member 14,Wald ratio,1,1.63 [0.47-5.68],0.442243826972194,trans
+Chapter XI Diseases of the digestive system,NAFLD,FSTL3,Follistatin-related protein 3,Inverse variance weighted,3,0.7 [0.28-1.73],0.442707959318033,trans
+Chapter XI Diseases of the digestive system,NAFLD,SPON2,Spondin-2,Inverse variance weighted,3,1.8 [0.4-8.18],0.444036473157292,trans
+Chapter XI Diseases of the digestive system,NAFLD,CD300C,CMRF35-like molecule 6,Inverse variance weighted,33,1.04 [0.94-1.15],0.445504065106155,trans
+Chapter XI Diseases of the digestive system,NAFLD,IL1RAP,Interleukin-1 receptor accessory protein,Inverse variance weighted,7,0.74 [0.33-1.63],0.448354142962774,trans
+Chapter XI Diseases of the digestive system,NAFLD,CLSTN2,Calsyntenin-2,Inverse variance weighted,8,1.25 [0.7-2.24],0.452224197247217,trans
+Chapter XI Diseases of the digestive system,NAFLD,ENTPD2,Ectonucleoside triphosphate diphosphohydrolase 2,Inverse variance weighted,11,1.08 [0.88-1.33],0.461153833603335,trans
+Chapter XI Diseases of the digestive system,NAFLD,CTSZ,Cathepsin Z,Inverse variance weighted,16,0.95 [0.84-1.09],0.468802902248926,trans
+Chapter XI Diseases of the digestive system,NAFLD,TSPAN8,Tetraspanin-8,Inverse variance weighted,19,1.1 [0.85-1.42],0.482667003471653,trans
+Chapter XI Diseases of the digestive system,NAFLD,VSIG4,V-set and immunoglobulin domain-containing protein 4,Inverse variance weighted,12,1.14 [0.79-1.66],0.48477260970801,trans
+Chapter XI Diseases of the digestive system,NAFLD,ARSB,Arylsulfatase B,Inverse variance weighted,9,0.87 [0.58-1.29],0.486050376516,trans
+Chapter XI Diseases of the digestive system,NAFLD,HHEX,Hematopoietically-expressed homeobox protein HHEX,Wald ratio,1,1.68 [0.39-7.2],0.487143802323169,trans
+Chapter XI Diseases of the digestive system,NAFLD,KITLG,Kit ligand,Inverse variance weighted,30,0.93 [0.76-1.14],0.490793737179824,trans
+Chapter XI Diseases of the digestive system,NAFLD,FUOM,Fucose mutarotase,Inverse variance weighted,6,0.81 [0.44-1.49],0.496847055214063,trans
+Chapter XI Diseases of the digestive system,NAFLD,FSTL1,Follistatin-related protein 1,Inverse variance weighted,12,1.13 [0.79-1.61],0.504140860392997,trans
+Chapter XI Diseases of the digestive system,NAFLD,LGALS9,Galectin-9,Inverse variance weighted,36,0.96 [0.84-1.09],0.504812435761886,trans
+Chapter XI Diseases of the digestive system,NAFLD,DPP10,Inactive dipeptidyl peptidase 10,Inverse variance weighted,24,0.95 [0.82-1.11],0.512855856197577,trans
+Chapter XI Diseases of the digestive system,NAFLD,FGFBP1,Fibroblast growth factor-binding protein 1,Inverse variance weighted,12,0.86 [0.56-1.34],0.515274616551141,trans
+Chapter XI Diseases of the digestive system,NAFLD,IGF2R,Cation-independent mannose-6-phosphate receptor,Inverse variance weighted,19,0.91 [0.68-1.22],0.51973743932896,trans
+Chapter XI Diseases of the digestive system,NAFLD,MFGE8,Lactadherin,Inverse variance weighted,15,0.8 [0.4-1.59],0.520309596605168,trans
+Chapter XI Diseases of the digestive system,NAFLD,ENPP7,Ectonucleotide pyrophosphatase/phosphodiesterase family member 7,Inverse variance weighted,33,1.04 [0.92-1.17],0.521719768147421,trans
+Chapter XI Diseases of the digestive system,NAFLD,PLIN1,Perilipin-1,Wald ratio,1,0.67 [0.19-2.31],0.525179123801997,trans
+Chapter XI Diseases of the digestive system,NAFLD,SIGLEC9,Sialic acid-binding Ig-like lectin 9,Inverse variance weighted,67,0.97 [0.89-1.06],0.525385571019061,trans
+Chapter XI Diseases of the digestive system,NAFLD,IGFBP2,Insulin-like growth factor-binding protein 2,Inverse variance weighted,11,0.82 [0.44-1.52],0.527499863385436,trans
+Chapter XI Diseases of the digestive system,NAFLD,C7,Complement component C7,Inverse variance weighted,26,0.96 [0.86-1.08],0.52855834780361,trans
+Chapter XI Diseases of the digestive system,NAFLD,SELE,E-selectin,Inverse variance weighted,20,0.97 [0.86-1.08],0.530860731579751,trans
+Chapter XI Diseases of the digestive system,NAFLD,CD4,T-cell surface glycoprotein CD4,Inverse variance weighted,6,0.8 [0.39-1.62],0.532073369814245,trans
+Chapter XI Diseases of the digestive system,NAFLD,CSF1R,Macrophage colony-stimulating factor 1 receptor,Inverse variance weighted,21,0.93 [0.73-1.18],0.532438845934413,trans
+Chapter XI Diseases of the digestive system,NAFLD,CD163,Scavenger receptor cysteine-rich type 1 protein M130,Inverse variance weighted,38,1.06 [0.88-1.29],0.541645755926628,trans
+Chapter XI Diseases of the digestive system,NAFLD,GAST,Gastrin,Inverse variance weighted,9,0.88 [0.58-1.33],0.542446640882981,trans
+Chapter XI Diseases of the digestive system,NAFLD,TNFSF8,Tumor necrosis factor ligand superfamily member 8,Inverse variance weighted,15,0.93 [0.73-1.18],0.543152244135918,trans
+Chapter XI Diseases of the digestive system,NAFLD,RBFOX3,RNA binding protein fox-1 homolog 3,Inverse variance weighted,2,0.38 [0.02-8.54],0.544597748289921,trans
+Chapter XI Diseases of the digestive system,NAFLD,PLA2G15,Phospholipase A2 group XV,Inverse variance weighted,20,1.08 [0.84-1.4],0.546729016719057,trans
+Chapter XI Diseases of the digestive system,NAFLD,DTNB,Dystrobrevin beta,Inverse variance weighted,2,1.31 [0.53-3.23],0.55516861066774,trans
+Chapter XI Diseases of the digestive system,NAFLD,DPY30,Protein dpy-30 homolog,Wald ratio,1,1.43 [0.43-4.79],0.56203795445963,trans
+Chapter XI Diseases of the digestive system,NAFLD,HSD17B14,17-beta-hydroxysteroid dehydrogenase 14,Inverse variance weighted,4,1.2 [0.65-2.2],0.562404425191093,trans
+Chapter XI Diseases of the digestive system,NAFLD,SIGLEC1,Sialoadhesin,Inverse variance weighted,16,1.09 [0.82-1.43],0.565093366162147,trans
+Chapter XI Diseases of the digestive system,NAFLD,HMOX1,Heme oxygenase 1,Inverse variance weighted,20,0.94 [0.77-1.15],0.565132642303078,trans
+Chapter XI Diseases of the digestive system,NAFLD,GBP1,Guanylate-binding protein 1,Inverse variance weighted,4,0.89 [0.6-1.33],0.567265647599187,trans
+Chapter XI Diseases of the digestive system,NAFLD,HS6ST1,Heparan-sulfate 6-O-sulfotransferase 1,Inverse variance weighted,13,0.92 [0.67-1.25],0.575965226601372,trans
+Chapter XI Diseases of the digestive system,NAFLD,UPB1,Beta-ureidopropionase,Wald ratio,1,2.78 [0.08-100.14],0.57612502521592,trans
+Chapter XI Diseases of the digestive system,NAFLD,ACP5,Tartrate-resistant acid phosphatase type 5,Inverse variance weighted,16,0.9 [0.63-1.3],0.579651029796092,trans
+Chapter XI Diseases of the digestive system,NAFLD,GLA,Alpha-galactosidase A,Inverse variance weighted,2,1.26 [0.56-2.84],0.582100618665502,trans
+Chapter XI Diseases of the digestive system,NAFLD,PTGR1,Prostaglandin reductase 1,Inverse variance weighted,18,1.03 [0.92-1.16],0.583752233212227,trans
+Chapter XI Diseases of the digestive system,NAFLD,CKAP4,Cytoskeleton-associated protein 4,Inverse variance weighted,6,1.13 [0.73-1.75],0.586607397791079,trans
+Chapter XI Diseases of the digestive system,NAFLD,SPINT1,Kunitz-type protease inhibitor 1,Inverse variance weighted,12,1.13 [0.73-1.76],0.586772097723093,trans
+Chapter XI Diseases of the digestive system,NAFLD,LEP,Leptin,Inverse variance weighted,4,1.74 [0.24-12.79],0.588627328828314,trans
+Chapter XI Diseases of the digestive system,NAFLD,IL6ST,Interleukin-6 receptor subunit beta,Inverse variance weighted,7,1.13 [0.72-1.77],0.58981037700803,trans
+Chapter XI Diseases of the digestive system,NAFLD,AMOT,Angiomotin,Inverse variance weighted,9,0.89 [0.6-1.34],0.590097918736415,trans
+Chapter XI Diseases of the digestive system,NAFLD,PPL,Periplakin,Inverse variance weighted,2,1.24 [0.57-2.69],0.590355534968567,trans
+Chapter XI Diseases of the digestive system,NAFLD,GALNT10,Polypeptide N-acetylgalactosaminyltransferase 10,Inverse variance weighted,9,0.89 [0.57-1.38],0.593199043461363,trans
+Chapter XI Diseases of the digestive system,NAFLD,ERBB2,Receptor tyrosine-protein kinase erbB-2,Inverse variance weighted,20,0.95 [0.77-1.16],0.594337005579529,trans
+Chapter XI Diseases of the digestive system,NAFLD,CNTN3,Contactin-3,Inverse variance weighted,20,1.16 [0.66-2.04],0.59631929763594,trans
+Chapter XI Diseases of the digestive system,NAFLD,SHMT1,"Serine hydroxymethyltransferase, cytosolic",Inverse variance weighted,4,0.88 [0.55-1.42],0.599421264994107,trans
+Chapter XI Diseases of the digestive system,NAFLD,TIMP1,Metalloproteinase inhibitor 1,Inverse variance weighted,2,0.82 [0.39-1.71],0.599934007756127,trans
+Chapter XI Diseases of the digestive system,NAFLD,STAB2,Stabilin-2,Inverse variance weighted,14,0.9 [0.6-1.35],0.602602154730993,trans
+Chapter XI Diseases of the digestive system,NAFLD,IL1RN,Interleukin-1 receptor antagonist protein,Inverse variance weighted,4,0.85 [0.47-1.55],0.603212808195551,trans
+Chapter XI Diseases of the digestive system,NAFLD,INSL5,Insulin-like peptide INSL5,Inverse variance weighted,8,0.87 [0.51-1.48],0.605273434712507,trans
+Chapter XI Diseases of the digestive system,NAFLD,F9,Coagulation factor IX,Inverse variance weighted,3,0.83 [0.4-1.71],0.608921595473946,trans
+Chapter XI Diseases of the digestive system,NAFLD,BTD,Biotinidase,Inverse variance weighted,6,0.82 [0.38-1.76],0.608976355807851,trans
+Chapter XI Diseases of the digestive system,NAFLD,TNFRSF11A,Tumor necrosis factor receptor superfamily member 11A,Inverse variance weighted,35,1.03 [0.92-1.15],0.609706564997624,trans
+Chapter XI Diseases of the digestive system,NAFLD,OCLN,Occludin,Inverse variance weighted,2,1.24 [0.54-2.82],0.609881979056333,trans
+Chapter XI Diseases of the digestive system,NAFLD,PAMR1,Inactive serine protease PAMR1,Inverse variance weighted,6,1.19 [0.6-2.37],0.610268221006963,trans
+Chapter XI Diseases of the digestive system,NAFLD,DDC,Aromatic-L-amino-acid decarboxylase,Inverse variance weighted,6,1.18 [0.63-2.22],0.611081144523639,trans
+Chapter XI Diseases of the digestive system,NAFLD,SMPD1,Sphingomyelin phosphodiesterase,Inverse variance weighted,20,1.08 [0.81-1.42],0.611487201590617,trans
+Chapter XI Diseases of the digestive system,NAFLD,LILRB1,Leukocyte immunoglobulin-like receptor subfamily B member 1,Inverse variance weighted,12,0.91 [0.64-1.3],0.61436451183709,trans
+Chapter XI Diseases of the digestive system,NAFLD,IL18BP,Interleukin-18-binding protein,Inverse variance weighted,10,1.14 [0.69-1.88],0.615151754695463,trans
+Chapter XI Diseases of the digestive system,NAFLD,IL12A_IL12B,Interleukin-12,Inverse variance weighted,56,0.98 [0.89-1.07],0.621508826876411,trans
+Chapter XI Diseases of the digestive system,NAFLD,COL6A3,Collagen alpha-3(VI) chain,Inverse variance weighted,3,0.84 [0.41-1.71],0.622303459439979,trans
+Chapter XI Diseases of the digestive system,NAFLD,CREG1,Protein CREG1,Inverse variance weighted,20,1.06 [0.84-1.33],0.625739668715982,trans
+Chapter XI Diseases of the digestive system,NAFLD,DAG1,Dystroglycan,Wald ratio,1,1.42 [0.34-5.89],0.629880469858625,trans
+Chapter XI Diseases of the digestive system,NAFLD,ADGRD1,Adhesion G-protein coupled receptor D1,Inverse variance weighted,15,1.11 [0.73-1.68],0.631114619936171,trans
+Chapter XI Diseases of the digestive system,NAFLD,IL12B,Interleukin-12 subunit beta,Inverse variance weighted,39,0.97 [0.84-1.11],0.634070281651701,trans
+Chapter XI Diseases of the digestive system,NAFLD,CDCP1,CUB domain-containing protein 1,Inverse variance weighted,9,0.91 [0.61-1.35],0.634450806353854,trans
+Chapter XI Diseases of the digestive system,NAFLD,SMOC1,SPARC-related modular calcium-binding protein 1,Inverse variance weighted,13,0.88 [0.51-1.52],0.636980217112373,trans
+Chapter XI Diseases of the digestive system,NAFLD,CALCA,Calcitonin,Inverse variance weighted,13,1.1 [0.74-1.63],0.641397687649921,trans
+Chapter XI Diseases of the digestive system,NAFLD,CKB,Creatine kinase B-type,Inverse variance weighted,11,1.12 [0.69-1.85],0.641922785887767,trans
+Chapter XI Diseases of the digestive system,NAFLD,PGF,Placenta growth factor,Inverse variance weighted,5,1.12 [0.7-1.8],0.643032675027552,trans
+Chapter XI Diseases of the digestive system,NAFLD,CD28,T-cell-specific surface glycoprotein CD28,Inverse variance weighted,11,1.08 [0.77-1.54],0.647671648687766,trans
+Chapter XI Diseases of the digestive system,NAFLD,B4GALT1,"Beta-1,4-galactosyltransferase 1",Inverse variance weighted,12,1.06 [0.81-1.4],0.650662066263062,trans
+Chapter XI Diseases of the digestive system,NAFLD,PSAP,Prosaposin,Inverse variance weighted,13,1.04 [0.86-1.27],0.655562001697102,trans
+Chapter XI Diseases of the digestive system,NAFLD,CA6,Carbonic anhydrase 6,Inverse variance weighted,20,1.09 [0.76-1.55],0.655756804303755,trans
+Chapter XI Diseases of the digestive system,NAFLD,FCAMR,High affinity immunoglobulin alpha and immunoglobulin mu Fc receptor,Inverse variance weighted,16,1.15 [0.62-2.14],0.656221737792659,trans
+Chapter XI Diseases of the digestive system,NAFLD,EFNA4,Ephrin-A4,Inverse variance weighted,2,0.86 [0.43-1.71],0.661469049915636,trans
+Chapter XI Diseases of the digestive system,NAFLD,APOF,Apolipoprotein F,Inverse variance weighted,8,1.11 [0.69-1.78],0.669874594095754,trans
+Chapter XI Diseases of the digestive system,NAFLD,CES2,Cocaine esterase,Inverse variance weighted,4,0.8 [0.27-2.32],0.674731290049489,trans
+Chapter XI Diseases of the digestive system,NAFLD,TCTN3,Tectonic-3,Inverse variance weighted,44,1.02 [0.93-1.12],0.681029329421843,trans
+Chapter XI Diseases of the digestive system,NAFLD,TXNRD1,"Thioredoxin reductase 1, cytoplasmic",Wald ratio,1,1.36 [0.32-5.79],0.681325677124466,trans
+Chapter XI Diseases of the digestive system,NAFLD,CXCL6,C-X-C motif chemokine 6,Inverse variance weighted,9,0.91 [0.59-1.42],0.684424560285309,trans
+Chapter XI Diseases of the digestive system,NAFLD,IFNGR2,Interferon gamma receptor 2,Inverse variance weighted,34,1.02 [0.94-1.11],0.686490856953637,trans
+Chapter XI Diseases of the digestive system,NAFLD,ADGRE1,Adhesion G protein-coupled receptor E1,Inverse variance weighted,22,0.96 [0.77-1.19],0.68875805742451,trans
+Chapter XI Diseases of the digestive system,NAFLD,SPON1,Spondin-1,Inverse variance weighted,4,1.16 [0.54-2.49],0.698173176744505,trans
+Chapter XI Diseases of the digestive system,NAFLD,PTPRH,Receptor-type tyrosine-protein phosphatase H,Inverse variance weighted,19,1.05 [0.81-1.37],0.700204049130139,trans
+Chapter XI Diseases of the digestive system,NAFLD,CD74,HLA class II histocompatibility antigen gamma chain,Inverse variance weighted,7,0.94 [0.67-1.32],0.702339974078678,trans
+Chapter XI Diseases of the digestive system,NAFLD,ATRN,"Attractin, Isoform 2",Inverse variance weighted,8,0.91 [0.56-1.47],0.70283442057444,trans
+Chapter XI Diseases of the digestive system,NAFLD,PALM2,Paralemmin-2,Inverse variance weighted,9,0.92 [0.6-1.42],0.703474191216033,trans
+Chapter XI Diseases of the digestive system,NAFLD,RET,Proto-oncogene tyrosine-protein kinase receptor Ret,Inverse variance weighted,38,1.03 [0.88-1.2],0.705254921416734,trans
+Chapter XI Diseases of the digestive system,NAFLD,IL4R,Interleukin-4 receptor subunit alpha,Inverse variance weighted,7,1.19 [0.48-2.96],0.706463091859069,trans
+Chapter XI Diseases of the digestive system,NAFLD,SUOX,"Sulfite oxidase, mitochondrial",Inverse variance weighted,8,0.95 [0.71-1.26],0.7076851727099,trans
+Chapter XI Diseases of the digestive system,NAFLD,SELPLG,P-selectin glycoprotein ligand 1,Inverse variance weighted,14,0.95 [0.71-1.27],0.714237317606478,trans
+Chapter XI Diseases of the digestive system,NAFLD,ACAA1,"3-ketoacyl-CoA thiolase, peroxisomal",Wald ratio,1,1.27 [0.35-4.6],0.715593772070539,trans
+Chapter XI Diseases of the digestive system,NAFLD,TNFRSF10B,Tumor necrosis factor receptor superfamily member 10B,Inverse variance weighted,3,1.2 [0.44-3.27],0.720469206035836,trans
+Chapter XI Diseases of the digestive system,NAFLD,AGRP,Agouti-related protein,Inverse variance weighted,16,1.04 [0.84-1.28],0.724098623072897,trans
+Chapter XI Diseases of the digestive system,NAFLD,ACY3,N-acyl-aromatic-L-amino acid amidohydrolase,Inverse variance weighted,13,1.06 [0.75-1.51],0.726699643953162,trans
+Chapter XI Diseases of the digestive system,NAFLD,NOMO1,Nodal modulator 1,Inverse variance weighted,24,1.03 [0.89-1.18],0.727148911413808,trans
+Chapter XI Diseases of the digestive system,NAFLD,ULBP2,UL16-binding protein 2,Inverse variance weighted,9,0.95 [0.71-1.27],0.728428121403904,trans
+Chapter XI Diseases of the digestive system,NAFLD,SLAMF8,SLAM family member 8,Inverse variance weighted,2,0.86 [0.37-2.01],0.728846507668391,trans
+Chapter XI Diseases of the digestive system,NAFLD,LRRC25,Leucine-rich repeat-containing protein 25,Inverse variance weighted,19,1.03 [0.88-1.2],0.72943610122058,trans
+Chapter XI Diseases of the digestive system,NAFLD,AGR3,Anterior gradient protein 3,Inverse variance weighted,5,0.88 [0.44-1.77],0.729703971777327,trans
+Chapter XI Diseases of the digestive system,NAFLD,CCL7,C-C motif chemokine 7,Inverse variance weighted,14,1.05 [0.8-1.37],0.729746623890772,trans
+Chapter XI Diseases of the digestive system,NAFLD,LGALS3BP,Galectin-3-binding protein,Inverse variance weighted,30,0.97 [0.81-1.16],0.730234426313842,trans
+Chapter XI Diseases of the digestive system,NAFLD,MXRA8,Matrix remodeling-associated protein 8,Inverse variance weighted,10,1.08 [0.71-1.64],0.730873411425829,trans
+Chapter XI Diseases of the digestive system,NAFLD,SDC1,Syndecan-1,Inverse variance weighted,12,0.95 [0.71-1.28],0.731402459449086,trans
+Chapter XI Diseases of the digestive system,NAFLD,HTRA2,"Serine protease HTRA2, mitochondrial",Wald ratio,1,0.8 [0.23-2.81],0.731433974031797,trans
+Chapter XI Diseases of the digestive system,NAFLD,IGSF8,Immunoglobulin superfamily member 8,Inverse variance weighted,4,0.92 [0.58-1.46],0.732276387717528,trans
+Chapter XI Diseases of the digestive system,NAFLD,ASGR1,Asialoglycoprotein receptor 1,Inverse variance weighted,7,0.91 [0.52-1.59],0.737220601638529,trans
+Chapter XI Diseases of the digestive system,NAFLD,RELT,Tumor necrosis factor receptor superfamily member 19L,Inverse variance weighted,6,1.15 [0.5-2.65],0.737239153272449,trans
+Chapter XI Diseases of the digestive system,NAFLD,PCDH17,Protocadherin-17,Inverse variance weighted,44,0.98 [0.86-1.12],0.73725750929707,trans
+Chapter XI Diseases of the digestive system,NAFLD,GLB1,Beta-galactosidase,Inverse variance weighted,9,1.13 [0.54-2.38],0.739058377688875,trans
+Chapter XI Diseases of the digestive system,NAFLD,TNFRSF4,Tumor necrosis factor receptor superfamily member 4,Inverse variance weighted,10,0.94 [0.63-1.39],0.741551597072543,trans
+Chapter XI Diseases of the digestive system,NAFLD,WFDC2,WAP four-disulfide core domain protein 2,Inverse variance weighted,4,0.92 [0.58-1.48],0.742273847876588,trans
+Chapter XI Diseases of the digestive system,NAFLD,IL10RB,Interleukin-10 receptor subunit beta,Inverse variance weighted,31,1.01 [0.93-1.11],0.74298143993533,trans
+Chapter XI Diseases of the digestive system,NAFLD,NFATC3,"Nuclear factor of activated T-cells, cytoplasmic 3",Inverse variance weighted,4,0.9 [0.48-1.69],0.744497299874471,trans
+Chapter XI Diseases of the digestive system,NAFLD,CXCL9,C-X-C motif chemokine 9,Inverse variance weighted,10,0.92 [0.54-1.55],0.745403173850733,trans
+Chapter XI Diseases of the digestive system,NAFLD,ADAMTS15,A disintegrin and metalloproteinase with thrombospondin motifs 15,Inverse variance weighted,4,1.17 [0.43-3.2],0.753046391421271,trans
+Chapter XI Diseases of the digestive system,NAFLD,KLRB1,Killer cell lectin-like receptor subfamily B member 1,Inverse variance weighted,17,0.96 [0.75-1.23],0.757266379871941,trans
+Chapter XI Diseases of the digestive system,NAFLD,CTSD,Cathepsin D,Inverse variance weighted,7,1.09 [0.63-1.88],0.757820403337096,trans
+Chapter XI Diseases of the digestive system,NAFLD,EGLN1,Egl nine homolog 1,Wald ratio,1,1.24 [0.31-4.98],0.758006577367272,trans
+Chapter XI Diseases of the digestive system,NAFLD,DPP7,Dipeptidyl peptidase 2,Inverse variance weighted,15,1.02 [0.88-1.19],0.761502334828492,trans
+Chapter XI Diseases of the digestive system,NAFLD,LILRB2,Leukocyte immunoglobulin-like receptor subfamily B member 2,Inverse variance weighted,9,0.93 [0.58-1.49],0.767982934968432,trans
+Chapter XI Diseases of the digestive system,NAFLD,GDF15,Growth/differentiation factor 15,Wald ratio,1,1.3 [0.23-7.36],0.768118519381827,trans
+Chapter XI Diseases of the digestive system,NAFLD,MME,Neprilysin,Inverse variance weighted,46,0.98 [0.83-1.15],0.768707144557428,trans
+Chapter XI Diseases of the digestive system,NAFLD,TNFRSF9,Tumor necrosis factor receptor superfamily member 9,Inverse variance weighted,4,0.9 [0.43-1.87],0.772413340529814,trans
+Chapter XI Diseases of the digestive system,NAFLD,IFI30,Gamma-interferon-inducible lysosomal thiol reductase,Inverse variance weighted,5,1.09 [0.62-1.9],0.774116725175001,trans
+Chapter XI Diseases of the digestive system,NAFLD,STC1,Stanniocalcin-1,Inverse variance weighted,9,0.96 [0.73-1.27],0.778822690618572,trans
+Chapter XI Diseases of the digestive system,NAFLD,DSC2,Desmocollin-2,Inverse variance weighted,16,1.02 [0.86-1.22],0.782361699138036,trans
+Chapter XI Diseases of the digestive system,NAFLD,CRHBP,Corticotropin-releasing factor-binding protein,Inverse variance weighted,10,0.96 [0.74-1.26],0.782743834141555,trans
+Chapter XI Diseases of the digestive system,NAFLD,ST6GAL1,"Beta-galactoside alpha-2,6-sialyltransferase 1",Inverse variance weighted,2,0.88 [0.36-2.16],0.783662277941265,trans
+Chapter XI Diseases of the digestive system,NAFLD,GAS2,Growth arrest-specific protein 2,Wald ratio,1,0.83 [0.22-3.16],0.787485373824046,trans
+Chapter XI Diseases of the digestive system,NAFLD,SIGLEC7,Sialic acid-binding Ig-like lectin 7,Inverse variance weighted,6,1.08 [0.6-1.95],0.787706489698229,trans
+Chapter XI Diseases of the digestive system,NAFLD,FCAR,Immunoglobulin alpha Fc receptor,Inverse variance weighted,15,0.95 [0.67-1.36],0.79245457422393,trans
+Chapter XI Diseases of the digestive system,NAFLD,ARSA,Arylsulfatase A,Inverse variance weighted,7,0.96 [0.73-1.27],0.795886553315687,trans
+Chapter XI Diseases of the digestive system,NAFLD,TNFSF13B,Tumor necrosis factor ligand superfamily member 13B,Inverse variance weighted,19,0.97 [0.78-1.21],0.797539841243967,trans
+Chapter XI Diseases of the digestive system,NAFLD,MSR1,Macrophage scavenger receptor types I and II,Inverse variance weighted,18,0.97 [0.76-1.24],0.799197962952067,trans
+Chapter XI Diseases of the digestive system,NAFLD,CCL21,C-C motif chemokine 21,Inverse variance weighted,15,1.04 [0.78-1.39],0.802534680632522,trans
+Chapter XI Diseases of the digestive system,NAFLD,PIGR,Polymeric immunoglobulin receptor,Inverse variance weighted,10,1.05 [0.73-1.5],0.806670079824645,trans
+Chapter XI Diseases of the digestive system,NAFLD,P4HB,Protein disulfide-isomerase,Inverse variance weighted,4,1.09 [0.56-2.12],0.806941296469615,trans
+Chapter XI Diseases of the digestive system,NAFLD,SIGLEC10,Sialic acid-binding Ig-like lectin 10,Inverse variance weighted,8,1.06 [0.66-1.7],0.807442691006385,trans
+Chapter XI Diseases of the digestive system,NAFLD,BSG,Basigin,Inverse variance weighted,6,0.91 [0.42-1.97],0.8083343975133,trans
+Chapter XI Diseases of the digestive system,NAFLD,COL5A1,Collagen alpha-1(V) chain,Inverse variance weighted,16,1.02 [0.86-1.21],0.808342497380383,trans
+Chapter XI Diseases of the digestive system,NAFLD,ALDH1A1,Retinal dehydrogenase 1,Wald ratio,1,1.08 [0.58-2.03],0.808937697771889,trans
+Chapter XI Diseases of the digestive system,NAFLD,LAIR1,Leukocyte-associated immunoglobulin-like receptor 1,Inverse variance weighted,2,1.14 [0.39-3.33],0.810208457237063,trans
+Chapter XI Diseases of the digestive system,NAFLD,RARRES2,Retinoic acid receptor responder protein 2,Inverse variance weighted,2,1.13 [0.39-3.34],0.819934242451678,trans
+Chapter XI Diseases of the digestive system,NAFLD,CD244,Natural killer cell receptor 2B4,Inverse variance weighted,18,1.03 [0.8-1.33],0.822379104455751,trans
+Chapter XI Diseases of the digestive system,NAFLD,SCARB2,Lysosome membrane protein 2,Inverse variance weighted,10,1.05 [0.68-1.62],0.826191034465851,trans
+Chapter XI Diseases of the digestive system,NAFLD,DDAH1,"N(G),N(G)-dimethylarginine dimethylaminohydrolase 1",Inverse variance weighted,2,1.21 [0.23-6.43],0.827260363243382,trans
+Chapter XI Diseases of the digestive system,NAFLD,PON2,Serum paraoxonase/arylesterase 2,Inverse variance weighted,22,0.98 [0.85-1.14],0.830591405176202,trans
+Chapter XI Diseases of the digestive system,NAFLD,TNFRSF1B,Tumor necrosis factor receptor superfamily member 1B,Inverse variance weighted,5,0.93 [0.49-1.76],0.832213438407017,trans
+Chapter XI Diseases of the digestive system,NAFLD,CXCL11,C-X-C motif chemokine 11,Inverse variance weighted,11,0.96 [0.68-1.37],0.837986289979074,trans
+Chapter XI Diseases of the digestive system,NAFLD,CTSL,Cathepsin L1,Inverse variance weighted,29,1.02 [0.84-1.24],0.845666789679634,trans
+Chapter XI Diseases of the digestive system,NAFLD,TNFRSF1A,Tumor necrosis factor receptor superfamily member 1A,Inverse variance weighted,4,0.94 [0.48-1.85],0.853128807173625,trans
+Chapter XI Diseases of the digestive system,NAFLD,VAMP5,Vesicle-associated membrane protein 5,Wald ratio,1,1.13 [0.29-4.42],0.855966232426315,trans
+Chapter XI Diseases of the digestive system,NAFLD,LIFR,Leukemia inhibitory factor receptor,Inverse variance weighted,7,0.96 [0.61-1.51],0.856007063149382,trans
+Chapter XI Diseases of the digestive system,NAFLD,DPP4,Dipeptidyl peptidase 4,Inverse variance weighted,8,1.05 [0.64-1.72],0.856078710567683,trans
+Chapter XI Diseases of the digestive system,NAFLD,GSN,Gelsolin,Inverse variance weighted,7,1.05 [0.59-1.88],0.85778264238578,trans
+Chapter XI Diseases of the digestive system,NAFLD,CD80,T-lymphocyte activation antigen CD80,Inverse variance weighted,10,0.96 [0.64-1.45],0.863646671531765,trans
+Chapter XI Diseases of the digestive system,NAFLD,ALDH3A1,"Aldehyde dehydrogenase, dimeric NADP-preferring",Wald ratio,1,0.9 [0.26-3.11],0.865124751769469,trans
+Chapter XI Diseases of the digestive system,NAFLD,CCL20,C-C motif chemokine 20,Inverse variance weighted,6,1.04 [0.69-1.56],0.869956379782109,trans
+Chapter XI Diseases of the digestive system,NAFLD,CST3,Cystatin-C,Inverse variance weighted,3,0.94 [0.42-2.09],0.875915664877502,trans
+Chapter XI Diseases of the digestive system,NAFLD,SIAE,Sialate O-acetylesterase,Inverse variance weighted,6,1.04 [0.63-1.71],0.878307386906524,trans
+Chapter XI Diseases of the digestive system,NAFLD,ANGPTL7,Angiopoietin-related protein 7,Inverse variance weighted,7,0.94 [0.4-2.2],0.88140197426303,trans
+Chapter XI Diseases of the digestive system,NAFLD,TGFBI,Transforming growth factor-beta-induced protein ig-h3,Inverse variance weighted,14,1.04 [0.64-1.69],0.883943195758589,trans
+Chapter XI Diseases of the digestive system,NAFLD,VWA1,von Willebrand factor A domain-containing protein 1,Inverse variance weighted,5,0.96 [0.54-1.7],0.884836899253004,trans
+Chapter XI Diseases of the digestive system,NAFLD,CCL3,C-C motif chemokine 3,Inverse variance weighted,15,1.01 [0.84-1.23],0.886550257703666,trans
+Chapter XI Diseases of the digestive system,NAFLD,CHI3L1,Chitinase-3-like protein 1,Inverse variance weighted,5,0.94 [0.37-2.35],0.891890397967593,trans
+Chapter XI Diseases of the digestive system,NAFLD,AIFM1,"Apoptosis-inducing factor 1, mitochondrial",Inverse variance weighted,2,0.94 [0.36-2.44],0.893529253904834,trans
+Chapter XI Diseases of the digestive system,NAFLD,PLAUR,Urokinase plasminogen activator surface receptor,Inverse variance weighted,8,1.03 [0.71-1.47],0.893538475092348,trans
+Chapter XI Diseases of the digestive system,NAFLD,RNF149,E3 ubiquitin-protein ligase RNF149,Inverse variance weighted,6,0.97 [0.65-1.45],0.895284211782142,trans
+Chapter XI Diseases of the digestive system,NAFLD,PBLD,Phenazine biosynthesis-like domain-containing protein,Inverse variance weighted,22,1.01 [0.89-1.14],0.898020021904272,trans
+Chapter XI Diseases of the digestive system,NAFLD,PTGDS,Prostaglandin-H2 D-isomerase,Inverse variance weighted,9,1.04 [0.54-2.01],0.899810134514352,trans
+Chapter XI Diseases of the digestive system,NAFLD,CXADR,Coxsackievirus and adenovirus receptor,Inverse variance weighted,13,1.02 [0.7-1.5],0.902723316592352,trans
+Chapter XI Diseases of the digestive system,NAFLD,TNFRSF10A,Tumor necrosis factor receptor superfamily member 10A,Inverse variance weighted,3,0.96 [0.47-1.94],0.904115834721257,trans
+Chapter XI Diseases of the digestive system,NAFLD,THBS2,Thrombospondin-2,Inverse variance weighted,15,0.99 [0.79-1.24],0.909526513608244,trans
+Chapter XI Diseases of the digestive system,NAFLD,PTP4A3,Protein tyrosine phosphatase type IVA 3,Inverse variance weighted,6,0.99 [0.76-1.28],0.916563473363043,trans
+Chapter XI Diseases of the digestive system,NAFLD,AGRN,Agrin,Inverse variance weighted,14,1.02 [0.75-1.38],0.918793154564272,trans
+Chapter XI Diseases of the digestive system,NAFLD,CCL22,C-C motif chemokine 22,Inverse variance weighted,8,1.03 [0.6-1.77],0.919867896159661,trans
+Chapter XI Diseases of the digestive system,NAFLD,NAGPA,N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase,Inverse variance weighted,2,1.1 [0.15-7.95],0.923091453880331,trans
+Chapter XI Diseases of the digestive system,NAFLD,PDZK1,Na(+)/H(+) exchange regulatory cofactor NHE-RF3,Inverse variance weighted,3,0.98 [0.64-1.49],0.927865080743753,trans
+Chapter XI Diseases of the digestive system,NAFLD,ACY1,Aminoacylase-1,Inverse variance weighted,6,0.98 [0.67-1.45],0.928057674344978,trans
+Chapter XI Diseases of the digestive system,NAFLD,ADGRE5,Adhesion G protein-coupled receptor E5,Inverse variance weighted,8,1.02 [0.64-1.63],0.931361135001361,trans
+Chapter XI Diseases of the digestive system,NAFLD,FBP1,"Fructose-1,6-bisphosphatase 1",Inverse variance weighted,11,1.01 [0.84-1.21],0.934846965587983,trans
+Chapter XI Diseases of the digestive system,NAFLD,ROBO1,Roundabout homolog 1,Inverse variance weighted,18,0.99 [0.75-1.31],0.938308546551013,trans
+Chapter XI Diseases of the digestive system,NAFLD,GCHFR,GTP cyclohydrolase 1 feedback regulatory protein,Inverse variance weighted,3,0.98 [0.58-1.66],0.952871995876236,trans
+Chapter XI Diseases of the digestive system,NAFLD,SIRPB1,Signal-regulatory protein beta-1,Inverse variance weighted,7,1.01 [0.63-1.61],0.961547026350526,trans
+Chapter XI Diseases of the digestive system,NAFLD,AFM,Afamin,Inverse variance weighted,8,0.99 [0.54-1.8],0.961699459007293,trans
+Chapter XI Diseases of the digestive system,NAFLD,OSCAR,Osteoclast-associated immunoglobulin-like receptor,Inverse variance weighted,7,1.01 [0.54-1.9],0.966435042769283,trans
+Chapter XI Diseases of the digestive system,NAFLD,FAM20A,Pseudokinase FAM20A,Inverse variance weighted,21,1 [0.81-1.22],0.967105005156005,trans
+Chapter XI Diseases of the digestive system,NAFLD,F7,Coagulation factor VII,Inverse variance weighted,10,1.01 [0.6-1.71],0.967312598680445,trans
+Chapter XI Diseases of the digestive system,NAFLD,GAS6,Growth arrest-specific protein 6,Inverse variance weighted,18,1.01 [0.76-1.33],0.968327338663929,trans
+Chapter XI Diseases of the digestive system,NAFLD,RBP5,Retinol-binding protein 5,Inverse variance weighted,2,1.02 [0.3-3.49],0.974009301309237,trans
+Chapter XI Diseases of the digestive system,NAFLD,MRC1,Macrophage mannose receptor 1,Inverse variance weighted,17,1.01 [0.69-1.46],0.977789866306344,trans
+Chapter XI Diseases of the digestive system,NAFLD,SETMAR,Histone-lysine N-methyltransferase SETMAR,Inverse variance weighted,2,1.02 [0.19-5.4],0.978592616676174,trans
+Chapter XI Diseases of the digestive system,NAFLD,ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Inverse variance weighted,24,1 [0.86-1.16],0.979108952286045,trans
+Chapter XI Diseases of the digestive system,NAFLD,TREM2,Triggering receptor expressed on myeloid cells 2,Inverse variance weighted,35,1 [0.89-1.13],0.981179727648957,trans
+Chapter XI Diseases of the digestive system,NAFLD,ACE2,Angiotensin-converting enzyme 2,Inverse variance weighted,11,0.99 [0.5-1.96],0.982530225340984,trans
+Chapter XI Diseases of the digestive system,NAFLD,CD48,CD48 antigen,Inverse variance weighted,14,1 [0.7-1.42],0.983982473459969,trans
+Chapter XI Diseases of the digestive system,NAFLD,SLIT2,Slit homolog 2 protein,Wald ratio,1,0.99 [0.27-3.66],0.985335475683389,trans
+Chapter XI Diseases of the digestive system,NAFLD,CANT1,Soluble calcium-activated nucleotidase 1,Inverse variance weighted,8,1 [0.66-1.53],0.994980844364677,trans
+Chapter XI Diseases of the digestive system,NAFLD,IL32,Interleukin-32,Inverse variance weighted,9,1 [0.71-1.41],0.99545908589403,trans
+Chapter XI Diseases of the digestive system,NAFLD,TFF2,Trefoil factor 2,Inverse variance weighted,16,1 [0.78-1.28],0.99748705056294,trans
+Chapter XI Diseases of the digestive system,NAFLD,SGSH,N-sulphoglucosamine sulphohydrolase,Inverse variance weighted,49,1 [0.92-1.09],0.99914786347248,trans

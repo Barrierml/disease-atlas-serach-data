@@ -1,0 +1,69 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+SLC39A14,Zinc transporter ZIP14,Chapter X Diseases of the respiratory system,J10_RESPDISOTH,Wald ratio,1,1.31 [1.01-1.71],0.0444110234007056,cis
+SLC39A14,Zinc transporter ZIP14,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.22 [1-1.49],0.0517883311504344,cis
+SLC39A14,Zinc transporter ZIP14,Chapter XII Diseases of the skin and subcutaneous tissue,L12_SKIN_SUBCUTAN,Wald ratio,1,1.12 [0.97-1.29],0.130863568507435,cis
+SLC39A14,Zinc transporter ZIP14,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1.08 [0.91-1.27],0.400825448552482,cis
+SLC39A14,Zinc transporter ZIP14,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_MUSCULOSKELETAL,Wald ratio,1,1.04 [0.93-1.17],0.458998870323612,cis
+SLC39A14,Zinc transporter ZIP14,Chapter IX Diseases of the circulatory system,I9_PAD,Wald ratio,1,0.86 [0.56-1.33],0.506309260178921,cis
+SLC39A14,Zinc transporter ZIP14,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_VIRAL_IMPL,Wald ratio,1,1.17 [0.73-1.87],0.523845423459006,cis
+SLC39A14,Zinc transporter ZIP14,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_BACT_IMPL,Wald ratio,1,1.07 [0.81-1.42],0.615865221016248,cis
+SLC39A14,Zinc transporter ZIP14,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_EXPLICIT,Wald ratio,1,1.08 [0.8-1.45],0.626569676617023,cis
+SLC39A14,Zinc transporter ZIP14,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.04 [0.88-1.23],0.653435772814172,cis
+SLC39A14,Zinc transporter ZIP14,Chapter XIV Diseases of the genitourinary system,N14_GENITOURINARY,Wald ratio,1,1.03 [0.91-1.15],0.669592376525876,cis
+SLC39A14,Zinc transporter ZIP14,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Wald ratio,1,1.03 [0.91-1.16],0.684501249907441,cis
+SLC39A14,Zinc transporter ZIP14,Chapter VI Diseases of the nervous system,G6_NEURO,Wald ratio,1,1.03 [0.89-1.19],0.709303029350488,cis
+SLC39A14,Zinc transporter ZIP14,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDOVER,Wald ratio,1,0.88 [0.46-1.69],0.710920887407396,cis
+SLC39A14,Zinc transporter ZIP14,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Wald ratio,1,1.08 [0.6-1.93],0.797503643076868,cis
+SLC39A14,Zinc transporter ZIP14,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,0.98 [0.78-1.23],0.851679964104419,cis
+SLC39A14,Zinc transporter ZIP14,Chapter I Certain infectious and parasitic diseases,AB1_INFECT_PARASIT,Wald ratio,1,0.99 [0.85-1.16],0.939260949670469,cis
+SLC39A14,Zinc transporter ZIP14,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,1 [0.79-1.26],0.984259520528501,cis
+SLC39A14,Zinc transporter ZIP14,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Inverse variance weighted,5,1.21 [1.06-1.38],0.00490976606226105,trans
+SLC39A14,Zinc transporter ZIP14,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Inverse variance weighted,5,1.39 [1.1-1.77],0.00589494196735495,trans
+SLC39A14,Zinc transporter ZIP14,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,5,1.13 [1.03-1.24],0.00867215022759102,trans
+SLC39A14,Zinc transporter ZIP14,Chapter XII Diseases of the skin and subcutaneous tissue,L12_CELLULITIS,Inverse variance weighted,5,1.51 [1.1-2.07],0.0110012666978597,trans
+SLC39A14,Zinc transporter ZIP14,Chapter X Diseases of the respiratory system,J10_LOWERINF,Inverse variance weighted,5,0.82 [0.69-0.99],0.03653934071402,trans
+SLC39A14,Zinc transporter ZIP14,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,5,1.19 [1.01-1.4],0.0386175063639784,trans
+SLC39A14,Zinc transporter ZIP14,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,5,1.62 [1.02-2.59],0.0417294504442822,trans
+SLC39A14,Zinc transporter ZIP14,Chapter XIV Diseases of the genitourinary system,N14_RENFAILNAS,Inverse variance weighted,5,0.63 [0.38-1.05],0.0748774334392983,trans
+SLC39A14,Zinc transporter ZIP14,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Inverse variance weighted,5,0.64 [0.38-1.05],0.078779378482158,trans
+SLC39A14,Zinc transporter ZIP14,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,5,1.21 [0.97-1.51],0.0910579929456007,trans
+SLC39A14,Zinc transporter ZIP14,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,5,0.69 [0.45-1.07],0.100411624480142,trans
+SLC39A14,Zinc transporter ZIP14,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIAINCHRONICDISEASE,Inverse variance weighted,5,0.37 [0.09-1.51],0.165742886593779,trans
+SLC39A14,Zinc transporter ZIP14,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,5,1.43 [0.86-2.38],0.170776824816604,trans
+SLC39A14,Zinc transporter ZIP14,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Inverse variance weighted,5,0.77 [0.52-1.12],0.171054685802709,trans
+SLC39A14,Zinc transporter ZIP14,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,5,1.2 [0.91-1.58],0.191181309056699,trans
+SLC39A14,Zinc transporter ZIP14,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Inverse variance weighted,5,0.47 [0.14-1.51],0.203006185067333,trans
+SLC39A14,Zinc transporter ZIP14,Chapter XIV Diseases of the genitourinary system,N14_RECURANDPERHEAMATUR,Inverse variance weighted,5,2.92 [0.51-16.57],0.22631907132748,trans
+SLC39A14,Zinc transporter ZIP14,Chapter IX Diseases of the circulatory system,I9_HYPOTE,Inverse variance weighted,5,0.79 [0.53-1.16],0.229202686264702,trans
+SLC39A14,Zinc transporter ZIP14,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Inverse variance weighted,5,1.62 [0.72-3.62],0.241119733905837,trans
+SLC39A14,Zinc transporter ZIP14,Chapter XIV Diseases of the genitourinary system,N14_GLOMEINOTH,Inverse variance weighted,5,0.76 [0.45-1.26],0.281114113840456,trans
+SLC39A14,Zinc transporter ZIP14,Chapter XIV Diseases of the genitourinary system,N14_CHRONEPHROPATH,Inverse variance weighted,5,1.5 [0.69-3.25],0.305059386338671,trans
+SLC39A14,Zinc transporter ZIP14,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERKALAEMIA,Inverse variance weighted,5,0.7 [0.36-1.38],0.30556807863311,trans
+SLC39A14,Zinc transporter ZIP14,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEUROPATHY,Inverse variance weighted,5,0.74 [0.42-1.31],0.306587945219997,trans
+SLC39A14,Zinc transporter ZIP14,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,5,1.15 [0.87-1.54],0.325843782741343,trans
+SLC39A14,Zinc transporter ZIP14,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,5,1.06 [0.94-1.19],0.331842644246004,trans
+SLC39A14,Zinc transporter ZIP14,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,5,1.31 [0.73-2.36],0.359710227743664,trans
+SLC39A14,Zinc transporter ZIP14,Chapter X Diseases of the respiratory system,J10_PLEUREFFUSION,Inverse variance weighted,5,1.18 [0.81-1.74],0.390156795063171,trans
+SLC39A14,Zinc transporter ZIP14,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,5,1.34 [0.68-2.66],0.400292785086305,trans
+SLC39A14,Zinc transporter ZIP14,Chapter XIV Diseases of the genitourinary system,N14_KIDUROTH,Inverse variance weighted,5,1.22 [0.77-1.93],0.400453201942745,trans
+SLC39A14,Zinc transporter ZIP14,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,5,1.34 [0.6-3.02],0.473487336501003,trans
+SLC39A14,Zinc transporter ZIP14,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACT_INOTHER,Inverse variance weighted,5,0.56 [0.1-3.23],0.516487584141792,trans
+SLC39A14,Zinc transporter ZIP14,Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,5,1.07 [0.87-1.31],0.520260668975604,trans
+SLC39A14,Zinc transporter ZIP14,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,5,1.08 [0.85-1.36],0.524695379435136,trans
+SLC39A14,Zinc transporter ZIP14,Chapter X Diseases of the respiratory system,J10_PLEURA,Inverse variance weighted,5,1.06 [0.86-1.31],0.581887156523343,trans
+SLC39A14,Zinc transporter ZIP14,Chapter XII Diseases of the skin and subcutaneous tissue,L12_ULCERLOWLIMB,Inverse variance weighted,5,1.17 [0.66-2.07],0.586037392070691,trans
+SLC39A14,Zinc transporter ZIP14,Chapter X Diseases of the respiratory system,INFLUENZA,Inverse variance weighted,5,1.14 [0.7-1.84],0.600958553999287,trans
+SLC39A14,Zinc transporter ZIP14,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Inverse variance weighted,5,0.87 [0.5-1.51],0.616865327782344,trans
+SLC39A14,Zinc transporter ZIP14,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Inverse variance weighted,5,0.88 [0.47-1.65],0.683786521274735,trans
+SLC39A14,Zinc transporter ZIP14,Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,5,1.04 [0.83-1.31],0.702382137784875,trans
+SLC39A14,Zinc transporter ZIP14,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Inverse variance weighted,5,0.93 [0.66-1.33],0.708057650092101,trans
+SLC39A14,Zinc transporter ZIP14,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,5,0.96 [0.77-1.2],0.74632308385643,trans
+SLC39A14,Zinc transporter ZIP14,Chapter I Certain infectious and parasitic diseases,AB1_STREPTSTAPHYCOCC_INOTHER,Inverse variance weighted,5,1.45 [0.07-28.54],0.806508947076784,trans
+SLC39A14,Zinc transporter ZIP14,Chapter VI Diseases of the nervous system,G6_POLYOTHUNS,Inverse variance weighted,5,1.05 [0.72-1.53],0.811179253219258,trans
+SLC39A14,Zinc transporter ZIP14,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,1.03 [0.81-1.31],0.813834951056761,trans
+SLC39A14,Zinc transporter ZIP14,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Inverse variance weighted,5,1.01 [0.84-1.23],0.891317289921985,trans
+SLC39A14,Zinc transporter ZIP14,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,5,0.99 [0.83-1.18],0.922708838383033,trans
+SLC39A14,Zinc transporter ZIP14,Chapter XIV Diseases of the genitourinary system,N14_OTHETNASKIDUR,Inverse variance weighted,5,1.04 [0.44-2.47],0.930220874832958,trans
+SLC39A14,Zinc transporter ZIP14,Chapter I Certain infectious and parasitic diseases,AB1_BACT_BIR_OTHER_INF_AGENTS,Inverse variance weighted,5,0.98 [0.55-1.76],0.946044262944026,trans
+SLC39A14,Zinc transporter ZIP14,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Inverse variance weighted,5,1.01 [0.81-1.24],0.956594238768359,trans
+SLC39A14,Zinc transporter ZIP14,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,5,1 [0.72-1.37],0.981481866937221,trans

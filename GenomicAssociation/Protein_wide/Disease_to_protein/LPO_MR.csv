@@ -1,0 +1,13 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+LPO,Lactoperoxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Wald ratio,1,1.11 [1.05-1.17],0.000185939126880629,trans
+LPO,Lactoperoxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,1.06 [1.03-1.09],0.00046582933028833,trans
+LPO,Lactoperoxidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,1.07 [1-1.14],0.0380017863002376,trans
+LPO,Lactoperoxidase,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,1.05 [0.99-1.12],0.124956085222207,trans
+LPO,Lactoperoxidase,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,1.02 [0.99-1.06],0.198502767513036,trans
+LPO,Lactoperoxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,0.95 [0.88-1.04],0.273631705343794,trans
+LPO,Lactoperoxidase,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.07 [0.93-1.22],0.327523064893835,trans
+LPO,Lactoperoxidase,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.87 [0.64-1.19],0.391923192955137,trans
+LPO,Lactoperoxidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,8,0.98 [0.93-1.04],0.521081782251029,trans
+LPO,Lactoperoxidase,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.02 [0.94-1.1],0.655391873035918,trans
+LPO,Lactoperoxidase,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,1.01 [0.91-1.13],0.850581892774195,trans
+LPO,Lactoperoxidase,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_CHOROIDRETINA,Inverse variance weighted,9,1 [0.91-1.1],0.966169496785155,trans

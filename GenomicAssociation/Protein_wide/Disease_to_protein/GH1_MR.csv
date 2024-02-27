@@ -1,0 +1,8 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+GH1,Somatotropin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,1.08 [0.95-1.22],0.222675189606366,trans
+GH1,Somatotropin,Chapter IX Diseases of the circulatory system,I9_CONDUCTIO,Inverse variance weighted,4,0.96 [0.9-1.04],0.333309852787442,trans
+GH1,Somatotropin,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,0.98 [0.86-1.11],0.741638844693675,trans
+GH1,Somatotropin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,0.98 [0.72-1.33],0.872816444197983,trans
+GH1,Somatotropin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,1.01 [0.82-1.25],0.936689528829732,trans
+GH1,Somatotropin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1 [0.73-1.37],0.991833892896526,trans
+GH1,Somatotropin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,1 [0.95-1.05],0.998794380369319,trans

@@ -1,0 +1,9 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+TEX101,Testis-expressed protein 101,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Inverse variance weighted,4,0.69 [0.47-1.01],0.0536742193481378,cis
+TEX101,Testis-expressed protein 101,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,1.32 [0.87-2.02],0.196727072447407,cis
+TEX101,Testis-expressed protein 101,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,4,1.03 [0.9-1.17],0.702823622578472,cis
+TEX101,Testis-expressed protein 101,Chapter XIV Diseases of the genitourinary system,N14_CHRONEPHROPATH,Inverse variance weighted,4,0.99 [0.53-1.83],0.96261298832253,cis
+TEX101,Testis-expressed protein 101,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Wald ratio,1,0.04 [0-0.7],0.0276346878225001,trans
+TEX101,Testis-expressed protein 101,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Wald ratio,1,0.24 [0.01-4.07],0.319494771619779,trans
+TEX101,Testis-expressed protein 101,Chapter XIV Diseases of the genitourinary system,N14_CHRONEPHROPATH,Wald ratio,1,0.48 [0.03-7.33],0.598255285146189,trans
+TEX101,Testis-expressed protein 101,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,0.96 [0.36-2.52],0.92639342081897,trans

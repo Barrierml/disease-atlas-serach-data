@@ -1,0 +1,69 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+FGF21,Fibroblast growth factor 21,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,0.85 [0.72-0.99],0.0367213448111723,trans
+FGF21,Fibroblast growth factor 21,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.73 [0.54-1],0.0487802224819398,trans
+FGF21,Fibroblast growth factor 21,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,0.79 [0.62-1],0.052671898731023,trans
+FGF21,Fibroblast growth factor 21,Chapter V Mental and behavioural disorders,F5_DEPRESSION_DYSTHYMIA,Inverse variance weighted,24,1.07 [0.99-1.14],0.0853440329604552,trans
+FGF21,Fibroblast growth factor 21,Chapter II Neoplasms,CD2_BENIGN_COLORECANI,Inverse variance weighted,17,0.96 [0.91-1.01],0.130614305092817,trans
+FGF21,Fibroblast growth factor 21,Chapter V Mental and behavioural disorders,SMOKING_DEPEND,Wald ratio,1,1.07 [0.98-1.16],0.133300592531472,trans
+FGF21,Fibroblast growth factor 21,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,1.05 [0.99-1.11],0.142966943634563,trans
+FGF21,Fibroblast growth factor 21,Chapter V Mental and behavioural disorders,F5_ALCOHOLAC,Inverse variance weighted,3,0.96 [0.91-1.01],0.145526125276332,trans
+FGF21,Fibroblast growth factor 21,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Wald ratio,1,1.04 [0.99-1.1],0.154339605986477,trans
+FGF21,Fibroblast growth factor 21,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Inverse variance weighted,3,0.97 [0.92-1.01],0.155664001454653,trans
+FGF21,Fibroblast growth factor 21,Chapter X Diseases of the respiratory system,COPD_EARLY,Inverse variance weighted,3,1.07 [0.97-1.18],0.157964346008608,trans
+FGF21,Fibroblast growth factor 21,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1.09 [0.96-1.23],0.173991577203267,trans
+FGF21,Fibroblast growth factor 21,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,24,1.05 [0.98-1.13],0.191905024704187,trans
+FGF21,Fibroblast growth factor 21,Chapter XI Diseases of the digestive system,K11_OTHDIG,Inverse variance weighted,12,0.96 [0.9-1.02],0.198797560761218,trans
+FGF21,Fibroblast growth factor 21,Chapter XI Diseases of the digestive system,NAFLD,Inverse variance weighted,6,1.02 [0.99-1.06],0.230477361192531,trans
+FGF21,Fibroblast growth factor 21,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,0.95 [0.87-1.03],0.237487418364019,trans
+FGF21,Fibroblast growth factor 21,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,7,1.06 [0.95-1.19],0.299731608233606,trans
+FGF21,Fibroblast growth factor 21,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERLIPNAS,Inverse variance weighted,21,1.03 [0.98-1.08],0.302336223022345,trans
+FGF21,Fibroblast growth factor 21,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.04 [0.96-1.12],0.326601878088995,trans
+FGF21,Fibroblast growth factor 21,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,1.15 [0.86-1.54],0.333363123500888,trans
+FGF21,Fibroblast growth factor 21,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_B12_DEF,Inverse variance weighted,11,1.02 [0.98-1.05],0.338037467071098,trans
+FGF21,Fibroblast growth factor 21,Chapter IX Diseases of the circulatory system,I9_ATHSCLE,Inverse variance weighted,13,1.03 [0.97-1.1],0.364750835652176,trans
+FGF21,Fibroblast growth factor 21,Chapter IX Diseases of the circulatory system,I9_SEQULAE,Inverse variance weighted,4,0.97 [0.91-1.03],0.367198833432419,trans
+FGF21,Fibroblast growth factor 21,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,1.07 [0.93-1.23],0.372289863064346,trans
+FGF21,Fibroblast growth factor 21,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,14,1.05 [0.94-1.18],0.372565467557158,trans
+FGF21,Fibroblast growth factor 21,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,1.03 [0.96-1.11],0.372865309450499,trans
+FGF21,Fibroblast growth factor 21,Chapter IX Diseases of the circulatory system,I9_CARDARR,Inverse variance weighted,2,0.98 [0.93-1.03],0.382131866988226,trans
+FGF21,Fibroblast growth factor 21,Chapter XI Diseases of the digestive system,COLITNONINFNAS,Wald ratio,1,1.1 [0.89-1.36],0.398584508388925,trans
+FGF21,Fibroblast growth factor 21,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,1.02 [0.98-1.06],0.425748073299533,trans
+FGF21,Fibroblast growth factor 21,Chapter XI Diseases of the digestive system,K11_GALLBILPANC,Inverse variance weighted,21,0.95 [0.82-1.09],0.432608452588715,trans
+FGF21,Fibroblast growth factor 21,Chapter IX Diseases of the circulatory system,I9_PULMEMB,Inverse variance weighted,23,1.01 [0.98-1.04],0.454650851458876,trans
+FGF21,Fibroblast growth factor 21,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,8,1.03 [0.95-1.13],0.462493697915827,trans
+FGF21,Fibroblast growth factor 21,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,0.92 [0.74-1.15],0.463619803309711,trans
+FGF21,Fibroblast growth factor 21,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,1.07 [0.89-1.29],0.467481106517451,trans
+FGF21,Fibroblast growth factor 21,Chapter XI Diseases of the digestive system,K11_CHOLELITH,Inverse variance weighted,122,0.98 [0.94-1.03],0.472730886272324,trans
+FGF21,Fibroblast growth factor 21,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.1 [0.85-1.42],0.483888600750158,trans
+FGF21,Fibroblast growth factor 21,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,0.95 [0.84-1.09],0.487074702055056,trans
+FGF21,Fibroblast growth factor 21,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,10,0.98 [0.93-1.04],0.502895067744472,trans
+FGF21,Fibroblast growth factor 21,Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,2,0.84 [0.51-1.39],0.503870458070582,trans
+FGF21,Fibroblast growth factor 21,Chapter XI Diseases of the digestive system,K11_DIVERTIC,Inverse variance weighted,50,0.99 [0.95-1.03],0.522530418857679,trans
+FGF21,Fibroblast growth factor 21,Chapter XI Diseases of the digestive system,K11_INTESTOTH,Inverse variance weighted,10,1.04 [0.91-1.19],0.549812916404306,trans
+FGF21,Fibroblast growth factor 21,Chapter XI Diseases of the digestive system,K11_DIAHER,Inverse variance weighted,8,0.98 [0.93-1.04],0.565941848176743,trans
+FGF21,Fibroblast growth factor 21,Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Inverse variance weighted,2,0.99 [0.95-1.03],0.574784224313912,trans
+FGF21,Fibroblast growth factor 21,Chapter VI Diseases of the nervous system,G6_POLYOTHUNS,Inverse variance weighted,2,1.04 [0.91-1.18],0.592881910494392,trans
+FGF21,Fibroblast growth factor 21,Chapter XI Diseases of the digestive system,K11_OESSTODUO,Wald ratio,1,1.12 [0.73-1.71],0.613244183030188,trans
+FGF21,Fibroblast growth factor 21,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,5,0.94 [0.72-1.22],0.625435431612719,trans
+FGF21,Fibroblast growth factor 21,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,0.99 [0.96-1.03],0.629423173898572,trans
+FGF21,Fibroblast growth factor 21,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,1.04 [0.88-1.23],0.646525585224034,trans
+FGF21,Fibroblast growth factor 21,Chapter V Mental and behavioural disorders,AUD,Inverse variance weighted,6,0.99 [0.92-1.06],0.700527613534932,trans
+FGF21,Fibroblast growth factor 21,Chapter XI Diseases of the digestive system,K11_OTHENTERCOL,Inverse variance weighted,2,1.03 [0.88-1.21],0.701622603706575,trans
+FGF21,Fibroblast growth factor 21,Chapter V Mental and behavioural disorders,ALCOHOLMENTAL,Wald ratio,1,1.02 [0.9-1.16],0.729908854650309,trans
+FGF21,Fibroblast growth factor 21,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,1.04 [0.82-1.3],0.754129253599304,trans
+FGF21,Fibroblast growth factor 21,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,11,1.01 [0.93-1.1],0.757251178775917,trans
+FGF21,Fibroblast growth factor 21,Chapter XI Diseases of the digestive system,K11_ALCOLIV,Inverse variance weighted,4,0.99 [0.95-1.04],0.767494662436161,trans
+FGF21,Fibroblast growth factor 21,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,0.96 [0.69-1.32],0.78143657473464,trans
+FGF21,Fibroblast growth factor 21,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Inverse variance weighted,3,1.02 [0.9-1.14],0.786500959269676,trans
+FGF21,Fibroblast growth factor 21,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,10,0.99 [0.93-1.05],0.790375347127582,trans
+FGF21,Fibroblast growth factor 21,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,0.99 [0.88-1.1],0.807677375218831,trans
+FGF21,Fibroblast growth factor 21,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,35,1 [0.97-1.04],0.828254302413142,trans
+FGF21,Fibroblast growth factor 21,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Wald ratio,1,1 [0.95-1.06],0.873510660364135,trans
+FGF21,Fibroblast growth factor 21,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,1 [0.97-1.04],0.902051773270369,trans
+FGF21,Fibroblast growth factor 21,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,1 [0.97-1.03],0.913520853761816,trans
+FGF21,Fibroblast growth factor 21,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.01 [0.84-1.22],0.924041508983819,trans
+FGF21,Fibroblast growth factor 21,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,1 [0.95-1.05],0.927840206852563,trans
+FGF21,Fibroblast growth factor 21,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1.01 [0.73-1.4],0.958560466621147,trans
+FGF21,Fibroblast growth factor 21,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Wald ratio,1,1 [0.93-1.07],0.964405119873699,trans
+FGF21,Fibroblast growth factor 21,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,1 [0.8-1.23],0.967888312732641,trans
+FGF21,Fibroblast growth factor 21,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1 [0.96-1.04],0.981882210260684,trans

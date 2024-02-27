@@ -1,0 +1,14 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+VSIG10L,V-set and immunoglobulin domain-containing protein 10-like,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Inverse variance weighted,4,1.68 [1.11-2.54],0.0136525018874218,cis
+VSIG10L,V-set and immunoglobulin domain-containing protein 10-like,Chapter XI Diseases of the digestive system,K11_ALCOLIV,Inverse variance weighted,5,0.78 [0.61-0.98],0.0360221193633919,cis
+VSIG10L,V-set and immunoglobulin domain-containing protein 10-like,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,5,0.88 [0.59-1.29],0.506122602802057,cis
+VSIG10L,V-set and immunoglobulin domain-containing protein 10-like,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,5,1.03 [0.91-1.18],0.624807390365015,cis
+VSIG10L,V-set and immunoglobulin domain-containing protein 10-like,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Inverse variance weighted,5,1.02 [0.9-1.17],0.722227638957391,cis
+VSIG10L,V-set and immunoglobulin domain-containing protein 10-like,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,5,0.98 [0.86-1.12],0.814257316977292,cis
+VSIG10L,V-set and immunoglobulin domain-containing protein 10-like,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,5,0.99 [0.93-1.06],0.857169602767052,cis
+VSIG10L,V-set and immunoglobulin domain-containing protein 10-like,Chapter XI Diseases of the digestive system,K11_LIVER,Wald ratio,1,0.7 [0.4-1.23],0.213003228152382,trans
+VSIG10L,V-set and immunoglobulin domain-containing protein 10-like,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Wald ratio,1,3.1 [0.49-19.58],0.229743238676591,trans
+VSIG10L,V-set and immunoglobulin domain-containing protein 10-like,Chapter XI Diseases of the digestive system,K11_ALCOLIV,Wald ratio,1,0.67 [0.22-2.04],0.482072690683769,trans
+VSIG10L,V-set and immunoglobulin domain-containing protein 10-like,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.93 [0.67-1.27],0.633068507356247,trans
+VSIG10L,V-set and immunoglobulin domain-containing protein 10-like,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.15 [0.62-2.14],0.663923895783806,trans
+VSIG10L,V-set and immunoglobulin domain-containing protein 10-like,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Wald ratio,1,0.97 [0.53-1.78],0.91890429971716,trans

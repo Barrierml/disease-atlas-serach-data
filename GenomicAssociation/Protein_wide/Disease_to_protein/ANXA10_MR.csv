@@ -1,0 +1,88 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+ANXA10,Annexin A10,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.65 [1.41-1.93],7.02349321545785e-10,trans
+ANXA10,Annexin A10,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Wald ratio,1,1.41 [1.26-1.57],7.02349321545789e-10,trans
+ANXA10,Annexin A10,Chapter XI Diseases of the digestive system,K11_GASTRODUOULC,Inverse variance weighted,4,1.19 [1.1-1.29],2.16853174732535e-05,trans
+ANXA10,Annexin A10,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,0.94 [0.91-0.98],0.002062720077533,trans
+ANXA10,Annexin A10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_INCLAVO,Inverse variance weighted,50,1.09 [1.02-1.16],0.0112594354471906,trans
+ANXA10,Annexin A10,Chapter XI Diseases of the digestive system,K11_DIAHER,Inverse variance weighted,8,1.06 [1.01-1.12],0.0161077257378662,trans
+ANXA10,Annexin A10,Chapter II Neoplasms,C3_STOMACH_EXALLC,Inverse variance weighted,2,0.88 [0.78-0.99],0.040152924496699,trans
+ANXA10,Annexin A10,Chapter VI Diseases of the nervous system,G6_ROOTPLEXOTHUNS,Wald ratio,1,0.89 [0.79-1],0.0411206835659625,trans
+ANXA10,Annexin A10,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.08 [1-1.17],0.054173638812829,trans
+ANXA10,Annexin A10,Chapter XI Diseases of the digestive system,K11_OTHFUNC,Wald ratio,1,0.8 [0.63-1.01],0.0617322349553826,trans
+ANXA10,Annexin A10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS,Inverse variance weighted,51,1.06 [0.99-1.12],0.0763609340645736,trans
+ANXA10,Annexin A10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_OTH,Inverse variance weighted,3,0.88 [0.77-1.02],0.0823275493880437,trans
+ANXA10,Annexin A10,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,0.97 [0.95-1],0.0876089026201929,trans
+ANXA10,Annexin A10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,22,1.03 [0.99-1.08],0.0876386821489637,trans
+ANXA10,Annexin A10,Chapter XI Diseases of the digestive system,K11_GALLBILPANC,Inverse variance weighted,21,1.04 [0.99-1.08],0.0943722569256401,trans
+ANXA10,Annexin A10,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,0.82 [0.64-1.04],0.106057807840865,trans
+ANXA10,Annexin A10,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,1.21 [0.96-1.53],0.107343917313489,trans
+ANXA10,Annexin A10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SPONDYLOSIS,Inverse variance weighted,8,1.07 [0.98-1.17],0.110150801175195,trans
+ANXA10,Annexin A10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_KNEE,Inverse variance weighted,54,1.03 [0.99-1.08],0.122302545110687,trans
+ANXA10,Annexin A10,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,0.95 [0.88-1.02],0.130114386207435,trans
+ANXA10,Annexin A10,Chapter IX Diseases of the circulatory system,I9_CARDARR,Inverse variance weighted,2,1.04 [0.99-1.1],0.131580651970706,trans
+ANXA10,Annexin A10,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,0.97 [0.94-1.01],0.138804548034246,trans
+ANXA10,Annexin A10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Inverse variance weighted,5,1.05 [0.98-1.12],0.162882141661716,trans
+ANXA10,Annexin A10,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,1.1 [0.96-1.26],0.172356598980616,trans
+ANXA10,Annexin A10,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,2,0.87 [0.71-1.06],0.17339326188772,trans
+ANXA10,Annexin A10,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.81 [0.59-1.11],0.185482212208491,trans
+ANXA10,Annexin A10,Chapter XI Diseases of the digestive system,K11_DULC,Inverse variance weighted,3,1.04 [0.98-1.12],0.19960228773532,trans
+ANXA10,Annexin A10,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_B12_DEF,Inverse variance weighted,11,1.02 [0.99-1.06],0.210929487654462,trans
+ANXA10,Annexin A10,Chapter VI Diseases of the nervous system,G6_NERPLEX,Inverse variance weighted,4,1.18 [0.91-1.53],0.212317235666805,trans
+ANXA10,Annexin A10,Chapter IX Diseases of the circulatory system,I9_UAP,Inverse variance weighted,24,1.02 [0.99-1.06],0.212764862767661,trans
+ANXA10,Annexin A10,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,11,1.04 [0.98-1.1],0.225400898687654,trans
+ANXA10,Annexin A10,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,1.12 [0.93-1.35],0.241128631812104,trans
+ANXA10,Annexin A10,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,0.95 [0.87-1.04],0.272990792964808,trans
+ANXA10,Annexin A10,Chapter V Mental and behavioural disorders,SMOKING_DEPEND,Wald ratio,1,1.05 [0.96-1.15],0.274865387681935,trans
+ANXA10,Annexin A10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,25,1.07 [0.94-1.2],0.307881573349063,trans
+ANXA10,Annexin A10,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,0.94 [0.82-1.07],0.332985741348374,trans
+ANXA10,Annexin A10,Chapter XI Diseases of the digestive system,COLITNONINFNAS,Wald ratio,1,0.91 [0.73-1.13],0.378270946568593,trans
+ANXA10,Annexin A10,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,0.95 [0.85-1.06],0.382206965581574,trans
+ANXA10,Annexin A10,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,5,1.09 [0.89-1.33],0.38912383424367,trans
+ANXA10,Annexin A10,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Inverse variance weighted,4,1.02 [0.98-1.05],0.434105875322264,trans
+ANXA10,Annexin A10,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,0.95 [0.84-1.08],0.448016842713691,trans
+ANXA10,Annexin A10,Chapter IX Diseases of the circulatory system,I9_STR,Inverse variance weighted,3,1.06 [0.91-1.23],0.452016356249843,trans
+ANXA10,Annexin A10,Chapter II Neoplasms,C3_MELANOMA_SKIN_EXALLC,Inverse variance weighted,12,0.99 [0.97-1.01],0.461459779644382,trans
+ANXA10,Annexin A10,Chapter XI Diseases of the digestive system,K11_CONSTIPATION,Wald ratio,1,0.88 [0.62-1.24],0.463318829290717,trans
+ANXA10,Annexin A10,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,1.01 [0.98-1.03],0.469115147846027,trans
+ANXA10,Annexin A10,Chapter X Diseases of the respiratory system,COPD_LATER,Wald ratio,1,1.03 [0.94-1.12],0.501492811905271,trans
+ANXA10,Annexin A10,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Wald ratio,1,0.9 [0.67-1.22],0.509952067938857,trans
+ANXA10,Annexin A10,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1.11 [0.8-1.55],0.524891989711013,trans
+ANXA10,Annexin A10,Chapter XI Diseases of the digestive system,K11_GULC,Wald ratio,1,1.05 [0.9-1.22],0.53348316053736,trans
+ANXA10,Annexin A10,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,1.03 [0.94-1.12],0.543097595406736,trans
+ANXA10,Annexin A10,Chapter XI Diseases of the digestive system,K11_INTESTOTH,Inverse variance weighted,10,1.04 [0.91-1.18],0.54930074586406,trans
+ANXA10,Annexin A10,Chapter XI Diseases of the digestive system,K11_OTHDIG,Inverse variance weighted,12,1.02 [0.96-1.08],0.556539046663092,trans
+ANXA10,Annexin A10,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,1.01 [0.96-1.06],0.598332560543512,trans
+ANXA10,Annexin A10,Chapter XI Diseases of the digestive system,K11_COELIAC,Inverse variance weighted,52,1 [0.99-1.02],0.608651888143383,trans
+ANXA10,Annexin A10,Chapter IX Diseases of the circulatory system,I9_PAROXTAC,Inverse variance weighted,7,0.99 [0.94-1.04],0.608741724413199,trans
+ANXA10,Annexin A10,Chapter XI Diseases of the digestive system,K11_OESSTODUO,Wald ratio,1,0.9 [0.58-1.39],0.62530714457461,trans
+ANXA10,Annexin A10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DORSOPATHYOTH,Inverse variance weighted,27,1.02 [0.94-1.11],0.630567148607179,trans
+ANXA10,Annexin A10,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERLIPNAS,Inverse variance weighted,21,1.01 [0.97-1.06],0.632652198122013,trans
+ANXA10,Annexin A10,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,0.97 [0.86-1.1],0.64934321102882,trans
+ANXA10,Annexin A10,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,0.94 [0.71-1.24],0.660317600896465,trans
+ANXA10,Annexin A10,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.07 [0.78-1.48],0.671597894312421,trans
+ANXA10,Annexin A10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,JOINTPAIN,Inverse variance weighted,3,1.03 [0.9-1.18],0.677431540352568,trans
+ANXA10,Annexin A10,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,0.95 [0.74-1.22],0.698582699570309,trans
+ANXA10,Annexin A10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_INTERVERTEB,Inverse variance weighted,30,0.99 [0.94-1.05],0.69858401214162,trans
+ANXA10,Annexin A10,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,0.99 [0.95-1.03],0.706632036393809,trans
+ANXA10,Annexin A10,Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,2,0.91 [0.55-1.5],0.709814873032855,trans
+ANXA10,Annexin A10,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Inverse variance weighted,13,1.01 [0.95-1.08],0.736411031238276,trans
+ANXA10,Annexin A10,Chapter XI Diseases of the digestive system,K11_DIVERTIC,Inverse variance weighted,50,1 [0.96-1.03],0.792748681220941,trans
+ANXA10,Annexin A10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_POLY,Wald ratio,1,0.98 [0.87-1.12],0.79307439674724,trans
+ANXA10,Annexin A10,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,61,0.99 [0.95-1.04],0.809345462802738,trans
+ANXA10,Annexin A10,Chapter XI Diseases of the digestive system,K11_FUNCDYSP,Wald ratio,1,0.98 [0.82-1.17],0.830550469427065,trans
+ANXA10,Annexin A10,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,0.98 [0.78-1.22],0.837429535780056,trans
+ANXA10,Annexin A10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OTHERJOINT,Inverse variance weighted,16,0.99 [0.88-1.11],0.85424936197435,trans
+ANXA10,Annexin A10,Chapter X Diseases of the respiratory system,COPD_EARLY,Inverse variance weighted,3,1.01 [0.94-1.08],0.859247373707318,trans
+ANXA10,Annexin A10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,24,1 [0.96-1.03],0.883021533427481,trans
+ANXA10,Annexin A10,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,1 [0.95-1.06],0.890610279104146,trans
+ANXA10,Annexin A10,Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,2,0.99 [0.81-1.21],0.89542558038603,trans
+ANXA10,Annexin A10,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1.01 [0.9-1.13],0.903425788499286,trans
+ANXA10,Annexin A10,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,7,1 [0.92-1.1],0.923679418581322,trans
+ANXA10,Annexin A10,Chapter XI Diseases of the digestive system,K11_CHOLELITH,Inverse variance weighted,122,1 [0.98-1.02],0.92397647419166,trans
+ANXA10,Annexin A10,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.01 [0.78-1.31],0.926591039560867,trans
+ANXA10,Annexin A10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,1 [0.94-1.07],0.944764825093186,trans
+ANXA10,Annexin A10,Chapter IX Diseases of the circulatory system,I9_SEQULAE,Inverse variance weighted,4,1 [0.92-1.09],0.957198567717394,trans
+ANXA10,Annexin A10,Chapter V Mental and behavioural disorders,F5_DEPRESSION_DYSTHYMIA,Inverse variance weighted,24,1 [0.93-1.07],0.959718393305022,trans
+ANXA10,Annexin A10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,14,1 [0.96-1.04],0.976311354368426,trans
+ANXA10,Annexin A10,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SPONDYLOPATHY,Inverse variance weighted,21,1 [0.93-1.07],0.982191967961691,trans
+ANXA10,Annexin A10,Chapter X Diseases of the respiratory system,J10_ASTHMA_EXMORE,Inverse variance weighted,59,1 [0.96-1.04],0.990709678383521,trans

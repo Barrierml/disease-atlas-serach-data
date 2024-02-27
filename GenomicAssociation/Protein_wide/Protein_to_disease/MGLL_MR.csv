@@ -1,0 +1,7 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+MGLL,Monoglyceride lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_THROMBOCYTOPENIANAS,Inverse variance weighted,2,0.76 [0.43-1.36],0.358053066984745,cis
+MGLL,Monoglyceride lipase,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,2,0.96 [0.75-1.22],0.73616318132264,cis
+MGLL,Monoglyceride lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Inverse variance weighted,2,1.07 [0.72-1.59],0.74472944204848,cis
+MGLL,Monoglyceride lipase,Chapter XI Diseases of the digestive system,K11_LIVER,Wald ratio,1,1.23 [0.68-2.21],0.492937528247432,trans
+MGLL,Monoglyceride lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Wald ratio,1,1.07 [0.41-2.81],0.895733559910711,trans
+MGLL,Monoglyceride lipase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_THROMBOCYTOPENIANAS,Wald ratio,1,1.03 [0.25-4.14],0.971990255759119,trans

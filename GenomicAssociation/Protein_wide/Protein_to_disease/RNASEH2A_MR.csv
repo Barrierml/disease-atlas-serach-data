@@ -1,0 +1,5 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+RNASEH2A,Ribonuclease H2 subunit A,Chapter XI Diseases of the digestive system,K11_MALABSORB,Wald ratio,1,1.18 [0.51-2.75],0.698058213396728,cis
+RNASEH2A,Ribonuclease H2 subunit A,Chapter XI Diseases of the digestive system,K11_COELIAC,Wald ratio,1,0.94 [0.57-1.54],0.803730110131633,cis
+RNASEH2A,Ribonuclease H2 subunit A,Chapter XI Diseases of the digestive system,K11_COELIAC,Inverse variance weighted,3,0.87 [0.6-1.26],0.461616436636606,trans
+RNASEH2A,Ribonuclease H2 subunit A,Chapter XI Diseases of the digestive system,K11_MALABSORB,Inverse variance weighted,3,1.08 [0.57-2.05],0.808201481245311,trans

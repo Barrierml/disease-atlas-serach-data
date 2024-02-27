@@ -1,0 +1,15 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,1.11 [1.07-1.15],3.39381951123454e-09,trans
+BOC,Brother of CDO,Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Inverse variance weighted,2,1.09 [1.06-1.12],3.81923888902284e-09,trans
+BOC,Brother of CDO,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.11 [1.03-1.2],0.00707072138039221,trans
+BOC,Brother of CDO,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,8,1.04 [1.01-1.07],0.0139418882042707,trans
+BOC,Brother of CDO,Chapter XI Diseases of the digestive system,K11_DIVERTIC,Inverse variance weighted,50,1.05 [1.01-1.09],0.0177819022358198,trans
+BOC,Brother of CDO,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,5,1.04 [0.99-1.08],0.118270654276405,trans
+BOC,Brother of CDO,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,1.05 [0.97-1.15],0.231140327865728,trans
+BOC,Brother of CDO,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,1.02 [0.98-1.06],0.313983848743166,trans
+BOC,Brother of CDO,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Inverse variance weighted,5,1.01 [0.97-1.05],0.494014245177425,trans
+BOC,Brother of CDO,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,0.99 [0.96-1.03],0.729626476854124,trans
+BOC,Brother of CDO,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Inverse variance weighted,13,0.99 [0.9-1.09],0.817189803318152,trans
+BOC,Brother of CDO,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEUROPATHY,Wald ratio,1,0.99 [0.89-1.1],0.817853333751905,trans
+BOC,Brother of CDO,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,1 [0.96-1.04],0.953917233412921,trans
+BOC,Brother of CDO,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Wald ratio,1,1 [0.95-1.05],0.969956077014954,trans

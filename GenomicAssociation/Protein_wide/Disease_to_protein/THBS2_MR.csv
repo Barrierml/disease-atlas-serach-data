@@ -1,0 +1,102 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+THBS2,Thrombospondin-2,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Inverse variance weighted,3,1.26 [1.2-1.32],1.25817079248616e-18,trans
+THBS2,Thrombospondin-2,Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Inverse variance weighted,2,1.12 [1.09-1.15],2.16473926472504e-16,trans
+THBS2,Thrombospondin-2,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,1.15 [1.11-1.18],4.08965140183657e-16,trans
+THBS2,Thrombospondin-2,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1.16 [1.11-1.22],1.19833767381984e-10,trans
+THBS2,Thrombospondin-2,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,8,1.21 [1.11-1.32],1.67819634393956e-05,trans
+THBS2,Thrombospondin-2,Chapter XI Diseases of the digestive system,NAFLD,Inverse variance weighted,6,1.11 [1.06-1.17],4.18554658797123e-05,trans
+THBS2,Thrombospondin-2,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,0.82 [0.73-0.92],0.000518270153587398,trans
+THBS2,Thrombospondin-2,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,0.69 [0.54-0.87],0.00208180047993009,trans
+THBS2,Thrombospondin-2,Chapter XI Diseases of the digestive system,K11_ALCOLIV,Inverse variance weighted,4,1.15 [1.05-1.25],0.00232465802964477,trans
+THBS2,Thrombospondin-2,Chapter VI Diseases of the nervous system,G6_EPIPAROX,Inverse variance weighted,11,1.23 [1.07-1.41],0.00342460415545301,trans
+THBS2,Thrombospondin-2,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,1.1 [1.02-1.18],0.00849133183030028,trans
+THBS2,Thrombospondin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOPOROSIS,Inverse variance weighted,3,1.12 [1.02-1.23],0.0134511449325113,trans
+THBS2,Thrombospondin-2,Chapter XI Diseases of the digestive system,K11_UC_STRICT2,Inverse variance weighted,37,1.02 [1-1.04],0.0322838973329341,trans
+THBS2,Thrombospondin-2,Chapter XI Diseases of the digestive system,K11_OTHFUNC,Wald ratio,1,0.79 [0.63-0.99],0.0392491945654169,trans
+THBS2,Thrombospondin-2,Chapter X Diseases of the respiratory system,J10_ASTHMA_EXMORE,Inverse variance weighted,59,0.96 [0.92-1],0.0568618735829957,trans
+THBS2,Thrombospondin-2,Chapter XI Diseases of the digestive system,ULCERNAS,Inverse variance weighted,18,1.02 [1-1.05],0.0708048365178453,trans
+THBS2,Thrombospondin-2,Chapter X Diseases of the respiratory system,IPF,Inverse variance weighted,20,1.01 [1-1.03],0.0830974044822776,trans
+THBS2,Thrombospondin-2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.3 [0.96-1.77],0.0908193073378251,trans
+THBS2,Thrombospondin-2,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Inverse variance weighted,13,0.93 [0.86-1.01],0.0938658058599381,trans
+THBS2,Thrombospondin-2,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,35,1.03 [0.99-1.06],0.0996531450337766,trans
+THBS2,Thrombospondin-2,Chapter II Neoplasms,C3_BILIARY_GALLBLADDER_EXALLC,Inverse variance weighted,3,1.12 [0.98-1.27],0.0996781221242632,trans
+THBS2,Thrombospondin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,0.88 [0.76-1.03],0.104924049384575,trans
+THBS2,Thrombospondin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Wald ratio,1,0.92 [0.83-1.02],0.104924049384575,trans
+THBS2,Thrombospondin-2,Chapter IX Diseases of the circulatory system,I9_AVBLOCK,Inverse variance weighted,5,1.05 [0.99-1.11],0.116451396979595,trans
+THBS2,Thrombospondin-2,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,21,1.02 [1-1.04],0.136522009870529,trans
+THBS2,Thrombospondin-2,Chapter X Diseases of the respiratory system,COPD_EARLY,Inverse variance weighted,3,1.05 [0.99-1.11],0.138103971729183,trans
+THBS2,Thrombospondin-2,Chapter X Diseases of the respiratory system,COPD_LATER,Wald ratio,1,1.06 [0.98-1.15],0.138315161911411,trans
+THBS2,Thrombospondin-2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,1.17 [0.95-1.44],0.145821261720198,trans
+THBS2,Thrombospondin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Wald ratio,1,1.04 [0.99-1.1],0.156837882229217,trans
+THBS2,Thrombospondin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_IRON_MET,Inverse variance weighted,8,1.01 [1-1.02],0.158659892492959,trans
+THBS2,Thrombospondin-2,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.05 [0.98-1.13],0.167704549969692,trans
+THBS2,Thrombospondin-2,Chapter IX Diseases of the circulatory system,I9_ATHSCLE,Inverse variance weighted,13,1.04 [0.98-1.11],0.19065370848911,trans
+THBS2,Thrombospondin-2,Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,2,1.13 [0.94-1.37],0.19410868024117,trans
+THBS2,Thrombospondin-2,Chapter IX Diseases of the circulatory system,I9_CONDUCTIO,Inverse variance weighted,4,1.05 [0.97-1.14],0.199366396546525,trans
+THBS2,Thrombospondin-2,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.82 [0.6-1.12],0.210504382795579,trans
+THBS2,Thrombospondin-2,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Wald ratio,1,0.84 [0.64-1.11],0.231549569417668,trans
+THBS2,Thrombospondin-2,Chapter XI Diseases of the digestive system,K11_CD_STRICT2,Inverse variance weighted,8,0.99 [0.97-1.01],0.240297707380903,trans
+THBS2,Thrombospondin-2,Chapter X Diseases of the respiratory system,J10_EMPHYSEMA,Wald ratio,1,1.03 [0.98-1.09],0.249274601191272,trans
+THBS2,Thrombospondin-2,Chapter V Mental and behavioural disorders,SMOKING_DEPEND,Wald ratio,1,1.05 [0.97-1.14],0.249685017806666,trans
+THBS2,Thrombospondin-2,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,11,1.03 [0.98-1.1],0.251952308097946,trans
+THBS2,Thrombospondin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,0.95 [0.88-1.03],0.252041929605771,trans
+THBS2,Thrombospondin-2,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,61,0.97 [0.92-1.02],0.252630503544912,trans
+THBS2,Thrombospondin-2,Chapter V Mental and behavioural disorders,F5_DEPRESSION_DYSTHYMIA,Inverse variance weighted,24,1.05 [0.97-1.14],0.26454539508538,trans
+THBS2,Thrombospondin-2,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.14 [0.89-1.46],0.292494979604747,trans
+THBS2,Thrombospondin-2,Chapter XI Diseases of the digestive system,K11_DULC,Inverse variance weighted,3,1.02 [0.98-1.05],0.296723535019515,trans
+THBS2,Thrombospondin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,1.05 [0.96-1.16],0.29693655265801,trans
+THBS2,Thrombospondin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,25,1.08 [0.93-1.25],0.302159573205568,trans
+THBS2,Thrombospondin-2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,1.07 [0.94-1.2],0.303663132264218,trans
+THBS2,Thrombospondin-2,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.86 [0.64-1.15],0.3126510958273,trans
+THBS2,Thrombospondin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,14,1.02 [0.98-1.05],0.320186462650209,trans
+THBS2,Thrombospondin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,0.98 [0.95-1.02],0.327943006810026,trans
+THBS2,Thrombospondin-2,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.06 [0.94-1.21],0.348326482009515,trans
+THBS2,Thrombospondin-2,Chapter V Mental and behavioural disorders,F5_DELIRIUM,Wald ratio,1,0.95 [0.84-1.07],0.392935425784621,trans
+THBS2,Thrombospondin-2,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,0.91 [0.72-1.14],0.406553888320774,trans
+THBS2,Thrombospondin-2,Chapter VI Diseases of the nervous system,G6_BELLPA,Inverse variance weighted,2,1.03 [0.96-1.09],0.415749901066387,trans
+THBS2,Thrombospondin-2,Chapter XI Diseases of the digestive system,K11_INTESTOTH,Inverse variance weighted,10,0.95 [0.85-1.07],0.422554569301374,trans
+THBS2,Thrombospondin-2,Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,2,0.95 [0.83-1.08],0.440228538904827,trans
+THBS2,Thrombospondin-2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,1.02 [0.96-1.09],0.467259304609139,trans
+THBS2,Thrombospondin-2,Chapter XI Diseases of the digestive system,K11_CD_NOUC,Inverse variance weighted,4,0.99 [0.96-1.02],0.479854627568551,trans
+THBS2,Thrombospondin-2,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DERMATITISECZEMA,Inverse variance weighted,36,1.02 [0.96-1.08],0.48228751992504,trans
+THBS2,Thrombospondin-2,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,0.94 [0.78-1.13],0.496892002876171,trans
+THBS2,Thrombospondin-2,Chapter I Certain infectious and parasitic diseases,AB1_BACTINF_NOS,Inverse variance weighted,2,0.93 [0.75-1.16],0.509670049746479,trans
+THBS2,Thrombospondin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,1.01 [0.98-1.04],0.521383167808669,trans
+THBS2,Thrombospondin-2,Chapter XI Diseases of the digestive system,K11_CONSTIPATION,Wald ratio,1,0.9 [0.64-1.26],0.535706254565261,trans
+THBS2,Thrombospondin-2,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1.04 [0.91-1.18],0.575844626460268,trans
+THBS2,Thrombospondin-2,Chapter VI Diseases of the nervous system,G6_POLYOTHUNS,Inverse variance weighted,2,0.97 [0.85-1.1],0.590734309378573,trans
+THBS2,Thrombospondin-2,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,0.94 [0.76-1.18],0.611078045587208,trans
+THBS2,Thrombospondin-2,Chapter IX Diseases of the circulatory system,I9_LBBB,Inverse variance weighted,2,1.02 [0.94-1.11],0.61253185839756,trans
+THBS2,Thrombospondin-2,Chapter XI Diseases of the digestive system,K11_OTHENTERCOL,Inverse variance weighted,2,1.03 [0.91-1.18],0.618119115083792,trans
+THBS2,Thrombospondin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,JOINTPAIN,Inverse variance weighted,3,1.04 [0.88-1.23],0.627827464484974,trans
+THBS2,Thrombospondin-2,Chapter IX Diseases of the circulatory system,I9_CARDMYO,Inverse variance weighted,18,1 [0.98-1.03],0.634011149762271,trans
+THBS2,Thrombospondin-2,Chapter IX Diseases of the circulatory system,I9_STR,Inverse variance weighted,3,0.95 [0.78-1.17],0.639924343266224,trans
+THBS2,Thrombospondin-2,Chapter V Mental and behavioural disorders,AUD,Inverse variance weighted,6,1.01 [0.97-1.06],0.643451841825156,trans
+THBS2,Thrombospondin-2,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,1.02 [0.95-1.09],0.644760966063474,trans
+THBS2,Thrombospondin-2,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,1.05 [0.85-1.29],0.648260480920421,trans
+THBS2,Thrombospondin-2,Chapter XI Diseases of the digestive system,K11_OTHDIG,Inverse variance weighted,12,1.01 [0.96-1.06],0.654037265812232,trans
+THBS2,Thrombospondin-2,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,0.98 [0.86-1.11],0.698932051601604,trans
+THBS2,Thrombospondin-2,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,0.97 [0.84-1.12],0.699049371341645,trans
+THBS2,Thrombospondin-2,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,7,1.04 [0.83-1.3],0.726756291512546,trans
+THBS2,Thrombospondin-2,Chapter IX Diseases of the circulatory system,I9_SEQULAE,Inverse variance weighted,4,0.99 [0.92-1.06],0.740971306339574,trans
+THBS2,Thrombospondin-2,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Inverse variance weighted,4,0.99 [0.96-1.03],0.763022614692847,trans
+THBS2,Thrombospondin-2,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Wald ratio,1,0.99 [0.93-1.06],0.768603243900593,trans
+THBS2,Thrombospondin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,1 [0.96-1.03],0.77286092109871,trans
+THBS2,Thrombospondin-2,Chapter XI Diseases of the digestive system,CHRONNAS,Inverse variance weighted,9,1 [0.98-1.03],0.77841579255023,trans
+THBS2,Thrombospondin-2,Chapter I Certain infectious and parasitic diseases,AB1_MYCOSES,Wald ratio,1,0.98 [0.82-1.16],0.779090214037678,trans
+THBS2,Thrombospondin-2,Chapter V Mental and behavioural disorders,ALCOHOLMENTAL,Wald ratio,1,0.98 [0.87-1.11],0.784652775038507,trans
+THBS2,Thrombospondin-2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,1 [0.96-1.03],0.798866901407509,trans
+THBS2,Thrombospondin-2,Chapter V Mental and behavioural disorders,F5_ALCOHOLAC,Inverse variance weighted,3,1.01 [0.96-1.06],0.799711121650621,trans
+THBS2,Thrombospondin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_OTH,Inverse variance weighted,3,0.96 [0.71-1.31],0.813376191908826,trans
+THBS2,Thrombospondin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Wald ratio,1,0.99 [0.94-1.05],0.842868215494088,trans
+THBS2,Thrombospondin-2,Chapter XI Diseases of the digestive system,K11_GASTRODUOULC,Inverse variance weighted,4,1.01 [0.92-1.11],0.854514608627268,trans
+THBS2,Thrombospondin-2,Chapter IX Diseases of the circulatory system,I9_PAROXTAC,Inverse variance weighted,7,1 [0.96-1.05],0.860262552816912,trans
+THBS2,Thrombospondin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,2,1.01 [0.84-1.22],0.900290076189143,trans
+THBS2,Thrombospondin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,24,1 [0.96-1.04],0.916246370447438,trans
+THBS2,Thrombospondin-2,Chapter IX Diseases of the circulatory system,I9_CARDARR,Inverse variance weighted,2,1 [0.95-1.05],0.929237775413088,trans
+THBS2,Thrombospondin-2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,8,1 [0.97-1.03],0.966366314981117,trans
+THBS2,Thrombospondin-2,Chapter XI Diseases of the digestive system,COLITNONINFNAS,Wald ratio,1,1 [0.81-1.22],0.977117109631355,trans
+THBS2,Thrombospondin-2,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,1 [0.95-1.05],0.980754602113753,trans
+THBS2,Thrombospondin-2,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Inverse variance weighted,3,1 [0.94-1.06],0.982442984923619,trans
+THBS2,Thrombospondin-2,Chapter XI Diseases of the digestive system,K11_CROHN,Inverse variance weighted,3,1 [0.97-1.04],0.98926174098986,trans
+THBS2,Thrombospondin-2,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,5,1 [0.75-1.33],0.994788316205542,trans

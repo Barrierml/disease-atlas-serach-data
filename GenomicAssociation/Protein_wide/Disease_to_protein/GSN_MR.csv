@@ -1,0 +1,55 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+GSN,Gelsolin,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.23 [1.14-1.33],1.10938542409669e-07,trans
+GSN,Gelsolin,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,0.79 [0.7-0.89],0.000144805578296679,trans
+GSN,Gelsolin,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,0.63 [0.49-0.81],0.000335830770223115,trans
+GSN,Gelsolin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Wald ratio,1,1.21 [1.08-1.34],0.000625741101021746,trans
+GSN,Gelsolin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.32 [1.12-1.54],0.000625741101021746,trans
+GSN,Gelsolin,Chapter V Mental and behavioural disorders,ALCOHOLMENTAL,Wald ratio,1,0.8 [0.71-0.91],0.000835108746718367,trans
+GSN,Gelsolin,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,0.83 [0.74-0.93],0.00100146941651758,trans
+GSN,Gelsolin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,0.95 [0.92-0.98],0.00303843359794843,trans
+GSN,Gelsolin,Chapter X Diseases of the respiratory system,J10_ASTHMA_EXMORE,Inverse variance weighted,59,0.94 [0.9-0.98],0.00686940379682095,trans
+GSN,Gelsolin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Wald ratio,1,0.93 [0.88-0.98],0.0111651684992062,trans
+GSN,Gelsolin,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Inverse variance weighted,13,0.91 [0.85-0.98],0.0132850514708232,trans
+GSN,Gelsolin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Wald ratio,1,0.95 [0.9-1],0.0419387623536504,trans
+GSN,Gelsolin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,0.95 [0.9-1],0.0481211571419275,trans
+GSN,Gelsolin,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,1.24 [1-1.54],0.0498211929338448,trans
+GSN,Gelsolin,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,11,0.94 [0.87-1],0.0568749135446323,trans
+GSN,Gelsolin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,0.93 [0.85-1.01],0.100564484715279,trans
+GSN,Gelsolin,Chapter X Diseases of the respiratory system,COPD_EARLY,Inverse variance weighted,3,1.05 [0.99-1.11],0.133577041218169,trans
+GSN,Gelsolin,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.09 [0.96-1.25],0.188907754319366,trans
+GSN,Gelsolin,Chapter X Diseases of the respiratory system,J10_EMPHYSEMA,Wald ratio,1,1.04 [0.98-1.1],0.190329309005418,trans
+GSN,Gelsolin,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,61,0.96 [0.91-1.02],0.196442508196678,trans
+GSN,Gelsolin,Chapter V Mental and behavioural disorders,AUD,Inverse variance weighted,6,0.96 [0.89-1.03],0.209321907002366,trans
+GSN,Gelsolin,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,0.86 [0.68-1.09],0.219369989836405,trans
+GSN,Gelsolin,Chapter II Neoplasms,CD2_BENIGN_COLORECANI,Inverse variance weighted,17,1.04 [0.98-1.1],0.228430356811931,trans
+GSN,Gelsolin,Chapter V Mental and behavioural disorders,SMOKING_DEPEND,Wald ratio,1,1.05 [0.97-1.15],0.232522312863102,trans
+GSN,Gelsolin,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,8,0.97 [0.92-1.02],0.277503226972738,trans
+GSN,Gelsolin,Chapter XI Diseases of the digestive system,K11_INTESTOTH,Inverse variance weighted,10,0.93 [0.82-1.06],0.278933705781724,trans
+GSN,Gelsolin,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,1.03 [0.97-1.1],0.340215096518082,trans
+GSN,Gelsolin,Chapter XI Diseases of the digestive system,K11_ALCOLIV,Inverse variance weighted,4,0.97 [0.91-1.03],0.343469605815555,trans
+GSN,Gelsolin,Chapter X Diseases of the respiratory system,COPD_LATER,Wald ratio,1,1.04 [0.95-1.13],0.362628251127134,trans
+GSN,Gelsolin,Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,2,0.85 [0.56-1.29],0.44439302572631,trans
+GSN,Gelsolin,Chapter XI Diseases of the digestive system,NAFLD,Inverse variance weighted,6,1.01 [0.98-1.04],0.451177553322121,trans
+GSN,Gelsolin,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,1.12 [0.82-1.54],0.459870380687625,trans
+GSN,Gelsolin,Chapter I Certain infectious and parasitic diseases,AB1_MYCOSES,Wald ratio,1,0.94 [0.78-1.13],0.509700469185018,trans
+GSN,Gelsolin,Chapter IX Diseases of the circulatory system,I9_AVBLOCK,Inverse variance weighted,5,0.97 [0.88-1.06],0.511322154696989,trans
+GSN,Gelsolin,Chapter XI Diseases of the digestive system,K11_OTHFUNC,Wald ratio,1,1.08 [0.85-1.36],0.544728713512713,trans
+GSN,Gelsolin,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.99 [0.94-1.03],0.555280002508723,trans
+GSN,Gelsolin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1.09 [0.78-1.51],0.623054021359001,trans
+GSN,Gelsolin,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,7,1.03 [0.91-1.18],0.625705912716527,trans
+GSN,Gelsolin,Chapter XI Diseases of the digestive system,K11_DIVERTIC,Inverse variance weighted,50,0.99 [0.96-1.03],0.627799066944736,trans
+GSN,Gelsolin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,0.93 [0.67-1.28],0.646533640477824,trans
+GSN,Gelsolin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Wald ratio,1,0.98 [0.92-1.06],0.650484845862088,trans
+GSN,Gelsolin,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Inverse variance weighted,4,0.99 [0.96-1.03],0.657403881951283,trans
+GSN,Gelsolin,Chapter XI Diseases of the digestive system,K11_GALLBILPANC,Inverse variance weighted,21,0.99 [0.94-1.04],0.723842840213949,trans
+GSN,Gelsolin,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,0.99 [0.94-1.05],0.749573155440803,trans
+GSN,Gelsolin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,0.96 [0.74-1.25],0.771253682038422,trans
+GSN,Gelsolin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,1.02 [0.85-1.23],0.810225438584837,trans
+GSN,Gelsolin,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,5,0.97 [0.72-1.29],0.813512957952957,trans
+GSN,Gelsolin,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,0.98 [0.78-1.24],0.872228431213923,trans
+GSN,Gelsolin,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,21,1 [0.98-1.02],0.897399816935581,trans
+GSN,Gelsolin,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1 [0.97-1.04],0.901497783360987,trans
+GSN,Gelsolin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,1.01 [0.8-1.29],0.919052236968751,trans
+GSN,Gelsolin,Chapter XI Diseases of the digestive system,K11_CONSTIPATION,Wald ratio,1,1.02 [0.72-1.43],0.925121777827651,trans
+GSN,Gelsolin,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,0.99 [0.83-1.19],0.936477255421704,trans
+GSN,Gelsolin,Chapter X Diseases of the respiratory system,IPF,Inverse variance weighted,20,1 [0.99-1.01],0.956746479211326,trans

@@ -1,0 +1,9 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+CLEC1B,C-type lectin domain family 1 member B,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Inverse variance weighted,2,0.67 [0.51-0.88],0.00458955150209583,cis
+CLEC1B,C-type lectin domain family 1 member B,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_THROMBOCYTOPENIANAS,Inverse variance weighted,2,0.67 [0.45-1],0.0512359878690653,cis
+CLEC1B,C-type lectin domain family 1 member B,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,2,0.97 [0.89-1.07],0.595487206650632,cis
+CLEC1B,C-type lectin domain family 1 member B,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,2,1 [0.9-1.1],0.944430769055153,cis
+CLEC1B,C-type lectin domain family 1 member B,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Wald ratio,1,0.41 [0.16-1.02],0.0557656723951549,trans
+CLEC1B,C-type lectin domain family 1 member B,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Wald ratio,1,1.21 [0.92-1.6],0.172803710951397,trans
+CLEC1B,C-type lectin domain family 1 member B,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Wald ratio,1,1.18 [0.85-1.62],0.327238579664909,trans
+CLEC1B,C-type lectin domain family 1 member B,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_THROMBOCYTOPENIANAS,Wald ratio,1,0.8 [0.21-3.02],0.745207125529538,trans

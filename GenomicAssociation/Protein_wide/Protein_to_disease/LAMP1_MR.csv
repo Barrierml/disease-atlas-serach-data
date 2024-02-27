@@ -1,0 +1,11 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+LAMP1,Lysosome-associated membrane glycoprotein 1,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,0.18 [0.03-0.94],0.0419334219806444,cis
+LAMP1,Lysosome-associated membrane glycoprotein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SLE,Wald ratio,1,0.09 [0-4.31],0.222077330888104,cis
+LAMP1,Lysosome-associated membrane glycoprotein 1,Chapter V Mental and behavioural disorders,F5_ALCOHOLAC,Wald ratio,1,1.1 [0.68-1.78],0.69991054977151,cis
+LAMP1,Lysosome-associated membrane glycoprotein 1,Chapter V Mental and behavioural disorders,ALCOHOLMENTAL,Wald ratio,1,0.93 [0.49-1.75],0.823793642228936,cis
+LAMP1,Lysosome-associated membrane glycoprotein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Wald ratio,1,0.97 [0.69-1.37],0.86865039358094,cis
+LAMP1,Lysosome-associated membrane glycoprotein 1,Chapter V Mental and behavioural disorders,AUD,Wald ratio,1,0.99 [0.68-1.43],0.942413774810153,cis
+LAMP1,Lysosome-associated membrane glycoprotein 1,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Wald ratio,1,1.01 [0.63-1.6],0.978682990705216,cis
+LAMP1,Lysosome-associated membrane glycoprotein 1,Chapter V Mental and behavioural disorders,F5_ALCOHOLAC,Inverse variance weighted,6,1.24 [0.98-1.56],0.0705867738255129,trans
+LAMP1,Lysosome-associated membrane glycoprotein 1,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Inverse variance weighted,6,1.04 [0.75-1.46],0.810253994501613,trans
+LAMP1,Lysosome-associated membrane glycoprotein 1,Chapter V Mental and behavioural disorders,AUD,Inverse variance weighted,6,0.99 [0.79-1.25],0.931529239940109,trans

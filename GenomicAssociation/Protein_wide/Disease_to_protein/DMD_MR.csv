@@ -1,0 +1,19 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+DMD,Dystrophin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,1.11 [0.98-1.27],0.106624640085834,trans
+DMD,Dystrophin,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,1.2 [0.95-1.52],0.118531754573153,trans
+DMD,Dystrophin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,1.02 [0.99-1.04],0.152230334337667,trans
+DMD,Dystrophin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.23 [0.89-1.7],0.217117728532927,trans
+DMD,Dystrophin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.1 [0.94-1.29],0.248541534552446,trans
+DMD,Dystrophin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,1.04 [0.97-1.12],0.262833055359183,trans
+DMD,Dystrophin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.15 [0.89-1.5],0.279568949795424,trans
+DMD,Dystrophin,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.07 [0.93-1.22],0.354071652323034,trans
+DMD,Dystrophin,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.04 [0.96-1.12],0.373944162455399,trans
+DMD,Dystrophin,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,1.11 [0.86-1.42],0.429088241722457,trans
+DMD,Dystrophin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,1.08 [0.87-1.35],0.476877356559616,trans
+DMD,Dystrophin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.9 [0.65-1.26],0.546868440442555,trans
+DMD,Dystrophin,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,1.09 [0.8-1.5],0.58139401300305,trans
+DMD,Dystrophin,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,1.03 [0.93-1.13],0.593513777354908,trans
+DMD,Dystrophin,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.99 [0.94-1.04],0.611623616152992,trans
+DMD,Dystrophin,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1.03 [0.92-1.15],0.615033967994604,trans
+DMD,Dystrophin,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,1.02 [0.91-1.15],0.721212276026493,trans
+DMD,Dystrophin,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.95 [0.69-1.3],0.729581406872296,trans

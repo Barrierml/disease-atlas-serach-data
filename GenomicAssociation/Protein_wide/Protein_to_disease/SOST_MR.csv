@@ -1,0 +1,45 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+SOST,Sclerostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOPOROSIS,Wald ratio,1,2.54 [1.37-4.7],0.00293273153675335,cis
+SOST,Sclerostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Wald ratio,1,0.43 [0.21-0.89],0.0230866025606263,cis
+SOST,Sclerostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOCHONDRO,Wald ratio,1,1.55 [1.06-2.28],0.0248836645061604,cis
+SOST,Sclerostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Wald ratio,1,0.53 [0.29-0.94],0.031520932063638,cis
+SOST,Sclerostin,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.76 [0.57-1.01],0.0559106484079916,cis
+SOST,Sclerostin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Wald ratio,1,1.27 [0.99-1.63],0.0599799754084163,cis
+SOST,Sclerostin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Wald ratio,1,2.07 [0.79-5.45],0.140830859890923,cis
+SOST,Sclerostin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Wald ratio,1,1.24 [0.93-1.67],0.145628782967298,cis
+SOST,Sclerostin,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,0.69 [0.4-1.21],0.193759078769432,cis
+SOST,Sclerostin,Chapter XI Diseases of the digestive system,K11_COELIAC,Wald ratio,1,0.59 [0.25-1.41],0.234784205475912,cis
+SOST,Sclerostin,Chapter IX Diseases of the circulatory system,I9_MI_STRICT,Wald ratio,1,1.25 [0.85-1.83],0.264385365069115,cis
+SOST,Sclerostin,Chapter IX Diseases of the circulatory system,I9_CHD,Wald ratio,1,1.18 [0.88-1.59],0.264552142105963,cis
+SOST,Sclerostin,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Wald ratio,1,0.5 [0.1-2.51],0.395465206292222,cis
+SOST,Sclerostin,Chapter XI Diseases of the digestive system,K11_MALABSORB,Wald ratio,1,0.62 [0.14-2.7],0.520942484389633,cis
+SOST,Sclerostin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Wald ratio,1,1.09 [0.79-1.51],0.596908187656041,cis
+SOST,Sclerostin,Chapter XIV Diseases of the genitourinary system,N14_RENFAILNAS,Wald ratio,1,0.82 [0.3-2.28],0.705614365903622,cis
+SOST,Sclerostin,"Chapter XV Pregnancy, childbirth and the puerperium",O15_COMPLIC_LAB_DELIV,Wald ratio,1,0.95 [0.72-1.25],0.728602915830437,cis
+SOST,Sclerostin,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Wald ratio,1,0.83 [0.16-4.26],0.825293650451309,cis
+SOST,Sclerostin,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Wald ratio,1,0.93 [0.47-1.83],0.827647447947424,cis
+SOST,Sclerostin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIAINCHRONICDISEASE,Wald ratio,1,0.86 [0.1-7.24],0.890864718911154,cis
+SOST,Sclerostin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERLIPNAS,Wald ratio,1,1.03 [0.63-1.67],0.90348672339923,cis
+SOST,Sclerostin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Wald ratio,1,0.96 [0.4-2.31],0.926595861166942,cis
+SOST,Sclerostin,Chapter XIV Diseases of the genitourinary system,N14_CHRONEPHROPATH,Wald ratio,1,1.03 [0.22-4.89],0.973113106470382,cis
+SOST,Sclerostin,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Inverse variance weighted,31,1.46 [1.11-1.91],0.00639550140000551,trans
+SOST,Sclerostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOPOROSIS,Inverse variance weighted,31,0.86 [0.73-1.01],0.0727993904237596,trans
+SOST,Sclerostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOCHONDRO,Inverse variance weighted,31,0.93 [0.84-1.02],0.123461868625696,trans
+SOST,Sclerostin,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,31,1.17 [0.86-1.58],0.321442084356418,trans
+SOST,Sclerostin,"Chapter XV Pregnancy, childbirth and the puerperium",O15_COMPLIC_LAB_DELIV,Inverse variance weighted,31,1.02 [0.98-1.08],0.329834311149555,trans
+SOST,Sclerostin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIAINCHRONICDISEASE,Inverse variance weighted,31,1.15 [0.81-1.65],0.433172565314936,trans
+SOST,Sclerostin,Chapter IX Diseases of the circulatory system,I9_MI_STRICT,Inverse variance weighted,31,1.03 [0.94-1.13],0.481126110554873,trans
+SOST,Sclerostin,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,31,1.02 [0.97-1.07],0.532930041219497,trans
+SOST,Sclerostin,Chapter IX Diseases of the circulatory system,I9_CHD,Inverse variance weighted,31,1.02 [0.95-1.1],0.56460499778062,trans
+SOST,Sclerostin,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Inverse variance weighted,31,1.03 [0.92-1.14],0.618399916665333,trans
+SOST,Sclerostin,Chapter XIV Diseases of the genitourinary system,N14_RENFAILNAS,Inverse variance weighted,31,1.04 [0.87-1.24],0.659352262214785,trans
+SOST,Sclerostin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,31,0.97 [0.85-1.11],0.696883450216022,trans
+SOST,Sclerostin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERLIPNAS,Inverse variance weighted,31,1.02 [0.93-1.11],0.718865317520914,trans
+SOST,Sclerostin,Chapter XI Diseases of the digestive system,K11_COELIAC,Inverse variance weighted,31,1.02 [0.87-1.2],0.804087055911942,trans
+SOST,Sclerostin,Chapter XI Diseases of the digestive system,K11_MALABSORB,Inverse variance weighted,31,0.97 [0.75-1.25],0.806560378874127,trans
+SOST,Sclerostin,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,31,0.99 [0.89-1.1],0.868398692660322,trans
+SOST,Sclerostin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,31,1 [0.95-1.06],0.873551437533704,trans
+SOST,Sclerostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,31,0.99 [0.87-1.13],0.876730669901158,trans
+SOST,Sclerostin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,31,1.01 [0.86-1.19],0.882320930932416,trans
+SOST,Sclerostin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,31,1 [0.93-1.07],0.949763097532321,trans
+SOST,Sclerostin,Chapter XIV Diseases of the genitourinary system,N14_CHRONEPHROPATH,Inverse variance weighted,31,1.01 [0.79-1.28],0.958972949825282,trans

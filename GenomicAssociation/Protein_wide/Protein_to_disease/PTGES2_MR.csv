@@ -1,0 +1,22 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+PTGES2,Prostaglandin E synthase 2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,0.75 [0.62-0.91],0.0042202723856926,cis
+PTGES2,Prostaglandin E synthase 2,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Wald ratio,1,0.89 [0.77-1.03],0.129787086497614,cis
+PTGES2,Prostaglandin E synthase 2,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Wald ratio,1,0.64 [0.35-1.2],0.165885564285003,cis
+PTGES2,Prostaglandin E synthase 2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Wald ratio,1,0.75 [0.47-1.2],0.230213473009176,cis
+PTGES2,Prostaglandin E synthase 2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Wald ratio,1,1.15 [0.86-1.53],0.343646435432878,cis
+PTGES2,Prostaglandin E synthase 2,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Wald ratio,1,0.97 [0.79-1.19],0.744960153166616,cis
+PTGES2,Prostaglandin E synthase 2,Chapter X Diseases of the respiratory system,J10_PLEURA,Wald ratio,1,0.95 [0.64-1.4],0.781616854930411,cis
+PTGES2,Prostaglandin E synthase 2,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Wald ratio,1,0.98 [0.81-1.18],0.822103072808942,cis
+PTGES2,Prostaglandin E synthase 2,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Wald ratio,1,0.96 [0.66-1.4],0.847827288618982,cis
+PTGES2,Prostaglandin E synthase 2,Chapter X Diseases of the respiratory system,J10_RESPDISOTH,Wald ratio,1,0.98 [0.71-1.34],0.890171311184524,cis
+PTGES2,Prostaglandin E synthase 2,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,1.01 [0.78-1.3],0.949600801880625,cis
+PTGES2,Prostaglandin E synthase 2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Wald ratio,1,0.99 [0.79-1.25],0.961181555116463,cis
+PTGES2,Prostaglandin E synthase 2,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Inverse variance weighted,2,0.6 [0.37-0.99],0.0451223981081521,trans
+PTGES2,Prostaglandin E synthase 2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,2,0.7 [0.48-1.02],0.0649131578164174,trans
+PTGES2,Prostaglandin E synthase 2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,2,1.22 [0.72-2.06],0.462614628513628,trans
+PTGES2,Prostaglandin E synthase 2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,2,1.07 [0.86-1.35],0.541050052764239,trans
+PTGES2,Prostaglandin E synthase 2,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Inverse variance weighted,2,1.04 [0.88-1.24],0.61424844557948,trans
+PTGES2,Prostaglandin E synthase 2,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,2,1.05 [0.86-1.29],0.628234621921007,trans
+PTGES2,Prostaglandin E synthase 2,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Inverse variance weighted,2,1.06 [0.84-1.34],0.63641620442916,trans
+PTGES2,Prostaglandin E synthase 2,Chapter X Diseases of the respiratory system,J10_PLEURA,Inverse variance weighted,2,1.03 [0.75-1.41],0.868882666994857,trans
+PTGES2,Prostaglandin E synthase 2,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.01 [0.75-1.36],0.955825234356593,trans

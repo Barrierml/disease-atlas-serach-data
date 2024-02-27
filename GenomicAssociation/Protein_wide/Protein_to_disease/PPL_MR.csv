@@ -1,0 +1,70 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+PPL,Periplakin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_EXPLICIT,Wald ratio,1,1.28 [0.91-1.78],0.150770158202068,cis
+PPL,Periplakin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,0.84 [0.65-1.08],0.175436851237047,cis
+PPL,Periplakin,Chapter V Mental and behavioural disorders,ALCOHOLMENTAL,Wald ratio,1,1.29 [0.85-1.94],0.23369244713173,cis
+PPL,Periplakin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_MUSCULOSKELETAL,Wald ratio,1,0.93 [0.82-1.05],0.249557078147298,cis
+PPL,Periplakin,Chapter XIV Diseases of the genitourinary system,N14_GENITOURINARY,Wald ratio,1,0.93 [0.82-1.06],0.288363171176163,cis
+PPL,Periplakin,Chapter V Mental and behavioural disorders,KRA_PSY_MOOD_EXMORE,Wald ratio,1,0.88 [0.69-1.12],0.289054504749196,cis
+PPL,Periplakin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.09 [0.9-1.31],0.387856037660941,cis
+PPL,Periplakin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDOVER,Wald ratio,1,0.73 [0.35-1.51],0.393402536635945,cis
+PPL,Periplakin,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,0.64 [0.22-1.89],0.421429558650781,cis
+PPL,Periplakin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,0.93 [0.74-1.17],0.542994612503433,cis
+PPL,Periplakin,Chapter XI Diseases of the digestive system,K11_GALLBILPANC,Wald ratio,1,1.07 [0.85-1.35],0.562058547904634,cis
+PPL,Periplakin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_VIRAL_IMPL,Wald ratio,1,0.86 [0.51-1.46],0.581574864134327,cis
+PPL,Periplakin,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Wald ratio,1,1.03 [0.9-1.19],0.639725221933941,cis
+PPL,Periplakin,Chapter XI Diseases of the digestive system,K11_GIDISEASES,Wald ratio,1,0.97 [0.86-1.1],0.658105755027694,cis
+PPL,Periplakin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Wald ratio,1,0.95 [0.76-1.19],0.663174838733937,cis
+PPL,Periplakin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_CA_MET,Wald ratio,1,0.88 [0.48-1.63],0.695657358591953,cis
+PPL,Periplakin,Chapter I Certain infectious and parasitic diseases,AB1_INFECT_PARASIT,Wald ratio,1,1.03 [0.87-1.23],0.701430954864989,cis
+PPL,Periplakin,Chapter X Diseases of the respiratory system,J10_RESPDISOTH,Wald ratio,1,1.04 [0.77-1.41],0.782899598644175,cis
+PPL,Periplakin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.97 [0.81-1.18],0.786725536062786,cis
+PPL,Periplakin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_BACT_IMPL,Wald ratio,1,0.96 [0.7-1.32],0.809249152828662,cis
+PPL,Periplakin,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Wald ratio,1,1.05 [0.58-1.89],0.879911862902988,cis
+PPL,Periplakin,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,0.99 [0.76-1.28],0.91015176869072,cis
+PPL,Periplakin,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Inverse variance weighted,2,1.23 [1.05-1.44],0.0110408610174134,trans
+PPL,Periplakin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERCHOL,Inverse variance weighted,2,1.35 [1.06-1.72],0.0168843416921899,trans
+PPL,Periplakin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,2,1.4 [1-1.98],0.0530265535608327,trans
+PPL,Periplakin,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,2,0.32 [0.1-1.03],0.0560628399103041,trans
+PPL,Periplakin,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Inverse variance weighted,2,1.2 [1-1.45],0.0562119105222985,trans
+PPL,Periplakin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Inverse variance weighted,2,0.72 [0.51-1.02],0.0616612894523929,trans
+PPL,Periplakin,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Inverse variance weighted,2,0.6 [0.35-1.04],0.0684913430741798,trans
+PPL,Periplakin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,2,1.31 [0.93-1.85],0.123103739379696,trans
+PPL,Periplakin,Chapter V Mental and behavioural disorders,AUD,Inverse variance weighted,2,1.26 [0.93-1.72],0.136959281506151,trans
+PPL,Periplakin,Chapter IX Diseases of the circulatory system,I9_HYPOTE,Inverse variance weighted,2,0.66 [0.38-1.17],0.153753584010129,trans
+PPL,Periplakin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,2,0.79 [0.57-1.1],0.163486806672381,trans
+PPL,Periplakin,Chapter X Diseases of the respiratory system,J10_LOWERINF,Inverse variance weighted,2,0.81 [0.57-1.14],0.231459282927719,trans
+PPL,Periplakin,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,1.79 [0.6-5.35],0.297112874007714,trans
+PPL,Periplakin,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Inverse variance weighted,2,0.78 [0.47-1.29],0.327931940217346,trans
+PPL,Periplakin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Inverse variance weighted,2,2.31 [0.43-12.42],0.329137584423746,trans
+PPL,Periplakin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Inverse variance weighted,2,1.21 [0.82-1.78],0.329630898097412,trans
+PPL,Periplakin,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Inverse variance weighted,2,2.09 [0.47-9.29],0.334506626467988,trans
+PPL,Periplakin,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1.56 [0.61-4.01],0.352217017994214,trans
+PPL,Periplakin,Chapter IX Diseases of the circulatory system,I9_OTHOTH,Inverse variance weighted,2,1.61 [0.5-5.17],0.422402692417592,trans
+PPL,Periplakin,Chapter V Mental and behavioural disorders,F5_DEPRESSIO,Inverse variance weighted,2,1.07 [0.88-1.3],0.506618148688141,trans
+PPL,Periplakin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,2,0.85 [0.53-1.37],0.512284001673674,trans
+PPL,Periplakin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,2,0.83 [0.48-1.45],0.517088033286752,trans
+PPL,Periplakin,Chapter XIV Diseases of the genitourinary system,N14_KIDUROTH,Inverse variance weighted,2,0.82 [0.44-1.53],0.532603327856316,trans
+PPL,Periplakin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Inverse variance weighted,2,0.95 [0.78-1.14],0.571559246240019,trans
+PPL,Periplakin,Chapter XI Diseases of the digestive system,NAFLD,Inverse variance weighted,2,1.24 [0.57-2.69],0.590355534968567,trans
+PPL,Periplakin,Chapter X Diseases of the respiratory system,J10_PLEUREFFUSION,Inverse variance weighted,2,0.87 [0.5-1.52],0.629775979583135,trans
+PPL,Periplakin,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,2,1.05 [0.86-1.28],0.652075231289312,trans
+PPL,Periplakin,Chapter XIV Diseases of the genitourinary system,N14_CHRONEPHROPATH,Inverse variance weighted,2,0.79 [0.26-2.4],0.67651625380177,trans
+PPL,Periplakin,Chapter XI Diseases of the digestive system,K11_HEPFAIL,Inverse variance weighted,2,1.26 [0.38-4.18],0.702959168426792,trans
+PPL,Periplakin,Chapter I Certain infectious and parasitic diseases,AB1_BACT_BIR_OTHER_INF_AGENTS,Inverse variance weighted,2,1.15 [0.56-2.38],0.703939189249674,trans
+PPL,Periplakin,Chapter XIV Diseases of the genitourinary system,N14_RENFAILNAS,Inverse variance weighted,2,1.15 [0.55-2.4],0.707236793666458,trans
+PPL,Periplakin,Chapter X Diseases of the respiratory system,J10_PLEURA,Inverse variance weighted,2,0.94 [0.69-1.29],0.717175930711945,trans
+PPL,Periplakin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_VOLUME,Inverse variance weighted,2,0.88 [0.43-1.81],0.732069810147275,trans
+PPL,Periplakin,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,2,0.94 [0.66-1.34],0.740604715530667,trans
+PPL,Periplakin,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,2,0.96 [0.75-1.23],0.743107771380052,trans
+PPL,Periplakin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,2,1.07 [0.7-1.62],0.755657918562931,trans
+PPL,Periplakin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,2,0.93 [0.56-1.53],0.773326553380641,trans
+PPL,Periplakin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,2,1.07 [0.64-1.8],0.786047392919124,trans
+PPL,Periplakin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERKALAEMIA,Inverse variance weighted,2,0.88 [0.33-2.31],0.787818411411773,trans
+PPL,Periplakin,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,2,0.94 [0.52-1.68],0.824776506736303,trans
+PPL,Periplakin,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,2,1.04 [0.73-1.49],0.831607076256752,trans
+PPL,Periplakin,Chapter IX Diseases of the circulatory system,I9_HYPTENSPUL,Inverse variance weighted,2,0.68 [0.01-74.96],0.873661043012328,trans
+PPL,Periplakin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,2,1.02 [0.75-1.39],0.882981350347162,trans
+PPL,Periplakin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Inverse variance weighted,2,0.95 [0.43-2.08],0.889121168634645,trans
+PPL,Periplakin,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.02 [0.67-1.56],0.918377162966645,trans
+PPL,Periplakin,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,2,0.98 [0.66-1.46],0.921583231958297,trans
+PPL,Periplakin,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Inverse variance weighted,2,1 [0.6-1.69],0.987298021829897,trans

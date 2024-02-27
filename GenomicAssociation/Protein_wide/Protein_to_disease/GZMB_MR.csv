@@ -1,0 +1,15 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+GZMB,Granzyme B,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Inverse variance weighted,4,1.05 [1-1.1],0.0592029100841975,cis
+GZMB,Granzyme B,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,5,0.97 [0.9-1.05],0.477457826559622,cis
+GZMB,Granzyme B,Chapter XIV Diseases of the genitourinary system,N14_GENITOURINARY,Inverse variance weighted,4,0.99 [0.96-1.02],0.58406587096406,cis
+GZMB,Granzyme B,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,5,0.98 [0.86-1.12],0.749168736601284,cis
+GZMB,Granzyme B,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,5,0.95 [0.64-1.41],0.78668537823728,cis
+GZMB,Granzyme B,Chapter XI Diseases of the digestive system,K11_ULCER,Inverse variance weighted,4,1.03 [0.79-1.35],0.833097708286294,cis
+GZMB,Granzyme B,Chapter XI Diseases of the digestive system,ULCERNAS,Inverse variance weighted,5,0.99 [0.86-1.14],0.869012711579649,cis
+GZMB,Granzyme B,Chapter XI Diseases of the digestive system,K11_UC_STRICT2,Inverse variance weighted,5,1 [0.87-1.14],0.957438097375489,cis
+GZMB,Granzyme B,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,4,1 [0.94-1.06],0.99249182703581,cis
+GZMB,Granzyme B,Chapter XI Diseases of the digestive system,K11_UC_STRICT2,Inverse variance weighted,15,0.87 [0.7-1.08],0.216275627944756,trans
+GZMB,Granzyme B,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,15,1.09 [0.94-1.27],0.255314086800559,trans
+GZMB,Granzyme B,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,15,1.03 [0.97-1.09],0.40044482275076,trans
+GZMB,Granzyme B,Chapter XI Diseases of the digestive system,ULCERNAS,Inverse variance weighted,15,0.92 [0.69-1.24],0.583200238711428,trans
+GZMB,Granzyme B,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,15,1.06 [0.69-1.64],0.776643104563479,trans

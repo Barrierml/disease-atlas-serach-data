@@ -1,0 +1,59 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+PVR,Poliovirus receptor,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Inverse variance weighted,3,0.9 [0.87-0.94],3.90398898810337e-07,trans
+PVR,Poliovirus receptor,Chapter V Mental and behavioural disorders,F5_ALCOHOLAC,Inverse variance weighted,3,0.9 [0.86-0.94],2.83316774070896e-06,trans
+PVR,Poliovirus receptor,Chapter V Mental and behavioural disorders,AUD,Inverse variance weighted,6,0.91 [0.87-0.96],0.000108498352215119,trans
+PVR,Poliovirus receptor,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,0.73 [0.59-0.89],0.0021526757025132,trans
+PVR,Poliovirus receptor,Chapter V Mental and behavioural disorders,F5_DELIRIUM,Wald ratio,1,1.23 [1.08-1.41],0.00221128988678269,trans
+PVR,Poliovirus receptor,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,0.86 [0.78-0.95],0.00298592254666367,trans
+PVR,Poliovirus receptor,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,1.03 [1.01-1.05],0.00327300689359885,trans
+PVR,Poliovirus receptor,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.31 [1.06-1.62],0.0126634572255052,trans
+PVR,Poliovirus receptor,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,8,1.06 [1.01-1.12],0.0267016768522703,trans
+PVR,Poliovirus receptor,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,1.03 [1-1.06],0.0431184699890219,trans
+PVR,Poliovirus receptor,Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Inverse variance weighted,2,1.02 [1-1.05],0.0441858173004344,trans
+PVR,Poliovirus receptor,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1.03 [1-1.07],0.0532085834000158,trans
+PVR,Poliovirus receptor,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Inverse variance weighted,3,1.05 [1-1.1],0.0609761287627184,trans
+PVR,Poliovirus receptor,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,11,0.94 [0.87-1.01],0.0765449874433999,trans
+PVR,Poliovirus receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,14,1.03 [1-1.06],0.0792938760482928,trans
+PVR,Poliovirus receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,1.02 [1-1.05],0.0886435106582122,trans
+PVR,Poliovirus receptor,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.8 [0.61-1.04],0.100826189619319,trans
+PVR,Poliovirus receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,24,1.02 [1-1.05],0.102367078315768,trans
+PVR,Poliovirus receptor,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Wald ratio,1,0.82 [0.64-1.04],0.106897110453271,trans
+PVR,Poliovirus receptor,Chapter V Mental and behavioural disorders,ALCOHOLMENTAL,Wald ratio,1,0.92 [0.83-1.02],0.10815529274688,trans
+PVR,Poliovirus receptor,Chapter XI Diseases of the digestive system,NAFLD,Inverse variance weighted,6,1.02 [0.99-1.05],0.152006629465073,trans
+PVR,Poliovirus receptor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.21 [0.93-1.58],0.15726122650389,trans
+PVR,Poliovirus receptor,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.83 [0.64-1.07],0.159538086576476,trans
+PVR,Poliovirus receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,1.02 [0.99-1.05],0.235887294847234,trans
+PVR,Poliovirus receptor,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,0.91 [0.78-1.06],0.244598830827942,trans
+PVR,Poliovirus receptor,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,0.89 [0.73-1.09],0.263828434271859,trans
+PVR,Poliovirus receptor,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,5,0.92 [0.78-1.08],0.292770968955211,trans
+PVR,Poliovirus receptor,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.03 [0.97-1.1],0.293044564997389,trans
+PVR,Poliovirus receptor,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,0.94 [0.83-1.06],0.301984639199476,trans
+PVR,Poliovirus receptor,Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,2,0.92 [0.78-1.08],0.321076483662445,trans
+PVR,Poliovirus receptor,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Wald ratio,1,1.03 [0.97-1.09],0.377745129823571,trans
+PVR,Poliovirus receptor,Chapter XI Diseases of the digestive system,K11_DULC,Inverse variance weighted,3,1.01 [0.98-1.04],0.387905357083885,trans
+PVR,Poliovirus receptor,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,0.98 [0.93-1.03],0.395310930308476,trans
+PVR,Poliovirus receptor,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,35,1.01 [0.98-1.05],0.402723174384035,trans
+PVR,Poliovirus receptor,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,7,0.94 [0.79-1.11],0.46438933191201,trans
+PVR,Poliovirus receptor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,1.06 [0.89-1.27],0.505647232548468,trans
+PVR,Poliovirus receptor,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.04 [0.93-1.16],0.517240207506085,trans
+PVR,Poliovirus receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,1.03 [0.94-1.13],0.523063080401606,trans
+PVR,Poliovirus receptor,Chapter V Mental and behavioural disorders,F5_ANXIETY,Inverse variance weighted,2,0.95 [0.82-1.11],0.538675303851401,trans
+PVR,Poliovirus receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOPOROSIS,Inverse variance weighted,3,1.03 [0.93-1.15],0.544009508060965,trans
+PVR,Poliovirus receptor,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,1.01 [0.97-1.05],0.605224451327532,trans
+PVR,Poliovirus receptor,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,1.01 [0.96-1.07],0.6268924277274,trans
+PVR,Poliovirus receptor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,0.97 [0.84-1.11],0.626927138910758,trans
+PVR,Poliovirus receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,0.99 [0.96-1.02],0.655740212504368,trans
+PVR,Poliovirus receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Wald ratio,1,1.01 [0.97-1.06],0.666481002862292,trans
+PVR,Poliovirus receptor,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,0.96 [0.81-1.15],0.68078962270917,trans
+PVR,Poliovirus receptor,Chapter XI Diseases of the digestive system,K11_OTHENTERCOL,Inverse variance weighted,2,0.98 [0.89-1.08],0.707520347832199,trans
+PVR,Poliovirus receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Wald ratio,1,1.01 [0.96-1.05],0.715306201281655,trans
+PVR,Poliovirus receptor,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,0.97 [0.8-1.17],0.735463445038006,trans
+PVR,Poliovirus receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.02 [0.9-1.16],0.745726488601228,trans
+PVR,Poliovirus receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Wald ratio,1,1.01 [0.93-1.11],0.745726488601228,trans
+PVR,Poliovirus receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,25,0.98 [0.86-1.12],0.790337691168564,trans
+PVR,Poliovirus receptor,Chapter IX Diseases of the circulatory system,I9_ATHSCLE,Inverse variance weighted,13,0.99 [0.94-1.05],0.795065425156614,trans
+PVR,Poliovirus receptor,Chapter VI Diseases of the nervous system,G6_POLYOTHUNS,Inverse variance weighted,2,1.01 [0.91-1.13],0.815973919562644,trans
+PVR,Poliovirus receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,0.99 [0.93-1.06],0.823715172116414,trans
+PVR,Poliovirus receptor,Chapter V Mental and behavioural disorders,VD_U,Wald ratio,1,1 [0.95-1.04],0.845844394379851,trans
+PVR,Poliovirus receptor,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,0.99 [0.89-1.1],0.85552928251261,trans
+PVR,Poliovirus receptor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,1.01 [0.93-1.09],0.86163188112722,trans

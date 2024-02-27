@@ -1,0 +1,14 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+SNAP25,Synaptosomal-associated protein 25,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,2,0.83 [0.72-0.95],0.00807529054818018,cis
+SNAP25,Synaptosomal-associated protein 25,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,2,0.86 [0.77-0.98],0.0179266684322994,cis
+SNAP25,Synaptosomal-associated protein 25,Chapter V Mental and behavioural disorders,F5_DEMNAS,Inverse variance weighted,2,1.37 [0.88-2.12],0.166420782074375,cis
+SNAP25,Synaptosomal-associated protein 25,Chapter VI Diseases of the nervous system,G6_NEURODEGENERATIVE,Wald ratio,1,0.64 [0.2-2.09],0.46172526533404,cis
+SNAP25,Synaptosomal-associated protein 25,Chapter VI Diseases of the nervous system,G6_ALZHEIMER,Inverse variance weighted,2,0.9 [0.68-1.19],0.473127575001837,cis
+SNAP25,Synaptosomal-associated protein 25,Chapter V Mental and behavioural disorders,F5_ALZHDEMENT,Inverse variance weighted,2,0.87 [0.57-1.33],0.514026257939061,cis
+SNAP25,Synaptosomal-associated protein 25,Chapter VI Diseases of the nervous system,NEURODEGOTH,Inverse variance weighted,2,0.94 [0.68-1.31],0.724972522568738,cis
+SNAP25,Synaptosomal-associated protein 25,Chapter VI Diseases of the nervous system,G6_ALZHEIMER,Inverse variance weighted,13,3.85 [3.03-4.89],1.53519024683397e-28,trans
+SNAP25,Synaptosomal-associated protein 25,Chapter VI Diseases of the nervous system,NEURODEGOTH,Inverse variance weighted,13,2.38 [2.03-2.78],6.61059595525633e-27,trans
+SNAP25,Synaptosomal-associated protein 25,Chapter V Mental and behavioural disorders,F5_ALZHDEMENT,Inverse variance weighted,13,4.15 [3.12-5.5],8.4004802793126e-23,trans
+SNAP25,Synaptosomal-associated protein 25,Chapter V Mental and behavioural disorders,F5_DEMNAS,Inverse variance weighted,13,2.95 [2.35-3.7],1.41799288525605e-20,trans
+SNAP25,Synaptosomal-associated protein 25,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,13,1.25 [1.14-1.39],7.49160033410146e-06,trans
+SNAP25,Synaptosomal-associated protein 25,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,13,1.17 [1.09-1.25],1.61378438694255e-05,trans

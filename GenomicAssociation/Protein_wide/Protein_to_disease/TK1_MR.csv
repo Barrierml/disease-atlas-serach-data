@@ -1,0 +1,10 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+TK1,"Thymidine kinase, cytosolic",Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_NOS,Wald ratio,1,0.72 [0.52-1.01],0.0591015551257445,cis
+TK1,"Thymidine kinase, cytosolic",Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Wald ratio,1,0.89 [0.74-1.09],0.25949927633511,cis
+TK1,"Thymidine kinase, cytosolic",Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Wald ratio,1,0.91 [0.69-1.19],0.480288746682703,cis
+TK1,"Thymidine kinase, cytosolic",Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Wald ratio,1,0.96 [0.82-1.11],0.564097621550318,cis
+TK1,"Thymidine kinase, cytosolic",Chapter XI Diseases of the digestive system,K11_MALABSORB,Wald ratio,1,1.08 [0.59-1.95],0.811387714433013,cis
+TK1,"Thymidine kinase, cytosolic",Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_NOS,Inverse variance weighted,2,0.76 [0.55-1.03],0.0776755676577107,trans
+TK1,"Thymidine kinase, cytosolic",Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,2,0.91 [0.76-1.09],0.319743804577733,trans
+TK1,"Thymidine kinase, cytosolic",Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Inverse variance weighted,2,0.9 [0.7-1.16],0.417645017146519,trans
+TK1,"Thymidine kinase, cytosolic",Chapter XI Diseases of the digestive system,K11_MALABSORB,Inverse variance weighted,2,1.18 [0.68-2.04],0.560007587917342,trans

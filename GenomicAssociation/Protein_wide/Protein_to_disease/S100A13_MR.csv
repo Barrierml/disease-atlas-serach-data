@@ -1,0 +1,9 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+S100A13,Protein S100-A13,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,8,0.77 [0.53-1.11],0.157439777642663,cis
+S100A13,Protein S100-A13,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,8,0.97 [0.9-1.04],0.343119439904791,cis
+S100A13,Protein S100-A13,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,8,0.95 [0.78-1.15],0.575003869974275,cis
+S100A13,Protein S100-A13,Chapter IX Diseases of the circulatory system,I9_CORATHER,Inverse variance weighted,8,1.01 [0.95-1.08],0.713951223713981,cis
+S100A13,Protein S100-A13,Chapter IX Diseases of the circulatory system,I9_CORATHER,Wald ratio,1,1.68 [1.11-2.52],0.0135364883280935,trans
+S100A13,Protein S100-A13,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.84 [0.84-4.01],0.127658488996318,trans
+S100A13,Protein S100-A13,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Wald ratio,1,2.86 [0.28-28.82],0.373446251760966,trans
+S100A13,Protein S100-A13,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,1.08 [0.73-1.61],0.687172356019302,trans

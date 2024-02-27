@@ -1,0 +1,68 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,0.89 [0.86-0.92],1.96892592913714e-12,trans
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,0.55 [0.43-0.7],1.23717448959076e-06,trans
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,0.76 [0.68-0.85],3.60419754153282e-06,trans
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,0.88 [0.83-0.94],6.32329902730837e-05,trans
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Inverse variance weighted,3,0.84 [0.76-0.92],0.00034552200425532,trans
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,0.92 [0.87-0.97],0.00116372061476249,trans
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,8,0.86 [0.79-0.94],0.00121205415221579,trans
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,NAFLD,Inverse variance weighted,6,0.92 [0.87-0.97],0.00275747276037872,trans
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,I9_STEMI,Inverse variance weighted,3,1.06 [1.01-1.1],0.00925945272817991,trans
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,0.95 [0.91-0.99],0.0124112751710732,trans
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERLIPNAS,Inverse variance weighted,21,1.06 [1-1.12],0.0392991023069216,trans
+APOM,Apolipoprotein M,Chapter V Mental and behavioural disorders,AUD,Inverse variance weighted,6,1.05 [1-1.1],0.045154623258528,trans
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,1.06 [1-1.14],0.0662037307513176,trans
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,K11_OTHFUNC,Wald ratio,1,0.81 [0.64-1.02],0.0712244483186776,trans
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,K11_OTHENTERCOL,Inverse variance weighted,2,1.11 [0.99-1.24],0.0824453393238181,trans
+APOM,Apolipoprotein M,Chapter V Mental and behavioural disorders,F5_ALCOHOLAC,Inverse variance weighted,3,1.05 [0.99-1.1],0.0942769032537893,trans
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,I9_CONDUCTIO,Inverse variance weighted,4,1.06 [0.99-1.14],0.114909334888559,trans
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,I9_UAP,Inverse variance weighted,24,1.04 [0.99-1.1],0.12630447173973,trans
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,21,0.99 [0.97-1],0.129039890197738,trans
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.79 [0.57-1.08],0.141932810513644,trans
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,1.25 [0.92-1.69],0.149624414847481,trans
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,1.18 [0.94-1.49],0.152773881847125,trans
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,K11_CROHN,Inverse variance weighted,3,0.97 [0.94-1.01],0.161626182132512,trans
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,K11_GALLBILPANC,Inverse variance weighted,21,0.91 [0.8-1.04],0.174711931964711,trans
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Wald ratio,1,0.96 [0.91-1.02],0.186954360854427,trans
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,K11_CD_NOUC,Inverse variance weighted,4,0.98 [0.96-1.01],0.218683433485817,trans
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.16 [0.91-1.49],0.236274036154431,trans
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,K11_CHOLELITH,Inverse variance weighted,122,0.98 [0.93-1.02],0.281178885526576,trans
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,0.98 [0.94-1.02],0.294607671164033,trans
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,2,1.11 [0.91-1.35],0.299360332584787,trans
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,1.14 [0.88-1.46],0.323935033558359,trans
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,1.11 [0.9-1.37],0.324073644960632,trans
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,I9_STR,Inverse variance weighted,3,1.07 [0.93-1.24],0.349561137756872,trans
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1.05 [0.94-1.17],0.353906533173663,trans
+APOM,Apolipoprotein M,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Inverse variance weighted,3,1.04 [0.95-1.13],0.38590589449636,trans
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,K11_INTESTOTH,Inverse variance weighted,10,1.07 [0.92-1.24],0.390046555139598,trans
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,IPF,Inverse variance weighted,20,0.99 [0.98-1.01],0.410731716812951,trans
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,I9_AORTANEUR,Inverse variance weighted,18,0.99 [0.96-1.02],0.446087652603094,trans
+APOM,Apolipoprotein M,Chapter V Mental and behavioural disorders,ALCOHOLMENTAL,Wald ratio,1,1.05 [0.92-1.19],0.46372789592053,trans
+APOM,Apolipoprotein M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,1.08 [0.87-1.34],0.472463571223887,trans
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,COLITNONINFNAS,Wald ratio,1,0.93 [0.75-1.15],0.492952190744583,trans
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,I9_CARDARR,Inverse variance weighted,2,1.02 [0.96-1.09],0.499906346376054,trans
+APOM,Apolipoprotein M,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,8,1.01 [0.98-1.05],0.503092022664513,trans
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,1.04 [0.92-1.19],0.532743179366103,trans
+APOM,Apolipoprotein M,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,0.98 [0.91-1.05],0.534741141212832,trans
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,0.95 [0.79-1.14],0.557258437817297,trans
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,0.96 [0.82-1.12],0.577535076048564,trans
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Wald ratio,1,0.97 [0.87-1.08],0.577535076048564,trans
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,0.96 [0.82-1.13],0.652583555350118,trans
+APOM,Apolipoprotein M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,1.01 [0.95-1.08],0.696276044293066,trans
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,35,0.99 [0.96-1.03],0.720099541598255,trans
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,1.01 [0.97-1.04],0.733320183453678,trans
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,I9_ABAORTANEUR,Inverse variance weighted,5,0.99 [0.95-1.04],0.73481714009,trans
+APOM,Apolipoprotein M,Chapter XI Diseases of the digestive system,K11_CD_STRICT2,Inverse variance weighted,8,0.99 [0.95-1.04],0.758688659417767,trans
+APOM,Apolipoprotein M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.05 [0.77-1.43],0.77435921551125,trans
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,I9_OTHARR,Inverse variance weighted,12,0.99 [0.93-1.06],0.808965538339969,trans
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,1 [0.97-1.04],0.84315054973579,trans
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,I9_PAROXTAC,Inverse variance weighted,7,1 [0.95-1.05],0.847984914031948,trans
+APOM,Apolipoprotein M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,1.01 [0.89-1.15],0.848375917785081,trans
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Inverse variance weighted,5,0.99 [0.88-1.12],0.84889861098374,trans
+APOM,Apolipoprotein M,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.01 [0.89-1.15],0.860028909208211,trans
+APOM,Apolipoprotein M,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_NOS,Inverse variance weighted,6,1.01 [0.93-1.09],0.889295914737586,trans
+APOM,Apolipoprotein M,Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,2,1.02 [0.74-1.41],0.90498673389525,trans
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,1 [0.93-1.09],0.91851343944813,trans
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,1.01 [0.81-1.27],0.923436696708562,trans
+APOM,Apolipoprotein M,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Wald ratio,1,1 [0.95-1.05],0.966989043210344,trans
+APOM,Apolipoprotein M,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Inverse variance weighted,4,1 [0.98-1.02],0.991635258755668,trans

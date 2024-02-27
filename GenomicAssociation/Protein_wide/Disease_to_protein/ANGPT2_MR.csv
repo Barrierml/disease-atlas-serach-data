@@ -1,0 +1,113 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+ANGPT2,Angiopoietin-2,Chapter X Diseases of the respiratory system,COPD_EARLY,Inverse variance weighted,3,1.08 [1.02-1.14],0.00816370081309201,trans
+ANGPT2,Angiopoietin-2,Chapter IX Diseases of the circulatory system,I9_AVBLOCK,Inverse variance weighted,5,1.08 [1.02-1.14],0.0104368226328592,trans
+ANGPT2,Angiopoietin-2,Chapter X Diseases of the respiratory system,COPD_LATER,Wald ratio,1,1.11 [1.02-1.21],0.0128410380268059,trans
+ANGPT2,Angiopoietin-2,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,1.33 [1.06-1.68],0.0138688290444589,trans
+ANGPT2,Angiopoietin-2,Chapter X Diseases of the respiratory system,J10_EMPHYSEMA,Wald ratio,1,1.07 [1.01-1.13],0.0149478693379954,trans
+ANGPT2,Angiopoietin-2,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,1.35 [1.06-1.73],0.0155377256371234,trans
+ANGPT2,Angiopoietin-2,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,1.04 [1-1.07],0.0302807106759501,trans
+ANGPT2,Angiopoietin-2,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1.13 [1.01-1.26],0.0314021267715314,trans
+ANGPT2,Angiopoietin-2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.4 [1.02-1.92],0.0370326237321268,trans
+ANGPT2,Angiopoietin-2,Chapter IX Diseases of the circulatory system,I9_ATHSCLE,Inverse variance weighted,13,1.06 [1-1.11],0.038355934935094,trans
+ANGPT2,Angiopoietin-2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,1.25 [1.01-1.56],0.0410019924512157,trans
+ANGPT2,Angiopoietin-2,Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Inverse variance weighted,2,1.03 [1-1.06],0.0412627907473007,trans
+ANGPT2,Angiopoietin-2,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.29 [1-1.67],0.0463167827847037,trans
+ANGPT2,Angiopoietin-2,Chapter I Certain infectious and parasitic diseases,AB1_MYCOSES,Wald ratio,1,1.2 [1-1.43],0.0503661640395236,trans
+ANGPT2,Angiopoietin-2,Chapter IX Diseases of the circulatory system,I9_UAP,Inverse variance weighted,24,0.96 [0.92-1],0.0561179242667388,trans
+ANGPT2,Angiopoietin-2,Chapter IX Diseases of the circulatory system,I9_CONDUCTIO,Inverse variance weighted,4,1.07 [1-1.16],0.0585365790261674,trans
+ANGPT2,Angiopoietin-2,Chapter V Mental and behavioural disorders,ALCOHOLMENTAL,Wald ratio,1,0.89 [0.78-1.01],0.0644175660881955,trans
+ANGPT2,Angiopoietin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERLIPNAS,Inverse variance weighted,21,0.92 [0.84-1.01],0.0760102445218578,trans
+ANGPT2,Angiopoietin-2,Chapter V Mental and behavioural disorders,F5_DEPRESSION_DYSTHYMIA,Inverse variance weighted,24,1.06 [0.99-1.14],0.0828164391300817,trans
+ANGPT2,Angiopoietin-2,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,1.11 [0.98-1.24],0.0913267193434739,trans
+ANGPT2,Angiopoietin-2,Chapter XI Diseases of the digestive system,K11_OTHFUNC,Wald ratio,1,0.82 [0.65-1.03],0.0930000875302541,trans
+ANGPT2,Angiopoietin-2,Chapter VI Diseases of the nervous system,G6_EPIPAROX,Inverse variance weighted,11,1.13 [0.97-1.31],0.122403585665422,trans
+ANGPT2,Angiopoietin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Inverse variance weighted,5,1.03 [0.99-1.07],0.133150178732632,trans
+ANGPT2,Angiopoietin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,0.94 [0.86-1.02],0.140334633081893,trans
+ANGPT2,Angiopoietin-2,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DERMATITISECZEMA,Inverse variance weighted,36,1.04 [0.99-1.1],0.145930739706676,trans
+ANGPT2,Angiopoietin-2,Chapter V Mental and behavioural disorders,F5_DELIRIUM,Wald ratio,1,0.91 [0.8-1.03],0.151872330009412,trans
+ANGPT2,Angiopoietin-2,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1.26 [0.91-1.73],0.16475381719581,trans
+ANGPT2,Angiopoietin-2,Chapter XI Diseases of the digestive system,K11_INTESTOTH,Inverse variance weighted,10,1.13 [0.95-1.33],0.165695340643995,trans
+ANGPT2,Angiopoietin-2,Chapter IX Diseases of the circulatory system,I9_OTHARR,Inverse variance weighted,12,1.04 [0.98-1.11],0.170024124382518,trans
+ANGPT2,Angiopoietin-2,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,7,1.09 [0.96-1.24],0.170821922833164,trans
+ANGPT2,Angiopoietin-2,Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,2,1.14 [0.94-1.39],0.179492832219519,trans
+ANGPT2,Angiopoietin-2,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,1.06 [0.97-1.17],0.195247698979814,trans
+ANGPT2,Angiopoietin-2,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Inverse variance weighted,3,0.97 [0.92-1.02],0.196550067000235,trans
+ANGPT2,Angiopoietin-2,Chapter VI Diseases of the nervous system,G6_POLYOTHUNS,Inverse variance weighted,2,0.92 [0.81-1.05],0.199888871205785,trans
+ANGPT2,Angiopoietin-2,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,1.04 [0.98-1.11],0.200736344396479,trans
+ANGPT2,Angiopoietin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_LIMBPAIN,Wald ratio,1,1.2 [0.9-1.59],0.211703710541153,trans
+ANGPT2,Angiopoietin-2,Chapter XI Diseases of the digestive system,K11_ALCOLIV,Inverse variance weighted,4,1.03 [0.99-1.07],0.213262878150981,trans
+ANGPT2,Angiopoietin-2,Chapter V Mental and behavioural disorders,AUD,Inverse variance weighted,6,0.97 [0.93-1.02],0.214142183318831,trans
+ANGPT2,Angiopoietin-2,Chapter IX Diseases of the circulatory system,I9_CARDARR,Inverse variance weighted,2,1.03 [0.98-1.09],0.217473196429456,trans
+ANGPT2,Angiopoietin-2,Chapter VI Diseases of the nervous system,NEURODEGOTH,Inverse variance weighted,18,0.97 [0.93-1.02],0.225515980890173,trans
+ANGPT2,Angiopoietin-2,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Wald ratio,1,0.96 [0.89-1.03],0.2263915178894,trans
+ANGPT2,Angiopoietin-2,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,11,0.96 [0.9-1.02],0.226727196437714,trans
+ANGPT2,Angiopoietin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,24,1.02 [0.99-1.05],0.237328991665117,trans
+ANGPT2,Angiopoietin-2,Chapter XI Diseases of the digestive system,K11_UC_STRICT2,Inverse variance weighted,37,1.01 [0.99-1.03],0.239643831255941,trans
+ANGPT2,Angiopoietin-2,Chapter IX Diseases of the circulatory system,I9_PAROXTAC,Inverse variance weighted,7,1.04 [0.97-1.11],0.250371833533008,trans
+ANGPT2,Angiopoietin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NEU,Wald ratio,1,1.03 [0.98-1.09],0.255901793382985,trans
+ANGPT2,Angiopoietin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Wald ratio,1,1.03 [0.98-1.09],0.259294335234908,trans
+ANGPT2,Angiopoietin-2,Chapter V Mental and behavioural disorders,SMOKING_DEPEND,Wald ratio,1,1.05 [0.96-1.14],0.263073129560243,trans
+ANGPT2,Angiopoietin-2,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Wald ratio,1,0.86 [0.64-1.14],0.296486617124072,trans
+ANGPT2,Angiopoietin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SPONDYLOPATHY,Inverse variance weighted,21,1.04 [0.96-1.13],0.307340780974279,trans
+ANGPT2,Angiopoietin-2,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,0.94 [0.82-1.07],0.318790310374185,trans
+ANGPT2,Angiopoietin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,1.06 [0.94-1.2],0.323094966912804,trans
+ANGPT2,Angiopoietin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,14,1.02 [0.98-1.07],0.326751810844516,trans
+ANGPT2,Angiopoietin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Wald ratio,1,0.97 [0.92-1.03],0.335085961781594,trans
+ANGPT2,Angiopoietin-2,Chapter IX Diseases of the circulatory system,I9_LBBB,Inverse variance weighted,2,1.03 [0.97-1.08],0.336000448152417,trans
+ANGPT2,Angiopoietin-2,Chapter XI Diseases of the digestive system,COLITNONINFNAS,Wald ratio,1,1.11 [0.89-1.37],0.35262290621678,trans
+ANGPT2,Angiopoietin-2,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,0.91 [0.74-1.12],0.359978984687728,trans
+ANGPT2,Angiopoietin-2,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.98 [0.93-1.03],0.36318243796879,trans
+ANGPT2,Angiopoietin-2,Chapter XI Diseases of the digestive system,NAFLD,Inverse variance weighted,6,1.02 [0.98-1.05],0.378880329661985,trans
+ANGPT2,Angiopoietin-2,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,1.02 [0.97-1.06],0.418115762299626,trans
+ANGPT2,Angiopoietin-2,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,5,0.89 [0.68-1.17],0.420657918408928,trans
+ANGPT2,Angiopoietin-2,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,8,1.02 [0.97-1.07],0.447158927994796,trans
+ANGPT2,Angiopoietin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Inverse variance weighted,5,1.03 [0.96-1.1],0.458234326446734,trans
+ANGPT2,Angiopoietin-2,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Inverse variance weighted,3,1.03 [0.95-1.12],0.471721326871364,trans
+ANGPT2,Angiopoietin-2,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Inverse variance weighted,13,0.97 [0.89-1.06],0.489992942601652,trans
+ANGPT2,Angiopoietin-2,Chapter XI Diseases of the digestive system,K11_OTHENTERCOL,Inverse variance weighted,2,0.95 [0.83-1.09],0.500384262478218,trans
+ANGPT2,Angiopoietin-2,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,35,1.01 [0.98-1.05],0.513274852396297,trans
+ANGPT2,Angiopoietin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,5,1.02 [0.96-1.08],0.515431457194477,trans
+ANGPT2,Angiopoietin-2,Chapter XI Diseases of the digestive system,K11_CONSTIPATION,Wald ratio,1,0.9 [0.64-1.25],0.517233901783538,trans
+ANGPT2,Angiopoietin-2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,1.01 [0.97-1.05],0.521159258347507,trans
+ANGPT2,Angiopoietin-2,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,1.08 [0.85-1.36],0.546761739997656,trans
+ANGPT2,Angiopoietin-2,Chapter IX Diseases of the circulatory system,I9_SEQULAE,Inverse variance weighted,4,1.03 [0.93-1.14],0.554908008387157,trans
+ANGPT2,Angiopoietin-2,Chapter I Certain infectious and parasitic diseases,AB1_BACTINF_NOS,Inverse variance weighted,2,1.04 [0.9-1.21],0.557939049934196,trans
+ANGPT2,Angiopoietin-2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,1.05 [0.89-1.23],0.563106051027897,trans
+ANGPT2,Angiopoietin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.04 [0.89-1.22],0.582515517947651,trans
+ANGPT2,Angiopoietin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Wald ratio,1,1.03 [0.93-1.14],0.582515517947651,trans
+ANGPT2,Angiopoietin-2,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1.02 [0.94-1.11],0.586764178286421,trans
+ANGPT2,Angiopoietin-2,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,21,1.01 [0.98-1.03],0.607777518321352,trans
+ANGPT2,Angiopoietin-2,Chapter IX Diseases of the circulatory system,I9_VEINSOTH,Inverse variance weighted,36,0.98 [0.92-1.05],0.608591563159632,trans
+ANGPT2,Angiopoietin-2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_CHOROIDRETINA,Inverse variance weighted,9,0.98 [0.92-1.05],0.609158896071705,trans
+ANGPT2,Angiopoietin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,1.01 [0.97-1.04],0.649031239131624,trans
+ANGPT2,Angiopoietin-2,Chapter IX Diseases of the circulatory system,I9_PULMEMB,Inverse variance weighted,23,0.98 [0.88-1.09],0.665890650011198,trans
+ANGPT2,Angiopoietin-2,Chapter X Diseases of the respiratory system,IPF,Inverse variance weighted,20,1 [0.98-1.02],0.674872119390943,trans
+ANGPT2,Angiopoietin-2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_CATARACTOTHER,Inverse variance weighted,12,0.99 [0.92-1.06],0.689083499891117,trans
+ANGPT2,Angiopoietin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,1.01 [0.95-1.08],0.706487771159372,trans
+ANGPT2,Angiopoietin-2,Chapter IX Diseases of the circulatory system,I9_CARDMYO,Inverse variance weighted,18,1 [0.98-1.02],0.706786575743693,trans
+ANGPT2,Angiopoietin-2,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Inverse variance weighted,4,0.99 [0.96-1.03],0.710845235738608,trans
+ANGPT2,Angiopoietin-2,Chapter IX Diseases of the circulatory system,I9_STR,Inverse variance weighted,3,0.97 [0.84-1.13],0.727451307735605,trans
+ANGPT2,Angiopoietin-2,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.95 [0.7-1.29],0.730889472270813,trans
+ANGPT2,Angiopoietin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,JOINTPAIN,Inverse variance weighted,3,1.02 [0.9-1.17],0.734973146919115,trans
+ANGPT2,Angiopoietin-2,Chapter IX Diseases of the circulatory system,I9_CARDMYOOTH,Inverse variance weighted,2,0.99 [0.93-1.06],0.786672939692352,trans
+ANGPT2,Angiopoietin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,25,1.02 [0.88-1.17],0.798705620571307,trans
+ANGPT2,Angiopoietin-2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,8,0.99 [0.96-1.04],0.800639518548768,trans
+ANGPT2,Angiopoietin-2,Chapter IX Diseases of the circulatory system,I9_CEREBDOTH,Wald ratio,1,1.05 [0.72-1.52],0.811139516998723,trans
+ANGPT2,Angiopoietin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PLASMAPROT,Inverse variance weighted,15,1 [0.99-1.01],0.828255787732306,trans
+ANGPT2,Angiopoietin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHTROSIS_COX,Inverse variance weighted,46,1 [0.96-1.03],0.864849129240562,trans
+ANGPT2,Angiopoietin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,22,1 [0.95-1.05],0.876881256647806,trans
+ANGPT2,Angiopoietin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS,Inverse variance weighted,51,1 [0.93-1.07],0.897566270654766,trans
+ANGPT2,Angiopoietin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,1 [0.97-1.04],0.903913819946,trans
+ANGPT2,Angiopoietin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEUROPATHY,Wald ratio,1,0.99 [0.89-1.11],0.908967103222081,trans
+ANGPT2,Angiopoietin-2,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,0.99 [0.82-1.19],0.924485331460841,trans
+ANGPT2,Angiopoietin-2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,1 [0.93-1.08],0.926757383672951,trans
+ANGPT2,Angiopoietin-2,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,0.99 [0.79-1.25],0.948150295146459,trans
+ANGPT2,Angiopoietin-2,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1 [0.93-1.08],0.952750945568008,trans
+ANGPT2,Angiopoietin-2,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,61,1 [0.95-1.05],0.955010286120003,trans
+ANGPT2,Angiopoietin-2,Chapter XI Diseases of the digestive system,K11_OTHDIG,Inverse variance weighted,12,1 [0.95-1.05],0.960662737583005,trans
+ANGPT2,Angiopoietin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_NOS,Inverse variance weighted,6,1 [0.96-1.04],0.961497882358546,trans
+ANGPT2,Angiopoietin-2,Chapter X Diseases of the respiratory system,J10_ASTHMA_EXMORE,Inverse variance weighted,59,1 [0.96-1.04],0.969374027581765,trans
+ANGPT2,Angiopoietin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_OTH,Inverse variance weighted,3,1 [0.84-1.18],0.973524521346929,trans
+ANGPT2,Angiopoietin-2,Chapter XI Diseases of the digestive system,ULCERNAS,Inverse variance weighted,18,1 [0.98-1.03],0.976907752814161,trans
+ANGPT2,Angiopoietin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DORSOPATHYOTH,Inverse variance weighted,27,1 [0.9-1.1],0.985581617241306,trans
+ANGPT2,Angiopoietin-2,Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,2,1 [0.84-1.2],0.998436122055856,trans

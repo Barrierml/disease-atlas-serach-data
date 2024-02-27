@@ -1,0 +1,5 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+ATP5IF1,"ATPase inhibitor, mitochondrial",Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Wald ratio,1,0.71 [0.47-1.09],0.121416663057496,cis
+ATP5IF1,"ATPase inhibitor, mitochondrial",Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_THROMBOCYTOPENIANAS,Wald ratio,1,0.64 [0.34-1.18],0.151291491170836,cis
+ATP5IF1,"ATPase inhibitor, mitochondrial",Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_THROMBOCYTOPENIANAS,Inverse variance weighted,3,1.16 [0.38-3.57],0.796858973691246,trans
+ATP5IF1,"ATPase inhibitor, mitochondrial",Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Inverse variance weighted,3,1.05 [0.34-3.22],0.936066302931607,trans

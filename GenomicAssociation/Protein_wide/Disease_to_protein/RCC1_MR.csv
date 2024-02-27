@@ -1,0 +1,16 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+RCC1,Regulator of chromosome condensation,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,1.04 [1-1.08],0.0298250505168698,trans
+RCC1,Regulator of chromosome condensation,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.28 [0.99-1.67],0.061049334151643,trans
+RCC1,Regulator of chromosome condensation,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.8 [0.58-1.1],0.164852918026285,trans
+RCC1,Regulator of chromosome condensation,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,22,1.03 [0.99-1.07],0.172905414028784,trans
+RCC1,Regulator of chromosome condensation,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_NOS,Inverse variance weighted,6,1.04 [0.98-1.09],0.176332222187306,trans
+RCC1,Regulator of chromosome condensation,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.81 [0.58-1.13],0.211982399015977,trans
+RCC1,Regulator of chromosome condensation,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,0.86 [0.68-1.1],0.241243945118794,trans
+RCC1,Regulator of chromosome condensation,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.04 [0.96-1.12],0.322239998303371,trans
+RCC1,Regulator of chromosome condensation,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Inverse variance weighted,5,1.04 [0.96-1.13],0.375619930686326,trans
+RCC1,Regulator of chromosome condensation,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,0.94 [0.8-1.11],0.477191652796631,trans
+RCC1,Regulator of chromosome condensation,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,1.01 [0.98-1.03],0.560394392383899,trans
+RCC1,Regulator of chromosome condensation,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Inverse variance weighted,4,0.99 [0.96-1.02],0.564071333677053,trans
+RCC1,Regulator of chromosome condensation,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,0.98 [0.9-1.07],0.658953664457378,trans
+RCC1,Regulator of chromosome condensation,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,0.91 [0.58-1.44],0.697979317272748,trans
+RCC1,Regulator of chromosome condensation,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,0.98 [0.81-1.19],0.844736683976531,trans

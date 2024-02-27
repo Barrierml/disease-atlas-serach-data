@@ -1,0 +1,162 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+NOS3,"Nitric oxide synthase, endothelial",Chapter XI Diseases of the digestive system,K11_GIDISEASES,Wald ratio,1,1.41 [1.13-1.76],0.00239771256794817,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter XI Diseases of the digestive system,K11_GALLBILPANC,Wald ratio,1,1.82 [1.2-2.75],0.00443734928443406,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter XII Diseases of the skin and subcutaneous tissue,L12_SKIN_SUBCUTAN,Wald ratio,1,1.51 [1.13-2.03],0.00508901493344317,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIV Diseases of the genitourinary system,N14_GENITOURINARY,Wald ratio,1,1.29 [1.02-1.62],0.0303886596282298,cis
+NOS3,"Nitric oxide synthase, endothelial","Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Wald ratio,1,1.55 [1.03-2.32],0.0357259538132132,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_MUSCULOSKELETAL,Wald ratio,1,1.26 [1-1.58],0.0452518220572319,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Wald ratio,1,1.24 [0.97-1.6],0.0873056133803117,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter X Diseases of the respiratory system,J10_RESPDISOTH,Wald ratio,1,1.56 [0.91-2.66],0.102926442553902,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.39 [0.93-2.08],0.109454112070813,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter XI Diseases of the digestive system,COLITNONINFNAS,Wald ratio,1,1.46 [0.88-2.43],0.142508188161631,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_VIRAL_IMPL,Wald ratio,1,2 [0.77-5.15],0.152262929656035,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1.27 [0.91-1.79],0.163516926284168,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter I Certain infectious and parasitic diseases,AB1_INFECT_PARASIT,Wald ratio,1,1.24 [0.91-1.68],0.174951078648145,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.26 [0.9-1.76],0.176149080273709,cis
+NOS3,"Nitric oxide synthase, endothelial","Chapter IV Endocrine, nutritional and metabolic diseases",E4_CA_MET,Wald ratio,1,1.74 [0.58-5.18],0.321654607122989,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_BACT_IMPL,Wald ratio,1,1.27 [0.73-2.24],0.399311555253115,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Wald ratio,1,0.64 [0.22-1.83],0.40563098653394,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OTHCONN,Wald ratio,1,1.47 [0.56-3.85],0.427974881760684,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_EXPLICIT,Wald ratio,1,1.26 [0.7-2.29],0.441205393275008,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter V Mental and behavioural disorders,KRA_PSY_MOOD_EXMORE,Wald ratio,1,1.18 [0.76-1.81],0.460274895595488,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Wald ratio,1,1.21 [0.72-2.04],0.47020359555349,cis
+NOS3,"Nitric oxide synthase, endothelial","Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDOVER,Wald ratio,1,0.64 [0.18-2.36],0.508184442839974,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SLE,Wald ratio,1,0.33 [0-32.33],0.63864874584854,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,1.11 [0.7-1.75],0.66151399199459,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,0.9 [0.57-1.44],0.670367722454141,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter VI Diseases of the nervous system,G6_NEURO,Wald ratio,1,0.94 [0.7-1.25],0.672432321220856,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_FUNGAL_IMPL,Wald ratio,1,1.18 [0.34-4.06],0.794239504607406,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_PULMOTHHD,Wald ratio,1,1.15 [0.27-4.94],0.854664302890713,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_PAD,Wald ratio,1,0.93 [0.39-2.19],0.860135471336053,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,1.14 [0.16-7.85],0.897339347377946,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN_NAS,Wald ratio,1,1.06 [0.29-3.9],0.929107485452156,cis
+NOS3,"Nitric oxide synthase, endothelial",Chapter VI Diseases of the nervous system,G6_HEMIPLE,Inverse variance weighted,5,0.44 [0.23-0.83],0.0113984739553688,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_HYPTENS,Inverse variance weighted,5,0.81 [0.67-0.98],0.0267986040497861,trans
+NOS3,"Nitric oxide synthase, endothelial","Chapter IV Endocrine, nutritional and metabolic diseases",E4_VOLUME,Inverse variance weighted,5,0.57 [0.34-0.95],0.0302217519573594,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Inverse variance weighted,5,0.42 [0.19-0.93],0.0316197685993024,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIV Diseases of the genitourinary system,N14_CHRONEPHROPATH,Inverse variance weighted,5,0.44 [0.2-0.93],0.0327020093680181,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Inverse variance weighted,5,0.8 [0.65-0.99],0.0396393370559044,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter V Mental and behavioural disorders,F5_DELIRIUM,Inverse variance weighted,5,1.57 [0.99-2.49],0.0569676952893847,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_AF,Inverse variance weighted,5,0.8 [0.61-1.03],0.0872619380185344,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,5,0.76 [0.55-1.04],0.0881093580477742,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XI Diseases of the digestive system,K11_OTHDIG,Inverse variance weighted,5,1.2 [0.95-1.5],0.121542999119573,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XI Diseases of the digestive system,K11_OTHINFLIV,Inverse variance weighted,5,1.58 [0.87-2.86],0.129374182980071,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter I Certain infectious and parasitic diseases,AB1_MYCOSES,Inverse variance weighted,5,1.24 [0.94-1.64],0.134975625804418,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Inverse variance weighted,5,1.44 [0.89-2.33],0.140258281251051,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIV Diseases of the genitourinary system,N14_OBSTRUREFLUROPATH,Inverse variance weighted,5,1.35 [0.9-2.04],0.146089740216093,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_HYPTENSPUL,Inverse variance weighted,5,3.41 [0.65-17.83],0.1466716499666,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,5,0.87 [0.73-1.05],0.148981858148392,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_SECONDRIGHT,Inverse variance weighted,5,1.76 [0.81-3.82],0.149972681960069,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter I Certain infectious and parasitic diseases,AB1_VIRAL_INOTHER,Inverse variance weighted,5,0.46 [0.15-1.39],0.169666438451016,trans
+NOS3,"Nitric oxide synthase, endothelial","Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Inverse variance weighted,5,0.7 [0.41-1.2],0.190690201225185,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter X Diseases of the respiratory system,J10_BRONCHIECTASIS,Inverse variance weighted,5,1.43 [0.83-2.46],0.19313772208854,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Inverse variance weighted,5,1.25 [0.89-1.74],0.194513704262424,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XI Diseases of the digestive system,K11_OESSTODUO,Inverse variance weighted,5,0.88 [0.73-1.07],0.196889166505163,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,5,0.85 [0.66-1.09],0.197192136968749,trans
+NOS3,"Nitric oxide synthase, endothelial","Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Inverse variance weighted,5,0.8 [0.56-1.14],0.213548199550046,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIAINCHRONICDISEASE,Inverse variance weighted,5,1.89 [0.67-5.33],0.230202943685327,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIV Diseases of the genitourinary system,N14_TUBULOINTNEPHRNAS,Inverse variance weighted,5,0.72 [0.41-1.24],0.233696810247538,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_OTH,Inverse variance weighted,5,0.89 [0.74-1.08],0.234046967496616,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SJOGREN,Inverse variance weighted,5,0.74 [0.45-1.23],0.251826475028867,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,5,1.07 [0.95-1.19],0.257493883868552,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter II Neoplasms,CD2_NONHODGKIN_NAS_EXALLC,Inverse variance weighted,5,1.55 [0.7-3.43],0.275694019257693,trans
+NOS3,"Nitric oxide synthase, endothelial","Chapter IV Endocrine, nutritional and metabolic diseases",E4_THYROID,Inverse variance weighted,5,1.07 [0.95-1.2],0.296238565256185,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter II Neoplasms,C3_DLBCL_EXALLC,Inverse variance weighted,5,1.53 [0.69-3.38],0.297793989307429,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter X Diseases of the respiratory system,J10_VIRALPNEUMO,Inverse variance weighted,5,1.23 [0.8-1.9],0.350976215959094,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_THROMBOCYTOPENIANAS,Inverse variance weighted,5,1.32 [0.74-2.36],0.353620264658554,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,5,0.94 [0.82-1.08],0.364637173401973,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter I Certain infectious and parasitic diseases,AB1_INTESTINAL_INFECTIONS,Inverse variance weighted,5,0.94 [0.82-1.07],0.367356949046164,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,5,1.1 [0.9-1.34],0.368394430237425,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XII Diseases of the skin and subcutaneous tissue,L12_DERMATITISECZEMA,Inverse variance weighted,5,0.94 [0.81-1.09],0.398544097864383,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter V Mental and behavioural disorders,KRA_PSY_ANYMENTAL,Inverse variance weighted,5,1.05 [0.94-1.18],0.398800668663411,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_SARCOIDOSIS,Inverse variance weighted,5,0.8 [0.48-1.34],0.401041825713916,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter X Diseases of the respiratory system,J10_EMPHYSEMA,Inverse variance weighted,5,0.79 [0.44-1.42],0.427322784355244,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter I Certain infectious and parasitic diseases,C_DIFFICILE_ENTEROCOLITIS,Inverse variance weighted,5,0.83 [0.53-1.31],0.428042788950341,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter X Diseases of the respiratory system,IPF,Inverse variance weighted,5,0.8 [0.45-1.42],0.444401674421764,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter I Certain infectious and parasitic diseases,AB1_BACT_BIR_OTHER_INF_AGENTS,Inverse variance weighted,5,0.82 [0.5-1.35],0.444499369896713,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XI Diseases of the digestive system,K11_INTESTOTH,Inverse variance weighted,5,0.95 [0.84-1.08],0.448336562031302,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter X Diseases of the respiratory system,COPD_LATER,Inverse variance weighted,5,1.11 [0.85-1.44],0.449731703160852,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter X Diseases of the respiratory system,J10_PLEUREFFUSION,Inverse variance weighted,5,0.85 [0.54-1.32],0.457819694105626,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_MI_STRICT,Inverse variance weighted,5,0.77 [0.39-1.54],0.462916931267368,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,1.07 [0.88-1.31],0.475056669091762,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,5,1.08 [0.87-1.35],0.47653269072393,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,5,0.89 [0.63-1.24],0.478942715232259,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Inverse variance weighted,5,0.88 [0.6-1.27],0.48503671873623,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XII Diseases of the skin and subcutaneous tissue,L12_LUPUS,Inverse variance weighted,5,0.71 [0.26-1.9],0.495632748413673,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XI Diseases of the digestive system,K11_OTHFUNC,Inverse variance weighted,5,0.92 [0.74-1.16],0.497992860470335,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XI Diseases of the digestive system,K11_CHOLELITH,Inverse variance weighted,5,1.13 [0.78-1.63],0.507358348137212,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_OTHILLHEART,Inverse variance weighted,5,0.81 [0.42-1.55],0.529861402048656,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter I Certain infectious and parasitic diseases,AB1_OTHER_VIRAL,Inverse variance weighted,5,1.08 [0.84-1.4],0.539537680510546,trans
+NOS3,"Nitric oxide synthase, endothelial","Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERKALAEMIA,Inverse variance weighted,5,0.77 [0.33-1.79],0.54054872511411,trans
+NOS3,"Nitric oxide synthase, endothelial","Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Inverse variance weighted,5,0.77 [0.34-1.78],0.54518047067535,trans
+NOS3,"Nitric oxide synthase, endothelial","Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Inverse variance weighted,5,0.84 [0.48-1.49],0.558205215974347,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,5,1.03 [0.93-1.13],0.560946068838152,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_PHLETHROMBDVTLOW,Inverse variance weighted,5,1.12 [0.77-1.63],0.564902848543344,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_VTE,Inverse variance weighted,5,1.09 [0.8-1.49],0.568389514828999,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter VI Diseases of the nervous system,G6_EPIPAROX,Inverse variance weighted,5,1.03 [0.92-1.16],0.571902920868738,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIV Diseases of the genitourinary system,N14_RENFAILNAS,Inverse variance weighted,5,1.17 [0.68-2.03],0.575247758849172,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XI Diseases of the digestive system,K11_OTHDISSTOMDUOD,Inverse variance weighted,5,1.18 [0.65-2.15],0.576545039825386,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_ATHSCLE,Inverse variance weighted,5,1.07 [0.83-1.39],0.579013917365141,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Inverse variance weighted,5,0.96 [0.85-1.1],0.580208479255107,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter X Diseases of the respiratory system,COPD_EARLY,Inverse variance weighted,5,0.89 [0.6-1.33],0.58328163055663,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_ARTOTH,Inverse variance weighted,5,1.23 [0.58-2.62],0.590939290777159,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,5,1.32 [0.47-3.66],0.599555876382026,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,5,0.97 [0.85-1.1],0.601440041467084,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_AGRANULOCYTOSIS,Inverse variance weighted,5,0.89 [0.57-1.39],0.603962149459876,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter I Certain infectious and parasitic diseases,AB1_STREPTSTAPHYCOCC_INOTHER,Inverse variance weighted,5,1.71 [0.22-13.1],0.607984589503252,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_CHD,Inverse variance weighted,5,0.87 [0.49-1.54],0.626933165802215,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter X Diseases of the respiratory system,VIRALPNEUMONAS,Inverse variance weighted,5,1.2 [0.57-2.53],0.627716301128152,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,5,1.27 [0.48-3.35],0.632507665989921,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,5,0.91 [0.6-1.37],0.639031256540744,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,5,0.92 [0.63-1.33],0.648141721357102,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,5,1.03 [0.89-1.2],0.654717864566351,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter I Certain infectious and parasitic diseases,AB1_CANDIDIASIS,Inverse variance weighted,5,1.17 [0.58-2.34],0.66205361399737,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_SEQULAE,Inverse variance weighted,5,1.08 [0.78-1.49],0.663196057235266,trans
+NOS3,"Nitric oxide synthase, endothelial","Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Inverse variance weighted,5,1.33 [0.36-4.9],0.667153857730305,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACT_INOTHER,Inverse variance weighted,5,0.71 [0.15-3.4],0.668804985789609,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter VI Diseases of the nervous system,G6_EPLEPSY,Inverse variance weighted,5,1.05 [0.83-1.34],0.673637971405503,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,5,1.06 [0.8-1.42],0.67381489941301,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Inverse variance weighted,5,1.05 [0.83-1.32],0.68401036000388,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter X Diseases of the respiratory system,J10_LOWERINF,Inverse variance weighted,5,1.06 [0.8-1.39],0.699045234907885,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_NOS,Inverse variance weighted,5,1.1 [0.67-1.81],0.706002454350923,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter VI Diseases of the nervous system,GE,Inverse variance weighted,5,0.82 [0.3-2.28],0.706967435099424,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOCHONDRO,Inverse variance weighted,5,1.03 [0.86-1.25],0.721965872009768,trans
+NOS3,"Nitric oxide synthase, endothelial","Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERCHOL,Inverse variance weighted,5,0.79 [0.22-2.84],0.722489382471904,trans
+NOS3,"Nitric oxide synthase, endothelial","Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,5,1.04 [0.84-1.28],0.725993717724964,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XII Diseases of the skin and subcutaneous tissue,L12_CELLULITIS,Inverse variance weighted,5,1.06 [0.77-1.44],0.729985198152633,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XII Diseases of the skin and subcutaneous tissue,L12_OTHERSKINSUBCUTIS,Inverse variance weighted,5,1.03 [0.87-1.22],0.758634643600884,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Inverse variance weighted,5,0.97 [0.81-1.16],0.758821426681282,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XII Diseases of the skin and subcutaneous tissue,L12_ULCERLOWLIMB,Inverse variance weighted,5,1.06 [0.7-1.61],0.765229559644069,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XI Diseases of the digestive system,K11_OESITIS,Inverse variance weighted,5,1.19 [0.38-3.67],0.767185145763257,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter II Neoplasms,CD2_NONFOLLICULAR_LYMPHOMA_EXALLC,Inverse variance weighted,5,1.07 [0.65-1.76],0.789858509938221,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_OTHPER,Inverse variance weighted,5,0.93 [0.55-1.59],0.797817950416521,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,5,1.02 [0.88-1.19],0.803771437599311,trans
+NOS3,"Nitric oxide synthase, endothelial","Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,5,0.91 [0.41-2.01],0.811386491503403,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_CORATHER,Inverse variance weighted,5,0.94 [0.52-1.7],0.830673585263914,trans
+NOS3,"Nitric oxide synthase, endothelial","Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,5,0.88 [0.25-3.05],0.838244533285176,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XI Diseases of the digestive system,K11_DIAHER,Inverse variance weighted,5,0.98 [0.77-1.24],0.846453961210524,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XI Diseases of the digestive system,K11_OTHGASTR,Inverse variance weighted,5,1.03 [0.76-1.4],0.850016092661835,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_IHD,Inverse variance weighted,5,0.95 [0.56-1.62],0.850477517891197,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,5,0.98 [0.83-1.17],0.853706699850507,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XI Diseases of the digestive system,K11_OTHENTERCOL,Inverse variance weighted,5,0.97 [0.73-1.3],0.857348709450765,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_CARDARR,Inverse variance weighted,5,0.93 [0.42-2.07],0.862759411152224,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Inverse variance weighted,5,0.93 [0.41-2.13],0.868642375473892,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter II Neoplasms,C3_NONHODGKIN_EXALLC,Inverse variance weighted,5,1.07 [0.47-2.44],0.878939883577771,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Inverse variance weighted,5,1.03 [0.71-1.5],0.885396057691226,trans
+NOS3,"Nitric oxide synthase, endothelial","Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERLIPNAS,Inverse variance weighted,5,0.91 [0.24-3.44],0.891187100883794,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIII Diseases of the musculoskeletal system and connective tissue,JOINTPAIN,Inverse variance weighted,5,1.01 [0.83-1.24],0.891260413995633,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,5,0.98 [0.69-1.4],0.918473545049581,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,5,0.99 [0.73-1.34],0.940887286459466,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_HYPOTE,Inverse variance weighted,5,1.02 [0.6-1.73],0.94856636285565,trans
+NOS3,"Nitric oxide synthase, endothelial","Chapter IV Endocrine, nutritional and metabolic diseases",E4_MG_MET,Inverse variance weighted,5,0.91 [0.03-32.4],0.95710592976614,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter X Diseases of the respiratory system,J10_EXTERLUNG,Inverse variance weighted,5,0.99 [0.58-1.67],0.958351199025309,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter X Diseases of the respiratory system,J10_PLEURA,Inverse variance weighted,5,1.01 [0.81-1.24],0.960552466960684,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,5,0.99 [0.67-1.47],0.961057775213436,trans
+NOS3,"Nitric oxide synthase, endothelial","Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Inverse variance weighted,5,1 [0.77-1.29],0.972610330434353,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_SEROPOS_OTH,Inverse variance weighted,5,1 [0.76-1.3],0.976647715315963,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Inverse variance weighted,5,1 [0.7-1.41],0.977723088130122,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_SEROPOS_WIDE,Inverse variance weighted,5,1 [0.77-1.31],0.978429317264417,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter XIV Diseases of the genitourinary system,N14_GLOMEINOTH,Inverse variance weighted,5,0.99 [0.52-1.9],0.984895476028074,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,5,1 [0.84-1.19],0.990086456691173,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Inverse variance weighted,5,1.01 [0.32-3.21],0.991144572131838,trans
+NOS3,"Nitric oxide synthase, endothelial",Chapter IX Diseases of the circulatory system,I9_ANGINA,Inverse variance weighted,5,1 [0.55-1.84],0.995845547761538,trans

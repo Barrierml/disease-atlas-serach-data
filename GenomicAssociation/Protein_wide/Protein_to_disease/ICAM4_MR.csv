@@ -1,0 +1,14 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+ICAM4,Intercellular adhesion molecule 4,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,3,0.87 [0.76-1],0.0497668144610591,cis
+ICAM4,Intercellular adhesion molecule 4,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Wald ratio,1,1.16 [0.97-1.37],0.0967265984204665,cis
+ICAM4,Intercellular adhesion molecule 4,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,3,0.91 [0.81-1.02],0.118992021418147,cis
+ICAM4,Intercellular adhesion molecule 4,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.05 [0.92-1.21],0.468952204046192,cis
+ICAM4,Intercellular adhesion molecule 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_LOWBACKPAIN,Inverse variance weighted,3,0.95 [0.81-1.11],0.510553582465635,cis
+ICAM4,Intercellular adhesion molecule 4,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,1.04 [0.86-1.27],0.656004802657616,cis
+ICAM4,Intercellular adhesion molecule 4,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,3,0.97 [0.79-1.2],0.775923642914505,cis
+ICAM4,Intercellular adhesion molecule 4,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,3,0.99 [0.69-1.42],0.956105278712669,cis
+ICAM4,Intercellular adhesion molecule 4,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,58,1.03 [0.98-1.08],0.199546662416374,trans
+ICAM4,Intercellular adhesion molecule 4,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,58,1.03 [0.98-1.07],0.260576754004475,trans
+ICAM4,Intercellular adhesion molecule 4,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,58,1.01 [0.98-1.04],0.538135142318021,trans
+ICAM4,Intercellular adhesion molecule 4,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,58,1.01 [0.98-1.03],0.598145630594644,trans
+ICAM4,Intercellular adhesion molecule 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_LOWBACKPAIN,Inverse variance weighted,58,1.01 [0.98-1.03],0.693965543531647,trans

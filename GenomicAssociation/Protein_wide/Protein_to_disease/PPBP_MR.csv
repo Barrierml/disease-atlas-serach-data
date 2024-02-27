@@ -1,0 +1,5 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+PPBP,Platelet basic protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Wald ratio,1,1.13 [0.89-1.44],0.32597836535433,cis
+PPBP,Platelet basic protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_THROMBOCYTOPENIANAS,Wald ratio,1,0.92 [0.65-1.32],0.66590535664121,cis
+PPBP,Platelet basic protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Inverse variance weighted,5,1.59 [1-2.54],0.0517897036047212,trans
+PPBP,Platelet basic protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_THROMBOCYTOPENIANAS,Inverse variance weighted,5,1.64 [0.85-3.17],0.138469422500984,trans

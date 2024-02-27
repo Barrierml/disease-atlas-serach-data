@@ -1,0 +1,80 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,2.69 [2.12-3.42],5.0307230213892e-16,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,1.59 [1.42-1.78],1.75795930051975e-15,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,61,1.19 [1.11-1.27],5.55898460715793e-07,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter X Diseases of the respiratory system,J10_ASTHMA_EXMORE,Inverse variance weighted,59,1.12 [1.07-1.19],1.98096711290984e-05,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XI Diseases of the digestive system,K11_OESSTODUO,Wald ratio,1,2.28 [1.51-3.44],8.87054761440775e-05,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DERMATITISECZEMA,Inverse variance weighted,36,1.13 [1.06-1.21],0.000148070581739086,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,1.39 [1.16-1.66],0.000385187404918095,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,8,1.08 [1.03-1.14],0.00135364719618512,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,1.04 [1.01-1.06],0.00283766860474069,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,1.1 [1.02-1.17],0.00778638891986777,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,0.92 [0.86-0.98],0.0145094485644203,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,24,0.97 [0.95-0.99],0.0153432657449495,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,14,0.97 [0.95-1],0.0182241107389127,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1.13 [1.02-1.26],0.0218232382897967,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Inverse variance weighted,2,1.03 [1-1.06],0.0233925490808385,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.09 [1.01-1.17],0.0255957511386519,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Inverse variance weighted,3,1.06 [1.01-1.12],0.026054994282205,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,22,1.12 [1.01-1.25],0.0285409932318187,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XI Diseases of the digestive system,K11_COELIAC,Inverse variance weighted,52,1.04 [1-1.07],0.0321158188116618,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,1.04 [1-1.07],0.0353176567883237,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.28 [1-1.64],0.0469845104353937,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,10,1.04 [1-1.09],0.0557431445347089,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XI Diseases of the digestive system,K11_OTHDIG,Inverse variance weighted,12,1.05 [1-1.11],0.0706907055860397,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XI Diseases of the digestive system,NAFLD,Inverse variance weighted,6,1.02 [1-1.05],0.0759211733577427,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Inverse variance weighted,5,1.34 [0.97-1.85],0.0784246611393674,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Inverse variance weighted,13,1.12 [0.98-1.28],0.0839165566211931,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1.03 [0.99-1.08],0.0884030470132923,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,1.03 [0.99-1.07],0.148210156743403,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,35,1.07 [0.98-1.17],0.155024247158736,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Wald ratio,1,1.04 [0.99-1.09],0.15714562849122,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,5,1.03 [0.99-1.08],0.157445085025623,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter II Neoplasms,CD2_NONFOLLICULAR_LYMPHOMA_EXALLC,Inverse variance weighted,2,0.96 [0.9-1.02],0.175747267484494,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter II Neoplasms,C3_CLL_EXALLC,Inverse variance weighted,4,0.98 [0.96-1.01],0.191169762245293,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter I Certain infectious and parasitic diseases,AB1_BACTINF_NOS,Inverse variance weighted,2,0.86 [0.68-1.08],0.191263445334072,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Wald ratio,1,1.21 [0.91-1.6],0.193337674477596,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter V Mental and behavioural disorders,F5_DELIRIUM,Wald ratio,1,1.09 [0.96-1.23],0.198535887086955,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.82 [0.6-1.11],0.200297215017202,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_SARCOIDOSIS,Inverse variance weighted,7,1.13 [0.94-1.35],0.201321292680523,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.08 [0.95-1.23],0.21250777180304,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.84 [0.62-1.13],0.242203791982776,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,7,1.14 [0.9-1.44],0.271541702792331,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,21,1.01 [0.99-1.03],0.326272936484704,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,10,1.02 [0.98-1.06],0.341322090903006,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_NOS,Inverse variance weighted,6,1.11 [0.89-1.4],0.351678110886689,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Wald ratio,1,0.97 [0.91-1.04],0.353480971115935,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,0.91 [0.74-1.12],0.368054672515279,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter V Mental and behavioural disorders,SMOKING_DEPEND,Wald ratio,1,0.96 [0.89-1.05],0.396685501726826,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter X Diseases of the respiratory system,IPF,Inverse variance weighted,20,1.01 [0.99-1.03],0.470062478621102,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,0.92 [0.74-1.15],0.472802084949961,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,0.92 [0.73-1.16],0.474119714823279,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,2,0.9 [0.68-1.2],0.479023297367234,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XI Diseases of the digestive system,COLITNONINFNAS,Wald ratio,1,0.93 [0.76-1.14],0.481374145653075,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter II Neoplasms,CD2_LYMPHOID_LEUKAEMIA_EXALLC,Inverse variance weighted,8,0.99 [0.95-1.03],0.501869413912116,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Inverse variance weighted,5,1.01 [0.97-1.05],0.512940424253791,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XI Diseases of the digestive system,K11_GALLBILPANC,Inverse variance weighted,21,1.01 [0.97-1.06],0.553804730243199,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Inverse variance weighted,4,0.98 [0.93-1.04],0.555084651494243,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter I Certain infectious and parasitic diseases,AB1_MYCOSES,Wald ratio,1,1.05 [0.88-1.26],0.555286257363711,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,0.94 [0.76-1.16],0.559071552549897,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,1.07 [0.86-1.33],0.560725532347719,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter X Diseases of the respiratory system,COPD_EARLY,Inverse variance weighted,3,1.02 [0.96-1.07],0.59604752430569,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,1.01 [0.98-1.04],0.596286526664264,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SJOGREN,Inverse variance weighted,5,1.02 [0.95-1.09],0.625219493687967,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XI Diseases of the digestive system,ULCERNAS,Inverse variance weighted,18,1.01 [0.97-1.04],0.632613456891265,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,1.02 [0.94-1.11],0.651660223084819,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.03 [0.88-1.19],0.742559233491586,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Wald ratio,1,1.02 [0.92-1.13],0.742559233491586,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,0.98 [0.87-1.11],0.779826814168422,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,2,0.95 [0.68-1.33],0.781846361839864,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.04 [0.76-1.41],0.81757088936361,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XI Diseases of the digestive system,K11_CHOLELITH,Inverse variance weighted,122,1 [0.98-1.03],0.855810754871781,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter X Diseases of the respiratory system,J10_EMPHYSEMA,Wald ratio,1,1 [0.95-1.05],0.87399167917618,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XI Diseases of the digestive system,K11_OTHENTERCOL,Inverse variance weighted,2,1.01 [0.9-1.13],0.880722723380143,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,1.01 [0.91-1.1],0.914108137972234,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS,Inverse variance weighted,51,1 [0.94-1.06],0.950550177475258,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,0.99 [0.83-1.19],0.954149881027174,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,1 [0.88-1.14],0.956925976148377,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter X Diseases of the respiratory system,COPD_LATER,Wald ratio,1,1 [0.92-1.08],0.964153026895801,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,25,1 [0.88-1.13],0.977018781449761,trans
+ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,1 [0.97-1.03],0.994752180847225,trans

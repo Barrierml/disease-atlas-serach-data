@@ -1,0 +1,41 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+RTBDN,Retbindin,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,1.21 [1.13-1.29],1.51701663672933e-08,trans
+RTBDN,Retbindin,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.23 [1.14-1.33],1.0207167619164e-07,trans
+RTBDN,Retbindin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,0.67 [0.52-0.87],0.00213349986799502,trans
+RTBDN,Retbindin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,24,1.03 [1.01-1.05],0.0163696718946965,trans
+RTBDN,Retbindin,Chapter IX Diseases of the circulatory system,I9_ATHSCLE,Inverse variance weighted,13,1.1 [1.01-1.2],0.0218101765309286,trans
+RTBDN,Retbindin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,14,1.03 [1-1.05],0.0344664541677265,trans
+RTBDN,Retbindin,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1.12 [1.01-1.25],0.0388192567152109,trans
+RTBDN,Retbindin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,1.21 [1-1.45],0.0456881364481264,trans
+RTBDN,Retbindin,Chapter XI Diseases of the digestive system,K11_DIAHER,Inverse variance weighted,8,0.95 [0.91-1],0.0490778834212071,trans
+RTBDN,Retbindin,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,0.8 [0.64-1.01],0.0601584113773608,trans
+RTBDN,Retbindin,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.12 [0.98-1.28],0.0864456746941889,trans
+RTBDN,Retbindin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,1.03 [1-1.06],0.0889877397293532,trans
+RTBDN,Retbindin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,0.93 [0.86-1.01],0.0942330260257831,trans
+RTBDN,Retbindin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,2,0.86 [0.71-1.05],0.146232228569482,trans
+RTBDN,Retbindin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.12 [0.96-1.31],0.147034920249844,trans
+RTBDN,Retbindin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Wald ratio,1,1.08 [0.97-1.2],0.147034920249844,trans
+RTBDN,Retbindin,Chapter IX Diseases of the circulatory system,I9_CARDARR,Inverse variance weighted,2,1.1 [0.93-1.31],0.250382864465187,trans
+RTBDN,Retbindin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,1.05 [0.96-1.15],0.280951957819675,trans
+RTBDN,Retbindin,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.96 [0.88-1.05],0.335668046535537,trans
+RTBDN,Retbindin,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.86 [0.63-1.17],0.349101836435119,trans
+RTBDN,Retbindin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,0.9 [0.71-1.13],0.361083086265246,trans
+RTBDN,Retbindin,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,5,0.97 [0.91-1.04],0.379282723204351,trans
+RTBDN,Retbindin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,0.98 [0.95-1.02],0.385620925179583,trans
+RTBDN,Retbindin,Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,2,1.08 [0.91-1.28],0.388248329491467,trans
+RTBDN,Retbindin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,8,0.99 [0.94-1.03],0.489846707222614,trans
+RTBDN,Retbindin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,10,0.98 [0.93-1.04],0.573407999467425,trans
+RTBDN,Retbindin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,1.02 [0.94-1.1],0.619411897087995,trans
+RTBDN,Retbindin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.93 [0.67-1.28],0.639424156576233,trans
+RTBDN,Retbindin,Chapter XI Diseases of the digestive system,K11_OESSTODUO,Wald ratio,1,0.91 [0.6-1.4],0.676663661124215,trans
+RTBDN,Retbindin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.06 [0.77-1.46],0.70094603148757,trans
+RTBDN,Retbindin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Inverse variance weighted,5,1.01 [0.95-1.08],0.741766153250446,trans
+RTBDN,Retbindin,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,8,0.99 [0.93-1.05],0.745932746750101,trans
+RTBDN,Retbindin,Chapter XI Diseases of the digestive system,K11_INTESTOTH,Inverse variance weighted,10,1.02 [0.87-1.21],0.77391426579293,trans
+RTBDN,Retbindin,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,1.01 [0.92-1.12],0.77526938146816,trans
+RTBDN,Retbindin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,0.98 [0.84-1.16],0.8489628258144,trans
+RTBDN,Retbindin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,10,1.01 [0.94-1.08],0.857424389656895,trans
+RTBDN,Retbindin,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,0.98 [0.8-1.22],0.888044095114837,trans
+RTBDN,Retbindin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,1.01 [0.81-1.25],0.950710746301838,trans
+RTBDN,Retbindin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERLIPNAS,Inverse variance weighted,21,1 [0.94-1.07],0.95757388047322,trans
+RTBDN,Retbindin,Chapter IX Diseases of the circulatory system,I9_CARDMYO,Inverse variance weighted,18,1 [0.98-1.02],0.97366159613108,trans

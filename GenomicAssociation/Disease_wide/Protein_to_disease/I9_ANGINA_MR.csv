@@ -1,0 +1,899 @@
+Disease_category,Disease,Protein,Protein_definition,method,nsnp,OR [95% CI],Pvalue,QTL_type
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PCSK9,Proprotein convertase subtilisin/kexin type 9,Inverse variance weighted,5,1.25 [1.21-1.3],1.12660557897127e-30,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LPA,Apolipoprotein(a),Inverse variance weighted,38,1.15 [1.12-1.19],3.07427749790915e-19,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,APOE,Apolipoprotein E,Inverse variance weighted,23,0.92 [0.89-0.95],1.08608209993293e-06,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GFRA1,GDNF family receptor alpha-1,Inverse variance weighted,7,1.18 [1.09-1.27],2.8656374414948e-05,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FURIN,Furin,Wald ratio,1,1.24 [1.12-1.37],3.91378540076897e-05,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EPS8L2,Epidermal growth factor receptor kinase substrate 8-like protein 2,Inverse variance weighted,10,1.13 [1.06-1.19],8.42369605409047e-05,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EPHA2,Ephrin type-A receptor 2,Inverse variance weighted,3,0.79 [0.7-0.89],0.000121608689666463,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ITGAV,Integrin alpha-V,Inverse variance weighted,5,1.29 [1.11-1.49],0.000638326195625631,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD4,T-cell surface glycoprotein CD4,Inverse variance weighted,5,0.92 [0.87-0.96],0.000727689272913298,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,AGRN,Agrin,Inverse variance weighted,17,0.92 [0.87-0.97],0.00227438441073826,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FGF5,Fibroblast growth factor 5,Inverse variance weighted,36,1.05 [1.02-1.09],0.00255010535026884,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EPHA1,Ephrin type-A receptor 1,Inverse variance weighted,8,0.91 [0.85-0.97],0.00260789535457565,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF4,Tumor necrosis factor receptor superfamily member 4,Inverse variance weighted,5,1.15 [1.05-1.27],0.00375158730248404,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ASGR1,Asialoglycoprotein receptor 1,Inverse variance weighted,2,1.2 [1.06-1.37],0.00450092077465308,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SCRG1,Scrapie-responsive protein 1,Inverse variance weighted,3,1.32 [1.09-1.61],0.0055771038896907,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GGT1,Glutathione hydrolase 1 proenzyme,Inverse variance weighted,10,1.09 [1.02-1.16],0.00642293810703332,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,INHBB,Inhibin beta B chain,Inverse variance weighted,10,0.94 [0.9-0.98],0.00701674557163771,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,UMOD,Uromodulin,Inverse variance weighted,29,1.03 [1.01-1.06],0.00733777246518394,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ZBTB17,Zinc finger and BTB domain-containing protein 17,Wald ratio,1,0.59 [0.4-0.87],0.0074768960889189,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RTN4R,Reticulon-4 receptor,Inverse variance weighted,15,1.06 [1.02-1.12],0.00837412936439887,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HYOU1,Hypoxia up-regulated protein 1,Inverse variance weighted,6,1.13 [1.03-1.23],0.00853915608106575,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MMP7,Matrilysin,Inverse variance weighted,13,1.07 [1.02-1.12],0.00854791094019876,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GALNT2,Polypeptide N-acetylgalactosaminyltransferase 2,Inverse variance weighted,16,0.94 [0.9-0.99],0.0097986396374544,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CLEC4M,C-type lectin domain family 4 member M,Inverse variance weighted,21,0.96 [0.92-0.99],0.0100972965524169,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD83,CD83 antigen,Inverse variance weighted,5,1.12 [1.03-1.23],0.0106760352767037,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HPGDS,Hematopoietic prostaglandin D synthase,Inverse variance weighted,19,0.97 [0.94-0.99],0.0113680106394748,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ICAM5,Intercellular adhesion molecule 5,Inverse variance weighted,33,1.05 [1.01-1.09],0.0118689590861609,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NRP1,Neuropilin-1,Inverse variance weighted,12,0.94 [0.89-0.99],0.0120206412511371,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NRP2,Neuropilin-2,Inverse variance weighted,11,1.08 [1.02-1.15],0.0138647369118832,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NTproBNP,N-terminal prohormone of brain natriuretic peptide,Inverse variance weighted,9,0.93 [0.88-0.99],0.0139425941532829,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,APOA2,Apolipoprotein A-II,Wald ratio,1,0.72 [0.55-0.94],0.0175359762895019,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PTGR1,Prostaglandin reductase 1,Inverse variance weighted,12,1.04 [1.01-1.08],0.0202664903841316,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FABP2,"Fatty acid-binding protein, intestinal",Inverse variance weighted,3,0.91 [0.85-0.99],0.0204211982719311,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NFASC,Neurofascin,Inverse variance weighted,15,0.95 [0.91-0.99],0.0206272372036595,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LGALS3BP,Galectin-3-binding protein,Inverse variance weighted,4,0.87 [0.77-0.98],0.0222239096372444,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PENK,Proenkephalin-A,Inverse variance weighted,19,1.07 [1.01-1.13],0.0223380076498009,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL12B,Interleukin-12 subunit beta,Inverse variance weighted,24,0.96 [0.93-0.99],0.0224553318200048,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PDGFRA,Platelet-derived growth factor receptor alpha,Inverse variance weighted,9,0.92 [0.86-0.99],0.0226722136466219,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ITIH3,Inter-alpha-trypsin inhibitor heavy chain H3,Inverse variance weighted,20,1.06 [1.01-1.11],0.0232040656881001,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD58,Lymphocyte function-associated antigen 3,Inverse variance weighted,4,0.91 [0.84-0.99],0.0292114991846204,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PLAT,Tissue-type plasminogen activator,Wald ratio,1,0.68 [0.48-0.96],0.0295660623423325,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IDUA,Alpha-L-iduronidase,Inverse variance weighted,35,0.97 [0.94-1],0.0308076055112802,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SPP1,Osteopontin,Inverse variance weighted,8,1.14 [1.01-1.29],0.0312489073066533,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCL21,C-C motif chemokine 21,Inverse variance weighted,4,0.85 [0.74-0.99],0.0312491014956048,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LAYN,Layilin,Inverse variance weighted,20,0.95 [0.9-1],0.0352957218374489,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ACY3,N-acyl-aromatic-L-amino acid amidohydrolase,Inverse variance weighted,15,0.93 [0.86-1],0.036722675971594,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MZB1,Marginal zone B- and B1-cell-specific protein,Wald ratio,1,1.67 [1.03-2.72],0.0383878618548439,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CTSS,Cathepsin S,Inverse variance weighted,23,1.04 [1-1.08],0.0387017717339192,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TGFBI,Transforming growth factor-beta-induced protein ig-h3,Inverse variance weighted,32,1.03 [1-1.07],0.0446524126333527,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EPO,Erythropoietin,Inverse variance weighted,5,0.81 [0.66-1],0.0448847040391446,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MFAP4,Microfibril-associated glycoprotein 4,Inverse variance weighted,4,1.08 [1-1.17],0.0457006276913938,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MEP1B,Meprin A subunit beta,Inverse variance weighted,46,1.02 [1-1.04],0.0476859252904846,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CRIM1,Cysteine-rich motor neuron 1 protein,Inverse variance weighted,7,0.91 [0.83-1],0.047948194394209,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MMP10,Stromelysin-2,Inverse variance weighted,22,1.04 [1-1.09],0.0488309084018063,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,DLL1,Delta-like protein 1,Inverse variance weighted,7,1.09 [1-1.19],0.0505130501185488,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD302,CD302 antigen,Inverse variance weighted,9,0.92 [0.85-1],0.0505951598316134,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL1RL1,Interleukin-1 receptor-like 1,Inverse variance weighted,44,0.97 [0.94-1],0.051182514923939,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ACAN,Aggrecan core protein,Inverse variance weighted,3,0.85 [0.72-1],0.0550178145334559,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ADAM12,Disintegrin and metalloproteinase domain-containing protein 12,Inverse variance weighted,4,1.09 [1-1.19],0.0551925029558469,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ITGBL1,Integrin beta-like protein 1,Inverse variance weighted,23,1.05 [1-1.1],0.0570165022196365,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MVK,Mevalonate kinase,Inverse variance weighted,2,0.83 [0.68-1.01],0.0571656150564107,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CTSL,Cathepsin L1,Wald ratio,1,0.69 [0.47-1.01],0.0581622299655313,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SCG2,Secretogranin-2,Wald ratio,1,1.44 [0.99-2.1],0.0585930801363054,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,REN,Renin,Inverse variance weighted,4,1.09 [1-1.2],0.0609306522983263,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,S100P,Protein S100-P,Inverse variance weighted,2,0.79 [0.62-1.01],0.0636903203036827,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF14,Tumor necrosis factor receptor superfamily member 14,Wald ratio,1,1.16 [0.99-1.35],0.0643256907710233,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MAMDC2,MAM domain-containing protein 2,Inverse variance weighted,5,1.08 [1-1.17],0.0647843218599904,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ACVRL1,Serine/threonine-protein kinase receptor R3,Inverse variance weighted,10,0.96 [0.91-1],0.0670503545299357,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,DPP4,Dipeptidyl peptidase 4,Inverse variance weighted,9,0.94 [0.88-1.01],0.0699756807692264,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FABP1,"Fatty acid-binding protein, liver",Inverse variance weighted,5,1.07 [0.99-1.16],0.0724305406312161,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,DCBLD2,"Discoidin, CUB and LCCL domain-containing protein 2",Inverse variance weighted,10,1.08 [0.99-1.17],0.0731802806054555,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SNCG,Gamma-synuclein,Inverse variance weighted,36,0.97 [0.95-1],0.0732596263767503,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SPON2,Spondin-2,Inverse variance weighted,4,1.07 [0.99-1.16],0.0775502422723675,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IGSF8,Immunoglobulin superfamily member 8,Inverse variance weighted,2,0.9 [0.79-1.01],0.0792204486523964,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SIGLEC1,Sialoadhesin,Inverse variance weighted,20,0.96 [0.92-1],0.0809927564229685,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,WNT9A,Protein Wnt-9a,Inverse variance weighted,3,1.13 [0.98-1.29],0.0845037083859975,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SEPTIN8,Septin-8,Inverse variance weighted,2,1.11 [0.98-1.26],0.0914977860333914,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SFTPD,Pulmonary surfactant-associated protein D,Inverse variance weighted,31,1.02 [1-1.04],0.0924846439702173,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NPC2,NPC intracellular cholesterol transporter 2,Inverse variance weighted,10,1.06 [0.99-1.13],0.0928820036761009,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PDZK1,Na(+)/H(+) exchange regulatory cofactor NHE-RF3,Wald ratio,1,1.15 [0.98-1.35],0.0962001854541245,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CXADR,Coxsackievirus and adenovirus receptor,Inverse variance weighted,2,0.89 [0.77-1.02],0.0982506893843563,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCL13,C-C motif chemokine 13,Inverse variance weighted,8,0.95 [0.89-1.01],0.103018789850845,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IGFBP6,Insulin-like growth factor-binding protein 6,Inverse variance weighted,2,0.86 [0.72-1.03],0.103495601957512,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TGFA,Protransforming growth factor alpha,Inverse variance weighted,2,0.88 [0.76-1.03],0.104234322866159,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PALM,Paralemmin-1,Inverse variance weighted,6,1.08 [0.98-1.18],0.105628940181916,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD74,HLA class II histocompatibility antigen gamma chain,Wald ratio,1,1.4 [0.93-2.13],0.109057334847476,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ADGRG1,Adhesion G-protein coupled receptor G1,Inverse variance weighted,5,0.89 [0.76-1.03],0.112151955205591,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,A1BG,Alpha-1B-glycoprotein,Inverse variance weighted,5,0.93 [0.86-1.02],0.114874180454298,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,AGR2,Anterior gradient protein 2 homolog,Wald ratio,1,0.88 [0.74-1.03],0.11672648350289,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,KDR,Vascular endothelial growth factor receptor 2,Inverse variance weighted,16,0.97 [0.93-1.01],0.129601780451157,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IFNL1,Interferon lambda-1,Wald ratio,1,1.37 [0.91-2.08],0.131781153343472,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TREM2,Triggering receptor expressed on myeloid cells 2,Inverse variance weighted,4,1.05 [0.99-1.12],0.132273973931495,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RNASE6,Ribonuclease K6,Inverse variance weighted,15,1.03 [0.99-1.06],0.138634085481947,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RARRES2,Retinoic acid receptor responder protein 2,Inverse variance weighted,2,1.07 [0.98-1.17],0.13903338113752,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FGF23,Fibroblast growth factor 23,Inverse variance weighted,2,0.89 [0.77-1.04],0.139119164413903,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CAPG,Macrophage-capping protein,Inverse variance weighted,33,0.97 [0.93-1.01],0.140231083204446,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CDCP1,CUB domain-containing protein 1,Inverse variance weighted,14,0.94 [0.88-1.02],0.141730565081467,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ERMAP,Erythroid membrane-associated protein,Inverse variance weighted,2,0.81 [0.6-1.08],0.14207239471877,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CLEC3B,Tetranectin,Inverse variance weighted,7,0.93 [0.85-1.02],0.143403980854775,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NPPB,Natriuretic peptides B,Inverse variance weighted,3,0.92 [0.83-1.03],0.144345786475548,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF19,Tumor necrosis factor receptor superfamily member 19,Inverse variance weighted,8,0.96 [0.9-1.02],0.145772916000016,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,KLK11,Kallikrein-11,Inverse variance weighted,6,1.03 [0.99-1.07],0.150784895852119,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SPINK4,Serine protease inhibitor Kazal-type 4,Inverse variance weighted,29,1.02 [0.99-1.05],0.153031309723786,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NHLRC3,NHL repeat-containing protein 3,Inverse variance weighted,8,0.95 [0.88-1.02],0.153874812428704,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,REG4,Regenerating islet-derived protein 4,Inverse variance weighted,6,1.06 [0.98-1.14],0.15458387766249,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CREG1,Protein CREG1,Inverse variance weighted,3,1.07 [0.97-1.19],0.1549579797891,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LCN2,Neutrophil gelatinase-associated lipocalin,Wald ratio,1,1.47 [0.86-2.5],0.155051685374801,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IGFBP4,Insulin-like growth factor-binding protein 4,Wald ratio,1,0.74 [0.48-1.12],0.156473328485805,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CALB2,Calretinin,Wald ratio,1,0.81 [0.61-1.09],0.158299246199208,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FCRLB,Fc receptor-like B,Inverse variance weighted,61,0.98 [0.96-1.01],0.162672099895578,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FAM20A,Pseudokinase FAM20A,Inverse variance weighted,14,1.03 [0.99-1.08],0.16717120958297,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,COL6A3,Collagen alpha-3(VI) chain,Inverse variance weighted,2,1.25 [0.91-1.72],0.170844306423352,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,POMC,Pro-opiomelanocortin,Inverse variance weighted,2,0.8 [0.59-1.1],0.171205767766861,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,F7,Coagulation factor VII,Inverse variance weighted,21,1.04 [0.98-1.09],0.172331457723675,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CPXM2,Inactive carboxypeptidase-like protein X2,Inverse variance weighted,22,1.03 [0.99-1.07],0.174869628375348,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD79B,B-cell antigen receptor complex-associated protein beta chain,Inverse variance weighted,2,0.93 [0.84-1.03],0.175149697436504,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PLTP,Phospholipid transfer protein,Inverse variance weighted,19,1.03 [0.99-1.07],0.17579969085396,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SEL1L,Protein sel-1 homolog 1,Wald ratio,1,1.04 [0.98-1.11],0.180041522994228,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GDF15,Growth/differentiation factor 15,Inverse variance weighted,12,0.93 [0.84-1.03],0.180596947607871,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,APOC1,Apolipoprotein C-I,Inverse variance weighted,6,1.11 [0.95-1.29],0.187122908206606,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,VWC2,Brorin,Inverse variance weighted,22,0.97 [0.93-1.01],0.188794709075593,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CALCA,Calcitonin,Inverse variance weighted,5,0.9 [0.76-1.06],0.190825703940581,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PALM2,Paralemmin-2,Inverse variance weighted,8,1.05 [0.98-1.13],0.192880769259371,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF1A,Tumor necrosis factor receptor superfamily member 1A,Wald ratio,1,0.83 [0.63-1.1],0.194997069693103,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SMPDL3A,Acid sphingomyelinase-like phosphodiesterase 3a,Inverse variance weighted,34,0.98 [0.96-1.01],0.196035693684208,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FGFBP3,Fibroblast growth factor-binding protein 3,Inverse variance weighted,19,0.97 [0.92-1.02],0.196384311050419,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LILRB4,Leukocyte immunoglobulin-like receptor subfamily B member 4,Inverse variance weighted,14,0.95 [0.87-1.03],0.202076682999998,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SIGLEC10,Sialic acid-binding Ig-like lectin 10,Inverse variance weighted,14,0.98 [0.95-1.01],0.20282747278918,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SHISA5,Protein shisa-5,Inverse variance weighted,5,0.84 [0.65-1.1],0.203396064808794,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EFEMP1,EGF-containing fibulin-like extracellular matrix protein 1,Inverse variance weighted,6,1.09 [0.96-1.23],0.205187123089805,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCL16,C-C motif chemokine 16,Inverse variance weighted,19,1.02 [0.99-1.06],0.207555791831799,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NCS1,Neuronal calcium sensor 1,Inverse variance weighted,3,0.92 [0.8-1.05],0.211769196792714,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MXRA8,Matrix remodeling-associated protein 8,Wald ratio,1,1.17 [0.91-1.49],0.21699476327125,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TCN2,Transcobalamin-2,Inverse variance weighted,34,1.02 [0.99-1.05],0.217313257536173,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PLAUR,Urokinase plasminogen activator surface receptor,Inverse variance weighted,2,1.08 [0.96-1.22],0.218191906872976,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,KLK14,Kallikrein-14,Inverse variance weighted,15,1.02 [0.99-1.07],0.218604231520083,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IGDCC4,Immunoglobulin superfamily DCC subclass member 4,Inverse variance weighted,13,1.03 [0.98-1.09],0.220143835778382,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CA9,Carbonic anhydrase 9,Inverse variance weighted,3,1.08 [0.95-1.23],0.223685980171379,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CFI,Complement factor I,Inverse variance weighted,6,0.92 [0.81-1.05],0.224847391291894,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,REG1B,Lithostathine-1-beta,Inverse variance weighted,18,1.03 [0.98-1.07],0.225730974159977,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ULBP2,UL16-binding protein 2,Inverse variance weighted,25,0.98 [0.94-1.01],0.226443154055056,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PIGR,Polymeric immunoglobulin receptor,Inverse variance weighted,21,0.93 [0.83-1.04],0.229547470747385,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,KLRB1,Killer cell lectin-like receptor subfamily B member 1,Wald ratio,1,1.35 [0.83-2.19],0.230858786416206,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD38,ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1,Inverse variance weighted,16,0.95 [0.88-1.03],0.23324713705384,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,VSNL1,Visinin-like protein 1,Inverse variance weighted,8,0.91 [0.78-1.06],0.233714743353508,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NTRK3,NT-3 growth factor receptor,Inverse variance weighted,9,0.95 [0.88-1.03],0.235061282582729,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CTSD,Cathepsin D,Inverse variance weighted,17,1.03 [0.98-1.08],0.236013001709017,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TFPI,Tissue factor pathway inhibitor,Inverse variance weighted,26,0.98 [0.94-1.02],0.236516674805062,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LAIR1,Leukocyte-associated immunoglobulin-like receptor 1,Inverse variance weighted,16,1.03 [0.98-1.08],0.239350021908036,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GAL,Galanin peptides,Inverse variance weighted,3,0.88 [0.7-1.09],0.242360623541764,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF10A,Tumor necrosis factor receptor superfamily member 10A,Inverse variance weighted,25,1.02 [0.99-1.06],0.245374969702393,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PYY,Peptide YY,Inverse variance weighted,6,1.04 [0.97-1.12],0.248630288394139,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,AOC3,Membrane primary amine oxidase,Inverse variance weighted,18,0.98 [0.95-1.01],0.249622850296955,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,COLEC12,Collectin-12,Inverse variance weighted,11,1.04 [0.97-1.11],0.253640164439425,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NPPC,C-type natriuretic peptide,Wald ratio,1,0.78 [0.51-1.2],0.264416807431233,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,COL4A1,Collagen alpha-1(IV) chain,Inverse variance weighted,3,0.95 [0.86-1.04],0.267455627205214,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MB,Myoglobin,Wald ratio,1,1.31 [0.81-2.1],0.26936106242237,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CLEC7A,C-type lectin domain family 7 member A,Inverse variance weighted,25,1.01 [0.99-1.03],0.275894259692748,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF1B,Tumor necrosis factor receptor superfamily member 1B,Inverse variance weighted,4,0.88 [0.7-1.11],0.27785557165134,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD34,Hematopoietic progenitor cell antigen CD34,Wald ratio,1,1.18 [0.87-1.61],0.278653523298887,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,VEGFA,Vascular endothelial growth factor A,Inverse variance weighted,28,0.98 [0.95-1.01],0.279450460276625,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GUCA2A,Guanylin,Inverse variance weighted,9,1.05 [0.96-1.14],0.279878292431307,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,KLB,Beta-klotho,Inverse variance weighted,32,0.99 [0.96-1.01],0.284474384074729,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FGFBP1,Fibroblast growth factor-binding protein 1,Inverse variance weighted,5,0.93 [0.82-1.06],0.296288656782959,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD80,T-lymphocyte activation antigen CD80,Inverse variance weighted,16,1.02 [0.98-1.06],0.298068338892769,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,B4GALT1,"Beta-1,4-galactosyltransferase 1",Inverse variance weighted,6,1.04 [0.97-1.11],0.298362159279781,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GPC5,Glypican-5,Inverse variance weighted,33,0.98 [0.95-1.02],0.301619305415759,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PIK3IP1,Phosphoinositide-3-kinase-interacting protein 1,Inverse variance weighted,14,0.96 [0.89-1.04],0.302139164093866,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MMP8,Neutrophil collagenase,Inverse variance weighted,17,1.02 [0.98-1.07],0.302923598175262,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HYAL1,Hyaluronidase-1,Inverse variance weighted,5,1.03 [0.97-1.1],0.303143814875853,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SPINK1,Serine protease inhibitor Kazal-type 1,Inverse variance weighted,23,0.98 [0.95-1.02],0.303425575840908,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,S100A4,Protein S100-A4,Inverse variance weighted,4,1.07 [0.94-1.23],0.303672642165771,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SCG3,Secretogranin-3,Inverse variance weighted,32,1.02 [0.98-1.06],0.305535536525942,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CBLIF,Cobalamin binding intrinsic factor,Inverse variance weighted,2,0.91 [0.75-1.1],0.307715020054871,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FGF21,Fibroblast growth factor 21,Inverse variance weighted,2,0.93 [0.82-1.07],0.307980954087283,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CPM,Carboxypeptidase M,Inverse variance weighted,4,1.06 [0.95-1.18],0.308581792433477,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MFGE8,Lactadherin,Inverse variance weighted,11,1.03 [0.97-1.1],0.309046662098939,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ITGA2,Integrin alpha-2,Inverse variance weighted,31,0.98 [0.95-1.02],0.309092379460927,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SLAMF8,SLAM family member 8,Inverse variance weighted,25,0.99 [0.97-1.01],0.3113076030032,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF10B,Tumor necrosis factor receptor superfamily member 10B,Inverse variance weighted,15,0.97 [0.93-1.02],0.311346281984106,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CHI3L1,Chitinase-3-like protein 1,Inverse variance weighted,21,0.98 [0.94-1.02],0.313283414793906,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ANGPTL3,Angiopoietin-related protein 3,Inverse variance weighted,10,1.03 [0.97-1.1],0.313460573170392,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ITGAM,Integrin alpha-M,Inverse variance weighted,3,0.93 [0.82-1.07],0.314497281942041,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SMOC2,SPARC-related modular calcium-binding protein 2,Inverse variance weighted,17,1.02 [0.98-1.07],0.317467635531302,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,APOA1,Apolipoprotein A-I,Inverse variance weighted,2,1.37 [0.74-2.53],0.317890098042322,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCL25,C-C motif chemokine 25,Inverse variance weighted,26,0.98 [0.95-1.02],0.320775758347532,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL4R,Interleukin-4 receptor subunit alpha,Inverse variance weighted,10,1.03 [0.98-1.08],0.321315588294505,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,STC2,Stanniocalcin-2,Inverse variance weighted,3,0.91 [0.75-1.1],0.325907026349779,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IFI30,Gamma-interferon-inducible lysosomal thiol reductase,Inverse variance weighted,13,1.02 [0.98-1.07],0.329834232263429,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,THBS2,Thrombospondin-2,Inverse variance weighted,16,1.02 [0.98-1.06],0.330261397941992,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ADIPOQ,Adiponectin,Inverse variance weighted,13,0.97 [0.91-1.03],0.331581599746693,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFSF12,Tumor necrosis factor ligand superfamily member 12,Inverse variance weighted,11,1.03 [0.97-1.08],0.333478266318737,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFSF11,Tumor necrosis factor ligand superfamily member 11,Wald ratio,1,1.08 [0.92-1.27],0.334430234479955,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MSR1,Macrophage scavenger receptor types I and II,Inverse variance weighted,8,1.02 [0.98-1.07],0.344959415488387,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,C1QA,Complement C1q subcomponent subunit A,Inverse variance weighted,15,1.03 [0.97-1.08],0.347248913902903,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL18BP,Interleukin-18-binding protein,Inverse variance weighted,3,0.94 [0.84-1.07],0.354049240368357,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,INHBC,Inhibin beta C chain,Inverse variance weighted,29,1.02 [0.98-1.06],0.3548965102094,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ELN,Elastin,Inverse variance weighted,2,1.12 [0.88-1.42],0.355955396816603,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MRC1,Macrophage mannose receptor 1,Inverse variance weighted,7,1.08 [0.92-1.26],0.356478528246958,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CXCL9,C-X-C motif chemokine 9,Inverse variance weighted,2,1.06 [0.93-1.21],0.356611408482475,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MEGF10,Multiple epidermal growth factor-like domains protein 10,Inverse variance weighted,24,0.98 [0.93-1.02],0.356714974222094,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IGLC2,Immunoglobulin lambda constant 2,Inverse variance weighted,4,0.96 [0.88-1.05],0.357742384856453,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCL8,C-C motif chemokine 8,Inverse variance weighted,30,0.99 [0.96-1.01],0.361644289419778,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HJV,Hemojuvelin,Wald ratio,1,1.05 [0.95-1.15],0.36225533392613,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD276,CD276 antigen,Inverse variance weighted,20,0.98 [0.94-1.02],0.362786857822829,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL2RA,Interleukin-2 receptor subunit alpha,Inverse variance weighted,11,0.97 [0.9-1.04],0.367581215172568,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ANXA10,Annexin A10,Wald ratio,1,0.85 [0.6-1.21],0.371247658979426,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,VSIG2,V-set and immunoglobulin domain-containing protein 2,Inverse variance weighted,5,0.96 [0.89-1.04],0.375181741524081,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF13B,Tumor necrosis factor receptor superfamily member 13B,Inverse variance weighted,5,1.04 [0.96-1.12],0.385976163684225,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GHR,Growth hormone receptor,Inverse variance weighted,38,1.01 [0.98-1.04],0.388654229427616,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RETN,Resistin,Inverse variance weighted,9,1.02 [0.98-1.05],0.392789945109137,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GSN,Gelsolin,Inverse variance weighted,5,1.08 [0.9-1.29],0.394289008815142,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ST6GAL1,"Beta-galactoside alpha-2,6-sialyltransferase 1",Inverse variance weighted,8,1.03 [0.96-1.11],0.395382282552757,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ICAM1,Intercellular adhesion molecule 1,Inverse variance weighted,28,1.02 [0.97-1.08],0.39714830706632,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD300LG,CMRF35-like molecule 9,Inverse variance weighted,6,0.96 [0.87-1.06],0.403254712540043,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD209,CD209 antigen,Inverse variance weighted,15,0.98 [0.92-1.03],0.408770984914535,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CRTAC1,Cartilage acidic protein 1,Inverse variance weighted,43,1.01 [0.98-1.04],0.409516544849152,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EDN1,Endothelin-1,Inverse variance weighted,3,1.05 [0.93-1.18],0.41262672512633,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,BAIAP2,Brain-specific angiogenesis inhibitor 1-associated protein 2,Wald ratio,1,1.09 [0.88-1.36],0.414462545569305,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SERPINF1,Pigment epithelium-derived factor,Inverse variance weighted,14,0.97 [0.91-1.04],0.415507980632891,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CHCHD10,"Coiled-coil-helix-coiled-coil-helix domain-containing protein 10, mitochondrial",Inverse variance weighted,2,1.07 [0.9-1.28],0.416281117993859,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,AGXT,Serine--pyruvate aminotransferase,Inverse variance weighted,10,0.98 [0.92-1.04],0.420567129252159,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PAG1,Phosphoprotein associated with glycosphingolipid-enriched microdomains 1,Wald ratio,1,0.9 [0.7-1.16],0.421227522340447,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HSD17B14,17-beta-hydroxysteroid dehydrogenase 14,Inverse variance weighted,34,0.99 [0.97-1.01],0.424485746468744,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NECTIN2,Nectin-2,Inverse variance weighted,5,0.96 [0.86-1.06],0.426207612455357,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FABP4,"Fatty acid-binding protein, adipocyte",Wald ratio,1,1.09 [0.88-1.36],0.426629530765845,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CA6,Carbonic anhydrase 6,Inverse variance weighted,31,0.99 [0.96-1.02],0.427970121780541,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,F10,Coagulation factor X,Inverse variance weighted,9,1.01 [0.98-1.04],0.428550761844719,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TFF1,Trefoil factor 1,Inverse variance weighted,8,1.03 [0.96-1.09],0.430565869423443,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GRN,Progranulin,Inverse variance weighted,7,0.98 [0.92-1.03],0.432399931350889,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MET,Hepatocyte growth factor receptor,Inverse variance weighted,5,1.11 [0.85-1.45],0.432806465285279,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CGA,Glycoprotein hormones alpha chain,Wald ratio,1,0.81 [0.48-1.37],0.432927990735958,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD59,CD59 glycoprotein,Inverse variance weighted,4,0.97 [0.9-1.04],0.434171555499727,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FGL1,Fibrinogen-like protein 1,Inverse variance weighted,30,0.99 [0.95-1.02],0.436564848422715,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL18R1,Interleukin-18 receptor 1,Inverse variance weighted,46,0.99 [0.97-1.01],0.439478636744017,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TFF2,Trefoil factor 2,Inverse variance weighted,5,0.96 [0.86-1.07],0.442529386967018,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ROBO2,Roundabout homolog 2,Inverse variance weighted,2,1.11 [0.85-1.45],0.449182054346363,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FAM3C,Protein FAM3C,Inverse variance weighted,2,1.2 [0.75-1.93],0.450754786258342,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD5,T-cell surface glycoprotein CD5,Inverse variance weighted,6,1.04 [0.94-1.15],0.450791708026049,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NT5C3A,Cytosolic 5'-nucleotidase 3A,Wald ratio,1,0.93 [0.78-1.11],0.453371779118507,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF11A,Tumor necrosis factor receptor superfamily member 11A,Inverse variance weighted,25,0.99 [0.95-1.02],0.455934191461904,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,YAP1,Transcriptional coactivator YAP1,Wald ratio,1,1.11 [0.84-1.48],0.463093077463949,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PRSS8,Prostasin,Inverse variance weighted,5,0.92 [0.73-1.15],0.463349069810427,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,APOF,Apolipoprotein F,Inverse variance weighted,3,0.96 [0.86-1.07],0.464742605093555,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TFRC,Transferrin receptor protein 1,Inverse variance weighted,28,0.98 [0.93-1.03],0.466277676352522,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LMNB2,Lamin-B2,Wald ratio,1,0.85 [0.55-1.32],0.468971783197528,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFSF13,Tumor necrosis factor ligand superfamily member 13,Inverse variance weighted,10,0.98 [0.93-1.04],0.47251108253205,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SMOC1,SPARC-related modular calcium-binding protein 1,Inverse variance weighted,15,0.98 [0.93-1.03],0.473072243071356,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,BST2,Bone marrow stromal antigen 2,Inverse variance weighted,2,1.04 [0.92-1.18],0.481519899973358,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CFD,Complement factor D,Inverse variance weighted,11,1.03 [0.95-1.11],0.483367404688194,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCL19,C-C motif chemokine 19,Inverse variance weighted,2,0.94 [0.79-1.12],0.483426346152849,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,VEGFC,Vascular endothelial growth factor C,Inverse variance weighted,2,1.04 [0.93-1.18],0.484837229779704,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FBLN2,Fibulin-2,Inverse variance weighted,11,1.02 [0.97-1.07],0.488611785230109,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNN,Tenascin-N,Inverse variance weighted,44,1.01 [0.98-1.04],0.492432509809827,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FABP6,Gastrotropin,Wald ratio,1,0.95 [0.83-1.09],0.498592301049735,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,OLR1,Oxidized low-density lipoprotein receptor 1,Inverse variance weighted,2,0.87 [0.57-1.32],0.500879509263133,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ITGA5,Integrin alpha-5,Wald ratio,1,0.9 [0.67-1.22],0.500926461220292,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD1C,T-cell surface glycoprotein CD1c,Inverse variance weighted,3,0.93 [0.76-1.14],0.502360057339316,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LAG3,Lymphocyte activation gene 3 protein,Inverse variance weighted,4,1.03 [0.94-1.13],0.504366544674382,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ADAMTSL2,ADAMTS-like protein 2,Inverse variance weighted,4,0.94 [0.77-1.14],0.506926663804958,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CXCL17,C-X-C motif chemokine 17,Inverse variance weighted,2,1.08 [0.86-1.36],0.508473666444304,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NECTIN4,Nectin-4,Inverse variance weighted,7,1.02 [0.97-1.07],0.509234501625316,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CDH2,Cadherin-2,Inverse variance weighted,3,1.08 [0.86-1.36],0.509526851580733,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,THY1,Thy-1 membrane glycoprotein,Inverse variance weighted,10,1.02 [0.97-1.07],0.5109832600629,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CFH,Complement factor H,Inverse variance weighted,19,0.98 [0.93-1.04],0.522578086484905,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GPD1,Glycerol-3-phosphate dehydrogenase,Wald ratio,1,0.91 [0.69-1.2],0.525846750505436,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,OGN,Mimecan,Inverse variance weighted,30,0.99 [0.95-1.03],0.526895214010097,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD300E,CMRF35-like molecule 2,Inverse variance weighted,21,1.01 [0.97-1.05],0.529254106176431,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SERPIND1,Heparin cofactor 2,Wald ratio,1,1.07 [0.87-1.31],0.529503062610989,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MASP1,Mannan-binding lectin serine protease 1,Inverse variance weighted,9,0.98 [0.91-1.05],0.545283521391134,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FAP,Prolyl endopeptidase FAP,Inverse variance weighted,4,1.02 [0.95-1.11],0.549255814045444,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFSF10,Tumor necrosis factor ligand superfamily member 10,Inverse variance weighted,4,1.03 [0.94-1.12],0.549343508012491,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SELL,L-selectin,Inverse variance weighted,18,0.99 [0.95-1.03],0.549826844774134,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,KLKB1,Plasma kallikrein,Inverse variance weighted,15,1.01 [0.97-1.05],0.554268507263096,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PROS1,Vitamin K-dependent protein S,Inverse variance weighted,8,1.04 [0.92-1.17],0.556547251698057,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PRCP,Lysosomal Pro-X carboxypeptidase,Inverse variance weighted,9,1.03 [0.93-1.15],0.562531416860138,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CXCL10,C-X-C motif chemokine 10,Inverse variance weighted,3,1.01 [0.97-1.06],0.563245087332889,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LY6D,Lymphocyte antigen 6D,Inverse variance weighted,22,1.01 [0.97-1.05],0.564713982307566,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,AMBP,Protein AMBP,Inverse variance weighted,3,0.94 [0.76-1.16],0.564761929469748,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CHGB,Secretogranin-1,Inverse variance weighted,27,0.99 [0.96-1.02],0.567869750381547,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF6B,Tumor necrosis factor receptor superfamily member 6B,Inverse variance weighted,22,0.98 [0.93-1.04],0.568050107405843,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EGFR,Epidermal growth factor receptor,Inverse variance weighted,7,1.04 [0.91-1.18],0.572486245549921,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TF,Serotransferrin,Inverse variance weighted,11,0.99 [0.94-1.04],0.573274963452552,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RBP2,Retinol-binding protein 2,Wald ratio,1,1.09 [0.81-1.46],0.577998052340723,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GCNT1,"Beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase",Inverse variance weighted,18,0.99 [0.96-1.02],0.581676547401559,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MAD1L1,Mitotic spindle assembly checkpoint protein MAD1,Inverse variance weighted,4,0.96 [0.85-1.1],0.586266258854209,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,APOL1,Apolipoprotein L1,Inverse variance weighted,3,1.04 [0.91-1.19],0.586493883378134,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CSF1,Macrophage colony-stimulating factor 1,Inverse variance weighted,5,1.03 [0.93-1.13],0.589446366245256,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HAVCR2,Hepatitis A virus cellular receptor 2,Inverse variance weighted,6,1.01 [0.97-1.05],0.591256744488905,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,KIF1C,Kinesin-like protein KIF1C,Wald ratio,1,1.16 [0.68-1.96],0.592110823664662,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCL15,C-C motif chemokine 15,Inverse variance weighted,22,0.99 [0.97-1.02],0.596551823503425,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,BTN3A2,Butyrophilin subfamily 3 member A2,Inverse variance weighted,4,0.97 [0.85-1.1],0.599739489317253,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CST3,Cystatin-C,Inverse variance weighted,10,0.98 [0.92-1.05],0.602650755176909,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CSTB,Cystatin-B,Inverse variance weighted,28,0.99 [0.95-1.03],0.602942247514133,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,UPB1,Beta-ureidopropionase,Inverse variance weighted,3,1.05 [0.87-1.27],0.60429932539321,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ITGA11,Integrin alpha-11,Inverse variance weighted,8,1.02 [0.95-1.09],0.606973101589094,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FGFR2,Fibroblast growth factor receptor 2,Inverse variance weighted,5,0.96 [0.83-1.12],0.610265875422269,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LRIG1,Leucine-rich repeats and immunoglobulin-like domains protein 1,Inverse variance weighted,30,0.99 [0.97-1.02],0.611540815912526,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PLXNB2,Plexin-B2,Inverse variance weighted,27,0.99 [0.97-1.02],0.613981207372989,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CRIP2,Cysteine-rich protein 2,Inverse variance weighted,5,1.03 [0.92-1.15],0.618744244078104,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FLT3LG,Fms-related tyrosine kinase 3 ligand,Inverse variance weighted,2,0.95 [0.78-1.16],0.619338157404983,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CEACAM8,Carcinoembryonic antigen-related cell adhesion molecule 8,Wald ratio,1,0.96 [0.83-1.12],0.625894913024541,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MPO,Myeloperoxidase,Inverse variance weighted,11,1.02 [0.95-1.09],0.63044326005455,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PON3,Serum paraoxonase/lactonase 3,Inverse variance weighted,16,1.01 [0.97-1.04],0.639603314811884,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,DPY30,Protein dpy-30 homolog,Wald ratio,1,1.1 [0.73-1.66],0.641364625114553,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF9,Tumor necrosis factor receptor superfamily member 9,Wald ratio,1,0.9 [0.56-1.43],0.650638751258858,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,XCL1,Lymphotactin,Inverse variance weighted,31,1.01 [0.97-1.05],0.651940843530894,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PSAP,Prosaposin,Inverse variance weighted,5,1.03 [0.92-1.15],0.652716634185476,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MERTK,Tyrosine-protein kinase Mer,Inverse variance weighted,11,0.98 [0.9-1.07],0.657451348898811,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NBL1,Neuroblastoma suppressor of tumorigenicity 1,Inverse variance weighted,2,0.96 [0.81-1.14],0.659121659516218,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PDCD1,Programmed cell death protein 1,Inverse variance weighted,9,1.03 [0.92-1.15],0.660168433239176,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LRRN1,Leucine-rich repeat neuronal protein 1,Inverse variance weighted,24,1.01 [0.96-1.06],0.661706551474437,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EDIL3,EGF-like repeat and discoidin I-like domain-containing protein 3,Inverse variance weighted,3,0.97 [0.83-1.13],0.666408667002949,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CXCL16,C-X-C motif chemokine 16,Inverse variance weighted,8,1.03 [0.89-1.21],0.666442516368451,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,APCS,Serum amyloid P-component,Inverse variance weighted,4,0.98 [0.88-1.08],0.672383535676418,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ADA2,Adenosine deaminase 2,Inverse variance weighted,8,1.02 [0.93-1.11],0.672826778536458,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,KIT,Mast/stem cell growth factor receptor Kit,Inverse variance weighted,3,0.96 [0.78-1.17],0.673974675409274,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MCAM,Cell surface glycoprotein MUC18,Wald ratio,1,0.97 [0.85-1.11],0.678772571802759,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LGALS3,Galectin-3,Inverse variance weighted,25,1.01 [0.97-1.05],0.679837524721567,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,OSM,Oncostatin-M,Wald ratio,1,0.95 [0.73-1.23],0.681759793592632,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PLA2G7,Platelet-activating factor acetylhydrolase,Inverse variance weighted,2,0.88 [0.49-1.61],0.684855127191533,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL19,Interleukin-19,Inverse variance weighted,11,1.01 [0.96-1.07],0.687221447168203,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ADAMTS15,A disintegrin and metalloproteinase with thrombospondin motifs 15,Inverse variance weighted,3,1.04 [0.87-1.23],0.689676656769819,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFSF13B,Tumor necrosis factor ligand superfamily member 13B,Inverse variance weighted,6,0.98 [0.87-1.1],0.691325421757546,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCL27,C-C motif chemokine 27,Inverse variance weighted,4,0.98 [0.89-1.08],0.691781746347237,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HRC,Sarcoplasmic reticulum histidine-rich calcium-binding protein,Inverse variance weighted,3,1.02 [0.91-1.14],0.696461553108274,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LTBP3,Latent-transforming growth factor beta-binding protein 3,Inverse variance weighted,17,1.01 [0.96-1.06],0.698159242288268,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,VCAM1,Vascular cell adhesion protein 1,Inverse variance weighted,2,0.97 [0.82-1.14],0.700429597400766,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,REG1A,Lithostathine-1-alpha,Inverse variance weighted,13,1.01 [0.96-1.06],0.702404138879053,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,THPO,Thrombopoietin,Inverse variance weighted,3,1.05 [0.83-1.32],0.703684097324202,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SORCS2,VPS10 domain-containing receptor SorCS2,Inverse variance weighted,21,1.01 [0.96-1.06],0.716016900156725,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SLURP1,Secreted Ly-6/uPAR-related protein 1,Inverse variance weighted,22,0.99 [0.95-1.03],0.718982423079035,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL1RN,Interleukin-1 receptor antagonist protein,Inverse variance weighted,10,0.99 [0.91-1.07],0.724409883014841,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HAVCR1,Hepatitis A virus cellular receptor 1,Inverse variance weighted,27,1.01 [0.97-1.05],0.728418541313099,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF12A,Tumor necrosis factor receptor superfamily member 12A,Inverse variance weighted,4,1.03 [0.88-1.2],0.728525517676747,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SCARB2,Lysosome membrane protein 2,Inverse variance weighted,7,1.01 [0.94-1.1],0.72943298571187,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FSTL3,Follistatin-related protein 3,Inverse variance weighted,4,0.97 [0.79-1.18],0.731002244025984,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HSPG2,Basement membrane-specific heparan sulfate proteoglycan core protein,Inverse variance weighted,6,1.01 [0.94-1.1],0.733215804762143,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CNTN5,Contactin-5,Inverse variance weighted,28,1 [0.98-1.03],0.74225799475351,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CRHBP,Corticotropin-releasing factor-binding protein,Inverse variance weighted,28,0.99 [0.96-1.03],0.743025128410046,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PGA4,Pepsin A-4,Inverse variance weighted,2,0.96 [0.76-1.22],0.744848720829271,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MME,Neprilysin,Inverse variance weighted,3,0.94 [0.66-1.35],0.745321411865938,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD27,CD27 antigen,Inverse variance weighted,9,0.99 [0.93-1.05],0.746557735590896,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCDC80,Coiled-coil domain-containing protein 80,Inverse variance weighted,3,0.93 [0.6-1.45],0.753434167858309,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ITGB5,Integrin beta-5,Inverse variance weighted,3,1.03 [0.86-1.24],0.753700605723521,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FGFBP2,Fibroblast growth factor-binding protein 2,Inverse variance weighted,21,1.01 [0.97-1.04],0.753997319982233,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SDC1,Syndecan-1,Inverse variance weighted,2,1.02 [0.9-1.16],0.759287629639652,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,REG3A,Regenerating islet-derived protein 3-alpha,Inverse variance weighted,10,0.99 [0.93-1.05],0.759470507921143,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FAM3D,Protein FAM3D,Inverse variance weighted,17,1.01 [0.94-1.08],0.761597818071256,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,KRT18,"Keratin, type I cytoskeletal 18",Wald ratio,1,0.94 [0.64-1.38],0.761711791322702,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NPDC1,Neural proliferation differentiation and control protein 1,Inverse variance weighted,2,0.98 [0.85-1.12],0.763835988655213,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MMP12,Macrophage metalloelastase,Inverse variance weighted,18,1.01 [0.97-1.04],0.763913011668258,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FAM3B,Protein FAM3B,Inverse variance weighted,18,1.01 [0.97-1.05],0.768137487199947,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LGALS9,Galectin-9,Inverse variance weighted,26,1.01 [0.97-1.04],0.771996589036171,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TGFBR2,TGF-beta receptor type-2,Inverse variance weighted,3,0.97 [0.76-1.22],0.772993730689282,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ANGPT2,Angiopoietin-2,Inverse variance weighted,4,1.01 [0.93-1.1],0.775147573907143,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CA14,Carbonic anhydrase 14,Inverse variance weighted,8,1 [0.97-1.03],0.775441909146413,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HSPB6,Heat shock protein beta-6,Wald ratio,1,0.94 [0.6-1.47],0.786066313281696,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RNASE1,Ribonuclease pancreatic,Inverse variance weighted,4,0.99 [0.91-1.07],0.787994866076378,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PTN,Pleiotrophin,Inverse variance weighted,4,1.02 [0.87-1.2],0.793731757720336,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GIPC2,PDZ domain-containing protein GIPC2,Inverse variance weighted,16,0.99 [0.94-1.04],0.794097912812734,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RNASET2,Ribonuclease T2,Inverse variance weighted,14,1.01 [0.96-1.05],0.797782639823636,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCN3,CCN family member 3,Inverse variance weighted,19,0.99 [0.93-1.06],0.801956861225202,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CRELD1,Protein disulfide isomerase CRELD1,Inverse variance weighted,34,1 [0.97-1.04],0.804527836641706,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL7R,Interleukin-7 receptor subunit alpha,Inverse variance weighted,47,1 [0.98-1.03],0.806617609423286,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LAMP3,Lysosome-associated membrane glycoprotein 3,Inverse variance weighted,8,0.99 [0.89-1.1],0.806835744800065,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FOLR2,Folate receptor beta,Inverse variance weighted,2,1.02 [0.88-1.17],0.812068682616317,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PPP1R14D,Protein phosphatase 1 regulatory subunit 14D,Wald ratio,1,1.04 [0.77-1.39],0.814117005807719,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ACE,Angiotensin-converting enzyme,Inverse variance weighted,26,1 [0.97-1.04],0.817656646621567,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PGF,Placenta growth factor,Inverse variance weighted,2,0.95 [0.6-1.5],0.820444334728465,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,BTN2A1,Butyrophilin subfamily 2 member A1,Wald ratio,1,1.02 [0.84-1.24],0.823013658586163,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CKAP4,Cytoskeleton-associated protein 4,Inverse variance weighted,10,0.99 [0.93-1.06],0.825969620244015,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PTGDS,Prostaglandin-H2 D-isomerase,Inverse variance weighted,4,1.01 [0.93-1.1],0.82893027519868,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GPRC5C,G-protein coupled receptor family C group 5 member C,Wald ratio,1,1.02 [0.87-1.19],0.829377712129783,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,C7,Complement component C7,Inverse variance weighted,38,1 [0.97-1.02],0.834969934195683,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MENT,Protein MENT,Inverse variance weighted,3,1.01 [0.94-1.08],0.840648956107808,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MUC13,Mucin-13,Inverse variance weighted,9,1.01 [0.93-1.09],0.841926126914288,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,KLK4,Kallikrein-4,Inverse variance weighted,17,1 [0.96-1.05],0.845172220259366,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,WFDC2,WAP four-disulfide core domain protein 2,Inverse variance weighted,2,1.02 [0.83-1.25],0.846953235439341,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HGF,Hepatocyte growth factor,Inverse variance weighted,2,0.98 [0.8-1.2],0.847223128539207,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IGFBP3,Insulin-like growth factor-binding protein 3,Inverse variance weighted,30,1 [0.96-1.05],0.848934618463764,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RNF149,E3 ubiquitin-protein ligase RNF149,Inverse variance weighted,5,0.99 [0.94-1.06],0.851424738018359,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RSPO3,R-spondin-3,Inverse variance weighted,6,1.01 [0.9-1.14],0.856391210293833,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TAFA5,Chemokine-like protein TAFA-5,Inverse variance weighted,10,0.99 [0.91-1.08],0.859781502109279,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,DSC2,Desmocollin-2,Inverse variance weighted,9,1.01 [0.95-1.07],0.860442290737641,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,COL3A1,Collagen alpha-1(III) chain,Wald ratio,1,0.96 [0.62-1.5],0.868573207811625,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF11B,Tumor necrosis factor receptor superfamily member 11B,Inverse variance weighted,10,0.99 [0.92-1.08],0.871639286607226,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PRG2,Bone marrow proteoglycan,Wald ratio,1,0.98 [0.78-1.24],0.872076884259759,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,KRT19,"Keratin, type I cytoskeletal 19",Wald ratio,1,0.99 [0.87-1.12],0.87372496530755,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CTSO,Cathepsin O,Inverse variance weighted,6,0.99 [0.92-1.08],0.877617582539683,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ADM,Pro-adrenomedullin,Inverse variance weighted,2,0.96 [0.59-1.57],0.877826362083605,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,AREG,Amphiregulin,Inverse variance weighted,3,1.01 [0.86-1.19],0.878878392339529,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCN5,CCN family member 5,Inverse variance weighted,8,0.99 [0.86-1.14],0.884393554455559,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,DKK3,Dickkopf-related protein 3,Inverse variance weighted,13,1 [0.96-1.04],0.885735732238476,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LGALS4,Galectin-4,Inverse variance weighted,4,1.01 [0.9-1.13],0.887997121158901,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CXCL13,C-X-C motif chemokine 13,Wald ratio,1,0.98 [0.71-1.36],0.894610635533756,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,APOD,Apolipoprotein D,Inverse variance weighted,7,1 [0.94-1.05],0.898691577902736,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL12RB1,Interleukin-12 receptor subunit beta-1,Inverse variance weighted,13,1 [0.93-1.07],0.899932582481674,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PRAP1,Proline-rich acidic protein 1,Inverse variance weighted,7,1 [0.95-1.07],0.900178699716299,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL10RB,Interleukin-10 receptor subunit beta,Inverse variance weighted,25,1 [0.97-1.03],0.900564386779563,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ANG,Angiogenin,Inverse variance weighted,19,1 [0.97-1.04],0.907101761595608,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CALB1,Calbindin,Inverse variance weighted,2,0.99 [0.8-1.22],0.915943934481729,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SCARA5,Scavenger receptor class A member 5,Inverse variance weighted,10,1 [0.94-1.05],0.916554386114257,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PON1,Serum paraoxonase/arylesterase 1,Inverse variance weighted,41,1 [0.98-1.02],0.917893363624956,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RBP7,Retinoid-binding protein 7,Inverse variance weighted,8,0.99 [0.85-1.15],0.920114265962436,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HMOX1,Heme oxygenase 1,Wald ratio,1,1.01 [0.77-1.33],0.92660279341069,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EDAR,Tumor necrosis factor receptor superfamily member EDAR,Inverse variance weighted,16,1 [0.96-1.04],0.926828431342364,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FABP3,"Fatty acid-binding protein, heart",Inverse variance weighted,4,0.99 [0.83-1.18],0.928813659186735,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RNASE4,Ribonuclease 4,Inverse variance weighted,11,1 [0.95-1.05],0.929455871363263,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PRND,Prion-like protein doppel,Inverse variance weighted,9,1 [0.95-1.05],0.930942515588515,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TFF3,Trefoil factor 3,Inverse variance weighted,5,1 [0.91-1.11],0.931325392874075,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RELT,Tumor necrosis factor receptor superfamily member 19L,Inverse variance weighted,14,1 [0.95-1.05],0.933574220631436,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,COL18A1,Collagen alpha-1(XVIII) chain,Inverse variance weighted,12,1 [0.93-1.09],0.936525010693139,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CTSB,Cathepsin B,Inverse variance weighted,26,1 [0.97-1.03],0.937645284456683,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NRCAM,Neuronal cell adhesion molecule,Inverse variance weighted,15,1 [0.94-1.07],0.939612690513405,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LTBP2,Latent-transforming growth factor beta-binding protein 2,Inverse variance weighted,7,1.01 [0.87-1.16],0.940851765113109,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EFNA4,Ephrin-A4,Inverse variance weighted,3,0.99 [0.84-1.18],0.941884931603658,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CHGA,Chromogranin-A,Inverse variance weighted,3,1.01 [0.84-1.21],0.950654440541964,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CLMP,CXADR-like membrane protein,Inverse variance weighted,12,1 [0.94-1.06],0.951176514610754,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EFNA1,Ephrin-A1,Inverse variance weighted,11,1 [0.94-1.06],0.952787987276948,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IGFBP7,Insulin-like growth factor-binding protein 7,Inverse variance weighted,19,1 [0.93-1.07],0.961719026098289,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,OCLN,Occludin,Inverse variance weighted,2,0.99 [0.71-1.39],0.971801499447219,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCL7,C-C motif chemokine 7,Inverse variance weighted,3,1 [0.77-1.31],0.973847363617327,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CEACAM16,Carcinoembryonic antigen-related cell adhesion molecule 16,Inverse variance weighted,21,1 [0.95-1.05],0.974861193188253,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PTPRN2,Receptor-type tyrosine-protein phosphatase N2,Inverse variance weighted,5,1 [0.91-1.1],0.975242951523767,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ANGPT1,Angiopoietin-1,Inverse variance weighted,2,1 [0.77-1.3],0.975249080806663,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SPON1,Spondin-1,Inverse variance weighted,21,1 [0.95-1.06],0.9758143360652,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SDC4,Syndecan-4,Inverse variance weighted,8,1 [0.9-1.11],0.980812420588341,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IGSF9,Protein turtle homolog A,Inverse variance weighted,10,1 [0.93-1.07],0.981505203763111,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCL20,C-C motif chemokine 20,Inverse variance weighted,2,1 [0.81-1.23],0.987417920054638,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GPR37,Prosaposin receptor GPR37,Inverse variance weighted,36,1 [0.97-1.03],0.987931880995264,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SFRP1,Secreted frizzled-related protein 1,Inverse variance weighted,13,1 [0.93-1.08],0.99312961798497,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,F13B,Coagulation factor XIII B chain,Inverse variance weighted,33,1 [0.95-1.05],0.993726906373778,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LGALS1,Galectin-1,Inverse variance weighted,6,1 [0.95-1.05],0.995384085000353,cis
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CXCL13,C-X-C motif chemokine 13,Wald ratio,1,11.87 [8.13-17.32],1.14647760983476e-37,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ANGPTL3,Angiopoietin-related protein 3,Inverse variance weighted,5,0.53 [0.42-0.67],1.15472784760921e-07,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PLA2G7,Platelet-activating factor acetylhydrolase,Inverse variance weighted,18,1.57 [1.26-1.96],6.68342494527308e-05,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SERPINF1,Pigment epithelium-derived factor,Wald ratio,1,2.35 [1.51-3.68],0.000170600782045813,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF4,Tumor necrosis factor receptor superfamily member 4,Inverse variance weighted,10,1.25 [1.11-1.41],0.000262537944475878,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GRN,Progranulin,Inverse variance weighted,46,1.08 [1.03-1.12],0.000304680906577118,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GALNT2,Polypeptide N-acetylgalactosaminyltransferase 2,Inverse variance weighted,20,1.14 [1.06-1.22],0.000332489669241826,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GFRA1,GDNF family receptor alpha-1,Inverse variance weighted,10,1.14 [1.06-1.23],0.00036256128750412,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,APOL1,Apolipoprotein L1,Inverse variance weighted,46,1.06 [1.03-1.1],0.000463079141770694,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SORCS2,VPS10 domain-containing receptor SorCS2,Inverse variance weighted,6,1.25 [1.08-1.44],0.00282319107404773,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CPM,Carboxypeptidase M,Inverse variance weighted,19,1.21 [1.06-1.38],0.00419132369358641,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL6,Interleukin-6,Inverse variance weighted,6,0.87 [0.79-0.96],0.00447930468791019,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IFNL1,Interferon lambda-1,Inverse variance weighted,8,1.27 [1.08-1.51],0.00480680812079449,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,OCLN,Occludin,Inverse variance weighted,2,1.43 [1.11-1.85],0.00523301168385148,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,APOD,Apolipoprotein D,Inverse variance weighted,9,0.65 [0.47-0.89],0.00710720723434157,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SEPTIN8,Septin-8,Inverse variance weighted,4,1.26 [1.06-1.5],0.00958448693459497,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MB,Myoglobin,Inverse variance weighted,9,0.86 [0.77-0.97],0.010705282960151,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CA14,Carbonic anhydrase 14,Inverse variance weighted,11,0.86 [0.76-0.97],0.0113959334756325,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL12A_IL12B,Interleukin-12,Inverse variance weighted,56,0.96 [0.94-0.99],0.0117049921606033,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TREM2,Triggering receptor expressed on myeloid cells 2,Inverse variance weighted,35,1.06 [1.01-1.11],0.0137424787511963,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,VCAM1,Vascular cell adhesion protein 1,Inverse variance weighted,9,1.27 [1.05-1.54],0.0138396873105419,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,COL4A1,Collagen alpha-1(IV) chain,Inverse variance weighted,28,0.95 [0.91-0.99],0.0164779259369548,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,VSIG4,V-set and immunoglobulin domain-containing protein 4,Inverse variance weighted,12,0.87 [0.78-0.98],0.0167741616068953,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CHCHD10,"Coiled-coil-helix-coiled-coil-helix domain-containing protein 10, mitochondrial",Inverse variance weighted,2,0.83 [0.71-0.97],0.0172487912744595,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,VWC2,Brorin,Inverse variance weighted,12,1.19 [1.03-1.37],0.018540732579155,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,KRT18,"Keratin, type I cytoskeletal 18",Inverse variance weighted,7,1.19 [1.03-1.37],0.0190680219166794,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,F10,Coagulation factor X,Inverse variance weighted,11,0.91 [0.84-0.98],0.0193602059337811,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ERMAP,Erythroid membrane-associated protein,Inverse variance weighted,33,1.04 [1.01-1.08],0.021016918900677,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,C7,Complement component C7,Inverse variance weighted,26,1.04 [1.01-1.08],0.0224762104112207,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ACY3,N-acyl-aromatic-L-amino acid amidohydrolase,Inverse variance weighted,13,0.9 [0.82-0.99],0.0227545308150458,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,VEGFA,Vascular endothelial growth factor A,Inverse variance weighted,15,1.17 [1.02-1.34],0.0233536931686706,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,L1CAM,Neural cell adhesion molecule L1,Inverse variance weighted,21,1.12 [1.01-1.24],0.0275988125940789,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF1B,Tumor necrosis factor receptor superfamily member 1B,Inverse variance weighted,5,0.8 [0.65-0.98],0.0279437936485262,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ADIPOQ,Adiponectin,Inverse variance weighted,25,0.9 [0.82-0.99],0.0279450453799612,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CTSD,Cathepsin D,Inverse variance weighted,7,1.17 [1.02-1.35],0.028804108100159,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IGDCC4,Immunoglobulin superfamily DCC subclass member 4,Inverse variance weighted,11,1.19 [1.02-1.39],0.0316056891017693,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HAVCR2,Hepatitis A virus cellular receptor 2,Inverse variance weighted,8,1.1 [1.01-1.19],0.0322161500202475,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,APOC1,Apolipoprotein C-I,Inverse variance weighted,12,0.79 [0.63-0.98],0.0356330310833476,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MERTK,Tyrosine-protein kinase Mer,Inverse variance weighted,28,1.11 [1-1.22],0.0403948589350743,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CKAP4,Cytoskeleton-associated protein 4,Inverse variance weighted,6,0.86 [0.74-1],0.0427990101714496,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCL13,C-C motif chemokine 13,Inverse variance weighted,21,0.95 [0.9-1],0.0430758241835025,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PTGR1,Prostaglandin reductase 1,Inverse variance weighted,18,1.05 [1-1.1],0.0430871320086181,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ARHGAP1,Rho GTPase-activating protein 1,Inverse variance weighted,4,1.28 [1.01-1.62],0.0443076658582173,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ST6GAL1,"Beta-galactoside alpha-2,6-sialyltransferase 1",Inverse variance weighted,2,1.32 [1-1.73],0.0462437983844081,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FSTL3,Follistatin-related protein 3,Inverse variance weighted,3,0.78 [0.62-1],0.0482798772841044,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD1C,T-cell surface glycoprotein CD1c,Inverse variance weighted,28,0.91 [0.82-1],0.0537641998392351,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,KLB,Beta-klotho,Inverse variance weighted,23,1.08 [1-1.17],0.053929956908177,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ADAM12,Disintegrin and metalloproteinase domain-containing protein 12,Inverse variance weighted,4,1.09 [1-1.19],0.0551925029558469,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,DCN,Decorin,Inverse variance weighted,2,0.74 [0.54-1.01],0.0576973683387041,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GDF2,Growth/differentiation factor 2,Inverse variance weighted,31,0.93 [0.87-1],0.0581618240744703,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MMP12,Macrophage metalloelastase,Inverse variance weighted,2,1.34 [0.99-1.83],0.0584142965299044,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CPXM2,Inactive carboxypeptidase-like protein X2,Inverse variance weighted,26,1.04 [1-1.08],0.0600807482505078,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,APOA1,Apolipoprotein A-I,Inverse variance weighted,13,0.81 [0.66-1.01],0.0606210009274157,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LGALS4,Galectin-4,Inverse variance weighted,15,0.96 [0.92-1],0.0631196943764067,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,AREG,Amphiregulin,Inverse variance weighted,5,1.16 [0.99-1.37],0.0641216858783799,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FAP,Prolyl endopeptidase FAP,Inverse variance weighted,9,1.1 [0.99-1.22],0.0654101684011882,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF14,Tumor necrosis factor receptor superfamily member 14,Wald ratio,1,1.42 [0.98-2.08],0.0661861535768754,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FLT3LG,Fms-related tyrosine kinase 3 ligand,Inverse variance weighted,50,1.06 [1-1.14],0.0664234928191091,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,POMC,Pro-opiomelanocortin,Inverse variance weighted,15,0.91 [0.83-1.01],0.0678687048472138,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SLAMF8,SLAM family member 8,Inverse variance weighted,2,0.7 [0.48-1.03],0.0687366638482585,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PON1,Serum paraoxonase/arylesterase 1,Inverse variance weighted,28,0.92 [0.84-1.01],0.0714783668887728,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RELT,Tumor necrosis factor receptor superfamily member 19L,Inverse variance weighted,6,0.79 [0.6-1.02],0.0747416684145994,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TGFA,Protransforming growth factor alpha,Inverse variance weighted,9,1.17 [0.98-1.4],0.0795107009228603,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PCSK9,Proprotein convertase subtilisin/kexin type 9,Inverse variance weighted,9,1.32 [0.97-1.8],0.081509014075263,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EFNA1,Ephrin-A1,Inverse variance weighted,3,1.18 [0.98-1.41],0.0836868605181964,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ITGA5,Integrin alpha-5,Inverse variance weighted,18,0.88 [0.75-1.02],0.0841896895966094,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SNCG,Gamma-synuclein,Inverse variance weighted,47,0.98 [0.95-1],0.0859692939388805,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD5,T-cell surface glycoprotein CD5,Inverse variance weighted,7,1.16 [0.98-1.38],0.0921342927642257,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD83,CD83 antigen,Inverse variance weighted,14,0.92 [0.83-1.02],0.0993432469773625,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NTRK3,NT-3 growth factor receptor,Inverse variance weighted,7,0.85 [0.71-1.03],0.099377683092663,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PDCD1,Programmed cell death protein 1,Inverse variance weighted,16,0.9 [0.78-1.02],0.100208895912647,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HEPH,Hephaestin,Inverse variance weighted,6,0.93 [0.85-1.02],0.1021548988172,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LGALS7_LGALS7B,Galectin-7,Inverse variance weighted,15,1.1 [0.98-1.25],0.110099978930364,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ANG,Angiogenin,Inverse variance weighted,8,1.25 [0.95-1.64],0.11291207014447,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TGFBI,Transforming growth factor-beta-induced protein ig-h3,Inverse variance weighted,14,0.92 [0.83-1.02],0.113163370469512,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,BST2,Bone marrow stromal antigen 2,Inverse variance weighted,24,1.11 [0.97-1.25],0.119173728640881,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HJV,Hemojuvelin,Inverse variance weighted,2,1.28 [0.94-1.73],0.120002871411468,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PRCP,Lysosomal Pro-X carboxypeptidase,Inverse variance weighted,22,1.07 [0.98-1.17],0.120438866855719,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NBL1,Neuroblastoma suppressor of tumorigenicity 1,Inverse variance weighted,3,1.29 [0.93-1.79],0.120685502066281,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CBLIF,Cobalamin binding intrinsic factor,Inverse variance weighted,57,1.03 [0.99-1.06],0.121150321498683,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,KLK14,Kallikrein-14,Inverse variance weighted,15,1.09 [0.98-1.21],0.121736161386429,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HYAL1,Hyaluronidase-1,Inverse variance weighted,19,1.05 [0.99-1.12],0.122260776286812,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GSN,Gelsolin,Inverse variance weighted,7,1.2 [0.95-1.5],0.12377724498551,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IGFBP7,Insulin-like growth factor-binding protein 7,Inverse variance weighted,4,0.86 [0.72-1.04],0.124457463806394,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MAMDC2,MAM domain-containing protein 2,Inverse variance weighted,22,1.05 [0.99-1.11],0.132472033155174,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EDIL3,EGF-like repeat and discoidin I-like domain-containing protein 3,Inverse variance weighted,4,0.87 [0.72-1.05],0.133838588171237,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FABP4,"Fatty acid-binding protein, adipocyte",Wald ratio,1,0.84 [0.67-1.06],0.135922964166762,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,THY1,Thy-1 membrane glycoprotein,Wald ratio,1,1.41 [0.9-2.21],0.13706736767022,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD4,T-cell surface glycoprotein CD4,Inverse variance weighted,6,1.35 [0.91-2],0.139007333632589,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL1RN,Interleukin-1 receptor antagonist protein,Inverse variance weighted,4,1.23 [0.93-1.63],0.140533356515965,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SHISA5,Protein shisa-5,Inverse variance weighted,12,0.89 [0.77-1.04],0.140545391330791,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ADGRG2,Adhesion G-protein coupled receptor G2,Inverse variance weighted,8,0.84 [0.67-1.06],0.141444721606486,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PALM2,Paralemmin-2,Inverse variance weighted,9,1.05 [0.98-1.13],0.142416326172095,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MCAM,Cell surface glycoprotein MUC18,Inverse variance weighted,11,1.08 [0.98-1.19],0.142452392682331,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RAB6A,Ras-related protein Rab-6A,Inverse variance weighted,27,0.95 [0.88-1.02],0.144596181675129,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NPC2,NPC intracellular cholesterol transporter 2,Inverse variance weighted,7,0.88 [0.74-1.05],0.144625843400168,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,AGXT,Serine--pyruvate aminotransferase,Inverse variance weighted,12,0.93 [0.84-1.03],0.149522291817867,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CHRDL1,Chordin-like protein 1,Inverse variance weighted,3,0.83 [0.64-1.07],0.151286331845828,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LMNB2,Lamin-B2,Inverse variance weighted,8,1.1 [0.97-1.26],0.151435140638013,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD300LG,CMRF35-like molecule 9,Inverse variance weighted,23,0.94 [0.87-1.02],0.157221799054953,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EDA2R,Tumor necrosis factor receptor superfamily member 27,Inverse variance weighted,12,1.17 [0.94-1.45],0.158022476625379,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SCARA5,Scavenger receptor class A member 5,Wald ratio,1,1.28 [0.91-1.81],0.158262578756412,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CRHBP,Corticotropin-releasing factor-binding protein,Inverse variance weighted,10,1.1 [0.96-1.25],0.160949359665462,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL7R,Interleukin-7 receptor subunit alpha,Inverse variance weighted,25,0.94 [0.85-1.03],0.161160215811331,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,AGR2,Anterior gradient protein 2 homolog,Inverse variance weighted,2,1.17 [0.94-1.45],0.162588115426777,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CNTN5,Contactin-5,Inverse variance weighted,22,1.04 [0.98-1.11],0.164931971740644,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FGF5,Fibroblast growth factor 5,Inverse variance weighted,18,1.06 [0.98-1.16],0.165577024716776,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SERPIND1,Heparin cofactor 2,Inverse variance weighted,32,0.93 [0.84-1.03],0.16795649548559,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CRIM1,Cysteine-rich motor neuron 1 protein,Inverse variance weighted,7,1.11 [0.96-1.28],0.168536438223557,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,B2M,Beta-2-microglobulin,Inverse variance weighted,7,1.18 [0.93-1.5],0.168714204912766,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD276,CD276 antigen,Inverse variance weighted,24,0.94 [0.87-1.02],0.169278024690568,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RNASET2,Ribonuclease T2,Inverse variance weighted,10,1.12 [0.95-1.32],0.186365457466292,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MEP1B,Meprin A subunit beta,Inverse variance weighted,72,1.01 [0.99-1.03],0.18724805763201,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EGF,Pro-epidermal growth factor,Wald ratio,1,0.69 [0.4-1.2],0.189359347576834,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HYOU1,Hypoxia up-regulated protein 1,Inverse variance weighted,17,0.94 [0.87-1.03],0.193176338167878,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ADAMTSL2,ADAMTS-like protein 2,Inverse variance weighted,9,0.93 [0.83-1.04],0.193767513635964,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CXADR,Coxsackievirus and adenovirus receptor,Inverse variance weighted,13,0.91 [0.79-1.05],0.194130554012689,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,OSM,Oncostatin-M,Inverse variance weighted,6,1.08 [0.96-1.22],0.195064359766256,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EPS8L2,Epidermal growth factor receptor kinase substrate 8-like protein 2,Wald ratio,1,1.3 [0.87-1.94],0.195903727946105,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CRIP2,Cysteine-rich protein 2,Inverse variance weighted,6,1.23 [0.9-1.68],0.1975349393217,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ITGAM,Integrin alpha-M,Inverse variance weighted,12,1.09 [0.96-1.23],0.198843269581704,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CST3,Cystatin-C,Inverse variance weighted,3,0.85 [0.67-1.09],0.200169595154843,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MET,Hepatocyte growth factor receptor,Inverse variance weighted,21,1.07 [0.96-1.2],0.203273321055141,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD302,CD302 antigen,Inverse variance weighted,11,0.91 [0.78-1.05],0.205099113595497,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LTBP2,Latent-transforming growth factor beta-binding protein 2,Inverse variance weighted,12,1.13 [0.93-1.38],0.206364396973339,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GGT1,Glutathione hydrolase 1 proenzyme,Inverse variance weighted,6,0.89 [0.74-1.07],0.213727711093004,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FABP2,"Fatty acid-binding protein, intestinal",Inverse variance weighted,6,0.92 [0.8-1.05],0.215636675397171,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CFP,Properdin,Inverse variance weighted,17,0.96 [0.9-1.02],0.216082382420835,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MFAP4,Microfibril-associated glycoprotein 4,Inverse variance weighted,15,1.07 [0.96-1.2],0.218991841302982,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CFC1,Cryptic protein,Inverse variance weighted,11,0.94 [0.84-1.04],0.220173164387657,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NTproBNP,N-terminal prohormone of brain natriuretic peptide,Inverse variance weighted,11,1.15 [0.92-1.43],0.224735255707132,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,A1BG,Alpha-1B-glycoprotein,Inverse variance weighted,4,1.12 [0.93-1.34],0.227221307206325,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCL8,C-C motif chemokine 8,Inverse variance weighted,42,0.98 [0.96-1.01],0.234304528458308,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF11B,Tumor necrosis factor receptor superfamily member 11B,Inverse variance weighted,25,1.09 [0.95-1.25],0.237343951803822,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PIGR,Polymeric immunoglobulin receptor,Inverse variance weighted,10,0.93 [0.83-1.05],0.237537815333971,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EPHA1,Ephrin type-A receptor 1,Inverse variance weighted,2,0.75 [0.47-1.2],0.2375756731156,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFSF11,Tumor necrosis factor ligand superfamily member 11,Inverse variance weighted,19,0.95 [0.88-1.03],0.238429261706562,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MMP7,Matrilysin,Wald ratio,1,1.1 [0.94-1.3],0.238827665633034,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CFH,Complement factor H,Inverse variance weighted,7,0.94 [0.85-1.04],0.241818680250293,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LCN2,Neutrophil gelatinase-associated lipocalin,Inverse variance weighted,21,0.94 [0.85-1.04],0.242571258751461,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NFASC,Neurofascin,Inverse variance weighted,6,0.85 [0.64-1.12],0.25102357519707,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCL27,C-C motif chemokine 27,Inverse variance weighted,9,1.51 [0.74-3.08],0.251473505429208,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,INHBC,Inhibin beta C chain,Inverse variance weighted,12,1.09 [0.94-1.25],0.252644011143623,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,B4GALT1,"Beta-1,4-galactosyltransferase 1",Inverse variance weighted,12,0.95 [0.88-1.03],0.255316344341376,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCL16,C-C motif chemokine 16,Inverse variance weighted,26,1.02 [0.99-1.05],0.255876766774627,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL12B,Interleukin-12 subunit beta,Inverse variance weighted,39,0.97 [0.93-1.02],0.259935486040377,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SMOC1,SPARC-related modular calcium-binding protein 1,Inverse variance weighted,13,1.24 [0.85-1.82],0.260937098987399,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EFEMP1,EGF-containing fibulin-like extracellular matrix protein 1,Inverse variance weighted,3,0.87 [0.69-1.11],0.262121760529439,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PLAUR,Urokinase plasminogen activator surface receptor,Inverse variance weighted,8,0.89 [0.72-1.09],0.264366100841129,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IGSF9,Protein turtle homolog A,Inverse variance weighted,2,1.24 [0.85-1.82],0.265076614862592,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PENK,Proenkephalin-A,Inverse variance weighted,15,1.05 [0.96-1.15],0.266816466431806,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,INHBB,Inhibin beta B chain,Inverse variance weighted,11,1.1 [0.93-1.29],0.266849529242759,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EDAR,Tumor necrosis factor receptor superfamily member EDAR,Inverse variance weighted,32,0.96 [0.89-1.03],0.267811897196187,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD74,HLA class II histocompatibility antigen gamma chain,Inverse variance weighted,7,0.94 [0.85-1.05],0.267932697897647,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TFRC,Transferrin receptor protein 1,Inverse variance weighted,19,1.04 [0.97-1.13],0.28285050838506,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CA6,Carbonic anhydrase 6,Inverse variance weighted,20,0.91 [0.77-1.08],0.287315761933505,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PROS1,Vitamin K-dependent protein S,Inverse variance weighted,14,1.04 [0.96-1.13],0.287386354951694,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CLEC7A,C-type lectin domain family 7 member A,Inverse variance weighted,6,1.1 [0.92-1.33],0.288277213690258,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MRC1,Macrophage mannose receptor 1,Inverse variance weighted,17,1.05 [0.96-1.16],0.290839641530446,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RNASE1,Ribonuclease pancreatic,Inverse variance weighted,2,1.69 [0.64-4.47],0.292073413577767,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ULBP2,UL16-binding protein 2,Inverse variance weighted,9,1.08 [0.93-1.25],0.293978525539675,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HGF,Hepatocyte growth factor,Inverse variance weighted,5,1.09 [0.92-1.3],0.29491994724177,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD163,Scavenger receptor cysteine-rich type 1 protein M130,Inverse variance weighted,38,1.04 [0.96-1.13],0.295317802437828,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IGFBP4,Insulin-like growth factor-binding protein 4,Inverse variance weighted,3,0.88 [0.7-1.11],0.296130776720186,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,WNT9A,Protein Wnt-9a,Wald ratio,1,1.31 [0.79-2.16],0.299087839641329,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CAPG,Macrophage-capping protein,Wald ratio,1,1.19 [0.85-1.67],0.30023739534608,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,AOC3,Membrane primary amine oxidase,Inverse variance weighted,33,0.98 [0.93-1.02],0.300577809794291,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,C1QA,Complement C1q subcomponent subunit A,Inverse variance weighted,19,0.95 [0.87-1.05],0.306868726529935,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PDGFRA,Platelet-derived growth factor receptor alpha,Inverse variance weighted,16,0.94 [0.85-1.05],0.307336204951981,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PRG2,Bone marrow proteoglycan,Inverse variance weighted,39,0.98 [0.93-1.02],0.308366359300574,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RNASE4,Ribonuclease 4,Inverse variance weighted,2,0.83 [0.58-1.19],0.309791640459398,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FGF23,Fibroblast growth factor 23,Inverse variance weighted,15,1.05 [0.96-1.14],0.311941676562137,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HPGDS,Hematopoietic prostaglandin D synthase,Inverse variance weighted,14,1.07 [0.94-1.21],0.313216681549233,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CXCL9,C-X-C motif chemokine 9,Inverse variance weighted,10,0.87 [0.67-1.14],0.314272185366371,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IGLC2,Immunoglobulin lambda constant 2,Inverse variance weighted,10,1.07 [0.94-1.21],0.317318192654008,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ICAM5,Intercellular adhesion molecule 5,Inverse variance weighted,13,1.06 [0.94-1.19],0.317706719358226,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCL19,C-C motif chemokine 19,Inverse variance weighted,4,1.17 [0.86-1.59],0.321126949439432,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PLTP,Phospholipid transfer protein,Inverse variance weighted,30,1.03 [0.97-1.08],0.324022256729641,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,COLEC12,Collectin-12,Inverse variance weighted,3,1.32 [0.76-2.29],0.324085697651149,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ASGR1,Asialoglycoprotein receptor 1,Inverse variance weighted,7,0.91 [0.74-1.1],0.324667370700533,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,APOA2,Apolipoprotein A-II,Inverse variance weighted,15,0.92 [0.77-1.09],0.327984095294686,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CFD,Complement factor D,Wald ratio,1,1.2 [0.83-1.75],0.330478765700741,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ICAM1,Intercellular adhesion molecule 1,Inverse variance weighted,4,0.92 [0.77-1.09],0.333189634365089,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SELL,L-selectin,Inverse variance weighted,11,0.92 [0.78-1.09],0.33658310521463,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,AGRN,Agrin,Inverse variance weighted,14,1.06 [0.94-1.2],0.338613669483331,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EFNA4,Ephrin-A4,Inverse variance weighted,2,0.84 [0.58-1.2],0.34150839821659,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PYY,Peptide YY,Inverse variance weighted,16,1.03 [0.97-1.09],0.3431712521,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PAG1,Phosphoprotein associated with glycosphingolipid-enriched microdomains 1,Inverse variance weighted,6,0.92 [0.78-1.09],0.345785901447959,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SIT1,Signaling threshold-regulating transmembrane adapter 1,Inverse variance weighted,7,1.14 [0.87-1.5],0.346669792949576,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LGALS3BP,Galectin-3-binding protein,Inverse variance weighted,30,0.97 [0.91-1.03],0.346670950182103,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RBP5,Retinol-binding protein 5,Inverse variance weighted,2,0.89 [0.69-1.14],0.349180993373085,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,KIT,Mast/stem cell growth factor receptor Kit,Inverse variance weighted,47,1.03 [0.97-1.1],0.349842863700309,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NPDC1,Neural proliferation differentiation and control protein 1,Inverse variance weighted,7,0.93 [0.8-1.08],0.351756068105208,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CLEC6A,C-type lectin domain family 6 member A,Inverse variance weighted,13,1.06 [0.94-1.2],0.354401995114331,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MENT,Protein MENT,Inverse variance weighted,28,1.04 [0.96-1.11],0.354702001138047,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,F7,Coagulation factor VII,Inverse variance weighted,10,1.05 [0.94-1.17],0.355094945902744,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SMOC2,SPARC-related modular calcium-binding protein 2,Inverse variance weighted,11,0.88 [0.67-1.15],0.35614586798401,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RBP7,Retinoid-binding protein 7,Inverse variance weighted,5,1.09 [0.9-1.32],0.358943450092576,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ITGB5,Integrin beta-5,Inverse variance weighted,8,1.06 [0.94-1.2],0.361102476933701,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MMP8,Neutrophil collagenase,Inverse variance weighted,10,1.05 [0.95-1.17],0.363239375182724,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IGSF8,Immunoglobulin superfamily member 8,Inverse variance weighted,4,1.14 [0.85-1.53],0.364340793523504,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SDC1,Syndecan-1,Inverse variance weighted,12,1.05 [0.94-1.17],0.368598787943523,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF10A,Tumor necrosis factor receptor superfamily member 10A,Inverse variance weighted,3,0.88 [0.66-1.17],0.369938601749323,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,F13B,Coagulation factor XIII B chain,Inverse variance weighted,10,1.04 [0.96-1.12],0.374142042421133,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FGF21,Fibroblast growth factor 21,Inverse variance weighted,2,1.19 [0.81-1.75],0.376453556883003,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MZB1,Marginal zone B- and B1-cell-specific protein,Inverse variance weighted,18,1.04 [0.95-1.14],0.377270583330234,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL4R,Interleukin-4 receptor subunit alpha,Inverse variance weighted,7,1.16 [0.83-1.61],0.378249644456978,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL18R1,Interleukin-18 receptor 1,Inverse variance weighted,22,0.97 [0.92-1.03],0.381118200773975,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCL20,C-C motif chemokine 20,Inverse variance weighted,6,0.95 [0.84-1.07],0.385907206917047,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD34,Hematopoietic progenitor cell antigen CD34,Inverse variance weighted,2,0.83 [0.54-1.27],0.388895964948262,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCL15,C-C motif chemokine 15,Inverse variance weighted,28,0.99 [0.97-1.01],0.395654332569636,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,VSNL1,Visinin-like protein 1,Inverse variance weighted,9,0.97 [0.91-1.04],0.396848715921087,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FURIN,Furin,Inverse variance weighted,3,0.91 [0.74-1.13],0.399112619177313,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TAFA5,Chemokine-like protein TAFA-5,Inverse variance weighted,5,0.92 [0.76-1.11],0.402856801841803,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FCRLB,Fc receptor-like B,Inverse variance weighted,10,0.95 [0.84-1.07],0.403000198285348,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HMOX1,Heme oxygenase 1,Inverse variance weighted,20,1.04 [0.95-1.14],0.404889058729227,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ADGRG1,Adhesion G-protein coupled receptor G1,Inverse variance weighted,4,1.1 [0.88-1.37],0.404901538544992,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FAM20A,Pseudokinase FAM20A,Inverse variance weighted,21,1.03 [0.96-1.11],0.407775189707588,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,XPNPEP2,Xaa-Pro aminopeptidase 2,Inverse variance weighted,20,0.96 [0.88-1.05],0.414563603842491,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MSR1,Macrophage scavenger receptor types I and II,Inverse variance weighted,18,1.05 [0.93-1.19],0.415616257545634,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PLAT,Tissue-type plasminogen activator,Inverse variance weighted,5,0.94 [0.81-1.09],0.41823423443633,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL13RA1,Interleukin-13 receptor subunit alpha-1,Inverse variance weighted,3,0.96 [0.87-1.06],0.422110730720812,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,STC2,Stanniocalcin-2,Inverse variance weighted,10,1.14 [0.83-1.57],0.422964974356601,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LAIR1,Leukocyte-associated immunoglobulin-like receptor 1,Inverse variance weighted,2,0.88 [0.64-1.21],0.42556254758306,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SFTPD,Pulmonary surfactant-associated protein D,Inverse variance weighted,54,1.01 [0.99-1.04],0.43210270699044,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GCNT1,"Beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase",Inverse variance weighted,22,0.99 [0.95-1.02],0.432497937621346,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FAM3D,Protein FAM3D,Inverse variance weighted,38,1.02 [0.98-1.06],0.433474395279312,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CRTAC1,Cartilage acidic protein 1,Inverse variance weighted,59,1.01 [0.98-1.04],0.43391666033503,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IDUA,Alpha-L-iduronidase,Inverse variance weighted,18,1.06 [0.91-1.24],0.438552402063223,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CDH2,Cadherin-2,Inverse variance weighted,21,0.94 [0.81-1.1],0.440933565837921,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCDC80,Coiled-coil domain-containing protein 80,Inverse variance weighted,10,0.93 [0.76-1.13],0.441519562792485,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,REG1A,Lithostathine-1-alpha,Inverse variance weighted,13,0.98 [0.92-1.04],0.441709174849356,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SCRG1,Scrapie-responsive protein 1,Inverse variance weighted,2,0.76 [0.38-1.52],0.441780692799972,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL2RA,Interleukin-2 receptor subunit alpha,Inverse variance weighted,8,1.07 [0.9-1.26],0.442471252726727,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SPP1,Osteopontin,Inverse variance weighted,13,1.07 [0.9-1.27],0.445009875374956,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LAG3,Lymphocyte activation gene 3 protein,Inverse variance weighted,11,1.13 [0.82-1.56],0.448414636295114,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL18BP,Interleukin-18-binding protein,Inverse variance weighted,10,1.14 [0.81-1.6],0.451205879688365,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LY6D,Lymphocyte antigen 6D,Inverse variance weighted,21,0.98 [0.92-1.04],0.453331509977212,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SEMA3G,Semaphorin-3G,Inverse variance weighted,66,1.01 [0.98-1.05],0.459854368431109,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FOLR2,Folate receptor beta,Inverse variance weighted,14,0.96 [0.86-1.07],0.462564042758396,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NRCAM,Neuronal cell adhesion molecule,Inverse variance weighted,7,0.95 [0.82-1.1],0.465791106872096,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GPC5,Glypican-5,Inverse variance weighted,42,0.99 [0.96-1.02],0.465812585968706,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,THPO,Thrombopoietin,Inverse variance weighted,12,1.03 [0.95-1.13],0.466128984497578,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TGFBR2,TGF-beta receptor type-2,Inverse variance weighted,8,1.08 [0.88-1.32],0.469292124668783,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CTSL,Cathepsin L1,Inverse variance weighted,29,0.97 [0.88-1.06],0.471103255978438,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFSF13B,Tumor necrosis factor ligand superfamily member 13B,Inverse variance weighted,19,1.02 [0.96-1.09],0.472656104768295,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NECTIN2,Nectin-2,Inverse variance weighted,3,0.86 [0.57-1.3],0.473562452614159,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RSPO3,R-spondin-3,Inverse variance weighted,5,0.85 [0.53-1.34],0.479190311306468,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LGALS3,Galectin-3,Inverse variance weighted,15,0.96 [0.85-1.08],0.479720873781339,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CFI,Complement factor I,Wald ratio,1,1.21 [0.71-2.06],0.481439279898585,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PGF,Placenta growth factor,Inverse variance weighted,5,1.06 [0.9-1.25],0.482321576494149,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD209,CD209 antigen,Inverse variance weighted,34,0.99 [0.95-1.03],0.484789163394602,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FAM3B,Protein FAM3B,Inverse variance weighted,26,1.01 [0.98-1.05],0.489043642896086,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FGFBP1,Fibroblast growth factor-binding protein 1,Inverse variance weighted,12,1.17 [0.75-1.83],0.492426610996288,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RTN4R,Reticulon-4 receptor,Inverse variance weighted,8,1.07 [0.87-1.32],0.495039430397925,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NRP1,Neuropilin-1,Inverse variance weighted,14,0.96 [0.85-1.08],0.495301938278121,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCL25,C-C motif chemokine 25,Inverse variance weighted,22,0.98 [0.91-1.04],0.496328545941426,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GPRC5C,G-protein coupled receptor family C group 5 member C,Inverse variance weighted,7,1.06 [0.89-1.27],0.500230404975407,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PTGDS,Prostaglandin-H2 D-isomerase,Inverse variance weighted,9,1.07 [0.88-1.28],0.503439521869337,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,XG,Glycoprotein Xg,Inverse variance weighted,2,0.9 [0.67-1.22],0.504498800341997,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,YAP1,Transcriptional coactivator YAP1,Inverse variance weighted,9,1.04 [0.93-1.15],0.505123652814529,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD40LG,CD40 ligand,Inverse variance weighted,3,1.06 [0.89-1.27],0.505140663022437,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LRIG1,Leucine-rich repeats and immunoglobulin-like domains protein 1,Inverse variance weighted,12,0.94 [0.78-1.13],0.508979983353967,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF11A,Tumor necrosis factor receptor superfamily member 11A,Inverse variance weighted,35,0.99 [0.95-1.03],0.518149488823531,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IFI30,Gamma-interferon-inducible lysosomal thiol reductase,Inverse variance weighted,5,1.13 [0.78-1.63],0.518756071786054,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CA9,Carbonic anhydrase 9,Inverse variance weighted,8,1.05 [0.9-1.23],0.52283261791226,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HSD17B14,17-beta-hydroxysteroid dehydrogenase 14,Inverse variance weighted,4,1.52 [0.42-5.47],0.524198117721797,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GHR,Growth hormone receptor,Inverse variance weighted,26,0.97 [0.89-1.06],0.527900364130504,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FGFBP3,Fibroblast growth factor-binding protein 3,Inverse variance weighted,43,1.01 [0.97-1.06],0.529047963748245,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TF,Serotransferrin,Inverse variance weighted,6,1.1 [0.82-1.47],0.529146761305252,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CEACAM16,Carcinoembryonic antigen-related cell adhesion molecule 16,Inverse variance weighted,14,0.95 [0.8-1.12],0.531045168557721,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CXCL16,C-X-C motif chemokine 16,Inverse variance weighted,15,0.97 [0.89-1.06],0.531101047361094,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SPON1,Spondin-1,Inverse variance weighted,4,1.06 [0.88-1.27],0.533256848871756,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CXCL17,C-X-C motif chemokine 17,Inverse variance weighted,6,1.09 [0.83-1.44],0.535862705573718,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ACAN,Aggrecan core protein,Inverse variance weighted,30,1.03 [0.94-1.13],0.536339382672228,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FABP3,"Fatty acid-binding protein, heart",Inverse variance weighted,6,0.95 [0.8-1.12],0.53739048596751,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ZBTB17,Zinc finger and BTB domain-containing protein 17,Wald ratio,1,0.93 [0.72-1.19],0.54041154739496,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,REG3A,Regenerating islet-derived protein 3-alpha,Inverse variance weighted,20,1.02 [0.95-1.1],0.541214316057299,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ACE2,Angiotensin-converting enzyme 2,Inverse variance weighted,11,0.94 [0.76-1.16],0.545489058289421,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,DCBLD2,"Discoidin, CUB and LCCL domain-containing protein 2",Inverse variance weighted,24,1.05 [0.9-1.22],0.546285112767197,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FABP6,Gastrotropin,Inverse variance weighted,4,0.92 [0.71-1.2],0.547321910423823,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RARRES2,Retinoic acid receptor responder protein 2,Inverse variance weighted,2,1.17 [0.69-1.99],0.554958859197332,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PTN,Pleiotrophin,Inverse variance weighted,3,0.88 [0.56-1.37],0.562783974738375,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,UPB1,Beta-ureidopropionase,Wald ratio,1,0.73 [0.26-2.12],0.567902491248674,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD80,T-lymphocyte activation antigen CD80,Inverse variance weighted,10,0.95 [0.8-1.13],0.568732168881958,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFSF12,Tumor necrosis factor ligand superfamily member 12,Inverse variance weighted,20,1.04 [0.9-1.21],0.570678326343359,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF10B,Tumor necrosis factor receptor superfamily member 10B,Inverse variance weighted,3,0.95 [0.79-1.14],0.571690252804004,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PALM,Paralemmin-1,Inverse variance weighted,4,1.06 [0.86-1.32],0.573456717715843,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NT5C1A,Cytosolic 5'-nucleotidase 1A,Inverse variance weighted,4,1.03 [0.93-1.15],0.573750952816509,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PDZK1,Na(+)/H(+) exchange regulatory cofactor NHE-RF3,Inverse variance weighted,3,1.04 [0.91-1.17],0.574916535562021,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ITGBL1,Integrin beta-like protein 1,Inverse variance weighted,5,0.95 [0.8-1.13],0.576085071411483,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CLEC4M,C-type lectin domain family 4 member M,Inverse variance weighted,35,0.99 [0.95-1.03],0.578079148640939,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL12RB1,Interleukin-12 receptor subunit beta-1,Inverse variance weighted,9,1.05 [0.88-1.25],0.579383330150092,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CREG1,Protein CREG1,Inverse variance weighted,20,1.02 [0.96-1.07],0.579426602021769,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,COL3A1,Collagen alpha-1(III) chain,Inverse variance weighted,5,1.03 [0.94-1.13],0.579877861719056,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LAYN,Layilin,Inverse variance weighted,3,1.07 [0.84-1.37],0.581402152965018,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,DEFA1_DEFA1B,Neutrophil defensin 1,Inverse variance weighted,31,1.02 [0.96-1.08],0.584438794645316,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EPHA2,Ephrin type-A receptor 2,Inverse variance weighted,3,0.93 [0.73-1.19],0.586623377777246,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GOLM2,Protein GOLM2,Inverse variance weighted,14,1.02 [0.94-1.12],0.604752573647049,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CHGA,Chromogranin-A,Inverse variance weighted,5,0.97 [0.85-1.1],0.605634626135553,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PRSS8,Prostasin,Inverse variance weighted,14,0.97 [0.86-1.1],0.605890889623226,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NCS1,Neuronal calcium sensor 1,Inverse variance weighted,18,1.02 [0.95-1.09],0.606342448193496,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SCG3,Secretogranin-3,Inverse variance weighted,16,0.98 [0.89-1.07],0.606376265652531,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SPON2,Spondin-2,Inverse variance weighted,3,1.06 [0.84-1.36],0.61129129025225,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ADA2,Adenosine deaminase 2,Inverse variance weighted,10,1.04 [0.89-1.22],0.613501656977502,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ITGA2,Integrin alpha-2,Inverse variance weighted,13,1.03 [0.92-1.15],0.613675447745804,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD58,Lymphocyte function-associated antigen 3,Inverse variance weighted,6,1.04 [0.89-1.21],0.616314450100466,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GCG,Pro-glucagon,Inverse variance weighted,2,0.88 [0.53-1.45],0.6164885656094,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,KLK11,Kallikrein-11,Inverse variance weighted,13,0.98 [0.89-1.07],0.618900772053903,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NHLRC3,NHL repeat-containing protein 3,Inverse variance weighted,5,0.96 [0.81-1.13],0.619610075447691,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LEP,Leptin,Inverse variance weighted,4,1.16 [0.64-2.12],0.622265160658876,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL10RB,Interleukin-10 receptor subunit beta,Inverse variance weighted,31,1.01 [0.97-1.05],0.622486056705525,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NEFL,Neurofilament light polypeptide,Inverse variance weighted,6,1.11 [0.72-1.72],0.623802175717908,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,WFDC2,WAP four-disulfide core domain protein 2,Inverse variance weighted,4,1.04 [0.9-1.19],0.624769050078336,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,APCS,Serum amyloid P-component,Inverse variance weighted,3,1.06 [0.83-1.35],0.629317212485504,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL1RL1,Interleukin-1 receptor-like 1,Inverse variance weighted,27,0.98 [0.9-1.06],0.629393160314789,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HAO1,Hydroxyacid oxidase 1,Inverse variance weighted,6,0.95 [0.77-1.18],0.636466458363218,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CHGB,Secretogranin-1,Inverse variance weighted,7,0.96 [0.82-1.13],0.639815674560544,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FGFR2,Fibroblast growth factor receptor 2,Inverse variance weighted,13,0.98 [0.88-1.08],0.641824417061138,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CALCA,Calcitonin,Inverse variance weighted,13,1.04 [0.87-1.24],0.643999161723753,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CXCL10,C-X-C motif chemokine 10,Inverse variance weighted,6,1.12 [0.7-1.78],0.644749357368535,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PGA4,Pepsin A-4,Inverse variance weighted,7,1.04 [0.89-1.2],0.647111895074809,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HSPG2,Basement membrane-specific heparan sulfate proteoglycan core protein,Inverse variance weighted,2,1.16 [0.61-2.24],0.647367891531791,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IGFBP3,Insulin-like growth factor-binding protein 3,Inverse variance weighted,11,0.96 [0.82-1.13],0.655735053531752,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFSF13,Tumor necrosis factor ligand superfamily member 13,Inverse variance weighted,6,1.05 [0.85-1.29],0.660243159042356,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,DPY30,Protein dpy-30 homolog,Wald ratio,1,1.09 [0.75-1.57],0.664093321809159,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FBLN2,Fibulin-2,Inverse variance weighted,6,1.06 [0.81-1.4],0.664134708510072,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF9,Tumor necrosis factor receptor superfamily member 9,Inverse variance weighted,4,1.08 [0.75-1.57],0.665066434992959,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SDC4,Syndecan-4,Inverse variance weighted,35,0.98 [0.88-1.09],0.667748232844617,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EPO,Erythropoietin,Inverse variance weighted,11,0.98 [0.9-1.07],0.669134470311197,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF19,Tumor necrosis factor receptor superfamily member 19,Inverse variance weighted,10,1.03 [0.92-1.15],0.669487833791721,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SIGLEC1,Sialoadhesin,Inverse variance weighted,16,1.03 [0.89-1.2],0.671031573105605,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FGFBP2,Fibroblast growth factor-binding protein 2,Inverse variance weighted,38,1.01 [0.97-1.06],0.675314780141658,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ACVRL1,Serine/threonine-protein kinase receptor R3,Inverse variance weighted,6,1.03 [0.91-1.16],0.675764403666873,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCL21,C-C motif chemokine 21,Inverse variance weighted,15,0.98 [0.9-1.07],0.676349459686382,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNN,Tenascin-N,Inverse variance weighted,41,1.01 [0.97-1.04],0.680352011012755,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FGL1,Fibrinogen-like protein 1,Inverse variance weighted,7,0.92 [0.63-1.35],0.680466121050248,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ITGAV,Integrin alpha-V,Inverse variance weighted,10,0.96 [0.8-1.16],0.68077319925278,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TFF2,Trefoil factor 2,Inverse variance weighted,16,0.98 [0.89-1.08],0.684837137230029,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,OLR1,Oxidized low-density lipoprotein receptor 1,Inverse variance weighted,17,1.02 [0.92-1.13],0.68678269546277,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NPPC,C-type natriuretic peptide,Inverse variance weighted,3,0.93 [0.65-1.33],0.687276981714269,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IGFBP6,Insulin-like growth factor-binding protein 6,Inverse variance weighted,3,1.15 [0.58-2.3],0.689554295895055,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RBP2,Retinol-binding protein 2,Inverse variance weighted,5,0.95 [0.73-1.23],0.692334495810602,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD27,CD27 antigen,Inverse variance weighted,9,1.04 [0.86-1.25],0.695661128787823,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HAVCR1,Hepatitis A virus cellular receptor 1,Inverse variance weighted,21,1.02 [0.91-1.16],0.697041195742713,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ELN,Elastin,Inverse variance weighted,10,0.95 [0.71-1.25],0.70214280576689,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PLXNB2,Plexin-B2,Inverse variance weighted,12,0.97 [0.85-1.12],0.702635666511914,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,OGN,Mimecan,Inverse variance weighted,37,0.99 [0.95-1.04],0.702796965346321,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PTX3,Pentraxin-related protein PTX3,Inverse variance weighted,13,0.99 [0.95-1.03],0.705798017096467,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CTSB,Cathepsin B,Inverse variance weighted,28,0.99 [0.93-1.05],0.706777056292321,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PRND,Prion-like protein doppel,Inverse variance weighted,15,0.98 [0.87-1.1],0.706827866941076,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,S100A4,Protein S100-A4,Inverse variance weighted,2,1.05 [0.8-1.39],0.70920197409375,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCN3,CCN family member 3,Inverse variance weighted,17,1.02 [0.93-1.11],0.714045054238527,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RETN,Resistin,Inverse variance weighted,19,0.98 [0.88-1.09],0.715218591198739,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCL7,C-C motif chemokine 7,Inverse variance weighted,14,1.01 [0.94-1.1],0.715918874520098,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,S100P,Protein S100-P,Inverse variance weighted,4,0.95 [0.74-1.23],0.718314981212161,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD79B,B-cell antigen receptor complex-associated protein beta chain,Inverse variance weighted,21,0.99 [0.91-1.07],0.719861340501527,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GPR37,Prosaposin receptor GPR37,Inverse variance weighted,32,1.01 [0.94-1.1],0.720092802598318,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CDCP1,CUB domain-containing protein 1,Inverse variance weighted,9,1.04 [0.85-1.27],0.720908822777361,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD59,CD59 glycoprotein,Inverse variance weighted,4,1.03 [0.86-1.24],0.721484525024285,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CTSS,Cathepsin S,Inverse variance weighted,7,0.95 [0.72-1.26],0.721807261288038,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,KRT19,"Keratin, type I cytoskeletal 19",Inverse variance weighted,5,1.02 [0.91-1.14],0.722608556896004,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CLMP,CXADR-like membrane protein,Inverse variance weighted,4,1.08 [0.69-1.7],0.722738974841544,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,IL19,Interleukin-19,Inverse variance weighted,10,0.99 [0.94-1.04],0.723235044017377,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ADAMTS15,A disintegrin and metalloproteinase with thrombospondin motifs 15,Inverse variance weighted,4,1.04 [0.83-1.31],0.724281784786919,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,KLRB1,Killer cell lectin-like receptor subfamily B member 1,Inverse variance weighted,17,0.98 [0.89-1.08],0.724592971297117,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CLEC4D,C-type lectin domain family 4 member D,Inverse variance weighted,9,1.02 [0.9-1.17],0.730454916223481,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,KLK4,Kallikrein-4,Inverse variance weighted,5,0.93 [0.59-1.45],0.733145547539281,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MFGE8,Lactadherin,Inverse variance weighted,15,1.04 [0.84-1.28],0.733591485723454,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,DLL1,Delta-like protein 1,Inverse variance weighted,6,1.05 [0.8-1.38],0.734075505986649,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CSTB,Cystatin-B,Inverse variance weighted,23,0.99 [0.95-1.03],0.734606555818341,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LRRN1,Leucine-rich repeat neuronal protein 1,Inverse variance weighted,12,1.03 [0.89-1.19],0.735607044387049,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RNF149,E3 ubiquitin-protein ligase RNF149,Inverse variance weighted,6,0.97 [0.83-1.14],0.737712582899693,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,THBS2,Thrombospondin-2,Inverse variance weighted,15,1.02 [0.92-1.12],0.744267327866074,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CCN5,CCN family member 5,Inverse variance weighted,12,0.99 [0.93-1.05],0.745505276615469,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,REN,Renin,Inverse variance weighted,8,1.07 [0.69-1.67],0.75036623004854,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ITGA11,Integrin alpha-11,Inverse variance weighted,7,0.96 [0.74-1.24],0.752265767753599,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EGFR,Epidermal growth factor receptor,Inverse variance weighted,8,0.96 [0.73-1.25],0.753819889395565,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFSF10,Tumor necrosis factor ligand superfamily member 10,Inverse variance weighted,20,0.99 [0.91-1.07],0.757515411332021,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CGA,Glycoprotein hormones alpha chain,Inverse variance weighted,2,0.91 [0.48-1.7],0.760822980437895,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GAL,Galanin peptides,Inverse variance weighted,49,0.99 [0.9-1.08],0.762894641289801,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TFF3,Trefoil factor 3,Inverse variance weighted,10,1.01 [0.93-1.11],0.763512472701237,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LILRB4,Leukocyte immunoglobulin-like receptor subfamily B member 4,Inverse variance weighted,3,1.04 [0.79-1.39],0.764422883222482,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ACE,Angiotensin-converting enzyme,Inverse variance weighted,27,1.01 [0.97-1.05],0.764624988407877,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GUCA2A,Guanylin,Inverse variance weighted,7,1.02 [0.9-1.15],0.768132178522022,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LAMP3,Lysosome-associated membrane glycoprotein 3,Inverse variance weighted,13,1.02 [0.87-1.2],0.775418745861049,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MUC13,Mucin-13,Inverse variance weighted,3,0.94 [0.61-1.45],0.780160716431815,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RNASE6,Ribonuclease K6,Inverse variance weighted,4,0.95 [0.66-1.37],0.782798873220223,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NECTIN4,Nectin-4,Inverse variance weighted,4,1.04 [0.77-1.41],0.788300402559992,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TFF1,Trefoil factor 1,Inverse variance weighted,14,1.01 [0.95-1.06],0.793669096992284,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CSF1,Macrophage colony-stimulating factor 1,Inverse variance weighted,6,1.03 [0.83-1.27],0.797978614274103,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,COL6A3,Collagen alpha-3(VI) chain,Inverse variance weighted,3,1.05 [0.73-1.52],0.801373036166134,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SPINK4,Serine protease inhibitor Kazal-type 4,Inverse variance weighted,14,1.01 [0.91-1.14],0.805745941412484,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,APOE,Apolipoprotein E,Inverse variance weighted,6,0.98 [0.85-1.13],0.807257671322794,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,KLKB1,Plasma kallikrein,Inverse variance weighted,20,0.99 [0.91-1.08],0.808460074655348,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,XCL1,Lymphotactin,Inverse variance weighted,15,0.98 [0.81-1.18],0.808468340021649,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,VEGFC,Vascular endothelial growth factor C,Inverse variance weighted,6,0.97 [0.78-1.22],0.811768186668079,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NRP2,Neuropilin-2,Inverse variance weighted,14,1.02 [0.89-1.16],0.815488000796758,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PSAP,Prosaposin,Inverse variance weighted,13,1.01 [0.94-1.07],0.819483982258281,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TIMP1,Metalloproteinase inhibitor 1,Inverse variance weighted,2,1.03 [0.82-1.28],0.820492797096936,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,DPP4,Dipeptidyl peptidase 4,Inverse variance weighted,8,1.02 [0.82-1.28],0.82915879218541,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MPO,Myeloperoxidase,Inverse variance weighted,17,1.01 [0.94-1.09],0.832284031730927,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,APOF,Apolipoprotein F,Inverse variance weighted,8,0.96 [0.65-1.42],0.839129885452441,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FABP1,"Fatty acid-binding protein, liver",Inverse variance weighted,2,0.97 [0.69-1.35],0.845796096581308,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CHI3L1,Chitinase-3-like protein 1,Inverse variance weighted,5,0.97 [0.68-1.37],0.846047428513306,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,EBI3_IL27,Interleukin-27,Inverse variance weighted,26,0.99 [0.93-1.06],0.847533491748543,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,DSC2,Desmocollin-2,Inverse variance weighted,16,0.99 [0.94-1.05],0.85180064741211,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HRC,Sarcoplasmic reticulum histidine-rich calcium-binding protein,Inverse variance weighted,7,0.98 [0.82-1.18],0.854780026107238,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,FAM3C,Protein FAM3C,Inverse variance weighted,3,1.03 [0.75-1.42],0.855901489153059,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD300E,CMRF35-like molecule 2,Inverse variance weighted,35,1 [0.96-1.03],0.858777133067188,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MME,Neprilysin,Inverse variance weighted,46,1 [0.96-1.05],0.860390166604876,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,RBFOX3,RNA binding protein fox-1 homolog 3,Inverse variance weighted,2,0.97 [0.72-1.32],0.862359392378816,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CLEC4A,C-type lectin domain family 4 member A,Inverse variance weighted,16,1.01 [0.86-1.19],0.864796034050513,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,UMOD,Uromodulin,Inverse variance weighted,34,0.99 [0.91-1.08],0.867934605920617,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,BAIAP2,Brain-specific angiogenesis inhibitor 1-associated protein 2,Inverse variance weighted,3,1.02 [0.82-1.27],0.872246089775768,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PRAP1,Proline-rich acidic protein 1,Inverse variance weighted,8,1 [0.95-1.06],0.874135270396696,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MEGF10,Multiple epidermal growth factor-like domains protein 10,Inverse variance weighted,27,1.01 [0.9-1.13],0.875578634624403,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,KDR,Vascular endothelial growth factor receptor 2,Inverse variance weighted,25,1.01 [0.91-1.12],0.878030074583477,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TFPI,Tissue factor pathway inhibitor,Inverse variance weighted,20,1.01 [0.94-1.08],0.885043013514448,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,POF1B,Protein POF1B,Inverse variance weighted,4,1.02 [0.81-1.27],0.885616988999713,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SCG2,Secretogranin-2,Inverse variance weighted,2,1.02 [0.81-1.27],0.886083500288366,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HSPB6,Heat shock protein beta-6,Inverse variance weighted,4,0.97 [0.67-1.41],0.892373926105856,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,DKK3,Dickkopf-related protein 3,Inverse variance weighted,14,1.01 [0.91-1.12],0.893492413755888,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ANGPT2,Angiopoietin-2,Inverse variance weighted,7,1.02 [0.8-1.29],0.899225781526271,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SFRP1,Secreted frizzled-related protein 1,Inverse variance weighted,9,0.99 [0.83-1.18],0.90000410623326,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CLEC3B,Tetranectin,Inverse variance weighted,2,0.98 [0.71-1.35],0.901689412580872,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,AMBP,Protein AMBP,Inverse variance weighted,5,0.99 [0.82-1.19],0.902632989685926,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LGALS9,Galectin-9,Inverse variance weighted,36,1 [0.96-1.04],0.903429573214515,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ITIH3,Inter-alpha-trypsin inhibitor heavy chain H3,Inverse variance weighted,22,1.01 [0.89-1.13],0.912778448451737,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF1A,Tumor necrosis factor receptor superfamily member 1A,Inverse variance weighted,4,0.99 [0.82-1.19],0.914622665130701,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LPA,Apolipoprotein(a),Inverse variance weighted,2,0.98 [0.69-1.41],0.923190166782749,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,REG1B,Lithostathine-1-beta,Inverse variance weighted,7,1.01 [0.88-1.15],0.93173811966465,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,REG4,Regenerating islet-derived protein 4,Inverse variance weighted,13,0.99 [0.77-1.26],0.932234724431972,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PIK3IP1,Phosphoinositide-3-kinase-interacting protein 1,Inverse variance weighted,8,1.01 [0.88-1.14],0.933285478535076,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SLURP1,Secreted Ly-6/uPAR-related protein 1,Inverse variance weighted,19,1 [0.96-1.04],0.934901366829893,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ROBO2,Roundabout homolog 2,Inverse variance weighted,6,0.99 [0.84-1.17],0.938230075093179,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CTSO,Cathepsin O,Inverse variance weighted,19,0.99 [0.86-1.15],0.940700831377969,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CXCL3,C-X-C motif chemokine 3,Wald ratio,1,1.01 [0.72-1.42],0.941024994881911,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TCN2,Transcobalamin-2,Inverse variance weighted,24,1 [0.96-1.04],0.94341419387896,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,PON3,Serum paraoxonase/lactonase 3,Inverse variance weighted,12,1.01 [0.86-1.18],0.950841552515549,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GAST,Gastrin,Inverse variance weighted,9,1 [0.89-1.12],0.953333201085818,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,LTBP3,Latent-transforming growth factor beta-binding protein 3,Inverse variance weighted,16,1 [0.91-1.09],0.95579434864076,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GDF15,Growth/differentiation factor 15,Wald ratio,1,0.99 [0.58-1.67],0.95641879830481,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,COL18A1,Collagen alpha-1(XVIII) chain,Inverse variance weighted,17,1 [0.93-1.08],0.957065704378554,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CD38,ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1,Inverse variance weighted,8,1.01 [0.72-1.41],0.959658675741795,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SIGLEC10,Sialic acid-binding Ig-like lectin 10,Inverse variance weighted,8,1.01 [0.8-1.26],0.960462709699245,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SMPDL3A,Acid sphingomyelinase-like phosphodiesterase 3a,Inverse variance weighted,48,1 [0.95-1.06],0.96065139373238,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MXRA8,Matrix remodeling-associated protein 8,Inverse variance weighted,10,0.99 [0.76-1.3],0.9606744498081,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CEACAM8,Carcinoembryonic antigen-related cell adhesion molecule 8,Inverse variance weighted,22,1 [0.94-1.06],0.960844228786757,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF6B,Tumor necrosis factor receptor superfamily member 6B,Inverse variance weighted,24,1 [0.96-1.05],0.975643523854213,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CKMT1A_CKMT1B,"Creatine kinase U-type, mitochondrial",Inverse variance weighted,18,1 [0.92-1.1],0.975787846798013,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MVK,Mevalonate kinase,Wald ratio,1,1.01 [0.41-2.52],0.976195522672113,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SCT,Secretin,Inverse variance weighted,5,1 [0.84-1.19],0.976739508449321,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,HSD11B1,Corticosteroid 11-beta-dehydrogenase isozyme 1,Inverse variance weighted,14,1 [0.85-1.18],0.979285836666634,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SCARB2,Lysosome membrane protein 2,Inverse variance weighted,10,1 [0.85-1.19],0.980294746080502,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,CALB1,Calbindin,Inverse variance weighted,9,1 [0.89-1.12],0.98409825148367,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MMP10,Stromelysin-2,Wald ratio,1,1 [0.64-1.58],0.986358293798447,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,GIPC2,PDZ domain-containing protein GIPC2,Inverse variance weighted,2,1 [0.7-1.41],0.987455138920466,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,TNFRSF13B,Tumor necrosis factor receptor superfamily member 13B,Inverse variance weighted,13,1 [0.93-1.08],0.988552600696339,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SLITRK2,SLIT and NTRK-like protein 2,Inverse variance weighted,12,1 [0.76-1.32],0.990784253697811,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,SPINK1,Serine protease inhibitor Kazal-type 1,Inverse variance weighted,5,1 [0.76-1.31],0.994394949405704,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,ANGPT1,Angiopoietin-1,Inverse variance weighted,10,1 [0.87-1.15],0.995751514127691,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,NOS3,"Nitric oxide synthase, endothelial",Inverse variance weighted,5,1 [0.55-1.84],0.995845547761538,trans
+Chapter IX Diseases of the circulatory system,I9_ANGINA,MASP1,Mannan-binding lectin serine protease 1,Inverse variance weighted,28,1 [0.96-1.04],0.997555208683782,trans

@@ -1,0 +1,19 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+TNFRSF10C,Tumor necrosis factor receptor superfamily member 10C,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,2.25 [1.85-2.74],4.46560939352562e-16,trans
+TNFRSF10C,Tumor necrosis factor receptor superfamily member 10C,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,1.46 [1.33-1.6],3.83689514681101e-15,trans
+TNFRSF10C,Tumor necrosis factor receptor superfamily member 10C,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,61,1.11 [1.04-1.18],0.00107878953234935,trans
+TNFRSF10C,Tumor necrosis factor receptor superfamily member 10C,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.06 [1-1.13],0.0429686304354979,trans
+TNFRSF10C,Tumor necrosis factor receptor superfamily member 10C,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.12 [0.99-1.27],0.0752172326171273,trans
+TNFRSF10C,Tumor necrosis factor receptor superfamily member 10C,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,1.13 [0.95-1.33],0.169245357902094,trans
+TNFRSF10C,Tumor necrosis factor receptor superfamily member 10C,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.14 [0.93-1.39],0.211078009925999,trans
+TNFRSF10C,Tumor necrosis factor receptor superfamily member 10C,Chapter X Diseases of the respiratory system,COPD_EARLY,Inverse variance weighted,3,1.04 [0.97-1.12],0.225397876036469,trans
+TNFRSF10C,Tumor necrosis factor receptor superfamily member 10C,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.86 [0.67-1.11],0.254558895245605,trans
+TNFRSF10C,Tumor necrosis factor receptor superfamily member 10C,Chapter V Mental and behavioural disorders,SMOKING_DEPEND,Wald ratio,1,0.96 [0.9-1.03],0.267755205324839,trans
+TNFRSF10C,Tumor necrosis factor receptor superfamily member 10C,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,7,1.13 [0.86-1.48],0.383771477622249,trans
+TNFRSF10C,Tumor necrosis factor receptor superfamily member 10C,Chapter X Diseases of the respiratory system,COPD_LATER,Wald ratio,1,1.02 [0.96-1.09],0.510685850095956,trans
+TNFRSF10C,Tumor necrosis factor receptor superfamily member 10C,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,1.02 [0.96-1.09],0.53311300319945,trans
+TNFRSF10C,Tumor necrosis factor receptor superfamily member 10C,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,1.03 [0.86-1.23],0.784674566059679,trans
+TNFRSF10C,Tumor necrosis factor receptor superfamily member 10C,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,1 [0.98-1.03],0.832933135322343,trans
+TNFRSF10C,Tumor necrosis factor receptor superfamily member 10C,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,0.99 [0.83-1.17],0.861493311166976,trans
+TNFRSF10C,Tumor necrosis factor receptor superfamily member 10C,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,1 [0.94-1.06],0.914389720805553,trans
+TNFRSF10C,Tumor necrosis factor receptor superfamily member 10C,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,1.01 [0.79-1.28],0.967673803817396,trans

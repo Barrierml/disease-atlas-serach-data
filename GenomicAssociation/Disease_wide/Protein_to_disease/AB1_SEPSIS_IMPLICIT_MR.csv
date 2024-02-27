@@ -1,0 +1,852 @@
+Disease_category,Disease,Protein,Protein_definition,method,nsnp,OR [95% CI],Pvalue,QTL_type
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,EFEMP1,EGF-containing fibulin-like extracellular matrix protein 1,Inverse variance weighted,4,0.85 [0.78-0.92],0.000170259369018338,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CLMP,CXADR-like membrane protein,Inverse variance weighted,9,1.1 [1.04-1.16],0.000374325740813028,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ENTPD6,Ectonucleoside triphosphate diphosphohydrolase 6,Inverse variance weighted,10,1.08 [1.03-1.13],0.000381214432457587,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,C7,Complement component C7,Inverse variance weighted,15,1.05 [1.02-1.09],0.0010619650172836,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CRELD2,Protein disulfide isomerase CRELD2,Inverse variance weighted,8,1.07 [1.03-1.12],0.00134159264234015,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CAPG,Macrophage-capping protein,Inverse variance weighted,15,1.06 [1.02-1.11],0.00162913701008402,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SCGB1A1,Uteroglobin,Inverse variance weighted,5,0.92 [0.87-0.97],0.00209285023866672,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ELN,Elastin,Wald ratio,1,0.71 [0.56-0.89],0.00264458542195876,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PIK3IP1,Phosphoinositide-3-kinase-interacting protein 1,Inverse variance weighted,6,0.91 [0.86-0.97],0.00350422038171264,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SLAMF6,SLAM family member 6,Inverse variance weighted,2,1.15 [1.04-1.26],0.00426571639229422,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFSF12,Tumor necrosis factor ligand superfamily member 12,Inverse variance weighted,7,1.08 [1.02-1.14],0.00456045535433715,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TMSB10,Thymosin beta-10,Wald ratio,1,1.84 [1.19-2.83],0.00612254004374709,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL6ST,Interleukin-6 receptor subunit beta,Inverse variance weighted,2,1.16 [1.04-1.29],0.00640434897845515,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFRSF6B,Tumor necrosis factor receptor superfamily member 6B,Inverse variance weighted,7,0.9 [0.83-0.97],0.00735299688711257,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,KLK14,Kallikrein-14,Inverse variance weighted,11,0.94 [0.9-0.98],0.00803178777149653,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PI3,Elafin,Inverse variance weighted,7,1.07 [1.02-1.12],0.00840692477226323,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FGF21,Fibroblast growth factor 21,Wald ratio,1,0.61 [0.43-0.89],0.00918092327878521,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFRSF21,Tumor necrosis factor receptor superfamily member 21,Inverse variance weighted,5,0.85 [0.75-0.96],0.00983644968385713,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,APOA2,Apolipoprotein A-II,Wald ratio,1,0.69 [0.52-0.92],0.0110540761386935,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ITGA2,Integrin alpha-2,Inverse variance weighted,15,1.04 [1.01-1.07],0.0133614960214162,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CXCL16,C-X-C motif chemokine 16,Inverse variance weighted,5,0.87 [0.77-0.97],0.0149285887371399,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CRIM1,Cysteine-rich motor neuron 1 protein,Inverse variance weighted,6,0.89 [0.8-0.98],0.0152023842027449,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MILR1,Allergin-1,Inverse variance weighted,20,0.95 [0.92-0.99],0.0152699982730701,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SIGLEC9,Sialic acid-binding Ig-like lectin 9,Inverse variance weighted,8,0.94 [0.89-0.99],0.016629946550008,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFRSF9,Tumor necrosis factor receptor superfamily member 9,Wald ratio,1,1.78 [1.11-2.85],0.0167173613779502,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SMPD1,Sphingomyelin phosphodiesterase,Inverse variance weighted,7,1.18 [1.03-1.35],0.0168146665114052,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SWAP70,Switch-associated protein 70,Inverse variance weighted,3,0.82 [0.69-0.97],0.0199444157433739,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LGALS1,Galectin-1,Inverse variance weighted,4,0.92 [0.86-0.99],0.021419768089184,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FGF23,Fibroblast growth factor 23,Wald ratio,1,0.81 [0.67-0.97],0.0216007162397407,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFRSF10C,Tumor necrosis factor receptor superfamily member 10C,Inverse variance weighted,7,0.92 [0.86-0.99],0.0222679859110474,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LTBP3,Latent-transforming growth factor beta-binding protein 3,Inverse variance weighted,7,0.94 [0.89-0.99],0.0226418343237394,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GGT1,Glutathione hydrolase 1 proenzyme,Inverse variance weighted,5,1.08 [1.01-1.16],0.0232173968436052,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CCL27,C-C motif chemokine 27,Inverse variance weighted,4,0.91 [0.84-0.99],0.0233231825584744,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,BST2,Bone marrow stromal antigen 2,Inverse variance weighted,2,1.15 [1.02-1.3],0.0244044024701007,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SFTPA2,Pulmonary surfactant-associated protein A2,Inverse variance weighted,8,1.03 [1-1.06],0.0260064957736585,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NUCB2,Nucleobindin-2,Inverse variance weighted,12,1.07 [1.01-1.14],0.0260545304757224,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GPR37,Prosaposin receptor GPR37,Inverse variance weighted,18,0.97 [0.94-1],0.0272961290085127,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GAS6,Growth arrest-specific protein 6,Inverse variance weighted,4,0.9 [0.81-0.99],0.0275956060386567,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,BSG,Basigin,Wald ratio,1,1.16 [1.02-1.33],0.0279343996008169,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,RTN4R,Reticulon-4 receptor,Inverse variance weighted,8,0.94 [0.9-0.99],0.0289869469771921,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LGMN,Legumain,Inverse variance weighted,9,1.07 [1.01-1.14],0.0297687985907155,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LILRA5,Leukocyte immunoglobulin-like receptor subfamily A member 5,Inverse variance weighted,2,0.85 [0.73-0.98],0.0297978871890471,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CANT1,Soluble calcium-activated nucleotidase 1,Inverse variance weighted,2,1.13 [1.01-1.25],0.0314313951722092,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TGFA,Protransforming growth factor alpha,Inverse variance weighted,2,0.85 [0.73-0.99],0.0321705358385751,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SPINK4,Serine protease inhibitor Kazal-type 4,Inverse variance weighted,20,0.97 [0.94-1],0.034261703680694,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CFHR2,Complement factor H-related protein 2,Inverse variance weighted,19,1.03 [1-1.06],0.0345913460792352,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,KAZALD1,Kazal-type serine protease inhibitor domain-containing protein 1,Inverse variance weighted,11,0.95 [0.9-1],0.0346014685124025,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SUSD5,Sushi domain-containing protein 5,Inverse variance weighted,12,0.96 [0.92-1],0.0347260499513262,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,VIT,Vitrin,Inverse variance weighted,11,1.04 [1-1.08],0.0360699791449177,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SIGLEC5,Sialic acid-binding Ig-like lectin 5,Inverse variance weighted,14,1.03 [1-1.06],0.0363236945643347,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,EGFL7,Epidermal growth factor-like protein 7,Inverse variance weighted,4,1.17 [1.01-1.37],0.0396425690514838,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GGT5,Glutathione hydrolase 5 proenzyme,Inverse variance weighted,15,1.05 [1-1.09],0.0402483888524703,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CFI,Complement factor I,Inverse variance weighted,5,1.1 [1-1.19],0.0409903095686861,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SERPINA1,Alpha-1-antitrypsin,Inverse variance weighted,4,0.9 [0.81-1],0.0420588047379909,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,HYAL1,Hyaluronidase-1,Inverse variance weighted,4,1.07 [1-1.14],0.0438396002534289,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,VAMP5,Vesicle-associated membrane protein 5,Inverse variance weighted,2,0.81 [0.66-1],0.0451069732693571,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CTSB,Cathepsin B,Inverse variance weighted,13,0.93 [0.87-1],0.0459075279191965,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CCL25,C-C motif chemokine 25,Inverse variance weighted,20,1.04 [1-1.09],0.0468597290994422,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,EPHA1,Ephrin type-A receptor 1,Inverse variance weighted,7,0.93 [0.86-1],0.047143818194828,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,RNASE4,Ribonuclease 4,Inverse variance weighted,8,1.06 [1-1.13],0.0489890611362062,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,REG3A,Regenerating islet-derived protein 3-alpha,Inverse variance weighted,10,1.07 [1-1.14],0.0494271557518551,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SLAMF1,Signaling lymphocytic activation molecule,Inverse variance weighted,2,1.15 [1-1.32],0.0502457205778323,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CLEC3B,Tetranectin,Inverse variance weighted,6,1.14 [1-1.3],0.0504127884304833,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SLC39A14,Zinc transporter ZIP14,Wald ratio,1,1.22 [1-1.49],0.0517883311504344,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CRTAC1,Cartilage acidic protein 1,Inverse variance weighted,21,1.04 [1-1.08],0.05413839396399,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LILRB1,Leukocyte immunoglobulin-like receptor subfamily B member 1,Inverse variance weighted,8,0.97 [0.94-1],0.0567189225850444,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,C1RL,Complement C1r subcomponent-like protein,Wald ratio,1,0.65 [0.41-1.01],0.0569187427151811,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PKD2,Polycystin-2,Inverse variance weighted,3,0.79 [0.62-1.01],0.0572193997151204,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,BAP18,Chromatin complexes subunit BAP18,Wald ratio,1,1.35 [0.98-1.85],0.0621338125818294,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD38,ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1,Inverse variance weighted,9,0.95 [0.89-1],0.0644195241857211,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CGREF1,Cell growth regulator with EF hand domain protein 1,Inverse variance weighted,21,0.97 [0.94-1],0.0693447848378381,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,HYOU1,Hypoxia up-regulated protein 1,Inverse variance weighted,5,1.09 [0.99-1.19],0.0717003109828172,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,COL24A1,Collagen alpha-1(XXIV) chain,Inverse variance weighted,4,0.88 [0.76-1.01],0.0732286708506537,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,AOC3,Membrane primary amine oxidase,Inverse variance weighted,13,0.96 [0.91-1],0.075523321004343,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TIMP4,Metalloproteinase inhibitor 4,Inverse variance weighted,12,0.96 [0.92-1],0.0765071382591321,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ACTA2,"Actin, aortic smooth muscle",Wald ratio,1,1.32 [0.97-1.81],0.0770805326749344,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,KLRD1,Natural killer cells antigen CD94,Inverse variance weighted,11,0.96 [0.92-1],0.0774375003044896,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ADAMTS4,A disintegrin and metalloproteinase with thrombospondin motifs 4,Wald ratio,1,1.16 [0.98-1.36],0.078217848276533,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PAM,Peptidyl-glycine alpha-amidating monooxygenase,Inverse variance weighted,13,1.03 [1-1.06],0.0803022532653927,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,VSIG2,V-set and immunoglobulin domain-containing protein 2,Inverse variance weighted,3,0.93 [0.85-1.01],0.0815376575781777,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CA3,Carbonic anhydrase 3,Inverse variance weighted,4,1.1 [0.99-1.22],0.0817473770246887,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ADAMTSL2,ADAMTS-like protein 2,Inverse variance weighted,2,1.27 [0.97-1.66],0.0831418320698719,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ICAM1,Intercellular adhesion molecule 1,Inverse variance weighted,10,0.93 [0.86-1.01],0.0834885682197034,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,RBP2,Retinol-binding protein 2,Wald ratio,1,1.29 [0.97-1.71],0.08368850990024,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FGR,Tyrosine-protein kinase Fgr,Inverse variance weighted,2,1.15 [0.98-1.35],0.0842806003797614,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NTRK3,NT-3 growth factor receptor,Inverse variance weighted,5,0.94 [0.87-1.01],0.0843470586652805,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NCR3LG1,Natural cytotoxicity triggering receptor 3 ligand 1,Inverse variance weighted,11,1.05 [0.99-1.1],0.084939809059458,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IGFBP3,Insulin-like growth factor-binding protein 3,Inverse variance weighted,17,1.04 [1-1.08],0.0855928851495851,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LY6D,Lymphocyte antigen 6D,Inverse variance weighted,10,0.96 [0.92-1.01],0.0858417187662411,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FOLR1,Folate receptor alpha,Inverse variance weighted,3,1.13 [0.98-1.3],0.0876617650442273,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,VMO1,Vitelline membrane outer layer protein 1 homolog,Inverse variance weighted,22,1.02 [1-1.05],0.0883640947713943,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FGL1,Fibrinogen-like protein 1,Inverse variance weighted,24,0.97 [0.94-1],0.0900602632995245,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PHLDB1,Pleckstrin homology-like domain family B member 1,Wald ratio,1,1.45 [0.94-2.25],0.0929413258103428,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ALDH3A1,"Aldehyde dehydrogenase, dimeric NADP-preferring",Inverse variance weighted,15,1.04 [0.99-1.08],0.0933681997187709,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FAM3B,Protein FAM3B,Inverse variance weighted,8,1.03 [0.99-1.07],0.0946472705929727,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,AMBP,Protein AMBP,Inverse variance weighted,3,1.13 [0.98-1.3],0.0959270715317854,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ADAM9,Disintegrin and metalloproteinase domain-containing protein 9,Inverse variance weighted,2,1.12 [0.98-1.28],0.0963410707834356,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,DPT,Dermatopontin,Inverse variance weighted,16,0.95 [0.89-1.01],0.0964318204787938,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ENPP6,Glycerophosphocholine cholinephosphodiesterase ENPP6,Inverse variance weighted,11,1.04 [0.99-1.09],0.0965825616303324,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IGFBPL1,Insulin-like growth factor-binding protein-like 1,Inverse variance weighted,14,0.97 [0.93-1.01],0.0991894650153644,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LILRB4,Leukocyte immunoglobulin-like receptor subfamily B member 4,Inverse variance weighted,12,1.06 [0.99-1.13],0.100351878163425,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ANGPT2,Angiopoietin-2,Inverse variance weighted,4,1.08 [0.99-1.18],0.101252082626724,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TGOLN2,Trans-Golgi network integral membrane protein 2,Inverse variance weighted,20,0.97 [0.94-1.01],0.104399159038673,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LTBP2,Latent-transforming growth factor beta-binding protein 2,Inverse variance weighted,5,0.9 [0.79-1.02],0.104635794599747,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SUOX,"Sulfite oxidase, mitochondrial",Wald ratio,1,0.71 [0.47-1.08],0.106014130241916,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CYTL1,Cytokine-like protein 1,Inverse variance weighted,7,1.02 [0.99-1.06],0.106244024619317,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CSF1,Macrophage colony-stimulating factor 1,Inverse variance weighted,3,1.08 [0.98-1.19],0.107316008142137,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NOS3,"Nitric oxide synthase, endothelial",Wald ratio,1,1.39 [0.93-2.08],0.109454112070813,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FKBP4,Peptidyl-prolyl cis-trans isomerase FKBP4,Wald ratio,1,0.74 [0.51-1.07],0.109592048434423,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SLITRK6,SLIT and NTRK-like protein 6,Inverse variance weighted,8,1.04 [0.99-1.09],0.11131416581241,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL17C,Interleukin-17C,Inverse variance weighted,3,0.89 [0.78-1.03],0.111321628518258,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ATOX1,Copper transport protein ATOX1,Wald ratio,1,1.24 [0.95-1.62],0.111647651887236,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IGLC2,Immunoglobulin lambda constant 2,Wald ratio,1,0.83 [0.66-1.04],0.113537967766002,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TFF3,Trefoil factor 3,Inverse variance weighted,3,0.88 [0.75-1.03],0.11382596896788,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ASAH1,Acid ceramidase,Inverse variance weighted,13,0.97 [0.94-1.01],0.116108547680063,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL22,Interleukin-22,Wald ratio,1,0.72 [0.48-1.09],0.117244882120488,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,COL4A1,Collagen alpha-1(IV) chain,Inverse variance weighted,4,1.08 [0.98-1.19],0.117429982610627,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,OLR1,Oxidized low-density lipoprotein receptor 1,Inverse variance weighted,2,0.81 [0.62-1.06],0.118052319591278,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CLGN,Calmegin,Inverse variance weighted,14,1.02 [0.99-1.06],0.118236804975571,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TIGAR,"Fructose-2,6-bisphosphatase TIGAR",Wald ratio,1,0.77 [0.55-1.07],0.120177717727008,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CA6,Carbonic anhydrase 6,Inverse variance weighted,17,1.03 [0.99-1.07],0.12238662907928,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL17RB,Interleukin-17 receptor B,Inverse variance weighted,17,0.97 [0.94-1.01],0.127925107155115,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ECHS1,"Enoyl-CoA hydratase, mitochondrial",Inverse variance weighted,2,1.21 [0.94-1.56],0.130091889701321,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ESAM,Endothelial cell-selective adhesion molecule,Wald ratio,1,1.11 [0.97-1.28],0.130549523976064,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SCGB3A2,Secretoglobin family 3A member 2,Inverse variance weighted,5,0.94 [0.86-1.02],0.131931950575417,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD1C,T-cell surface glycoprotein CD1c,Inverse variance weighted,3,0.86 [0.71-1.05],0.135782172022402,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD4,T-cell surface glycoprotein CD4,Inverse variance weighted,3,0.96 [0.91-1.01],0.136539284491952,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FSTL1,Follistatin-related protein 1,Inverse variance weighted,3,1.09 [0.97-1.23],0.137711400959776,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PLXNB2,Plexin-B2,Inverse variance weighted,13,1.02 [0.99-1.04],0.137952285931089,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SCRG1,Scrapie-responsive protein 1,Inverse variance weighted,3,1.2 [0.94-1.53],0.138529533845901,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,HPGDS,Hematopoietic prostaglandin D synthase,Inverse variance weighted,10,1.02 [0.99-1.06],0.138852501148309,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PALM,Paralemmin-1,Inverse variance weighted,5,1.07 [0.98-1.18],0.139847682478184,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ANGPTL1,Angiopoietin-related protein 1,Inverse variance weighted,6,0.96 [0.92-1.01],0.141285499652762,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFSF13,Tumor necrosis factor ligand superfamily member 13,Inverse variance weighted,3,0.93 [0.85-1.02],0.143605137586269,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,STC2,Stanniocalcin-2,Inverse variance weighted,2,0.82 [0.62-1.07],0.143906749361029,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MZB1,Marginal zone B- and B1-cell-specific protein,Wald ratio,1,1.33 [0.91-1.95],0.14407753402394,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL18R1,Interleukin-18 receptor 1,Inverse variance weighted,11,0.98 [0.95-1.01],0.146044578655884,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,HAVCR1,Hepatitis A virus cellular receptor 1,Inverse variance weighted,16,1.03 [0.99-1.08],0.147837919294492,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SELE,E-selectin,Inverse variance weighted,2,1.15 [0.95-1.4],0.152929310641932,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GPNMB,Transmembrane glycoprotein NMB,Inverse variance weighted,11,1.03 [0.99-1.07],0.153229873408116,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PDCD1LG2,Programmed cell death 1 ligand 2,Inverse variance weighted,15,0.97 [0.92-1.01],0.157190776957989,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SMOC1,SPARC-related modular calcium-binding protein 1,Inverse variance weighted,9,0.96 [0.91-1.02],0.159787409735899,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PROS1,Vitamin K-dependent protein S,Wald ratio,1,0.74 [0.49-1.13],0.160207626645662,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MAMDC2,MAM domain-containing protein 2,Inverse variance weighted,3,1.1 [0.96-1.24],0.160553790250007,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CEACAM5,Carcinoembryonic antigen-related cell adhesion molecule 5,Inverse variance weighted,3,1.04 [0.99-1.09],0.16177170658614,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,DPP10,Inactive dipeptidyl peptidase 10,Inverse variance weighted,6,1.05 [0.98-1.11],0.161789344014839,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MARCO,Macrophage receptor MARCO,Inverse variance weighted,7,1.09 [0.97-1.22],0.163152840897025,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MMP12,Macrophage metalloelastase,Inverse variance weighted,15,1.02 [0.99-1.06],0.165629088396693,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LAIR2,Leukocyte-associated immunoglobulin-like receptor 2,Inverse variance weighted,15,0.97 [0.93-1.01],0.166505858332221,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,WFDC2,WAP four-disulfide core domain protein 2,Wald ratio,1,1.19 [0.93-1.53],0.167960560940229,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,HSPG2,Basement membrane-specific heparan sulfate proteoglycan core protein,Inverse variance weighted,5,0.91 [0.8-1.04],0.16823242991832,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PGA4,Pepsin A-4,Inverse variance weighted,2,0.79 [0.56-1.11],0.170131527325155,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFRSF11B,Tumor necrosis factor receptor superfamily member 11B,Inverse variance weighted,8,0.93 [0.84-1.03],0.172661038186368,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ITGAV,Integrin alpha-V,Inverse variance weighted,5,0.93 [0.83-1.03],0.172856707563411,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PYY,Peptide YY,Inverse variance weighted,3,0.95 [0.87-1.02],0.173471213178117,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,S100P,Protein S100-P,Wald ratio,1,1.27 [0.9-1.78],0.175350008904023,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MFAP4,Microfibril-associated glycoprotein 4,Inverse variance weighted,2,1.09 [0.96-1.23],0.175447234689412,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ST6GAL1,"Beta-galactoside alpha-2,6-sialyltransferase 1",Inverse variance weighted,5,0.94 [0.85-1.03],0.176980932519144,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFRSF11A,Tumor necrosis factor receptor superfamily member 11A,Inverse variance weighted,13,0.97 [0.94-1.01],0.177396019425162,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MSTN,Growth/differentiation factor 8,Wald ratio,1,1.3 [0.89-1.92],0.177485419135677,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CA5A,"Carbonic anhydrase 5A, mitochondrial",Inverse variance weighted,10,0.95 [0.88-1.02],0.177814911932084,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ENPP2,Ectonucleotide pyrophosphatase/phosphodiesterase family member 2,Inverse variance weighted,12,1.05 [0.98-1.13],0.178024177009454,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LRIG1,Leucine-rich repeats and immunoglobulin-like domains protein 1,Inverse variance weighted,13,1.03 [0.99-1.07],0.178390350241766,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,RSPO3,R-spondin-3,Inverse variance weighted,3,0.93 [0.84-1.03],0.179057648787754,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,EFHD1,EF-hand domain-containing protein D1,Inverse variance weighted,7,1.06 [0.98-1.14],0.179623553977474,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CSF3R,Granulocyte colony-stimulating factor receptor,Inverse variance weighted,4,0.95 [0.89-1.02],0.182490884315461,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SNCG,Gamma-synuclein,Inverse variance weighted,13,0.97 [0.93-1.01],0.183480926044514,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PCSK9,Proprotein convertase subtilisin/kexin type 9,Inverse variance weighted,4,0.96 [0.91-1.02],0.184794554372537,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SEZ6,Seizure protein 6 homolog,Inverse variance weighted,2,1.18 [0.92-1.5],0.185031282682236,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,EDIL3,EGF-like repeat and discoidin I-like domain-containing protein 3,Wald ratio,1,1.36 [0.86-2.16],0.185396504914329,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PNLIPRP1,Inactive pancreatic lipase-related protein 1,Inverse variance weighted,4,1.09 [0.96-1.25],0.185525221859978,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ECHDC3,"Enoyl-CoA hydratase domain-containing protein 3, mitochondrial",Inverse variance weighted,15,0.98 [0.94-1.01],0.188410763872966,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ORM1,Alpha-1-acid glycoprotein 1,Inverse variance weighted,14,0.97 [0.93-1.01],0.188498734598856,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TPP1,Tripeptidyl-peptidase 1,Inverse variance weighted,3,1.09 [0.96-1.24],0.190257109922076,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TXNDC5,Thioredoxin domain-containing protein 5,Inverse variance weighted,2,1.23 [0.9-1.68],0.191166344560386,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,WFDC12,WAP four-disulfide core domain protein 12,Inverse variance weighted,8,0.97 [0.93-1.01],0.19264574398273,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TCN2,Transcobalamin-2,Inverse variance weighted,18,0.97 [0.94-1.01],0.192982343246576,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TREM2,Triggering receptor expressed on myeloid cells 2,Inverse variance weighted,2,1.17 [0.92-1.47],0.193153836929154,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FAM3C,Protein FAM3C,Inverse variance weighted,2,1.15 [0.93-1.41],0.194105802427121,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FURIN,Furin,Wald ratio,1,0.93 [0.84-1.04],0.195906932368036,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MANSC4,MANSC domain-containing protein 4,Inverse variance weighted,13,0.98 [0.94-1.01],0.196774388156789,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SELENOP,Selenoprotein P,Inverse variance weighted,2,1.12 [0.94-1.32],0.19680616938321,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,EGLN1,Egl nine homolog 1,Inverse variance weighted,3,1.08 [0.96-1.23],0.197056153031527,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,REG1B,Lithostathine-1-beta,Inverse variance weighted,10,0.97 [0.92-1.02],0.197913376365739,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LSP1,Lymphocyte-specific protein 1,Inverse variance weighted,5,1.07 [0.96-1.19],0.199123519977804,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SPOCK1,Testican-1,Inverse variance weighted,3,1.11 [0.95-1.29],0.199140599669833,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CTSS,Cathepsin S,Inverse variance weighted,14,0.97 [0.93-1.01],0.199232594567321,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,DSG2,Desmoglein-2,Inverse variance weighted,6,1.05 [0.97-1.13],0.199252142782941,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD48,CD48 antigen,Inverse variance weighted,7,0.96 [0.91-1.02],0.200126245093532,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CCN4,CCN family member 4,Inverse variance weighted,14,1.03 [0.99-1.07],0.200230605598928,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PKD1,Polycystin-1,Inverse variance weighted,5,0.94 [0.87-1.03],0.200548765325454,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CTHRC1,Collagen triple helix repeat-containing protein 1,Wald ratio,1,0.72 [0.43-1.2],0.201506798562144,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LAYN,Layilin,Inverse variance weighted,12,0.97 [0.92-1.02],0.202667144580774,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LAG3,Lymphocyte activation gene 3 protein,Inverse variance weighted,2,0.86 [0.68-1.09],0.20366481154885,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ACAA1,"3-ketoacyl-CoA thiolase, peroxisomal",Inverse variance weighted,3,1.11 [0.95-1.3],0.204666892931732,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,C1QTNF5,Complement C1q tumor necrosis factor-related protein 5,Wald ratio,1,0.9 [0.76-1.06],0.204710633221476,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NELL1,Protein kinase C-binding protein NELL1,Inverse variance weighted,5,1.03 [0.98-1.08],0.204755939239497,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL18,Interleukin-18,Inverse variance weighted,9,0.89 [0.75-1.06],0.205116110593073,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SLURP1,Secreted Ly-6/uPAR-related protein 1,Inverse variance weighted,10,0.97 [0.92-1.02],0.205990344675202,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,AHNAK,Neuroblast differentiation-associated protein AHNAK,Inverse variance weighted,2,0.93 [0.83-1.04],0.207831941013862,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LUZP2,Leucine zipper protein 2,Inverse variance weighted,7,1.05 [0.97-1.13],0.208258895888537,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MEP1B,Meprin A subunit beta,Inverse variance weighted,21,1.01 [0.99-1.04],0.208818346907934,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PVR,Poliovirus receptor,Inverse variance weighted,13,1.02 [0.99-1.05],0.209488756103231,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,THBS2,Thrombospondin-2,Inverse variance weighted,12,0.97 [0.93-1.02],0.212749537810624,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GRN,Progranulin,Inverse variance weighted,4,0.95 [0.88-1.03],0.212814769316304,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CCDC80,Coiled-coil domain-containing protein 80,Inverse variance weighted,3,0.88 [0.72-1.08],0.213380910693553,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PCDH17,Protocadherin-17,Inverse variance weighted,2,0.87 [0.69-1.09],0.213538009020106,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CBLN4,Cerebellin-4,Inverse variance weighted,9,0.96 [0.9-1.02],0.217033902645987,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NRP2,Neuropilin-2,Inverse variance weighted,10,1.05 [0.97-1.14],0.21741994778941,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ALCAM,CD166 antigen,Inverse variance weighted,4,1.08 [0.96-1.22],0.218112621280373,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ACP5,Tartrate-resistant acid phosphatase type 5,Inverse variance weighted,11,0.97 [0.93-1.02],0.218127724658361,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,BPIFB2,BPI fold-containing family B member 2,Inverse variance weighted,10,1.03 [0.98-1.08],0.218973657282837,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TCN1,Transcobalamin-1,Inverse variance weighted,15,0.98 [0.95-1.01],0.22101236159684,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TAFA5,Chemokine-like protein TAFA-5,Inverse variance weighted,8,1.05 [0.97-1.15],0.221407374181161,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,YAP1,Transcriptional coactivator YAP1,Wald ratio,1,0.83 [0.61-1.12],0.222359609897104,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,EZR,Ezrin,Inverse variance weighted,2,0.81 [0.58-1.13],0.222693227079889,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ADAM15,Disintegrin and metalloproteinase domain-containing protein 15,Inverse variance weighted,12,0.98 [0.96-1.01],0.223688027760705,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PRSS8,Prostasin,Inverse variance weighted,4,0.91 [0.79-1.06],0.224880590905653,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GRP,Gastrin-releasing peptide,Inverse variance weighted,9,0.97 [0.93-1.02],0.22650476681597,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,BCAM,Basal cell adhesion molecule,Inverse variance weighted,7,1.06 [0.97-1.15],0.226629782334004,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CCL21,C-C motif chemokine 21,Inverse variance weighted,2,0.87 [0.7-1.09],0.227298868724228,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,HJV,Hemojuvelin,Wald ratio,1,1.08 [0.95-1.23],0.227306794008975,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,WNT9A,Protein Wnt-9a,Inverse variance weighted,2,0.8 [0.56-1.15],0.228587576995905,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MME,Neprilysin,Inverse variance weighted,3,1.14 [0.92-1.4],0.229397785897959,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MAPK13,Mitogen-activated protein kinase 13,Wald ratio,1,0.83 [0.6-1.13],0.230542988294634,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IDUA,Alpha-L-iduronidase,Inverse variance weighted,10,1.04 [0.97-1.12],0.23166070017489,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SBSN,Suprabasin,Inverse variance weighted,9,0.97 [0.91-1.02],0.232417384825099,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MFGE8,Lactadherin,Inverse variance weighted,7,0.94 [0.84-1.04],0.232738050967114,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ANGPTL4,Angiopoietin-related protein 4,Inverse variance weighted,4,1.04 [0.98-1.11],0.23334746571775,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,STAB2,Stabilin-2,Inverse variance weighted,12,0.98 [0.94-1.02],0.238947968593578,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,AFP,Alpha-fetoprotein,Inverse variance weighted,5,0.95 [0.88-1.03],0.242545452599393,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CXCL9,C-X-C motif chemokine 9,Inverse variance weighted,2,1.08 [0.95-1.24],0.243844136831924,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SCGB3A1,Secretoglobin family 3A member 1,Inverse variance weighted,2,1.09 [0.94-1.25],0.24393343999971,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IGFBP1,Insulin-like growth factor-binding protein 1,Wald ratio,1,1.28 [0.85-1.93],0.244576365865339,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,OMG,Oligodendrocyte-myelin glycoprotein,Wald ratio,1,1.14 [0.92-1.41],0.246397693023989,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,RNASE10,Inactive ribonuclease-like protein 10,Inverse variance weighted,7,0.97 [0.92-1.02],0.246909496181035,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CX3CL1,Fractalkine,Inverse variance weighted,5,0.89 [0.72-1.09],0.247626906964539,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,EFNA1,Ephrin-A1,Inverse variance weighted,8,1.05 [0.97-1.13],0.248899383133418,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MDK,Midkine,Inverse variance weighted,3,1.1 [0.94-1.28],0.249124765660073,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CDH3,Cadherin-3,Wald ratio,1,0.86 [0.67-1.11],0.250089335924417,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LGALS3BP,Galectin-3-binding protein,Inverse variance weighted,5,0.94 [0.85-1.04],0.250421685997508,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GCHFR,GTP cyclohydrolase 1 feedback regulatory protein,Wald ratio,1,1.17 [0.89-1.54],0.250573997264605,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ERMAP,Erythroid membrane-associated protein,Inverse variance weighted,2,0.91 [0.78-1.07],0.250945821016277,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CLEC14A,C-type lectin domain family 14 member A,Wald ratio,1,1.14 [0.91-1.44],0.252543272167573,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SCPEP1,Retinoid-inducible serine carboxypeptidase,Inverse variance weighted,4,1.11 [0.93-1.33],0.253089947417282,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CCL17,C-C motif chemokine 17,Inverse variance weighted,5,1.07 [0.95-1.19],0.253337916099563,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PALM2,Paralemmin-2,Inverse variance weighted,8,0.96 [0.89-1.03],0.254510166304887,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CLSTN2,Calsyntenin-2,Inverse variance weighted,15,1.02 [0.98-1.07],0.254910252129831,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,OSMR,Oncostatin-M-specific receptor subunit beta,Inverse variance weighted,18,1.02 [0.99-1.05],0.25570634971904,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,RSPO1,R-spondin-1,Inverse variance weighted,4,0.95 [0.86-1.04],0.256352844039433,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NOMO1,Nodal modulator 1,Wald ratio,1,0.9 [0.75-1.08],0.26551189501249,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CEACAM1,Carcinoembryonic antigen-related cell adhesion molecule 1,Inverse variance weighted,4,0.92 [0.79-1.07],0.268049484120855,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TTR,Transthyretin,Inverse variance weighted,2,0.92 [0.79-1.07],0.268754106145648,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,HNMT,Histamine N-methyltransferase,Inverse variance weighted,12,1.02 [0.99-1.05],0.269906811248298,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SCG3,Secretogranin-3,Inverse variance weighted,22,0.98 [0.95-1.02],0.271289896836744,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,VCAM1,Vascular cell adhesion protein 1,Inverse variance weighted,2,0.89 [0.73-1.09],0.273205323051535,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LILRB2,Leukocyte immunoglobulin-like receptor subfamily B member 2,Inverse variance weighted,13,0.99 [0.96-1.01],0.273953346410531,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CFH,Complement factor H,Inverse variance weighted,6,1.04 [0.97-1.12],0.274384761702225,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SCARB2,Lysosome membrane protein 2,Inverse variance weighted,7,1.04 [0.97-1.11],0.274393043919026,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,S100A12,Protein S100-A12,Inverse variance weighted,2,0.95 [0.87-1.04],0.275879190484184,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LGALS4,Galectin-4,Inverse variance weighted,3,1.08 [0.94-1.25],0.27807945170519,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ADGRD1,Adhesion G-protein coupled receptor D1,Inverse variance weighted,10,0.97 [0.92-1.02],0.27815521895806,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD200,OX-2 membrane glycoprotein,Inverse variance weighted,7,0.95 [0.87-1.04],0.28284842352529,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GRPEL1,"GrpE protein homolog 1, mitochondrial",Wald ratio,1,0.79 [0.52-1.21],0.284279866072672,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FLRT2,Leucine-rich repeat transmembrane protein FLRT2,Inverse variance weighted,12,0.97 [0.91-1.03],0.284931684359962,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD300LG,CMRF35-like molecule 9,Inverse variance weighted,5,1.05 [0.96-1.13],0.286243885757034,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CRTAM,Cytotoxic and regulatory T-cell molecule,Inverse variance weighted,6,1.03 [0.98-1.08],0.286283617237395,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL19,Interleukin-19,Inverse variance weighted,7,0.96 [0.89-1.03],0.286670208493372,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FABP2,"Fatty acid-binding protein, intestinal",Inverse variance weighted,4,0.96 [0.88-1.04],0.287381855977324,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CCL3,C-C motif chemokine 3,Inverse variance weighted,6,0.97 [0.92-1.03],0.288736070126826,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FCN1,Ficolin-1,Inverse variance weighted,9,0.96 [0.89-1.03],0.289501245466349,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,DKK4,Dickkopf-related protein 4,Inverse variance weighted,3,0.94 [0.85-1.05],0.289609157823367,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,HMOX2,Heme oxygenase 2,Inverse variance weighted,3,0.91 [0.76-1.08],0.292256049367503,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,OGFR,Opioid growth factor receptor,Wald ratio,1,1.14 [0.89-1.45],0.292274165174345,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MET,Hepatocyte growth factor receptor,Inverse variance weighted,5,1.09 [0.93-1.28],0.293432789630524,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL2RA,Interleukin-2 receptor subunit alpha,Inverse variance weighted,5,1.07 [0.94-1.21],0.295584252469451,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,QSOX1,Sulfhydryl oxidase 1,Inverse variance weighted,10,0.98 [0.94-1.02],0.2982875763906,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,HEG1,Protein HEG homolog 1,Inverse variance weighted,3,1.1 [0.92-1.3],0.298914135390023,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL15RA,Interleukin-15 receptor subunit alpha,Inverse variance weighted,6,0.97 [0.91-1.03],0.301782173515726,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,COLEC12,Collectin-12,Inverse variance weighted,7,0.94 [0.82-1.06],0.303017178210025,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,POMC,Pro-opiomelanocortin,Wald ratio,1,0.87 [0.67-1.13],0.306465789317257,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,AGRN,Agrin,Inverse variance weighted,6,0.96 [0.89-1.04],0.306767684771393,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,RRM2,Ribonucleoside-diphosphate reductase subunit M2,Wald ratio,1,1.25 [0.82-1.9],0.307346572980512,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,STX8,Syntaxin-8,Wald ratio,1,0.89 [0.72-1.11],0.307681496294994,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SNED1,"Sushi, nidogen and EGF-like domain-containing protein 1",Inverse variance weighted,3,1.13 [0.89-1.43],0.309476017334897,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,VEGFA,Vascular endothelial growth factor A,Inverse variance weighted,13,1.03 [0.97-1.1],0.310085315924662,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LAMP3,Lysosome-associated membrane glycoprotein 3,Inverse variance weighted,3,0.9 [0.74-1.1],0.314122342247621,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL32,Interleukin-32,Inverse variance weighted,6,1.04 [0.97-1.11],0.314514180464578,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LRIG3,Leucine-rich repeats and immunoglobulin-like domains protein 3,Wald ratio,1,0.88 [0.68-1.13],0.319332354896105,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,DBI,Acyl-CoA-binding protein,Inverse variance weighted,7,1.03 [0.97-1.09],0.319788349214927,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,DNER,Delta and Notch-like epidermal growth factor-related receptor,Inverse variance weighted,4,0.95 [0.87-1.05],0.320423022194775,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFRSF13B,Tumor necrosis factor receptor superfamily member 13B,Inverse variance weighted,2,1.08 [0.92-1.27],0.322836457798204,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,DTX3,Probable E3 ubiquitin-protein ligase DTX3,Inverse variance weighted,3,0.92 [0.77-1.09],0.323548086902803,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ATRAID,All-trans retinoic acid-induced differentiation factor,Inverse variance weighted,3,0.92 [0.78-1.08],0.324324275399942,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CCL22,C-C motif chemokine 22,Inverse variance weighted,3,0.95 [0.85-1.06],0.324342168581084,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MSMB,Beta-microseminoprotein,Inverse variance weighted,31,0.98 [0.95-1.02],0.325412822091954,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PON3,Serum paraoxonase/lactonase 3,Inverse variance weighted,4,0.97 [0.91-1.03],0.325794897758612,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,RGMB,RGM domain family member B,Inverse variance weighted,6,1.05 [0.95-1.16],0.330941119117366,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,DCBLD2,"Discoidin, CUB and LCCL domain-containing protein 2",Inverse variance weighted,7,0.97 [0.92-1.03],0.33123118747306,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ANXA10,Annexin A10,Wald ratio,1,1.21 [0.83-1.76],0.331423677903834,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LAMA4,Laminin subunit alpha-4,Inverse variance weighted,2,1.06 [0.95-1.18],0.331461613032059,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LAIR1,Leukocyte-associated immunoglobulin-like receptor 1,Inverse variance weighted,13,0.98 [0.94-1.02],0.331735086327408,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ROBO4,Roundabout homolog 4,Wald ratio,1,0.9 [0.73-1.12],0.333960290261633,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,KLK11,Kallikrein-11,Inverse variance weighted,2,1.04 [0.96-1.13],0.334549602583979,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL10RB,Interleukin-10 receptor subunit beta,Inverse variance weighted,14,1.03 [0.97-1.11],0.337103744175345,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NPL,N-acetylneuraminate lyase,Inverse variance weighted,4,1.04 [0.96-1.14],0.337236349464521,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LPCAT2,Lysophosphatidylcholine acyltransferase 2,Wald ratio,1,1.09 [0.91-1.3],0.337732280600344,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TYMP,Thymidine phosphorylase,Inverse variance weighted,4,0.96 [0.87-1.05],0.339613011345096,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,APOC1,Apolipoprotein C-I,Inverse variance weighted,6,0.95 [0.84-1.06],0.339858789014855,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL12B,Interleukin-12 subunit beta,Inverse variance weighted,13,0.98 [0.94-1.02],0.3412104456565,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NCR1,Natural cytotoxicity triggering receptor 1,Inverse variance weighted,3,1.03 [0.97-1.1],0.341318240532742,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD300E,CMRF35-like molecule 2,Inverse variance weighted,7,1.03 [0.97-1.09],0.341715163145369,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IFNGR1,Interferon gamma receptor 1,Inverse variance weighted,4,0.95 [0.86-1.05],0.34218357218062,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CA12,Carbonic anhydrase 12,Inverse variance weighted,9,1.03 [0.97-1.1],0.342732749028792,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CTSZ,Cathepsin Z,Wald ratio,1,1.26 [0.78-2.05],0.342825933756882,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PTS,6-pyruvoyl tetrahydrobiopterin synthase,Inverse variance weighted,2,1.05 [0.95-1.15],0.344188049454636,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD164,Sialomucin core protein 24,Inverse variance weighted,3,1.08 [0.92-1.27],0.344202186900437,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FSTL3,Follistatin-related protein 3,Inverse variance weighted,3,0.91 [0.75-1.11],0.34426573993996,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SSC5D,Soluble scavenger receptor cysteine-rich domain-containing protein SSC5D,Inverse variance weighted,11,1.02 [0.97-1.08],0.347463585570501,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,KIR2DL3,Killer cell immunoglobulin-like receptor 2DL3,Inverse variance weighted,5,1.04 [0.96-1.12],0.347650716275514,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,APBB1IP,Amyloid beta A4 precursor protein-binding family B member 1-interacting protein,Inverse variance weighted,2,0.96 [0.88-1.05],0.349004974382419,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PGF,Placenta growth factor,Inverse variance weighted,2,1.27 [0.77-2.1],0.349971793437241,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SIAE,Sialate O-acetylesterase,Wald ratio,1,1.04 [0.95-1.14],0.351324535498329,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SCARF1,Scavenger receptor class F member 1,Inverse variance weighted,5,1.03 [0.97-1.09],0.351682593056052,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LY9,T-lymphocyte surface antigen Ly-9,Inverse variance weighted,9,0.98 [0.93-1.03],0.353215200660679,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD28,T-cell-specific surface glycoprotein CD28,Inverse variance weighted,5,0.96 [0.88-1.05],0.353679260373054,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SEMA3F,Semaphorin-3F,Inverse variance weighted,3,0.92 [0.76-1.1],0.355050567862059,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,OSCAR,Osteoclast-associated immunoglobulin-like receptor,Inverse variance weighted,13,0.99 [0.96-1.02],0.355996872189773,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL5RA,Interleukin-5 receptor subunit alpha,Inverse variance weighted,13,0.98 [0.93-1.03],0.356012510585111,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CTSH,Pro-cathepsin H,Inverse variance weighted,14,0.99 [0.96-1.02],0.357134593753279,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TMPRSS11D,Transmembrane protease serine 11D,Inverse variance weighted,3,0.92 [0.77-1.1],0.358784578515937,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,EGFR,Epidermal growth factor receptor,Inverse variance weighted,8,0.96 [0.88-1.05],0.359201517565046,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ADGRE2,Adhesion G protein-coupled receptor E2,Inverse variance weighted,9,0.98 [0.93-1.03],0.359655244010006,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FGA,Fibrinogen alpha chain,Inverse variance weighted,2,0.94 [0.82-1.08],0.360483256014753,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MMP8,Neutrophil collagenase,Inverse variance weighted,11,1.02 [0.98-1.06],0.360664744305728,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CHCHD10,"Coiled-coil-helix-coiled-coil-helix domain-containing protein 10, mitochondrial",Inverse variance weighted,2,0.87 [0.64-1.18],0.361821530844796,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SPON2,Spondin-2,Inverse variance weighted,4,1.04 [0.96-1.13],0.362148360063399,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CNTN5,Contactin-5,Inverse variance weighted,19,0.98 [0.95-1.02],0.363858538709184,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SEZ6L2,Seizure 6-like protein 2,Inverse variance weighted,4,1.1 [0.9-1.34],0.364261644646419,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LCN15,Lipocalin-15,Inverse variance weighted,6,1.02 [0.98-1.06],0.367712823159686,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,RBP7,Retinoid-binding protein 7,Inverse variance weighted,4,0.93 [0.8-1.09],0.36876688823276,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PRRT3,Proline-rich transmembrane protein 3,Wald ratio,1,1.07 [0.92-1.26],0.370238172875702,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LAMB1,Laminin subunit beta-1,Inverse variance weighted,22,1.01 [0.98-1.05],0.371383435249519,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD46,Membrane cofactor protein,Wald ratio,1,0.91 [0.73-1.12],0.371909809337916,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PRSS27,Serine protease 27,Inverse variance weighted,5,0.93 [0.8-1.09],0.374102828959155,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ENPP7,Ectonucleotide pyrophosphatase/phosphodiesterase family member 7,Inverse variance weighted,9,1.03 [0.96-1.1],0.375304922554376,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CSPG4,Chondroitin sulfate proteoglycan 4,Wald ratio,1,1.08 [0.91-1.27],0.376461385234416,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MMP3,Stromelysin-1,Inverse variance weighted,16,0.98 [0.94-1.03],0.378551280862936,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,RARRES2,Retinoic acid receptor responder protein 2,Inverse variance weighted,2,0.94 [0.81-1.08],0.382132283404485,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PTPRN2,Receptor-type tyrosine-protein phosphatase N2,Inverse variance weighted,6,0.96 [0.87-1.06],0.382693040150506,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,HGF,Hepatocyte growth factor,Inverse variance weighted,2,0.92 [0.77-1.11],0.384234226985553,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CLEC11A,C-type lectin domain family 11 member A,Wald ratio,1,0.97 [0.91-1.04],0.385593427424762,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FBLN2,Fibulin-2,Inverse variance weighted,3,0.97 [0.89-1.04],0.387690046157727,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CST3,Cystatin-C,Inverse variance weighted,7,1.04 [0.95-1.14],0.387696630420224,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MTUS1,Microtubule-associated tumor suppressor 1,Inverse variance weighted,4,1.04 [0.95-1.14],0.389078019965369,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFSF13B,Tumor necrosis factor ligand superfamily member 13B,Inverse variance weighted,5,1.05 [0.94-1.16],0.391157114666146,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,AGXT,Serine--pyruvate aminotransferase,Inverse variance weighted,7,1.03 [0.97-1.09],0.391291450151183,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GPRC5C,G-protein coupled receptor family C group 5 member C,Wald ratio,1,1.08 [0.91-1.27],0.39163227318511,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,INSL4,Early placenta insulin-like peptide,Inverse variance weighted,2,0.95 [0.85-1.07],0.392194840851121,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,A1BG,Alpha-1B-glycoprotein,Inverse variance weighted,4,0.94 [0.82-1.08],0.394109175499753,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,DPY30,Protein dpy-30 homolog,Wald ratio,1,1.15 [0.83-1.61],0.394180735854419,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PRTN3,Myeloblastin,Inverse variance weighted,8,0.96 [0.87-1.05],0.394366638937766,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFSF8,Tumor necrosis factor ligand superfamily member 8,Inverse variance weighted,3,0.97 [0.89-1.05],0.395363291533297,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ADAMTS16,A disintegrin and metalloproteinase with thrombospondin motifs 16,Inverse variance weighted,7,0.96 [0.87-1.06],0.400778534484466,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD83,CD83 antigen,Inverse variance weighted,5,0.94 [0.83-1.08],0.401541163288894,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SMOC2,SPARC-related modular calcium-binding protein 2,Inverse variance weighted,10,0.98 [0.93-1.03],0.401784517562961,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,EPHA2,Ephrin type-A receptor 2,Inverse variance weighted,3,0.95 [0.85-1.07],0.403108633302309,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ADAM8,Disintegrin and metalloproteinase domain-containing protein 8,Inverse variance weighted,6,1.03 [0.96-1.11],0.404783007196864,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CCN3,CCN family member 3,Inverse variance weighted,13,0.98 [0.92-1.03],0.408125315168399,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PLA2G2A,"Phospholipase A2, membrane associated",Inverse variance weighted,6,1.02 [0.97-1.07],0.411311399375391,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ROR1,Inactive tyrosine-protein kinase transmembrane receptor ROR1,Inverse variance weighted,7,0.98 [0.92-1.03],0.412206237941099,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,COL18A1,Collagen alpha-1(XVIII) chain,Inverse variance weighted,8,0.97 [0.9-1.04],0.412400831193092,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ITGA5,Integrin alpha-5,Wald ratio,1,0.85 [0.58-1.25],0.413925282301001,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD300A,CMRF35-like molecule 8,Inverse variance weighted,3,1.03 [0.97-1.09],0.413947512643381,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PDCD5,Programmed cell death protein 5,Inverse variance weighted,11,0.98 [0.93-1.03],0.414564188354776,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CTSC,Dipeptidyl peptidase 1,Inverse variance weighted,22,0.99 [0.96-1.02],0.416166187546083,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ASGR2,Asialoglycoprotein receptor 2,Inverse variance weighted,7,1.03 [0.96-1.11],0.416483213060126,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ITGA11,Integrin alpha-11,Inverse variance weighted,6,1.03 [0.96-1.11],0.416942029369695,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CEACAM20,Carcinoembryonic antigen-related cell adhesion molecule 20,Inverse variance weighted,3,1.05 [0.94-1.17],0.418486600247951,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LRRC38,Leucine-rich repeat-containing protein 38,Inverse variance weighted,6,0.98 [0.92-1.03],0.41897442425132,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PLAUR,Urokinase plasminogen activator surface receptor,Inverse variance weighted,2,0.95 [0.85-1.07],0.420438280479472,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FABP1,"Fatty acid-binding protein, liver",Inverse variance weighted,3,0.97 [0.89-1.05],0.422212525663423,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD14,Monocyte differentiation antigen CD14,Inverse variance weighted,8,1.03 [0.96-1.09],0.425430926556019,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CTSE,Cathepsin E,Inverse variance weighted,7,0.98 [0.94-1.03],0.426504240973929,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GUCA2A,Guanylin,Inverse variance weighted,4,0.97 [0.89-1.05],0.426943332280169,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,INSL5,Insulin-like peptide INSL5,Inverse variance weighted,2,0.93 [0.78-1.11],0.428157041984117,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GFER,FAD-linked sulfhydryl oxidase ALR,Wald ratio,1,0.89 [0.67-1.18],0.42881874716005,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,UMOD,Uromodulin,Inverse variance weighted,18,1.01 [0.98-1.04],0.429155800093101,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,BCL2,Apoptosis regulator Bcl-2,Wald ratio,1,1.17 [0.79-1.72],0.429893650357435,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFSF11,Tumor necrosis factor ligand superfamily member 11,Wald ratio,1,0.93 [0.79-1.11],0.431695731713561,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,C1QA,Complement C1q subcomponent subunit A,Inverse variance weighted,7,0.98 [0.92-1.04],0.433591054292687,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CRHBP,Corticotropin-releasing factor-binding protein,Inverse variance weighted,18,0.99 [0.95-1.02],0.434348936872779,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GBP1,Guanylate-binding protein 1,Inverse variance weighted,8,0.98 [0.93-1.03],0.436267841799487,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SLAMF8,SLAM family member 8,Inverse variance weighted,14,1.01 [0.99-1.03],0.436634629098088,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CALB2,Calretinin,Wald ratio,1,1.13 [0.83-1.53],0.437213615408966,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CXCL10,C-X-C motif chemokine 10,Wald ratio,1,0.9 [0.68-1.18],0.438169746254953,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ITIH3,Inter-alpha-trypsin inhibitor heavy chain H3,Inverse variance weighted,8,1.02 [0.97-1.08],0.439261489999057,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CLEC7A,C-type lectin domain family 7 member A,Inverse variance weighted,10,0.99 [0.95-1.02],0.440833838881121,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NRCAM,Neuronal cell adhesion molecule,Inverse variance weighted,13,0.98 [0.94-1.03],0.441578054444773,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,COL5A1,Collagen alpha-1(V) chain,Inverse variance weighted,6,0.96 [0.88-1.06],0.441730810039755,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FAS,Tumor necrosis factor receptor superfamily member 6,Inverse variance weighted,8,0.98 [0.92-1.04],0.444929626359488,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CGA,Glycoprotein hormones alpha chain,Wald ratio,1,1.24 [0.72-2.14],0.447320273861113,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,C9,Complement component C9,Inverse variance weighted,2,1.07 [0.9-1.27],0.450379351204704,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TIMD4,T-cell immunoglobulin and mucin domain-containing protein 4,Inverse variance weighted,11,0.97 [0.91-1.04],0.451857409960753,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,RNF149,E3 ubiquitin-protein ligase RNF149,Inverse variance weighted,5,0.97 [0.9-1.05],0.453387121542289,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,VWC2,Brorin,Inverse variance weighted,15,1.02 [0.97-1.07],0.453561988757425,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LMOD1,Leiomodin-1,Inverse variance weighted,5,0.94 [0.8-1.1],0.456920439073207,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,VEGFB,Vascular endothelial growth factor B,Inverse variance weighted,3,1.06 [0.91-1.24],0.457382987002242,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NID1,Nidogen-1,Inverse variance weighted,4,0.95 [0.83-1.09],0.458258056345131,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CEACAM16,Carcinoembryonic antigen-related cell adhesion molecule 16,Inverse variance weighted,13,1.01 [0.98-1.05],0.458713161503947,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ST3GAL1,"CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase 1",Inverse variance weighted,3,0.97 [0.9-1.05],0.45932946209425,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ANXA5,Annexin A5,Wald ratio,1,1.07 [0.9-1.28],0.460628095098841,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,AHNAK2,Protein AHNAK2,Inverse variance weighted,3,1.03 [0.95-1.12],0.46236309483825,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CHGB,Secretogranin-1,Inverse variance weighted,17,1.02 [0.97-1.08],0.462546952515128,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SOD2,"Superoxide dismutase [Mn], mitochondrial",Inverse variance weighted,3,1.08 [0.88-1.32],0.464570869463846,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD207,C-type lectin domain family 4 member K,Inverse variance weighted,12,0.99 [0.95-1.03],0.464726003533631,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,B4GALT1,"Beta-1,4-galactosyltransferase 1",Inverse variance weighted,4,1.03 [0.94-1.13],0.465808375068778,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFRSF19,Tumor necrosis factor receptor superfamily member 19,Inverse variance weighted,8,0.98 [0.92-1.04],0.465869570588676,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,DNMBP,Dynamin-binding protein,Inverse variance weighted,5,0.96 [0.86-1.07],0.466082021302555,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SIRPB1,Signal-regulatory protein beta-1,Inverse variance weighted,10,0.99 [0.95-1.02],0.466798694043514,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,COL15A1,Collagen alpha-1(XV) chain,Inverse variance weighted,6,0.97 [0.91-1.05],0.467971630097323,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SORBS1,Sorbin and SH3 domain-containing protein 1,Inverse variance weighted,2,1.12 [0.83-1.51],0.468018948507833,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LRP11,Low-density lipoprotein receptor-related protein 11,Inverse variance weighted,9,0.97 [0.9-1.05],0.472367365002402,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MATN2,Matrilin-2,Inverse variance weighted,8,0.97 [0.88-1.06],0.472926642203309,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SFRP4,Secreted frizzled-related protein 4,Inverse variance weighted,3,1.03 [0.95-1.12],0.476086080484579,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,AMN,Protein amnionless,Inverse variance weighted,17,0.97 [0.9-1.05],0.476475919855572,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SPINK1,Serine protease inhibitor Kazal-type 1,Inverse variance weighted,12,0.98 [0.92-1.04],0.478183490318926,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,INHBC,Inhibin beta C chain,Inverse variance weighted,13,1.01 [0.98-1.05],0.479622130250505,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CNDP1,Beta-Ala-His dipeptidase,Inverse variance weighted,7,0.98 [0.92-1.04],0.481653095440707,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,DPP4,Dipeptidyl peptidase 4,Inverse variance weighted,5,1.04 [0.93-1.16],0.482277994527723,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,RNASET2,Ribonuclease T2,Inverse variance weighted,9,1.02 [0.97-1.07],0.482531980532257,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL10,Interleukin-10,Wald ratio,1,0.94 [0.78-1.13],0.483318496026048,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,COCH,Cochlin,Inverse variance weighted,5,1.02 [0.97-1.08],0.485430297953346,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CDH6,Cadherin-6,Inverse variance weighted,16,1.01 [0.98-1.05],0.486033639957604,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,QPCT,Glutaminyl-peptide cyclotransferase,Inverse variance weighted,7,0.97 [0.9-1.05],0.487854806389069,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CCL4,C-C motif chemokine 4,Inverse variance weighted,11,1.02 [0.96-1.09],0.488642426330416,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SPINK2,Serine protease inhibitor Kazal-type 2,Inverse variance weighted,11,0.96 [0.85-1.08],0.488980676026475,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SPP1,Osteopontin,Inverse variance weighted,7,0.96 [0.85-1.08],0.490360575040873,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL1RL1,Interleukin-1 receptor-like 1,Inverse variance weighted,18,1.01 [0.98-1.05],0.492990010486915,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,KLK10,Kallikrein-10,Inverse variance weighted,7,1.03 [0.95-1.11],0.493355637436207,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SERPINB8,Serpin B8,Inverse variance weighted,13,0.99 [0.96-1.02],0.493672998146987,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PDGFRA,Platelet-derived growth factor receptor alpha,Inverse variance weighted,6,1.02 [0.96-1.09],0.494569691203606,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PRAP1,Proline-rich acidic protein 1,Inverse variance weighted,3,0.98 [0.91-1.04],0.495590120460734,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,RNASE1,Ribonuclease pancreatic,Inverse variance weighted,3,0.96 [0.86-1.08],0.495801576900248,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,RNASE6,Ribonuclease K6,Inverse variance weighted,8,1.01 [0.98-1.05],0.496749376609357,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL12RB1,Interleukin-12 receptor subunit beta-1,Inverse variance weighted,12,1.02 [0.97-1.07],0.496877846691858,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PDZK1,Na(+)/H(+) exchange regulatory cofactor NHE-RF3,Wald ratio,1,0.94 [0.8-1.12],0.497551867944298,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,EDN1,Endothelin-1,Inverse variance weighted,3,0.97 [0.9-1.05],0.500827957176147,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FABP4,"Fatty acid-binding protein, adipocyte",Wald ratio,1,1.08 [0.87-1.34],0.502419175237281,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FAM20A,Pseudokinase FAM20A,Inverse variance weighted,11,1.02 [0.97-1.07],0.504016627645324,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FAM3D,Protein FAM3D,Inverse variance weighted,8,0.95 [0.83-1.09],0.50522955926255,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PSAPL1,Proactivator polypeptide-like 1,Inverse variance weighted,11,0.98 [0.94-1.03],0.509136390676524,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NECTIN4,Nectin-4,Inverse variance weighted,6,1.02 [0.96-1.08],0.51557674308297,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PTPRC,Receptor-type tyrosine-protein phosphatase C,Inverse variance weighted,3,0.97 [0.89-1.06],0.517025389648445,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SDC4,Syndecan-4,Inverse variance weighted,6,1.05 [0.9-1.22],0.517602875624029,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFRSF1A,Tumor necrosis factor receptor superfamily member 1A,Wald ratio,1,0.93 [0.73-1.17],0.520562791566733,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ADAMTS1,A disintegrin and metalloproteinase with thrombospondin motifs 1,Wald ratio,1,0.86 [0.55-1.35],0.522704373455926,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PRELP,Prolargin,Inverse variance weighted,9,1.02 [0.96-1.08],0.523460856428355,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,XCL1,Lymphotactin,Inverse variance weighted,15,1.01 [0.97-1.06],0.524355625436283,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,VWF,von Willebrand factor,Inverse variance weighted,2,1.05 [0.9-1.24],0.52473795470132,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TEK,Angiopoietin-1 receptor,Inverse variance weighted,13,0.99 [0.95-1.03],0.529014631344771,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CXCL11,C-X-C motif chemokine 11,Inverse variance weighted,4,1.03 [0.95-1.11],0.529589729395528,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ACY3,N-acyl-aromatic-L-amino acid amidohydrolase,Inverse variance weighted,13,0.98 [0.93-1.04],0.533117786126833,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ZBTB17,Zinc finger and BTB domain-containing protein 17,Wald ratio,1,1.14 [0.76-1.72],0.533193841351686,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,USP28,Ubiquitin carboxyl-terminal hydrolase 28,Inverse variance weighted,2,0.94 [0.78-1.14],0.533925487594752,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GFAP,Glial fibrillary acidic protein,Inverse variance weighted,4,1.05 [0.91-1.21],0.535041812656068,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FDX1,"Adrenodoxin, mitochondrial",Wald ratio,1,1.12 [0.78-1.63],0.535902411481553,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,COL9A1,Collagen alpha-1(IX) chain,Inverse variance weighted,2,0.94 [0.78-1.13],0.536379120397318,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MMP13,Collagenase 3,Wald ratio,1,0.88 [0.58-1.32],0.536443803147543,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IGF1R,Insulin-like growth factor 1 receptor,Inverse variance weighted,2,0.95 [0.8-1.12],0.537185119730884,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TXNDC15,Thioredoxin domain-containing protein 15,Inverse variance weighted,8,0.99 [0.96-1.02],0.540043577801407,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,BCAT1,"Branched-chain-amino-acid aminotransferase, cytosolic",Inverse variance weighted,11,0.99 [0.94-1.03],0.541865633876756,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL4R,Interleukin-4 receptor subunit alpha,Inverse variance weighted,7,0.98 [0.91-1.05],0.542957924171021,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PPL,Periplakin,Wald ratio,1,0.93 [0.74-1.17],0.542994612503433,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SIGLEC8,Sialic acid-binding Ig-like lectin 8,Inverse variance weighted,12,1.01 [0.97-1.06],0.545414091673768,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD34,Hematopoietic progenitor cell antigen CD34,Wald ratio,1,1.1 [0.81-1.5],0.546898200387062,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,BNIP3L,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3-like,Wald ratio,1,0.89 [0.62-1.29],0.547661867787385,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CST6,Cystatin-M,Wald ratio,1,0.97 [0.88-1.07],0.550671641687548,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FCAMR,High affinity immunoglobulin alpha and immunoglobulin mu Fc receptor,Inverse variance weighted,7,0.98 [0.9-1.06],0.552027467114274,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GHR,Growth hormone receptor,Inverse variance weighted,15,1.02 [0.97-1.07],0.55336637735758,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,DLL1,Delta-like protein 1,Inverse variance weighted,3,0.97 [0.86-1.08],0.553562305515193,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,VASN,Vasorin,Inverse variance weighted,8,0.99 [0.95-1.03],0.553942369612922,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,APOA1,Apolipoprotein A-I,Wald ratio,1,1.16 [0.71-1.88],0.555230188876323,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LILRA2,Leukocyte immunoglobulin-like receptor subfamily A member 2,Inverse variance weighted,3,1.06 [0.88-1.28],0.557397305304303,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PSME2,Proteasome activator complex subunit 2,Wald ratio,1,1.06 [0.86-1.31],0.562021875103215,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CST7,Cystatin-F,Inverse variance weighted,25,1.01 [0.97-1.05],0.56304568395588,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CNTNAP2,Contactin-associated protein-like 2,Inverse variance weighted,15,0.99 [0.95-1.03],0.563580826507448,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,VCAN,Versican core protein,Inverse variance weighted,9,1.02 [0.96-1.07],0.566213215108038,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,DSG3,Desmoglein-3,Inverse variance weighted,5,0.97 [0.88-1.07],0.568182828614125,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CCL28,C-C motif chemokine 28,Wald ratio,1,0.91 [0.65-1.27],0.569462597532458,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PTK7,Inactive tyrosine-protein kinase 7,Wald ratio,1,1.09 [0.8-1.5],0.569779158113231,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFRSF4,Tumor necrosis factor receptor superfamily member 4,Inverse variance weighted,2,0.91 [0.66-1.25],0.570047647169813,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,P4HB,Protein disulfide-isomerase,Inverse variance weighted,2,0.93 [0.74-1.18],0.57063876478579,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SORCS2,VPS10 domain-containing receptor SorCS2,Inverse variance weighted,15,1.01 [0.96-1.07],0.571625765360517,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ICAM5,Intercellular adhesion molecule 5,Inverse variance weighted,22,1.01 [0.97-1.06],0.571637053614533,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MSLN,Mesothelin,Inverse variance weighted,13,1.02 [0.95-1.1],0.572913867515598,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,DPP7,Dipeptidyl peptidase 2,Wald ratio,1,0.94 [0.75-1.17],0.575799206697089,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNR,Tenascin-R,Inverse variance weighted,7,1.04 [0.91-1.18],0.576215810360254,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MB,Myoglobin,Wald ratio,1,0.86 [0.51-1.45],0.576849986257574,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,VSIR,V-type immunoglobulin domain-containing suppressor of T-cell activation,Inverse variance weighted,11,0.98 [0.92-1.05],0.577135817005359,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SLC39A5,Zinc transporter ZIP5,Wald ratio,1,1.09 [0.8-1.48],0.578635160705386,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MMP9,Matrix metalloproteinase-9,Inverse variance weighted,3,1.04 [0.92-1.17],0.578817604900959,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SERPINA3,Alpha-1-antichymotrypsin,Inverse variance weighted,5,0.96 [0.82-1.12],0.579669683478908,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LGALS3,Galectin-3,Inverse variance weighted,14,0.99 [0.94-1.04],0.583432158857472,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,OLFM4,Olfactomedin-4,Inverse variance weighted,19,1.01 [0.97-1.05],0.583700959466085,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,DSC2,Desmocollin-2,Inverse variance weighted,4,0.97 [0.87-1.08],0.583982747821226,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GDF15,Growth/differentiation factor 15,Inverse variance weighted,10,0.97 [0.89-1.07],0.583998492910194,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CEACAM19,Carcinoembryonic antigen-related cell adhesion molecule 19,Inverse variance weighted,4,0.97 [0.87-1.08],0.586365485557724,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD276,CD276 antigen,Inverse variance weighted,14,1.01 [0.97-1.05],0.587161939150715,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SPINK6,Serine protease inhibitor Kazal-type 6,Inverse variance weighted,6,0.95 [0.8-1.13],0.58720768286185,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LTBR,Tumor necrosis factor receptor superfamily member 3,Inverse variance weighted,3,0.98 [0.93-1.04],0.587783513465061,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TPK1,Thiamin pyrophosphokinase 1,Inverse variance weighted,8,1.02 [0.96-1.07],0.588129917106078,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,AXL,Tyrosine-protein kinase receptor UFO,Inverse variance weighted,3,0.98 [0.89-1.07],0.590084719778465,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FGF2,Fibroblast growth factor 2,Inverse variance weighted,15,1.01 [0.97-1.05],0.590368451877679,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MENT,Protein MENT,Wald ratio,1,1.12 [0.73-1.72],0.590975831833731,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CR1,Complement receptor type 1,Inverse variance weighted,8,1.02 [0.96-1.08],0.591085618399198,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ANGPTL7,Angiopoietin-related protein 7,Inverse variance weighted,4,1.02 [0.96-1.08],0.592785913829397,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD160,CD160 antigen,Inverse variance weighted,5,1.02 [0.95-1.09],0.59595036346284,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNC,Tenascin,Inverse variance weighted,7,0.98 [0.92-1.05],0.597222913541307,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CCL19,C-C motif chemokine 19,Inverse variance weighted,2,0.94 [0.75-1.18],0.59872409134627,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ITGBL1,Integrin beta-like protein 1,Inverse variance weighted,15,0.99 [0.95-1.03],0.602100174001938,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CA9,Carbonic anhydrase 9,Inverse variance weighted,2,0.97 [0.86-1.09],0.603944904173291,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,S100A4,Protein S100-A4,Wald ratio,1,0.89 [0.57-1.38],0.605217993930114,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GPC5,Glypican-5,Inverse variance weighted,14,0.99 [0.96-1.03],0.606220574634593,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFRSF8,Tumor necrosis factor receptor superfamily member 8,Inverse variance weighted,4,1.02 [0.94-1.12],0.608868385394085,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FCRLB,Fc receptor-like B,Inverse variance weighted,16,0.99 [0.96-1.03],0.609203611849448,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,KLK6,Kallikrein-6,Inverse variance weighted,3,0.98 [0.88-1.07],0.609979456515647,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FCER2,Low affinity immunoglobulin epsilon Fc receptor,Inverse variance weighted,4,0.95 [0.79-1.15],0.61188653466004,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CLEC4G,C-type lectin domain family 4 member G,Inverse variance weighted,4,1.03 [0.92-1.16],0.616920116851291,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,RIDA,2-iminobutanoate/2-iminopropanoate deaminase,Inverse variance weighted,4,0.98 [0.92-1.05],0.61697418070815,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GIPC2,PDZ domain-containing protein GIPC2,Inverse variance weighted,12,1.02 [0.95-1.08],0.617586313809165,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,KLRK1,NKG2-D type II integral membrane protein,Inverse variance weighted,10,1.01 [0.97-1.06],0.619010659441886,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GALNT10,Polypeptide N-acetylgalactosaminyltransferase 10,Inverse variance weighted,10,0.99 [0.94-1.04],0.619209129904789,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CLEC1A,C-type lectin domain family 1 member A,Inverse variance weighted,6,0.99 [0.94-1.03],0.619705223572319,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,F2R,Proteinase-activated receptor 1,Inverse variance weighted,2,0.96 [0.83-1.12],0.621236104549064,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PON1,Serum paraoxonase/arylesterase 1,Inverse variance weighted,23,0.99 [0.97-1.02],0.622456664033697,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PARP1,Poly [ADP-ribose] polymerase 1,Wald ratio,1,1.04 [0.89-1.22],0.624881780259195,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LIFR,Leukemia inhibitory factor receptor,Inverse variance weighted,3,1.03 [0.92-1.14],0.625775827215313,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CWC15,Spliceosome-associated protein CWC15 homolog,Wald ratio,1,0.92 [0.65-1.3],0.628634511334967,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FGFBP2,Fibroblast growth factor-binding protein 2,Inverse variance weighted,6,0.99 [0.94-1.04],0.628849178153043,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FCRL2,Fc receptor-like protein 2,Inverse variance weighted,14,1.01 [0.97-1.06],0.630648321006315,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NPPC,C-type natriuretic peptide,Wald ratio,1,1.12 [0.71-1.77],0.632163666661676,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ADAMTS15,A disintegrin and metalloproteinase with thrombospondin motifs 15,Inverse variance weighted,3,1.07 [0.8-1.45],0.635142171408958,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PIGR,Polymeric immunoglobulin receptor,Inverse variance weighted,3,1.05 [0.86-1.28],0.63534084731116,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SPINT1,Kunitz-type protease inhibitor 1,Inverse variance weighted,4,0.99 [0.93-1.05],0.635744529832154,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,WFDC1,WAP four-disulfide core domain protein 1,Inverse variance weighted,6,0.98 [0.92-1.05],0.636121273632515,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CPM,Carboxypeptidase M,Inverse variance weighted,3,1.03 [0.91-1.17],0.638745087881991,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ESM1,Endothelial cell-specific molecule 1,Inverse variance weighted,5,1.02 [0.94-1.11],0.639117914483697,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFSF14,Tumor necrosis factor ligand superfamily member 14,Inverse variance weighted,8,1.01 [0.96-1.07],0.640366380229535,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,EPHB6,Ephrin type-B receptor 6,Inverse variance weighted,7,1.03 [0.9-1.19],0.640853846574006,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,AREG,Amphiregulin,Inverse variance weighted,3,0.97 [0.87-1.09],0.642136424622542,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,THY1,Thy-1 membrane glycoprotein,Inverse variance weighted,3,0.99 [0.94-1.04],0.642860544050547,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,F3,Tissue factor,Inverse variance weighted,7,1.02 [0.94-1.11],0.643284880816418,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,EGFLAM,Pikachurin,Inverse variance weighted,12,0.99 [0.96-1.02],0.644750156357638,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ULBP2,UL16-binding protein 2,Inverse variance weighted,13,0.99 [0.94-1.04],0.645591457953192,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,HSPB6,Heat shock protein beta-6,Wald ratio,1,0.89 [0.54-1.47],0.646376407186197,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SDC1,Syndecan-1,Inverse variance weighted,3,0.97 [0.86-1.1],0.646633500342554,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NCS1,Neuronal calcium sensor 1,Wald ratio,1,0.96 [0.82-1.13],0.650430620252963,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PLA2G10,Group 10 secretory phospholipase A2,Inverse variance weighted,3,0.96 [0.83-1.13],0.650524877466965,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NBL1,Neuroblastoma suppressor of tumorigenicity 1,Inverse variance weighted,2,1.04 [0.88-1.23],0.650537781383575,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PODXL2,Podocalyxin-like protein 2,Wald ratio,1,0.97 [0.86-1.1],0.654244234557208,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,EPHB4,Ephrin type-B receptor 4,Inverse variance weighted,2,0.97 [0.83-1.13],0.655283225568756,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MMP10,Stromelysin-2,Inverse variance weighted,10,1.01 [0.97-1.05],0.656387866774707,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SEZ6L,Seizure 6-like protein,Inverse variance weighted,7,1.03 [0.92-1.15],0.656784965739562,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CA4,Carbonic anhydrase 4,Inverse variance weighted,3,1.01 [0.96-1.07],0.657956281053268,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,VGF,Neurosecretory protein VGF,Wald ratio,1,0.91 [0.61-1.37],0.660397551042793,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ADAM22,Disintegrin and metalloproteinase domain-containing protein 22,Inverse variance weighted,12,0.99 [0.95-1.03],0.662359151569132,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CALB1,Calbindin,Wald ratio,1,0.92 [0.64-1.33],0.662452563158867,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TFF1,Trefoil factor 1,Inverse variance weighted,7,0.99 [0.92-1.05],0.663464770083623,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CYB5R2,NADH-cytochrome b5 reductase 2,Inverse variance weighted,8,1.01 [0.96-1.07],0.664465399178792,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MAP2,Microtubule-associated protein 2,Inverse variance weighted,2,1.04 [0.86-1.27],0.665003870739179,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NOS1,"Nitric oxide synthase, brain",Inverse variance weighted,3,1.04 [0.89-1.21],0.665114986176519,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SIGLEC6,Sialic acid-binding Ig-like lectin 6,Inverse variance weighted,8,1.01 [0.97-1.05],0.666211098912618,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ART3,Ecto-ADP-ribosyltransferase 3,Inverse variance weighted,7,0.97 [0.85-1.11],0.671242435495784,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,EDAR,Tumor necrosis factor receptor superfamily member EDAR,Inverse variance weighted,12,0.99 [0.96-1.03],0.672457719104803,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ENAH,Protein enabled homolog,Inverse variance weighted,2,1.04 [0.88-1.21],0.673290209474795,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,F11R,Junctional adhesion molecule A,Wald ratio,1,0.93 [0.67-1.3],0.673385397508522,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,BMPER,BMP-binding endothelial regulator protein,Inverse variance weighted,9,0.99 [0.93-1.05],0.674615483206019,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,KLK8,Kallikrein-8,Inverse variance weighted,6,0.99 [0.95-1.03],0.674964019774331,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FASLG,Tumor necrosis factor ligand superfamily member 6,Wald ratio,1,1.06 [0.81-1.38],0.675320871188663,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TGFB1,Transforming growth factor beta-1 proprotein,Inverse variance weighted,4,0.98 [0.87-1.1],0.675732420805368,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GCNT1,"Beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase",Inverse variance weighted,11,1.01 [0.97-1.05],0.676701440392959,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFRSF1B,Tumor necrosis factor receptor superfamily member 1B,Inverse variance weighted,2,0.98 [0.87-1.1],0.680422884799904,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CILP,Cartilage intermediate layer protein 1,Inverse variance weighted,3,0.97 [0.84-1.12],0.684082890930623,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CXCL13,C-X-C motif chemokine 13,Wald ratio,1,0.93 [0.65-1.32],0.68613491669896,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,WARS,"Tryptophan--tRNA ligase, cytoplasmic",Inverse variance weighted,2,1.02 [0.94-1.1],0.693048070837022,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD40,Tumor necrosis factor receptor superfamily member 5,Inverse variance weighted,8,0.99 [0.94-1.04],0.694176259600991,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,INHBB,Inhibin beta B chain,Inverse variance weighted,6,1.01 [0.96-1.06],0.696296727133925,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFRSF12A,Tumor necrosis factor receptor superfamily member 12A,Inverse variance weighted,4,1.04 [0.86-1.25],0.697498718753434,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,B3GNT7,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 7",Inverse variance weighted,12,0.99 [0.95-1.04],0.699138978334681,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ELOA,Elongin-A,Inverse variance weighted,2,0.96 [0.79-1.17],0.699174019919991,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NHLRC3,NHL repeat-containing protein 3,Inverse variance weighted,7,0.99 [0.92-1.06],0.699727697317898,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,OCLN,Occludin,Wald ratio,1,1.03 [0.9-1.18],0.700487412707633,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CRELD1,Protein disulfide isomerase CRELD1,Inverse variance weighted,15,1.01 [0.96-1.06],0.700841912152135,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SIGLEC7,Sialic acid-binding Ig-like lectin 7,Inverse variance weighted,5,1.01 [0.96-1.06],0.702046028413536,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MUC13,Mucin-13,Inverse variance weighted,9,0.99 [0.92-1.06],0.702342177941035,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PRSS22,Brain-specific serine protease 4,Inverse variance weighted,6,1.01 [0.95-1.08],0.703205972881956,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LY96,Lymphocyte antigen 96,Inverse variance weighted,3,1.07 [0.75-1.53],0.703879018089771,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,RTBDN,Retbindin,Inverse variance weighted,2,1.03 [0.88-1.22],0.703968616895149,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CLEC5A,C-type lectin domain family 5 member A,Inverse variance weighted,4,1.02 [0.93-1.11],0.704485181773211,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD55,Complement decay-accelerating factor,Inverse variance weighted,10,1.01 [0.95-1.08],0.705733590813389,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,AGR2,Anterior gradient protein 2 homolog,Wald ratio,1,1.03 [0.87-1.23],0.706277058492731,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CALCB,Calcitonin gene-related peptide 2,Inverse variance weighted,4,1.02 [0.9-1.16],0.708176149314542,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,EPO,Erythropoietin,Wald ratio,1,0.95 [0.74-1.22],0.711976001792014,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,BCL2L15,Bcl-2-like protein 15,Inverse variance weighted,4,1.02 [0.92-1.13],0.713761347774574,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SIRPA,Tyrosine-protein phosphatase non-receptor type substrate 1,Inverse variance weighted,30,1 [0.98-1.02],0.715360081418291,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,OGN,Mimecan,Inverse variance weighted,24,1.01 [0.97-1.04],0.716036855492135,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CCL7,C-C motif chemokine 7,Inverse variance weighted,2,1.06 [0.76-1.48],0.717597902115087,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CHI3L1,Chitinase-3-like protein 1,Inverse variance weighted,6,1.01 [0.97-1.04],0.717623394610041,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SCARA5,Scavenger receptor class A member 5,Inverse variance weighted,6,1.01 [0.95-1.07],0.717807047944211,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CCL15,C-C motif chemokine 15,Inverse variance weighted,11,1.01 [0.97-1.04],0.71907832717327,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IGSF8,Immunoglobulin superfamily member 8,Inverse variance weighted,2,0.95 [0.7-1.27],0.720094212602765,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PGLYRP1,Peptidoglycan recognition protein 1,Inverse variance weighted,5,1.02 [0.92-1.12],0.721121638756251,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,VWA1,von Willebrand factor A domain-containing protein 1,Inverse variance weighted,5,0.99 [0.95-1.03],0.722812697584346,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FABP5,Fatty acid-binding protein 5,Wald ratio,1,1.03 [0.86-1.24],0.723021648861297,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MMP7,Matrilysin,Inverse variance weighted,9,1.01 [0.94-1.09],0.723566798875888,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,REG4,Regenerating islet-derived protein 4,Inverse variance weighted,6,0.98 [0.9-1.07],0.724598763211237,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CKAP4,Cytoskeleton-associated protein 4,Inverse variance weighted,6,1.02 [0.93-1.1],0.725435211852796,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD79B,B-cell antigen receptor complex-associated protein beta chain,Wald ratio,1,1.02 [0.91-1.15],0.729221682091956,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,C4BPB,C4b-binding protein beta chain,Inverse variance weighted,4,0.98 [0.86-1.11],0.729328051389487,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SPON1,Spondin-1,Inverse variance weighted,9,1.02 [0.93-1.11],0.73049781647673,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MAD1L1,Mitotic spindle assembly checkpoint protein MAD1,Inverse variance weighted,3,0.97 [0.84-1.13],0.730743224974138,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NOTCH3,Neurogenic locus notch homolog protein 3,Wald ratio,1,1.04 [0.82-1.33],0.732822624168099,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TGFBR1,TGF-beta receptor type-1,Wald ratio,1,0.94 [0.64-1.37],0.733652976789693,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,HSPA2,Heat shock-related 70 kDa protein 2,Inverse variance weighted,2,0.97 [0.82-1.15],0.733944256958937,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PRSS2,Trypsin-2,Inverse variance weighted,3,1.02 [0.89-1.17],0.73440933404639,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,APOF,Apolipoprotein F,Wald ratio,1,0.93 [0.62-1.41],0.735537493263398,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CCL18,C-C motif chemokine 18,Inverse variance weighted,5,0.97 [0.84-1.13],0.735717702109479,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GPC1,Glypican-1,Inverse variance weighted,15,1.01 [0.96-1.06],0.73621766047886,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,JAM3,Junctional adhesion molecule C,Inverse variance weighted,4,1.03 [0.89-1.18],0.737431326077645,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IGFBP7,Insulin-like growth factor-binding protein 7,Inverse variance weighted,13,0.99 [0.93-1.05],0.737747191485146,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CTSV,Cathepsin L2,Inverse variance weighted,2,0.96 [0.74-1.24],0.740318153735296,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,UBE2L6,Ubiquitin/ISG15-conjugating enzyme E2 L6,Inverse variance weighted,7,1.02 [0.91-1.13],0.741683962823092,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SPINT2,Kunitz-type protease inhibitor 2,Inverse variance weighted,5,1.02 [0.89-1.17],0.743429488839206,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,RARRES1,Retinoic acid receptor responder protein 1,Inverse variance weighted,15,0.99 [0.95-1.04],0.745119290807544,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ICAM3,Intercellular adhesion molecule 3,Inverse variance weighted,9,1.01 [0.94-1.09],0.747413596235367,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NPC2,NPC intracellular cholesterol transporter 2,Inverse variance weighted,6,0.97 [0.8-1.17],0.748488900356497,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,DKK3,Dickkopf-related protein 3,Inverse variance weighted,8,0.99 [0.95-1.04],0.748680303046476,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MVK,Mevalonate kinase,Wald ratio,1,0.96 [0.76-1.22],0.748760181895934,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PTN,Pleiotrophin,Inverse variance weighted,3,1.05 [0.79-1.38],0.749577240284006,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PILRB,Paired immunoglobulin-like type 2 receptor beta,Inverse variance weighted,19,1 [0.98-1.03],0.750732006243777,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TFPI2,Tissue factor pathway inhibitor 2,Inverse variance weighted,6,0.98 [0.85-1.13],0.751977694531374,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ASGR1,Asialoglycoprotein receptor 1,Inverse variance weighted,2,0.98 [0.87-1.1],0.752053811121549,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SUSD2,Sushi domain-containing protein 2,Inverse variance weighted,9,1.01 [0.96-1.06],0.753569044803279,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LBP,Lipopolysaccharide-binding protein,Inverse variance weighted,12,1.01 [0.97-1.05],0.755606127562688,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL1RN,Interleukin-1 receptor antagonist protein,Inverse variance weighted,5,1.02 [0.92-1.13],0.756690662592303,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SFRP1,Secreted frizzled-related protein 1,Inverse variance weighted,8,1.01 [0.94-1.08],0.759710245660067,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CNTN1,Contactin-1,Inverse variance weighted,14,0.99 [0.92-1.06],0.760594124988716,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CDCP1,CUB domain-containing protein 1,Inverse variance weighted,12,1.01 [0.95-1.07],0.761286117401176,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,DRAXIN,Draxin,Inverse variance weighted,8,0.99 [0.93-1.06],0.761548043540161,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LGALS9,Galectin-9,Inverse variance weighted,12,0.99 [0.92-1.06],0.762783631677814,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CHGA,Chromogranin-A,Inverse variance weighted,3,1.02 [0.91-1.14],0.763396772926267,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SIGLEC10,Sialic acid-binding Ig-like lectin 10,Inverse variance weighted,8,1.01 [0.96-1.06],0.764130802338167,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SETMAR,Histone-lysine N-methyltransferase SETMAR,Inverse variance weighted,3,1.01 [0.93-1.1],0.765074850177764,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD7,T-cell antigen CD7,Inverse variance weighted,3,1.01 [0.96-1.06],0.769647452007748,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PCBD1,Pterin-4-alpha-carbinolamine dehydratase,Inverse variance weighted,4,0.98 [0.85-1.12],0.771590801824853,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ARHGEF5,Rho guanine nucleotide exchange factor 5,Inverse variance weighted,13,1.01 [0.96-1.06],0.772372546060674,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IFNLR1,Interferon lambda receptor 1,Inverse variance weighted,4,0.97 [0.79-1.19],0.772422359694475,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NEO1,Neogenin,Wald ratio,1,1.04 [0.79-1.37],0.775061961686254,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GSN,Gelsolin,Inverse variance weighted,3,0.98 [0.84-1.14],0.778631210906837,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD302,CD302 antigen,Inverse variance weighted,6,0.99 [0.92-1.06],0.779101809544541,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NFASC,Neurofascin,Inverse variance weighted,14,1.01 [0.97-1.04],0.780172296531236,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GFRA1,GDNF family receptor alpha-1,Inverse variance weighted,7,1.01 [0.92-1.12],0.783546995618284,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PRND,Prion-like protein doppel,Inverse variance weighted,8,1.01 [0.96-1.06],0.786070279002611,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD70,CD70 antigen,Inverse variance weighted,13,1 [0.96-1.03],0.788738215206285,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ENPP5,Ectonucleotide pyrophosphatase/phosphodiesterase family member 5,Inverse variance weighted,22,1 [0.98-1.03],0.789153125283237,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SUSD4,Sushi domain-containing protein 4,Inverse variance weighted,5,1.01 [0.93-1.1],0.790332198645769,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,KRT18,"Keratin, type I cytoskeletal 18",Wald ratio,1,1.06 [0.7-1.6],0.79035470757611,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CCL20,C-C motif chemokine 20,Wald ratio,1,1.03 [0.84-1.26],0.790925651824721,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FUOM,Fucose mutarotase,Wald ratio,1,0.96 [0.7-1.31],0.791619179765974,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,BCAN,Brevican core protein,Wald ratio,1,0.95 [0.68-1.35],0.792494858820701,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,COL6A3,Collagen alpha-3(VI) chain,Inverse variance weighted,2,0.96 [0.7-1.31],0.792501557661391,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PYDC1,Pyrin domain-containing protein 1,Inverse variance weighted,5,0.99 [0.93-1.06],0.793018303688232,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TFRC,Transferrin receptor protein 1,Inverse variance weighted,18,0.99 [0.95-1.04],0.793027067900109,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IGSF3,Immunoglobulin superfamily member 3,Inverse variance weighted,2,0.98 [0.82-1.17],0.793668778493215,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MANSC1,MANSC domain-containing protein 1,Wald ratio,1,0.95 [0.65-1.39],0.794700851091687,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ADGRE1,Adhesion G protein-coupled receptor E1,Inverse variance weighted,6,1.01 [0.94-1.08],0.797216190427592,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SLAMF7,SLAM family member 7,Inverse variance weighted,12,1.01 [0.96-1.05],0.797310980217594,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MSR1,Macrophage scavenger receptor types I and II,Inverse variance weighted,5,1.01 [0.95-1.07],0.801113138129704,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CCL14,C-C motif chemokine 14,Inverse variance weighted,9,1.01 [0.93-1.1],0.801883664705852,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NUDT5,ADP-sugar pyrophosphatase,Wald ratio,1,1.04 [0.75-1.45],0.802940836488887,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MRC1,Macrophage mannose receptor 1,Inverse variance weighted,6,1.01 [0.94-1.08],0.803694891327619,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,C1QTNF1,Complement C1q tumor necrosis factor-related protein 1,Inverse variance weighted,4,0.99 [0.92-1.07],0.804508097421952,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PCDH1,Protocadherin-1,Wald ratio,1,1.03 [0.81-1.3],0.805630261093617,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,INSR,Insulin receptor,Wald ratio,1,0.96 [0.66-1.38],0.807051522518211,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FCGR2A,Low affinity immunoglobulin gamma Fc region receptor II-a,Inverse variance weighted,11,1 [0.96-1.03],0.807726602744144,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PLAT,Tissue-type plasminogen activator,Wald ratio,1,0.97 [0.78-1.21],0.808873311815263,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD74,HLA class II histocompatibility antigen gamma chain,Wald ratio,1,0.96 [0.68-1.35],0.809569296440196,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MCFD2,Multiple coagulation factor deficiency protein 2,Inverse variance weighted,2,1.02 [0.87-1.19],0.810196211445895,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CCL23,C-C motif chemokine 23,Inverse variance weighted,12,1 [0.96-1.03],0.814006459791155,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ADAM23,Disintegrin and metalloproteinase domain-containing protein 23,Inverse variance weighted,15,1 [0.97-1.03],0.814419458132695,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FLT3LG,Fms-related tyrosine kinase 3 ligand,Wald ratio,1,0.95 [0.59-1.51],0.814602589102276,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PLIN3,Perilipin-3,Wald ratio,1,0.96 [0.71-1.31],0.814787006018672,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,EPHA4,Ephrin type-A receptor 4,Inverse variance weighted,3,1.02 [0.86-1.21],0.820815919605239,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,HIP1R,Huntingtin-interacting protein 1-related protein,Wald ratio,1,1.02 [0.83-1.26],0.821562100107433,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MPO,Myeloperoxidase,Inverse variance weighted,5,1.01 [0.89-1.15],0.824034726891137,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,KRT19,"Keratin, type I cytoskeletal 19",Wald ratio,1,0.99 [0.86-1.12],0.828399633059262,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PSAP,Prosaposin,Inverse variance weighted,4,1.01 [0.93-1.1],0.829345053953399,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFRSF14,Tumor necrosis factor receptor superfamily member 14,Wald ratio,1,0.98 [0.83-1.16],0.829714078708306,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,EPS8L2,Epidermal growth factor receptor kinase substrate 8-like protein 2,Inverse variance weighted,4,0.99 [0.89-1.09],0.830341112004527,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,KLK4,Kallikrein-4,Inverse variance weighted,8,0.99 [0.94-1.05],0.833336957631664,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TIGIT,T-cell immunoreceptor with Ig and ITIM domains,Wald ratio,1,0.98 [0.78-1.22],0.834053172906383,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FGFR2,Fibroblast growth factor receptor 2,Inverse variance weighted,4,0.98 [0.81-1.19],0.834306616466057,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,JAM2,Junctional adhesion molecule B,Wald ratio,1,1.05 [0.68-1.6],0.835073874841938,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NTproBNP,N-terminal prohormone of brain natriuretic peptide,Inverse variance weighted,3,0.99 [0.91-1.08],0.836987826679744,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CRH,Corticoliberin,Inverse variance weighted,10,0.99 [0.94-1.05],0.837172780658491,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PTPRR,Receptor-type tyrosine-protein phosphatase R,Wald ratio,1,1.05 [0.66-1.67],0.837620387602672,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD72,B-cell differentiation antigen CD72,Inverse variance weighted,3,1.02 [0.84-1.25],0.837932390974762,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TREML2,Trem-like transcript 2 protein,Inverse variance weighted,8,1 [0.96-1.05],0.839995250656017,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CELSR2,Cadherin EGF LAG seven-pass G-type receptor 2,Inverse variance weighted,11,1.01 [0.94-1.08],0.841175994400326,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FOLR2,Folate receptor beta,Wald ratio,1,0.98 [0.82-1.17],0.842917285503542,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IFI30,Gamma-interferon-inducible lysosomal thiol reductase,Inverse variance weighted,6,0.99 [0.92-1.07],0.843965529838062,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NCAN,Neurocan core protein,Inverse variance weighted,4,1.01 [0.91-1.13],0.844609421639746,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ADAMTS8,A disintegrin and metalloproteinase with thrombospondin motifs 8,Inverse variance weighted,20,1 [0.95-1.04],0.846494691528399,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFRSF10B,Tumor necrosis factor receptor superfamily member 10B,Inverse variance weighted,8,1.01 [0.95-1.06],0.847144396536905,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,KLK13,Kallikrein-13,Inverse variance weighted,7,0.99 [0.91-1.08],0.84724089722588,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL36G,Interleukin-36 gamma,Inverse variance weighted,2,0.97 [0.71-1.33],0.847443430556028,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PILRA,Paired immunoglobulin-like type 2 receptor alpha,Inverse variance weighted,32,1 [0.97-1.02],0.849123772893427,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SERPINF1,Pigment epithelium-derived factor,Inverse variance weighted,8,1.01 [0.95-1.07],0.849590685445234,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PPP1R14D,Protein phosphatase 1 regulatory subunit 14D,Wald ratio,1,1.03 [0.74-1.43],0.849752905109204,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL1R1,Interleukin-1 receptor type 1,Inverse variance weighted,4,0.99 [0.88-1.11],0.851976496012094,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GM2A,Ganglioside GM2 activator,Inverse variance weighted,16,1 [0.97-1.03],0.851980128509964,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CXCL8,Interleukin-8,Inverse variance weighted,4,0.99 [0.85-1.14],0.852121722111729,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CALCA,Calcitonin,Inverse variance weighted,3,1.04 [0.68-1.59],0.852600541868151,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD244,Natural killer cell receptor 2B4,Inverse variance weighted,4,0.99 [0.94-1.05],0.854620745457921,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ADA2,Adenosine deaminase 2,Inverse variance weighted,3,0.99 [0.89-1.1],0.855345750944611,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ISM1,Isthmin-1,Inverse variance weighted,9,0.99 [0.92-1.07],0.858155997113242,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CPXM2,Inactive carboxypeptidase-like protein X2,Inverse variance weighted,6,0.99 [0.94-1.05],0.858473463537298,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,AGRP,Agouti-related protein,Wald ratio,1,1.04 [0.65-1.67],0.859639823844147,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NPTX2,Neuronal pentraxin-2,Inverse variance weighted,11,1.01 [0.92-1.1],0.860783012368843,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IDI2,Isopentenyl-diphosphate delta-isomerase 2,Inverse variance weighted,8,1 [0.95-1.04],0.861776498351185,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FABP3,"Fatty acid-binding protein, heart",Inverse variance weighted,4,1.02 [0.83-1.25],0.861869690877429,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,OPTC,Opticin,Inverse variance weighted,4,0.99 [0.88-1.11],0.862074858116414,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CEACAM8,Carcinoembryonic antigen-related cell adhesion molecule 8,Wald ratio,1,1.01 [0.87-1.19],0.862271224734426,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CEACAM6,Carcinoembryonic antigen-related cell adhesion molecule 6,Wald ratio,1,1.02 [0.86-1.21],0.862271224734426,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SERPINA11,Serpin A11,Inverse variance weighted,15,1 [0.96-1.04],0.863010650203065,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CDH2,Cadherin-2,Inverse variance weighted,3,0.99 [0.86-1.13],0.863701371785688,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,BTN3A2,Butyrophilin subfamily 3 member A2,Wald ratio,1,1 [0.94-1.05],0.864549011799135,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,VSTM1,V-set and transmembrane domain-containing protein 1,Inverse variance weighted,8,1.01 [0.95-1.07],0.866119428436542,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ANGPTL2,Angiopoietin-related protein 2,Wald ratio,1,0.97 [0.66-1.42],0.866861987800837,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CRIP2,Cysteine-rich protein 2,Inverse variance weighted,2,1.05 [0.62-1.76],0.867225289452132,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CXCL17,C-X-C motif chemokine 17,Inverse variance weighted,2,1.03 [0.7-1.51],0.867890696432017,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,REN,Renin,Inverse variance weighted,3,0.98 [0.79-1.22],0.868019250999988,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GALNT3,Polypeptide N-acetylgalactosaminyltransferase 3,Inverse variance weighted,10,1 [0.94-1.05],0.870739157283762,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MMP1,Interstitial collagenase,Inverse variance weighted,20,1 [0.96-1.03],0.870982080461877,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FGFBP1,Fibroblast growth factor-binding protein 1,Inverse variance weighted,5,1.01 [0.91-1.12],0.872086247207874,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD27,CD27 antigen,Inverse variance weighted,8,1 [0.94-1.06],0.872174116326938,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,DDAH1,"N(G),N(G)-dimethylarginine dimethylaminohydrolase 1",Inverse variance weighted,5,0.99 [0.86-1.13],0.874379240042565,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TIMP2,Metalloproteinase inhibitor 2,Inverse variance weighted,2,1.02 [0.82-1.26],0.878116253489071,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CLEC10A,C-type lectin domain family 10 member A,Inverse variance weighted,6,1 [0.95-1.06],0.878272209364769,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LECT2,Leukocyte cell-derived chemotaxin-2,Inverse variance weighted,14,1 [0.95-1.06],0.878547670336819,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ADGRG1,Adhesion G-protein coupled receptor G1,Inverse variance weighted,3,1.02 [0.83-1.25],0.880263580220026,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD80,T-lymphocyte activation antigen CD80,Inverse variance weighted,8,1 [0.95-1.05],0.882806704481496,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ALPP,"Alkaline phosphatase, placental type",Inverse variance weighted,13,1 [0.95-1.04],0.883072534344574,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SPRR3,Small proline-rich protein 3,Inverse variance weighted,9,1 [0.93-1.06],0.884280593335035,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SCARF2,Scavenger receptor class F member 2,Inverse variance weighted,8,1 [0.94-1.06],0.884523464256264,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LRRN1,Leucine-rich repeat neuronal protein 1,Inverse variance weighted,14,1 [0.94-1.06],0.884830049651858,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ADAM12,Disintegrin and metalloproteinase domain-containing protein 12,Inverse variance weighted,3,0.99 [0.84-1.16],0.885498055642618,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PCDHB15,Protocadherin beta-15,Inverse variance weighted,15,1 [0.96-1.04],0.886152030208499,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CXADR,Coxsackievirus and adenovirus receptor,Inverse variance weighted,2,0.99 [0.85-1.15],0.888101826425684,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ADGRE5,Adhesion G protein-coupled receptor E5,Inverse variance weighted,3,1.01 [0.92-1.11],0.888211977393672,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PTH1R,Parathyroid hormone/parathyroid hormone-related peptide receptor,Inverse variance weighted,4,0.99 [0.84-1.16],0.88830854013021,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,HRC,Sarcoplasmic reticulum histidine-rich calcium-binding protein,Inverse variance weighted,2,0.99 [0.83-1.17],0.889759396873867,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,EFNA4,Ephrin-A4,Wald ratio,1,0.97 [0.67-1.42],0.890421338686361,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PENK,Proenkephalin-A,Inverse variance weighted,11,1 [0.95-1.05],0.891014758951997,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PRG2,Bone marrow proteoglycan,Wald ratio,1,0.99 [0.81-1.2],0.891070940725418,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PLB1,"Phospholipase B1, membrane-associated",Inverse variance weighted,22,1 [0.97-1.03],0.893866082114951,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,S100A11,Protein S100-A11,Wald ratio,1,0.99 [0.86-1.15],0.89464980925865,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CFD,Complement factor D,Inverse variance weighted,7,1.01 [0.91-1.11],0.89621870941251,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CTSO,Cathepsin O,Inverse variance weighted,7,1 [0.93-1.08],0.897737007266578,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL17D,Interleukin-17D,Inverse variance weighted,10,1 [0.95-1.05],0.900487139720269,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PTPRK,Receptor-type tyrosine-protein phosphatase kappa,Wald ratio,1,0.99 [0.82-1.19],0.90083733697281,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ADM,Pro-adrenomedullin,Wald ratio,1,0.99 [0.82-1.19],0.901079049909492,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,STC1,Stanniocalcin-1,Inverse variance weighted,2,1.01 [0.8-1.28],0.902976374136962,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,APOH,Beta-2-glycoprotein 1,Inverse variance weighted,14,1 [0.95-1.05],0.903156940824234,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CELA2A,Chymotrypsin-like elastase family member 2A,Inverse variance weighted,2,0.99 [0.86-1.15],0.903788769750899,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NECTIN2,Nectin-2,Inverse variance weighted,3,0.99 [0.9-1.09],0.906141062739984,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CDNF,Cerebral dopamine neurotrophic factor,Inverse variance weighted,5,1 [0.95-1.05],0.906889398259164,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD300LF,CMRF35-like molecule 1,Inverse variance weighted,20,1 [0.98-1.03],0.908249378757815,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ROBO1,Roundabout homolog 1,Inverse variance weighted,4,0.99 [0.87-1.13],0.908448613135618,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,DTNB,Dystrobrevin beta,Wald ratio,1,1.03 [0.66-1.6],0.909885398321998,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FAP,Prolyl endopeptidase FAP,Inverse variance weighted,2,0.98 [0.74-1.31],0.910814737378347,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SIGLEC1,Sialoadhesin,Inverse variance weighted,11,1 [0.97-1.04],0.911128344327315,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GPR158,Probable G-protein coupled receptor 158,Wald ratio,1,1.02 [0.74-1.4],0.914338700266566,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CTSD,Cathepsin D,Inverse variance weighted,7,1 [0.93-1.08],0.916017978490305,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MIA,Melanoma-derived growth regulatory protein,Inverse variance weighted,17,1 [0.96-1.03],0.916634136074662,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LTA4H,Leukotriene A-4 hydrolase,Wald ratio,1,0.99 [0.82-1.2],0.919841029991544,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MATN3,Matrilin-3,Inverse variance weighted,16,1 [0.96-1.04],0.92035239826505,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SCN4B,Sodium channel subunit beta-4,Inverse variance weighted,12,1 [0.97-1.04],0.920515340774505,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SEMA7A,Semaphorin-7A,Inverse variance weighted,4,1.01 [0.78-1.31],0.921191222959991,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GFRA2,GDNF family receptor alpha-2,Inverse variance weighted,14,1 [0.96-1.05],0.921357759353603,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD300C,CMRF35-like molecule 6,Wald ratio,1,1.01 [0.89-1.14],0.922552171007994,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SHISA5,Protein shisa-5,Inverse variance weighted,3,0.99 [0.74-1.31],0.922679945651564,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PLA2G15,Phospholipase A2 group XV,Inverse variance weighted,9,1 [0.93-1.06],0.922992328699974,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PRR4,Proline-rich protein 4,Inverse variance weighted,20,1 [0.97-1.04],0.92346286162966,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GDNF,Glial cell line-derived neurotrophic factor,Inverse variance weighted,10,1 [0.95-1.06],0.92360850339496,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,KIAA0319,Dyslexia-associated protein KIAA0319,Inverse variance weighted,8,1 [0.96-1.04],0.92698177176727,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ADGRB3,Adhesion G protein-coupled receptor B3,Inverse variance weighted,21,1 [0.98-1.02],0.927947298584028,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SULT2A1,Bile salt sulfotransferase,Inverse variance weighted,3,1 [0.94-1.06],0.928079244881377,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FGF5,Fibroblast growth factor 5,Inverse variance weighted,17,1 [0.96-1.04],0.928975149356148,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ANG,Angiogenin,Inverse variance weighted,14,1 [0.96-1.05],0.932451274130915,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,KIR2DL2,Killer cell immunoglobulin-like receptor 2DL2,Inverse variance weighted,11,1 [0.93-1.07],0.934606724487058,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GALNT5,Polypeptide N-acetylgalactosaminyltransferase 5,Inverse variance weighted,5,1 [0.94-1.08],0.935014990681445,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LRRC25,Leucine-rich repeat-containing protein 25,Inverse variance weighted,7,1.01 [0.89-1.14],0.936129453096281,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SEL1L,Protein sel-1 homolog 1,Wald ratio,1,1 [0.94-1.07],0.937625465284545,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TNFRSF10A,Tumor necrosis factor receptor superfamily member 10A,Inverse variance weighted,10,1 [0.96-1.05],0.944046274801155,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,WFIKKN1,"WAP, Kazal, immunoglobulin, Kunitz and NTR domain-containing protein 1",Inverse variance weighted,7,1 [0.91-1.1],0.94997245784729,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TGFBR2,TGF-beta receptor type-2,Inverse variance weighted,3,1.01 [0.76-1.33],0.950671461082704,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NRP1,Neuropilin-1,Inverse variance weighted,8,1 [0.95-1.06],0.953698352787088,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,THBD,Thrombomodulin,Inverse variance weighted,5,1 [0.91-1.1],0.954974850529837,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,RELT,Tumor necrosis factor receptor superfamily member 19L,Inverse variance weighted,11,1 [0.95-1.06],0.955326891838129,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ACVRL1,Serine/threonine-protein kinase receptor R3,Inverse variance weighted,9,1 [0.95-1.06],0.95651673851815,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CFHR5,Complement factor H-related protein 5,Inverse variance weighted,15,1 [0.95-1.05],0.957629985953069,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,MERTK,Tyrosine-protein kinase Mer,Inverse variance weighted,6,1 [0.94-1.07],0.957631570179818,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CEACAM21,Carcinoembryonic antigen-related cell adhesion molecule 21,Inverse variance weighted,20,1 [0.97-1.03],0.959955714835471,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CCN5,CCN family member 5,Inverse variance weighted,3,1 [0.85-1.18],0.961871706121357,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PSG1,Pregnancy-specific beta-1-glycoprotein 1,Inverse variance weighted,23,1 [0.97-1.02],0.961883157642207,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PXN,Paxillin,Inverse variance weighted,7,1 [0.95-1.05],0.962942858259391,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,LRG1,Leucine-rich alpha-2-glycoprotein,Inverse variance weighted,14,1 [0.93-1.08],0.967927403285449,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IGDCC4,Immunoglobulin superfamily DCC subclass member 4,Inverse variance weighted,11,1 [0.95-1.05],0.968561982652703,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,REG1A,Lithostathine-1-alpha,Inverse variance weighted,8,1 [0.94-1.06],0.968740324546589,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,VNN2,Vascular non-inflammatory molecule 2,Inverse variance weighted,15,1 [0.95-1.05],0.96983551012028,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,RETN,Resistin,Inverse variance weighted,4,1 [0.94-1.06],0.970150122531734,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,NPPB,Natriuretic peptides B,Wald ratio,1,1 [0.9-1.11],0.970643140556043,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD59,CD59 glycoprotein,Inverse variance weighted,5,1 [0.92-1.09],0.971439893523332,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TFF2,Trefoil factor 2,Inverse variance weighted,3,1 [0.88-1.13],0.972542114417018,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FCAR,Immunoglobulin alpha Fc receptor,Inverse variance weighted,12,1 [0.96-1.04],0.972987188119393,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,ITGAM,Integrin alpha-M,Inverse variance weighted,2,1 [0.79-1.28],0.975439037151285,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD274,Programmed cell death 1 ligand 1,Inverse variance weighted,13,1 [0.95-1.05],0.976855872601695,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,FETUB,Fetuin-B,Inverse variance weighted,6,1 [0.95-1.05],0.977507967948637,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GLO1,Lactoylglutathione lyase,Inverse variance weighted,8,1 [0.94-1.06],0.977564792855778,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CTSL,Cathepsin L1,Wald ratio,1,1.01 [0.67-1.5],0.978657266007109,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CSF1R,Macrophage colony-stimulating factor 1 receptor,Inverse variance weighted,4,1 [0.93-1.08],0.978882854713202,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TGFBR3,Transforming growth factor beta receptor type 3,Inverse variance weighted,4,1 [0.84-1.18],0.980846530004287,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PDCD1,Programmed cell death protein 1,Inverse variance weighted,2,1 [0.84-1.19],0.982612556642052,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CSTB,Cystatin-B,Inverse variance weighted,23,1 [0.97-1.03],0.985405027565727,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IL16,Pro-interleukin-16,Inverse variance weighted,12,1 [0.96-1.04],0.986156423680252,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CHAD,Chondroadherin,Inverse variance weighted,2,1 [0.71-1.42],0.98686432253567,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,IGF2R,Cation-independent mannose-6-phosphate receptor,Inverse variance weighted,18,1 [0.96-1.04],0.988004341010686,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD5L,CD5 antigen-like,Inverse variance weighted,5,1 [0.92-1.08],0.991652314511313,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CCL16,C-C motif chemokine 16,Inverse variance weighted,9,1 [0.97-1.03],0.991778362545376,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,EFCAB14,EF-hand calcium-binding domain-containing protein 14,Wald ratio,1,1 [0.8-1.25],0.992747000272936,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CD5,T-cell surface glycoprotein CD5,Inverse variance weighted,7,1 [0.89-1.13],0.993534131394479,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SERPINA4,Kallistatin,Inverse variance weighted,8,1 [0.93-1.07],0.993770472643832,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,CHCHD6,MICOS complex subunit MIC25,Inverse variance weighted,5,1 [0.9-1.11],0.994160994224443,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,GPR15L,Protein GPR15L,Inverse variance weighted,6,1 [0.89-1.13],0.995406160381435,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SSC4D,Scavenger receptor cysteine-rich domain-containing group B protein,Inverse variance weighted,5,1 [0.94-1.06],0.995623268690137,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,KIT,Mast/stem cell growth factor receptor Kit,Inverse variance weighted,2,1 [0.57-1.75],0.995676643608517,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,TINAGL1,Tubulointerstitial nephritis antigen-like,Inverse variance weighted,2,1 [0.8-1.25],0.998445875886554,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,PAG1,Phosphoprotein associated with glycosphingolipid-enriched microdomains 1,Wald ratio,1,1 [0.78-1.29],0.999339451093201,cis
+Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,SCG2,Secretogranin-2,Wald ratio,1,1 [0.65-1.53],0.999656401842147,cis

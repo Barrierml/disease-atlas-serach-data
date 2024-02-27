@@ -1,0 +1,10 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+KLK13,Kallikrein-13,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.59 [0.43-0.8],0.000667588793047963,trans
+KLK13,Kallikrein-13,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.11 [1.03-1.19],0.00617084596451669,trans
+KLK13,Kallikrein-13,Chapter XII Diseases of the skin and subcutaneous tissue,L12_PSORIASIS,Inverse variance weighted,30,1.03 [1-1.07],0.0452482153242294,trans
+KLK13,Kallikrein-13,Chapter XII Diseases of the skin and subcutaneous tissue,L12_PSORI_NAS,Inverse variance weighted,3,1.06 [1-1.13],0.0492853152137008,trans
+KLK13,Kallikrein-13,Chapter XII Diseases of the skin and subcutaneous tissue,L12_PAPULOSQUAMOUS,Inverse variance weighted,24,1.03 [0.98-1.08],0.203709038677746,trans
+KLK13,Kallikrein-13,Chapter V Mental and behavioural disorders,SMOKING_DEPEND,Wald ratio,1,0.96 [0.88-1.04],0.287412020140809,trans
+KLK13,Kallikrein-13,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.97 [0.89-1.06],0.541961038035831,trans
+KLK13,Kallikrein-13,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.93 [0.69-1.24],0.620735749159187,trans
+KLK13,Kallikrein-13,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,0.94 [0.74-1.2],0.625033745040149,trans

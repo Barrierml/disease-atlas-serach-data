@@ -1,0 +1,9 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+CSF3,Granulocyte colony-stimulating factor,Chapter II Neoplasms,C3_BREAST_EXALLC,Wald ratio,1,0.72 [0.52-1],0.0474230138359907,cis
+CSF3,Granulocyte colony-stimulating factor,Chapter XI Diseases of the digestive system,CHRONNAS,Wald ratio,1,0.53 [0.23-1.24],0.146253132525204,cis
+CSF3,Granulocyte colony-stimulating factor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SJOGREN,Wald ratio,1,0.84 [0.39-1.8],0.657315561637007,cis
+CSF3,Granulocyte colony-stimulating factor,Chapter II Neoplasms,C3_NONHODGKIN_EXALLC,Wald ratio,1,1.31 [0.38-4.54],0.671580342389887,cis
+CSF3,Granulocyte colony-stimulating factor,Chapter XI Diseases of the digestive system,CHRONNAS,Inverse variance weighted,6,0.71 [0.49-1.05],0.0844247262571875,trans
+CSF3,Granulocyte colony-stimulating factor,Chapter II Neoplasms,C3_NONHODGKIN_EXALLC,Inverse variance weighted,6,0.9 [0.51-1.58],0.709097768656523,trans
+CSF3,Granulocyte colony-stimulating factor,Chapter II Neoplasms,C3_BREAST_EXALLC,Inverse variance weighted,6,1.02 [0.82-1.26],0.869014921662398,trans
+CSF3,Granulocyte colony-stimulating factor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SJOGREN,Inverse variance weighted,6,1.02 [0.66-1.57],0.945021016310004,trans

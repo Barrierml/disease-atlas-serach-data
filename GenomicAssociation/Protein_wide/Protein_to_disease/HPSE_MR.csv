@@ -1,0 +1,21 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+HPSE,Heparanase,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Wald ratio,1,0.97 [0.92-1.02],0.20281423337741,cis
+HPSE,Heparanase,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Wald ratio,1,1.02 [0.98-1.07],0.295835723688022,cis
+HPSE,Heparanase,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Wald ratio,1,0.96 [0.88-1.04],0.314562892431099,cis
+HPSE,Heparanase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Wald ratio,1,0.96 [0.86-1.07],0.43643419117142,cis
+HPSE,Heparanase,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Wald ratio,1,1.02 [0.97-1.06],0.476619573462142,cis
+HPSE,Heparanase,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Wald ratio,1,0.98 [0.92-1.04],0.498993281099634,cis
+HPSE,Heparanase,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Wald ratio,1,1.01 [0.97-1.06],0.578127990710766,cis
+HPSE,Heparanase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Wald ratio,1,0.98 [0.9-1.08],0.716240488491883,cis
+HPSE,Heparanase,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Wald ratio,1,0.99 [0.95-1.04],0.733856445093787,cis
+HPSE,Heparanase,Chapter X Diseases of the respiratory system,J10_PLEURA,Wald ratio,1,0.99 [0.9-1.08],0.775631921752271,cis
+HPSE,Heparanase,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,7,1.05 [0.95-1.17],0.330779406785477,trans
+HPSE,Heparanase,Chapter X Diseases of the respiratory system,J10_PLEURA,Inverse variance weighted,7,1.09 [0.91-1.31],0.341024954478957,trans
+HPSE,Heparanase,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,7,0.94 [0.81-1.09],0.393875156359852,trans
+HPSE,Heparanase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,7,1.07 [0.8-1.42],0.655021978894461,trans
+HPSE,Heparanase,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,7,1.02 [0.9-1.16],0.74917258104007,trans
+HPSE,Heparanase,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Inverse variance weighted,7,0.99 [0.9-1.09],0.799144073941968,trans
+HPSE,Heparanase,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,7,1.01 [0.92-1.11],0.876845708756546,trans
+HPSE,Heparanase,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,7,1.02 [0.81-1.28],0.881446663031155,trans
+HPSE,Heparanase,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Inverse variance weighted,7,1 [0.91-1.1],0.956602876063637,trans
+HPSE,Heparanase,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,1 [0.8-1.24],0.997320900493473,trans

@@ -1,0 +1,45 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+OSM,Oncostatin-M,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,1.71 [1.52-1.93],9.76025444287805e-19,trans
+OSM,Oncostatin-M,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,2.9 [2.26-3.72],5.18153105530176e-17,trans
+OSM,Oncostatin-M,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,1.12 [1.04-1.19],0.00119533492869417,trans
+OSM,Oncostatin-M,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,1.41 [1.14-1.73],0.00135665759047116,trans
+OSM,Oncostatin-M,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,61,1.14 [1.05-1.24],0.00233293926425626,trans
+OSM,Oncostatin-M,Chapter X Diseases of the respiratory system,J10_ASTHMA_EXMORE,Inverse variance weighted,59,1.09 [1.03-1.15],0.00255130753701267,trans
+OSM,Oncostatin-M,Chapter IX Diseases of the circulatory system,I9_CARDARR,Inverse variance weighted,2,1.08 [1.03-1.14],0.00302841682692613,trans
+OSM,Oncostatin-M,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1.2 [1.06-1.36],0.00413634396008999,trans
+OSM,Oncostatin-M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,0.69 [0.5-0.95],0.0246621343508855,trans
+OSM,Oncostatin-M,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,35,1.06 [0.99-1.12],0.0744520251608427,trans
+OSM,Oncostatin-M,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.06 [0.98-1.14],0.135544599008759,trans
+OSM,Oncostatin-M,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,1.02 [0.99-1.05],0.155653534335908,trans
+OSM,Oncostatin-M,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERBLOOD,Wald ratio,1,1.05 [0.98-1.12],0.160501334659564,trans
+OSM,Oncostatin-M,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,0.98 [0.94-1.01],0.173339516786539,trans
+OSM,Oncostatin-M,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Inverse variance weighted,13,1.13 [0.94-1.35],0.191850745058343,trans
+OSM,Oncostatin-M,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,1.2 [0.88-1.64],0.25222605117966,trans
+OSM,Oncostatin-M,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,5,1.12 [0.92-1.37],0.253360428255504,trans
+OSM,Oncostatin-M,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,1.14 [0.9-1.45],0.277829621462618,trans
+OSM,Oncostatin-M,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.07 [0.94-1.22],0.308800182885093,trans
+OSM,Oncostatin-M,Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,2,0.9 [0.73-1.11],0.313217859187433,trans
+OSM,Oncostatin-M,Chapter V Mental and behavioural disorders,SMOKING_DEPEND,Wald ratio,1,1.04 [0.96-1.14],0.329617049953321,trans
+OSM,Oncostatin-M,Chapter I Certain infectious and parasitic diseases,AB1_MYCOSES,Wald ratio,1,0.92 [0.76-1.1],0.349759134078578,trans
+OSM,Oncostatin-M,Chapter X Diseases of the respiratory system,COPD_LATER,Wald ratio,1,0.96 [0.88-1.05],0.358818273833362,trans
+OSM,Oncostatin-M,Chapter X Diseases of the respiratory system,IPF,Inverse variance weighted,20,1.01 [0.99-1.02],0.366895120212471,trans
+OSM,Oncostatin-M,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,11,1.03 [0.97-1.09],0.375339573885333,trans
+OSM,Oncostatin-M,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,1.06 [0.93-1.21],0.376505051572756,trans
+OSM,Oncostatin-M,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,21,1.01 [0.99-1.03],0.407205830699335,trans
+OSM,Oncostatin-M,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,7,1.15 [0.8-1.67],0.449718659208242,trans
+OSM,Oncostatin-M,Chapter XI Diseases of the digestive system,K11_CROHN,Inverse variance weighted,3,1.01 [0.98-1.05],0.467591888692405,trans
+OSM,Oncostatin-M,Chapter XI Diseases of the digestive system,K11_CD_NOUC,Inverse variance weighted,4,1.01 [0.98-1.04],0.468563161993391,trans
+OSM,Oncostatin-M,Chapter X Diseases of the respiratory system,COPD_EARLY,Inverse variance weighted,3,1.03 [0.95-1.1],0.509130163061641,trans
+OSM,Oncostatin-M,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Wald ratio,1,0.91 [0.68-1.22],0.527929508568057,trans
+OSM,Oncostatin-M,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.09 [0.84-1.4],0.53055306226507,trans
+OSM,Oncostatin-M,Chapter XI Diseases of the digestive system,K11_CD_STRICT2,Inverse variance weighted,8,1.01 [0.98-1.03],0.554786956930475,trans
+OSM,Oncostatin-M,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,1.07 [0.85-1.35],0.565799153525329,trans
+OSM,Oncostatin-M,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Inverse variance weighted,4,1.01 [0.98-1.03],0.573191285701769,trans
+OSM,Oncostatin-M,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Wald ratio,1,0.99 [0.94-1.05],0.848764577746477,trans
+OSM,Oncostatin-M,Chapter X Diseases of the respiratory system,J10_EMPHYSEMA,Wald ratio,1,1 [0.94-1.05],0.85745454539784,trans
+OSM,Oncostatin-M,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,0.99 [0.84-1.15],0.866191614662306,trans
+OSM,Oncostatin-M,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Wald ratio,1,1 [0.94-1.08],0.912599917287049,trans
+OSM,Oncostatin-M,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,1 [0.92-1.09],0.931205153751014,trans
+OSM,Oncostatin-M,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1.01 [0.73-1.4],0.937060042866829,trans
+OSM,Oncostatin-M,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,1.01 [0.83-1.21],0.946242976455931,trans
+OSM,Oncostatin-M,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,1 [0.8-1.23],0.968078984795821,trans

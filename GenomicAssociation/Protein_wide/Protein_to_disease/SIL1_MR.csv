@@ -1,0 +1,7 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+SIL1,Nucleotide exchange factor SIL1,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,2,0.77 [0.5-1.18],0.230220994478251,cis
+SIL1,Nucleotide exchange factor SIL1,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Inverse variance weighted,2,1.18 [0.74-1.88],0.494250501080049,cis
+SIL1,Nucleotide exchange factor SIL1,Chapter X Diseases of the respiratory system,J10_PLEURA,Inverse variance weighted,2,1.11 [0.77-1.61],0.571710484947283,cis
+SIL1,Nucleotide exchange factor SIL1,Chapter X Diseases of the respiratory system,J10_PLEURA,Wald ratio,1,0.68 [0.51-0.9],0.00689101621594296,trans
+SIL1,Nucleotide exchange factor SIL1,Chapter XI Diseases of the digestive system,K11_LIVER,Wald ratio,1,0.72 [0.52-1],0.0533038626962058,trans
+SIL1,Nucleotide exchange factor SIL1,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Wald ratio,1,1.02 [0.72-1.45],0.914957994128282,trans

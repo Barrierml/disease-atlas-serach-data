@@ -1,0 +1,18 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+CD164,Sialomucin core protein 24,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.16 [1.07-1.25],0.000160037156422259,trans
+CD164,Sialomucin core protein 24,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.4 [1.08-1.82],0.0104239788923985,trans
+CD164,Sialomucin core protein 24,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,1.08 [1-1.18],0.0645865081832228,trans
+CD164,Sialomucin core protein 24,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,1.04 [0.99-1.1],0.119245672277816,trans
+CD164,Sialomucin core protein 24,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,0.97 [0.94-1.01],0.19334221683157,trans
+CD164,Sialomucin core protein 24,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,1.02 [0.98-1.05],0.318488047201648,trans
+CD164,Sialomucin core protein 24,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,8,1.02 [0.97-1.07],0.467903608475261,trans
+CD164,Sialomucin core protein 24,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Inverse variance weighted,5,0.99 [0.95-1.03],0.468304862335517,trans
+CD164,Sialomucin core protein 24,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,0.96 [0.82-1.12],0.605750051601098,trans
+CD164,Sialomucin core protein 24,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Wald ratio,1,0.99 [0.94-1.04],0.688066270364801,trans
+CD164,Sialomucin core protein 24,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.96 [0.7-1.31],0.794942284438043,trans
+CD164,Sialomucin core protein 24,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.99 [0.92-1.07],0.851317958987801,trans
+CD164,Sialomucin core protein 24,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,8,1.01 [0.94-1.08],0.864041625150808,trans
+CD164,Sialomucin core protein 24,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1 [0.96-1.04],0.879426488188204,trans
+CD164,Sialomucin core protein 24,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,1 [0.98-1.03],0.920567145231206,trans
+CD164,Sialomucin core protein 24,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,5,1 [0.95-1.06],0.926410349497108,trans
+CD164,Sialomucin core protein 24,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.99 [0.71-1.37],0.950698230399136,trans

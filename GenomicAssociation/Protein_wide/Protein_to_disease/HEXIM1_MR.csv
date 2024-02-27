@@ -1,0 +1,12 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+HEXIM1,Protein HEXIM1,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Wald ratio,1,1.24 [0.94-1.62],0.124605143861204,cis
+HEXIM1,Protein HEXIM1,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Wald ratio,1,1.21 [0.94-1.55],0.146195980130146,cis
+HEXIM1,Protein HEXIM1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Wald ratio,1,0.91 [0.64-1.29],0.585290212198098,cis
+HEXIM1,Protein HEXIM1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Wald ratio,1,0.92 [0.61-1.4],0.709412018960632,cis
+HEXIM1,Protein HEXIM1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Wald ratio,1,0.93 [0.5-1.74],0.823874875184829,cis
+HEXIM1,Protein HEXIM1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Wald ratio,1,1 [0.74-1.36],0.982678569260502,cis
+HEXIM1,Protein HEXIM1,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Inverse variance weighted,2,1.16 [0.95-1.42],0.138134795372798,trans
+HEXIM1,Protein HEXIM1,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Inverse variance weighted,2,1.14 [0.95-1.38],0.169034704775294,trans
+HEXIM1,Protein HEXIM1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,2,0.94 [0.72-1.22],0.64140036913452,trans
+HEXIM1,Protein HEXIM1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,2,1.1 [0.69-1.75],0.696221898498905,trans
+HEXIM1,Protein HEXIM1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,2,0.99 [0.79-1.24],0.954122330028542,trans

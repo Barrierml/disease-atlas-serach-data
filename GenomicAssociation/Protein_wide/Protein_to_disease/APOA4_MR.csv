@@ -1,0 +1,53 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Wald ratio,1,0.32 [0.14-0.74],0.00758443800649675,cis
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Wald ratio,1,0.36 [0.16-0.79],0.010456551888023,cis
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Wald ratio,1,0.22 [0.06-0.84],0.026253728913098,cis
+APOA4,Apolipoprotein A-IV,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Wald ratio,1,8.77 [1.16-66.4],0.0355733501634755,cis
+APOA4,Apolipoprotein A-IV,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Wald ratio,1,1.93 [0.94-3.98],0.0753845867040732,cis
+APOA4,Apolipoprotein A-IV,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Wald ratio,1,0.15 [0.02-1.39],0.0945328609597019,cis
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERKALAEMIA,Wald ratio,1,0.27 [0.04-1.66],0.156485739621083,cis
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Wald ratio,1,0.5 [0.17-1.46],0.206355239137924,cis
+APOA4,Apolipoprotein A-IV,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Wald ratio,1,0.62 [0.25-1.55],0.304985808823606,cis
+APOA4,Apolipoprotein A-IV,Chapter XIV Diseases of the genitourinary system,N14_RENFAILNAS,Wald ratio,1,0.49 [0.12-1.97],0.316689432590088,cis
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2OPTH,Wald ratio,1,1.7 [0.59-4.9],0.325501190788391,cis
+APOA4,Apolipoprotein A-IV,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,0.73 [0.35-1.51],0.399024574409065,cis
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NEU,Wald ratio,1,1.71 [0.39-7.37],0.474432425959829,cis
+APOA4,Apolipoprotein A-IV,Chapter XIV Diseases of the genitourinary system,N14_CHRONEPHROPATH,Wald ratio,1,1.85 [0.23-15.16],0.567788490204143,cis
+APOA4,Apolipoprotein A-IV,Chapter XII Diseases of the skin and subcutaneous tissue,L12_ULCERLOWLIMB,Wald ratio,1,0.76 [0.24-2.4],0.63508662754338,cis
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,0.84 [0.4-1.76],0.641813625692898,cis
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,2.15 [0.07-70],0.667576609836035,cis
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Wald ratio,1,0.75 [0.19-2.94],0.681884736305437,cis
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,0.78 [0.21-2.92],0.708270057560145,cis
+APOA4,Apolipoprotein A-IV,Chapter XIV Diseases of the genitourinary system,N14_GLOMEINOTH,Wald ratio,1,0.83 [0.25-2.77],0.761400192350761,cis
+APOA4,Apolipoprotein A-IV,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Wald ratio,1,0.91 [0.49-1.69],0.764290310592611,cis
+APOA4,Apolipoprotein A-IV,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,1.04 [0.71-1.53],0.841711449641648,cis
+APOA4,Apolipoprotein A-IV,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Wald ratio,1,1.08 [0.35-3.29],0.898732586368219,cis
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEUROPATHY,Wald ratio,1,1.08 [0.31-3.81],0.904238120651811,cis
+APOA4,Apolipoprotein A-IV,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_CHOROIDRETINA,Wald ratio,1,1.02 [0.67-1.54],0.940103205625422,cis
+APOA4,Apolipoprotein A-IV,Chapter I Certain infectious and parasitic diseases,AB1_INTESTINAL_INFECTIONS,Wald ratio,1,1.01 [0.7-1.46],0.960487052785702,cis
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,4,1.89 [1.09-3.31],0.0243776778325284,trans
+APOA4,Apolipoprotein A-IV,Chapter XIV Diseases of the genitourinary system,N14_GLOMEINOTH,Inverse variance weighted,4,2.26 [1.1-4.63],0.0258776751650874,trans
+APOA4,Apolipoprotein A-IV,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Inverse variance weighted,4,1.8 [0.9-3.62],0.0977143457209242,trans
+APOA4,Apolipoprotein A-IV,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,4,3.33 [0.74-14.96],0.117032169129629,trans
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2OPTH,Inverse variance weighted,4,0.67 [0.38-1.16],0.151721823587618,trans
+APOA4,Apolipoprotein A-IV,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Inverse variance weighted,4,5.67 [0.51-62.46],0.156679118032765,trans
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Inverse variance weighted,4,0.54 [0.22-1.33],0.17801228524521,trans
+APOA4,Apolipoprotein A-IV,Chapter XIV Diseases of the genitourinary system,N14_RENFAILNAS,Inverse variance weighted,4,2.52 [0.62-10.22],0.196677125262987,trans
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Inverse variance weighted,4,0.44 [0.1-1.95],0.279263551851209,trans
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Inverse variance weighted,4,1.76 [0.62-4.99],0.2848306221786,trans
+APOA4,Apolipoprotein A-IV,Chapter XII Diseases of the skin and subcutaneous tissue,L12_ULCERLOWLIMB,Inverse variance weighted,4,0.76 [0.43-1.35],0.34657018289392,trans
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Inverse variance weighted,4,0.47 [0.09-2.36],0.362083596168061,trans
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NEU,Inverse variance weighted,4,0.61 [0.2-1.83],0.380818527074057,trans
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERKALAEMIA,Inverse variance weighted,4,1.62 [0.53-4.96],0.398651621357265,trans
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEUROPATHY,Inverse variance weighted,4,0.64 [0.2-2.05],0.451611700216606,trans
+APOA4,Apolipoprotein A-IV,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,4,0.73 [0.31-1.72],0.471787716292668,trans
+APOA4,Apolipoprotein A-IV,Chapter I Certain infectious and parasitic diseases,AB1_INTESTINAL_INFECTIONS,Inverse variance weighted,4,0.94 [0.78-1.13],0.49183965342162,trans
+APOA4,Apolipoprotein A-IV,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,4,0.82 [0.43-1.59],0.562546127918393,trans
+APOA4,Apolipoprotein A-IV,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_CHOROIDRETINA,Inverse variance weighted,4,1.06 [0.86-1.3],0.593560006954781,trans
+APOA4,Apolipoprotein A-IV,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,4,0.95 [0.78-1.15],0.598274786559207,trans
+APOA4,Apolipoprotein A-IV,Chapter XIV Diseases of the genitourinary system,N14_CHRONEPHROPATH,Inverse variance weighted,4,1.51 [0.3-7.68],0.620031060838907,trans
+APOA4,Apolipoprotein A-IV,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,1.34 [0.37-4.9],0.657050634287855,trans
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Inverse variance weighted,4,0.95 [0.66-1.37],0.786346652767131,trans
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,4,0.95 [0.61-1.49],0.827083467578025,trans
+APOA4,Apolipoprotein A-IV,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,4,0.98 [0.61-1.57],0.917676683939905,trans
+APOA4,Apolipoprotein A-IV,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,1.01 [0.65-1.56],0.970122908367587,trans

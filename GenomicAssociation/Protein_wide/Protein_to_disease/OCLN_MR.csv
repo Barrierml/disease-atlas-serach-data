@@ -1,0 +1,511 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_GIDISEASES,Wald ratio,1,0.9 [0.83-0.97],0.00420821066020216,cis
+OCLN,Occludin,Chapter VI Diseases of the nervous system,G6_NEURO,Wald ratio,1,0.87 [0.79-0.96],0.00572604752790591,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_CEREBDOTH,Inverse variance weighted,2,0.48 [0.28-0.81],0.00643534387444858,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_GASTRODUOULC,Inverse variance weighted,2,1.33 [1.06-1.67],0.0143447056603887,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_HERNIA,Inverse variance weighted,2,0.88 [0.79-0.98],0.0149698391034509,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Inverse variance weighted,2,1.62 [1.07-2.46],0.023706443006715,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_VASCINT,Inverse variance weighted,2,0.57 [0.34-0.95],0.0297743937169736,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_OBESITY,Inverse variance weighted,2,0.85 [0.73-0.99],0.0313495691269871,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,2,1.45 [1.03-2.04],0.0317431111013465,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Inverse variance weighted,2,1.13 [1.01-1.26],0.0319144990092613,cis
+OCLN,Occludin,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,2,1.19 [1.01-1.39],0.0333080153050504,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_ASTHMA_EXMORE,Inverse variance weighted,2,0.88 [0.79-0.99],0.0337527692557208,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Inverse variance weighted,2,2.05 [1.05-4.03],0.0359555978783856,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,PNEUMOBACTKNOWN,Wald ratio,1,0.57 [0.34-0.96],0.0361972692001767,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_GULC,Inverse variance weighted,2,1.35 [1.02-1.79],0.0385645806931425,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Inverse variance weighted,2,1.23 [1.01-1.5],0.0398032770730581,cis
+OCLN,Occludin,Chapter VI Diseases of the nervous system,G6_CERCYST,Inverse variance weighted,2,1.76 [1.03-3.03],0.0403306370372337,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,2,0.91 [0.83-1],0.0417375934917021,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Wald ratio,1,0.92 [0.84-1],0.0418988740168542,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_HYPTENSPUL,Inverse variance weighted,2,0.24 [0.06-0.96],0.043510857901768,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_VIRAL_IMPL,Wald ratio,1,0.72 [0.52-0.99],0.0436712289609642,cis
+OCLN,Occludin,Chapter V Mental and behavioural disorders,F5_ALCOHOLAC,Inverse variance weighted,2,1.27 [1.01-1.6],0.0443228515871847,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DORSALGIANAS,Inverse variance weighted,2,1.21 [1-1.46],0.0443665019627308,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_COELIAC,Inverse variance weighted,2,1.42 [0.99-2.03],0.0569630775281964,cis
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_GENITOURINARY,Wald ratio,1,0.93 [0.86-1],0.0571829051315274,cis
+OCLN,Occludin,Chapter V Mental and behavioural disorders,F5_DELIRIUM,Inverse variance weighted,2,1.45 [0.98-2.15],0.0626661396334517,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_LBBB,Inverse variance weighted,2,1.59 [0.97-2.6],0.0636055360344894,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_DULC,Inverse variance weighted,2,1.41 [0.98-2.02],0.0660582948369166,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHDIG,Inverse variance weighted,2,1.18 [0.99-1.4],0.067294095195075,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_VIRALPNEUMO,Inverse variance weighted,2,1.46 [0.97-2.2],0.0682596234319988,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_OBESITYNAS,Inverse variance weighted,2,0.75 [0.54-1.03],0.0727297096244283,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_PERITONITIS,Inverse variance weighted,2,1.59 [0.96-2.64],0.0729654912078518,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,2,0.83 [0.68-1.02],0.0733811024997131,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Inverse variance weighted,2,1.53 [0.96-2.43],0.0753146041400694,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_CANDIDIASIS,Inverse variance weighted,2,0.73 [0.52-1.03],0.076173702651611,cis
+OCLN,Occludin,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Inverse variance weighted,2,1.22 [0.98-1.53],0.0793517554881441,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Inverse variance weighted,2,0.78 [0.59-1.03],0.0847524574256169,cis
+OCLN,Occludin,Chapter V Mental and behavioural disorders,AUD,Inverse variance weighted,2,1.19 [0.98-1.45],0.0858955636383044,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_PHLETHROM,Inverse variance weighted,2,0.8 [0.62-1.03],0.0880719736790033,cis
+OCLN,Occludin,Chapter VI Diseases of the nervous system,G6_OTHNEU,Inverse variance weighted,2,1.15 [0.98-1.35],0.0908890344410462,cis
+OCLN,Occludin,Chapter V Mental and behavioural disorders,KRA_PSY_MOOD_EXMORE,Wald ratio,1,0.88 [0.76-1.02],0.0914122130800946,cis
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,2,1.12 [0.98-1.27],0.0919136646866827,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SPONDYLOSIS,Inverse variance weighted,2,0.88 [0.75-1.03],0.10354026645031,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERCHOL,Inverse variance weighted,2,1.13 [0.98-1.3],0.105090108422917,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,2,1.1 [0.98-1.24],0.114780516099366,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_MALABSORB,Inverse variance weighted,2,1.76 [0.87-3.58],0.116083715567046,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,2,0.9 [0.79-1.03],0.116331182999921,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Inverse variance weighted,2,0.89 [0.76-1.03],0.124921605769563,cis
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,2,1.09 [0.98-1.21],0.125739922612186,cis
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,0.92 [0.82-1.03],0.126821019133148,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_RHEUVALV,Inverse variance weighted,2,1.84 [0.82-4.12],0.137558427904792,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_HEPFAIL,Inverse variance weighted,2,1.68 [0.84-3.37],0.140368885711656,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_PAD,Wald ratio,1,1.25 [0.93-1.67],0.141378970967349,cis
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_THROMBOCYTOPENIANAS,Inverse variance weighted,2,1.44 [0.88-2.36],0.151464887374205,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOMETPOSTOP,Inverse variance weighted,2,0.76 [0.53-1.1],0.15151813843296,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,IBD_BACT_INTEST_INFECTIONS,Wald ratio,1,1.3 [0.9-1.88],0.158721353704282,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_BACTINF_NOS,Inverse variance weighted,2,1.12 [0.95-1.32],0.160942330626072,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,CHRONNAS,Inverse variance weighted,2,0.71 [0.44-1.15],0.164547516681723,cis
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_GLOMEINOTH,Inverse variance weighted,2,1.3 [0.9-1.88],0.168746979447643,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_NOS,Inverse variance weighted,2,0.78 [0.55-1.11],0.168976136780201,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,2,1.08 [0.97-1.21],0.169819524911018,cis
+OCLN,Occludin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_CATARACTOTHER,Inverse variance weighted,2,0.88 [0.74-1.05],0.169831842497915,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_EXPLICIT,Wald ratio,1,1.15 [0.94-1.41],0.173566757721116,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DORSOPATHY,Inverse variance weighted,2,1.06 [0.98-1.14],0.17431847439917,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,IPF,Inverse variance weighted,2,1.39 [0.86-2.24],0.175314059901366,cis
+OCLN,Occludin,Chapter VI Diseases of the nervous system,G6_NERPLEX,Inverse variance weighted,2,0.93 [0.83-1.03],0.181200429796632,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_PERITON,Inverse variance weighted,2,1.3 [0.88-1.93],0.181664181770815,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_SECONDRIGHT,Inverse variance weighted,2,0.64 [0.33-1.25],0.192641377931976,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_ABAORTANEUR,Inverse variance weighted,2,1.27 [0.88-1.83],0.194881690798518,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_BACT_IMPL,Wald ratio,1,1.13 [0.94-1.37],0.196857268621442,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Wald ratio,1,0.91 [0.8-1.05],0.198346940373143,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_AORTANEUR,Inverse variance weighted,2,1.18 [0.91-1.53],0.201509428029858,cis
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIAINCHRONICDISEASE,Inverse variance weighted,2,1.77 [0.73-4.29],0.205046011338158,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,2,0.83 [0.61-1.11],0.206424441277869,cis
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_CHRONEPHROPATH,Inverse variance weighted,2,1.51 [0.79-2.89],0.213380188020781,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MG_MET,Inverse variance weighted,2,3 [0.53-16.96],0.213582891071269,cis
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_TUBULOINTNEPHRNAS,Inverse variance weighted,2,1.34 [0.84-2.13],0.226354017400457,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_REFLUX,Inverse variance weighted,2,0.92 [0.8-1.06],0.23450299644713,cis
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Inverse variance weighted,2,1.23 [0.87-1.74],0.2345097423124,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_PAROXTAC,Inverse variance weighted,2,1.15 [0.91-1.45],0.235851675671821,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Wald ratio,1,0.9 [0.75-1.07],0.236502328022213,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_OTHILLHEART,Inverse variance weighted,2,0.72 [0.41-1.25],0.237534767493395,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OTHCONN,Wald ratio,1,1.21 [0.88-1.67],0.246032708576516,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,2,1.09 [0.94-1.26],0.247784368167753,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Inverse variance weighted,2,1.49 [0.75-2.94],0.251576061330836,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_VTE,Inverse variance weighted,2,0.91 [0.78-1.07],0.255437632375654,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_DIAHER,Inverse variance weighted,2,0.89 [0.73-1.09],0.269807815074836,cis
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Inverse variance weighted,2,0.84 [0.62-1.15],0.277531244103446,cis
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,2,1.09 [0.93-1.28],0.279025467527903,cis
+OCLN,Occludin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_SKIN_SUBCUTAN,Wald ratio,1,0.95 [0.86-1.04],0.279271382114936,cis
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_SPLEENDISEASE,Inverse variance weighted,2,2.09 [0.54-8.01],0.283007413287914,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHGASTR,Inverse variance weighted,2,1.16 [0.88-1.52],0.287885943436568,cis
+OCLN,Occludin,Chapter V Mental and behavioural disorders,KRA_PSY_ANXIETY_EXMORE,Inverse variance weighted,2,0.92 [0.79-1.08],0.304929517639157,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_SEQULAE,Inverse variance weighted,2,1.12 [0.9-1.38],0.305339016932661,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Wald ratio,1,1.2 [0.84-1.72],0.306859700960046,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_IBS,Inverse variance weighted,2,1.13 [0.9-1.41],0.307908097984101,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_HYPOTE,Inverse variance weighted,2,1.18 [0.86-1.63],0.310897535835218,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SPONDYLOPATHY,Inverse variance weighted,2,0.94 [0.83-1.06],0.32070418752134,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHANRECT,Inverse variance weighted,2,1.11 [0.89-1.39],0.336975006660149,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,2,0.94 [0.82-1.07],0.338936883178229,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_THYROID,Inverse variance weighted,2,0.95 [0.86-1.05],0.341924904566514,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_CARDMYOOTH,Inverse variance weighted,2,1.29 [0.76-2.2],0.343010470365724,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DORSOPATHYOTH,Inverse variance weighted,2,1.04 [0.96-1.14],0.344324391194166,cis
+OCLN,Occludin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,2,0.84 [0.59-1.21],0.352278632631655,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_CONDUCTIO,Inverse variance weighted,2,1.11 [0.89-1.39],0.355917425444683,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,2,0.88 [0.67-1.16],0.36139713893133,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_VOLUME,Inverse variance weighted,2,0.83 [0.55-1.25],0.37165243041856,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_BACT_INTEST_OTH,Inverse variance weighted,2,0.86 [0.62-1.2],0.378024900331251,cis
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,2,1.09 [0.9-1.32],0.38021362186368,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_CROHN,Wald ratio,1,0.81 [0.51-1.3],0.38141342129038,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_POSTOPDIS,Inverse variance weighted,2,0.72 [0.34-1.52],0.38919162241708,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHFUNC,Inverse variance weighted,2,0.9 [0.71-1.14],0.391804708121784,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,RESPIRATORYINSUFF,Wald ratio,1,1.57 [0.56-4.46],0.39333058319323,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_PULMOTHHD,Wald ratio,1,1.24 [0.76-2.03],0.394433945370802,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACT_INOTHER,Inverse variance weighted,2,1.78 [0.47-6.77],0.396549718472149,cis
+OCLN,Occludin,Chapter V Mental and behavioural disorders,F5_DEPRESSIO,Inverse variance weighted,2,0.94 [0.81-1.09],0.396767885158043,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOMYELITIS,Inverse variance weighted,2,1.29 [0.71-2.33],0.397027572848651,cis
+OCLN,Occludin,Chapter V Mental and behavioural disorders,F5_ANXIETY,Inverse variance weighted,2,0.9 [0.71-1.15],0.399656128983692,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_ARTEMBTHRLOW,Inverse variance weighted,2,0.59 [0.17-2.02],0.400382007052742,cis
+OCLN,Occludin,Chapter VI Diseases of the nervous system,G6_EPIPAROX,Inverse variance weighted,2,0.95 [0.85-1.07],0.40900857394644,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_CHOLECYST,Inverse variance weighted,2,1.19 [0.78-1.81],0.412852732245918,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_STREPTSTAPHYCOCC_INOTHER,Inverse variance weighted,2,2.06 [0.36-11.75],0.413969598257062,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_INFLUENZA,Inverse variance weighted,2,0.91 [0.72-1.15],0.419695344915491,cis
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_KIDUROTH,Inverse variance weighted,2,1.16 [0.81-1.66],0.424650222377996,cis
+OCLN,Occludin,Chapter VI Diseases of the nervous system,G6_EPLEPSY,Inverse variance weighted,2,1.09 [0.89-1.33],0.429731062320399,cis
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_FOLATEDEF,Inverse variance weighted,2,1.89 [0.38-9.32],0.435937523506215,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Inverse variance weighted,2,1.13 [0.82-1.56],0.445102837378266,cis
+OCLN,Occludin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_OTHERSKINSUBCUTIS,Inverse variance weighted,2,1.06 [0.92-1.22],0.446737862502769,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1.26 [0.69-2.31],0.447220017035587,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,COLITNONINFNAS,Wald ratio,1,0.94 [0.79-1.11],0.449101372612802,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_CARDMYO,Inverse variance weighted,2,1.25 [0.7-2.21],0.450699287908402,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_STR,Inverse variance weighted,2,1.09 [0.87-1.38],0.451591137196071,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_INFECT_PARASIT,Wald ratio,1,1.04 [0.94-1.15],0.452949472197602,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_MYCOSES,Inverse variance weighted,2,0.84 [0.52-1.34],0.459288192241339,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_BONECONTINUITY,Inverse variance weighted,2,1.67 [0.43-6.45],0.460231878690608,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_CA_MET,Wald ratio,1,0.87 [0.6-1.26],0.46034752472938,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,COPD_EARLY,Inverse variance weighted,2,1.1 [0.85-1.42],0.468348263930623,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,2,0.9 [0.69-1.19],0.471343193997795,cis
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,0.95 [0.81-1.1],0.481743826727812,cis
+OCLN,Occludin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Inverse variance weighted,2,1.22 [0.7-2.14],0.481911699849861,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_RBBB,Inverse variance weighted,2,0.67 [0.22-2.05],0.485083514298667,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERLIPNAS,Inverse variance weighted,2,0.93 [0.76-1.14],0.487591734646161,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHDISSTOMDUOD,Inverse variance weighted,2,1.19 [0.72-1.98],0.497404243238842,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHINFLIV,Inverse variance weighted,2,1.19 [0.72-1.96],0.502536610445731,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PLASMAPROT,Inverse variance weighted,2,1.74 [0.34-8.83],0.503692450039068,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_INCLAVO,Inverse variance weighted,2,0.96 [0.87-1.07],0.505210544325674,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_VIRAL_OTHER_INTEST_INFECTIONS,Inverse variance weighted,2,1.09 [0.85-1.4],0.508614664641854,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,2,1.12 [0.8-1.56],0.51061507800872,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHILEUS,Inverse variance weighted,2,0.91 [0.69-1.21],0.517754484661463,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OESITIS,Inverse variance weighted,2,0.73 [0.28-1.9],0.519417675790484,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_RESPDISOTH,Wald ratio,1,0.94 [0.79-1.13],0.53177710423254,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_AF,Inverse variance weighted,2,1.08 [0.84-1.39],0.540745580436367,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,2,0.93 [0.74-1.17],0.549709802715499,cis
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_AGRANULOCYTOSIS,Inverse variance weighted,2,1.18 [0.68-2.05],0.551840554696043,cis
+OCLN,Occludin,Chapter VI Diseases of the nervous system,G6_SLEEPDISOTH,Inverse variance weighted,2,0.84 [0.47-1.51],0.56824235636273,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_CONSTIPATION,Inverse variance weighted,2,0.97 [0.85-1.09],0.572571783018467,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_LOWBACKPAIN,Inverse variance weighted,2,1.04 [0.91-1.19],0.573810356462106,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_OTHARR,Inverse variance weighted,2,0.96 [0.84-1.1],0.5775806968257,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_CHD,Inverse variance weighted,2,1.03 [0.92-1.17],0.582243874011543,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHRITISNAS,Wald ratio,1,0.96 [0.82-1.12],0.583567238320189,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_VIT_B_DEF,Inverse variance weighted,2,0.78 [0.32-1.9],0.588147343679302,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,2,0.96 [0.81-1.13],0.598644293276156,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,2,0.97 [0.89-1.07],0.602646790584217,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS,Inverse variance weighted,2,0.96 [0.83-1.12],0.607527447492248,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_DIVERTIC,Inverse variance weighted,2,1.03 [0.91-1.18],0.615163518700372,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_BRONCHIECTASIS,Inverse variance weighted,2,0.89 [0.56-1.42],0.630337085397625,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_OTH,Inverse variance weighted,2,0.96 [0.82-1.13],0.636147748112818,cis
+OCLN,Occludin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DERMATITISECZEMA,Inverse variance weighted,2,0.95 [0.78-1.17],0.639686819501253,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_CD_STRICT2,Inverse variance weighted,2,1.23 [0.51-2.94],0.642888331952665,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Inverse variance weighted,2,1.25 [0.47-3.34],0.650152120439925,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_BACT_BIR_OTHER_INF_AGENTS,Inverse variance weighted,2,1.14 [0.66-1.97],0.651076171568352,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,INFLUENZA,Inverse variance weighted,2,0.93 [0.69-1.26],0.656111184672284,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_MI_STRICT,Inverse variance weighted,2,1.04 [0.88-1.22],0.6597431101504,cis
+OCLN,Occludin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_ULCERLOWLIMB,Inverse variance weighted,2,0.92 [0.65-1.31],0.662563820276038,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,1.04 [0.88-1.21],0.665116630478399,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,JOINTPAIN,Inverse variance weighted,2,1.03 [0.9-1.18],0.672111934610972,cis
+OCLN,Occludin,Chapter VI Diseases of the nervous system,G6_CPETAL,Inverse variance weighted,2,0.93 [0.64-1.33],0.675291625487052,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_PHLETHROMBDVTLOW,Inverse variance weighted,2,0.94 [0.71-1.26],0.677776282985699,cis
+OCLN,Occludin,Chapter II Neoplasms,LUNG_CANCER_MESOT,Wald ratio,1,0.93 [0.67-1.3],0.678066879691108,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHINT,Inverse variance weighted,2,0.91 [0.6-1.4],0.680192385830112,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SOFTTISSUE,Inverse variance weighted,2,0.97 [0.82-1.14],0.681726229016771,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_PLEUREFFUSION,Inverse variance weighted,2,1.07 [0.78-1.47],0.682491082224657,cis
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,2,1.15 [0.58-2.28],0.683173490466324,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Inverse variance weighted,2,0.98 [0.89-1.08],0.686177820438861,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_VIT_D_DEF,Inverse variance weighted,2,0.81 [0.29-2.32],0.700319560529117,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.03 [0.9-1.18],0.700487412707633,cis
+OCLN,Occludin,Chapter II Neoplasms,C3_BILIARY_GALLBLADDER_EXALLC,Inverse variance weighted,2,0.88 [0.46-1.7],0.707822670627168,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SOFTTISSUENAS,Inverse variance weighted,2,1.11 [0.63-1.97],0.712155172696038,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_PNEUMONISOLLIQ,Inverse variance weighted,2,0.92 [0.59-1.43],0.713127442877191,cis
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,2,0.96 [0.76-1.21],0.720328166649205,cis
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,2,1.04 [0.84-1.29],0.728973613296487,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_AVBLOCK,Inverse variance weighted,2,1.06 [0.76-1.48],0.736800355760356,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_MUSCULOSKELETAL,Wald ratio,1,0.99 [0.92-1.07],0.741053413283436,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OESSTODUO,Inverse variance weighted,2,1.02 [0.92-1.12],0.743444148703133,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_IHD,Inverse variance weighted,2,0.98 [0.88-1.1],0.755119205717619,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_PLEURA,Inverse variance weighted,2,1.03 [0.86-1.23],0.759458543809545,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_CARDARR,Inverse variance weighted,2,1.14 [0.48-2.75],0.762438367149479,cis
+OCLN,Occludin,Chapter VI Diseases of the nervous system,G6_POLYOTHUNS,Inverse variance weighted,2,1.05 [0.78-1.4],0.76478391106789,cis
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_HYDRONEPHR,Inverse variance weighted,2,0.93 [0.57-1.51],0.764845114385825,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_UPPERINFEC,Inverse variance weighted,2,1.02 [0.92-1.13],0.765409966662546,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERKALAEMIA,Inverse variance weighted,2,0.79 [0.17-3.76],0.76656289440371,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_CHOLELITH,Inverse variance weighted,2,0.98 [0.87-1.11],0.766848806988261,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PHOS_MET,Inverse variance weighted,2,0.71 [0.07-7.65],0.774500246181834,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_NSTEMI,Wald ratio,1,0.95 [0.68-1.33],0.7829013886418,cis
+OCLN,Occludin,Chapter V Mental and behavioural disorders,ALCOHOLMENTAL,Wald ratio,1,0.97 [0.75-1.24],0.788129223388931,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHDISDIG,Inverse variance weighted,2,1.05 [0.75-1.47],0.795108708365001,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_PULMOEDEMA,Inverse variance weighted,2,0.88 [0.33-2.36],0.799979781881606,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_OTHPER,Inverse variance weighted,2,1.06 [0.67-1.67],0.801338585610353,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_OTHOTH,Inverse variance weighted,2,0.92 [0.47-1.81],0.807046720748912,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,PHLEB_VENAE_ILIAC_EXTER,Wald ratio,1,0.96 [0.69-1.33],0.809076443175628,cis
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_RENFAILNAS,Inverse variance weighted,2,1.14 [0.4-3.27],0.811715404893748,cis
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERAPLASTICANAEMIA,Inverse variance weighted,2,1.17 [0.32-4.21],0.812339697934273,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Inverse variance weighted,2,0.99 [0.91-1.08],0.815285425469357,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,VOCALCORDDYS,Inverse variance weighted,2,1.06 [0.66-1.69],0.820020744564761,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_LOWERINF,Inverse variance weighted,2,1.02 [0.83-1.27],0.825474214463093,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_VIRAL,Inverse variance weighted,2,1.02 [0.82-1.28],0.830027633732203,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Inverse variance weighted,2,1.03 [0.76-1.4],0.834004695603812,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OTHERJOINT,Inverse variance weighted,2,0.97 [0.73-1.29],0.838824433011985,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,2,1.02 [0.86-1.2],0.840877384593408,cis
+OCLN,Occludin,Chapter V Mental and behavioural disorders,SMOKING_DEPEND,Inverse variance weighted,2,1.06 [0.59-1.91],0.842469115643852,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SOFTTISSUEOTH,Inverse variance weighted,2,0.99 [0.85-1.14],0.843839653436781,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_LIMBPAIN,Inverse variance weighted,2,0.99 [0.87-1.12],0.843940090148855,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,1.07 [0.55-2.05],0.8454140878057,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_ARTOTH,Inverse variance weighted,2,1.04 [0.69-1.58],0.847717856534279,cis
+OCLN,Occludin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Inverse variance weighted,2,1.01 [0.87-1.18],0.847823721939652,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Inverse variance weighted,2,1.03 [0.76-1.39],0.85345869661373,cis
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_COAGOTHER,Inverse variance weighted,2,1.05 [0.64-1.71],0.854392409598954,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,NAFLD,Inverse variance weighted,2,0.96 [0.61-1.51],0.856139120925935,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,2,0.97 [0.73-1.3],0.857519245783928,cis
+OCLN,Occludin,Chapter V Mental and behavioural disorders,F5_DEPRESSION_DYSTHYMIA,Inverse variance weighted,2,0.99 [0.89-1.11],0.864698751165978,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.99 [0.88-1.11],0.867078099900013,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Wald ratio,1,0.97 [0.65-1.43],0.871397840041351,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_ARTEMBTHRNAS,Inverse variance weighted,2,1.1 [0.34-3.54],0.874570140895165,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_INTESTINAL_INFECTIONS,Inverse variance weighted,2,0.99 [0.89-1.11],0.88060491076702,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOKALAEMIA,Inverse variance weighted,2,0.97 [0.64-1.48],0.898230947682969,cis
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_RECURANDPERHEAMATUR,Inverse variance weighted,2,1.1 [0.25-4.74],0.90034892377945,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_CORATHER,Inverse variance weighted,2,0.99 [0.88-1.12],0.904333602755176,cis
+OCLN,Occludin,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,2,1.01 [0.88-1.15],0.905489669071269,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SLE,Wald ratio,1,0.91 [0.2-4.25],0.907510033511437,cis
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_OBSTRUREFLUROPATH,Inverse variance weighted,2,1.03 [0.64-1.64],0.908443951206581,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_INTESTOTH,Inverse variance weighted,2,1.01 [0.92-1.1],0.909827625713489,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_ALCOLIV,Inverse variance weighted,2,0.98 [0.65-1.47],0.911591374155329,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Inverse variance weighted,2,0.98 [0.64-1.5],0.913381206916923,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_GALLBILPANC,Wald ratio,1,0.99 [0.86-1.14],0.9229466452719,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_FUNGAL_IMPL,Wald ratio,1,0.98 [0.65-1.49],0.923186337540079,cis
+OCLN,Occludin,Chapter V Mental and behavioural disorders,KRA_PSY_ANYMENTAL,Inverse variance weighted,2,1 [0.92-1.09],0.930443671124925,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOPOROSIS,Inverse variance weighted,2,1.02 [0.68-1.52],0.932401759763171,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOCHONDRO,Inverse variance weighted,2,1.02 [0.69-1.49],0.933072039394787,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,2,0.99 [0.8-1.22],0.933663402157748,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_EMPHYSEMA,Inverse variance weighted,2,1.02 [0.62-1.67],0.937974243779393,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHENTERCOL,Inverse variance weighted,2,0.99 [0.78-1.26],0.938300101846594,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Inverse variance weighted,2,1.04 [0.43-2.5],0.938351479823376,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_ILEUS,Inverse variance weighted,2,0.99 [0.7-1.39],0.940962674658883,cis
+OCLN,Occludin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_CELLULITIS,Inverse variance weighted,2,1.01 [0.77-1.32],0.945390310478636,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_PULMEMB,Inverse variance weighted,2,1.01 [0.8-1.26],0.9454319107537,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.01 [0.79-1.29],0.945457865495742,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_EXTERLUNG,Inverse variance weighted,2,1.01 [0.73-1.4],0.948238447234501,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,C_DIFFICILE_ENTEROCOLITIS,Inverse variance weighted,2,0.99 [0.67-1.45],0.950959475114995,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Inverse variance weighted,2,0.99 [0.65-1.49],0.954134367806167,cis
+OCLN,Occludin,Chapter X Diseases of the respiratory system,COPD_LATER,Inverse variance weighted,2,0.99 [0.8-1.24],0.957674977531354,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_STR_EXH,Wald ratio,1,1.01 [0.79-1.29],0.963321275191981,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_STR_SAH,Wald ratio,1,1 [0.81-1.25],0.96783904431828,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_ANGINA,Inverse variance weighted,2,0.99 [0.71-1.39],0.971801499447219,cis
+OCLN,Occludin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Wald ratio,1,0.99 [0.66-1.5],0.972939318429565,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHDISOES,Inverse variance weighted,2,1.01 [0.56-1.81],0.974841353897988,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_ATHSCLE,Inverse variance weighted,2,1.01 [0.69-1.46],0.975162315242207,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_PERICAOTH,Inverse variance weighted,2,1.01 [0.53-1.91],0.975966644411024,cis
+OCLN,Occludin,Chapter VI Diseases of the nervous system,G6_HEMIPLE,Inverse variance weighted,2,1.01 [0.58-1.75],0.976118986994461,cis
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDOVER,Wald ratio,1,1.01 [0.65-1.56],0.978872476949765,cis
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_VIRAL_NOS,Inverse variance weighted,2,1 [0.71-1.39],0.981001071721917,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_GIBLEEDING,Wald ratio,1,1 [0.84-1.19],0.981323383899171,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_BILIAOTH,Inverse variance weighted,2,1.01 [0.61-1.65],0.983030989981235,cis
+OCLN,Occludin,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,0.99 [0.53-1.88],0.985919283417048,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_UAP,Inverse variance weighted,2,1 [0.8-1.25],0.986631499257494,cis
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_MUSCLE,Inverse variance weighted,2,1 [0.67-1.48],0.989303277650056,cis
+OCLN,Occludin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_LUPUS,Inverse variance weighted,2,1 [0.43-2.31],0.99114297009265,cis
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_OTHETNASKIDUR,Inverse variance weighted,2,1 [0.48-2.07],0.997051091470575,cis
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_AF,Inverse variance weighted,2,1.53 [1.16-2.02],0.00240865464038386,trans
+OCLN,Occludin,Chapter VI Diseases of the nervous system,G6_OTHNEU,Inverse variance weighted,2,1.46 [1.13-1.88],0.00356931308566317,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_ANGINA,Inverse variance weighted,2,1.43 [1.11-1.85],0.00523301168385148,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOCHONDRO,Inverse variance weighted,2,1.43 [1.07-1.92],0.0168726613361223,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_GULC,Inverse variance weighted,2,1.84 [1.09-3.09],0.0218131826948119,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_LOWERINF,Inverse variance weighted,2,1.36 [1.03-1.8],0.0314984114804539,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_UPPERINFEC,Inverse variance weighted,2,1.2 [1.02-1.43],0.0324842852672319,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_PAROXTAC,Inverse variance weighted,2,1.57 [1.02-2.41],0.0396330017616252,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_THYROID,Inverse variance weighted,2,0.82 [0.68-0.99],0.0420608515263107,trans
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_VIRAL_OTHER_INTEST_INFECTIONS,Inverse variance weighted,2,1.55 [0.98-2.46],0.061855761444551,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,2,1.29 [0.99-1.67],0.0620000121208895,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SOFTTISSUEOTH,Inverse variance weighted,2,1.21 [0.99-1.49],0.0660324284817086,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOPOROSIS,Inverse variance weighted,2,1.56 [0.97-2.52],0.0669468424666024,trans
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_FOLATEDEF,Inverse variance weighted,2,14.78 [0.78-281.11],0.0730803852647939,trans
+OCLN,Occludin,Chapter V Mental and behavioural disorders,F5_ANXIETY,Inverse variance weighted,2,0.75 [0.54-1.03],0.077472680100491,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_CORATHER,Inverse variance weighted,2,1.22 [0.98-1.53],0.0783874704036148,trans
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_SPLEENDISEASE,Inverse variance weighted,2,5.82 [0.82-41.49],0.0787537319428804,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_CARDMYOOTH,Inverse variance weighted,2,2.07 [0.92-4.67],0.0790133044937323,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_CARDARR,Inverse variance weighted,2,2.13 [0.9-5.07],0.087098730491495,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_SECONDRIGHT,Inverse variance weighted,2,0.35 [0.1-1.18],0.0916065791618054,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_VASCINT,Inverse variance weighted,2,0.45 [0.17-1.16],0.0966934779398285,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_RBBB,Inverse variance weighted,2,0.35 [0.1-1.27],0.110660010415287,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,2,0.87 [0.73-1.03],0.110727277089864,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SOFTTISSUE,Inverse variance weighted,2,1.13 [0.97-1.3],0.111267983036389,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_LOWBACKPAIN,Inverse variance weighted,2,1.39 [0.92-2.12],0.121128299866316,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DORSOPATHY,Inverse variance weighted,2,1.15 [0.96-1.37],0.121679269042699,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_VIT_D_DEF,Inverse variance weighted,2,5.49 [0.63-47.99],0.123628516536637,trans
+OCLN,Occludin,Chapter VI Diseases of the nervous system,G6_EPIPAROX,Inverse variance weighted,2,1.16 [0.96-1.4],0.134201015069588,trans
+OCLN,Occludin,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,2,1.12 [0.96-1.3],0.136972778798652,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_LIMBPAIN,Inverse variance weighted,2,1.2 [0.94-1.52],0.138169877861949,trans
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_OTHETNASKIDUR,Inverse variance weighted,2,0.37 [0.1-1.39],0.140568998070187,trans
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,C_DIFFICILE_ENTEROCOLITIS,Inverse variance weighted,2,1.7 [0.84-3.44],0.142233701115554,trans
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Inverse variance weighted,2,1.31 [0.91-1.89],0.144363615072227,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_CHOLELITH,Inverse variance weighted,2,0.74 [0.5-1.11],0.148322353373174,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Inverse variance weighted,2,1.87 [0.79-4.42],0.156109117066184,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_ALCOLIV,Inverse variance weighted,2,1.72 [0.81-3.65],0.158165849265929,trans
+OCLN,Occludin,Chapter VI Diseases of the nervous system,G6_CERCYST,Inverse variance weighted,2,2.04 [0.75-5.52],0.159888785501065,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_UAP,Inverse variance weighted,2,1.31 [0.9-1.91],0.161881006092773,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHDISDIG,Inverse variance weighted,2,0.76 [0.52-1.12],0.167203366151792,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PHOS_MET,Inverse variance weighted,2,14.53 [0.32-663.35],0.169879842191001,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_IHD,Inverse variance weighted,2,1.15 [0.94-1.4],0.177073038182416,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_CD_STRICT2,Inverse variance weighted,2,0.51 [0.2-1.35],0.177266630833994,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_GASTRODUOULC,Inverse variance weighted,2,1.33 [0.87-2.02],0.184740825582114,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,VOCALCORDDYS,Inverse variance weighted,2,0.68 [0.39-1.21],0.190560037873836,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOMYELITIS,Inverse variance weighted,2,1.86 [0.73-4.71],0.192144881419773,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_LBBB,Inverse variance weighted,2,1.8 [0.74-4.38],0.192407682143469,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Inverse variance weighted,2,2.27 [0.66-7.83],0.196167963488683,trans
+OCLN,Occludin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_LUPUS,Inverse variance weighted,2,2.73 [0.59-12.7],0.200524154653418,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_PERITONITIS,Inverse variance weighted,2,1.83 [0.72-4.67],0.203907440700236,trans
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIAINCHRONICDISEASE,Inverse variance weighted,2,2.78 [0.56-13.71],0.208794767972712,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_OBESITYNAS,Inverse variance weighted,2,0.68 [0.37-1.25],0.215628978074147,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_MI_STRICT,Inverse variance weighted,2,1.2 [0.9-1.61],0.217237790256185,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_OTHILLHEART,Inverse variance weighted,2,0.53 [0.19-1.46],0.217758076727656,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_BILIAOTH,Inverse variance weighted,2,1.68 [0.73-3.86],0.219804529535627,trans
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_BACTINF_NOS,Inverse variance weighted,2,1.21 [0.89-1.62],0.220683049199089,trans
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_INTESTINAL_INFECTIONS,Inverse variance weighted,2,1.2 [0.89-1.62],0.221657983930833,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,2,1.22 [0.88-1.69],0.2243749144355,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_CONDUCTIO,Inverse variance weighted,2,1.28 [0.85-1.92],0.237174147893407,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_POSTOPDIS,Inverse variance weighted,2,0.44 [0.11-1.73],0.238405571867889,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DORSOPATHYOTH,Inverse variance weighted,2,1.2 [0.88-1.64],0.238716925463789,trans
+OCLN,Occludin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DERMATITISECZEMA,Inverse variance weighted,2,1.13 [0.92-1.39],0.238797402018169,trans
+OCLN,Occludin,Chapter VI Diseases of the nervous system,G6_SLEEPDISOTH,Inverse variance weighted,2,1.51 [0.75-3.02],0.24425438327757,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_OTHARR,Inverse variance weighted,2,1.17 [0.89-1.54],0.247727870259061,trans
+OCLN,Occludin,Chapter VI Diseases of the nervous system,G6_HEMIPLE,Inverse variance weighted,2,1.96 [0.62-6.19],0.249130437815877,trans
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Inverse variance weighted,2,1.43 [0.76-2.7],0.263941254727754,trans
+OCLN,Occludin,Chapter V Mental and behavioural disorders,F5_ALCOHOLAC,Inverse variance weighted,2,1.27 [0.83-1.95],0.27484407224738,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_CARDMYO,Inverse variance weighted,2,1.62 [0.67-3.92],0.280105473187736,trans
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_VIRAL_NOS,Inverse variance weighted,2,1.32 [0.79-2.22],0.293188186144493,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_HYPTENSPUL,Inverse variance weighted,2,0.25 [0.02-3.4],0.296200919298055,trans
+OCLN,Occludin,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,2,1.17 [0.87-1.56],0.298132762821598,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Inverse variance weighted,2,0.69 [0.35-1.39],0.299098337494344,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_CHD,Inverse variance weighted,2,1.13 [0.9-1.41],0.299419576698501,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_PERICAOTH,Inverse variance weighted,2,0.48 [0.12-1.93],0.299509687611729,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_INFLUENZA,Inverse variance weighted,2,0.8 [0.52-1.23],0.307028180583318,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_HYPOTE,Inverse variance weighted,2,1.37 [0.75-2.5],0.308942682432265,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_BONECONTINUITY,Inverse variance weighted,2,3.41 [0.31-37.38],0.314475031105459,trans
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_AGRANULOCYTOSIS,Inverse variance weighted,2,1.53 [0.66-3.52],0.317147518142696,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHGASTR,Inverse variance weighted,2,1.28 [0.79-2.08],0.323335206009973,trans
+OCLN,Occludin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Inverse variance weighted,2,0.87 [0.66-1.15],0.328697928183398,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_MUSCLE,Inverse variance weighted,2,1.52 [0.65-3.57],0.336897024781681,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OESSTODUO,Inverse variance weighted,2,1.13 [0.88-1.47],0.340485078765588,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOMETPOSTOP,Inverse variance weighted,2,0.72 [0.36-1.42],0.34201794866173,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,2,0.77 [0.44-1.34],0.350202575408753,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,2,1.08 [0.92-1.25],0.358014954169375,trans
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_OBSTRUREFLUROPATH,Inverse variance weighted,2,0.74 [0.39-1.4],0.358612314738302,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_ASTHMA_EXMORE,Inverse variance weighted,2,0.91 [0.73-1.12],0.359461550144095,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_AVBLOCK,Inverse variance weighted,2,1.29 [0.75-2.22],0.360734369341504,trans
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Inverse variance weighted,2,1.1 [0.9-1.34],0.366453764035809,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OESITIS,Inverse variance weighted,2,0.49 [0.1-2.41],0.377577744156348,trans
+OCLN,Occludin,Chapter V Mental and behavioural disorders,AUD,Inverse variance weighted,2,1.23 [0.77-1.96],0.389016368719144,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_CEREBDOTH,Inverse variance weighted,2,0.51 [0.1-2.46],0.398675869473853,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_PLEUREFFUSION,Inverse variance weighted,2,0.78 [0.43-1.4],0.400197165052664,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_OTHPER,Inverse variance weighted,2,1.43 [0.61-3.32],0.408518826784948,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHINT,Inverse variance weighted,2,0.74 [0.37-1.51],0.408519059984025,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_COELIAC,Inverse variance weighted,2,1.32 [0.68-2.56],0.41304395568741,trans
+OCLN,Occludin,Chapter V Mental and behavioural disorders,F5_DEPRESSIO,Inverse variance weighted,2,0.89 [0.68-1.18],0.419471400368023,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_DIAHER,Inverse variance weighted,2,1.19 [0.77-1.84],0.423365097416382,trans
+OCLN,Occludin,Chapter VI Diseases of the nervous system,G6_POLYOTHUNS,Inverse variance weighted,2,1.24 [0.73-2.1],0.429498069313948,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,2,0.91 [0.72-1.15],0.436518943020172,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Inverse variance weighted,2,1.24 [0.71-2.16],0.442687194411317,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_CONSTIPATION,Inverse variance weighted,2,1.09 [0.87-1.36],0.450016117565671,trans
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_VIRAL,Inverse variance weighted,2,1.17 [0.78-1.75],0.451847170260938,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Inverse variance weighted,2,1.39 [0.59-3.31],0.452201508735409,trans
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_RECURANDPERHEAMATUR,Inverse variance weighted,2,2.76 [0.19-40.95],0.461589483113582,trans
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_BACT_BIR_OTHER_INF_AGENTS,Inverse variance weighted,2,0.75 [0.35-1.62],0.463944510197071,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_IBS,Inverse variance weighted,2,1.16 [0.77-1.77],0.474913079798994,trans
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_BACT_INTEST_OTH,Inverse variance weighted,2,1.21 [0.71-2.05],0.478000769784951,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHENTERCOL,Inverse variance weighted,2,1.26 [0.66-2.39],0.483130367580112,trans
+OCLN,Occludin,Chapter V Mental and behavioural disorders,F5_DELIRIUM,Inverse variance weighted,2,1.29 [0.62-2.66],0.493513913375942,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_NOS,Inverse variance weighted,2,0.68 [0.22-2.08],0.499922261405251,trans
+OCLN,Occludin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_OTHERSKINSUBCUTIS,Inverse variance weighted,2,1.1 [0.83-1.47],0.500226094784992,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OTHERJOINT,Inverse variance weighted,2,1.13 [0.79-1.64],0.500764892669199,trans
+OCLN,Occludin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_CATARACTOTHER,Inverse variance weighted,2,1.3 [0.6-2.83],0.508761403976722,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHANRECT,Inverse variance weighted,2,1.15 [0.76-1.72],0.511380368223836,trans
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,2,1.11 [0.81-1.52],0.512585298451117,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_VOLUME,Inverse variance weighted,2,0.56 [0.09-3.33],0.525629583178117,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_STR,Inverse variance weighted,2,0.92 [0.7-1.2],0.540203611289548,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS,Inverse variance weighted,2,1.06 [0.88-1.26],0.548341790072917,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_ABAORTANEUR,Inverse variance weighted,2,1.32 [0.53-3.28],0.550650360086005,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DORSALGIANAS,Inverse variance weighted,2,1.11 [0.79-1.56],0.555559836192313,trans
+OCLN,Occludin,Chapter VI Diseases of the nervous system,G6_EPLEPSY,Inverse variance weighted,2,1.11 [0.77-1.61],0.566441863582652,trans
+OCLN,Occludin,Chapter V Mental and behavioural disorders,F5_DEPRESSION_DYSTHYMIA,Inverse variance weighted,2,0.94 [0.77-1.15],0.575982103940621,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERKALAEMIA,Inverse variance weighted,2,1.81 [0.21-15.54],0.589356997388491,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_BRONCHIECTASIS,Inverse variance weighted,2,0.79 [0.34-1.86],0.589950658033222,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,JOINTPAIN,Inverse variance weighted,2,1.07 [0.83-1.39],0.591160588225977,trans
+OCLN,Occludin,Chapter V Mental and behavioural disorders,SMOKING_DEPEND,Inverse variance weighted,2,0.79 [0.34-1.85],0.591784404428926,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Inverse variance weighted,2,0.81 [0.37-1.77],0.594052554597413,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_PERITON,Inverse variance weighted,2,1.21 [0.59-2.48],0.595795699473936,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,COPD_LATER,Inverse variance weighted,2,0.9 [0.6-1.34],0.596451275474532,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_ARTOTH,Inverse variance weighted,2,1.23 [0.57-2.63],0.599011806641515,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_EMPHYSEMA,Inverse variance weighted,2,0.79 [0.32-1.96],0.603527419291012,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,NAFLD,Inverse variance weighted,2,1.24 [0.54-2.82],0.609881979056333,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_OTH,Inverse variance weighted,2,0.89 [0.56-1.41],0.611929304326796,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_ARTEMBTHRNAS,Inverse variance weighted,2,1.72 [0.21-13.98],0.614243198948283,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_OBESITY,Inverse variance weighted,2,0.89 [0.57-1.39],0.616561786107743,trans
+OCLN,Occludin,Chapter V Mental and behavioural disorders,KRA_PSY_ANXIETY_EXMORE,Inverse variance weighted,2,0.91 [0.61-1.34],0.624106655597202,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHDISSTOMDUOD,Inverse variance weighted,2,0.67 [0.14-3.27],0.625103261796995,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_PHLETHROMBDVTLOW,Inverse variance weighted,2,0.87 [0.49-1.56],0.637994760652137,trans
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_MYCOSES,Inverse variance weighted,2,0.77 [0.26-2.29],0.638951087094385,trans
+OCLN,Occludin,Chapter VI Diseases of the nervous system,G6_CPETAL,Inverse variance weighted,2,1.17 [0.6-2.29],0.638963556502274,trans
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACT_INOTHER,Inverse variance weighted,2,0.56 [0.05-6.58],0.645682242090585,trans
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_STREPTSTAPHYCOCC_INOTHER,Inverse variance weighted,2,2.08 [0.09-48.87],0.650387737891543,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_HERNIA,Inverse variance weighted,2,1.14 [0.64-2.02],0.651111816006493,trans
+OCLN,Occludin,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Inverse variance weighted,2,1.11 [0.7-1.75],0.660607006150953,trans
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_RENFAILNAS,Inverse variance weighted,2,1.57 [0.21-11.93],0.663674922659538,trans
+OCLN,Occludin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Inverse variance weighted,2,0.8 [0.29-2.23],0.669224112654242,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.1 [0.7-1.73],0.672143880070934,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_REFLUX,Inverse variance weighted,2,1.1 [0.71-1.72],0.675081305026248,trans
+OCLN,Occludin,Chapter I Certain infectious and parasitic diseases,AB1_CANDIDIASIS,Inverse variance weighted,2,0.82 [0.31-2.18],0.687088063897514,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,0.83 [0.33-2.09],0.690700227554787,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_EXTERLUNG,Inverse variance weighted,2,1.13 [0.62-2.05],0.690844831437169,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,2,1.12 [0.64-1.96],0.692800167301086,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_VIRALPNEUMO,Inverse variance weighted,2,0.87 [0.44-1.72],0.696958524375119,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,2,0.9 [0.52-1.56],0.698947978102308,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_ILEUS,Inverse variance weighted,2,0.88 [0.46-1.69],0.700186238510373,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PLASMAPROT,Inverse variance weighted,2,1.79 [0.09-35.59],0.702649708313858,trans
+OCLN,Occludin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_CELLULITIS,Inverse variance weighted,2,1.1 [0.68-1.79],0.703873466812319,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_VIT_B_DEF,Inverse variance weighted,2,0.73 [0.15-3.67],0.703943875108703,trans
+OCLN,Occludin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_ULCERLOWLIMB,Inverse variance weighted,2,0.88 [0.46-1.68],0.707935215671074,trans
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,2,0.86 [0.38-1.95],0.710470224340766,trans
+OCLN,Occludin,Chapter II Neoplasms,C3_BILIARY_GALLBLADDER_EXALLC,Inverse variance weighted,2,0.79 [0.24-2.68],0.710608270374709,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MG_MET,Inverse variance weighted,2,1.82 [0.08-43.33],0.712529690640763,trans
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,2,1.08 [0.73-1.6],0.71403299580044,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,2,0.91 [0.55-1.51],0.725370137435991,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,IPF,Inverse variance weighted,2,1.17 [0.48-2.85],0.729876553019027,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_AORTANEUR,Inverse variance weighted,2,1.08 [0.68-1.72],0.73364089738751,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Inverse variance weighted,2,0.97 [0.83-1.14],0.73414982183209,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_PLEURA,Inverse variance weighted,2,1.06 [0.76-1.46],0.738770703860999,trans
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,2,1.27 [0.31-5.09],0.73999746816658,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_INTESTOTH,Inverse variance weighted,2,1.04 [0.81-1.35],0.743745222382025,trans
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_TUBULOINTNEPHRNAS,Inverse variance weighted,2,1.15 [0.49-2.7],0.749214187446954,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_VTE,Inverse variance weighted,2,0.94 [0.64-1.38],0.750730563134718,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_HEPFAIL,Inverse variance weighted,2,1.22 [0.34-4.35],0.761354207605657,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_PHLETHROM,Inverse variance weighted,2,1.21 [0.34-4.3],0.764535601380218,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,INFLUENZA,Inverse variance weighted,2,1.09 [0.62-1.89],0.766783729140939,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,2,1.05 [0.73-1.53],0.778298471421496,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_DIVERTIC,Inverse variance weighted,2,1.04 [0.81-1.33],0.782192623894083,trans
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,2,1.06 [0.7-1.59],0.785749265604399,trans
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_THROMBOCYTOPENIANAS,Inverse variance weighted,2,1.13 [0.46-2.82],0.786692636553369,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_SEQULAE,Inverse variance weighted,2,1.06 [0.67-1.68],0.789228548965755,trans
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,2,1.05 [0.71-1.56],0.79210016618321,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,2,1.14 [0.42-3.12],0.793590418724849,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,2,1.09 [0.59-2.01],0.793944557106941,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,2,1.03 [0.8-1.34],0.795277216156653,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SOFTTISSUENAS,Inverse variance weighted,2,0.88 [0.31-2.5],0.811207695140991,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,COPD_EARLY,Inverse variance weighted,2,0.94 [0.59-1.51],0.812407994120365,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHDIG,Inverse variance weighted,2,0.96 [0.7-1.32],0.813297201632481,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,2,1.05 [0.68-1.64],0.818205008559025,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHFUNC,Inverse variance weighted,2,0.92 [0.45-1.88],0.827329400053191,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Inverse variance weighted,2,1.22 [0.2-7.52],0.827460192865919,trans
+OCLN,Occludin,Chapter V Mental and behavioural disorders,KRA_PSY_ANYMENTAL,Inverse variance weighted,2,0.98 [0.83-1.17],0.837526831717205,trans
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,2,1.03 [0.8-1.31],0.840363407577798,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Inverse variance weighted,2,1.06 [0.59-1.91],0.842699106230405,trans
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_CHRONEPHROPATH,Inverse variance weighted,2,1.18 [0.21-6.69],0.84908361820189,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHINFLIV,Inverse variance weighted,2,0.92 [0.36-2.3],0.850766335416147,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,2,1.03 [0.73-1.46],0.852406621738989,trans
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_GLOMEINOTH,Inverse variance weighted,2,1.06 [0.53-2.14],0.863531493731157,trans
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,2,1.05 [0.61-1.81],0.868904699499056,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SPONDYLOPATHY,Inverse variance weighted,2,1.02 [0.82-1.27],0.87039010463517,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Inverse variance weighted,2,1.08 [0.42-2.8],0.874840132787337,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOKALAEMIA,Inverse variance weighted,2,0.9 [0.23-3.45],0.877005053261551,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SPONDYLOSIS,Inverse variance weighted,2,0.98 [0.73-1.31],0.87859514186907,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_ARTEMBTHRLOW,Inverse variance weighted,2,1.13 [0.22-5.93],0.885297303180968,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHDISOES,Inverse variance weighted,2,0.91 [0.24-3.48],0.892236849288105,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Inverse variance weighted,2,1.07 [0.42-2.73],0.89336545574589,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_CHOLECYST,Inverse variance weighted,2,1.06 [0.46-2.44],0.898212822707841,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Inverse variance weighted,2,1.04 [0.55-1.99],0.901346884496642,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_MALABSORB,Inverse variance weighted,2,1.2 [0.07-21.86],0.902746382195315,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_RHEUVALV,Inverse variance weighted,2,0.89 [0.13-5.94],0.90283860708984,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERCHOL,Inverse variance weighted,2,1.02 [0.78-1.32],0.910465318350315,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_ATHSCLE,Inverse variance weighted,2,1.05 [0.43-2.59],0.913732130023852,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_OTHOTH,Inverse variance weighted,2,1.07 [0.31-3.72],0.914105361250302,trans
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_COAGOTHER,Inverse variance weighted,2,0.92 [0.2-4.34],0.917040367265312,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Inverse variance weighted,2,0.99 [0.84-1.18],0.917353528294308,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,0.94 [0.29-3.04],0.924078242806658,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Inverse variance weighted,2,1.05 [0.2-5.42],0.952827179210958,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_PULMOEDEMA,Inverse variance weighted,2,1.06 [0.17-6.56],0.953252877545699,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,2,1.01 [0.63-1.63],0.953342031358517,trans
+OCLN,Occludin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_INCLAVO,Inverse variance weighted,2,1.01 [0.84-1.21],0.954533778008924,trans
+OCLN,Occludin,Chapter X Diseases of the respiratory system,J10_PNEUMONISOLLIQ,Inverse variance weighted,2,1.02 [0.46-2.3],0.95702516207844,trans
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_KIDUROTH,Inverse variance weighted,2,1.02 [0.38-2.74],0.963517484073279,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_OTHILEUS,Inverse variance weighted,2,0.98 [0.43-2.24],0.968627576326951,trans
+OCLN,Occludin,Chapter IX Diseases of the circulatory system,I9_PULMEMB,Inverse variance weighted,2,1.01 [0.66-1.53],0.972553260832933,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,K11_DULC,Inverse variance weighted,2,0.98 [0.35-2.77],0.976409976044216,trans
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Inverse variance weighted,2,1.01 [0.6-1.68],0.981737274206834,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,2,0.99 [0.58-1.7],0.982263451722421,trans
+OCLN,Occludin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERAPLASTICANAEMIA,Inverse variance weighted,2,0.97 [0.09-10.01],0.982592060251088,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Inverse variance weighted,2,0.99 [0.57-1.73],0.983312978135843,trans
+OCLN,Occludin,Chapter VI Diseases of the nervous system,G6_NERPLEX,Inverse variance weighted,2,1 [0.82-1.22],0.987852174914697,trans
+OCLN,Occludin,Chapter XI Diseases of the digestive system,CHRONNAS,Inverse variance weighted,2,0.99 [0.41-2.39],0.988596492489693,trans
+OCLN,Occludin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERLIPNAS,Inverse variance weighted,2,1 [0.69-1.44],0.992451343889522,trans
+OCLN,Occludin,Chapter XIV Diseases of the genitourinary system,N14_HYDRONEPHR,Inverse variance weighted,2,0.99 [0.22-4.45],0.994044931224787,trans
+OCLN,Occludin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,2,1 [0.51-1.94],0.99511294839581,trans

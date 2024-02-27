@@ -1,0 +1,38 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+CDH6,Cadherin-6,Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Inverse variance weighted,2,1.08 [1.06-1.11],4.93957101537251e-10,trans
+CDH6,Cadherin-6,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,1.1 [1.07-1.13],5.84554119343234e-10,trans
+CDH6,Cadherin-6,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.24 [1.16-1.32],6.51144270213473e-10,trans
+CDH6,Cadherin-6,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Inverse variance weighted,3,1.16 [1.11-1.22],2.88958933375866e-09,trans
+CDH6,Cadherin-6,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1.1 [1.01-1.19],0.0265702271143814,trans
+CDH6,Cadherin-6,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,8,1.1 [1.01-1.21],0.0341733308746122,trans
+CDH6,Cadherin-6,Chapter XI Diseases of the digestive system,K11_ALCOLIV,Inverse variance weighted,4,1.09 [1-1.18],0.0453031108849764,trans
+CDH6,Cadherin-6,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,10,1.04 [1-1.09],0.0557786483863426,trans
+CDH6,Cadherin-6,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.77 [0.59-1.02],0.0661457494292408,trans
+CDH6,Cadherin-6,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.94 [0.88-1.01],0.0921472570752692,trans
+CDH6,Cadherin-6,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,1.06 [0.98-1.14],0.124885279830116,trans
+CDH6,Cadherin-6,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,0.84 [0.67-1.05],0.129813964793049,trans
+CDH6,Cadherin-6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,0.96 [0.9-1.02],0.140496877677506,trans
+CDH6,Cadherin-6,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,10,1.03 [0.99-1.07],0.153194495427744,trans
+CDH6,Cadherin-6,Chapter II Neoplasms,C3_BILIARY_GALLBLADDER_EXALLC,Inverse variance weighted,3,1.07 [0.97-1.18],0.16065333197926,trans
+CDH6,Cadherin-6,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.82 [0.61-1.09],0.166617151572012,trans
+CDH6,Cadherin-6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,0.88 [0.73-1.07],0.199483579349119,trans
+CDH6,Cadherin-6,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Wald ratio,1,0.97 [0.93-1.02],0.232502016101531,trans
+CDH6,Cadherin-6,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.07 [0.95-1.2],0.265303929173013,trans
+CDH6,Cadherin-6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,8,1.01 [0.99-1.04],0.285679547175846,trans
+CDH6,Cadherin-6,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,0.9 [0.73-1.1],0.301164265344737,trans
+CDH6,Cadherin-6,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Inverse variance weighted,5,0.98 [0.93-1.02],0.322764298740205,trans
+CDH6,Cadherin-6,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,5,0.98 [0.93-1.03],0.39828850709636,trans
+CDH6,Cadherin-6,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,0.97 [0.91-1.04],0.438013565915286,trans
+CDH6,Cadherin-6,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,0.99 [0.96-1.02],0.442999033230549,trans
+CDH6,Cadherin-6,Chapter IX Diseases of the circulatory system,I9_CARDARR,Inverse variance weighted,2,0.98 [0.94-1.03],0.473341547468397,trans
+CDH6,Cadherin-6,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,0.95 [0.83-1.09],0.497082851457455,trans
+CDH6,Cadherin-6,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Wald ratio,1,0.97 [0.88-1.06],0.497082851457455,trans
+CDH6,Cadherin-6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,0.91 [0.69-1.21],0.535344148448003,trans
+CDH6,Cadherin-6,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,0.97 [0.88-1.07],0.604348824191808,trans
+CDH6,Cadherin-6,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,1.02 [0.95-1.1],0.636083214249639,trans
+CDH6,Cadherin-6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,0.97 [0.87-1.1],0.65543984991366,trans
+CDH6,Cadherin-6,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,1.01 [0.96-1.06],0.664420073714329,trans
+CDH6,Cadherin-6,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,25,1.02 [0.93-1.11],0.668298368860977,trans
+CDH6,Cadherin-6,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Wald ratio,1,1.04 [0.81-1.35],0.750419570327289,trans
+CDH6,Cadherin-6,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,2,1.02 [0.86-1.22],0.813878155325741,trans
+CDH6,Cadherin-6,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,0.99 [0.85-1.14],0.868544557181369,trans

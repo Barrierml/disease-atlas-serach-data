@@ -1,0 +1,35 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+CCL4,C-C motif chemokine 4,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,8,1.09 [1.04-1.14],0.000472754788449204,trans
+CCL4,C-C motif chemokine 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SJOGREN,Inverse variance weighted,5,1.08 [1.03-1.12],0.000638623630974025,trans
+CCL4,C-C motif chemokine 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,22,1.12 [1.05-1.19],0.00101188060891356,trans
+CCL4,C-C motif chemokine 4,Chapter XI Diseases of the digestive system,NAFLD,Inverse variance weighted,6,1.04 [1.01-1.07],0.00352181424840075,trans
+CCL4,C-C motif chemokine 4,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1.05 [1.01-1.08],0.00745566890348348,trans
+CCL4,C-C motif chemokine 4,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Inverse variance weighted,3,1.06 [1.01-1.12],0.0133577839747296,trans
+CCL4,C-C motif chemokine 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,1.17 [1.02-1.33],0.0199749949802571,trans
+CCL4,C-C motif chemokine 4,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.32 [1.04-1.67],0.0217177030103024,trans
+CCL4,C-C motif chemokine 4,Chapter X Diseases of the respiratory system,IPF,Inverse variance weighted,20,1.01 [1-1.03],0.057613938637479,trans
+CCL4,C-C motif chemokine 4,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,1.13 [0.99-1.28],0.0646274298985629,trans
+CCL4,C-C motif chemokine 4,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.76 [0.57-1.02],0.0647594673813062,trans
+CCL4,C-C motif chemokine 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Inverse variance weighted,5,1.16 [0.98-1.38],0.0850992544349993,trans
+CCL4,C-C motif chemokine 4,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,1.03 [0.99-1.07],0.0998812744959236,trans
+CCL4,C-C motif chemokine 4,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,35,1.04 [0.98-1.11],0.145355966323025,trans
+CCL4,C-C motif chemokine 4,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,0.86 [0.69-1.07],0.184387166859235,trans
+CCL4,C-C motif chemokine 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_NOS,Inverse variance weighted,6,1.08 [0.95-1.21],0.232055420399662,trans
+CCL4,C-C motif chemokine 4,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,7,1.05 [0.96-1.14],0.272281601902505,trans
+CCL4,C-C motif chemokine 4,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,21,1.01 [0.99-1.03],0.280402260517053,trans
+CCL4,C-C motif chemokine 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,14,1.02 [0.98-1.06],0.287822356107566,trans
+CCL4,C-C motif chemokine 4,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Inverse variance weighted,4,1.01 [0.99-1.04],0.294530143770985,trans
+CCL4,C-C motif chemokine 4,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Wald ratio,1,0.98 [0.93-1.03],0.347881024408359,trans
+CCL4,C-C motif chemokine 4,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,1.1 [0.89-1.36],0.364368579690978,trans
+CCL4,C-C motif chemokine 4,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,24,1.01 [0.98-1.05],0.398885282459178,trans
+CCL4,C-C motif chemokine 4,Chapter XI Diseases of the digestive system,K11_COELIAC,Inverse variance weighted,52,1.01 [0.99-1.03],0.424666932056692,trans
+CCL4,C-C motif chemokine 4,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.13 [0.84-1.51],0.431368556117116,trans
+CCL4,C-C motif chemokine 4,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,1.08 [0.88-1.32],0.449898865796658,trans
+CCL4,C-C motif chemokine 4,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1.06 [0.78-1.43],0.70795304826224,trans
+CCL4,C-C motif chemokine 4,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,1.03 [0.86-1.22],0.776229255237567,trans
+CCL4,C-C motif chemokine 4,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,1.02 [0.9-1.15],0.784828805227284,trans
+CCL4,C-C motif chemokine 4,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,1.03 [0.84-1.25],0.80474667940723,trans
+CCL4,C-C motif chemokine 4,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Inverse variance weighted,3,0.99 [0.95-1.04],0.819363065049597,trans
+CCL4,C-C motif chemokine 4,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,0.99 [0.87-1.12],0.830686793011371,trans
+CCL4,C-C motif chemokine 4,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,1 [0.97-1.03],0.925805293738936,trans
+CCL4,C-C motif chemokine 4,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.01 [0.87-1.16],0.939284547295759,trans

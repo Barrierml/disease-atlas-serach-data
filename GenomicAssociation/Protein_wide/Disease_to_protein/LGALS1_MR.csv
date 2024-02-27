@@ -1,0 +1,82 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+LGALS1,Galectin-1,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.21 [1.12-1.3],1.06152136845782e-06,trans
+LGALS1,Galectin-1,Chapter V Mental and behavioural disorders,F5_DEPRESSION_DYSTHYMIA,Inverse variance weighted,24,1.12 [1.05-1.21],0.00093419200863823,trans
+LGALS1,Galectin-1,Chapter IX Diseases of the circulatory system,I9_CONDUCTIO,Inverse variance weighted,4,1.1 [1.02-1.19],0.0107953237118004,trans
+LGALS1,Galectin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.2 [1.03-1.4],0.0201648089840834,trans
+LGALS1,Galectin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Wald ratio,1,1.13 [1.02-1.26],0.0201648089840834,trans
+LGALS1,Galectin-1,Chapter IX Diseases of the circulatory system,I9_CARDARR,Inverse variance weighted,2,1.06 [1.01-1.12],0.0204765577952426,trans
+LGALS1,Galectin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DORSALGIANAS,Inverse variance weighted,2,1.17 [1.02-1.34],0.0232887105680582,trans
+LGALS1,Galectin-1,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,1.27 [1.03-1.57],0.0256406469285107,trans
+LGALS1,Galectin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,22,1.05 [1-1.1],0.0410665773338327,trans
+LGALS1,Galectin-1,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,0.78 [0.61-1],0.0457579215399371,trans
+LGALS1,Galectin-1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.38 [1-1.9],0.0469778776472975,trans
+LGALS1,Galectin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,1.07 [1-1.14],0.055288745009115,trans
+LGALS1,Galectin-1,Chapter X Diseases of the respiratory system,IPF,Inverse variance weighted,20,1.01 [1-1.03],0.0575051638041462,trans
+LGALS1,Galectin-1,Chapter VI Diseases of the nervous system,G6_NERPLEX,Inverse variance weighted,4,1.23 [0.99-1.53],0.0641897444674992,trans
+LGALS1,Galectin-1,Chapter XI Diseases of the digestive system,K11_DIVERTIC,Inverse variance weighted,50,1.03 [1-1.07],0.0658822574370399,trans
+LGALS1,Galectin-1,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,1.06 [0.99-1.13],0.0710392901285147,trans
+LGALS1,Galectin-1,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,0.9 [0.8-1.01],0.083055727165914,trans
+LGALS1,Galectin-1,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,21,1.02 [1-1.04],0.0882212428876694,trans
+LGALS1,Galectin-1,Chapter XI Diseases of the digestive system,K11_CHOLELITH,Inverse variance weighted,122,0.98 [0.96-1],0.101348349547602,trans
+LGALS1,Galectin-1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,1.2 [0.96-1.49],0.109092004711566,trans
+LGALS1,Galectin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Inverse variance weighted,5,1.06 [0.99-1.14],0.118436175792747,trans
+LGALS1,Galectin-1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,0.97 [0.93-1.01],0.119363618670861,trans
+LGALS1,Galectin-1,Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,2,0.9 [0.78-1.03],0.12137927924256,trans
+LGALS1,Galectin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,2,1.16 [0.96-1.41],0.131611602832265,trans
+LGALS1,Galectin-1,Chapter IX Diseases of the circulatory system,I9_ATHSCLE,Inverse variance weighted,13,1.05 [0.98-1.12],0.139781526947094,trans
+LGALS1,Galectin-1,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,0.87 [0.73-1.05],0.15300258305553,trans
+LGALS1,Galectin-1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERBLOOD,Wald ratio,1,0.96 [0.9-1.02],0.157566039944443,trans
+LGALS1,Galectin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_NOS,Inverse variance weighted,6,1.03 [0.99-1.08],0.161956272299474,trans
+LGALS1,Galectin-1,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.19 [0.92-1.53],0.18088302210826,trans
+LGALS1,Galectin-1,Chapter IX Diseases of the circulatory system,I9_CEREBDOTH,Wald ratio,1,0.78 [0.54-1.13],0.183267746326486,trans
+LGALS1,Galectin-1,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,7,1.05 [0.98-1.12],0.194275696033953,trans
+LGALS1,Galectin-1,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,61,1.03 [0.98-1.08],0.209489051368607,trans
+LGALS1,Galectin-1,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,0.87 [0.69-1.09],0.227798746045726,trans
+LGALS1,Galectin-1,Chapter XI Diseases of the digestive system,K11_INTESTOTH,Inverse variance weighted,10,1.07 [0.95-1.21],0.25845500086685,trans
+LGALS1,Galectin-1,Chapter XI Diseases of the digestive system,COLITNONINFNAS,Wald ratio,1,1.13 [0.91-1.39],0.260736754978753,trans
+LGALS1,Galectin-1,Chapter IX Diseases of the circulatory system,I9_STR,Inverse variance weighted,3,0.92 [0.8-1.07],0.279491823856206,trans
+LGALS1,Galectin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_INCLAVO,Inverse variance weighted,50,1.03 [0.97-1.09],0.280386271218005,trans
+LGALS1,Galectin-1,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.97 [0.9-1.04],0.32317798304266,trans
+LGALS1,Galectin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,25,1.05 [0.95-1.17],0.340073656521879,trans
+LGALS1,Galectin-1,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,1.07 [0.93-1.23],0.352161366149184,trans
+LGALS1,Galectin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DORSOPATHYOTH,Inverse variance weighted,27,1.04 [0.96-1.13],0.365737263715703,trans
+LGALS1,Galectin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,14,1.01 [0.99-1.04],0.366271861806159,trans
+LGALS1,Galectin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,0.96 [0.89-1.05],0.369399638005689,trans
+LGALS1,Galectin-1,Chapter IX Diseases of the circulatory system,I9_CARDMYO,Inverse variance weighted,18,1.01 [0.99-1.03],0.383170979039211,trans
+LGALS1,Galectin-1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_CHOROIDRETINA,Inverse variance weighted,9,1.04 [0.95-1.13],0.401980532955435,trans
+LGALS1,Galectin-1,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,8,0.98 [0.93-1.03],0.42847390704062,trans
+LGALS1,Galectin-1,Chapter V Mental and behavioural disorders,SMOKING_DEPEND,Wald ratio,1,1.03 [0.95-1.13],0.431416012597816,trans
+LGALS1,Galectin-1,Chapter XI Diseases of the digestive system,K11_GALLBILPANC,Inverse variance weighted,21,0.98 [0.95-1.02],0.439001136961038,trans
+LGALS1,Galectin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,1.01 [0.98-1.05],0.465408846922326,trans
+LGALS1,Galectin-1,Chapter X Diseases of the respiratory system,COPD_LATER,Wald ratio,1,1.03 [0.95-1.12],0.513684036559336,trans
+LGALS1,Galectin-1,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,0.96 [0.84-1.1],0.546920302189363,trans
+LGALS1,Galectin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,10,0.98 [0.93-1.04],0.584248041679397,trans
+LGALS1,Galectin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,10,0.99 [0.94-1.04],0.598455011554161,trans
+LGALS1,Galectin-1,Chapter I Certain infectious and parasitic diseases,AB1_MYCOSES,Wald ratio,1,0.95 [0.8-1.14],0.600426980266433,trans
+LGALS1,Galectin-1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,0.97 [0.85-1.1],0.613667436014938,trans
+LGALS1,Galectin-1,Chapter X Diseases of the respiratory system,J10_EMPHYSEMA,Wald ratio,1,1.01 [0.96-1.07],0.624124526803005,trans
+LGALS1,Galectin-1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,8,1.01 [0.98-1.04],0.658867735057509,trans
+LGALS1,Galectin-1,Chapter XI Diseases of the digestive system,K11_OTHDIG,Inverse variance weighted,12,1.01 [0.96-1.07],0.667729107589041,trans
+LGALS1,Galectin-1,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1.07 [0.78-1.47],0.685078653991882,trans
+LGALS1,Galectin-1,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,1.05 [0.83-1.32],0.699242897660352,trans
+LGALS1,Galectin-1,Chapter VI Diseases of the nervous system,G6_POLYOTHUNS,Inverse variance weighted,2,1.03 [0.9-1.17],0.705195009792064,trans
+LGALS1,Galectin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,24,1 [0.98-1.03],0.718267032052953,trans
+LGALS1,Galectin-1,Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,2,1.08 [0.68-1.72],0.747585791588049,trans
+LGALS1,Galectin-1,Chapter XI Diseases of the digestive system,K11_OTHENTERCOL,Inverse variance weighted,2,1.02 [0.91-1.14],0.780561552981116,trans
+LGALS1,Galectin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Wald ratio,1,0.99 [0.94-1.05],0.781701178679611,trans
+LGALS1,Galectin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,1.01 [0.96-1.06],0.803581753503288,trans
+LGALS1,Galectin-1,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,11,1.01 [0.95-1.07],0.823947968753461,trans
+LGALS1,Galectin-1,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,0.99 [0.87-1.11],0.826242197504859,trans
+LGALS1,Galectin-1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,1.01 [0.94-1.08],0.857334651584201,trans
+LGALS1,Galectin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_LOWBACKPAIN,Inverse variance weighted,10,0.99 [0.88-1.11],0.868865563340453,trans
+LGALS1,Galectin-1,Chapter IX Diseases of the circulatory system,I9_PULMEMB,Inverse variance weighted,23,1 [0.97-1.03],0.875421358056507,trans
+LGALS1,Galectin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS,Inverse variance weighted,51,1 [0.95-1.06],0.882062119382463,trans
+LGALS1,Galectin-1,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,1.02 [0.83-1.25],0.886866737282576,trans
+LGALS1,Galectin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Inverse variance weighted,5,1 [0.95-1.05],0.907060866969056,trans
+LGALS1,Galectin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,1 [0.97-1.03],0.93056454037729,trans
+LGALS1,Galectin-1,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Inverse variance weighted,4,1 [0.96-1.05],0.937138561428983,trans
+LGALS1,Galectin-1,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,5,1 [0.95-1.05],0.940537788957951,trans
+LGALS1,Galectin-1,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,35,1 [0.96-1.04],0.943107596225443,trans
+LGALS1,Galectin-1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_OTH,Inverse variance weighted,3,1.01 [0.82-1.23],0.946111787730452,trans
+LGALS1,Galectin-1,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.99 [0.73-1.35],0.96574374773246,trans
+LGALS1,Galectin-1,Chapter XI Diseases of the digestive system,K11_OESSTODUO,Wald ratio,1,0.99 [0.65-1.51],0.970317286441083,trans

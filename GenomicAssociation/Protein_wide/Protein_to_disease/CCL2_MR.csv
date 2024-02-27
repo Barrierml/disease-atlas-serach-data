@@ -1,0 +1,10 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+CCL2,C-C motif chemokine 2,Chapter II Neoplasms,C3_BREAST_EXALLC,Wald ratio,1,1.37 [0.89-2.11],0.154861748833865,cis
+CCL2,C-C motif chemokine 2,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.88 [0.67-1.16],0.372706823688214,cis
+CCL2,C-C motif chemokine 2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OTHCONN,Wald ratio,1,0.72 [0.33-1.59],0.418755490692656,cis
+CCL2,C-C motif chemokine 2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SLE,Wald ratio,1,4.37 [0.1-183.59],0.439642874161447,cis
+CCL2,C-C motif chemokine 2,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Wald ratio,1,0.93 [0.39-2.18],0.85865167947492,cis
+CCL2,C-C motif chemokine 2,Chapter X Diseases of the respiratory system,ILD,Wald ratio,1,0.97 [0.45-2.12],0.947371970381734,cis
+CCL2,C-C motif chemokine 2,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,16,1.13 [0.95-1.34],0.172768558648913,trans
+CCL2,C-C motif chemokine 2,Chapter II Neoplasms,C3_BREAST_EXALLC,Inverse variance weighted,16,0.97 [0.84-1.12],0.701440607509047,trans
+CCL2,C-C motif chemokine 2,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,16,1 [0.91-1.09],0.94006227159262,trans

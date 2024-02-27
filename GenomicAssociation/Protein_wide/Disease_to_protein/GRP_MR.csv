@@ -1,0 +1,9 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+GRP,Gastrin-releasing peptide,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.41 [1.21-1.64],1.40204283347502e-05,trans
+GRP,Gastrin-releasing peptide,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.12 [1.04-1.21],0.00383347731615174,trans
+GRP,Gastrin-releasing peptide,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,24,1.03 [1.01-1.06],0.00439776945494127,trans
+GRP,Gastrin-releasing peptide,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,14,1.04 [1.01-1.07],0.00497058718813607,trans
+GRP,Gastrin-releasing peptide,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1.06 [0.95-1.19],0.272005217843046,trans
+GRP,Gastrin-releasing peptide,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,0.91 [0.71-1.17],0.45922237024294,trans
+GRP,Gastrin-releasing peptide,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.93 [0.68-1.26],0.626301729246899,trans
+GRP,Gastrin-releasing peptide,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,1 [0.95-1.05],0.955463793638228,trans

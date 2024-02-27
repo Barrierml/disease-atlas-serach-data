@@ -1,0 +1,25 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+PRL,Prolactin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,0.81 [0.72-0.92],0.00131505150872636,trans
+PRL,Prolactin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,0.75 [0.58-0.97],0.0267330341083451,trans
+PRL,Prolactin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,0.78 [0.57-1.08],0.131278096286271,trans
+PRL,Prolactin,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1.08 [0.97-1.21],0.15585198782858,trans
+PRL,Prolactin,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.84 [0.61-1.14],0.255601511475404,trans
+PRL,Prolactin,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,0.87 [0.68-1.12],0.273900765356112,trans
+PRL,Prolactin,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,0.94 [0.83-1.05],0.283148738248731,trans
+PRL,Prolactin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,0.9 [0.72-1.12],0.330608468844506,trans
+PRL,Prolactin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.86 [0.62-1.18],0.344470834006063,trans
+PRL,Prolactin,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,61,0.98 [0.94-1.03],0.428928728735916,trans
+PRL,Prolactin,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.03 [0.95-1.11],0.483030956809035,trans
+PRL,Prolactin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,0.95 [0.81-1.11],0.488459435607634,trans
+PRL,Prolactin,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,0.94 [0.76-1.16],0.546913798337425,trans
+PRL,Prolactin,Chapter V Mental and behavioural disorders,KRA_PSY_SCHIZODEL_EXMORE,Wald ratio,1,0.98 [0.89-1.07],0.604229174977284,trans
+PRL,Prolactin,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,1.01 [0.94-1.09],0.721212113871335,trans
+PRL,Prolactin,"Chapter XV Pregnancy, childbirth and the puerperium",O15_PREG_PROLONGED,Inverse variance weighted,2,0.98 [0.85-1.13],0.768733113402951,trans
+PRL,Prolactin,"Chapter XV Pregnancy, childbirth and the puerperium",O15_DELIV_PERIN_LACER,Wald ratio,1,1.01 [0.92-1.12],0.77370344438164,trans
+PRL,Prolactin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,2,0.97 [0.8-1.18],0.774462800282091,trans
+PRL,Prolactin,"Chapter XV Pregnancy, childbirth and the puerperium",O15_DELIV_SPONT,Inverse variance weighted,2,0.97 [0.73-1.28],0.809949412873013,trans
+PRL,Prolactin,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.02 [0.89-1.16],0.814379844782497,trans
+PRL,Prolactin,Chapter IX Diseases of the circulatory system,I9_PAROXTAC,Inverse variance weighted,7,1 [0.95-1.05],0.854672960059218,trans
+PRL,Prolactin,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,1.01 [0.91-1.11],0.888565563995425,trans
+PRL,Prolactin,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,0.99 [0.79-1.25],0.956109726333429,trans
+PRL,Prolactin,Chapter II Neoplasms,CD2_BENIGN_ENDOCRINE_OTH,Inverse variance weighted,2,1 [0.91-1.1],0.971249630436431,trans

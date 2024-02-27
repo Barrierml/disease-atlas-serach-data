@@ -1,0 +1,76 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+CALCA,Calcitonin,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Inverse variance weighted,3,1.15 [1.09-1.21],7.06190198661547e-08,trans
+CALCA,Calcitonin,Chapter XI Diseases of the digestive system,K11_ALCOLIV,Inverse variance weighted,4,1.09 [1.05-1.12],1.30259221799559e-06,trans
+CALCA,Calcitonin,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,1.05 [1.03-1.07],1.4964203370992e-06,trans
+CALCA,Calcitonin,Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Inverse variance weighted,2,1.06 [1.03-1.08],3.41388526165063e-06,trans
+CALCA,Calcitonin,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,8,1.14 [1.08-1.21],5.33120195033427e-06,trans
+CALCA,Calcitonin,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,1.07 [1.04-1.1],1.07015030656399e-05,trans
+CALCA,Calcitonin,Chapter XI Diseases of the digestive system,NAFLD,Inverse variance weighted,6,1.07 [1.03-1.1],0.00014911752971313,trans
+CALCA,Calcitonin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.27 [1.11-1.44],0.000339488688225436,trans
+CALCA,Calcitonin,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1.09 [1.04-1.15],0.000622823922278028,trans
+CALCA,Calcitonin,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,1.12 [1.04-1.21],0.00344633237960783,trans
+CALCA,Calcitonin,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.09 [1.03-1.16],0.00605134987461868,trans
+CALCA,Calcitonin,Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,2,0.87 [0.77-0.98],0.0170824352680009,trans
+CALCA,Calcitonin,Chapter IX Diseases of the circulatory system,I9_ATHSCLE,Inverse variance weighted,13,1.07 [1.01-1.14],0.0204933764620356,trans
+CALCA,Calcitonin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,0.78 [0.63-0.97],0.0222316771632338,trans
+CALCA,Calcitonin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,1.1 [1.01-1.2],0.0275366079920846,trans
+CALCA,Calcitonin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,1.16 [0.99-1.35],0.0607290171572725,trans
+CALCA,Calcitonin,Chapter XI Diseases of the digestive system,K11_OTHFUNC,Wald ratio,1,0.84 [0.69-1.02],0.0762942228346029,trans
+CALCA,Calcitonin,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,11,1.04 [1-1.09],0.0772879859319569,trans
+CALCA,Calcitonin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,2,0.85 [0.71-1.02],0.0827945160909243,trans
+CALCA,Calcitonin,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,1.08 [0.99-1.18],0.0856716101594403,trans
+CALCA,Calcitonin,Chapter I Certain infectious and parasitic diseases,AB1_MYCOSES,Wald ratio,1,0.88 [0.76-1.03],0.106789116224143,trans
+CALCA,Calcitonin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.24 [0.95-1.61],0.115464888788037,trans
+CALCA,Calcitonin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Wald ratio,1,0.97 [0.92-1.01],0.122151171858089,trans
+CALCA,Calcitonin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Wald ratio,1,0.83 [0.65-1.05],0.125283074356072,trans
+CALCA,Calcitonin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,14,1.03 [0.99-1.06],0.135024222412646,trans
+CALCA,Calcitonin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,24,1.02 [0.99-1.05],0.180923917331521,trans
+CALCA,Calcitonin,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,0.88 [0.73-1.06],0.188005723577808,trans
+CALCA,Calcitonin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DERMATITISECZEMA,Inverse variance weighted,36,1.03 [0.99-1.08],0.188655314761017,trans
+CALCA,Calcitonin,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,1.06 [0.96-1.17],0.214012398941464,trans
+CALCA,Calcitonin,Chapter I Certain infectious and parasitic diseases,AB1_BACTINF_NOS,Inverse variance weighted,2,0.94 [0.84-1.04],0.235598438185737,trans
+CALCA,Calcitonin,Chapter IX Diseases of the circulatory system,I9_CARDARR,Inverse variance weighted,2,1.07 [0.96-1.2],0.242740511746088,trans
+CALCA,Calcitonin,Chapter XI Diseases of the digestive system,K11_OTHENTERCOL,Inverse variance weighted,2,0.95 [0.86-1.04],0.262993731521589,trans
+CALCA,Calcitonin,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Inverse variance weighted,13,0.97 [0.91-1.03],0.268207424408128,trans
+CALCA,Calcitonin,Chapter IX Diseases of the circulatory system,I9_CARDMYO,Inverse variance weighted,18,1.01 [0.99-1.02],0.278143434137787,trans
+CALCA,Calcitonin,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,5,0.96 [0.9-1.03],0.281299127427951,trans
+CALCA,Calcitonin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Inverse variance weighted,5,0.96 [0.9-1.03],0.282600160478642,trans
+CALCA,Calcitonin,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Inverse variance weighted,3,1.02 [0.98-1.06],0.294246623707321,trans
+CALCA,Calcitonin,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,35,1.02 [0.98-1.06],0.307602668707158,trans
+CALCA,Calcitonin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,10,0.98 [0.94-1.02],0.329840748360686,trans
+CALCA,Calcitonin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Wald ratio,1,0.97 [0.92-1.03],0.342742384237303,trans
+CALCA,Calcitonin,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,7,1.03 [0.97-1.1],0.347913601263915,trans
+CALCA,Calcitonin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,22,1.02 [0.98-1.06],0.349476336737297,trans
+CALCA,Calcitonin,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,1.1 [0.9-1.35],0.351055079963465,trans
+CALCA,Calcitonin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Wald ratio,1,1.02 [0.98-1.07],0.351359897182819,trans
+CALCA,Calcitonin,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,0.92 [0.75-1.13],0.43050212776495,trans
+CALCA,Calcitonin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.9 [0.69-1.18],0.433298231471224,trans
+CALCA,Calcitonin,Chapter X Diseases of the respiratory system,COPD_LATER,Wald ratio,1,1.03 [0.96-1.1],0.441522645790394,trans
+CALCA,Calcitonin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,10,0.98 [0.94-1.03],0.44898427258462,trans
+CALCA,Calcitonin,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,61,1.01 [0.97-1.06],0.50017864013129,trans
+CALCA,Calcitonin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,0.99 [0.95-1.02],0.502504168849413,trans
+CALCA,Calcitonin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,1.06 [0.89-1.27],0.509565997777203,trans
+CALCA,Calcitonin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,0.98 [0.91-1.05],0.53629416088258,trans
+CALCA,Calcitonin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERBLOOD,Wald ratio,1,0.98 [0.93-1.04],0.562439465979802,trans
+CALCA,Calcitonin,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.03 [0.93-1.15],0.565740869648178,trans
+CALCA,Calcitonin,Chapter XIV Diseases of the genitourinary system,N14_CALCUKIDUR,Inverse variance weighted,26,0.99 [0.96-1.02],0.576455718320024,trans
+CALCA,Calcitonin,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,5,1.05 [0.89-1.23],0.591420374889548,trans
+CALCA,Calcitonin,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1.03 [0.92-1.14],0.614658626057196,trans
+CALCA,Calcitonin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,1.03 [0.92-1.14],0.61478243548251,trans
+CALCA,Calcitonin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,0.99 [0.95-1.03],0.680368025948347,trans
+CALCA,Calcitonin,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,0.96 [0.81-1.15],0.683552825098497,trans
+CALCA,Calcitonin,Chapter X Diseases of the respiratory system,COPD_EARLY,Inverse variance weighted,3,1.02 [0.91-1.15],0.74425803155368,trans
+CALCA,Calcitonin,Chapter X Diseases of the respiratory system,J10_ASTHMA_EXMORE,Inverse variance weighted,59,1.01 [0.97-1.04],0.754180522639405,trans
+CALCA,Calcitonin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,1 [0.97-1.02],0.756209730350209,trans
+CALCA,Calcitonin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOPOROSIS,Inverse variance weighted,3,0.99 [0.88-1.11],0.831337446089092,trans
+CALCA,Calcitonin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,1 [0.97-1.03],0.833901319685631,trans
+CALCA,Calcitonin,Chapter IX Diseases of the circulatory system,I9_CONDUCTIO,Inverse variance weighted,4,1 [0.94-1.07],0.902120837214928,trans
+CALCA,Calcitonin,Chapter XI Diseases of the digestive system,K11_INTESTOTH,Inverse variance weighted,10,0.99 [0.9-1.1],0.913889695083406,trans
+CALCA,Calcitonin,Chapter XI Diseases of the digestive system,K11_CONSTIPATION,Wald ratio,1,0.99 [0.74-1.3],0.920809780236219,trans
+CALCA,Calcitonin,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,1 [0.96-1.04],0.932221007924661,trans
+CALCA,Calcitonin,Chapter VI Diseases of the nervous system,G6_POLYOTHUNS,Inverse variance weighted,2,1 [0.9-1.12],0.936443280409504,trans
+CALCA,Calcitonin,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Inverse variance weighted,4,1 [0.96-1.05],0.953607204414025,trans
+CALCA,Calcitonin,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,1.01 [0.78-1.3],0.957795484322412,trans
+CALCA,Calcitonin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,1 [0.82-1.22],0.964762330979717,trans
+CALCA,Calcitonin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,1 [0.94-1.06],0.984942069897665,trans
+CALCA,Calcitonin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PLASMAPROT,Inverse variance weighted,15,1 [1-1.01],0.991369779642971,trans

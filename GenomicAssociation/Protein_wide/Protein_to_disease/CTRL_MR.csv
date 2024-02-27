@@ -1,0 +1,13 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+CTRL,Chymotrypsin-like protease CTRL-1,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Inverse variance weighted,2,0.76 [0.52-1.11],0.151487539836353,cis
+CTRL,Chymotrypsin-like protease CTRL-1,Chapter V Mental and behavioural disorders,AUD,Inverse variance weighted,2,0.88 [0.65-1.19],0.41701921927999,cis
+CTRL,Chymotrypsin-like protease CTRL-1,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Inverse variance weighted,2,0.71 [0.23-2.17],0.544516907397722,cis
+CTRL,Chymotrypsin-like protease CTRL-1,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,2,0.81 [0.41-1.64],0.564387967868784,cis
+CTRL,Chymotrypsin-like protease CTRL-1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,2,1.17 [0.64-2.13],0.607101762002898,cis
+CTRL,Chymotrypsin-like protease CTRL-1,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,2,1.19 [0.38-3.69],0.768290772978313,cis
+CTRL,Chymotrypsin-like protease CTRL-1,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,35,0.95 [0.89-1.02],0.175114814338054,trans
+CTRL,Chymotrypsin-like protease CTRL-1,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Inverse variance weighted,35,1.04 [0.98-1.12],0.219509195528076,trans
+CTRL,Chymotrypsin-like protease CTRL-1,Chapter V Mental and behavioural disorders,AUD,Inverse variance weighted,35,1.02 [0.97-1.08],0.36573406238004,trans
+CTRL,Chymotrypsin-like protease CTRL-1,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Inverse variance weighted,35,0.92 [0.77-1.1],0.369993841951335,trans
+CTRL,Chymotrypsin-like protease CTRL-1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,35,0.96 [0.85-1.08],0.47329067563234,trans
+CTRL,Chymotrypsin-like protease CTRL-1,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,35,0.99 [0.82-1.18],0.867914900049242,trans

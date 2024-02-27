@@ -1,0 +1,35 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+SERPINA11,Serpin A11,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,1.46 [1.23-1.73],1.13553449929121e-05,trans
+SERPINA11,Serpin A11,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.58 [1.23-2.02],0.000272496209038456,trans
+SERPINA11,Serpin A11,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1.04 [1-1.08],0.0373733640230478,trans
+SERPINA11,Serpin A11,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Wald ratio,1,0.94 [0.87-1.02],0.138778037398012,trans
+SERPINA11,Serpin A11,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,0.91 [0.81-1.03],0.138778037398012,trans
+SERPINA11,Serpin A11,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,5,0.89 [0.77-1.04],0.142644457957547,trans
+SERPINA11,Serpin A11,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Inverse variance weighted,13,1.04 [0.99-1.09],0.147093217310731,trans
+SERPINA11,Serpin A11,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,1.06 [0.98-1.16],0.159218779487267,trans
+SERPINA11,Serpin A11,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,0.94 [0.86-1.03],0.198803033694281,trans
+SERPINA11,Serpin A11,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,0.88 [0.73-1.07],0.205273167041426,trans
+SERPINA11,Serpin A11,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,11,1.03 [0.98-1.08],0.207131680984242,trans
+SERPINA11,Serpin A11,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.87 [0.69-1.11],0.26251122606054,trans
+SERPINA11,Serpin A11,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,0.95 [0.86-1.05],0.320132083029471,trans
+SERPINA11,Serpin A11,Chapter X Diseases of the respiratory system,IPF,Inverse variance weighted,20,1.01 [0.99-1.02],0.328867963537692,trans
+SERPINA11,Serpin A11,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,1.08 [0.92-1.27],0.339552847646849,trans
+SERPINA11,Serpin A11,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,0.92 [0.77-1.1],0.346393880221761,trans
+SERPINA11,Serpin A11,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,0.96 [0.87-1.05],0.362051507502219,trans
+SERPINA11,Serpin A11,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,21,1.01 [0.99-1.02],0.37192612853515,trans
+SERPINA11,Serpin A11,Chapter X Diseases of the respiratory system,COPD_LATER,Wald ratio,1,1.03 [0.96-1.1],0.37645753116469,trans
+SERPINA11,Serpin A11,Chapter II Neoplasms,C3_BREAST_EXALLC,Inverse variance weighted,46,1.01 [0.99-1.03],0.395347723062345,trans
+SERPINA11,Serpin A11,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.09 [0.87-1.38],0.450972087469141,trans
+SERPINA11,Serpin A11,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,0.98 [0.92-1.04],0.500565146173009,trans
+SERPINA11,Serpin A11,Chapter X Diseases of the respiratory system,J10_ASTHMA_EXMORE,Inverse variance weighted,59,1.01 [0.97-1.05],0.511525846623295,trans
+SERPINA11,Serpin A11,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,1.03 [0.94-1.13],0.53150111766014,trans
+SERPINA11,Serpin A11,Chapter IX Diseases of the circulatory system,I9_CONDUCTIO,Inverse variance weighted,4,1.03 [0.93-1.14],0.55253820254709,trans
+SERPINA11,Serpin A11,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,0.91 [0.66-1.26],0.577159051059561,trans
+SERPINA11,Serpin A11,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,7,1.02 [0.94-1.11],0.578137375687035,trans
+SERPINA11,Serpin A11,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.96 [0.75-1.23],0.74727139329785,trans
+SERPINA11,Serpin A11,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,35,1.01 [0.97-1.04],0.748396862140151,trans
+SERPINA11,Serpin A11,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOPOROSIS,Inverse variance weighted,3,1.02 [0.9-1.15],0.803895102192982,trans
+SERPINA11,Serpin A11,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,0.99 [0.89-1.1],0.804557112730178,trans
+SERPINA11,Serpin A11,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Wald ratio,1,1 [0.94-1.05],0.880356499710313,trans
+SERPINA11,Serpin A11,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,61,1 [0.95-1.05],0.941205102365691,trans
+SERPINA11,Serpin A11,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Inverse variance weighted,4,1 [0.97-1.03],0.950559047495076,trans

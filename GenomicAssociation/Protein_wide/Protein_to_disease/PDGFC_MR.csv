@@ -1,0 +1,14 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+PDGFC,Platelet-derived growth factor C,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Wald ratio,1,0.57 [0.24-1.35],0.202600462477747,cis
+PDGFC,Platelet-derived growth factor C,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,2,0.92 [0.81-1.05],0.210123244122939,cis
+PDGFC,Platelet-derived growth factor C,Chapter X Diseases of the respiratory system,J10_EMPHYSEMA,Wald ratio,1,1.95 [0.41-9.2],0.398468029784439,cis
+PDGFC,Platelet-derived growth factor C,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_LOWBACKPAIN,Wald ratio,1,0.85 [0.56-1.29],0.44186264888592,cis
+PDGFC,Platelet-derived growth factor C,Chapter IX Diseases of the circulatory system,I9_MI_STRICT,Wald ratio,1,1.19 [0.72-1.97],0.488527556822788,cis
+PDGFC,Platelet-derived growth factor C,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_MUSCULOSKELETAL,Inverse variance weighted,2,0.96 [0.86-1.08],0.498348428476425,cis
+PDGFC,Platelet-derived growth factor C,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,2,1.06 [0.86-1.3],0.593927801818907,cis
+PDGFC,Platelet-derived growth factor C,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Wald ratio,1,1 [0.54-1.88],0.992076879107468,cis
+PDGFC,Platelet-derived growth factor C,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Inverse variance weighted,10,0.81 [0.7-0.95],0.0113656821560725,trans
+PDGFC,Platelet-derived growth factor C,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,10,0.86 [0.76-0.98],0.028532281252846,trans
+PDGFC,Platelet-derived growth factor C,Chapter IX Diseases of the circulatory system,I9_MI_STRICT,Inverse variance weighted,10,0.94 [0.82-1.07],0.355614808234437,trans
+PDGFC,Platelet-derived growth factor C,Chapter X Diseases of the respiratory system,J10_EMPHYSEMA,Inverse variance weighted,10,1.13 [0.85-1.5],0.408404300971828,trans
+PDGFC,Platelet-derived growth factor C,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_LOWBACKPAIN,Inverse variance weighted,10,0.95 [0.81-1.1],0.484521798254744,trans

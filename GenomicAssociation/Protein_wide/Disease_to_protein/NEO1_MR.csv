@@ -1,0 +1,12 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+NEO1,Neogenin,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.11 [1.03-1.2],0.00850600619688891,trans
+NEO1,Neogenin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.2 [1.02-1.4],0.0256497337694939,trans
+NEO1,Neogenin,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.72 [0.52-0.98],0.0372339742985401,trans
+NEO1,Neogenin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1.27 [0.92-1.77],0.150770089965064,trans
+NEO1,Neogenin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.21 [0.93-1.56],0.159584414561307,trans
+NEO1,Neogenin,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.97 [0.93-1.02],0.292131561975961,trans
+NEO1,Neogenin,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,1.09 [0.86-1.38],0.498743584299009,trans
+NEO1,Neogenin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,10,0.99 [0.95-1.03],0.595355217069793,trans
+NEO1,Neogenin,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,0.94 [0.75-1.19],0.606759040508617,trans
+NEO1,Neogenin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,10,0.99 [0.95-1.03],0.634075916937483,trans
+NEO1,Neogenin,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,5,1 [0.95-1.06],0.916030393639179,trans

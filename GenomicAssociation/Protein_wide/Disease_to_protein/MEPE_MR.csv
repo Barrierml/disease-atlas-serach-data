@@ -1,0 +1,15 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+MEPE,Matrix extracellular phosphoglycoprotein,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.17 [1.09-1.26],2.78695667354932e-05,trans
+MEPE,Matrix extracellular phosphoglycoprotein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOPOROSIS,Inverse variance weighted,3,0.85 [0.78-0.94],0.000780914388384014,trans
+MEPE,Matrix extracellular phosphoglycoprotein,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,0.95 [0.91-0.98],0.00469195662310574,trans
+MEPE,Matrix extracellular phosphoglycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,10,1.05 [1.01-1.1],0.0132088349686333,trans
+MEPE,Matrix extracellular phosphoglycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,0.96 [0.93-0.99],0.0237748161790145,trans
+MEPE,Matrix extracellular phosphoglycoprotein,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,11,0.95 [0.9-1],0.0452512282549205,trans
+MEPE,Matrix extracellular phosphoglycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,10,1.04 [1-1.09],0.0526601372019545,trans
+MEPE,Matrix extracellular phosphoglycoprotein,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.78 [0.58-1.04],0.0941423963990376,trans
+MEPE,Matrix extracellular phosphoglycoprotein,Chapter V Mental and behavioural disorders,ALCOHOLMENTAL,Wald ratio,1,1.08 [0.96-1.22],0.209387011145713,trans
+MEPE,Matrix extracellular phosphoglycoprotein,Chapter X Diseases of the respiratory system,COPD_EARLY,Inverse variance weighted,3,0.97 [0.92-1.03],0.34859574480384,trans
+MEPE,Matrix extracellular phosphoglycoprotein,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.98 [0.94-1.03],0.482531870096058,trans
+MEPE,Matrix extracellular phosphoglycoprotein,Chapter V Mental and behavioural disorders,AUD,Inverse variance weighted,6,0.98 [0.94-1.03],0.483780067826919,trans
+MEPE,Matrix extracellular phosphoglycoprotein,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,2,1.02 [0.83-1.26],0.829211220945051,trans
+MEPE,Matrix extracellular phosphoglycoprotein,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,7,1 [0.93-1.07],0.95137663757713,trans

@@ -1,0 +1,9 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+TDP1,Tyrosyl-DNA phosphodiesterase 1,Chapter XI Diseases of the digestive system,K11_COELIAC,Inverse variance weighted,2,0.64 [0.41-1],0.0501206722936031,cis
+TDP1,Tyrosyl-DNA phosphodiesterase 1,Chapter II Neoplasms,CD2_LYMPHOID_LEUKAEMIA_EXALLC,Inverse variance weighted,2,0.72 [0.36-1.44],0.353568830371219,cis
+TDP1,Tyrosyl-DNA phosphodiesterase 1,Chapter XI Diseases of the digestive system,K11_MALABSORB,Inverse variance weighted,2,0.65 [0.14-3.02],0.584089309883328,cis
+TDP1,Tyrosyl-DNA phosphodiesterase 1,Chapter II Neoplasms,C3_CLL_EXALLC,Inverse variance weighted,2,1.1 [0.29-4.23],0.88957798326646,cis
+TDP1,Tyrosyl-DNA phosphodiesterase 1,Chapter II Neoplasms,CD2_LYMPHOID_LEUKAEMIA_EXALLC,Wald ratio,1,1.69 [0.44-6.49],0.443205995205522,trans
+TDP1,Tyrosyl-DNA phosphodiesterase 1,Chapter II Neoplasms,C3_CLL_EXALLC,Wald ratio,1,0.67 [0.08-5.43],0.709583987391297,trans
+TDP1,Tyrosyl-DNA phosphodiesterase 1,Chapter XI Diseases of the digestive system,K11_MALABSORB,Wald ratio,1,1.28 [0.29-5.57],0.744977320227956,trans
+TDP1,Tyrosyl-DNA phosphodiesterase 1,Chapter XI Diseases of the digestive system,K11_COELIAC,Wald ratio,1,0.9 [0.38-2.14],0.812770675113255,trans

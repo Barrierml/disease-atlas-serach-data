@@ -1,0 +1,61 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+MATN2,Matrilin-2,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,0.83 [0.75-0.93],0.00142519688223069,trans
+MATN2,Matrilin-2,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.38 [1.09-1.76],0.00777931974549731,trans
+MATN2,Matrilin-2,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,0.74 [0.59-0.93],0.010356829440076,trans
+MATN2,Matrilin-2,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,1.08 [1.01-1.14],0.0202150336849236,trans
+MATN2,Matrilin-2,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,1.26 [1.02-1.55],0.0328956591379102,trans
+MATN2,Matrilin-2,Chapter X Diseases of the respiratory system,COPD_LATER,Wald ratio,1,1.09 [1.01-1.18],0.0333264673947,trans
+MATN2,Matrilin-2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,1.23 [1-1.51],0.0481605470721843,trans
+MATN2,Matrilin-2,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,21,1.02 [1-1.04],0.0658806828361683,trans
+MATN2,Matrilin-2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.32 [0.98-1.78],0.0685624391809612,trans
+MATN2,Matrilin-2,Chapter IX Diseases of the circulatory system,I9_CARDARR,Inverse variance weighted,2,1.04 [1-1.1],0.0757134785192533,trans
+MATN2,Matrilin-2,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,11,0.95 [0.9-1.01],0.0882461226431487,trans
+MATN2,Matrilin-2,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.96 [0.9-1.01],0.11756379922156,trans
+MATN2,Matrilin-2,Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Inverse variance weighted,2,1.02 [0.99-1.05],0.140739982488574,trans
+MATN2,Matrilin-2,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,1.02 [0.99-1.06],0.162301754335407,trans
+MATN2,Matrilin-2,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Inverse variance weighted,3,1.03 [0.98-1.09],0.19492789505521,trans
+MATN2,Matrilin-2,Chapter VI Diseases of the nervous system,G6_POLYOTHUNS,Inverse variance weighted,2,0.92 [0.82-1.04],0.198777768859702,trans
+MATN2,Matrilin-2,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.05 [0.97-1.12],0.208895031702509,trans
+MATN2,Matrilin-2,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1.07 [0.96-1.18],0.221260411076714,trans
+MATN2,Matrilin-2,Chapter X Diseases of the respiratory system,J10_EMPHYSEMA,Wald ratio,1,1.03 [0.98-1.09],0.223549885425028,trans
+MATN2,Matrilin-2,Chapter IX Diseases of the circulatory system,I9_PULMEMB,Inverse variance weighted,23,1.02 [0.99-1.05],0.22364139881915,trans
+MATN2,Matrilin-2,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1.02 [0.99-1.06],0.227452593793669,trans
+MATN2,Matrilin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_NOS,Inverse variance weighted,6,0.97 [0.92-1.02],0.232268089863799,trans
+MATN2,Matrilin-2,Chapter X Diseases of the respiratory system,COPD_EARLY,Inverse variance weighted,3,1.03 [0.98-1.09],0.241111782171521,trans
+MATN2,Matrilin-2,Chapter IX Diseases of the circulatory system,I9_CARDMYO,Inverse variance weighted,18,0.99 [0.97-1.01],0.245620075619598,trans
+MATN2,Matrilin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,0.92 [0.8-1.07],0.265395090011969,trans
+MATN2,Matrilin-2,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,8,1.02 [0.98-1.07],0.319752671498994,trans
+MATN2,Matrilin-2,Chapter IX Diseases of the circulatory system,I9_STR,Inverse variance weighted,3,0.92 [0.79-1.09],0.339086199159791,trans
+MATN2,Matrilin-2,Chapter XI Diseases of the digestive system,K11_OTHENTERCOL,Inverse variance weighted,2,1.05 [0.95-1.17],0.34412442664149,trans
+MATN2,Matrilin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,1.04 [0.95-1.15],0.397721112514405,trans
+MATN2,Matrilin-2,Chapter XI Diseases of the digestive system,K11_ALCOLIV,Inverse variance weighted,4,1.01 [0.98-1.05],0.442194150586843,trans
+MATN2,Matrilin-2,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,1.01 [0.98-1.04],0.46262590925848,trans
+MATN2,Matrilin-2,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.9 [0.67-1.2],0.480927789686298,trans
+MATN2,Matrilin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,14,1.01 [0.98-1.05],0.482932650912023,trans
+MATN2,Matrilin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Inverse variance weighted,5,1.01 [0.98-1.05],0.487142799611214,trans
+MATN2,Matrilin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,5,1.01 [0.97-1.06],0.510458647979274,trans
+MATN2,Matrilin-2,Chapter IX Diseases of the circulatory system,I9_CONDUCTIO,Inverse variance weighted,4,1.02 [0.95-1.1],0.52398049090632,trans
+MATN2,Matrilin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,22,1.01 [0.97-1.05],0.531511625912252,trans
+MATN2,Matrilin-2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,0.96 [0.82-1.12],0.58253119067839,trans
+MATN2,Matrilin-2,Chapter XI Diseases of the digestive system,COLITNONINFNAS,Wald ratio,1,1.06 [0.86-1.29],0.592100929648799,trans
+MATN2,Matrilin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,24,1.01 [0.98-1.04],0.598408772499676,trans
+MATN2,Matrilin-2,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,0.96 [0.83-1.12],0.608923800885149,trans
+MATN2,Matrilin-2,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,1.06 [0.85-1.31],0.609101094261441,trans
+MATN2,Matrilin-2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,1.01 [0.98-1.04],0.612628447485237,trans
+MATN2,Matrilin-2,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,61,1.02 [0.96-1.08],0.620936600852485,trans
+MATN2,Matrilin-2,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.03 [0.91-1.16],0.655789295938802,trans
+MATN2,Matrilin-2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Inverse variance weighted,5,1.02 [0.92-1.13],0.703749485574492,trans
+MATN2,Matrilin-2,Chapter IX Diseases of the circulatory system,I9_LBBB,Inverse variance weighted,2,1.01 [0.96-1.06],0.722331404932536,trans
+MATN2,Matrilin-2,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Inverse variance weighted,4,1.01 [0.97-1.04],0.759254019684474,trans
+MATN2,Matrilin-2,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,35,1.01 [0.96-1.05],0.796343691297139,trans
+MATN2,Matrilin-2,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1.03 [0.76-1.4],0.840959218120492,trans
+MATN2,Matrilin-2,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Wald ratio,1,0.97 [0.74-1.28],0.845675834022716,trans
+MATN2,Matrilin-2,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,5,0.98 [0.82-1.18],0.851194967900203,trans
+MATN2,Matrilin-2,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,0.98 [0.83-1.17],0.861274405335986,trans
+MATN2,Matrilin-2,Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,2,0.98 [0.77-1.25],0.886341182920857,trans
+MATN2,Matrilin-2,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,7,0.99 [0.89-1.11],0.895613752473126,trans
+MATN2,Matrilin-2,Chapter V Mental and behavioural disorders,ALCOHOLMENTAL,Wald ratio,1,0.99 [0.88-1.12],0.89825442829349,trans
+MATN2,Matrilin-2,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,1.01 [0.88-1.15],0.909961672923362,trans
+MATN2,Matrilin-2,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,1.01 [0.81-1.26],0.911635575007514,trans
+MATN2,Matrilin-2,Chapter I Certain infectious and parasitic diseases,AB1_MYCOSES,Wald ratio,1,1 [0.85-1.19],0.954251768754377,trans
+MATN2,Matrilin-2,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Wald ratio,1,1 [0.94-1.07],0.967918793882999,trans

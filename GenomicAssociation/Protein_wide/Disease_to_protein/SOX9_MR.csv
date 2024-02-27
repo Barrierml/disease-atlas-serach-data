@@ -1,0 +1,14 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+SOX9,Transcription factor SOX-9,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.14 [1.05-1.24],0.0010281050126945,trans
+SOX9,Transcription factor SOX-9,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.71 [0.52-0.98],0.0396189135389766,trans
+SOX9,Transcription factor SOX-9,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,0.77 [0.61-0.99],0.0426172534111515,trans
+SOX9,Transcription factor SOX-9,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,0.73 [0.52-1.01],0.060763826672925,trans
+SOX9,Transcription factor SOX-9,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,0.89 [0.78-1.01],0.0724510129177627,trans
+SOX9,Transcription factor SOX-9,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,0.81 [0.65-1.02],0.0779597865510498,trans
+SOX9,Transcription factor SOX-9,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.96 [0.91-1.01],0.114243632764417,trans
+SOX9,Transcription factor SOX-9,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.8 [0.57-1.12],0.195263830205993,trans
+SOX9,Transcription factor SOX-9,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.18 [0.91-1.54],0.215222392692842,trans
+SOX9,Transcription factor SOX-9,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,0.89 [0.73-1.08],0.233001834289719,trans
+SOX9,Transcription factor SOX-9,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.08 [0.91-1.26],0.380598561023737,trans
+SOX9,Transcription factor SOX-9,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,1 [0.97-1.04],0.862616387505631,trans
+SOX9,Transcription factor SOX-9,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,10,1 [0.95-1.04],0.913132155668962,trans

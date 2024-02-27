@@ -1,0 +1,9 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+VTI1A,Vesicle transport through interaction with t-SNAREs homolog 1A,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Wald ratio,1,0.82 [0.58-1.16],0.256595269044726,cis
+VTI1A,Vesicle transport through interaction with t-SNAREs homolog 1A,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.42 [0.74-2.73],0.29097329650407,cis
+VTI1A,Vesicle transport through interaction with t-SNAREs homolog 1A,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Wald ratio,1,0.86 [0.64-1.16],0.32560123403497,cis
+VTI1A,Vesicle transport through interaction with t-SNAREs homolog 1A,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Wald ratio,1,0.85 [0.46-1.57],0.61417386301832,cis
+VTI1A,Vesicle transport through interaction with t-SNAREs homolog 1A,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,4,0.88 [0.75-1.05],0.150693231148796,trans
+VTI1A,Vesicle transport through interaction with t-SNAREs homolog 1A,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,4,0.93 [0.81-1.07],0.292953052537538,trans
+VTI1A,Vesicle transport through interaction with t-SNAREs homolog 1A,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,4,0.92 [0.74-1.14],0.465435478743255,trans
+VTI1A,Vesicle transport through interaction with t-SNAREs homolog 1A,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,4,0.94 [0.74-1.19],0.611925850285069,trans

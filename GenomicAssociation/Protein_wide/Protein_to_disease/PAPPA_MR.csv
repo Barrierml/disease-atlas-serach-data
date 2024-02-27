@@ -1,0 +1,10 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+PAPPA,Pappalysin-1,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,2,0.95 [0.82-1.11],0.540864759355871,cis
+PAPPA,Pappalysin-1,Chapter X Diseases of the respiratory system,J10_ASTHMA_EXMORE,Inverse variance weighted,2,1.02 [0.84-1.24],0.840682055132584,cis
+PAPPA,Pappalysin-1,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Wald ratio,1,0.98 [0.77-1.24],0.851568865078001,cis
+PAPPA,Pappalysin-1,Chapter X Diseases of the respiratory system,J10_NASALPOLYP,Inverse variance weighted,2,1.1 [0.4-3.01],0.851660234245482,cis
+PAPPA,Pappalysin-1,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Inverse variance weighted,2,1.01 [0.79-1.29],0.95769152382312,cis
+PAPPA,Pappalysin-1,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Inverse variance weighted,27,0.97 [0.91-1.03],0.284222124447784,trans
+PAPPA,Pappalysin-1,Chapter X Diseases of the respiratory system,J10_ASTHMA_EXMORE,Inverse variance weighted,27,1.01 [0.95-1.06],0.776949396807931,trans
+PAPPA,Pappalysin-1,Chapter X Diseases of the respiratory system,J10_NASALPOLYP,Inverse variance weighted,27,1.01 [0.9-1.13],0.897624409373733,trans
+PAPPA,Pappalysin-1,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,27,1 [0.95-1.06],0.921939238182501,trans

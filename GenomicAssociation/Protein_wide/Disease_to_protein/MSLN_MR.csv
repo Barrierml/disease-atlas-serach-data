@@ -1,0 +1,71 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+MSLN,Mesothelin,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,1.94 [1.57-2.39],6.81139247179429e-10,trans
+MSLN,Mesothelin,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,21,1.07 [1.04-1.1],1.19244377471215e-07,trans
+MSLN,Mesothelin,Chapter X Diseases of the respiratory system,IPF,Inverse variance weighted,20,1.04 [1.03-1.06],1.79942047780846e-06,trans
+MSLN,Mesothelin,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Inverse variance weighted,4,1.09 [1.04-1.14],0.000622677420214525,trans
+MSLN,Mesothelin,Chapter XI Diseases of the digestive system,K11_DIAHER,Inverse variance weighted,8,1.07 [1.02-1.12],0.00346009169984971,trans
+MSLN,Mesothelin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.67 [0.49-0.9],0.00741650595588986,trans
+MSLN,Mesothelin,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,1.16 [1.04-1.29],0.00817975243903053,trans
+MSLN,Mesothelin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Wald ratio,1,0.88 [0.8-0.97],0.00844644245723813,trans
+MSLN,Mesothelin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,0.83 [0.72-0.95],0.00844644245723815,trans
+MSLN,Mesothelin,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,1.34 [1.06-1.68],0.0124208755158321,trans
+MSLN,Mesothelin,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,11,1.06 [1.01-1.12],0.0280000951898588,trans
+MSLN,Mesothelin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS,Inverse variance weighted,51,1.05 [1-1.1],0.0377559841923925,trans
+MSLN,Mesothelin,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,1.1 [1.01-1.21],0.0379679555803663,trans
+MSLN,Mesothelin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,22,1.05 [1-1.1],0.0398055978575758,trans
+MSLN,Mesothelin,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.08 [1-1.17],0.0413050345816897,trans
+MSLN,Mesothelin,Chapter XI Diseases of the digestive system,K11_OTHDIG,Inverse variance weighted,12,0.95 [0.9-1],0.0682709223580095,trans
+MSLN,Mesothelin,Chapter XI Diseases of the digestive system,K11_OTHFUNC,Wald ratio,1,0.82 [0.66-1.02],0.0758361161736189,trans
+MSLN,Mesothelin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.23 [0.97-1.56],0.0819212649574032,trans
+MSLN,Mesothelin,Chapter V Mental and behavioural disorders,F5_DEPRESSION_DYSTHYMIA,Inverse variance weighted,24,1.07 [0.99-1.15],0.11074616846382,trans
+MSLN,Mesothelin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,24,1.02 [0.99-1.05],0.117242448504478,trans
+MSLN,Mesothelin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,1.07 [0.98-1.17],0.124698337958663,trans
+MSLN,Mesothelin,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Inverse variance weighted,13,1.06 [0.98-1.15],0.136322687756977,trans
+MSLN,Mesothelin,Chapter I Certain infectious and parasitic diseases,AB1_MYCOSES,Wald ratio,1,0.89 [0.75-1.05],0.174296248536464,trans
+MSLN,Mesothelin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DORSOPATHYOTH,Inverse variance weighted,27,1.06 [0.98-1.14],0.180263460418857,trans
+MSLN,Mesothelin,Chapter XI Diseases of the digestive system,K11_CONSTIPATION,Wald ratio,1,0.81 [0.59-1.1],0.182008427378824,trans
+MSLN,Mesothelin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Inverse variance weighted,5,0.96 [0.9-1.02],0.192333521015962,trans
+MSLN,Mesothelin,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,7,1.06 [0.97-1.15],0.204980765194151,trans
+MSLN,Mesothelin,Chapter X Diseases of the respiratory system,COPD_EARLY,Inverse variance weighted,3,1.06 [0.97-1.15],0.225571553999647,trans
+MSLN,Mesothelin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_NOS,Inverse variance weighted,6,0.96 [0.9-1.03],0.2263165750058,trans
+MSLN,Mesothelin,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,5,0.9 [0.75-1.07],0.237270060850615,trans
+MSLN,Mesothelin,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1.06 [0.96-1.17],0.262165126658096,trans
+MSLN,Mesothelin,Chapter X Diseases of the respiratory system,J10_PLEURPLAGUE,Wald ratio,1,0.95 [0.87-1.04],0.264442408394638,trans
+MSLN,Mesothelin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_OTH,Inverse variance weighted,3,0.93 [0.81-1.06],0.265879404122611,trans
+MSLN,Mesothelin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,14,1.02 [0.99-1.05],0.270676643790988,trans
+MSLN,Mesothelin,Chapter V Mental and behavioural disorders,SMOKING_DEPEND,Wald ratio,1,1.04 [0.97-1.13],0.279009118165098,trans
+MSLN,Mesothelin,Chapter XI Diseases of the digestive system,K11_INTESTOTH,Inverse variance weighted,10,1.06 [0.95-1.2],0.296566940608619,trans
+MSLN,Mesothelin,Chapter IX Diseases of the circulatory system,I9_AORTANEUR,Inverse variance weighted,18,1.02 [0.98-1.05],0.32147003500024,trans
+MSLN,Mesothelin,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.97 [0.9-1.04],0.350805508595332,trans
+MSLN,Mesothelin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SPONDYLOSIS,Inverse variance weighted,8,1.04 [0.95-1.14],0.38007942792609,trans
+MSLN,Mesothelin,Chapter XI Diseases of the digestive system,K11_DIVERTIC,Inverse variance weighted,50,1.02 [0.98-1.05],0.385943575657927,trans
+MSLN,Mesothelin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,1.1 [0.88-1.37],0.395775903725498,trans
+MSLN,Mesothelin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Wald ratio,1,1.12 [0.86-1.46],0.409103629285264,trans
+MSLN,Mesothelin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SPONDYLOPATHY,Inverse variance weighted,21,1.03 [0.96-1.1],0.411575864980319,trans
+MSLN,Mesothelin,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,1.08 [0.89-1.32],0.422487928961612,trans
+MSLN,Mesothelin,Chapter XI Diseases of the digestive system,K11_OTHENTERCOL,Inverse variance weighted,2,0.96 [0.86-1.06],0.424003116522892,trans
+MSLN,Mesothelin,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,1.05 [0.93-1.18],0.442523350626749,trans
+MSLN,Mesothelin,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,61,1.02 [0.97-1.06],0.500455387205703,trans
+MSLN,Mesothelin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,25,1.03 [0.94-1.14],0.50970369909943,trans
+MSLN,Mesothelin,Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,2,1.07 [0.88-1.29],0.520856217727829,trans
+MSLN,Mesothelin,Chapter V Mental and behavioural disorders,F5_DELIRIUM,Wald ratio,1,0.96 [0.86-1.09],0.543186890029088,trans
+MSLN,Mesothelin,Chapter X Diseases of the respiratory system,COPD_LATER,Wald ratio,1,1.02 [0.95-1.11],0.561603872168573,trans
+MSLN,Mesothelin,Chapter X Diseases of the respiratory system,J10_EMPHYSEMA,Wald ratio,1,1.01 [0.97-1.07],0.573500774038361,trans
+MSLN,Mesothelin,Chapter XI Diseases of the digestive system,K11_OESSTODUO,Wald ratio,1,1.11 [0.75-1.64],0.608306002358749,trans
+MSLN,Mesothelin,Chapter IX Diseases of the circulatory system,I9_ABAORTANEUR,Inverse variance weighted,5,1.01 [0.96-1.07],0.65253239921622,trans
+MSLN,Mesothelin,Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,2,0.77 [0.25-2.4],0.652843903063699,trans
+MSLN,Mesothelin,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.02 [0.91-1.16],0.689785148923499,trans
+MSLN,Mesothelin,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,35,1.01 [0.97-1.05],0.693529014279052,trans
+MSLN,Mesothelin,Chapter X Diseases of the respiratory system,J10_ASTHMA_EXMORE,Inverse variance weighted,59,1.01 [0.96-1.06],0.754005289462354,trans
+MSLN,Mesothelin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,0.96 [0.71-1.28],0.759931258959402,trans
+MSLN,Mesothelin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,0.98 [0.8-1.2],0.847172045790441,trans
+MSLN,Mesothelin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,1.01 [0.92-1.11],0.855923914255994,trans
+MSLN,Mesothelin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,1.01 [0.93-1.09],0.890669739498574,trans
+MSLN,Mesothelin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,1 [0.97-1.03],0.906246948928637,trans
+MSLN,Mesothelin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,1.01 [0.85-1.19],0.940911592072676,trans
+MSLN,Mesothelin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,2,1.01 [0.84-1.21],0.948676579737878,trans
+MSLN,Mesothelin,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.99 [0.75-1.32],0.957113118234961,trans
+MSLN,Mesothelin,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,1 [0.93-1.07],0.978301237974356,trans
+MSLN,Mesothelin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,1 [0.8-1.26],0.98117413222238,trans
+MSLN,Mesothelin,Chapter IX Diseases of the circulatory system,I9_ATHSCLE,Inverse variance weighted,13,1 [0.96-1.05],0.988596704141964,trans
+MSLN,Mesothelin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Wald ratio,1,1 [0.94-1.07],0.992374890795404,trans

@@ -1,0 +1,289 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,2,1.43 [1.14-1.79],0.00193947718336748,cis
+ELN,Elastin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,0.71 [0.56-0.89],0.00264458542195876,cis
+ELN,Elastin,Chapter I Certain infectious and parasitic diseases,AB1_INFECT_PARASIT,Wald ratio,1,0.77 [0.65-0.92],0.00321710494755411,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,2,1.66 [1.18-2.33],0.00376614407825368,cis
+ELN,Elastin,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Wald ratio,1,0.81 [0.71-0.94],0.00418564391448455,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SPONDYLOPATHY,Inverse variance weighted,2,1.33 [1.08-1.64],0.00731714065284022,cis
+ELN,Elastin,Chapter XI Diseases of the digestive system,K11_INTESTOTH,Inverse variance weighted,2,0.71 [0.56-0.92],0.00776299974113918,cis
+ELN,Elastin,Chapter X Diseases of the respiratory system,PNEUMOBACTKNOWN,Wald ratio,1,0.33 [0.14-0.77],0.011162718282319,cis
+ELN,Elastin,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Wald ratio,1,0.69 [0.51-0.92],0.0115664375095814,cis
+ELN,Elastin,Chapter V Mental and behavioural disorders,F5_DEPRESSION_DYSTHYMIA,Inverse variance weighted,2,1.27 [1.05-1.53],0.0139750267987883,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_HYPTENSPUL,Inverse variance weighted,2,0.05 [0-0.64],0.0204095689058878,cis
+ELN,Elastin,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,0.73 [0.56-0.95],0.0210921892810861,cis
+ELN,Elastin,Chapter II Neoplasms,C3_OTHER_SKIN_EXALLC,Inverse variance weighted,2,0.7 [0.52-0.95],0.0213479288162468,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,2,1.28 [1.03-1.58],0.0248556834313505,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DORSOPATHY,Inverse variance weighted,2,1.19 [1.01-1.41],0.0369786301851607,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_KNEEDERANGEMENTS,Inverse variance weighted,2,1.32 [1.01-1.73],0.0417258092533626,cis
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Inverse variance weighted,2,0.17 [0.03-0.95],0.0433474588183565,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_IHD,Inverse variance weighted,2,1.2 [1-1.45],0.0491947171286925,cis
+ELN,Elastin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,0.83 [0.69-1],0.0519900033499623,cis
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,2,0.74 [0.55-1.01],0.0542883977455672,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_PHLETHROMBDVTLOW,Inverse variance weighted,2,2.04 [0.98-4.28],0.0576132112969046,cis
+ELN,Elastin,Chapter X Diseases of the respiratory system,COPD_EARLY,Inverse variance weighted,2,0.66 [0.42-1.03],0.0657680328858225,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OTHERJOINT,Inverse variance weighted,2,1.33 [0.98-1.8],0.0672799107152333,cis
+ELN,Elastin,Chapter X Diseases of the respiratory system,J10_PLEUREFFUSION,Inverse variance weighted,2,1.66 [0.96-2.88],0.0711504028509711,cis
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERCHOL,Inverse variance weighted,2,1.33 [0.98-1.8],0.0716840519022505,cis
+ELN,Elastin,Chapter XI Diseases of the digestive system,K11_OTHENTERCOL,Inverse variance weighted,2,1.46 [0.96-2.21],0.0762788847115753,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_PULMOTHHD,Wald ratio,1,0.48 [0.21-1.09],0.0779022687685934,cis
+ELN,Elastin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,0.8 [0.62-1.03],0.0879116249187434,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DEFORMDORSO,Inverse variance weighted,2,1.4 [0.95-2.06],0.0881276247215311,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_KNEE,Inverse variance weighted,2,1.42 [0.94-2.14],0.0951091692575128,cis
+ELN,Elastin,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,2,1.34 [0.93-1.92],0.113211685579312,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_MI_STRICT,Inverse variance weighted,2,1.25 [0.95-1.64],0.118261715615961,cis
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,2,1.15 [0.96-1.38],0.118392890945867,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_CORATHER,Inverse variance weighted,2,1.18 [0.95-1.45],0.12699793392242,cis
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,2,1.18 [0.95-1.45],0.13036286877577,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SOFTTISSUE,Inverse variance weighted,2,1.24 [0.94-1.64],0.13127401510919,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,2,1.48 [0.88-2.48],0.138728432274189,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DORSOPATHYOTH,Inverse variance weighted,2,1.18 [0.94-1.46],0.150201956553035,cis
+ELN,Elastin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.87 [0.72-1.05],0.150572418231733,cis
+ELN,Elastin,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,2,1.23 [0.92-1.63],0.165030319257728,cis
+ELN,Elastin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_SKIN_SUBCUTAN,Wald ratio,1,0.89 [0.76-1.05],0.165343184429566,cis
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,2,1.16 [0.94-1.43],0.16833313120072,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOCHONDRO,Inverse variance weighted,2,1.21 [0.92-1.59],0.18107016622956,cis
+ELN,Elastin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_CELLULITIS,Inverse variance weighted,2,1.36 [0.86-2.15],0.183463847820207,cis
+ELN,Elastin,Chapter XI Diseases of the digestive system,K11_OTHFUNC,Inverse variance weighted,2,0.77 [0.52-1.14],0.188272371996183,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_INCLAVO,Inverse variance weighted,2,1.31 [0.87-1.98],0.191414893066949,cis
+ELN,Elastin,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,2,0.9 [0.76-1.06],0.196049739875657,cis
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Inverse variance weighted,2,0.34 [0.07-1.74],0.197104157971028,cis
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Inverse variance weighted,2,0.72 [0.43-1.2],0.20616289861789,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_MUSCULOSKELETAL,Wald ratio,1,1.08 [0.95-1.23],0.215298628020841,cis
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,2,2.22 [0.6-8.26],0.232002251519795,cis
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Wald ratio,1,0.67 [0.35-1.29],0.232264178130565,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS,Inverse variance weighted,2,1.31 [0.84-2.05],0.236558537351108,cis
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_KIDUROTH,Inverse variance weighted,2,0.69 [0.37-1.29],0.244443364941308,cis
+ELN,Elastin,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Wald ratio,1,0.71 [0.39-1.28],0.251115599470695,cis
+ELN,Elastin,Chapter VI Diseases of the nervous system,G6_NEURO,Wald ratio,1,1.1 [0.93-1.29],0.253841478248541,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_CEREBDOTH,Inverse variance weighted,2,0.63 [0.27-1.47],0.284596323945032,cis
+ELN,Elastin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_BACT_IMPL,Wald ratio,1,0.84 [0.61-1.15],0.28551275724489,cis
+ELN,Elastin,Chapter XI Diseases of the digestive system,K11_GIDISEASES,Wald ratio,1,0.94 [0.83-1.06],0.289739179625461,cis
+ELN,Elastin,Chapter VI Diseases of the nervous system,G6_POLYOTHUNS,Inverse variance weighted,2,1.3 [0.79-2.14],0.29607639715363,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,2,1.25 [0.82-1.91],0.296191633759133,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_SECONDRIGHT,Inverse variance weighted,2,0.55 [0.18-1.7],0.297510468413117,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SOFTTISSUEOTH,Inverse variance weighted,2,1.15 [0.88-1.49],0.308052099465972,cis
+ELN,Elastin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,2,1.38 [0.74-2.57],0.314645889398498,cis
+ELN,Elastin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Wald ratio,1,0.71 [0.36-1.41],0.325051124499643,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_LBBB,Inverse variance weighted,2,0.65 [0.28-1.52],0.325368633731294,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_OTHPER,Inverse variance weighted,2,1.48 [0.67-3.27],0.326032418615778,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_RHEUVALV,Inverse variance weighted,2,0.5 [0.12-2.02],0.330621557448766,cis
+ELN,Elastin,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,2,0.89 [0.7-1.13],0.349252815139732,cis
+ELN,Elastin,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,2,1.07 [0.93-1.23],0.350036239373157,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_PULMEMB,Inverse variance weighted,2,0.81 [0.52-1.26],0.353356970978229,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_ANGINA,Inverse variance weighted,2,1.12 [0.88-1.42],0.355955396816603,cis
+ELN,Elastin,Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,2,1.11 [0.89-1.4],0.356246833910184,cis
+ELN,Elastin,Chapter V Mental and behavioural disorders,SMOKING_DEPEND,Inverse variance weighted,2,1.63 [0.55-4.79],0.376100718336528,cis
+ELN,Elastin,Chapter V Mental and behavioural disorders,F5_DEPRESSIO,Inverse variance weighted,2,1.13 [0.86-1.47],0.387180213438294,cis
+ELN,Elastin,Chapter X Diseases of the respiratory system,J10_RESPDISOTH,Wald ratio,1,0.88 [0.65-1.18],0.389720557745741,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Inverse variance weighted,2,1.16 [0.82-1.64],0.392268539654276,cis
+ELN,Elastin,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,2,0.78 [0.44-1.39],0.400306144952776,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Inverse variance weighted,2,1.17 [0.8-1.71],0.418539444898424,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_HYPOTE,Inverse variance weighted,2,1.35 [0.65-2.8],0.422627187564641,cis
+ELN,Elastin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_FUNGAL_IMPL,Wald ratio,1,0.76 [0.38-1.52],0.437691852775822,cis
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Inverse variance weighted,2,1.58 [0.49-5.11],0.446152282621144,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DORSALGIANAS,Inverse variance weighted,2,0.88 [0.64-1.22],0.452042051336526,cis
+ELN,Elastin,Chapter I Certain infectious and parasitic diseases,AB1_STREPTSTAPHYCOCC_INOTHER,Inverse variance weighted,2,0.32 [0.02-6.24],0.455839009266763,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_LOWBACKPAIN,Inverse variance weighted,2,1.12 [0.83-1.51],0.472048383177717,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_VTE,Inverse variance weighted,2,1.25 [0.68-2.29],0.474312712050281,cis
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_GLOMEINOTH,Inverse variance weighted,2,1.26 [0.67-2.38],0.477492104419776,cis
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERKALAEMIA,Inverse variance weighted,2,1.42 [0.53-3.75],0.484736979309926,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_CARDMYO,Inverse variance weighted,2,0.84 [0.51-1.38],0.485621096805569,cis
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,2,1.07 [0.89-1.28],0.491257315409753,cis
+ELN,Elastin,Chapter XI Diseases of the digestive system,COLITNONINFNAS,Wald ratio,1,1.1 [0.83-1.47],0.499405733936311,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_BONECONTINUITY,Inverse variance weighted,2,1.29 [0.62-2.69],0.5031783684014,cis
+ELN,Elastin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_EXPLICIT,Wald ratio,1,1.12 [0.8-1.56],0.514234775914396,cis
+ELN,Elastin,Chapter X Diseases of the respiratory system,J10_EMPHYSEMA,Inverse variance weighted,2,0.68 [0.21-2.17],0.516473826600249,cis
+ELN,Elastin,Chapter VI Diseases of the nervous system,G6_CPETAL,Inverse variance weighted,2,1.46 [0.46-4.66],0.519123426712848,cis
+ELN,Elastin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_VIRAL_IMPL,Wald ratio,1,0.84 [0.49-1.43],0.524908194727138,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_ATHSCLE,Inverse variance weighted,2,1.11 [0.79-1.57],0.531472313586266,cis
+ELN,Elastin,Chapter X Diseases of the respiratory system,J10_PLEURA,Inverse variance weighted,2,0.91 [0.67-1.23],0.533610263747048,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOPOROSIS,Inverse variance weighted,2,1.15 [0.73-1.79],0.546383946262331,cis
+ELN,Elastin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_OTHERSKINSUBCUTIS,Inverse variance weighted,2,1.17 [0.69-1.99],0.547837936023208,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_OTH,Inverse variance weighted,2,1.26 [0.58-2.72],0.561679570242744,cis
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Inverse variance weighted,2,1.12 [0.76-1.65],0.5623780898969,cis
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_VOLUME,Inverse variance weighted,2,1.24 [0.6-2.56],0.565983446325367,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_OTHARR,Inverse variance weighted,2,0.93 [0.74-1.18],0.575120559405269,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_CARDARR,Inverse variance weighted,2,0.81 [0.36-1.84],0.6161884979365,cis
+ELN,Elastin,Chapter I Certain infectious and parasitic diseases,AB1_INTESTINAL_INFECTIONS,Inverse variance weighted,2,1.05 [0.86-1.28],0.621722700181462,cis
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_CHRONEPHROPATH,Inverse variance weighted,2,1.44 [0.33-6.23],0.629512939059189,cis
+ELN,Elastin,Chapter I Certain infectious and parasitic diseases,AB1_BACT_BIR_OTHER_INF_AGENTS,Inverse variance weighted,2,0.84 [0.41-1.73],0.635850326256511,cis
+ELN,Elastin,Chapter VI Diseases of the nervous system,G6_HEMIPLE,Inverse variance weighted,2,1.25 [0.48-3.22],0.648616151781831,cis
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_GENITOURINARY,Wald ratio,1,1.03 [0.9-1.17],0.65682278523221,cis
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERLIPNAS,Inverse variance weighted,2,1.08 [0.77-1.52],0.660665615902364,cis
+ELN,Elastin,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Inverse variance weighted,2,0.88 [0.5-1.56],0.671875327107425,cis
+ELN,Elastin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Inverse variance weighted,2,1.13 [0.63-2.05],0.676440626827345,cis
+ELN,Elastin,Chapter V Mental and behavioural disorders,KRA_PSY_MOOD_EXMORE,Wald ratio,1,0.95 [0.75-1.22],0.698801674835238,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Inverse variance weighted,2,0.8 [0.25-2.54],0.700171423536132,cis
+ELN,Elastin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,2,1.08 [0.73-1.59],0.70769874662529,cis
+ELN,Elastin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,2,0.87 [0.43-1.77],0.710341646300868,cis
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEUROPATHY,Inverse variance weighted,2,1.14 [0.56-2.31],0.714654012999531,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHTROSIS_COX,Inverse variance weighted,2,0.94 [0.67-1.31],0.716737855948714,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OTHCONN,Wald ratio,1,1.1 [0.64-1.89],0.717592309604063,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,0.95 [0.71-1.27],0.719813631916648,cis
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_THYROID,Inverse variance weighted,2,1.03 [0.87-1.23],0.728197889527786,cis
+ELN,Elastin,Chapter X Diseases of the respiratory system,J10_LOWERINF,Inverse variance weighted,2,1.05 [0.81-1.36],0.728912467864723,cis
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,2,1.19 [0.44-3.25],0.734939710727743,cis
+ELN,Elastin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIAINCHRONICDISEASE,Inverse variance weighted,2,0.78 [0.18-3.44],0.74073738884763,cis
+ELN,Elastin,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,2,0.95 [0.73-1.26],0.741271206118609,cis
+ELN,Elastin,Chapter II Neoplasms,C3_SQUOMOUS_CELL_CARCINOMA_SKIN_EXALLC,Inverse variance weighted,2,0.9 [0.46-1.74],0.744896905200018,cis
+ELN,Elastin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Inverse variance weighted,2,1.17 [0.45-3.08],0.74759537163927,cis
+ELN,Elastin,Chapter V Mental and behavioural disorders,F5_ANXIETY,Inverse variance weighted,2,0.92 [0.56-1.53],0.749050859338328,cis
+ELN,Elastin,Chapter V Mental and behavioural disorders,KRA_PSY_ANYMENTAL,Inverse variance weighted,2,1.02 [0.89-1.18],0.753872192950883,cis
+ELN,Elastin,Chapter X Diseases of the respiratory system,IPF,Inverse variance weighted,2,1.14 [0.49-2.64],0.755296925965814,cis
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_CA_MET,Wald ratio,1,1.1 [0.6-2.04],0.757395179563178,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_STR,Inverse variance weighted,2,1.04 [0.81-1.34],0.763963022931153,cis
+ELN,Elastin,Chapter VI Diseases of the nervous system,G6_EPIPAROX,Inverse variance weighted,2,1.02 [0.88-1.18],0.780567333086789,cis
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Inverse variance weighted,2,0.82 [0.2-3.39],0.787371725350048,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHRITISNAS,Wald ratio,1,1.03 [0.8-1.33],0.799697575792492,cis
+ELN,Elastin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Inverse variance weighted,2,0.95 [0.63-1.44],0.802774837767339,cis
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Inverse variance weighted,2,1.07 [0.63-1.81],0.804428216356757,cis
+ELN,Elastin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Inverse variance weighted,2,0.97 [0.75-1.26],0.82556829260132,cis
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDOVER,Wald ratio,1,0.92 [0.44-1.91],0.827179857751508,cis
+ELN,Elastin,Chapter V Mental and behavioural disorders,KRA_PSY_ANXIETY_EXMORE,Inverse variance weighted,2,0.98 [0.79-1.21],0.842596752015639,cis
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_TUBULOINTNEPHRNAS,Inverse variance weighted,2,1.08 [0.48-2.43],0.843621528625386,cis
+ELN,Elastin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_ULCERLOWLIMB,Inverse variance weighted,2,0.95 [0.52-1.74],0.865451369077778,cis
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOKALAEMIA,Inverse variance weighted,2,1.06 [0.55-2.03],0.870228493497022,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,2,1.03 [0.71-1.5],0.875774597382886,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_CONDUCTIO,Inverse variance weighted,2,0.97 [0.64-1.48],0.88505192954484,cis
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_RENFAILNAS,Inverse variance weighted,2,1.19 [0.1-14.83],0.893164618190324,cis
+ELN,Elastin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACT_INOTHER,Inverse variance weighted,2,1.15 [0.12-11.3],0.903599902302954,cis
+ELN,Elastin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_THROMBOCYTOPENIANAS,Inverse variance weighted,2,0.95 [0.41-2.23],0.907670615818783,cis
+ELN,Elastin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Inverse variance weighted,2,1.01 [0.84-1.22],0.908546978878462,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_OTHILLHEART,Inverse variance weighted,2,1.05 [0.4-2.73],0.917918765140411,cis
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,2,1.04 [0.47-2.32],0.919316111088855,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_ARTOTH,Inverse variance weighted,2,0.97 [0.47-1.98],0.927249228176818,cis
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SOFTTISSUENAS,Inverse variance weighted,2,0.96 [0.36-2.54],0.930140092619475,cis
+ELN,Elastin,"Chapter XV Pregnancy, childbirth and the puerperium",O15_COMPLIC_LAB_DELIV,Inverse variance weighted,2,1.01 [0.74-1.39],0.930536939036446,cis
+ELN,Elastin,Chapter II Neoplasms,C3_BREAST_EXALLC,Inverse variance weighted,2,0.99 [0.72-1.36],0.936981543411199,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_PAD,Wald ratio,1,1.01 [0.62-1.64],0.957666759336114,cis
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_AF,Inverse variance weighted,2,1.01 [0.57-1.79],0.984079526397086,cis
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,2,1 [0.8-1.26],0.988834067139595,cis
+ELN,Elastin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIAINCHRONICDISEASE,Inverse variance weighted,10,2.68 [1.21-5.93],0.0150156033410227,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOPOROSIS,Inverse variance weighted,10,1.33 [1.05-1.69],0.0184261483580807,trans
+ELN,Elastin,Chapter VI Diseases of the nervous system,G6_EPIPAROX,Inverse variance weighted,10,0.93 [0.87-1],0.0469848661276649,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_PULMEMB,Inverse variance weighted,10,1.22 [1-1.49],0.0478762387700355,trans
+ELN,Elastin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Inverse variance weighted,10,0.86 [0.73-1.03],0.0935581351390664,trans
+ELN,Elastin,Chapter II Neoplasms,C3_SQUOMOUS_CELL_CARCINOMA_SKIN_EXALLC,Inverse variance weighted,10,1.33 [0.95-1.87],0.0955290473903806,trans
+ELN,Elastin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,10,1.19 [0.97-1.46],0.0981490296470491,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS,Inverse variance weighted,10,1.08 [0.98-1.2],0.131507701312559,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SOFTTISSUE,Inverse variance weighted,10,1.05 [0.98-1.13],0.131861848169802,trans
+ELN,Elastin,Chapter X Diseases of the respiratory system,IPF,Inverse variance weighted,10,0.72 [0.47-1.11],0.13942723135753,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHTROSIS_COX,Inverse variance weighted,10,1.11 [0.97-1.27],0.145625248714459,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,10,0.81 [0.6-1.09],0.160821169395592,trans
+ELN,Elastin,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,10,1.05 [0.98-1.13],0.161295281228978,trans
+ELN,Elastin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_ULCERLOWLIMB,Inverse variance weighted,10,0.81 [0.59-1.09],0.163968795353641,trans
+ELN,Elastin,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,10,1.11 [0.95-1.29],0.178217012937175,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SOFTTISSUEOTH,Inverse variance weighted,10,1.07 [0.97-1.18],0.180504567745892,trans
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEUROPATHY,Inverse variance weighted,10,0.78 [0.55-1.13],0.187261249589638,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_ATHSCLE,Inverse variance weighted,10,0.82 [0.6-1.11],0.188429067753497,trans
+ELN,Elastin,Chapter V Mental and behavioural disorders,F5_DEPRESSION_DYSTHYMIA,Inverse variance weighted,10,1.09 [0.96-1.24],0.193427141881205,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,10,1.06 [0.97-1.15],0.199997531197158,trans
+ELN,Elastin,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,10,1.08 [0.96-1.22],0.203422726612156,trans
+ELN,Elastin,Chapter II Neoplasms,C3_OTHER_SKIN_EXALLC,Inverse variance weighted,10,1.11 [0.94-1.3],0.205778583833881,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_HYPOTE,Inverse variance weighted,10,1.2 [0.9-1.59],0.21091301705883,trans
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,10,0.86 [0.67-1.11],0.252783321509546,trans
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_VOLUME,Inverse variance weighted,10,1.31 [0.82-2.09],0.262807450902069,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_INCLAVO,Inverse variance weighted,10,1.06 [0.96-1.17],0.263153732100774,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_KNEE,Inverse variance weighted,10,1.1 [0.93-1.31],0.263610823936864,trans
+ELN,Elastin,Chapter X Diseases of the respiratory system,J10_PLEUREFFUSION,Inverse variance weighted,10,0.85 [0.64-1.13],0.267145970033874,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_VTE,Inverse variance weighted,10,1.08 [0.94-1.24],0.277971327603651,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOCHONDRO,Inverse variance weighted,10,1.08 [0.94-1.25],0.282735232529358,trans
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,10,1.09 [0.93-1.27],0.287084794121705,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_OTHARR,Inverse variance weighted,10,1.07 [0.94-1.21],0.294441245681891,trans
+ELN,Elastin,Chapter V Mental and behavioural disorders,KRA_PSY_ANYMENTAL,Inverse variance weighted,10,1.09 [0.93-1.27],0.297342285174484,trans
+ELN,Elastin,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Inverse variance weighted,10,0.85 [0.63-1.15],0.299304361391086,trans
+ELN,Elastin,Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,10,0.93 [0.8-1.07],0.309855698713429,trans
+ELN,Elastin,Chapter V Mental and behavioural disorders,F5_DEPRESSIO,Inverse variance weighted,10,1.08 [0.93-1.24],0.309877218416232,trans
+ELN,Elastin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Inverse variance weighted,10,0.93 [0.82-1.06],0.31079208112322,trans
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_THYROID,Inverse variance weighted,10,1.05 [0.96-1.15],0.310971154020828,trans
+ELN,Elastin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Inverse variance weighted,10,0.92 [0.78-1.08],0.316395649046267,trans
+ELN,Elastin,Chapter V Mental and behavioural disorders,KRA_PSY_ANXIETY_EXMORE,Inverse variance weighted,10,1.08 [0.93-1.26],0.316656725046589,trans
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_RENFAILNAS,Inverse variance weighted,10,0.83 [0.57-1.2],0.317099505535062,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_SECONDRIGHT,Inverse variance weighted,10,0.73 [0.38-1.37],0.322297637159796,trans
+ELN,Elastin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,10,1.09 [0.92-1.28],0.327994321120479,trans
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Inverse variance weighted,10,0.8 [0.52-1.25],0.3371571476383,trans
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_KIDUROTH,Inverse variance weighted,10,1.2 [0.82-1.77],0.344332933913181,trans
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,10,0.76 [0.42-1.37],0.368363128730855,trans
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,10,0.95 [0.86-1.06],0.371249673777889,trans
+ELN,Elastin,Chapter VI Diseases of the nervous system,G6_CPETAL,Inverse variance weighted,10,0.84 [0.58-1.23],0.374233553516336,trans
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,10,1.12 [0.87-1.44],0.385628813669629,trans
+ELN,Elastin,Chapter VI Diseases of the nervous system,G6_HEMIPLE,Inverse variance weighted,10,0.8 [0.49-1.32],0.386245004441722,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_MI_STRICT,Inverse variance weighted,10,0.87 [0.62-1.21],0.396353812285699,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_BONECONTINUITY,Inverse variance weighted,10,1.17 [0.81-1.7],0.400638715441904,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_CARDARR,Inverse variance weighted,10,0.84 [0.56-1.27],0.40755206220189,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_RHEUVALV,Inverse variance weighted,10,0.72 [0.34-1.55],0.40801887579655,trans
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERCHOL,Inverse variance weighted,10,1.15 [0.83-1.59],0.410884702804449,trans
+ELN,Elastin,Chapter I Certain infectious and parasitic diseases,AB1_BACT_BIR_OTHER_INF_AGENTS,Inverse variance weighted,10,1.16 [0.81-1.68],0.414836755686034,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_CONDUCTIO,Inverse variance weighted,10,0.9 [0.71-1.16],0.419679781428178,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DORSALGIANAS,Inverse variance weighted,10,1.07 [0.9-1.28],0.422905166081099,trans
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_GLOMEINOTH,Inverse variance weighted,10,0.88 [0.64-1.22],0.454593409113176,trans
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,10,0.9 [0.67-1.2],0.466498366549003,trans
+ELN,Elastin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,10,0.88 [0.61-1.26],0.473865817500514,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_CARDMYO,Inverse variance weighted,10,0.87 [0.59-1.28],0.486406782053397,trans
+ELN,Elastin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Inverse variance weighted,10,0.77 [0.37-1.63],0.500029277980518,trans
+ELN,Elastin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Inverse variance weighted,10,0.9 [0.66-1.22],0.502927950587226,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_PHLETHROMBDVTLOW,Inverse variance weighted,10,1.08 [0.86-1.35],0.503090386362229,trans
+ELN,Elastin,Chapter XI Diseases of the digestive system,K11_OTHENTERCOL,Inverse variance weighted,10,1.09 [0.84-1.4],0.512096379500857,trans
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,10,1.12 [0.78-1.61],0.526213748847524,trans
+ELN,Elastin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_OTHERSKINSUBCUTIS,Inverse variance weighted,10,1.04 [0.92-1.18],0.530960756065889,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Inverse variance weighted,10,1.21 [0.66-2.23],0.535824453818783,trans
+ELN,Elastin,Chapter I Certain infectious and parasitic diseases,AB1_STREPTSTAPHYCOCC_INOTHER,Inverse variance weighted,10,0.62 [0.14-2.83],0.53680099251422,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SOFTTISSUENAS,Inverse variance weighted,10,1.16 [0.72-1.89],0.538768321951367,trans
+ELN,Elastin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_CELLULITIS,Inverse variance weighted,10,0.93 [0.73-1.18],0.539987364435732,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_KNEEDERANGEMENTS,Inverse variance weighted,10,0.95 [0.81-1.12],0.546076519856927,trans
+ELN,Elastin,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,10,1.06 [0.88-1.27],0.547005179060629,trans
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_CHRONEPHROPATH,Inverse variance weighted,10,0.84 [0.48-1.48],0.553456821809657,trans
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERLIPNAS,Inverse variance weighted,10,1.13 [0.74-1.72],0.568819592824293,trans
+ELN,Elastin,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,10,1.06 [0.87-1.3],0.571999637385589,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Inverse variance weighted,10,1.02 [0.94-1.12],0.587579215774663,trans
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Inverse variance weighted,10,1.05 [0.86-1.29],0.597941114674382,trans
+ELN,Elastin,Chapter I Certain infectious and parasitic diseases,AB1_INTESTINAL_INFECTIONS,Inverse variance weighted,10,0.97 [0.85-1.1],0.603919376256299,trans
+ELN,Elastin,Chapter V Mental and behavioural disorders,F5_ANXIETY,Inverse variance weighted,10,0.94 [0.75-1.18],0.614674302743344,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,10,0.95 [0.77-1.17],0.618453338745255,trans
+ELN,Elastin,Chapter X Diseases of the respiratory system,J10_PLEURA,Inverse variance weighted,10,0.95 [0.77-1.17],0.627636176569437,trans
+ELN,Elastin,Chapter X Diseases of the respiratory system,COPD_EARLY,Inverse variance weighted,10,0.93 [0.7-1.24],0.632572696121235,trans
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERKALAEMIA,Inverse variance weighted,10,1.13 [0.69-1.84],0.63649311881262,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_IHD,Inverse variance weighted,10,0.94 [0.72-1.23],0.640516283607441,trans
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Inverse variance weighted,10,1.1 [0.74-1.64],0.641447555169844,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Inverse variance weighted,10,1.02 [0.93-1.13],0.644815535561549,trans
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Inverse variance weighted,10,0.95 [0.74-1.21],0.665415983569789,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OTHERJOINT,Inverse variance weighted,10,1.02 [0.92-1.13],0.688368644066628,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_ANGINA,Inverse variance weighted,10,0.95 [0.71-1.25],0.70214280576689,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SPONDYLOPATHY,Inverse variance weighted,10,1.03 [0.87-1.22],0.707458087961709,trans
+ELN,Elastin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACT_INOTHER,Inverse variance weighted,10,0.81 [0.25-2.57],0.717289336642928,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,10,1.03 [0.88-1.21],0.725853098222652,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_STR,Inverse variance weighted,10,0.96 [0.77-1.21],0.729433434817721,trans
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Inverse variance weighted,10,0.94 [0.65-1.35],0.731298055414846,trans
+ELN,Elastin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_THROMBOCYTOPENIANAS,Inverse variance weighted,10,1.1 [0.62-1.98],0.740658684964302,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_CORATHER,Inverse variance weighted,10,0.94 [0.67-1.33],0.742685701315287,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,10,1.02 [0.91-1.14],0.743609098565635,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DORSOPATHYOTH,Inverse variance weighted,10,1.02 [0.9-1.17],0.748278552516265,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_OTHPER,Inverse variance weighted,10,0.94 [0.63-1.4],0.760193612843035,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DORSOPATHY,Inverse variance weighted,10,1.02 [0.9-1.15],0.77990974907588,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_OTHILLHEART,Inverse variance weighted,10,0.94 [0.58-1.51],0.790586195891248,trans
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Inverse variance weighted,10,0.89 [0.38-2.09],0.797140764760307,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,10,1.02 [0.86-1.21],0.80966400454436,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_ARTOTH,Inverse variance weighted,10,0.96 [0.67-1.38],0.818640768793245,trans
+ELN,Elastin,Chapter II Neoplasms,C3_BREAST_EXALLC,Inverse variance weighted,10,0.98 [0.84-1.15],0.820707561053938,trans
+ELN,Elastin,Chapter VI Diseases of the nervous system,G6_POLYOTHUNS,Inverse variance weighted,10,0.97 [0.76-1.25],0.835067836931089,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_LOWBACKPAIN,Inverse variance weighted,10,0.98 [0.81-1.18],0.840296103847151,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_LBBB,Inverse variance weighted,10,0.94 [0.5-1.77],0.843775832301455,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,10,1.01 [0.89-1.16],0.851933348743482,trans
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Inverse variance weighted,10,0.97 [0.69-1.36],0.85247703709801,trans
+ELN,Elastin,Chapter XI Diseases of the digestive system,K11_OTHFUNC,Inverse variance weighted,10,0.99 [0.84-1.15],0.858681175061427,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_HYPTENSPUL,Inverse variance weighted,10,0.9 [0.27-3.02],0.859502875007048,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_AF,Inverse variance weighted,10,1.01 [0.86-1.19],0.886179200778404,trans
+ELN,Elastin,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,10,1.01 [0.93-1.09],0.886576204622958,trans
+ELN,Elastin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOKALAEMIA,Inverse variance weighted,10,0.98 [0.69-1.39],0.910333919166605,trans
+ELN,Elastin,Chapter IX Diseases of the circulatory system,I9_CEREBDOTH,Inverse variance weighted,10,1.02 [0.66-1.58],0.914817593274413,trans
+ELN,Elastin,Chapter V Mental and behavioural disorders,SMOKING_DEPEND,Inverse variance weighted,10,1.03 [0.62-1.69],0.922464765828656,trans
+ELN,Elastin,"Chapter XV Pregnancy, childbirth and the puerperium",O15_COMPLIC_LAB_DELIV,Inverse variance weighted,10,1.01 [0.88-1.15],0.926598829073054,trans
+ELN,Elastin,Chapter X Diseases of the respiratory system,J10_EMPHYSEMA,Inverse variance weighted,10,1.03 [0.55-1.94],0.929503243773423,trans
+ELN,Elastin,Chapter X Diseases of the respiratory system,J10_LOWERINF,Inverse variance weighted,10,1.01 [0.86-1.17],0.939252255864311,trans
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,10,1 [0.91-1.11],0.947447713702293,trans
+ELN,Elastin,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,10,0.99 [0.68-1.46],0.974109821828908,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_DEFORMDORSO,Inverse variance weighted,10,1 [0.79-1.25],0.975034912585203,trans
+ELN,Elastin,Chapter XI Diseases of the digestive system,K11_INTESTOTH,Inverse variance weighted,10,1 [0.9-1.11],0.97593396452419,trans
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,10,1 [0.87-1.14],0.990259168662046,trans
+ELN,Elastin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_OTH,Inverse variance weighted,10,1 [0.86-1.16],0.990728885204223,trans
+ELN,Elastin,Chapter XIV Diseases of the genitourinary system,N14_TUBULOINTNEPHRNAS,Inverse variance weighted,10,1 [0.63-1.58],0.998932603314645,trans

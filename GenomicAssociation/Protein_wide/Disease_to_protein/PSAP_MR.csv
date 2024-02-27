@@ -1,0 +1,116 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+PSAP,Prosaposin,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.16 [1.07-1.25],0.000112273053437755,trans
+PSAP,Prosaposin,Chapter IX Diseases of the circulatory system,I9_STR,Inverse variance weighted,3,0.83 [0.72-0.95],0.00808914844699431,trans
+PSAP,Prosaposin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,22,1.09 [1.02-1.16],0.00870302333954096,trans
+PSAP,Prosaposin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERLIPNAS,Inverse variance weighted,21,0.94 [0.9-0.99],0.0152351225140552,trans
+PSAP,Prosaposin,Chapter V Mental and behavioural disorders,F5_DEPRESSION_DYSTHYMIA,Inverse variance weighted,24,1.09 [1.02-1.18],0.0167850751889313,trans
+PSAP,Prosaposin,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,8,1.12 [1.02-1.23],0.0173545383289491,trans
+PSAP,Prosaposin,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,1.11 [1.01-1.22],0.0264937842891915,trans
+PSAP,Prosaposin,Chapter IX Diseases of the circulatory system,I9_ABAORTANEUR,Inverse variance weighted,5,0.95 [0.9-0.99],0.0275167179720769,trans
+PSAP,Prosaposin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHTROSIS_COX,Inverse variance weighted,46,1.04 [1-1.08],0.035905334824836,trans
+PSAP,Prosaposin,Chapter X Diseases of the respiratory system,J10_ASTHMA_EXMORE,Inverse variance weighted,59,1.05 [1-1.09],0.0366876625653987,trans
+PSAP,Prosaposin,Chapter IX Diseases of the circulatory system,I9_AORTANEUR,Inverse variance weighted,18,0.97 [0.94-1],0.0371187816007756,trans
+PSAP,Prosaposin,Chapter XI Diseases of the digestive system,NAFLD,Inverse variance weighted,6,1.05 [1-1.1],0.0439840225537858,trans
+PSAP,Prosaposin,Chapter I Certain infectious and parasitic diseases,AB1_MYCOSES,Wald ratio,1,1.2 [1-1.43],0.0452871386563409,trans
+PSAP,Prosaposin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.74 [0.54-1.01],0.0584490167355826,trans
+PSAP,Prosaposin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SPONDYLOPATHY,Inverse variance weighted,21,1.06 [0.99-1.13],0.0747710852883982,trans
+PSAP,Prosaposin,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Inverse variance weighted,13,1.07 [0.99-1.16],0.0809698623679084,trans
+PSAP,Prosaposin,Chapter IX Diseases of the circulatory system,I9_CEREBDOTH,Wald ratio,1,0.73 [0.5-1.06],0.0960456262094567,trans
+PSAP,Prosaposin,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,1.23 [0.96-1.56],0.0980904626667873,trans
+PSAP,Prosaposin,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,1.1 [0.98-1.23],0.105797496580518,trans
+PSAP,Prosaposin,Chapter XI Diseases of the digestive system,COLITNONINFNAS,Wald ratio,1,1.18 [0.96-1.45],0.115930524723483,trans
+PSAP,Prosaposin,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,7,1.08 [0.98-1.2],0.118996926935564,trans
+PSAP,Prosaposin,Chapter VI Diseases of the nervous system,G6_POLYOTHUNS,Inverse variance weighted,2,0.9 [0.8-1.03],0.124157404525755,trans
+PSAP,Prosaposin,Chapter X Diseases of the respiratory system,COPD_LATER,Wald ratio,1,0.94 [0.86-1.02],0.127906747927937,trans
+PSAP,Prosaposin,Chapter XI Diseases of the digestive system,K11_ALCOLIV,Inverse variance weighted,4,1.03 [0.99-1.08],0.1293908877003,trans
+PSAP,Prosaposin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.12 [0.96-1.3],0.141618505940913,trans
+PSAP,Prosaposin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Wald ratio,1,1.08 [0.97-1.2],0.141618505940913,trans
+PSAP,Prosaposin,Chapter X Diseases of the respiratory system,IPF,Inverse variance weighted,20,1.01 [1-1.03],0.143434519233795,trans
+PSAP,Prosaposin,Chapter XI Diseases of the digestive system,K11_OTHENTERCOL,Inverse variance weighted,2,1.09 [0.97-1.22],0.143612130632764,trans
+PSAP,Prosaposin,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,1.02 [0.99-1.04],0.156314205646685,trans
+PSAP,Prosaposin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,1.11 [0.96-1.28],0.160223462448193,trans
+PSAP,Prosaposin,Chapter IX Diseases of the circulatory system,I9_CONDUCTIO,Inverse variance weighted,4,1.05 [0.98-1.13],0.161656775719993,trans
+PSAP,Prosaposin,Chapter V Mental and behavioural disorders,SMOKING_DEPEND,Wald ratio,1,1.06 [0.98-1.15],0.170774119919202,trans
+PSAP,Prosaposin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS,Inverse variance weighted,51,1.04 [0.98-1.1],0.183151205863022,trans
+PSAP,Prosaposin,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Inverse variance weighted,3,1.12 [0.95-1.33],0.183926462807507,trans
+PSAP,Prosaposin,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.09 [0.96-1.24],0.203589154356738,trans
+PSAP,Prosaposin,Chapter XI Diseases of the digestive system,K11_OTHDIG,Inverse variance weighted,12,0.97 [0.92-1.02],0.226039155819605,trans
+PSAP,Prosaposin,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,1.02 [0.99-1.06],0.229466202999064,trans
+PSAP,Prosaposin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_SARCOIDOSIS,Inverse variance weighted,7,1.06 [0.96-1.17],0.230906715861996,trans
+PSAP,Prosaposin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SJOGREN,Inverse variance weighted,5,1.05 [0.97-1.14],0.237333547889571,trans
+PSAP,Prosaposin,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,61,1.03 [0.98-1.09],0.241141058250974,trans
+PSAP,Prosaposin,Chapter XI Diseases of the digestive system,K11_GASTRODUOULC,Inverse variance weighted,4,1.06 [0.96-1.17],0.24901275181642,trans
+PSAP,Prosaposin,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,35,1.04 [0.97-1.11],0.264978720175836,trans
+PSAP,Prosaposin,Chapter XI Diseases of the digestive system,K11_INTESTOTH,Inverse variance weighted,10,1.07 [0.95-1.21],0.266535120254864,trans
+PSAP,Prosaposin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_NOS,Inverse variance weighted,6,1.07 [0.95-1.2],0.284189582612539,trans
+PSAP,Prosaposin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,0.91 [0.76-1.09],0.301763840589958,trans
+PSAP,Prosaposin,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.13 [0.88-1.45],0.322491847176997,trans
+PSAP,Prosaposin,Chapter XI Diseases of the digestive system,K11_OTHFUNC,Wald ratio,1,0.89 [0.71-1.12],0.329061236427856,trans
+PSAP,Prosaposin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Wald ratio,1,0.98 [0.93-1.03],0.351796530024168,trans
+PSAP,Prosaposin,Chapter XI Diseases of the digestive system,K11_DIVERTIC,Inverse variance weighted,50,1.02 [0.98-1.05],0.357183642391868,trans
+PSAP,Prosaposin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Inverse variance weighted,5,1.1 [0.89-1.37],0.374034462247423,trans
+PSAP,Prosaposin,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1.06 [0.93-1.21],0.37615091910327,trans
+PSAP,Prosaposin,Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Inverse variance weighted,2,1.02 [0.97-1.08],0.384451824317366,trans
+PSAP,Prosaposin,Chapter IX Diseases of the circulatory system,I9_PAROXTAC,Inverse variance weighted,7,1.03 [0.96-1.11],0.396528475097036,trans
+PSAP,Prosaposin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,1.03 [0.96-1.1],0.399538600714151,trans
+PSAP,Prosaposin,Chapter X Diseases of the respiratory system,J10_EMPHYSEMA,Wald ratio,1,0.98 [0.93-1.03],0.406999392083608,trans
+PSAP,Prosaposin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,10,0.98 [0.94-1.03],0.421454574703398,trans
+PSAP,Prosaposin,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,21,1.01 [0.99-1.03],0.424122417970423,trans
+PSAP,Prosaposin,Chapter XI Diseases of the digestive system,K11_CONSTIPATION,Wald ratio,1,0.88 [0.63-1.22],0.440840765965521,trans
+PSAP,Prosaposin,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.98 [0.92-1.04],0.459587284564903,trans
+PSAP,Prosaposin,Chapter XI Diseases of the digestive system,CHRONNAS,Inverse variance weighted,9,0.99 [0.96-1.02],0.486974557653131,trans
+PSAP,Prosaposin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,24,0.99 [0.97-1.01],0.497966377544226,trans
+PSAP,Prosaposin,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.91 [0.67-1.22],0.51927673906632,trans
+PSAP,Prosaposin,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,11,1.02 [0.95-1.11],0.529695757046221,trans
+PSAP,Prosaposin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOMETPOSTOP,Inverse variance weighted,2,0.98 [0.9-1.06],0.566406931889449,trans
+PSAP,Prosaposin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,0.94 [0.76-1.16],0.572999411684898,trans
+PSAP,Prosaposin,Chapter XI Diseases of the digestive system,K11_OESSTODUO,Wald ratio,1,1.13 [0.74-1.71],0.573564442640536,trans
+PSAP,Prosaposin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_COAGOTHER,Inverse variance weighted,35,1 [0.99-1.01],0.592738049334705,trans
+PSAP,Prosaposin,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEUROPATHY,Wald ratio,1,0.97 [0.88-1.08],0.594152036840347,trans
+PSAP,Prosaposin,Chapter X Diseases of the respiratory system,J10_PLEURPLAGUE,Wald ratio,1,1.03 [0.93-1.13],0.601056181879416,trans
+PSAP,Prosaposin,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,0.95 [0.78-1.15],0.602715977344496,trans
+PSAP,Prosaposin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,0.97 [0.86-1.1],0.610763393396068,trans
+PSAP,Prosaposin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Inverse variance weighted,5,1.01 [0.97-1.06],0.61380303857972,trans
+PSAP,Prosaposin,Chapter IX Diseases of the circulatory system,I9_OTHARR,Inverse variance weighted,12,1.01 [0.96-1.07],0.624869538853143,trans
+PSAP,Prosaposin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,1.01 [0.98-1.03],0.62530197641295,trans
+PSAP,Prosaposin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,0.98 [0.9-1.06],0.63250741104403,trans
+PSAP,Prosaposin,Chapter XI Diseases of the digestive system,K11_GALLBILPANC,Inverse variance weighted,21,0.99 [0.95-1.03],0.636799088209338,trans
+PSAP,Prosaposin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Wald ratio,1,1.07 [0.81-1.42],0.640771232914872,trans
+PSAP,Prosaposin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,JOINTPAIN,Inverse variance weighted,3,0.97 [0.85-1.1],0.649146802921947,trans
+PSAP,Prosaposin,Chapter IX Diseases of the circulatory system,I9_LBBB,Inverse variance weighted,2,0.99 [0.92-1.05],0.650603564848932,trans
+PSAP,Prosaposin,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,1.01 [0.95-1.08],0.65723751116154,trans
+PSAP,Prosaposin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERBLOOD,Wald ratio,1,1.01 [0.95-1.08],0.674923845984164,trans
+PSAP,Prosaposin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,10,1.01 [0.96-1.06],0.693004905152391,trans
+PSAP,Prosaposin,Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,2,0.92 [0.62-1.39],0.702347312536571,trans
+PSAP,Prosaposin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,0.96 [0.76-1.2],0.704133145871493,trans
+PSAP,Prosaposin,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,0.95 [0.74-1.23],0.706470970658597,trans
+PSAP,Prosaposin,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,5,1.06 [0.79-1.42],0.714349429614301,trans
+PSAP,Prosaposin,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_VIRAL,Wald ratio,1,1.03 [0.89-1.19],0.738944210963132,trans
+PSAP,Prosaposin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,25,1.03 [0.88-1.19],0.74792838708887,trans
+PSAP,Prosaposin,Chapter IX Diseases of the circulatory system,I9_CARDARR,Inverse variance weighted,2,0.99 [0.94-1.04],0.748512854831522,trans
+PSAP,Prosaposin,Chapter X Diseases of the respiratory system,COPD_EARLY,Inverse variance weighted,3,1.02 [0.92-1.13],0.754165080980037,trans
+PSAP,Prosaposin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_OTH,Inverse variance weighted,3,1.02 [0.89-1.17],0.78421572799306,trans
+PSAP,Prosaposin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_INCLAVO,Inverse variance weighted,50,1.01 [0.94-1.09],0.785379473473636,trans
+PSAP,Prosaposin,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.04 [0.77-1.42],0.788694118267411,trans
+PSAP,Prosaposin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SPONDYLOSIS,Inverse variance weighted,8,1.02 [0.91-1.13],0.790531067729593,trans
+PSAP,Prosaposin,Chapter XI Diseases of the digestive system,K11_COELIAC,Inverse variance weighted,52,1 [0.98-1.02],0.794638947591611,trans
+PSAP,Prosaposin,Chapter IX Diseases of the circulatory system,I9_SEQULAE,Inverse variance weighted,4,1.01 [0.93-1.1],0.800781420960736,trans
+PSAP,Prosaposin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,1 [0.97-1.04],0.803286083710026,trans
+PSAP,Prosaposin,Chapter XI Diseases of the digestive system,K11_CHOLELITH,Inverse variance weighted,122,1 [0.98-1.03],0.820831869109828,trans
+PSAP,Prosaposin,Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,2,1.02 [0.84-1.24],0.841656351835885,trans
+PSAP,Prosaposin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,2,0.98 [0.81-1.19],0.862645809873455,trans
+PSAP,Prosaposin,Chapter XI Diseases of the digestive system,K11_DIAHER,Inverse variance weighted,8,1 [0.95-1.05],0.883089902193064,trans
+PSAP,Prosaposin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,1 [0.97-1.04],0.88608340295108,trans
+PSAP,Prosaposin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,14,1 [0.98-1.02],0.888941736720492,trans
+PSAP,Prosaposin,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,5,1 [0.95-1.06],0.890955987537402,trans
+PSAP,Prosaposin,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Wald ratio,1,1 [0.93-1.07],0.894347387815293,trans
+PSAP,Prosaposin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NEU,Wald ratio,1,1 [0.95-1.06],0.907931395835242,trans
+PSAP,Prosaposin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,1 [0.95-1.05],0.913564069119158,trans
+PSAP,Prosaposin,Chapter I Certain infectious and parasitic diseases,AB1_BACTINF_NOS,Inverse variance weighted,2,1.01 [0.89-1.14],0.913620233106498,trans
+PSAP,Prosaposin,Chapter IX Diseases of the circulatory system,I9_ATHSCLE,Inverse variance weighted,13,1 [0.92-1.08],0.942037062495547,trans
+PSAP,Prosaposin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Wald ratio,1,1 [0.95-1.06],0.945933657047321,trans
+PSAP,Prosaposin,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Inverse variance weighted,4,1 [0.95-1.05],0.968173675474084,trans
+PSAP,Prosaposin,Chapter IX Diseases of the circulatory system,I9_PULMEMB,Inverse variance weighted,23,1 [0.97-1.03],0.971375295943918,trans
+PSAP,Prosaposin,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1 [0.9-1.12],0.977187341296367,trans
+PSAP,Prosaposin,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,8,1 [0.96-1.04],0.982577526753772,trans
+PSAP,Prosaposin,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,1 [0.8-1.25],0.989558433140273,trans

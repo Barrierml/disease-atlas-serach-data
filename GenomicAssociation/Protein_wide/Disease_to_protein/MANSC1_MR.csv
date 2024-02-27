@@ -1,0 +1,73 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+MANSC1,MANSC domain-containing protein 1,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.27 [1.18-1.38],8.42723316775316e-10,trans
+MANSC1,MANSC domain-containing protein 1,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,1.64 [1.28-2.11],0.000110603614318617,trans
+MANSC1,MANSC domain-containing protein 1,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,1.23 [1.09-1.38],0.000792946704948588,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,35,1.05 [1.01-1.09],0.00889911426198682,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,2,0.78 [0.63-0.95],0.0128127876572061,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1.05 [1.01-1.09],0.0131675036791785,trans
+MANSC1,MANSC domain-containing protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,0.95 [0.91-0.99],0.0180540821204199,trans
+MANSC1,MANSC domain-containing protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Inverse variance weighted,5,0.95 [0.92-0.99],0.0184629789989484,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.91 [0.84-0.99],0.0219503180561227,trans
+MANSC1,MANSC domain-containing protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.2 [1.02-1.4],0.0264344062586304,trans
+MANSC1,MANSC domain-containing protein 1,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,61,1.07 [1.01-1.14],0.0270201492325859,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,25,0.9 [0.81-0.99],0.0366767454051023,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.72 [0.53-0.99],0.040341737270287,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,8,1.05 [1-1.11],0.0413636207508397,trans
+MANSC1,MANSC domain-containing protein 1,Chapter IX Diseases of the circulatory system,I9_PHLETHROMBDVTLOW,Inverse variance weighted,30,0.97 [0.93-1],0.045585468280578,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XI Diseases of the digestive system,K11_OESSTODUO,Wald ratio,1,1.53 [1-2.35],0.0520325968923292,trans
+MANSC1,MANSC domain-containing protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,1.08 [0.99-1.17],0.0902337951295628,trans
+MANSC1,MANSC domain-containing protein 1,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,7,1.16 [0.98-1.39],0.092599009319823,trans
+MANSC1,MANSC domain-containing protein 1,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,1.06 [0.99-1.13],0.0932414072113793,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,1.03 [0.99-1.07],0.101739095428584,trans
+MANSC1,MANSC domain-containing protein 1,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.12 [0.98-1.28],0.1072877489846,trans
+MANSC1,MANSC domain-containing protein 1,Chapter IX Diseases of the circulatory system,I9_PHLETHROM,Inverse variance weighted,14,0.96 [0.91-1.01],0.110524530865478,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Inverse variance weighted,5,1.08 [0.98-1.18],0.123460046360052,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,JOINTPAIN,Inverse variance weighted,3,1.1 [0.96-1.26],0.157776301583606,trans
+MANSC1,MANSC domain-containing protein 1,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,1.18 [0.94-1.49],0.163929914046518,trans
+MANSC1,MANSC domain-containing protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NEU,Wald ratio,1,0.96 [0.91-1.02],0.171517058939814,trans
+MANSC1,MANSC domain-containing protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Wald ratio,1,0.96 [0.91-1.02],0.183279209558215,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Wald ratio,1,0.82 [0.61-1.11],0.195323612892767,trans
+MANSC1,MANSC domain-containing protein 1,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,1.09 [0.96-1.24],0.202428708366637,trans
+MANSC1,MANSC domain-containing protein 1,Chapter X Diseases of the respiratory system,COPD_EARLY,Inverse variance weighted,3,1.04 [0.98-1.1],0.221823450068098,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOPOROSIS,Inverse variance weighted,3,0.94 [0.86-1.04],0.256256639801405,trans
+MANSC1,MANSC domain-containing protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,8,1.02 [0.99-1.05],0.259552899430208,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XI Diseases of the digestive system,CHRONNAS,Inverse variance weighted,9,1.02 [0.99-1.05],0.274033793563217,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XI Diseases of the digestive system,K11_OTHFUNC,Wald ratio,1,0.88 [0.69-1.12],0.292266711962954,trans
+MANSC1,MANSC domain-containing protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,0.96 [0.9-1.03],0.299585553650297,trans
+MANSC1,MANSC domain-containing protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PLASMAPROT,Inverse variance weighted,15,1 [0.99-1],0.316950183555819,trans
+MANSC1,MANSC domain-containing protein 1,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,0.89 [0.7-1.13],0.341268633503044,trans
+MANSC1,MANSC domain-containing protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Wald ratio,1,1.02 [0.97-1.08],0.399627880543108,trans
+MANSC1,MANSC domain-containing protein 1,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,1.1 [0.88-1.36],0.406566731546399,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,22,1.02 [0.98-1.06],0.410332293209147,trans
+MANSC1,MANSC domain-containing protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,2,0.92 [0.75-1.12],0.417151558830012,trans
+MANSC1,MANSC domain-containing protein 1,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,5,1.08 [0.89-1.32],0.423167075354445,trans
+MANSC1,MANSC domain-containing protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,10,0.98 [0.94-1.03],0.434795871239804,trans
+MANSC1,MANSC domain-containing protein 1,Chapter V Mental and behavioural disorders,F5_DEPRESSION_DYSTHYMIA,Inverse variance weighted,24,1.03 [0.96-1.1],0.441686073751766,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,0.93 [0.76-1.13],0.460529738901974,trans
+MANSC1,MANSC domain-containing protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,5,0.98 [0.92-1.04],0.506457335624964,trans
+MANSC1,MANSC domain-containing protein 1,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,0.95 [0.82-1.1],0.514988469111689,trans
+MANSC1,MANSC domain-containing protein 1,Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,2,0.81 [0.44-1.52],0.521757855326355,trans
+MANSC1,MANSC domain-containing protein 1,Chapter VI Diseases of the nervous system,G6_POLYOTHUNS,Inverse variance weighted,2,1.04 [0.91-1.19],0.531127562553803,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XI Diseases of the digestive system,K11_CROHN,Inverse variance weighted,3,1.01 [0.97-1.06],0.577076110162468,trans
+MANSC1,MANSC domain-containing protein 1,Chapter IX Diseases of the circulatory system,I9_STR,Inverse variance weighted,3,0.95 [0.78-1.15],0.59412264001367,trans
+MANSC1,MANSC domain-containing protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEUROPATHY,Wald ratio,1,0.97 [0.87-1.08],0.608479085935464,trans
+MANSC1,MANSC domain-containing protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.09 [0.79-1.5],0.612537171382432,trans
+MANSC1,MANSC domain-containing protein 1,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,1.05 [0.87-1.27],0.61404891517307,trans
+MANSC1,MANSC domain-containing protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,1.01 [0.96-1.07],0.632653741626612,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XI Diseases of the digestive system,K11_GALLBILPANC,Inverse variance weighted,21,1.02 [0.93-1.12],0.686516647870083,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Wald ratio,1,1.01 [0.94-1.09],0.710540411486572,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XI Diseases of the digestive system,K11_OTHENTERCOL,Inverse variance weighted,2,1.04 [0.86-1.25],0.711797887229102,trans
+MANSC1,MANSC domain-containing protein 1,Chapter VI Diseases of the nervous system,G6_EPIPAROX,Inverse variance weighted,11,0.96 [0.78-1.19],0.719921228972899,trans
+MANSC1,MANSC domain-containing protein 1,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1.06 [0.76-1.47],0.737425565753086,trans
+MANSC1,MANSC domain-containing protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,10,1.01 [0.96-1.05],0.750670979314298,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XI Diseases of the digestive system,K11_INTESTOTH,Inverse variance weighted,10,1.02 [0.9-1.15],0.783775661554519,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_NOS,Inverse variance weighted,6,0.99 [0.92-1.07],0.795856298620092,trans
+MANSC1,MANSC domain-containing protein 1,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,0.99 [0.94-1.05],0.832159677558104,trans
+MANSC1,MANSC domain-containing protein 1,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.03 [0.79-1.33],0.842808265236021,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,1.02 [0.82-1.28],0.845556047693596,trans
+MANSC1,MANSC domain-containing protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,1 [0.96-1.03],0.869289055905603,trans
+MANSC1,MANSC domain-containing protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,0.99 [0.79-1.23],0.912184741636639,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XI Diseases of the digestive system,K11_CONSTIPATION,Wald ratio,1,1.01 [0.72-1.42],0.94766052778436,trans
+MANSC1,MANSC domain-containing protein 1,Chapter V Mental and behavioural disorders,F5_DELIRIUM,Wald ratio,1,1 [0.87-1.14],0.958244606733044,trans
+MANSC1,MANSC domain-containing protein 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,1 [0.88-1.13],0.962231600626091,trans
+MANSC1,MANSC domain-containing protein 1,Chapter XI Diseases of the digestive system,COLITNONINFNAS,Wald ratio,1,1 [0.8-1.24],0.985977488633455,trans

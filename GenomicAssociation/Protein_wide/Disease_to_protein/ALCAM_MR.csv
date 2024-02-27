@@ -1,0 +1,64 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+ALCAM,CD166 antigen,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,1.17 [1.13-1.2],1.22511344803766e-21,trans
+ALCAM,CD166 antigen,Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Inverse variance weighted,2,1.14 [1.1-1.17],7.61461805764927e-17,trans
+ALCAM,CD166 antigen,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Inverse variance weighted,3,1.28 [1.18-1.4],1.47024842459874e-08,trans
+ALCAM,CD166 antigen,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,8,1.24 [1.14-1.35],8.36379075640407e-07,trans
+ALCAM,CD166 antigen,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.15 [1.07-1.24],7.913662304065e-05,trans
+ALCAM,CD166 antigen,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1.18 [1.09-1.28],9.56760998075491e-05,trans
+ALCAM,CD166 antigen,Chapter X Diseases of the respiratory system,IPF,Inverse variance weighted,20,1.02 [1.01-1.04],0.000115431296276601,trans
+ALCAM,CD166 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Wald ratio,1,1.08 [1.03-1.13],0.00305119917088709,trans
+ALCAM,CD166 antigen,Chapter XI Diseases of the digestive system,NAFLD,Inverse variance weighted,6,1.11 [1.03-1.19],0.00349142997436146,trans
+ALCAM,CD166 antigen,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,1.11 [1.02-1.21],0.0138526065645669,trans
+ALCAM,CD166 antigen,Chapter XI Diseases of the digestive system,K11_ALCOLIV,Inverse variance weighted,4,1.16 [1.02-1.31],0.0204062884722056,trans
+ALCAM,CD166 antigen,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,21,1.02 [1-1.04],0.0226616991192,trans
+ALCAM,CD166 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,1.03 [1-1.06],0.066152775605193,trans
+ALCAM,CD166 antigen,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,1.12 [0.99-1.26],0.0673198179173752,trans
+ALCAM,CD166 antigen,Chapter II Neoplasms,C3_BILIARY_GALLBLADDER_EXALLC,Inverse variance weighted,3,1.13 [0.99-1.3],0.0727350490903326,trans
+ALCAM,CD166 antigen,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.94 [0.87-1.01],0.0746702676968448,trans
+ALCAM,CD166 antigen,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,1.2 [0.97-1.49],0.0858096278174662,trans
+ALCAM,CD166 antigen,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Inverse variance weighted,4,1.03 [0.99-1.06],0.10768267249688,trans
+ALCAM,CD166 antigen,Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,2,0.85 [0.69-1.04],0.110424261988015,trans
+ALCAM,CD166 antigen,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,0.91 [0.82-1.02],0.110845311155504,trans
+ALCAM,CD166 antigen,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.8 [0.59-1.08],0.15194507825646,trans
+ALCAM,CD166 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,10,0.97 [0.94-1.01],0.157594868338405,trans
+ALCAM,CD166 antigen,Chapter XI Diseases of the digestive system,K11_GALLBILPANC,Inverse variance weighted,21,1.05 [0.98-1.13],0.166589572235405,trans
+ALCAM,CD166 antigen,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,0.86 [0.68-1.08],0.185110741130472,trans
+ALCAM,CD166 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.1 [0.95-1.27],0.20935167586083,trans
+ALCAM,CD166 antigen,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,8,1.02 [0.99-1.05],0.214097847593956,trans
+ALCAM,CD166 antigen,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.19 [0.88-1.59],0.258387195395899,trans
+ALCAM,CD166 antigen,Chapter II Neoplasms,CD2_LYMPHOID_LEUKAEMIA_EXALLC,Inverse variance weighted,8,0.98 [0.95-1.01],0.262867431900534,trans
+ALCAM,CD166 antigen,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,0.94 [0.83-1.06],0.296495398893729,trans
+ALCAM,CD166 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_IRON_MET,Inverse variance weighted,8,1.01 [0.99-1.02],0.296744277117695,trans
+ALCAM,CD166 antigen,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.13 [0.89-1.44],0.304163164938525,trans
+ALCAM,CD166 antigen,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,1.03 [0.97-1.1],0.315030220121959,trans
+ALCAM,CD166 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,2,0.91 [0.76-1.1],0.327543039986332,trans
+ALCAM,CD166 antigen,Chapter XI Diseases of the digestive system,K11_OTHENTERCOL,Inverse variance weighted,2,1.05 [0.94-1.17],0.38878868991855,trans
+ALCAM,CD166 antigen,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,1.03 [0.96-1.11],0.400582371329334,trans
+ALCAM,CD166 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,1.01 [0.98-1.05],0.440185787033989,trans
+ALCAM,CD166 antigen,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,0.96 [0.87-1.07],0.467249913237966,trans
+ALCAM,CD166 antigen,Chapter XI Diseases of the digestive system,COLITNONINFNAS,Wald ratio,1,1.07 [0.87-1.3],0.524718082164512,trans
+ALCAM,CD166 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,0.99 [0.96-1.02],0.538986998948886,trans
+ALCAM,CD166 antigen,Chapter IX Diseases of the circulatory system,I9_CARDARR,Inverse variance weighted,2,0.99 [0.94-1.03],0.541976741118248,trans
+ALCAM,CD166 antigen,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,1.07 [0.86-1.33],0.563327994844606,trans
+ALCAM,CD166 antigen,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.04 [0.91-1.19],0.580127018125833,trans
+ALCAM,CD166 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,5,1.01 [0.97-1.05],0.606163265435294,trans
+ALCAM,CD166 antigen,Chapter II Neoplasms,C3_BREAST_EXALLC,Inverse variance weighted,46,0.99 [0.97-1.02],0.60641871570482,trans
+ALCAM,CD166 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,1.02 [0.94-1.1],0.622391364818408,trans
+ALCAM,CD166 antigen,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,1.05 [0.86-1.28],0.622925970329069,trans
+ALCAM,CD166 antigen,Chapter XI Diseases of the digestive system,K11_OTHDIG,Inverse variance weighted,12,0.99 [0.94-1.04],0.6363421657474,trans
+ALCAM,CD166 antigen,Chapter XI Diseases of the digestive system,K11_INTESTOTH,Inverse variance weighted,10,1.03 [0.91-1.15],0.658623284776442,trans
+ALCAM,CD166 antigen,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,0.96 [0.76-1.2],0.695113988815154,trans
+ALCAM,CD166 antigen,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,1.04 [0.85-1.27],0.715109354612314,trans
+ALCAM,CD166 antigen,Chapter XI Diseases of the digestive system,K11_CONSTIPATION,Wald ratio,1,0.95 [0.69-1.3],0.730280679448127,trans
+ALCAM,CD166 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Inverse variance weighted,5,0.99 [0.96-1.03],0.748674690964353,trans
+ALCAM,CD166 antigen,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Wald ratio,1,1.01 [0.95-1.08],0.750504439162138,trans
+ALCAM,CD166 antigen,Chapter II Neoplasms,C3_CLL_EXALLC,Inverse variance weighted,4,1 [0.97-1.02],0.784994509774974,trans
+ALCAM,CD166 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Wald ratio,1,0.99 [0.95-1.05],0.818855249328525,trans
+ALCAM,CD166 antigen,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,0.99 [0.94-1.05],0.820012924898716,trans
+ALCAM,CD166 antigen,Chapter XI Diseases of the digestive system,K11_OESSTODUO,Wald ratio,1,1.05 [0.7-1.55],0.825055799323227,trans
+ALCAM,CD166 antigen,Chapter VI Diseases of the nervous system,G6_POLYOTHUNS,Inverse variance weighted,2,1.01 [0.9-1.14],0.827514672442779,trans
+ALCAM,CD166 antigen,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,0.98 [0.83-1.17],0.843290921276313,trans
+ALCAM,CD166 antigen,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Wald ratio,1,1.03 [0.78-1.34],0.851909642603245,trans
+ALCAM,CD166 antigen,Chapter I Certain infectious and parasitic diseases,AB1_MYCOSES,Wald ratio,1,0.99 [0.83-1.17],0.874542120627317,trans
+ALCAM,CD166 antigen,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,1.02 [0.77-1.36],0.878599080849869,trans
+ALCAM,CD166 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,10,1 [0.94-1.06],0.95416528380803,trans

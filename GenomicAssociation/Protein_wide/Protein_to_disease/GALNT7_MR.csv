@@ -1,0 +1,8 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+GALNT7,N-acetylgalactosaminyltransferase 7,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Wald ratio,1,3.54 [1.51-8.27],0.00355808967406086,cis
+GALNT7,N-acetylgalactosaminyltransferase 7,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Wald ratio,1,1.71 [0.76-3.84],0.19520726535313,cis
+GALNT7,N-acetylgalactosaminyltransferase 7,Chapter II Neoplasms,C3_CLL_EXALLC,Wald ratio,1,0.45 [0.1-2],0.291636720975917,cis
+GALNT7,N-acetylgalactosaminyltransferase 7,Chapter II Neoplasms,CD2_LYMPHOID_LEUKAEMIA_EXALLC,Wald ratio,1,0.62 [0.23-1.64],0.334048242344062,cis
+GALNT7,N-acetylgalactosaminyltransferase 7,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Wald ratio,1,1.01 [0.76-1.34],0.950586380749859,cis
+GALNT7,N-acetylgalactosaminyltransferase 7,Chapter II Neoplasms,CD2_LYMPHOID_LEUKAEMIA_EXALLC,Inverse variance weighted,10,0.95 [0.57-1.59],0.855075460618577,trans
+GALNT7,N-acetylgalactosaminyltransferase 7,Chapter II Neoplasms,C3_CLL_EXALLC,Inverse variance weighted,10,1.06 [0.44-2.55],0.898352022702551,trans

@@ -1,0 +1,52 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+CD99,CD99 antigen,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.2 [1.12-1.28],6.5745535695372e-08,trans
+CD99,CD99 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Wald ratio,1,1.13 [1.03-1.24],0.0118193546178425,trans
+CD99,CD99 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.19 [1.04-1.36],0.0118193546178426,trans
+CD99,CD99 antigen,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.29 [1.03-1.61],0.0248856443070582,trans
+CD99,CD99 antigen,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,0.95 [0.91-0.99],0.0265515846371312,trans
+CD99,CD99 antigen,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,0.94 [0.89-1],0.0528177332557709,trans
+CD99,CD99 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,10,1.03 [1-1.07],0.0786745063070834,trans
+CD99,CD99 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2REN,Inverse variance weighted,5,0.96 [0.92-1.01],0.0987135082513411,trans
+CD99,CD99 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,0.97 [0.94-1.01],0.105380433076419,trans
+CD99,CD99 antigen,Chapter IX Diseases of the circulatory system,I9_CARDMYO,Inverse variance weighted,18,1.01 [1-1.03],0.12509648401667,trans
+CD99,CD99 antigen,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,0.86 [0.71-1.05],0.143546516860911,trans
+CD99,CD99 antigen,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,1.04 [0.98-1.1],0.16421147264516,trans
+CD99,CD99 antigen,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.08 [0.96-1.21],0.213417460608379,trans
+CD99,CD99 antigen,Chapter IX Diseases of the circulatory system,I9_CONDUCTIO,Inverse variance weighted,4,1.07 [0.96-1.19],0.247450101801762,trans
+CD99,CD99 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Wald ratio,1,0.97 [0.93-1.02],0.26930024738127,trans
+CD99,CD99 antigen,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OTHERJOINT,Inverse variance weighted,16,0.95 [0.87-1.04],0.269540254414827,trans
+CD99,CD99 antigen,Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,2,1.15 [0.89-1.47],0.28099364205762,trans
+CD99,CD99 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,5,0.98 [0.94-1.02],0.294117234709671,trans
+CD99,CD99 antigen,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS,Inverse variance weighted,51,1.03 [0.98-1.08],0.3141312660852,trans
+CD99,CD99 antigen,Chapter IX Diseases of the circulatory system,I9_CARDARR,Inverse variance weighted,2,1.02 [0.98-1.07],0.333003076359816,trans
+CD99,CD99 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEUROPATHY,Wald ratio,1,1.05 [0.95-1.15],0.347954854448061,trans
+CD99,CD99 antigen,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,0.93 [0.79-1.09],0.353706355050097,trans
+CD99,CD99 antigen,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,8,1.01 [0.99-1.04],0.354154331058043,trans
+CD99,CD99 antigen,Chapter XIII Diseases of the musculoskeletal system and connective tissue,JOINTPAIN,Inverse variance weighted,3,1.05 [0.94-1.19],0.366933785675681,trans
+CD99,CD99 antigen,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_OTH,Inverse variance weighted,3,1.06 [0.93-1.21],0.374666467806129,trans
+CD99,CD99 antigen,Chapter VI Diseases of the nervous system,G6_POLYOTHUNS,Inverse variance weighted,2,1.06 [0.92-1.22],0.412762842052006,trans
+CD99,CD99 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,10,1.01 [0.98-1.05],0.508880395582803,trans
+CD99,CD99 antigen,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,0.97 [0.87-1.07],0.517482137678413,trans
+CD99,CD99 antigen,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_CHOROIDRETINA,Inverse variance weighted,9,1.01 [0.97-1.07],0.579627001621004,trans
+CD99,CD99 antigen,Chapter IX Diseases of the circulatory system,I9_ATHSCLE,Inverse variance weighted,13,1.01 [0.97-1.06],0.597071116589929,trans
+CD99,CD99 antigen,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Wald ratio,1,1.06 [0.82-1.37],0.63545741638651,trans
+CD99,CD99 antigen,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1.02 [0.93-1.13],0.646107242357405,trans
+CD99,CD99 antigen,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,0.96 [0.8-1.17],0.696624287483587,trans
+CD99,CD99 antigen,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,0.96 [0.77-1.19],0.703125529222659,trans
+CD99,CD99 antigen,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,24,0.99 [0.96-1.03],0.748932447607318,trans
+CD99,CD99 antigen,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,0.98 [0.86-1.12],0.754236753603278,trans
+CD99,CD99 antigen,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,1.03 [0.84-1.27],0.78035273396426,trans
+CD99,CD99 antigen,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,0.98 [0.88-1.1],0.786047702477512,trans
+CD99,CD99 antigen,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.04 [0.79-1.37],0.787892056213936,trans
+CD99,CD99 antigen,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,25,1.01 [0.92-1.11],0.803132328227961,trans
+CD99,CD99 antigen,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Wald ratio,1,1.01 [0.95-1.07],0.866679429830989,trans
+CD99,CD99 antigen,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,1.02 [0.78-1.34],0.875700120969926,trans
+CD99,CD99 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,1 [0.97-1.03],0.87585324007692,trans
+CD99,CD99 antigen,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,14,1 [0.95-1.05],0.883025361942552,trans
+CD99,CD99 antigen,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,1 [0.92-1.08],0.908908596919702,trans
+CD99,CD99 antigen,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,5,0.99 [0.84-1.18],0.92547165968979,trans
+CD99,CD99 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,1 [0.97-1.03],0.929012140156525,trans
+CD99,CD99 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,1 [0.93-1.08],0.934750383138659,trans
+CD99,CD99 antigen,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1.01 [0.76-1.34],0.957295159557688,trans
+CD99,CD99 antigen,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ENDOGLAND,Inverse variance weighted,2,1 [0.84-1.18],0.961803347580191,trans
+CD99,CD99 antigen,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,1 [0.83-1.2],0.969118157237792,trans

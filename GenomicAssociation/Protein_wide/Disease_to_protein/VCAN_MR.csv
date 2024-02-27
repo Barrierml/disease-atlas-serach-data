@@ -1,0 +1,43 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+VCAN,Versican core protein,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,1.05 [1.02-1.08],0.000798250314745283,trans
+VCAN,Versican core protein,Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Inverse variance weighted,2,1.04 [1.02-1.07],0.00122227508122328,trans
+VCAN,Versican core protein,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.11 [1.04-1.19],0.00249551627012555,trans
+VCAN,Versican core protein,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,5,1.3 [1.1-1.55],0.0025923302323613,trans
+VCAN,Versican core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,25,0.87 [0.78-0.97],0.011863330818328,trans
+VCAN,Versican core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,22,1.05 [1.01-1.1],0.0204774985644753,trans
+VCAN,Versican core protein,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,1.03 [0.99-1.07],0.13184671190899,trans
+VCAN,Versican core protein,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,1.07 [0.98-1.16],0.134313617687815,trans
+VCAN,Versican core protein,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,8,1.04 [0.99-1.1],0.151147724155917,trans
+VCAN,Versican core protein,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,0.91 [0.79-1.04],0.17496404584687,trans
+VCAN,Versican core protein,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1.05 [0.98-1.12],0.200793299675738,trans
+VCAN,Versican core protein,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Wald ratio,1,0.96 [0.9-1.02],0.213971384407323,trans
+VCAN,Versican core protein,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,1.04 [0.97-1.11],0.262222995767141,trans
+VCAN,Versican core protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,1.06 [0.95-1.19],0.297216192055053,trans
+VCAN,Versican core protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,0.91 [0.75-1.1],0.317759612474373,trans
+VCAN,Versican core protein,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,0.91 [0.74-1.11],0.337032385501978,trans
+VCAN,Versican core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOPOROSIS,Inverse variance weighted,3,0.95 [0.86-1.06],0.361090402296796,trans
+VCAN,Versican core protein,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.98 [0.94-1.02],0.363820985112734,trans
+VCAN,Versican core protein,Chapter IX Diseases of the circulatory system,I9_PULMEMB,Inverse variance weighted,23,1.01 [0.98-1.05],0.402222263133356,trans
+VCAN,Versican core protein,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,1.03 [0.96-1.11],0.449661873184889,trans
+VCAN,Versican core protein,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,0.9 [0.68-1.19],0.460253476407347,trans
+VCAN,Versican core protein,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Wald ratio,1,0.91 [0.7-1.17],0.460355234552106,trans
+VCAN,Versican core protein,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,0.92 [0.74-1.15],0.469930471510802,trans
+VCAN,Versican core protein,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,0.94 [0.78-1.13],0.520093976417083,trans
+VCAN,Versican core protein,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,1.07 [0.86-1.31],0.554145144879095,trans
+VCAN,Versican core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,24,0.99 [0.96-1.02],0.56615353567179,trans
+VCAN,Versican core protein,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,0.96 [0.81-1.13],0.589722233973009,trans
+VCAN,Versican core protein,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,0.99 [0.94-1.03],0.606879093102194,trans
+VCAN,Versican core protein,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.03 [0.92-1.16],0.623997009986491,trans
+VCAN,Versican core protein,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.93 [0.71-1.23],0.627474664908138,trans
+VCAN,Versican core protein,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERPARA,Inverse variance weighted,10,1.01 [0.97-1.05],0.633462290545525,trans
+VCAN,Versican core protein,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,7,1.02 [0.95-1.09],0.659920089059429,trans
+VCAN,Versican core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Inverse variance weighted,5,1.02 [0.9-1.16],0.711660345722158,trans
+VCAN,Versican core protein,Chapter IX Diseases of the circulatory system,I9_PHLETHROMBDVTLOW,Inverse variance weighted,30,1 [0.97-1.02],0.736204938750471,trans
+VCAN,Versican core protein,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,0.97 [0.78-1.2],0.77228271216102,trans
+VCAN,Versican core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_NOS,Inverse variance weighted,6,1.01 [0.94-1.09],0.808834043435158,trans
+VCAN,Versican core protein,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,61,1 [0.97-1.05],0.813632488692643,trans
+VCAN,Versican core protein,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1.03 [0.78-1.37],0.817233763173346,trans
+VCAN,Versican core protein,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,0.99 [0.89-1.1],0.87535501401228,trans
+VCAN,Versican core protein,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PARATHYRO,Inverse variance weighted,10,1 [0.97-1.04],0.882742526703211,trans
+VCAN,Versican core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OTHERJOINT,Inverse variance weighted,16,1.01 [0.91-1.12],0.883078101866678,trans
+VCAN,Versican core protein,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,0.99 [0.9-1.1],0.883909846590166,trans

@@ -1,0 +1,25 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+BOLA1,BolA-like protein 1,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Wald ratio,1,0.35 [0.13-0.94],0.0368460721937687,cis
+BOLA1,BolA-like protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.37 [0.99-1.89],0.0615150805905598,cis
+BOLA1,BolA-like protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDOVER,Wald ratio,1,1.31 [0.74-2.32],0.362826378861811,cis
+BOLA1,BolA-like protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Wald ratio,1,1.21 [0.78-1.89],0.387969802787951,cis
+BOLA1,BolA-like protein 1,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,1.07 [0.9-1.28],0.414059414472736,cis
+BOLA1,BolA-like protein 1,Chapter XIV Diseases of the genitourinary system,N14_RENFAILNAS,Wald ratio,1,0.81 [0.43-1.52],0.511242691491318,cis
+BOLA1,BolA-like protein 1,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,0.92 [0.66-1.29],0.6412245734308,cis
+BOLA1,BolA-like protein 1,Chapter X Diseases of the respiratory system,J10_PLEURA,Wald ratio,1,0.95 [0.73-1.24],0.703013413910321,cis
+BOLA1,BolA-like protein 1,Chapter X Diseases of the respiratory system,J10_RESPDISOTH,Wald ratio,1,1.04 [0.82-1.32],0.730553681136602,cis
+BOLA1,BolA-like protein 1,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Wald ratio,1,1.16 [0.43-3.12],0.763618386883563,cis
+BOLA1,BolA-like protein 1,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Wald ratio,1,1.02 [0.83-1.26],0.853016186546063,cis
+BOLA1,BolA-like protein 1,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Wald ratio,1,0.98 [0.65-1.49],0.929773118189104,cis
+BOLA1,BolA-like protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Wald ratio,1,1.01 [0.71-1.45],0.94397695554212,cis
+BOLA1,BolA-like protein 1,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,6,0.8 [0.64-0.99],0.0358381268576765,trans
+BOLA1,BolA-like protein 1,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Inverse variance weighted,6,1.55 [0.83-2.9],0.168862670436235,trans
+BOLA1,BolA-like protein 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Inverse variance weighted,6,0.87 [0.71-1.07],0.190972857316118,trans
+BOLA1,BolA-like protein 1,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,6,0.93 [0.82-1.07],0.308310355788318,trans
+BOLA1,BolA-like protein 1,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Inverse variance weighted,6,0.89 [0.69-1.16],0.38921588104234,trans
+BOLA1,BolA-like protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,6,0.89 [0.67-1.18],0.406806307187396,trans
+BOLA1,BolA-like protein 1,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,6,0.91 [0.73-1.14],0.434014705652203,trans
+BOLA1,BolA-like protein 1,Chapter XIV Diseases of the genitourinary system,N14_RENFAILNAS,Inverse variance weighted,6,1.16 [0.7-1.91],0.571980533715302,trans
+BOLA1,BolA-like protein 1,Chapter X Diseases of the respiratory system,J10_PLEURA,Inverse variance weighted,6,0.97 [0.81-1.17],0.77558347096307,trans
+BOLA1,BolA-like protein 1,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,6,0.9 [0.42-1.94],0.792242891864631,trans
+BOLA1,BolA-like protein 1,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,6,0.99 [0.86-1.14],0.917996439166695,trans

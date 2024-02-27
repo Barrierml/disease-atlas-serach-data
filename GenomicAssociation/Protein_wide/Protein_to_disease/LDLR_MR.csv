@@ -1,0 +1,35 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+LDLR,Low-density lipoprotein receptor,Chapter IX Diseases of the circulatory system,I9_CORATHER,Wald ratio,1,2.37 [1.22-4.6],0.0107530205938124,cis
+LDLR,Low-density lipoprotein receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Wald ratio,1,1.89 [1.07-3.33],0.0271807798708654,cis
+LDLR,Low-density lipoprotein receptor,Chapter IX Diseases of the circulatory system,I9_IHD,Wald ratio,1,1.92 [1.07-3.44],0.0294917758691667,cis
+LDLR,Low-density lipoprotein receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Wald ratio,1,1.91 [0.98-3.69],0.0561630867059215,cis
+LDLR,Low-density lipoprotein receptor,Chapter IX Diseases of the circulatory system,I9_AF,Wald ratio,1,2.15 [0.96-4.79],0.0629100589230235,cis
+LDLR,Low-density lipoprotein receptor,Chapter VI Diseases of the nervous system,NEURODEGOTH,Wald ratio,1,0.36 [0.12-1.09],0.0700504607733233,cis
+LDLR,Low-density lipoprotein receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERLIPNAS,Wald ratio,1,2.65 [0.88-7.97],0.0825499239097603,cis
+LDLR,Low-density lipoprotein receptor,Chapter IX Diseases of the circulatory system,I9_CHD,Wald ratio,1,1.81 [0.92-3.55],0.0856405496476704,cis
+LDLR,Low-density lipoprotein receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERCHOL,Wald ratio,1,1.67 [0.76-3.65],0.198804042466296,cis
+LDLR,Low-density lipoprotein receptor,Chapter IX Diseases of the circulatory system,I9_VARICVE,Wald ratio,1,0.68 [0.32-1.43],0.303791707179492,cis
+LDLR,Low-density lipoprotein receptor,Chapter VI Diseases of the nervous system,FALLS,Wald ratio,1,0.81 [0.52-1.26],0.339969392947353,cis
+LDLR,Low-density lipoprotein receptor,Chapter XI Diseases of the digestive system,NAFLD,Wald ratio,1,3.24 [0.29-36.48],0.342037454823599,cis
+LDLR,Low-density lipoprotein receptor,Chapter IX Diseases of the circulatory system,I9_MI_STRICT,Wald ratio,1,1.43 [0.58-3.51],0.43515427426729,cis
+LDLR,Low-density lipoprotein receptor,Chapter XI Diseases of the digestive system,K11_DIAHER,Wald ratio,1,0.71 [0.24-2.12],0.536995177261315,cis
+LDLR,Low-density lipoprotein receptor,Chapter XII Diseases of the skin and subcutaneous tissue,L12_OTHERSKINSUBCUTIS,Wald ratio,1,1.25 [0.57-2.71],0.574383109338904,cis
+LDLR,Low-density lipoprotein receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOPOROSIS,Wald ratio,1,0.88 [0.21-3.59],0.855117311694092,cis
+LDLR,Low-density lipoprotein receptor,Chapter IX Diseases of the circulatory system,I9_SECONDRIGHT,Wald ratio,1,1.36 [0.04-45.28],0.862110067434834,cis
+LDLR,Low-density lipoprotein receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,17,1.28 [1.04-1.57],0.0184669902676744,trans
+LDLR,Low-density lipoprotein receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERCHOL,Inverse variance weighted,17,1.3 [1.04-1.63],0.0189973114789462,trans
+LDLR,Low-density lipoprotein receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERLIPNAS,Inverse variance weighted,17,1.23 [1.03-1.46],0.0236892436109087,trans
+LDLR,Low-density lipoprotein receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,17,1.16 [1-1.34],0.0445266993380013,trans
+LDLR,Low-density lipoprotein receptor,Chapter IX Diseases of the circulatory system,I9_AF,Inverse variance weighted,17,1.11 [1-1.23],0.0566656941152503,trans
+LDLR,Low-density lipoprotein receptor,Chapter IX Diseases of the circulatory system,I9_CORATHER,Inverse variance weighted,17,1.16 [0.99-1.35],0.063021194641541,trans
+LDLR,Low-density lipoprotein receptor,Chapter IX Diseases of the circulatory system,I9_IHD,Inverse variance weighted,17,1.12 [0.97-1.28],0.123508131127725,trans
+LDLR,Low-density lipoprotein receptor,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,17,1.03 [0.97-1.09],0.290724152918869,trans
+LDLR,Low-density lipoprotein receptor,Chapter XI Diseases of the digestive system,NAFLD,Inverse variance weighted,17,0.75 [0.44-1.29],0.294848687570149,trans
+LDLR,Low-density lipoprotein receptor,Chapter IX Diseases of the circulatory system,I9_CHD,Inverse variance weighted,17,1.09 [0.92-1.28],0.32409613144363,trans
+LDLR,Low-density lipoprotein receptor,Chapter IX Diseases of the circulatory system,I9_MI_STRICT,Inverse variance weighted,17,1.1 [0.9-1.35],0.362200426764394,trans
+LDLR,Low-density lipoprotein receptor,Chapter IX Diseases of the circulatory system,I9_SECONDRIGHT,Inverse variance weighted,17,1.13 [0.75-1.69],0.552524531686416,trans
+LDLR,Low-density lipoprotein receptor,Chapter VI Diseases of the nervous system,NEURODEGOTH,Inverse variance weighted,17,0.9 [0.61-1.33],0.600679348705131,trans
+LDLR,Low-density lipoprotein receptor,Chapter XI Diseases of the digestive system,K11_DIAHER,Inverse variance weighted,17,1.03 [0.92-1.15],0.600986237148701,trans
+LDLR,Low-density lipoprotein receptor,Chapter IX Diseases of the circulatory system,I9_VARICVE,Inverse variance weighted,17,1.02 [0.88-1.17],0.821304143440753,trans
+LDLR,Low-density lipoprotein receptor,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OSTEOPOROSIS,Inverse variance weighted,17,0.98 [0.84-1.15],0.836557187416238,trans
+LDLR,Low-density lipoprotein receptor,Chapter XII Diseases of the skin and subcutaneous tissue,L12_OTHERSKINSUBCUTIS,Inverse variance weighted,17,1 [0.9-1.1],0.938045110408788,trans

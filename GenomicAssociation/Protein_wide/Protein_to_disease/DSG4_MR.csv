@@ -1,0 +1,9 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+DSG4,Desmoglein-4,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Wald ratio,1,0.09 [0.01-1.45],0.0892978853457486,cis
+DSG4,Desmoglein-4,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,1.24 [0.78-1.99],0.365159427199732,cis
+DSG4,Desmoglein-4,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Wald ratio,1,2.59 [0.18-37.26],0.483403901528504,cis
+DSG4,Desmoglein-4,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,0.87 [0.36-2.09],0.753428378716118,cis
+DSG4,Desmoglein-4,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Inverse variance weighted,55,1.18 [0.94-1.5],0.158334087179958,trans
+DSG4,Desmoglein-4,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,55,0.96 [0.89-1.05],0.377576898068859,trans
+DSG4,Desmoglein-4,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,55,0.98 [0.94-1.03],0.423714245852831,trans
+DSG4,Desmoglein-4,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,55,1.05 [0.86-1.29],0.635358241268145,trans

@@ -1,0 +1,53 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+INSR,Insulin receptor,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,1.36 [1.01-1.84],0.0453328567099871,cis
+INSR,Insulin receptor,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,0.25 [0.04-1.47],0.125019865900435,cis
+INSR,Insulin receptor,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Wald ratio,1,1.74 [0.84-3.62],0.137069520981606,cis
+INSR,Insulin receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,1.48 [0.83-2.64],0.18240430498682,cis
+INSR,Insulin receptor,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,0.84 [0.63-1.12],0.229467223581432,cis
+INSR,Insulin receptor,Chapter V Mental and behavioural disorders,ALCOHOLMENTAL,Wald ratio,1,0.67 [0.34-1.33],0.252802638191777,cis
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,K11_OTHINFLIV,Wald ratio,1,2.01 [0.55-7.36],0.292077749191343,cis
+INSR,Insulin receptor,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.38 [0.76-2.52],0.293258671905307,cis
+INSR,Insulin receptor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,0.86 [0.63-1.17],0.329935328218224,cis
+INSR,Insulin receptor,Chapter IX Diseases of the circulatory system,I9_OTHOTH,Wald ratio,1,2.17 [0.38-12.36],0.384331728403841,cis
+INSR,Insulin receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Wald ratio,1,0.6 [0.18-1.99],0.399335563719635,cis
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Wald ratio,1,0.6 [0.17-2.17],0.435741562848174,cis
+INSR,Insulin receptor,Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Wald ratio,1,0.52 [0.09-2.93],0.456028903320413,cis
+INSR,Insulin receptor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Wald ratio,1,1.19 [0.73-1.95],0.484168237920138,cis
+INSR,Insulin receptor,Chapter V Mental and behavioural disorders,AUD,Wald ratio,1,1.18 [0.74-1.86],0.484278609360013,cis
+INSR,Insulin receptor,Chapter I Certain infectious and parasitic diseases,AB1_INFECT_PARASIT,Wald ratio,1,0.91 [0.68-1.2],0.490311458190472,cis
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,K11_GIDISEASES,Wald ratio,1,0.94 [0.76-1.15],0.521597100429733,cis
+INSR,Insulin receptor,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.91 [0.67-1.24],0.541693023427161,cis
+INSR,Insulin receptor,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Wald ratio,1,0.93 [0.74-1.19],0.576009294868244,cis
+INSR,Insulin receptor,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Wald ratio,1,0.94 [0.75-1.18],0.58888646246222,cis
+INSR,Insulin receptor,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,0.87 [0.52-1.45],0.5948213008114,cis
+INSR,Insulin receptor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,0.89 [0.59-1.36],0.600117369910091,cis
+INSR,Insulin receptor,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_BACT_IMPL,Wald ratio,1,1.08 [0.65-1.82],0.758821205046937,cis
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Wald ratio,1,1.13 [0.51-2.48],0.759829257544774,cis
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,K11_ALCOLIV,Wald ratio,1,1.17 [0.41-3.37],0.770151332034867,cis
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,K11_LIVER,Wald ratio,1,1.07 [0.63-1.84],0.796641981273165,cis
+INSR,Insulin receptor,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Wald ratio,1,1.08 [0.61-1.91],0.799054288164528,cis
+INSR,Insulin receptor,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,0.96 [0.66-1.38],0.807051522518211,cis
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Wald ratio,1,0.88 [0.17-4.51],0.875232796564527,cis
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,K11_HEPFAIL,Wald ratio,1,1.07 [0.18-6.48],0.939728921616003,cis
+INSR,Insulin receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Wald ratio,1,0.99 [0.68-1.44],0.958896862546659,cis
+INSR,Insulin receptor,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_EXPLICIT,Wald ratio,1,1 [0.58-1.72],0.986767566554384,cis
+INSR,Insulin receptor,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Inverse variance weighted,5,1.6 [1.17-2.2],0.00364705450971773,trans
+INSR,Insulin receptor,Chapter V Mental and behavioural disorders,AUD,Inverse variance weighted,5,1.33 [1.06-1.66],0.0140088650014953,trans
+INSR,Insulin receptor,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,5,0.8 [0.61-1.04],0.0901888969052819,trans
+INSR,Insulin receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Inverse variance weighted,5,0.62 [0.35-1.1],0.10087074355762,trans
+INSR,Insulin receptor,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,5,0.86 [0.69-1.07],0.172761741116735,trans
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,K11_ALCOLIV,Inverse variance weighted,5,1.37 [0.86-2.19],0.185381711281776,trans
+INSR,Insulin receptor,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,5,1.04 [0.91-1.19],0.562905686341168,trans
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,5,1.08 [0.79-1.47],0.633731972044989,trans
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,K11_OTHINFLIV,Inverse variance weighted,5,0.85 [0.44-1.64],0.637399178787288,trans
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,5,1.12 [0.63-1.99],0.687834152183138,trans
+INSR,Insulin receptor,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,5,0.97 [0.83-1.14],0.696841062999941,trans
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,K11_HEPFAIL,Inverse variance weighted,5,0.83 [0.33-2.08],0.697084212007907,trans
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,5,0.87 [0.42-1.8],0.714647013743528,trans
+INSR,Insulin receptor,Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Inverse variance weighted,5,1.13 [0.52-2.43],0.757494370297941,trans
+INSR,Insulin receptor,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Inverse variance weighted,5,0.97 [0.74-1.28],0.844967894881635,trans
+INSR,Insulin receptor,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Inverse variance weighted,5,1.01 [0.86-1.2],0.879983793807337,trans
+INSR,Insulin receptor,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Inverse variance weighted,5,0.98 [0.71-1.35],0.901313386226679,trans
+INSR,Insulin receptor,Chapter IX Diseases of the circulatory system,I9_OTHOTH,Inverse variance weighted,5,1.05 [0.35-3.2],0.929413249205278,trans
+INSR,Insulin receptor,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Inverse variance weighted,5,0.99 [0.77-1.28],0.95821940800981,trans
+INSR,Insulin receptor,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Inverse variance weighted,5,1 [0.71-1.42],0.990896252778603,trans

@@ -1,0 +1,31 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+CRYBB2,Beta-crystallin B2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_CATARACTSENILE,Wald ratio,1,0.72 [0.58-0.9],0.00370161995918915,cis
+CRYBB2,Beta-crystallin B2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Wald ratio,1,0.43 [0.22-0.87],0.0185337970927639,cis
+CRYBB2,Beta-crystallin B2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_CHOROIDRETINA,Wald ratio,1,0.75 [0.59-0.96],0.0218074362628043,cis
+CRYBB2,Beta-crystallin B2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_CATARACTOTHER,Wald ratio,1,0.7 [0.5-0.97],0.0329968211649512,cis
+CRYBB2,Beta-crystallin B2,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Wald ratio,1,0.78 [0.57-1.08],0.132962691881187,cis
+CRYBB2,Beta-crystallin B2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_OCUMUSCLE,Wald ratio,1,1.16 [0.83-1.62],0.385578481831301,cis
+CRYBB2,Beta-crystallin B2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_BLINDANDVISIMPAIRMENT,Wald ratio,1,1.4 [0.54-3.59],0.485961796496148,cis
+CRYBB2,Beta-crystallin B2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_GLAUCNAS,Wald ratio,1,0.76 [0.28-2.08],0.595437616602561,cis
+CRYBB2,Beta-crystallin B2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,0.89 [0.58-1.37],0.602894741735688,cis
+CRYBB2,Beta-crystallin B2,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.11 [0.72-1.72],0.635619251484615,cis
+CRYBB2,Beta-crystallin B2,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Wald ratio,1,1.03 [0.87-1.22],0.708257617414706,cis
+CRYBB2,Beta-crystallin B2,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Wald ratio,1,1.03 [0.86-1.23],0.727449046936608,cis
+CRYBB2,Beta-crystallin B2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Wald ratio,1,1.02 [0.83-1.24],0.879482201299547,cis
+CRYBB2,Beta-crystallin B2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_RETINALDETACHOTH,Wald ratio,1,1.04 [0.23-4.59],0.963094843508332,cis
+CRYBB2,Beta-crystallin B2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_GLAUCOMA,Wald ratio,1,1 [0.73-1.36],0.987320522506429,cis
+CRYBB2,Beta-crystallin B2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_CATARACTSENILE,Inverse variance weighted,30,1.16 [1.07-1.26],0.000542598969586026,trans
+CRYBB2,Beta-crystallin B2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_CATARACTOTHER,Inverse variance weighted,30,1.16 [1.05-1.29],0.00477164780784371,trans
+CRYBB2,Beta-crystallin B2,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,30,0.95 [0.89-1.02],0.145632221004905,trans
+CRYBB2,Beta-crystallin B2,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,30,1.06 [0.98-1.14],0.18009770895757,trans
+CRYBB2,Beta-crystallin B2,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Inverse variance weighted,30,1.03 [0.98-1.07],0.249430445500385,trans
+CRYBB2,Beta-crystallin B2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,30,1.02 [0.98-1.06],0.343786372192479,trans
+CRYBB2,Beta-crystallin B2,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Inverse variance weighted,30,1.02 [0.98-1.07],0.344879839098466,trans
+CRYBB2,Beta-crystallin B2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_GLAUCOMA,Inverse variance weighted,30,0.97 [0.9-1.04],0.377344434971861,trans
+CRYBB2,Beta-crystallin B2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_OCUMUSCLE,Inverse variance weighted,30,0.98 [0.92-1.03],0.399273932862584,trans
+CRYBB2,Beta-crystallin B2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_CHOROIDRETINA,Inverse variance weighted,30,0.98 [0.93-1.04],0.522564653088673,trans
+CRYBB2,Beta-crystallin B2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_MACULOPATHY_EXMORE,Inverse variance weighted,30,0.96 [0.83-1.11],0.550021352708741,trans
+CRYBB2,Beta-crystallin B2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_GLAUCNAS,Inverse variance weighted,30,0.94 [0.76-1.16],0.572300310925538,trans
+CRYBB2,Beta-crystallin B2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_BLINDANDVISIMPAIRMENT,Inverse variance weighted,30,1.04 [0.88-1.24],0.615384628844166,trans
+CRYBB2,Beta-crystallin B2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Inverse variance weighted,30,0.99 [0.92-1.07],0.831131228331228,trans
+CRYBB2,Beta-crystallin B2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",H7_RETINALDETACHOTH,Inverse variance weighted,30,1.01 [0.76-1.36],0.93379354044889,trans

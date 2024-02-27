@@ -1,0 +1,47 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+FST,Follistatin,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,4,1.15 [1.02-1.29],0.0200993095789706,cis
+FST,Follistatin,Chapter V Mental and behavioural disorders,ALCOHOLMENTAL,Inverse variance weighted,4,1.26 [1.03-1.54],0.0231713574064155,cis
+FST,Follistatin,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Inverse variance weighted,4,0.88 [0.75-1.05],0.152988005596111,cis
+FST,Follistatin,Chapter X Diseases of the respiratory system,J10_PLEURA,Inverse variance weighted,4,1.09 [0.95-1.24],0.218739457922777,cis
+FST,Follistatin,Chapter X Diseases of the respiratory system,J10_RESPDISOTH,Inverse variance weighted,4,1.11 [0.92-1.34],0.257371846149548,cis
+FST,Follistatin,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Inverse variance weighted,4,1.36 [0.79-2.36],0.270470150746976,cis
+FST,Follistatin,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Inverse variance weighted,4,1.09 [0.92-1.3],0.305182476225849,cis
+FST,Follistatin,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,4,1.06 [0.91-1.24],0.42971364743802,cis
+FST,Follistatin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,4,0.96 [0.87-1.06],0.438054551206308,cis
+FST,Follistatin,Chapter V Mental and behavioural disorders,AUD,Inverse variance weighted,4,1.05 [0.9-1.24],0.514090311699297,cis
+FST,Follistatin,Chapter V Mental and behavioural disorders,F5_ALCOHOLAC,Inverse variance weighted,4,1.06 [0.89-1.26],0.533795931930765,cis
+FST,Follistatin,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Inverse variance weighted,4,1.07 [0.86-1.32],0.544849620161013,cis
+FST,Follistatin,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1.04 [0.91-1.18],0.551968676354882,cis
+FST,Follistatin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,4,0.94 [0.75-1.18],0.613175724028582,cis
+FST,Follistatin,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,1.13 [0.68-1.9],0.634488744888721,cis
+FST,Follistatin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS,Inverse variance weighted,4,0.98 [0.9-1.07],0.636550757021158,cis
+FST,Follistatin,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,4,1.02 [0.93-1.12],0.650254662595166,cis
+FST,Follistatin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_MUSCULOSKELETAL,Inverse variance weighted,4,1.01 [0.95-1.09],0.676124951929632,cis
+FST,Follistatin,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,4,0.95 [0.71-1.27],0.726127795545234,cis
+FST,Follistatin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OTHERJOINT,Inverse variance weighted,4,0.98 [0.89-1.08],0.741116667784421,cis
+FST,Follistatin,Chapter X Diseases of the respiratory system,COPD_LATER,Inverse variance weighted,4,1.03 [0.87-1.22],0.746749469843325,cis
+FST,Follistatin,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,4,0.98 [0.83-1.15],0.775159394597935,cis
+FST,Follistatin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,4,0.99 [0.9-1.09],0.816819735914086,cis
+FST,Follistatin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,4,1.01 [0.84-1.21],0.916589686315973,cis
+FST,Follistatin,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,4,1 [0.91-1.09],0.92901732741764,cis
+FST,Follistatin,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,4,1 [0.92-1.09],0.965644048824763,cis
+FST,Follistatin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Wald ratio,1,3.39 [1.75-6.55],0.000291716343270024,trans
+FST,Follistatin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Wald ratio,1,1.63 [1.15-2.3],0.00622909216952157,trans
+FST,Follistatin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Wald ratio,1,3 [1.33-6.76],0.00793061532494971,trans
+FST,Follistatin,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Wald ratio,1,0.61 [0.4-0.92],0.0201464242757066,trans
+FST,Follistatin,Chapter V Mental and behavioural disorders,AUD,Wald ratio,1,0.57 [0.36-0.93],0.023446971670301,trans
+FST,Follistatin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Wald ratio,1,1.19 [0.97-1.45],0.0900297845447622,trans
+FST,Follistatin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS,Wald ratio,1,1.25 [0.96-1.61],0.0953754282686303,trans
+FST,Follistatin,Chapter X Diseases of the respiratory system,COPD_LATER,Wald ratio,1,0.66 [0.36-1.19],0.168850242523972,trans
+FST,Follistatin,Chapter V Mental and behavioural disorders,F5_ALCOHOLAC,Wald ratio,1,0.66 [0.36-1.24],0.197882657639792,trans
+FST,Follistatin,Chapter X Diseases of the respiratory system,J10_PLEURA,Wald ratio,1,0.75 [0.46-1.21],0.235035317784149,trans
+FST,Follistatin,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Wald ratio,1,0.7 [0.38-1.28],0.241715292753839,trans
+FST,Follistatin,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Wald ratio,1,0.65 [0.31-1.39],0.268391032760712,trans
+FST,Follistatin,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Wald ratio,1,0.9 [0.7-1.15],0.409746553677416,trans
+FST,Follistatin,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.28 [0.69-2.36],0.432918298594708,trans
+FST,Follistatin,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_OTHERJOINT,Wald ratio,1,1.08 [0.86-1.37],0.506076140675329,trans
+FST,Follistatin,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Wald ratio,1,0.89 [0.61-1.31],0.560465785554919,trans
+FST,Follistatin,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Wald ratio,1,1.61 [0.26-9.87],0.606739414885884,trans
+FST,Follistatin,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Wald ratio,1,1.05 [0.82-1.36],0.688225474114868,trans
+FST,Follistatin,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.94 [0.69-1.29],0.716504696791998,trans
+FST,Follistatin,Chapter IX Diseases of the circulatory system,I9_HYPTENSRD,Wald ratio,1,1.2 [0.2-7.15],0.842633742057149,trans

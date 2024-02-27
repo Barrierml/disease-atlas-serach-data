@@ -1,0 +1,10 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+NFKBIE,NF-kappa-B inhibitor epsilon,Chapter I Certain infectious and parasitic diseases,AB1_INFECT_PARASIT,Inverse variance weighted,2,1.08 [1.01-1.15],0.0309469606469226,cis
+NFKBIE,NF-kappa-B inhibitor epsilon,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,2,0.97 [0.91-1.03],0.255656590838532,cis
+NFKBIE,NF-kappa-B inhibitor epsilon,Chapter II Neoplasms,CD2_LYMPHOID_LEUKAEMIA_EXALLC,Inverse variance weighted,2,0.92 [0.7-1.22],0.561275481319335,cis
+NFKBIE,NF-kappa-B inhibitor epsilon,Chapter II Neoplasms,C3_CLL_EXALLC,Inverse variance weighted,2,1.02 [0.66-1.59],0.917298609117565,cis
+NFKBIE,NF-kappa-B inhibitor epsilon,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,2,1 [0.95-1.05],0.934469986399731,cis
+NFKBIE,NF-kappa-B inhibitor epsilon,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Wald ratio,1,0.91 [0.72-1.14],0.398477369511596,trans
+NFKBIE,NF-kappa-B inhibitor epsilon,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Wald ratio,1,0.91 [0.7-1.18],0.468924140422427,trans
+NFKBIE,NF-kappa-B inhibitor epsilon,Chapter II Neoplasms,C3_CLL_EXALLC,Wald ratio,1,0.83 [0.13-5.13],0.838458451502632,trans
+NFKBIE,NF-kappa-B inhibitor epsilon,Chapter II Neoplasms,CD2_LYMPHOID_LEUKAEMIA_EXALLC,Wald ratio,1,0.96 [0.29-3.15],0.94140440882487,trans

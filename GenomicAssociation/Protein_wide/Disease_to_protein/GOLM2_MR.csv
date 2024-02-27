@@ -1,0 +1,87 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+GOLM2,Protein GOLM2,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,1.63 [1.27-2.11],0.000152363506225176,trans
+GOLM2,Protein GOLM2,Chapter IX Diseases of the circulatory system,I9_PAD,Inverse variance weighted,2,1.1 [1.03-1.18],0.00301801341873525,trans
+GOLM2,Protein GOLM2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,1.04 [1.01-1.07],0.00419506622861351,trans
+GOLM2,Protein GOLM2,Chapter V Mental and behavioural disorders,AUD,Inverse variance weighted,6,1.08 [1.02-1.13],0.00551160000038796,trans
+GOLM2,Protein GOLM2,Chapter X Diseases of the respiratory system,J10_ACUTELOWERNAS,Wald ratio,1,0.85 [0.76-0.95],0.00629438195676747,trans
+GOLM2,Protein GOLM2,Chapter XI Diseases of the digestive system,K11_ENERCOLNONINF,Inverse variance weighted,35,1.07 [1.02-1.13],0.0106362229495728,trans
+GOLM2,Protein GOLM2,Chapter X Diseases of the respiratory system,J10_LOWERINF,Wald ratio,1,0.73 [0.57-0.93],0.0122578248690458,trans
+GOLM2,Protein GOLM2,Chapter X Diseases of the respiratory system,COPD_LATER,Wald ratio,1,1.11 [1.02-1.21],0.0145527622382557,trans
+GOLM2,Protein GOLM2,Chapter XIV Diseases of the genitourinary system,N14_URINOTH,Inverse variance weighted,2,0.79 [0.65-0.96],0.0177864660488076,trans
+GOLM2,Protein GOLM2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_RHEUMA,Inverse variance weighted,22,1.08 [1.01-1.15],0.0218646010391665,trans
+GOLM2,Protein GOLM2,Chapter IX Diseases of the circulatory system,I9_ATHSCLE,Inverse variance weighted,13,1.09 [1.01-1.18],0.0299414337087086,trans
+GOLM2,Protein GOLM2,Chapter XI Diseases of the digestive system,NAFLD,Inverse variance weighted,6,1.04 [1-1.07],0.0308666754773986,trans
+GOLM2,Protein GOLM2,Chapter X Diseases of the respiratory system,COPD_EARLY,Inverse variance weighted,3,1.09 [1.01-1.19],0.0329588624625845,trans
+GOLM2,Protein GOLM2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM1NOCOMP,Inverse variance weighted,3,1.04 [1-1.08],0.0493676094279822,trans
+GOLM2,Protein GOLM2,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Inverse variance weighted,3,1.1 [1-1.22],0.0623950903999262,trans
+GOLM2,Protein GOLM2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_POLYARTHROPATHIES,Inverse variance weighted,16,1.11 [0.99-1.24],0.0714114195061322,trans
+GOLM2,Protein GOLM2,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,0.81 [0.65-1.02],0.0738454565909624,trans
+GOLM2,Protein GOLM2,Chapter IX Diseases of the circulatory system,I9_PULMEMB,Inverse variance weighted,23,1.15 [0.99-1.34],0.0763360118467907,trans
+GOLM2,Protein GOLM2,Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Inverse variance weighted,2,1.03 [1-1.05],0.0855588051108768,trans
+GOLM2,Protein GOLM2,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.07 [0.99-1.15],0.0957231173908518,trans
+GOLM2,Protein GOLM2,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Wald ratio,1,1.03 [0.99-1.06],0.102364070686109,trans
+GOLM2,Protein GOLM2,Chapter X Diseases of the respiratory system,J10_EMPHYSEMA,Wald ratio,1,1.04 [0.99-1.1],0.111072082002434,trans
+GOLM2,Protein GOLM2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_GLUCOPANCREAS,Wald ratio,1,1.07 [0.98-1.16],0.120065136309158,trans
+GOLM2,Protein GOLM2,Chapter V Mental and behavioural disorders,F5_DEPRESSION_DYSTHYMIA,Inverse variance weighted,24,1.06 [0.99-1.13],0.12079829633597,trans
+GOLM2,Protein GOLM2,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Inverse variance weighted,4,0.98 [0.96-1.01],0.138676141283277,trans
+GOLM2,Protein GOLM2,Chapter XIV Diseases of the genitourinary system,N14_URETHRAOTH,Inverse variance weighted,5,0.91 [0.79-1.03],0.141096142893708,trans
+GOLM2,Protein GOLM2,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,2,1.06 [0.98-1.14],0.141250586049935,trans
+GOLM2,Protein GOLM2,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.97 [0.92-1.02],0.17733608472423,trans
+GOLM2,Protein GOLM2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,GOUT_NOS,Inverse variance weighted,14,1.02 [0.99-1.05],0.182682616610347,trans
+GOLM2,Protein GOLM2,Chapter XI Diseases of the digestive system,K11_GALLBILPANC,Inverse variance weighted,21,0.97 [0.92-1.02],0.189294713557106,trans
+GOLM2,Protein GOLM2,Chapter X Diseases of the respiratory system,ASTHMA_NAS,Inverse variance weighted,13,0.96 [0.9-1.02],0.205029757389757,trans
+GOLM2,Protein GOLM2,Chapter VI Diseases of the nervous system,FALLS,Inverse variance weighted,5,0.88 [0.73-1.07],0.213215155567393,trans
+GOLM2,Protein GOLM2,Chapter V Mental and behavioural disorders,KRA_PSY_SUBSTANCE_EXMORE,Inverse variance weighted,11,1.05 [0.97-1.13],0.223855858681296,trans
+GOLM2,Protein GOLM2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_NOS,Inverse variance weighted,6,1.06 [0.96-1.16],0.234031149331416,trans
+GOLM2,Protein GOLM2,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.08 [0.95-1.23],0.237605560547637,trans
+GOLM2,Protein GOLM2,Chapter X Diseases of the respiratory system,IPF,Inverse variance weighted,20,1.01 [0.99-1.03],0.250872739771092,trans
+GOLM2,Protein GOLM2,Chapter IX Diseases of the circulatory system,I9_CARDARR,Inverse variance weighted,2,1.06 [0.96-1.16],0.274263792482227,trans
+GOLM2,Protein GOLM2,Chapter X Diseases of the respiratory system,J10_RESPIRATORY,Inverse variance weighted,15,0.93 [0.82-1.06],0.280339776418767,trans
+GOLM2,Protein GOLM2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.19 [0.86-1.63],0.289840599160269,trans
+GOLM2,Protein GOLM2,Chapter I Certain infectious and parasitic diseases,AB1_GASTROENTERITIS_NOS,Inverse variance weighted,2,1.08 [0.94-1.24],0.297551773946233,trans
+GOLM2,Protein GOLM2,Chapter X Diseases of the respiratory system,J10_ASTHMA_EXMORE,Inverse variance weighted,59,0.98 [0.94-1.02],0.304928329998144,trans
+GOLM2,Protein GOLM2,Chapter VI Diseases of the nervous system,G6_POLYOTHUNS,Inverse variance weighted,2,1.07 [0.94-1.21],0.327235564129502,trans
+GOLM2,Protein GOLM2,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,8,1.04 [0.96-1.14],0.32904988627347,trans
+GOLM2,Protein GOLM2,"Chapter VII Diseases of the eye, adnexa, ear and mastoid process",DM_BCKGRND_RETINA,Inverse variance weighted,3,1.02 [0.98-1.06],0.358081104802213,trans
+GOLM2,Protein GOLM2,Chapter XI Diseases of the digestive system,K11_OESSTODUO,Wald ratio,1,1.22 [0.8-1.86],0.361219417714611,trans
+GOLM2,Protein GOLM2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPOOSMNAT,Wald ratio,1,0.95 [0.86-1.06],0.363072138847781,trans
+GOLM2,Protein GOLM2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_FLUIDELECTRO,Wald ratio,1,0.93 [0.8-1.09],0.363072138847781,trans
+GOLM2,Protein GOLM2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,JOINTPAIN,Inverse variance weighted,3,1.06 [0.93-1.21],0.381299030413527,trans
+GOLM2,Protein GOLM2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,1.1 [0.89-1.37],0.388531652080979,trans
+GOLM2,Protein GOLM2,Chapter XII Diseases of the skin and subcutaneous tissue,L12_DECUBITANSULCERANDPRESSURE,Wald ratio,1,0.97 [0.91-1.04],0.407424753807202,trans
+GOLM2,Protein GOLM2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_GOUT,Inverse variance weighted,24,1.01 [0.99-1.03],0.419693307044772,trans
+GOLM2,Protein GOLM2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Wald ratio,1,1.02 [0.97-1.08],0.424669578727288,trans
+GOLM2,Protein GOLM2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROSIS_OTH,Inverse variance weighted,3,1.08 [0.89-1.31],0.453508699960403,trans
+GOLM2,Protein GOLM2,Chapter XI Diseases of the digestive system,K11_OTHDIG,Inverse variance weighted,12,0.98 [0.91-1.04],0.463347647275845,trans
+GOLM2,Protein GOLM2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,RHEUMA_OTHER_WIDE,Inverse variance weighted,5,1.07 [0.89-1.29],0.47259017924922,trans
+GOLM2,Protein GOLM2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,0.99 [0.96-1.02],0.487613465967343,trans
+GOLM2,Protein GOLM2,Chapter XI Diseases of the digestive system,K11_DIAHER,Inverse variance weighted,8,1.02 [0.97-1.07],0.493336548875634,trans
+GOLM2,Protein GOLM2,Chapter XI Diseases of the digestive system,K11_OTHENTERCOL,Inverse variance weighted,2,1.04 [0.93-1.17],0.49484528723518,trans
+GOLM2,Protein GOLM2,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,0.95 [0.83-1.1],0.495854440085478,trans
+GOLM2,Protein GOLM2,Chapter X Diseases of the respiratory system,COPD_HOSPITAL_MAIN,Inverse variance weighted,7,1.05 [0.91-1.2],0.502124900348873,trans
+GOLM2,Protein GOLM2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERLIPNAS,Inverse variance weighted,21,1.07 [0.87-1.3],0.529950344201547,trans
+GOLM2,Protein GOLM2,Chapter XI Diseases of the digestive system,K11_CD_STRICT2,Inverse variance weighted,8,1.01 [0.98-1.03],0.532341254784629,trans
+GOLM2,Protein GOLM2,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,1.11 [0.79-1.55],0.542989613703531,trans
+GOLM2,Protein GOLM2,Chapter V Mental and behavioural disorders,ALCOHOLMENTAL,Wald ratio,1,0.96 [0.85-1.09],0.558065324962927,trans
+GOLM2,Protein GOLM2,Chapter IX Diseases of the circulatory system,I9_PHLETHROMBDVTLOW,Inverse variance weighted,30,1.01 [0.98-1.04],0.570642334792473,trans
+GOLM2,Protein GOLM2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIA_IRONDEF_NAS,Inverse variance weighted,7,0.98 [0.9-1.06],0.576378117849328,trans
+GOLM2,Protein GOLM2,Chapter X Diseases of the respiratory system,ILD,Inverse variance weighted,21,1.01 [0.98-1.03],0.597798475113286,trans
+GOLM2,Protein GOLM2,Chapter XI Diseases of the digestive system,CHRONNAS,Inverse variance weighted,9,1.01 [0.98-1.04],0.608362145328235,trans
+GOLM2,Protein GOLM2,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,0.95 [0.75-1.2],0.653215930792858,trans
+GOLM2,Protein GOLM2,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,0.93 [0.69-1.27],0.66587742037614,trans
+GOLM2,Protein GOLM2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_SJOGREN,Inverse variance weighted,5,0.99 [0.93-1.05],0.669308931854591,trans
+GOLM2,Protein GOLM2,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,1.04 [0.86-1.25],0.676241500516817,trans
+GOLM2,Protein GOLM2,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,2,1.01 [0.96-1.06],0.731781999464822,trans
+GOLM2,Protein GOLM2,Chapter I Certain infectious and parasitic diseases,AB1_MYCOSES,Wald ratio,1,1.03 [0.86-1.23],0.740591764369708,trans
+GOLM2,Protein GOLM2,Chapter XI Diseases of the digestive system,K11_CD_NOUC,Inverse variance weighted,4,1 [0.97-1.02],0.758453513632852,trans
+GOLM2,Protein GOLM2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_MINERAL_MET,Wald ratio,1,0.99 [0.94-1.05],0.760838969075999,trans
+GOLM2,Protein GOLM2,Chapter XI Diseases of the digestive system,COLITNONINFNAS,Wald ratio,1,1.03 [0.83-1.27],0.779441924957198,trans
+GOLM2,Protein GOLM2,Chapter X Diseases of the respiratory system,J10_LOWCHRON,Inverse variance weighted,61,1.01 [0.96-1.05],0.818339248504759,trans
+GOLM2,Protein GOLM2,Chapter XI Diseases of the digestive system,K11_INTESTOTH,Inverse variance weighted,10,1.02 [0.87-1.18],0.832779310920746,trans
+GOLM2,Protein GOLM2,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,1.01 [0.87-1.17],0.869788026744701,trans
+GOLM2,Protein GOLM2,Chapter XII Diseases of the skin and subcutaneous tissue,L12_INFECT_SKIN,Wald ratio,1,1.02 [0.76-1.36],0.901573168237385,trans
+GOLM2,Protein GOLM2,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,0.98 [0.71-1.35],0.91223168854748,trans
+GOLM2,Protein GOLM2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_PLASMAPROT,Inverse variance weighted,15,1 [0.99-1.01],0.924071145572157,trans
+GOLM2,Protein GOLM2,Chapter XI Diseases of the digestive system,K11_CROHN,Inverse variance weighted,3,1 [0.96-1.04],0.930797496850392,trans
+GOLM2,Protein GOLM2,Chapter XI Diseases of the digestive system,K11_ALCOLIV,Inverse variance weighted,4,1 [0.94-1.07],0.975828855901239,trans
+GOLM2,Protein GOLM2,Chapter XIII Diseases of the musculoskeletal system and connective tissue,M13_ARTHROPATHIES,Inverse variance weighted,25,1 [0.88-1.14],0.985625230187595,trans

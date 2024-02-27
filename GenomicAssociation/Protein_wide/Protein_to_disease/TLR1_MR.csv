@@ -1,0 +1,31 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+TLR1,Toll-like receptor 1,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Inverse variance weighted,16,1.16 [1.03-1.29],0.0105517047060435,cis
+TLR1,Toll-like receptor 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Inverse variance weighted,11,1.05 [1.01-1.09],0.022506477685448,cis
+TLR1,Toll-like receptor 1,Chapter XI Diseases of the digestive system,K11_LIVER,Inverse variance weighted,16,1.09 [1.01-1.18],0.0298124263753353,cis
+TLR1,Toll-like receptor 1,Chapter IX Diseases of the circulatory system,I9_HYPTENSPOR,Inverse variance weighted,11,1.3 [1.02-1.66],0.0347334975817403,cis
+TLR1,Toll-like receptor 1,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Inverse variance weighted,16,0.95 [0.91-1],0.0623155478314758,cis
+TLR1,Toll-like receptor 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Inverse variance weighted,11,1.05 [1-1.12],0.0687738799786278,cis
+TLR1,Toll-like receptor 1,Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Inverse variance weighted,16,0.79 [0.61-1.04],0.0917206598524444,cis
+TLR1,Toll-like receptor 1,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Inverse variance weighted,16,0.94 [0.87-1.02],0.118939113611701,cis
+TLR1,Toll-like receptor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,11,1.04 [0.98-1.09],0.16822704189263,cis
+TLR1,Toll-like receptor 1,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,16,1.15 [0.92-1.43],0.207959522400205,cis
+TLR1,Toll-like receptor 1,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Inverse variance weighted,16,0.98 [0.93-1.03],0.388976267477878,cis
+TLR1,Toll-like receptor 1,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_BACT_IMPL,Inverse variance weighted,11,0.97 [0.91-1.04],0.454657874991491,cis
+TLR1,Toll-like receptor 1,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Inverse variance weighted,16,1.04 [0.93-1.17],0.48778177761816,cis
+TLR1,Toll-like receptor 1,Chapter XI Diseases of the digestive system,K11_ALCOLIV,Inverse variance weighted,16,1.06 [0.89-1.25],0.532665646554286,cis
+TLR1,Toll-like receptor 1,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_EXPLICIT,Inverse variance weighted,11,0.98 [0.91-1.05],0.538023608523209,cis
+TLR1,Toll-like receptor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Inverse variance weighted,16,0.95 [0.79-1.14],0.575240154610968,cis
+TLR1,Toll-like receptor 1,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,16,1.05 [0.82-1.34],0.697466758839718,cis
+TLR1,Toll-like receptor 1,Chapter XI Diseases of the digestive system,K11_HEPFAIL,Inverse variance weighted,16,1.03 [0.8-1.34],0.79775010591705,cis
+TLR1,Toll-like receptor 1,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_BACTERIAL,Wald ratio,1,1.36 [0.97-1.91],0.0707789259452682,trans
+TLR1,Toll-like receptor 1,Chapter XI Diseases of the digestive system,K11_LIVER,Wald ratio,1,1.74 [0.92-3.3],0.0892567611268748,trans
+TLR1,Toll-like receptor 1,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Wald ratio,1,3 [0.65-13.91],0.160797296461275,trans
+TLR1,Toll-like receptor 1,Chapter XI Diseases of the digestive system,K11_HEPFAIL,Wald ratio,1,3.65 [0.43-30.74],0.23389065654575,trans
+TLR1,Toll-like receptor 1,Chapter XI Diseases of the digestive system,K11_DISLIVOTH,Wald ratio,1,1.69 [0.67-4.28],0.270590594871956,trans
+TLR1,Toll-like receptor 1,Chapter I Certain infectious and parasitic diseases,AB1_OTHER_SEPSIS,Wald ratio,1,1.3 [0.71-2.38],0.400586779468092,trans
+TLR1,Toll-like receptor 1,Chapter XI Diseases of the digestive system,K11_ALCOLIV,Wald ratio,1,1.7 [0.49-5.94],0.404201426097395,trans
+TLR1,Toll-like receptor 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2PERIPH,Wald ratio,1,1.45 [0.34-6.12],0.611218214001204,trans
+TLR1,Toll-like receptor 1,Chapter XIV Diseases of the genitourinary system,N14_ACUTERENFAIL,Wald ratio,1,1.23 [0.52-2.92],0.641692655599746,trans
+TLR1,Toll-like receptor 1,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,1.01 [0.71-1.45],0.949279196343114,trans
+TLR1,Toll-like receptor 1,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Wald ratio,1,1.04 [0.15-7.26],0.970359600813437,trans
+TLR1,Toll-like receptor 1,Chapter IX Diseases of the circulatory system,I9_VARICVEOES,Wald ratio,1,0.98 [0.13-7.69],0.985345806137062,trans

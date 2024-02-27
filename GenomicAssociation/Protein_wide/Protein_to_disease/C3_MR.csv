@@ -1,0 +1,11 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+C3,Complement C3,Chapter XI Diseases of the digestive system,K11_GIDISEASES,Wald ratio,1,1.08 [0.98-1.18],0.113118645080854,cis
+C3,Complement C3,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Wald ratio,1,0.97 [0.82-1.15],0.731563620880278,cis
+C3,Complement C3,Chapter V Mental and behavioural disorders,F5_ALCOHOL_DEPENDENCE,Inverse variance weighted,2,0.69 [0.51-0.92],0.0121779358519431,trans
+C3,Complement C3,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,2,1.07 [0.92-1.26],0.381290117406385,trans
+C3,Complement C3,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERCHOL,Inverse variance weighted,2,1.07 [0.89-1.29],0.454081765814617,trans
+C3,Complement C3,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,2,1.04 [0.91-1.19],0.537384381655433,trans
+C3,Complement C3,Chapter XI Diseases of the digestive system,K11_OESSTODUO,Inverse variance weighted,2,1.04 [0.91-1.18],0.555449110096232,trans
+C3,Complement C3,Chapter IX Diseases of the circulatory system,I9_K_CARDIAC,Inverse variance weighted,2,1.08 [0.56-2.09],0.810667559953842,trans
+C3,Complement C3,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Inverse variance weighted,2,0.99 [0.88-1.12],0.908463553511335,trans
+C3,Complement C3,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Inverse variance weighted,2,1 [0.9-1.12],0.942768085679128,trans

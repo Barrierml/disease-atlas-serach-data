@@ -1,0 +1,14 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+LAT,Linker for activation of T-cells family member 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Wald ratio,1,0.37 [0.13-1.07],0.0662554342980961,cis
+LAT,Linker for activation of T-cells family member 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Wald ratio,1,1.25 [0.86-1.82],0.246202288680724,cis
+LAT,Linker for activation of T-cells family member 1,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Wald ratio,1,1.15 [0.88-1.51],0.297070120382594,cis
+LAT,Linker for activation of T-cells family member 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Wald ratio,1,1.19 [0.86-1.64],0.299120045750276,cis
+LAT,Linker for activation of T-cells family member 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Wald ratio,1,1.19 [0.76-1.85],0.455483381278834,cis
+LAT,Linker for activation of T-cells family member 1,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Wald ratio,1,1.11 [0.83-1.48],0.492375771419729,cis
+LAT,Linker for activation of T-cells family member 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_THROMBOCYTOPENIANAS,Wald ratio,1,0.7 [0.15-3.3],0.653301143514274,cis
+LAT,Linker for activation of T-cells family member 1,Chapter IX Diseases of the circulatory system,I9_HYPTENS,Inverse variance weighted,2,0.81 [0.68-0.98],0.0266908352443569,trans
+LAT,Linker for activation of T-cells family member 1,Chapter IX Diseases of the circulatory system,I9_HYPTENSESS,Inverse variance weighted,2,0.83 [0.68-1],0.0537386666039395,trans
+LAT,Linker for activation of T-cells family member 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,2,0.83 [0.67-1.03],0.0951969118491498,trans
+LAT,Linker for activation of T-cells family member 1,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,2,0.91 [0.71-1.17],0.455088843261077,trans
+LAT,Linker for activation of T-cells family member 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_THROMBOCYTOPENIANAS,Inverse variance weighted,2,0.89 [0.32-2.52],0.826667058676575,trans
+LAT,Linker for activation of T-cells family member 1,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_PURPURA_AND3_OTHER_HAEMORRHAGIC,Inverse variance weighted,2,1.06 [0.52-2.19],0.865595863033825,trans

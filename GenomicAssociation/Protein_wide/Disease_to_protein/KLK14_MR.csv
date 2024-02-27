@@ -1,0 +1,17 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+KLK14,Kallikrein-14,Chapter XIV Diseases of the genitourinary system,N14_CHRONKIDNEYDIS,Wald ratio,1,1.12 [1.05-1.2],0.00126838224974796,trans
+KLK14,Kallikrein-14,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_CONDITION,Wald ratio,1,1.37 [1.01-1.84],0.0403837193078396,trans
+KLK14,Kallikrein-14,Chapter XIV Diseases of the genitourinary system,N14_DIALYSIS,Inverse variance weighted,4,0.95 [0.9-1],0.0631388807443674,trans
+KLK14,Kallikrein-14,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_OTHERANAEMIA,Wald ratio,1,1.21 [0.99-1.48],0.0656803929332393,trans
+KLK14,Kallikrein-14,Chapter X Diseases of the respiratory system,J10_INFLUPNEU,Inverse variance weighted,3,1.18 [0.97-1.44],0.0943921125305148,trans
+KLK14,Kallikrein-14,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_BLOOD_IMMUN,Wald ratio,1,1.25 [0.93-1.67],0.141295844254998,trans
+KLK14,Kallikrein-14,Chapter III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D3_ANAEMIANAS,Inverse variance weighted,4,1.08 [0.96-1.22],0.180114602465274,trans
+KLK14,Kallikrein-14,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_DM2NOCOMP,Inverse variance weighted,69,0.99 [0.96-1.01],0.35570932179999,trans
+KLK14,Kallikrein-14,Chapter V Mental and behavioural disorders,SMOKING_DEPEND,Wald ratio,1,0.97 [0.89-1.04],0.379787976406407,trans
+KLK14,Kallikrein-14,Chapter IX Diseases of the circulatory system,I9_HEARTFAIL,Inverse variance weighted,4,1.04 [0.94-1.15],0.434819098976178,trans
+KLK14,Kallikrein-14,Chapter XIV Diseases of the genitourinary system,N14_RENALTUB,Wald ratio,1,1.1 [0.82-1.46],0.528949534541568,trans
+KLK14,Kallikrein-14,Chapter X Diseases of the respiratory system,J10_INTERSTITIUM,Inverse variance weighted,4,1.02 [0.96-1.08],0.54715468453288,trans
+KLK14,Kallikrein-14,Chapter I Certain infectious and parasitic diseases,AB1_SEPSIS_IMPLICIT,Wald ratio,1,0.97 [0.76-1.22],0.770166949121813,trans
+KLK14,Kallikrein-14,"Chapter IV Endocrine, nutritional and metabolic diseases",DM_NEPHROPATHY_EXMORE,Inverse variance weighted,5,1.01 [0.94-1.08],0.856247706823497,trans
+KLK14,Kallikrein-14,Chapter X Diseases of the respiratory system,J10_PNEUMONAS,Wald ratio,1,0.99 [0.8-1.22],0.903745115172503,trans
+KLK14,Kallikrein-14,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_ACIDOSIS,Wald ratio,1,1 [0.97-1.03],0.953509715706201,trans

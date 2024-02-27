@@ -1,0 +1,15 @@
+Protein,Protein_definition,Disease_category,Disease,method,nsnp,OR [95% CI],Pvalue,QTL_type
+HEPACAM2,HEPACAM family member 2,Chapter IX Diseases of the circulatory system,I9_CORATHER,Wald ratio,1,2.03 [0.89-4.65],0.0940363860895117,cis
+HEPACAM2,HEPACAM family member 2,Chapter IX Diseases of the circulatory system,I9_IHD,Wald ratio,1,1.33 [0.65-2.75],0.435262780629993,cis
+HEPACAM2,HEPACAM family member 2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Wald ratio,1,0.74 [0.32-1.68],0.466231542835154,cis
+HEPACAM2,HEPACAM family member 2,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Wald ratio,1,0.23 [0-16.39],0.498501935117493,cis
+HEPACAM2,HEPACAM family member 2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERCHOL,Wald ratio,1,1.34 [0.5-3.57],0.563001881819043,cis
+HEPACAM2,HEPACAM family member 2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Wald ratio,1,0.82 [0.4-1.66],0.575361712243807,cis
+HEPACAM2,HEPACAM family member 2,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Wald ratio,1,0.65 [0.02-19.64],0.802347419605482,cis
+HEPACAM2,HEPACAM family member 2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_METABOLIA,Inverse variance weighted,69,0.98 [0.96-1],0.0832368346098917,trans
+HEPACAM2,HEPACAM family member 2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_LIPOPROT,Inverse variance weighted,69,0.98 [0.95-1.01],0.160552266871484,trans
+HEPACAM2,HEPACAM family member 2,"Chapter IV Endocrine, nutritional and metabolic diseases",E4_HYPERCHOL,Inverse variance weighted,69,0.98 [0.95-1.01],0.277531246449223,trans
+HEPACAM2,HEPACAM family member 2,Chapter IX Diseases of the circulatory system,I9_IHD,Inverse variance weighted,69,1.01 [0.98-1.03],0.614967860696716,trans
+HEPACAM2,HEPACAM family member 2,Chapter XI Diseases of the digestive system,CHIRHEP_NAS,Inverse variance weighted,69,1.02 [0.91-1.15],0.736150989299106,trans
+HEPACAM2,HEPACAM family member 2,Chapter XI Diseases of the digestive system,K11_FIBROCHIRLIV,Inverse variance weighted,69,1.01 [0.92-1.1],0.895549494869289,trans
+HEPACAM2,HEPACAM family member 2,Chapter IX Diseases of the circulatory system,I9_CORATHER,Inverse variance weighted,69,1 [0.97-1.03],0.913553538591411,trans
